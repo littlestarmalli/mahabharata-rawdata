@@ -1,0 +1,4453 @@
+{
+  "@abhibhu": {
+    "Name": "Abhibhu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kashi",
+    "Dynasty": "Kashi"
+  },
+  "@abhimanyu": {
+    "Name": "Abhimanyu",
+    "Alias_names": [
+      "Soubhadra"
+    ],
+    "Gender": "Male",
+    "Father": "@arjuna",
+    "Mother": "@subhadra",
+    "Spouse": [
+      {
+        "@uttaraa": {
+          "Relation": "Wife",
+          "Children": [
+            "@parikshit"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@adhiratha": {
+    "Name": "Adhiratha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@radha": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Suta",
+    "Duty": "Charioteer"
+  },
+  "@aditi": {
+    "Name": "Aditi",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Caste": "Deva",
+    "Duty": "Mother of gods"
+  },
+  "@agastya": {
+    "Name": "Agastya",
+    "Alias_names": [
+      "Agasti"
+    ],
+    "Gender": "Male",
+    "Father": "@mitra",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@agni": {
+    "Name": "Agni",
+    "Alias_names": [
+      "Hutashana",
+      "Pavaka",
+      "fire-god"
+    ],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Fire god",
+    "Status": "Immortal"
+  },
+  "@ahuka": {
+    "Name": "Ahuka",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@airavata": {
+    "Name": "Airavata",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ajamidha": {
+    "Name": "Ajamidha",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@akritavarna": {
+    "Name": "Akritavarna",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@alarka": {
+    "Name": "Alarka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@amba": {
+    "Name": "Amba",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Caste": "Kshatriya",
+    "Duty": "Princess"
+  },
+  "@ambalika": {
+    "Name": "Ambalika",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vichitravirya": {
+          "Relation": "Husband",
+          "Children": [
+            "@pandu"
+          ]
+        }
+      },
+      {
+        "@vyasa": {
+          "Relation": "Niyoga",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru"
+  },
+  "@ambarisha": {
+    "Name": "Ambarisha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@nabhaga",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ambashtha": {
+    "Name": "Ambashtha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ambika": {
+    "Name": "Ambika",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vichitravirya": {
+          "Relation": "Husband",
+          "Children": [
+            "@dhritarashtra"
+          ]
+        }
+      },
+      {
+        "@vyasa": {
+          "Relation": "Niyoga",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru"
+  },
+  "@amurtarayas": {
+    "Name": "Amurtarayas",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@gaya"
+    ]
+  },
+  "@ananta": {
+    "Name": "Ananta",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@krishna"
+  },
+  "@anga": {
+    "Name": "Anga",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@angiras": {
+    "Name": "Angiras",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@brihaspati",
+      "@utathya",
+      "@sarasvata"
+    ]
+  },
+  "@angirasa": {
+    "Name": "Angirasa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@sudhanva",
+      "@brihasapati"
+    ]
+  },
+  "@aniruddha": {
+    "Name": "Aniruddha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@anjana": {
+    "Name": "Anjana",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Children": [
+      "@hanuman"
+    ],
+    "Caste": "Vanara"
+  },
+  "@anjanaparva": {
+    "Name": "Anjanaparva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@bhima"
+  },
+  "@anshuman": {
+    "Name": "Anshuman",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@asamanja",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@apava": {
+    "Name": "Apava",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@arishtanemi": {
+    "Name": "Arishtanemi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@arjuna": {
+    "Name": "Arjuna",
+    "Alias_names": [
+      "Bibhatsu",
+      "Dhananjaya",
+      "Gandivadhanva",
+      "Gudakesha",
+      "Jishnu",
+      "Kaunteya",
+      "Kiriti",
+      "Kounteya",
+      "Partha",
+      "Phalguna",
+      "Savyasachi",
+      "Shvetavahana",
+      "Vijaya"
+    ],
+    "Gender": "Male",
+    "Father": "@pandu",
+    "Mother": "@kunti",
+    "Siblings": [
+      "@bhima",
+      "@nakula",
+      "@sahadeva",
+      "@yudhishthira"
+    ],
+    "Spouse": [
+      {
+        "@draupadi": {
+          "Relation": "Wife",
+          "Children": [
+            "@sutasoma"
+          ]
+        }
+      },
+      {
+        "@subhadra": {
+          "Relation": "Wife",
+          "Children": [
+            "@abhimanyu"
+          ]
+        }
+      },
+      {
+        "@ulupi": {
+          "Relation": "Wife",
+          "Children": [
+            "@iravan"
+          ]
+        }
+      },
+      {
+        "@chitrangada_manipura": {
+          "Relation": "Wife",
+          "Children": [
+            "@babhruvahana"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Alive"
+  },
+  "@aruna": {
+    "Name": "Aruna",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vinata"
+  },
+  "@arya": {
+    "Name": "Arya",
+    "Alias_names": [],
+    "Gender": "Female"
+  },
+  "@asamanja": {
+    "Name": "Asamanja",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@anshuman"
+    ]
+  },
+  "@ashmaka": {
+    "Name": "Ashmaka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@ashtaka": {
+    "Name": "Ashtaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@koushika",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ashtavakra": {
+    "Name": "Ashtavakra",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kahoda",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@ashvapati": {
+    "Name": "Ashvapati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@diti"
+  },
+  "@ashvasena": {
+    "Name": "Ashvasena",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@ashvatthama": {
+    "Name": "Ashvatthama",
+    "Alias_names": [
+      "Dronaputra"
+    ],
+    "Gender": "Male",
+    "Father": "@drona",
+    "Mother": "@kripi",
+    "Caste": "Brahmin",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Immortal"
+  },
+  "@ashvins": {
+    "Name": "Ashvins",
+    "Alias_names": [
+      "Ashwini Kumaras",
+      "Dasra",
+      "Nasatya"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@madri": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "Divine physicians",
+    "Status": "Immortal"
+  },
+  "@astika": {
+    "Name": "Astika",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@atri": {
+    "Name": "Atri",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@avanti": {
+    "Name": "Avanti",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@avikshit": {
+    "Name": "Avikshit",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@marutta"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ayu": {
+    "Name": "Ayu",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@ayusha": {
+    "Name": "Ayusha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@nahusha"
+    ]
+  },
+  "@babhru": {
+    "Name": "Babhru",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Dynasty": "Kashi"
+  },
+  "@babhruvahana": {
+    "Name": "Babhruvahana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@arjuna",
+    "Mother": "@chitrangada_manipura",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@bahlika": {
+    "Name": "Bahlika",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@baka": {
+    "Name": "Baka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@bala": {
+    "Name": "Bala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@balarama": {
+    "Name": "Balarama",
+    "Alias_names": [
+      "Baladeva",
+      "Haladhara",
+      "Halayudhu",
+      "Sankarshana"
+    ],
+    "Gender": "Male",
+    "Father": "@vasudeva_father",
+    "Mother": "@rohini",
+    "Siblings": [
+      "@krishna",
+      "@subhadra"
+    ],
+    "Spouse": [
+      {
+        "@revati": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Yadava",
+    "Status": "Deceased"
+  },
+  "@bali": {
+    "Name": "Bali",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@virochana",
+    "Children": [
+      "@bana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@bana": {
+    "Name": "Bana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@bali"
+  },
+  "@banasura": {
+    "Name": "Banasura",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@bhadra": {
+    "Name": "Bhadra",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@kakshivat",
+    "Caste": "Kshatriya",
+    "Duty": "Queen"
+  },
+  "@bhagadatta": {
+    "Name": "Bhagadatta",
+    "Alias_names": [
+      "king of Pragjyotisha"
+    ],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Pragjyotisha",
+    "Status": "Deceased"
+  },
+  "@bhagiratha": {
+    "Name": "Bhagiratha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Ikshvaku"
+  },
+  "@bhangasvari": {
+    "Name": "Bhangasvari",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@bhanu": {
+    "Name": "Bhanu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@krishna"
+  },
+  "@bhanumati": {
+    "Name": "Bhanumati",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@duryodhana": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru"
+  },
+  "@bharadvaja": {
+    "Name": "Bharadvaja",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@drona"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@bhima": {
+    "Name": "Bhima",
+    "Alias_names": [
+      "Bhimasena",
+      "Vrikodara"
+    ],
+    "Gender": "Male",
+    "Father": "@pandu",
+    "Mother": "@kunti",
+    "Siblings": [
+      "@arjuna",
+      "@nakula",
+      "@sahadeva",
+      "@yudhishthira"
+    ],
+    "Spouse": [
+      {
+        "@draupadi": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      },
+      {
+        "@hidimba": {
+          "Relation": "Gandharva marriage",
+          "Children": [
+            "@ghatotkacha"
+          ]
+        }
+      }
+    ],
+    "Children": [
+      "@anjanaparva"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Alive"
+  },
+  "@bhima_vidarbha": {
+    "Name": "Bhima_vidarbha",
+    "Alias_names": [
+      "king of Vidarbha"
+    ],
+    "Gender": "Male",
+    "Children": [
+      "@damayanti"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Vidarbha"
+  },
+  "@bhishma": {
+    "Name": "Bhishma",
+    "Alias_names": [
+      "Bhisma",
+      "Devavrata",
+      "Gangeya",
+      "Shantanava"
+    ],
+    "Gender": "Male",
+    "Father": "@shantanu",
+    "Mother": "@ganga",
+    "Caste": "Kshatriya",
+    "Duty": "Regent",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@bhishmaka": {
+    "Name": "Bhishmaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@rukmini"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Vidarbha"
+  },
+  "@bhoja": {
+    "Name": "Bhoja",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@bhouma": {
+    "Name": "Bhouma",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@bhrigu": {
+    "Name": "Bhrigu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@chyavana"
+    ]
+  },
+  "@bhuridyumna": {
+    "Name": "Bhuridyumna",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@bhurishrava": {
+    "Name": "Bhurishrava",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@somadatta",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Status": "Deceased"
+  },
+  "@brahma": {
+    "Name": "Brahma",
+    "Alias_names": [
+      "Pitamaha",
+      "Prajapati",
+      "creator"
+    ],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Creator",
+    "Status": "Immortal"
+  },
+  "@brahmadatta": {
+    "Name": "Brahmadatta",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@nipa",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@brihadashva": {
+    "Name": "Brihadashva",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@brihadbala": {
+    "Name": "Brihadbala",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kosala",
+    "Status": "Deceased"
+  },
+  "@brihadratha": {
+    "Name": "Brihadratha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@jarasandha"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Magadha",
+    "Status": "Deceased"
+  },
+  "@brihadurjas": {
+    "Name": "Brihadurjas",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@pranidhi"
+    ]
+  },
+  "@brihannada": {
+    "Name": "Brihannada",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@brihasapati": {
+    "Name": "Brihasapati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@angirasa"
+  },
+  "@brihaspati": {
+    "Name": "Brihaspati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@angiras"
+  },
+  "@brihattara": {
+    "Name": "Brihattara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kashyapa"
+  },
+  "@budha": {
+    "Name": "Budha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@chedi": {
+    "Name": "Chedi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@chekitana": {
+    "Name": "Chekitana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Chedi"
+  },
+  "@chitrangada_kuru": {
+    "Name": "Chitrangada_kuru",
+    "Alias_names": [
+      "Chitrangada"
+    ],
+    "Gender": "Male",
+    "Father": "@shantanu",
+    "Mother": "@satyavati",
+    "Siblings": [
+      "@vichitravirya"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@chitrangada_manipura": {
+    "Name": "Chitrangada_manipura",
+    "Alias_names": [
+      "Chitrangada"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@arjuna": {
+          "Relation": "Husband",
+          "Children": [
+            "@babhruvahana"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Princess",
+    "Dynasty": "Manipura"
+  },
+  "@chitrasena_gandharva": {
+    "Name": "Chitrasena_gandharva",
+    "Alias_names": [
+      "Chitrasena",
+      "gandharva king"
+    ],
+    "Gender": "Male",
+    "Children": [
+      "@shashabindu"
+    ],
+    "Caste": "Gandharva",
+    "Duty": "King"
+  },
+  "@chitrasena_kaurava": {
+    "Name": "Chitrasena_kaurava",
+    "Alias_names": [
+      "Chitrasena"
+    ],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@chitravahana": {
+    "Name": "Chitravahana",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@chyavana": {
+    "Name": "Chyavana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@bhrigu",
+    "Children": [
+      "@ourva"
+    ]
+  },
+  "@daksha": {
+    "Name": "Daksha",
+    "Alias_names": [
+      "Prajapati"
+    ],
+    "Gender": "Male",
+    "Father": "@prachetas",
+    "Caste": "Deva",
+    "Duty": "Prajapati"
+  },
+  "@damayanti": {
+    "Name": "Damayanti",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@bhima_vidarbha",
+    "Spouse": [
+      {
+        "@nala": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Vidarbha"
+  },
+  "@daruka": {
+    "Name": "Daruka",
+    "Alias_names": [
+      "Krishna's charioteer"
+    ],
+    "Gender": "Male",
+    "Duty": "Charioteer",
+    "Dynasty": "Yadava"
+  },
+  "@dasharatha": {
+    "Name": "Dasharatha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@devabhaga": {
+    "Name": "Devabhaga",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@devaki": {
+    "Name": "Devaki",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vasudeva_father": {
+          "Relation": "Husband",
+          "Children": [
+            "@krishna"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Yadava"
+  },
+  "@devala": {
+    "Name": "Devala",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@devamata": {
+    "Name": "Devamata",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@devarakshita": {
+    "Name": "Devarakshita",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@devasena": {
+    "Name": "Devasena",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@devasthana": {
+    "Name": "Devasthana",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@devayani": {
+    "Name": "Devayani",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@dhata": {
+    "Name": "Dhata",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@dhoumya": {
+    "Name": "Dhoumya",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@dhrishtadyumna": {
+    "Name": "Dhrishtadyumna",
+    "Alias_names": [
+      "Panchala prince"
+    ],
+    "Gender": "Male",
+    "Father": "@drupada",
+    "Siblings": [
+      "@draupadi",
+      "@shikhandi"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Commander",
+    "Dynasty": "Panchala",
+    "Status": "Deceased"
+  },
+  "@dhrishtaketu": {
+    "Name": "Dhrishtaketu",
+    "Alias_names": [
+      "king of Chedi"
+    ],
+    "Gender": "Male",
+    "Father": "@shishupala",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Chedi",
+    "Status": "Deceased"
+  },
+  "@dhritarashtra": {
+    "Name": "Dhritarashtra",
+    "Alias_names": [
+      "Dhritarasthra",
+      "Dhritrarashtra",
+      "Dhritrashtra",
+      "Dritarashtra"
+    ],
+    "Gender": "Male",
+    "Father": "@vichitravirya",
+    "Mother": "@ambika",
+    "Siblings": [
+      "@pandu",
+      "@vidura"
+    ],
+    "Spouse": [
+      {
+        "@gandhari": {
+          "Relation": "Wife",
+          "Children": [
+            "@duryodhana",
+            "@duhshasana",
+            "@vikarna",
+            "@vivimshati",
+            "@durmukha",
+            "@chitrasena_kaurava",
+            "@duhshala"
+          ]
+        }
+      },
+      {
+        "@sughada": {
+          "Relation": "Concubine",
+          "Children": [
+            "@yuyutsu"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@dhundhu": {
+    "Name": "Dhundhu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@madhu"
+  },
+  "@dilipa": {
+    "Name": "Dilipa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ilavila",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@dirghatama": {
+    "Name": "Dirghatama",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@diti": {
+    "Name": "Diti",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ashvapati"
+    ]
+  },
+  "@draupadi": {
+    "Name": "Draupadi",
+    "Alias_names": [
+      "Droupadi",
+      "Krishnaa",
+      "Panchali",
+      "Yajnaseni"
+    ],
+    "Gender": "Female",
+    "Father": "@drupada",
+    "Siblings": [
+      "@dhrishtadyumna",
+      "@shikhandi"
+    ],
+    "Spouse": [
+      {
+        "@yudhishthira": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      },
+      {
+        "@bhima": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      },
+      {
+        "@arjuna": {
+          "Relation": "Husband",
+          "Children": [
+            "@sutasoma"
+          ]
+        }
+      },
+      {
+        "@nakula": {
+          "Relation": "Husband",
+          "Children": [
+            "@shatanika"
+          ]
+        }
+      },
+      {
+        "@sahadeva": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Panchala"
+  },
+  "@drona": {
+    "Name": "Drona",
+    "Alias_names": [
+      "Dronacharya",
+      "acharya",
+      "preceptor"
+    ],
+    "Gender": "Male",
+    "Father": "@bharadvaja",
+    "Spouse": [
+      {
+        "@kripi": {
+          "Relation": "Wife",
+          "Children": [
+            "@ashvatthama"
+          ]
+        }
+      }
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Teacher",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@drupada": {
+    "Name": "Drupada",
+    "Alias_names": [
+      "Parshata",
+      "Yajnasena"
+    ],
+    "Gender": "Male",
+    "Father": "@prishata",
+    "Children": [
+      "@draupadi",
+      "@dhrishtadyumna",
+      "@shikhandi",
+      "@satyajit"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Panchala",
+    "Status": "Deceased"
+  },
+  "@duhshala": {
+    "Name": "Duhshala",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Spouse": [
+      {
+        "@jayadratha": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Princess",
+    "Dynasty": "Kuru"
+  },
+  "@duhshanta": {
+    "Name": "Duhshanta",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@duhshasana": {
+    "Name": "Duhshasana",
+    "Alias_names": [
+      "Duhshaasana"
+    ],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshala",
+      "@durmukha",
+      "@duryodhana",
+      "@vikarna",
+      "@vivimshati"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@durmukha": {
+    "Name": "Durmukha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@duryodhana": {
+    "Name": "Duryodhana",
+    "Alias_names": [
+      "Kourava",
+      "Suyodhana"
+    ],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@chitrasena_kaurava",
+      "@duhshala",
+      "@duhshasana",
+      "@durmukha",
+      "@vikarna",
+      "@vivimshati",
+      "@yuyutsu"
+    ],
+    "Spouse": [
+      {
+        "@bhanumati": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@lakshmana_kaurava"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@dushyanta": {
+    "Name": "Dushyanta",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@dvaraka": {
+    "Name": "Dvaraka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@ekalavya": {
+    "Name": "Ekalavya",
+    "Alias_names": [
+      "Nishada prince"
+    ],
+    "Gender": "Male",
+    "Caste": "Nishada",
+    "Duty": "Warrior",
+    "Dynasty": "Nishadha"
+  },
+  "@elapatra": {
+    "Name": "Elapatra",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@gadhi": {
+    "Name": "Gadhi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@vishvamitra"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@galava": {
+    "Name": "Galava",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@gandhamadana": {
+    "Name": "Gandhamadana",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@gandhara": {
+    "Name": "Gandhara",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@gandhari": {
+    "Name": "Gandhari",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@subala",
+    "Spouse": [
+      {
+        "@dhritarashtra": {
+          "Relation": "Husband",
+          "Children": [
+            "@duryodhana",
+            "@duhshasana",
+            "@vikarna",
+            "@vivimshati",
+            "@durmukha",
+            "@chitrasena_kaurava",
+            "@duhshala"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@ganga": {
+    "Name": "Ganga",
+    "Alias_names": [
+      "Bhagirathi",
+      "Jahnavi"
+    ],
+    "Gender": "Female",
+    "Father": "@jahnu",
+    "Spouse": [
+      {
+        "@shantanu": {
+          "Relation": "Husband",
+          "Children": [
+            "@bhishma"
+          ]
+        }
+      }
+    ],
+    "Duty": "River goddess",
+    "Status": "Immortal"
+  },
+  "@garga": {
+    "Name": "Garga",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@gargya": {
+    "Name": "Gargya",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@garuda": {
+    "Name": "Garuda",
+    "Alias_names": [
+      "Suparna"
+    ],
+    "Gender": "Male",
+    "Mother": "@vinata",
+    "Duty": "Mount of Vishnu"
+  },
+  "@gavalgana": {
+    "Name": "Gavalgana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@sanjaya"
+    ],
+    "Caste": "Suta"
+  },
+  "@gaya": {
+    "Name": "Gaya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@amurtarayas",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ghatotkacha": {
+    "Name": "Ghatotkacha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@bhima",
+    "Mother": "@hidimba",
+    "Caste": "Rakshasa",
+    "Duty": "Warrior",
+    "Status": "Deceased"
+  },
+  "@girika": {
+    "Name": "Girika",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vasu": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ]
+  },
+  "@gopati": {
+    "Name": "Gopati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@panchala"
+    ]
+  },
+  "@gouramukha": {
+    "Name": "Gouramukha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@hanuman": {
+    "Name": "Hanuman",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vayu",
+    "Mother": "@anjana",
+    "Caste": "Vanara",
+    "Duty": "Warrior",
+    "Status": "Immortal"
+  },
+  "@harimedha": {
+    "Name": "Harimedha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@haryashva": {
+    "Name": "Haryashva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@hastinapura": {
+    "Name": "Hastinapura",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@hidimba": {
+    "Name": "Hidimba",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@bhima": {
+          "Relation": "Gandharva marriage",
+          "Children": [
+            "@ghatotkacha"
+          ]
+        }
+      }
+    ],
+    "Caste": "Rakshasa"
+  },
+  "@hidimbaa": {
+    "Name": "Hidimbaa",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@hiranyakashipu": {
+    "Name": "Hiranyakashipu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kashyapa",
+    "Children": [
+      "@prahlada"
+    ],
+    "Caste": "Daitya",
+    "Duty": "King",
+    "Status": "Deceased"
+  },
+  "@hiranyavarma": {
+    "Name": "Hiranyavarma",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@hotravahana": {
+    "Name": "Hotravahana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@hridika": {
+    "Name": "Hridika",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@kritavarma"
+    ],
+    "Caste": "Kshatriya",
+    "Dynasty": "Yadava"
+  },
+  "@ikshvaku": {
+    "Name": "Ikshvaku",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@manu",
+    "Children": [
+      "@nriga",
+      "@trishanku"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ila": {
+    "Name": "Ila",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@manu",
+    "Children": [
+      "@pururava"
+    ]
+  },
+  "@ilavila": {
+    "Name": "Ilavila",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@dilipa"
+    ]
+  },
+  "@indra": {
+    "Name": "Indra",
+    "Alias_names": [
+      "Maghavan",
+      "Purandara",
+      "Shakra",
+      "Shatakratu",
+      "Vasava",
+      "king of the gods",
+      "lord of the gods"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@kunti": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@ulupi",
+      "@vali"
+    ],
+    "Caste": "Deva",
+    "Duty": "King of gods",
+    "Status": "Immortal"
+  },
+  "@indrota": {
+    "Name": "Indrota",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shunaka"
+  },
+  "@iravan": {
+    "Name": "Iravan",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@arjuna",
+    "Mother": "@ulupi",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Status": "Deceased"
+  },
+  "@jahnu": {
+    "Name": "Jahnu",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@ganga"
+    ]
+  },
+  "@jajali": {
+    "Name": "Jajali",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@jalasandha": {
+    "Name": "Jalasandha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@jamadagni": {
+    "Name": "Jamadagni",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@richika",
+    "Children": [
+      "@parashurama"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@jambavan": {
+    "Name": "Jambavan",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@jambavati"
+    ]
+  },
+  "@jambavati": {
+    "Name": "Jambavati",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@jambavan",
+    "Spouse": [
+      {
+        "@krishna": {
+          "Relation": "Husband",
+          "Children": [
+            "@samba"
+          ]
+        }
+      }
+    ],
+    "Duty": "Queen",
+    "Dynasty": "Yadava"
+  },
+  "@janaka": {
+    "Name": "Janaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Videha"
+  },
+  "@janamejaya": {
+    "Name": "Janamejaya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@parikshit",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru"
+  },
+  "@jarasandha": {
+    "Name": "Jarasandha",
+    "Alias_names": [
+      "king of Magadha"
+    ],
+    "Gender": "Male",
+    "Father": "@brihadratha",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Magadha",
+    "Status": "Deceased"
+  },
+  "@jaratkaru": {
+    "Name": "Jaratkaru",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@jarita": {
+    "Name": "Jarita",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@jaritari": {
+    "Name": "Jaritari",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@jatasura": {
+    "Name": "Jatasura",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@jaya": {
+    "Name": "Jaya",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@jayadratha": {
+    "Name": "Jayadratha",
+    "Alias_names": [
+      "Saindhava",
+      "king of Sindhu"
+    ],
+    "Gender": "Male",
+    "Father": "@vriddhakshatra",
+    "Spouse": [
+      {
+        "@duhshala": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@suratha"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Sindhu",
+    "Status": "Deceased"
+  },
+  "@kadru": {
+    "Name": "Kadru",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Children": [
+      "@takshaka"
+    ]
+  },
+  "@kahoda": {
+    "Name": "Kahoda",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ashtavakra"
+    ]
+  },
+  "@kakshivat": {
+    "Name": "Kakshivat",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@bhadra"
+    ]
+  },
+  "@kakutstha": {
+    "Name": "Kakutstha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kalinda": {
+    "Name": "Kalinda",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kalinga": {
+    "Name": "Kalinga",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kalmashapada": {
+    "Name": "Kalmashapada",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@kamboja": {
+    "Name": "Kamboja",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kamsa": {
+    "Name": "Kamsa",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Dynasty": "Bhoja"
+  },
+  "@kanva": {
+    "Name": "Kanva",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kapila": {
+    "Name": "Kapila",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@panchashikha"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@karandhama": {
+    "Name": "Karandhama",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@kardama": {
+    "Name": "Kardama",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@karna": {
+    "Name": "Karna",
+    "Alias_names": [
+      "Anga-raja",
+      "Radheya",
+      "Vaikartana",
+      "Vasusena",
+      "Vrisha"
+    ],
+    "Gender": "Male",
+    "Father": "@surya",
+    "Mother": "@kunti",
+    "Spouse": [
+      {
+        "@vrushali": {
+          "Relation": "Wife",
+          "Children": [
+            "@vrishasena",
+            "@vrishaketu"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Anga",
+    "Status": "Deceased"
+  },
+  "@kartikeya": {
+    "Name": "Kartikeya",
+    "Alias_names": [
+      "Kumara",
+      "Skanda",
+      "Subrahmanya"
+    ],
+    "Gender": "Male",
+    "Father": "@shiva",
+    "Mother": "@parvati",
+    "Caste": "Deva",
+    "Duty": "God of war",
+    "Status": "Immortal"
+  },
+  "@kashi": {
+    "Name": "Kashi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@abhibhu"
+    ]
+  },
+  "@kashyapa": {
+    "Name": "Kashyapa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@maricha",
+    "Children": [
+      "@hiranyakashipu",
+      "@brihattara"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@kavi": {
+    "Name": "Kavi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ushanas"
+    ]
+  },
+  "@kekaya": {
+    "Name": "Kekaya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@vishoka",
+      "@sunanda"
+    ],
+    "Dynasty": "Kashi"
+  },
+  "@khandava": {
+    "Name": "Khandava",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kichaka": {
+    "Name": "Kichaka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kotikashya": {
+    "Name": "Kotikashya",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@koushika": {
+    "Name": "Koushika",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ashtaka"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@kratha": {
+    "Name": "Kratha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kripa": {
+    "Name": "Kripa",
+    "Alias_names": [
+      "Goutama",
+      "Kripacharya",
+      "Sharadvata"
+    ],
+    "Gender": "Male",
+    "Father": "@sharadvat",
+    "Siblings": [
+      "@kripi"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Teacher",
+    "Dynasty": "Kuru",
+    "Status": "Immortal"
+  },
+  "@kripi": {
+    "Name": "Kripi",
+    "Alias_names": [
+      "Sharadvati"
+    ],
+    "Gender": "Female",
+    "Father": "@sharadvat",
+    "Siblings": [
+      "@kripa"
+    ],
+    "Spouse": [
+      {
+        "@drona": {
+          "Relation": "Husband",
+          "Children": [
+            "@ashvatthama"
+          ]
+        }
+      }
+    ],
+    "Caste": "Brahmin"
+  },
+  "@krishna": {
+    "Name": "Krishna",
+    "Alias_names": [
+      "Achyuta",
+      "Bhagavan",
+      "Damodara",
+      "Dasharha",
+      "Govinda",
+      "Hari",
+      "Hrishikesha",
+      "Janardana",
+      "Keshava",
+      "Krisha",
+      "Madhava",
+      "Madhusudana",
+      "Pundarikaksha",
+      "Purushottama",
+      "Shouri",
+      "Vaasudeva",
+      "Varshneya",
+      "Vasudeva",
+      "Vrishni"
+    ],
+    "Gender": "Male",
+    "Father": "@vasudeva_father",
+    "Mother": "@devaki",
+    "Siblings": [
+      "@balarama",
+      "@subhadra"
+    ],
+    "Spouse": [
+      {
+        "@rukmini": {
+          "Relation": "Wife",
+          "Children": [
+            "@pradyumna"
+          ]
+        }
+      },
+      {
+        "@satyabhama": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      },
+      {
+        "@jambavati": {
+          "Relation": "Wife",
+          "Children": [
+            "@samba"
+          ]
+        }
+      }
+    ],
+    "Children": [
+      "@bhanu",
+      "@ananta",
+      "@sanpriya"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Yadava",
+    "Status": "Deceased"
+  },
+  "@kritavarma": {
+    "Name": "Kritavarma",
+    "Alias_names": [
+      "Hardikya"
+    ],
+    "Gender": "Male",
+    "Father": "@hridika",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Yadava"
+  },
+  "@krodha": {
+    "Name": "Krodha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kubera": {
+    "Name": "Kubera",
+    "Alias_names": [
+      "Dhanada",
+      "Vaishravana",
+      "god of wealth"
+    ],
+    "Gender": "Male",
+    "Father": "@vishrava",
+    "Caste": "Deva",
+    "Duty": "God of wealth",
+    "Status": "Immortal"
+  },
+  "@kunti": {
+    "Name": "Kunti",
+    "Alias_names": [
+      "Pritha"
+    ],
+    "Gender": "Female",
+    "Father": "@shurasena",
+    "Spouse": [
+      {
+        "@pandu": {
+          "Relation": "Husband",
+          "Children": [
+            "@yudhishthira",
+            "@bhima",
+            "@arjuna"
+          ]
+        }
+      },
+      {
+        "@surya": {
+          "Relation": "Divine boon",
+          "Children": [
+            "@karna"
+          ]
+        }
+      },
+      {
+        "@yama": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      },
+      {
+        "@vayu": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      },
+      {
+        "@indra": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@kuntibhoja": {
+    "Name": "Kuntibhoja",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@kuru": {
+    "Name": "Kuru",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@kurukshetra": {
+    "Name": "Kurukshetra",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@kuvalashva": {
+    "Name": "Kuvalashva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@lakshmana_kaurava": {
+    "Name": "Lakshmana_kaurava",
+    "Alias_names": [
+      "Lakshmana"
+    ],
+    "Gender": "Male",
+    "Father": "@duryodhana",
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@lakshmi": {
+    "Name": "Lakshmi",
+    "Alias_names": [
+      "Shri"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vishnu": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "Goddess of fortune",
+    "Status": "Immortal"
+  },
+  "@lomaharshana": {
+    "Name": "Lomaharshana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ugrasrava",
+      "@ugrashrava"
+    ],
+    "Caste": "Suta",
+    "Duty": "Narrator"
+  },
+  "@lomasha": {
+    "Name": "Lomasha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@madhu": {
+    "Name": "Madhu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@dhundhu"
+    ]
+  },
+  "@madra": {
+    "Name": "Madra",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@madravati": {
+    "Name": "Madravati",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@madri": {
+    "Name": "Madri",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@pandu": {
+          "Relation": "Husband",
+          "Children": [
+            "@nakula",
+            "@sahadeva"
+          ]
+        }
+      },
+      {
+        "@ashvins": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@magadha": {
+    "Name": "Magadha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@mahabhisha": {
+    "Name": "Mahabhisha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@mandapala": {
+    "Name": "Mandapala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@mandhata": {
+    "Name": "Mandhata",
+    "Alias_names": [
+      "Mandhatar"
+    ],
+    "Gender": "Male",
+    "Father": "@yuvanashva",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Ikshvaku"
+  },
+  "@manu": {
+    "Name": "Manu",
+    "Alias_names": [
+      "Vaivasvata"
+    ],
+    "Gender": "Male",
+    "Father": "@prachetasa",
+    "Children": [
+      "@ila",
+      "@ikshvaku"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Progenitor"
+  },
+  "@maricha": {
+    "Name": "Maricha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@kashyapa"
+    ]
+  },
+  "@marichi": {
+    "Name": "Marichi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@markandeya": {
+    "Name": "Markandeya",
+    "Alias_names": [
+      "Yarkandeya"
+    ],
+    "Gender": "Unknown"
+  },
+  "@marut": {
+    "Name": "Marut",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@marutta": {
+    "Name": "Marutta",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@avikshit",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@matali": {
+    "Name": "Matali",
+    "Alias_names": [
+      "Indra's charioteer"
+    ],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Charioteer"
+  },
+  "@matanga": {
+    "Name": "Matanga",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@matsya": {
+    "Name": "Matsya",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@meru": {
+    "Name": "Meru",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@mithi": {
+    "Name": "Mithi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@mitra": {
+    "Name": "Mitra",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@agastya",
+      "@sumitra"
+    ]
+  },
+  "@muchukunda": {
+    "Name": "Muchukunda",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@mudgala": {
+    "Name": "Mudgala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@nabagha": {
+    "Name": "Nabagha",
+    "Alias_names": [],
+    "Gender": "Male"
+  },
+  "@nabhaga": {
+    "Name": "Nabhaga",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ambarisha"
+    ]
+  },
+  "@nahusha": {
+    "Name": "Nahusha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ayusha",
+    "Children": [
+      "@yayati"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@nakula": {
+    "Name": "Nakula",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@pandu",
+    "Mother": "@madri",
+    "Siblings": [
+      "@arjuna",
+      "@bhima",
+      "@sahadeva",
+      "@yudhishthira"
+    ],
+    "Spouse": [
+      {
+        "@draupadi": {
+          "Relation": "Wife",
+          "Children": [
+            "@shatanika"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Alive"
+  },
+  "@nala": {
+    "Name": "Nala",
+    "Alias_names": [
+      "Bahuka",
+      "Nishadha",
+      "Punyashloka",
+      "king of Nishadha"
+    ],
+    "Gender": "Male",
+    "Father": "@virasena",
+    "Spouse": [
+      {
+        "@damayanti": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Nishadha"
+  },
+  "@nara": {
+    "Name": "Nara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Sage"
+  },
+  "@narada": {
+    "Name": "Narada",
+    "Alias_names": [
+      "Devarshi",
+      "divine sage"
+    ],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Sage",
+    "Status": "Immortal"
+  },
+  "@naraka": {
+    "Name": "Naraka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@nila": {
+    "Name": "Nila",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@nipa": {
+    "Name": "Nipa",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@brahmadatta"
+    ]
+  },
+  "@nriga": {
+    "Name": "Nriga",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ikshvaku",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ourva": {
+    "Name": "Ourva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@chyavana",
+    "Children": [
+      "@richika"
+    ]
+  },
+  "@panchala": {
+    "Name": "Panchala",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@gopati",
+    "Children": [
+      "@viraketu"
+    ]
+  },
+  "@panchashikha": {
+    "Name": "Panchashikha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kapila"
+  },
+  "@pandu": {
+    "Name": "Pandu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vichitravirya",
+    "Mother": "@ambalika",
+    "Siblings": [
+      "@dhritarashtra",
+      "@vidura"
+    ],
+    "Spouse": [
+      {
+        "@kunti": {
+          "Relation": "Wife",
+          "Children": [
+            "@yudhishthira",
+            "@bhima",
+            "@arjuna"
+          ]
+        }
+      },
+      {
+        "@madri": {
+          "Relation": "Wife",
+          "Children": [
+            "@nakula",
+            "@sahadeva"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@parameshthi": {
+    "Name": "Parameshthi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@parashara": {
+    "Name": "Parashara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shakti",
+    "Spouse": [
+      {
+        "@satyavati": {
+          "Relation": "Pre-marital union",
+          "Children": [
+            "@vyasa"
+          ]
+        }
+      }
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@parashurama": {
+    "Name": "Parashurama",
+    "Alias_names": [
+      "Bhargava",
+      "Rama"
+    ],
+    "Gender": "Male",
+    "Father": "@jamadagni",
+    "Mother": "@renuka",
+    "Caste": "Brahmin",
+    "Duty": "Warrior sage",
+    "Status": "Immortal"
+  },
+  "@parikshit": {
+    "Name": "Parikshit",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@abhimanyu",
+    "Mother": "@uttaraa",
+    "Children": [
+      "@janamejaya"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru"
+  },
+  "@parvati": {
+    "Name": "Parvati",
+    "Alias_names": [
+      "Uma"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@shiva": {
+          "Relation": "Husband",
+          "Children": [
+            "@kartikeya"
+          ]
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "Goddess",
+    "Status": "Immortal"
+  },
+  "@patala": {
+    "Name": "Patala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@pingala": {
+    "Name": "Pingala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@pothika": {
+    "Name": "Pothika",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@pouloma": {
+    "Name": "Pouloma",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@prachetas": {
+    "Name": "Prachetas",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@daksha"
+    ]
+  },
+  "@prachetasa": {
+    "Name": "Prachetasa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@manu"
+    ]
+  },
+  "@pradyumna": {
+    "Name": "Pradyumna",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@krishna",
+    "Mother": "@rukmini",
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Yadava"
+  },
+  "@prahlada": {
+    "Name": "Prahlada",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@hiranyakashipu",
+    "Caste": "Daitya"
+  },
+  "@pramadvara": {
+    "Name": "Pramadvara",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@ruru": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ]
+  },
+  "@pramati": {
+    "Name": "Pramati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@ruru"
+    ]
+  },
+  "@pranidhi": {
+    "Name": "Pranidhi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@brihadurjas"
+  },
+  "@pratardana": {
+    "Name": "Pratardana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@pratipa": {
+    "Name": "Pratipa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@shantanu"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@prishata": {
+    "Name": "Prishata",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@drupada"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Panchala",
+    "Status": "Deceased"
+  },
+  "@prithu": {
+    "Name": "Prithu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vena",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@pulastya": {
+    "Name": "Pulastya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@vishrava",
+      "@vibhishana"
+    ]
+  },
+  "@puloma": {
+    "Name": "Puloma",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@puru": {
+    "Name": "Puru",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Dynasty": "Puru"
+  },
+  "@pururava": {
+    "Name": "Pururava",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ila",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@pushkara": {
+    "Name": "Pushkara",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@radha": {
+    "Name": "Radha",
+    "Alias_names": [
+      "Karna's foster mother"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@adhiratha": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Suta"
+  },
+  "@rantideva": {
+    "Name": "Rantideva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@samkriti",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ravana": {
+    "Name": "Ravana",
+    "Alias_names": [
+      "Rakshasa king",
+      "king of Lanka"
+    ],
+    "Gender": "Male",
+    "Caste": "Rakshasa",
+    "Duty": "King",
+    "Dynasty": "Lanka",
+    "Status": "Deceased"
+  },
+  "@renuka": {
+    "Name": "Renuka",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Children": [
+      "@parashurama"
+    ]
+  },
+  "@revati": {
+    "Name": "Revati",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@balarama": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Duty": "Queen",
+    "Dynasty": "Yadava"
+  },
+  "@richika": {
+    "Name": "Richika",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ourva",
+    "Children": [
+      "@jamadagni"
+    ]
+  },
+  "@riksha": {
+    "Name": "Riksha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@samvarana"
+    ]
+  },
+  "@rishyashringa": {
+    "Name": "Rishyashringa",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@rituparna": {
+    "Name": "Rituparna",
+    "Alias_names": [
+      "king of Ayodhya"
+    ],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Ikshvaku"
+  },
+  "@rohini": {
+    "Name": "Rohini",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@vasudeva_father": {
+          "Relation": "Husband",
+          "Children": [
+            "@balarama"
+          ]
+        }
+      },
+      {
+        "@surya": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Dynasty": "Yadava"
+  },
+  "@roushadashvi": {
+    "Name": "Roushadashvi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@vasumana"
+    ]
+  },
+  "@rukmaratha": {
+    "Name": "Rukmaratha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shalya"
+  },
+  "@rukmini": {
+    "Name": "Rukmini",
+    "Alias_names": [
+      "daughter of Bhishmaka"
+    ],
+    "Gender": "Female",
+    "Father": "@bhishmaka",
+    "Spouse": [
+      {
+        "@krishna": {
+          "Relation": "Husband",
+          "Children": [
+            "@pradyumna"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Yadava"
+  },
+  "@ruru": {
+    "Name": "Ruru",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@pramati",
+    "Spouse": [
+      {
+        "@pramadvara": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ]
+  },
+  "@sagara": {
+    "Name": "Sagara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Ikshvaku"
+  },
+  "@saha": {
+    "Name": "Saha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sahadeva": {
+    "Name": "Sahadeva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@pandu",
+    "Mother": "@madri",
+    "Siblings": [
+      "@arjuna",
+      "@bhima",
+      "@nakula",
+      "@yudhishthira"
+    ],
+    "Spouse": [
+      {
+        "@draupadi": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Kuru",
+    "Status": "Alive"
+  },
+  "@sairandhri": {
+    "Name": "Sairandhri",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@samayamani": {
+    "Name": "Samayamani",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@samba": {
+    "Name": "Samba",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@krishna",
+    "Mother": "@jambavati",
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Yadava"
+  },
+  "@samkriti": {
+    "Name": "Samkriti",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@rantideva"
+    ]
+  },
+  "@samvarana": {
+    "Name": "Samvarana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@riksha",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru"
+  },
+  "@samyamani": {
+    "Name": "Samyamani",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sanatsujata": {
+    "Name": "Sanatsujata",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sandipani": {
+    "Name": "Sandipani",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sanjaya": {
+    "Name": "Sanjaya",
+    "Alias_names": [
+      "Dhritarashtra's aide"
+    ],
+    "Gender": "Male",
+    "Father": "@gavalgana",
+    "Caste": "Suta",
+    "Duty": "Charioteer",
+    "Dynasty": "Kuru"
+  },
+  "@sankriti": {
+    "Name": "Sankriti",
+    "Alias_names": [],
+    "Gender": "Male"
+  },
+  "@sanpriya": {
+    "Name": "Sanpriya",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@krishna"
+  },
+  "@sarana": {
+    "Name": "Sarana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vasudeva_father"
+  },
+  "@sarasvata": {
+    "Name": "Sarasvata",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@angiras"
+  },
+  "@sarasvati": {
+    "Name": "Sarasvati",
+    "Alias_names": [
+      "goddess of learning"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@brahma": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "Goddess of learning",
+    "Status": "Immortal"
+  },
+  "@satyabhama": {
+    "Name": "Satyabhama",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@krishna": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Queen",
+    "Dynasty": "Yadava"
+  },
+  "@satyajit": {
+    "Name": "Satyajit",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@drupada",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@satyaki": {
+    "Name": "Satyaki",
+    "Alias_names": [
+      "Satvata",
+      "Yuyudhana"
+    ],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Yadava"
+  },
+  "@satyavan": {
+    "Name": "Satyavan",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@savitri": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya"
+  },
+  "@satyavat": {
+    "Name": "Satyavat",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@satyavati": {
+    "Name": "Satyavati",
+    "Alias_names": [
+      "Kali",
+      "Matsyagandha"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@shantanu": {
+          "Relation": "Husband",
+          "Children": [
+            "@vichitravirya",
+            "@chitrangada_kuru"
+          ]
+        }
+      },
+      {
+        "@parashara": {
+          "Relation": "Pre-marital union",
+          "Children": [
+            "@vyasa"
+          ]
+        }
+      }
+    ],
+    "Duty": "Queen",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@savita": {
+    "Name": "Savita",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@savitri": {
+    "Name": "Savitri",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@satyavan": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Princess"
+  },
+  "@senabindu": {
+    "Name": "Senabindu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shachi": {
+    "Name": "Shachi",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shaibya": {
+    "Name": "Shaibya",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Dynasty": "Govasana"
+  },
+  "@shakti": {
+    "Name": "Shakti",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@parashara"
+    ]
+  },
+  "@shakuni": {
+    "Name": "Shakuni",
+    "Alias_names": [
+      "Soubala"
+    ],
+    "Gender": "Male",
+    "Father": "@subala",
+    "Siblings": [
+      "@gandhari"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Gandhara",
+    "Status": "Deceased"
+  },
+  "@shakuntala": {
+    "Name": "Shakuntala",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shalva": {
+    "Name": "Shalva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shalya": {
+    "Name": "Shalya",
+    "Alias_names": [
+      "Madra king",
+      "king of Madra"
+    ],
+    "Gender": "Male",
+    "Siblings": [
+      "@madri"
+    ],
+    "Children": [
+      "@rukmaratha"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Madra",
+    "Status": "Deceased"
+  },
+  "@shamika": {
+    "Name": "Shamika",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@shringi"
+    ]
+  },
+  "@shantanu": {
+    "Name": "Shantanu",
+    "Alias_names": [
+      "king of Hastinapura"
+    ],
+    "Gender": "Male",
+    "Father": "@pratipa",
+    "Spouse": [
+      {
+        "@ganga": {
+          "Relation": "Wife",
+          "Children": [
+            "@bhishma"
+          ]
+        }
+      },
+      {
+        "@satyavati": {
+          "Relation": "Wife",
+          "Children": [
+            "@vichitravirya",
+            "@chitrangada_kuru"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@sharadvat": {
+    "Name": "Sharadvat",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@kripi",
+      "@kripa"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@sharmishtha": {
+    "Name": "Sharmishtha",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@vrishaparva"
+  },
+  "@sharyati": {
+    "Name": "Sharyati",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Children": [
+      "@sukanya"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shashabindu": {
+    "Name": "Shashabindu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@chitrasena_gandharva",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shatanika": {
+    "Name": "Shatanika",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@nakula",
+    "Mother": "@draupadi",
+    "Caste": "Kshatriya",
+    "Dynasty": "Kuru"
+  },
+  "@shesha": {
+    "Name": "Shesha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shibi": {
+    "Name": "Shibi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ushinara",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shikhandi": {
+    "Name": "Shikhandi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@drupada",
+    "Siblings": [
+      "@dhrishtadyumna",
+      "@draupadi"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Panchala",
+    "Status": "Deceased"
+  },
+  "@shini": {
+    "Name": "Shini",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shishupala": {
+    "Name": "Shishupala",
+    "Alias_names": [
+      "Chedi king",
+      "king of Chedi"
+    ],
+    "Gender": "Male",
+    "Children": [
+      "@dhrishtaketu"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Chedi",
+    "Status": "Deceased"
+  },
+  "@shiva": {
+    "Name": "Shiva",
+    "Alias_names": [
+      "Bhava",
+      "Hara",
+      "Mahadeva",
+      "Maheshvara",
+      "Pashupati",
+      "Pinaka",
+      "Rudra",
+      "Shankar",
+      "Shankara",
+      "Sthanu",
+      "Tryambaka"
+    ],
+    "Gender": "Male",
+    "Children": [
+      "@kartikeya"
+    ],
+    "Caste": "Deva",
+    "Duty": "Destroyer",
+    "Status": "Immortal"
+  },
+  "@shounaka": {
+    "Name": "Shounaka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shringi": {
+    "Name": "Shringi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shamika"
+  },
+  "@shrutayu": {
+    "Name": "Shrutayu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shrutayudha": {
+    "Name": "Shrutayudha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shudra": {
+    "Name": "Shudra",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@shuka": {
+    "Name": "Shuka",
+    "Alias_names": [
+      "son of Vyasa"
+    ],
+    "Gender": "Male",
+    "Father": "@vyasa",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@shunaka": {
+    "Name": "Shunaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@indrota"
+    ]
+  },
+  "@shura": {
+    "Name": "Shura",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@shurasena": {
+    "Name": "Shurasena",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@kunti",
+      "@vasudeva_father"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Yadava"
+  },
+  "@shvetaketu": {
+    "Name": "Shvetaketu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@uddalaka"
+  },
+  "@shvitya": {
+    "Name": "Shvitya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@srinjaya"
+    ]
+  },
+  "@sindhu": {
+    "Name": "Sindhu",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sindhus": {
+    "Name": "Sindhus",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vriddhakshatra"
+  },
+  "@sita": {
+    "Name": "Sita",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@soma": {
+    "Name": "Soma",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "King"
+  },
+  "@somadatta": {
+    "Name": "Somadatta",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@bhurishrava"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@somaka": {
+    "Name": "Somaka",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@soubha": {
+    "Name": "Soubha",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@soubhara": {
+    "Name": "Soubhara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@varcha"
+  },
+  "@soudasa": {
+    "Name": "Soudasa",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@srinjaya": {
+    "Name": "Srinjaya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shvitya",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@subala": {
+    "Name": "Subala",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@gandhari",
+      "@shakuni"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Gandhara",
+    "Status": "Deceased"
+  },
+  "@subhadra": {
+    "Name": "Subhadra",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@vasudeva_father",
+    "Siblings": [
+      "@balarama",
+      "@krishna",
+      "@vasudeva_father"
+    ],
+    "Spouse": [
+      {
+        "@arjuna": {
+          "Relation": "Husband",
+          "Children": [
+            "@abhimanyu"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Princess",
+    "Dynasty": "Yadava"
+  },
+  "@sudasa": {
+    "Name": "Sudasa",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sudeshna": {
+    "Name": "Sudeshna",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "Queen"
+  },
+  "@sudeva": {
+    "Name": "Sudeva",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@sudhanva": {
+    "Name": "Sudhanva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@angirasa"
+  },
+  "@sughada": {
+    "Name": "Sughada",
+    "Alias_names": [
+      "Vaishya maid",
+      "Vaishya woman"
+    ],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@dhritarashtra": {
+          "Relation": "Concubine",
+          "Children": [
+            "@yuyutsu"
+          ]
+        }
+      }
+    ],
+    "Caste": "Vaishya",
+    "Dynasty": "Kuru"
+  },
+  "@sugriva": {
+    "Name": "Sugriva",
+    "Alias_names": [
+      "monkey king"
+    ],
+    "Gender": "Male",
+    "Caste": "Vanara",
+    "Duty": "King"
+  },
+  "@suhotra": {
+    "Name": "Suhotra",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vitithi"
+  },
+  "@sukanya": {
+    "Name": "Sukanya",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@sharyati"
+  },
+  "@sumitra": {
+    "Name": "Sumitra",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@mitra",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@sunanda": {
+    "Name": "Sunanda",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@kekaya"
+  },
+  "@suratha": {
+    "Name": "Suratha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@jayadratha",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@surya": {
+    "Name": "Surya",
+    "Alias_names": [
+      "Aditya",
+      "Vivasvat",
+      "Vivasvata",
+      "sun-god"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@kunti": {
+          "Relation": "Divine boon",
+          "Children": [
+            "@karna"
+          ]
+        }
+      },
+      {
+        "@rohini": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@tapati"
+    ],
+    "Caste": "Deva",
+    "Duty": "Sun god",
+    "Status": "Immortal"
+  },
+  "@susharma": {
+    "Name": "Susharma",
+    "Alias_names": [
+      "king of Trigarta"
+    ],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Trigarta"
+  },
+  "@sutasoma": {
+    "Name": "Sutasoma",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@arjuna",
+    "Mother": "@draupadi",
+    "Caste": "Kshatriya",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@suvarchala": {
+    "Name": "Suvarchala",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@varuna": {
+          "Relation": "Husband",
+          "Children": []
+        }
+      }
+    ]
+  },
+  "@svayambhu": {
+    "Name": "Svayambhu",
+    "Alias_names": [],
+    "Gender": "Male"
+  },
+  "@takshaka": {
+    "Name": "Takshaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kadru",
+    "Caste": "Naga",
+    "Duty": "King"
+  },
+  "@tapati": {
+    "Name": "Tapati",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@surya"
+  },
+  "@tarkshya": {
+    "Name": "Tarkshya",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@trishanku": {
+    "Name": "Trishanku",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@ikshvaku"
+  },
+  "@tvashtri": {
+    "Name": "Tvashtri",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@uddalaka": {
+    "Name": "Uddalaka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@shvetaketu"
+    ]
+  },
+  "@ugrasena": {
+    "Name": "Ugrasena",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ugrashrava": {
+    "Name": "Ugrashrava",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@lomaharshana"
+  },
+  "@ugrasrava": {
+    "Name": "Ugrasrava",
+    "Alias_names": [
+      "Souti"
+    ],
+    "Gender": "Male",
+    "Father": "@lomaharshana",
+    "Caste": "Suta",
+    "Duty": "Narrator"
+  },
+  "@ulupi": {
+    "Name": "Ulupi",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Father": "@indra",
+    "Spouse": [
+      {
+        "@arjuna": {
+          "Relation": "Husband",
+          "Children": [
+            "@iravan"
+          ]
+        }
+      }
+    ],
+    "Caste": "Naga",
+    "Duty": "Princess"
+  },
+  "@uparichara": {
+    "Name": "Uparichara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@ushanas": {
+    "Name": "Ushanas",
+    "Alias_names": [
+      "Shukra",
+      "Shukracharya",
+      "preceptor of the demons"
+    ],
+    "Gender": "Male",
+    "Father": "@kavi",
+    "Caste": "Brahmin",
+    "Duty": "Sage",
+    "Status": "Immortal"
+  },
+  "@ushinara": {
+    "Name": "Ushinara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@shibi"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@utanka": {
+    "Name": "Utanka",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@utathya": {
+    "Name": "Utathya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@angiras"
+  },
+  "@uttanpada": {
+    "Name": "Uttanpada",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@uttara": {
+    "Name": "Uttara",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@virata",
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Matsya",
+    "Status": "Deceased"
+  },
+  "@uttaraa": {
+    "Name": "Uttaraa",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@abhimanyu": {
+          "Relation": "Husband",
+          "Children": [
+            "@parikshit"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Princess",
+    "Dynasty": "Matsya"
+  },
+  "@vaishampayana": {
+    "Name": "Vaishampayana",
+    "Alias_names": [
+      "narrator"
+    ],
+    "Gender": "Male",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@vali": {
+    "Name": "Vali",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@indra"
+  },
+  "@varcha": {
+    "Name": "Varcha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@soubhara"
+    ]
+  },
+  "@varuna": {
+    "Name": "Varuna",
+    "Alias_names": [
+      "lord of the waters",
+      "water-god"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@suvarchala": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "Water god",
+    "Status": "Immortal"
+  },
+  "@varuni": {
+    "Name": "Varuni",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@vasishtha": {
+    "Name": "Vasishtha",
+    "Alias_names": [
+      "Vashishtha"
+    ],
+    "Gender": "Male",
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@vasu": {
+    "Name": "Vasu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@girika": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vasudana": {
+    "Name": "Vasudana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vasudeva_father": {
+    "Name": "Vasudeva_father",
+    "Alias_names": [
+      "Anakadundubhi",
+      "Vasudeva"
+    ],
+    "Gender": "Male",
+    "Father": "@shurasena",
+    "Siblings": [
+      "@subhadra"
+    ],
+    "Spouse": [
+      {
+        "@devaki": {
+          "Relation": "Wife",
+          "Children": [
+            "@krishna"
+          ]
+        }
+      },
+      {
+        "@rohini": {
+          "Relation": "Wife",
+          "Children": [
+            "@balarama"
+          ]
+        }
+      }
+    ],
+    "Children": [
+      "@subhadra",
+      "@sarana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Yadava"
+  },
+  "@vasuki": {
+    "Name": "Vasuki",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vasumana": {
+    "Name": "Vasumana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@roushadashvi"
+  },
+  "@vayu": {
+    "Name": "Vayu",
+    "Alias_names": [
+      "wind-god"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@kunti": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@hanuman"
+    ],
+    "Caste": "Deva",
+    "Duty": "Wind god",
+    "Status": "Immortal"
+  },
+  "@vena": {
+    "Name": "Vena",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@prithu"
+    ]
+  },
+  "@vibhishana": {
+    "Name": "Vibhishana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@pulastya"
+  },
+  "@vichitravirya": {
+    "Name": "Vichitravirya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@shantanu",
+    "Mother": "@satyavati",
+    "Siblings": [
+      "@chitrangada_kuru"
+    ],
+    "Spouse": [
+      {
+        "@ambika": {
+          "Relation": "Wife",
+          "Children": [
+            "@dhritarashtra"
+          ]
+        }
+      },
+      {
+        "@ambalika": {
+          "Relation": "Wife",
+          "Children": [
+            "@pandu"
+          ]
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@vidula": {
+    "Name": "Vidula",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@vidura": {
+    "Name": "Vidura",
+    "Alias_names": [
+      "Kshatta"
+    ],
+    "Gender": "Male",
+    "Siblings": [
+      "@dhritarashtra",
+      "@pandu"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Minister",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@vikarna": {
+    "Name": "Vikarna",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@vinata": {
+    "Name": "Vinata",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Children": [
+      "@garuda",
+      "@aruna"
+    ]
+  },
+  "@viraketu": {
+    "Name": "Viraketu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@panchala"
+  },
+  "@virasena": {
+    "Name": "Virasena",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@nala"
+    ]
+  },
+  "@virata": {
+    "Name": "Virata",
+    "Alias_names": [
+      "king of Matsya"
+    ],
+    "Gender": "Male",
+    "Children": [
+      "@uttara"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Matsya",
+    "Status": "Deceased"
+  },
+  "@virochana": {
+    "Name": "Virochana",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@bali"
+    ]
+  },
+  "@vishnu": {
+    "Name": "Vishnu",
+    "Alias_names": [
+      "Narayana",
+      "Preserver"
+    ],
+    "Gender": "Male",
+    "Caste": "Deva",
+    "Duty": "Preserver",
+    "Status": "Immortal"
+  },
+  "@vishoka": {
+    "Name": "Vishoka",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@kekaya"
+  },
+  "@vishrava": {
+    "Name": "Vishrava",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@pulastya",
+    "Children": [
+      "@kubera"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage"
+  },
+  "@vishvamitra": {
+    "Name": "Vishvamitra",
+    "Alias_names": [
+      "Kushika"
+    ],
+    "Gender": "Male",
+    "Father": "@gadhi"
+  },
+  "@vishvavasu": {
+    "Name": "Vishvavasu",
+    "Alias_names": [],
+    "Gender": "Unknown",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vitahavya": {
+    "Name": "Vitahavya",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vitithi": {
+    "Name": "Vitithi",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@suhotra"
+    ]
+  },
+  "@vivimshati": {
+    "Name": "Vivimshati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@gandhari",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru",
+    "Status": "Deceased"
+  },
+  "@vriddhakshatra": {
+    "Name": "Vriddhakshatra",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@jayadratha",
+      "@sindhus"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vrishadarbha": {
+    "Name": "Vrishadarbha",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@yuvanashva"
+    ]
+  },
+  "@vrishaketu": {
+    "Name": "Vrishaketu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@karna",
+    "Mother": "@vrushali",
+    "Caste": "Kshatriya",
+    "Dynasty": "Anga"
+  },
+  "@vrishaparva": {
+    "Name": "Vrishaparva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Children": [
+      "@sharmishtha"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@vrishasena": {
+    "Name": "Vrishasena",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@karna",
+    "Mother": "@vrushali",
+    "Caste": "Kshatriya",
+    "Duty": "Warrior",
+    "Dynasty": "Anga",
+    "Status": "Deceased"
+  },
+  "@vritra": {
+    "Name": "Vritra",
+    "Alias_names": [
+      "demon"
+    ],
+    "Gender": "Male",
+    "Caste": "Asura",
+    "Status": "Deceased"
+  },
+  "@vrushali": {
+    "Name": "Vrushali",
+    "Alias_names": [],
+    "Gender": "Female",
+    "Spouse": [
+      {
+        "@karna": {
+          "Relation": "Husband",
+          "Children": [
+            "@vrishasena",
+            "@vrishaketu"
+          ]
+        }
+      }
+    ]
+  },
+  "@vyasa": {
+    "Name": "Vyasa",
+    "Alias_names": [
+      "Dvaipayana",
+      "Krishna Dvaipayana",
+      "Vedavyasa"
+    ],
+    "Gender": "Male",
+    "Father": "@parashara",
+    "Mother": "@satyavati",
+    "Spouse": [
+      {
+        "@ambika": {
+          "Relation": "Niyoga",
+          "Children": []
+        }
+      },
+      {
+        "@ambalika": {
+          "Relation": "Niyoga",
+          "Children": []
+        }
+      }
+    ],
+    "Children": [
+      "@shuka"
+    ],
+    "Caste": "Brahmin",
+    "Duty": "Sage",
+    "Status": "Immortal"
+  },
+  "@yadava": {
+    "Name": "Yadava",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@yadu": {
+    "Name": "Yadu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Caste": "Kshatriya",
+    "Dynasty": "Yadava"
+  },
+  "@yama": {
+    "Name": "Yama",
+    "Alias_names": [
+      "Dharma",
+      "god of death",
+      "lord of the dead"
+    ],
+    "Gender": "Male",
+    "Spouse": [
+      {
+        "@kunti": {
+          "Relation": "Divine boon",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Deva",
+    "Duty": "God of death",
+    "Status": "Immortal"
+  },
+  "@yamuna": {
+    "Name": "Yamuna",
+    "Alias_names": [],
+    "Gender": "Unknown"
+  },
+  "@yayati": {
+    "Name": "Yayati",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@nahusha",
+    "Caste": "Kshatriya",
+    "Duty": "King"
+  },
+  "@yudhishthira": {
+    "Name": "Yudhishthira",
+    "Alias_names": [
+      "Ajatashatru",
+      "Bharata",
+      "Dharmaputra",
+      "Dharmaraja",
+      "Kouravya",
+      "Pandaveya",
+      "Yudhisthira"
+    ],
+    "Gender": "Male",
+    "Father": "@pandu",
+    "Mother": "@kunti",
+    "Siblings": [
+      "@arjuna",
+      "@bhima",
+      "@nakula",
+      "@sahadeva"
+    ],
+    "Spouse": [
+      {
+        "@draupadi": {
+          "Relation": "Wife",
+          "Children": []
+        }
+      }
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "King",
+    "Dynasty": "Kuru",
+    "Status": "Alive"
+  },
+  "@yuvanashva": {
+    "Name": "Yuvanashva",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@vrishadarbha",
+    "Children": [
+      "@mandhata"
+    ]
+  },
+  "@yuyutsu": {
+    "Name": "Yuyutsu",
+    "Alias_names": [],
+    "Gender": "Male",
+    "Father": "@dhritarashtra",
+    "Mother": "@sughada",
+    "Siblings": [
+      "@duhshasana",
+      "@duryodhana"
+    ],
+    "Caste": "Kshatriya",
+    "Duty": "Prince",
+    "Dynasty": "Kuru"
+  }
+}
