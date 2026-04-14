@@ -984,37 +984,72 @@ def step4_characters(base_dir):
         spouse=["Draupadi"], gender="Male",
         caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive")
 
-    # Kauravas
+    # Kauravas - 100 sons of Gandhari + 1 daughter (Duhshala) + Yuyutsu from Sughada
+    # Birth order per Adi Parva Ch.108
+    _kaurava_sons = [
+        "Duryodhana","Duhshasana","Duhsaha","Jalasandha","Sama_kaurava","Saha",
+        "Vinda","Anuvinda","Durdharsha","Subahu","Dushpradharshana",
+        "Durmarshana","Durmukha","Dushkarma","Karna_kaurava","Vivimshati",
+        "Vikarna","Sulochana","Chitra","Upachitra","Chitraksha",
+        "Charuchitra","Sharasana","Durmada","Dushpragaha","Vivitsu",
+        "Vikata","Urnanabha","Sunabha","Nanda_kaurava","Upanandaka","Senapati",
+        "Sushena","Kundodara","Mahodara","Chitrabana","Chitravarma",
+        "Suvarma","Durvimochana","Ayobahu","Mahabahu_kaurava","Chitranga",
+        "Chitrakundala","Bhimavega","Bhimabala","Balaki","Balavardhana",
+        "Ugrayudha","Bhimakarma","Kanakayu","Dridhayudha","Dridhavarma",
+        "Dridhakshatra","Somakirti","Anudara","Dridhasandha","Jarasandha_kaurava",
+        "Satyasandha","Sadahsuvak","Ugrashrava","Ashvasena_kaurava","Senani",
+        "Dushparajaya","Aparajita","Panditaka","Vishalaksha","Duravara",
+        "Dridhahasta","Suhasta","Vatavega","Suvarcha","Adityaketu",
+        "Bahvashi","Nagadanta","Ugrayayi","Kavachi","Nishangi","Pashi_kaurava",
+        "Dandadhara_kaurava","Dhanurgraha","Ugra_kaurava","Bhimaratha","Vira_kaurava",
+        "Virabahu","Alolupa","Abhaya","Roudrakarma","Dridharatha",
+        "Anadhrishya","Kundabhedi","Viravi","Dirghalochana","Dirghabahu",
+        "Mahabahu_kaurava2","Vyudhoru","Kanakadhvaja","Kundashi","Viraja",
+        "Chitrasena_kaurava",
+    ]
+    # Key named Kauravas with extra detail
     add("Duryodhana", aliases=["Suyodhana"],
         father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duhshasana","Vikarna","Vivimshati","Durmukha","Duhshala",
-                   "Chitrasena_kaurava","Yuyutsu"],
         spouse=["Bhanumati"], gender="Male",
         caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased")
     add("Duhshasana", aliases=["Duhshaasana"],
         father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Vikarna","Vivimshati","Durmukha","Duhshala"],
         gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
     add("Vikarna", father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Duhshasana"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
     add("Vivimshati", father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Duhshasana"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
     add("Durmukha", father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Duhshasana"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
     add("Chitrasena_kaurava", aliases=["Chitrasena"],
         father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Duhshasana"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
-    add("Yuyutsu", father="Dhritarashtra", mother="Sughada",
-        siblings=["Duryodhana","Duhshasana"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Kuru")
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+    add("Karna_kaurava", aliases=["Karna (Kaurava)"],
+        father="Dhritarashtra", mother="Gandhari",
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+    add("Sama_kaurava", aliases=["Sama"],
+        father="Dhritarashtra", mother="Gandhari",
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
+    # All remaining Kaurava sons
+    for name in _kaurava_sons:
+        k = name.lower().replace(' ', '_')
+        if k not in chars:
+            add(name, father="Dhritarashtra", mother="Gandhari",
+                gender="Male", caste="Kshatriya", duty="Prince",
+                dynasty="Kuru", status="Deceased")
+    # Set siblings: all Kauravas are siblings of each other
+    all_kaurava_keys = [_key(n) for n in _kaurava_sons] + [_key("Duhshala"), _key("Yuyutsu")]
+    for kk in all_kaurava_keys:
+        if kk in chars:
+            chars[kk]['siblings'] = {s for s in all_kaurava_keys if s != kk and s in chars}
+    # Daughter
     add("Duhshala", father="Dhritarashtra", mother="Gandhari",
-        siblings=["Duryodhana","Duhshasana"],
         spouse=["Jayadratha"], gender="Female",
         caste="Kshatriya", duty="Princess", dynasty="Kuru")
+    # Yuyutsu - from Sughada (concubine)
+    add("Yuyutsu", father="Dhritarashtra", mother="Sughada",
+        gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru")
     add("Chitrasena_gandharva", aliases=["Chitrasena","gandharva king"],
         gender="Male", caste="Gandharva", duty="King")
     add("Lakshmana_kaurava", aliases=["Lakshmana"],
@@ -1147,23 +1182,30 @@ def step4_characters(base_dir):
         caste="Suta", duty="Charioteer")
     add("Vrushali", spouse=["Karna"], gender="Female")
 
-    # Next generation
+    # Next generation - Upapandavas (Draupadi's 5 sons, one from each Pandava)
+    add("Prativindhya", father="Yudhishthira", mother="Draupadi", gender="Male",
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+    add("Sutasoma", father="Bhima", mother="Draupadi", gender="Male",
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+    add("Shrutakirti", father="Arjuna", mother="Draupadi", gender="Male",
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+    add("Shatanika", father="Nakula", mother="Draupadi", gender="Male",
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+    add("Shrutasena", father="Sahadeva", mother="Draupadi", gender="Male",
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+    # Other children
     add("Abhimanyu", aliases=["Soubhadra"],
         father="Arjuna", mother="Subhadra",
         spouse=["Uttaraa"], gender="Male",
         caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
     add("Ghatotkacha", father="Bhima", mother="Hidimba", gender="Male",
         caste="Rakshasa", duty="Warrior", status="Deceased")
-    add("Shatanika", father="Nakula", mother="Draupadi", gender="Male",
-        caste="Kshatriya", dynasty="Kuru")
     add("Parikshit", father="Abhimanyu", mother="Uttaraa", gender="Male",
         caste="Kshatriya", duty="King", dynasty="Kuru")
     add("Babhruvahana", father="Arjuna", mother="Chitrangada_manipura",
         gender="Male", caste="Kshatriya", duty="King")
     add("Iravan", father="Arjuna", mother="Ulupi", gender="Male",
         caste="Kshatriya", duty="Warrior", status="Deceased")
-    add("Sutasoma", father="Arjuna", mother="Draupadi", gender="Male",
-        caste="Kshatriya", dynasty="Kuru", status="Deceased")
     add("Uttaraa", spouse=["Abhimanyu"], gender="Female",
         caste="Kshatriya", duty="Princess", dynasty="Matsya")
 
