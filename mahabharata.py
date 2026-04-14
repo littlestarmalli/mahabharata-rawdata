@@ -1916,8 +1916,6 @@ def step4_characters(base_dir):
             entry["Father"] = f"@{c['father']}"
         if c['mother']:
             entry["Mother"] = f"@{c['mother']}"
-        if c['siblings']:
-            entry["Siblings"] = sorted(f"@{s}" for s in c['siblings'])
         if c['spouse']:
             # Build spouse→children mapping for this character
             # For each child, find which spouse is the other parent
@@ -1993,7 +1991,6 @@ def step4_characters(base_dir):
     with_father = sum(1 for v in output.values() if 'Father' in v)
     with_mother = sum(1 for v in output.values() if 'Mother' in v)
     with_spouse = sum(1 for v in output.values() if 'Spouse' in v)
-    with_siblings = sum(1 for v in output.values() if 'Siblings' in v)
     with_children = sum(1 for v in output.values()
                        if 'Children' in v
                        or any(ch for sp in v.get('Spouse', []) if isinstance(sp, dict)
@@ -2009,7 +2006,7 @@ def step4_characters(base_dir):
     print(f"  Total characters: {total}")
     print(f"  With aliases: {with_aliases}")
     print(f"  With Father: {with_father}, Mother: {with_mother}")
-    print(f"  With Spouse: {with_spouse}, Siblings: {with_siblings}")
+    print(f"  With Spouse: {with_spouse}")
     print(f"  With Children: {with_children}")
     print(f"  With Caste: {with_caste}, Duty: {with_duty}")
     print(f"  With Dynasty: {with_dynasty}, Status: {with_status}")
