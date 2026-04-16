@@ -1,0 +1,4938 @@
+{
+  "@hastinapura": {
+    "Name": "Hastinapura",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Sub_Locations": [
+      "@indraprastha"
+    ],
+    "Ruler": "@dhritarashtra",
+    "Famous_For": [
+      "Capital of Kuru dynasty",
+      "Dice game",
+      "Court of Kauravas"
+    ],
+    "Residents": [
+      "@dhritarashtra",
+      "@gandhari",
+      "@duryodhana",
+      "@bhishma",
+      "@drona",
+      "@vidura",
+      "@kunti"
+    ],
+    "Geography": {
+      "Terrain": "Plains along Ganga",
+      "Climate": "Temperate"
+    },
+    "Coordinates": {
+      "lat": 29.1604,
+      "lng": 78.018
+    },
+    "Modern_Equivalent": "Hastinapur, Meerut district, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 63
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 88
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 97
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 97
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 101
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 106
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 117
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 142
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 147
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 164
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 166
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 178
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 189
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 202
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 226
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 227
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 273
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 283
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 287
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 336
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 360
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 381
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 392
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 469
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 488
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 488
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 499
+      }
+    ],
+    "Notes": "Primary capital of the Kuru kingdom. Archaeological site at Hastinapur village, Meerut.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_001"
+      },
+      {
+        "Event": "@evt_002"
+      },
+      {
+        "Event": "@evt_003"
+      },
+      {
+        "Event": "@evt_004"
+      },
+      {
+        "Event": "@evt_006"
+      },
+      {
+        "Event": "@evt_009"
+      },
+      {
+        "Event": "@evt_013"
+      },
+      {
+        "Event": "@evt_015"
+      },
+      {
+        "Event": "@evt_023"
+      },
+      {
+        "Event": "@evt_024"
+      },
+      {
+        "Event": "@evt_035"
+      },
+      {
+        "Event": "@evt_036"
+      },
+      {
+        "Event": "@evt_052"
+      },
+      {
+        "Event": "@evt_053"
+      },
+      {
+        "Event": "@evt_054"
+      }
+    ]
+  },
+  "@indraprastha": {
+    "Name": "Indraprastha",
+    "Type": "City",
+    "Parent_Kingdom": "@hastinapura",
+    "Region": "Bharata",
+    "Ruler": "@yudhishthira",
+    "Famous_For": [
+      "Maya Sabha",
+      "Rajasuya Yajna",
+      "Pandava capital"
+    ],
+    "Residents": [
+      "@yudhishthira",
+      "@bhima",
+      "@arjuna",
+      "@nakula",
+      "@sahadeva",
+      "@draupadi"
+    ],
+    "Geography": {
+      "Terrain": "Plains along Yamuna",
+      "Climate": "Temperate"
+    },
+    "Coordinates": {
+      "lat": 28.6095,
+      "lng": 77.2425
+    },
+    "Modern_Equivalent": "Purana Qila area, Delhi",
+    "Nearby_Distances_km": [
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 1
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 13
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 53
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 97
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 110
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 123
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 131
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 155
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 157
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 165
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 173
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 178
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 192
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 192
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 196
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 216
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 295
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 322
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 323
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 337
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 342
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 378
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 402
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 464
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 478
+      }
+    ],
+    "Notes": "Built by Maya Danava for Pandavas on Khandava land. Identified with Purana Qila, Delhi.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_019"
+      },
+      {
+        "Event": "@evt_021"
+      }
+    ]
+  },
+  "@panchala": {
+    "Name": "Panchala",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Ruler": "@drupada",
+    "Famous_For": [
+      "Draupadi Swayamvara",
+      "Birth of Dhrishtadyumna",
+      "Allied with Pandavas"
+    ],
+    "Residents": [
+      "@drupada",
+      "@draupadi",
+      "@dhrishtadyumna",
+      "@shikhandi"
+    ],
+    "Geography": {
+      "Terrain": "Gangetic plains",
+      "Climate": "Temperate"
+    },
+    "Coordinates": {
+      "lat": 28.367,
+      "lng": 79.4304
+    },
+    "Modern_Equivalent": "Ahichchhatra (North Panchala), Kampilya (South Panchala), Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 164
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 191
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 198
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 207
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 209
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 214
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 215
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 215
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 216
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 222
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 264
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 265
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 266
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 279
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 305
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 310
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 324
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 330
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 332
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 334
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 335
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 339
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 341
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 351
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 488
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 496
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 497
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 498
+      }
+    ],
+    "Notes": "Divided into North Panchala (capital Ahichchhatra) and South Panchala (capital Kampilya). Archaeological ruins at both sites.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_018"
+      }
+    ]
+  },
+  "@dvaraka": {
+    "Name": "Dvaraka",
+    "Type": "Kingdom",
+    "Region": "Western Bharata",
+    "Ruler": "@krishna",
+    "Famous_For": [
+      "Krishna's capital",
+      "Golden city",
+      "Submerged by sea"
+    ],
+    "Residents": [
+      "@krishna",
+      "@balarama",
+      "@rukmini",
+      "@satyabhama",
+      "@pradyumna"
+    ],
+    "Geography": {
+      "Terrain": "Coastal island city",
+      "Climate": "Tropical maritime"
+    },
+    "Coordinates": {
+      "lat": 22.2442,
+      "lng": 68.9685
+    },
+    "Modern_Equivalent": "Dwarka, Gujarat",
+    "Nearby_Distances_km": [
+      {
+        "To": "@sindhu",
+        "Name": "Sindhu",
+        "km": 356
+      }
+    ],
+    "Notes": "Built by Vishwakarma; sank into sea after Mausala. Underwater ruins found by ASI off Dwarka coast.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_056"
+      }
+    ]
+  },
+  "@magadha": {
+    "Name": "Magadha",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Sub_Locations": [
+      "@girivraja"
+    ],
+    "Ruler": "@jarasandha",
+    "Famous_For": [
+      "Jarasandha's fortress",
+      "Wrestling duel with Bhima"
+    ],
+    "Residents": [
+      "@jarasandha"
+    ],
+    "Geography": {
+      "Terrain": "Hills and plains",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.0283,
+      "lng": 85.4218
+    },
+    "Modern_Equivalent": "Rajgir/Patna region, Bihar",
+    "Nearby_Distances_km": [
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 0
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 96
+      },
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 159
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 161
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 248
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 377
+      },
+      {
+        "To": "@vanga",
+        "Name": "Vanga",
+        "km": 405
+      }
+    ],
+    "Notes": "Powerful eastern kingdom opposing Yadavas. Capital at Rajgir (Girivraja)."
+  },
+  "@girivraja": {
+    "Name": "Girivraja",
+    "Type": "City",
+    "Parent_Kingdom": "@magadha",
+    "Region": "Eastern Bharata",
+    "Famous_For": [
+      "Jarasandha's capital",
+      "Surrounded by five hills"
+    ],
+    "Geography": {
+      "Terrain": "Hill-girt city",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.0268,
+      "lng": 85.421
+    },
+    "Modern_Equivalent": "Rajgir, Bihar",
+    "Nearby_Distances_km": [
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 0
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 96
+      },
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 159
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 161
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 248
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 377
+      },
+      {
+        "To": "@vanga",
+        "Name": "Vanga",
+        "km": 405
+      }
+    ],
+    "Events_Occurred": [
+      {
+        "Event": "@evt_022"
+      }
+    ]
+  },
+  "@kashi": {
+    "Name": "Kashi",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Swayamvara of princesses",
+      "Abduction by Bhishma",
+      "Sacred city"
+    ],
+    "Geography": {
+      "Terrain": "Banks of Ganga",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.3176,
+      "lng": 82.9739
+    },
+    "Modern_Equivalent": "Varanasi, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 172
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 181
+      },
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 248
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 248
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 266
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 290
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 298
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 385
+      },
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 403
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 405
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 488
+      }
+    ],
+    "Notes": "Princesses Amba, Ambika, Ambalika abducted from here by Bhishma"
+  },
+  "@chedi": {
+    "Name": "Chedi",
+    "Type": "Kingdom",
+    "Region": "Central Bharata",
+    "Ruler": "@shishupala",
+    "Famous_For": [
+      "Shishupala killed by Krishna at Rajasuya"
+    ],
+    "Residents": [
+      "@shishupala",
+      "@dhrishtaketu"
+    ],
+    "Geography": {
+      "Terrain": "Central Indian plateau",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.476,
+      "lng": 80.3319
+    },
+    "Modern_Equivalent": "Banda/Sagar region, Madhya Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 142
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 165
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 237
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 244
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 258
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 266
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 334
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 347
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 351
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 429
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 430
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 435
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 450
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 451
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 461
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 463
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 464
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 469
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 495
+      },
+      {
+        "To": "@vidarbha",
+        "Name": "Vidarbha",
+        "km": 498
+      }
+    ],
+    "Notes": "Capital identified with Suktimati or Sothivatinagara."
+  },
+  "@anga": {
+    "Name": "Anga",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Ruler": "@karna",
+    "Famous_For": [
+      "Karna's kingdom",
+      "Given by Duryodhana"
+    ],
+    "Residents": [
+      "@karna",
+      "@vrishasena"
+    ],
+    "Geography": {
+      "Terrain": "Gangetic plains",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.2425,
+      "lng": 86.9842
+    },
+    "Modern_Equivalent": "Bhagalpur region, Bihar",
+    "Nearby_Distances_km": [
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 2
+      },
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 159
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 159
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 236
+      },
+      {
+        "To": "@vanga",
+        "Name": "Vanga",
+        "km": 328
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 403
+      },
+      {
+        "To": "@pragjyotisha",
+        "Name": "Pragjyotisha",
+        "km": 487
+      }
+    ],
+    "Notes": "Duryodhana crowned Karna king of Anga. Capital at Champa (modern Bhagalpur)."
+  },
+  "@gandhara": {
+    "Name": "Gandhara",
+    "Type": "Kingdom",
+    "Region": "Northwestern Bharata",
+    "Ruler": "@shakuni",
+    "Famous_For": [
+      "Shakuni's kingdom",
+      "Gandhari's homeland"
+    ],
+    "Residents": [
+      "@shakuni",
+      "@subala"
+    ],
+    "Geography": {
+      "Terrain": "Mountain valleys",
+      "Climate": "Continental"
+    },
+    "Coordinates": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "Modern_Equivalent": "Peshawar valley / Taxila region, Pakistan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@sindhu_river",
+        "Name": "Sindhu (Indus)",
+        "km": 82
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 326
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 483
+      }
+    ],
+    "Notes": "Capital at Takshashila (Taxila). One of the sixteen Mahajanapadas."
+  },
+  "@sindhu": {
+    "Name": "Sindhu",
+    "Type": "Kingdom",
+    "Region": "Western Bharata",
+    "Ruler": "@jayadratha",
+    "Famous_For": [
+      "Jayadratha's kingdom",
+      "Blocked Pandavas in Chakravyuha day"
+    ],
+    "Residents": [
+      "@jayadratha",
+      "@duhshala"
+    ],
+    "Geography": {
+      "Terrain": "Indus river basin",
+      "Climate": "Arid"
+    },
+    "Coordinates": {
+      "lat": 25.396,
+      "lng": 68.3578
+    },
+    "Modern_Equivalent": "Sindh, Pakistan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@dvaraka",
+        "Name": "Dvaraka",
+        "km": 356
+      }
+    ]
+  },
+  "@madra": {
+    "Name": "Madra",
+    "Type": "Kingdom",
+    "Region": "Northwestern Bharata",
+    "Ruler": "@shalya",
+    "Famous_For": [
+      "Shalya's kingdom",
+      "Madri's homeland"
+    ],
+    "Residents": [
+      "@shalya"
+    ],
+    "Geography": {
+      "Terrain": "Punjab plains",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 32.4945,
+      "lng": 74.5229
+    },
+    "Modern_Equivalent": "Sialkot region, Punjab",
+    "Nearby_Distances_km": [
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 164
+      },
+      {
+        "To": "@sindhu_river",
+        "Name": "Sindhu (Indus)",
+        "km": 247
+      },
+      {
+        "To": "@gandhara",
+        "Name": "Gandhara",
+        "km": 326
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 341
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 356
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 359
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 398
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 445
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 447
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 468
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 473
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 499
+      }
+    ]
+  },
+  "@matsya": {
+    "Name": "Matsya",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Sub_Locations": [
+      "@viratanagara"
+    ],
+    "Ruler": "@virata",
+    "Famous_For": [
+      "Pandavas' incognito year",
+      "Uttara Gograhana battle"
+    ],
+    "Residents": [
+      "@virata",
+      "@uttaraa"
+    ],
+    "Geography": {
+      "Terrain": "Arid plains",
+      "Climate": "Semi-arid"
+    },
+    "Coordinates": {
+      "lat": 27.3117,
+      "lng": 76.1775
+    },
+    "Modern_Equivalent": "Jaipur/Bairat region, Rajasthan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 36
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 38
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 149
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 153
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 172
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 178
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 179
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 228
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 235
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 254
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 259
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 273
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 299
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 302
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 303
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 341
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 351
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 370
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 428
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 450
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 461
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 473
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 499
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 500
+      }
+    ]
+  },
+  "@viratanagara": {
+    "Name": "Viratanagara",
+    "Type": "City",
+    "Parent_Kingdom": "@matsya",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Pandavas served in disguise for one year"
+    ],
+    "Coordinates": {
+      "lat": 27.0238,
+      "lng": 76.3817
+    },
+    "Modern_Equivalent": "Bairat (Viratnagar), Rajasthan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 3
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 38
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 138
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 144
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 187
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 196
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 196
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 208
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 216
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 248
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 285
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 287
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 329
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 330
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 331
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 335
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 369
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 387
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 405
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 430
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 485
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 488
+      }
+    ],
+    "Notes": "Archaeological remains found at Bairat. Circular temple and Ashokan edict.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_032"
+      },
+      {
+        "Event": "@evt_033"
+      },
+      {
+        "Event": "@evt_034"
+      }
+    ]
+  },
+  "@pragjyotisha": {
+    "Name": "Pragjyotisha",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Ruler": "@bhagadatta",
+    "Famous_For": [
+      "Bhagadatta's elephant army",
+      "Naraka dynasty"
+    ],
+    "Residents": [
+      "@bhagadatta"
+    ],
+    "Geography": {
+      "Terrain": "Brahmaputra valley",
+      "Climate": "Subtropical humid"
+    },
+    "Coordinates": {
+      "lat": 26.1445,
+      "lng": 91.7362
+    },
+    "Modern_Equivalent": "Guwahati, Assam",
+    "Nearby_Distances_km": [
+      {
+        "To": "@manipura",
+        "Name": "Manipura",
+        "km": 266
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 485
+      },
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 487
+      }
+    ]
+  },
+  "@manipura": {
+    "Name": "Manipura",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Ruler": "@chitrangada_manipura",
+    "Famous_For": [
+      "Arjuna married princess Chitrangada here"
+    ],
+    "Residents": [
+      "@chitrangada_manipura",
+      "@babhruvahana"
+    ],
+    "Geography": {
+      "Terrain": "Hills and valleys",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 24.817,
+      "lng": 93.9368
+    },
+    "Modern_Equivalent": "Imphal, Manipur",
+    "Nearby_Distances_km": [
+      {
+        "To": "@pragjyotisha",
+        "Name": "Pragjyotisha",
+        "km": 266
+      }
+    ]
+  },
+  "@trigarta": {
+    "Name": "Trigarta",
+    "Type": "Kingdom",
+    "Region": "Northern Bharata",
+    "Ruler": "@susharma",
+    "Famous_For": [
+      "Susharma's alliance with Kauravas",
+      "Attack on Matsya"
+    ],
+    "Residents": [
+      "@susharma"
+    ],
+    "Geography": {
+      "Terrain": "Foothills between three rivers",
+      "Climate": "Continental"
+    },
+    "Coordinates": {
+      "lat": 31.326,
+      "lng": 75.5762
+    },
+    "Modern_Equivalent": "Jalandhar, Punjab",
+    "Nearby_Distances_km": [
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 164
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 178
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 192
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 196
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 235
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 291
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 292
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 305
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 336
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 339
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 342
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 342
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 355
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 379
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 379
+      },
+      {
+        "To": "@sindhu_river",
+        "Name": "Sindhu (Indus)",
+        "km": 406
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 450
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 464
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 472
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 482
+      },
+      {
+        "To": "@gandhara",
+        "Name": "Gandhara",
+        "km": 483
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 485
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 496
+      }
+    ],
+    "Notes": "Name means 'land between three rivers' (Ravi, Beas, Sutlej)."
+  },
+  "@koshala": {
+    "Name": "Koshala",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Ancient kingdom",
+      "Rama's kingdom"
+    ],
+    "Geography": {
+      "Terrain": "Gangetic plains",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 26.7922,
+      "lng": 82.1998
+    },
+    "Modern_Equivalent": "Ayodhya/Faizabad region, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 173
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 181
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 237
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 282
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 324
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 354
+      },
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 377
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 377
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 447
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 454
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 455
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 459
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 483
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 488
+      }
+    ]
+  },
+  "@vidarbha": {
+    "Name": "Vidarbha",
+    "Type": "Kingdom",
+    "Region": "Central Bharata",
+    "Famous_For": [
+      "Rukmini's homeland",
+      "Nala-Damayanti story"
+    ],
+    "Residents": [
+      "@rukmini",
+      "@damayanti",
+      "@bhima_vidarbha"
+    ],
+    "Geography": {
+      "Terrain": "Deccan plateau",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 21.1458,
+      "lng": 79.0882
+    },
+    "Modern_Equivalent": "Nagpur/Amravati region, Maharashtra",
+    "Nearby_Distances_km": [
+      {
+        "To": "@dandaka_forest",
+        "Name": "Dandaka Forest",
+        "km": 206
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 245
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 349
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 498
+      }
+    ],
+    "Notes": "Capital identified with Kundina (modern Kaundinyapur near Amravati)."
+  },
+  "@nishadha": {
+    "Name": "Nishadha",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Ruler": "@nala",
+    "Famous_For": [
+      "Nala-Damayanti love story"
+    ],
+    "Residents": [
+      "@nala"
+    ],
+    "Geography": {
+      "Terrain": "Plains",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 25.64,
+      "lng": 77.91
+    },
+    "Modern_Equivalent": "Narwar/Gwalior region, Madhya Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 207
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 211
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 216
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 217
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 217
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 244
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 254
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 282
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 319
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 324
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 337
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 337
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 339
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 345
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 385
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 392
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 446
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 447
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 479
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 492
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 493
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 496
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 500
+      }
+    ]
+  },
+  "@kalinga": {
+    "Name": "Kalinga",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Famous_For": [
+      "Participated in Kurukshetra War"
+    ],
+    "Geography": {
+      "Terrain": "Coastal",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 20.2961,
+      "lng": 85.8245
+    },
+    "Modern_Equivalent": "Bhubaneswar/Puri region, Odisha",
+    "Nearby_Distances_km": [
+      {
+        "To": "@vanga",
+        "Name": "Vanga",
+        "km": 365
+      }
+    ]
+  },
+  "@vanga": {
+    "Name": "Vanga",
+    "Type": "Kingdom",
+    "Region": "Eastern Bharata",
+    "Famous_For": [
+      "Eastern kingdom",
+      "Participated in war"
+    ],
+    "Geography": {
+      "Terrain": "Delta region",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    "Modern_Equivalent": "Bengal (West Bengal/Bangladesh)",
+    "Nearby_Distances_km": [
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 328
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 328
+      },
+      {
+        "To": "@kalinga",
+        "Name": "Kalinga",
+        "km": 365
+      },
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 405
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 405
+      }
+    ]
+  },
+  "@kunti_kingdom": {
+    "Name": "Kunti",
+    "Type": "Kingdom",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Kunti's adoptive homeland",
+      "Kuntibhoja's kingdom"
+    ],
+    "Coordinates": {
+      "lat": 25.2138,
+      "lng": 75.8648
+    },
+    "Modern_Equivalent": "Kota/Bundi region, Rajasthan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 208
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 211
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 211
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 235
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 311
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 321
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 392
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 402
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 402
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 450
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 454
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 475
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 488
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 488
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 489
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 493
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 498
+      }
+    ],
+    "Notes": "Kingdom of Kuntibhoja where Pritha (Kunti) grew up. Identified with area around Bundi."
+  },
+  "@champapuri": {
+    "Name": "Champapuri",
+    "Type": "City",
+    "Parent_Kingdom": "@anga",
+    "Region": "Eastern Bharata",
+    "Famous_For": [
+      "Capital of Anga kingdom",
+      "Karna's capital"
+    ],
+    "Coordinates": {
+      "lat": 25.244,
+      "lng": 87.001
+    },
+    "Modern_Equivalent": "Champanagar near Bhagalpur, Bihar",
+    "Nearby_Distances_km": [
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 2
+      },
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 161
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 161
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 237
+      },
+      {
+        "To": "@vanga",
+        "Name": "Vanga",
+        "km": 328
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 405
+      },
+      {
+        "To": "@pragjyotisha",
+        "Name": "Pragjyotisha",
+        "km": 485
+      }
+    ]
+  },
+  "@kurukshetra": {
+    "Name": "Kurukshetra",
+    "Type": "Battlefield",
+    "Region": "Bharata",
+    "Famous_For": [
+      "18-day Mahabharata War",
+      "Bhagavad Gita delivered here"
+    ],
+    "Geography": {
+      "Terrain": "Sacred plains",
+      "Climate": "Semi-arid"
+    },
+    "Coordinates": {
+      "lat": 29.9695,
+      "lng": 76.8783
+    },
+    "Modern_Equivalent": "Kurukshetra, Haryana",
+    "Nearby_Distances_km": [
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 6
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 29
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 47
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 111
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 124
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 134
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 142
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 155
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 155
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 168
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 196
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 227
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 265
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 266
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 277
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 286
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 303
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 305
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 328
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 331
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 359
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 442
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 492
+      }
+    ],
+    "Notes": "Dharmakshetra - field of righteousness. Jyotisar - exact spot of Gita Upadesh.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_037"
+      },
+      {
+        "Event": "@evt_038"
+      },
+      {
+        "Event": "@evt_039"
+      },
+      {
+        "Event": "@evt_040"
+      },
+      {
+        "Event": "@evt_041"
+      },
+      {
+        "Event": "@evt_042"
+      },
+      {
+        "Event": "@evt_043"
+      },
+      {
+        "Event": "@evt_044"
+      },
+      {
+        "Event": "@evt_045"
+      },
+      {
+        "Event": "@evt_046"
+      },
+      {
+        "Event": "@evt_047"
+      },
+      {
+        "Event": "@evt_048"
+      },
+      {
+        "Event": "@evt_049"
+      },
+      {
+        "Event": "@evt_050"
+      },
+      {
+        "Event": "@evt_051"
+      }
+    ]
+  },
+  "@khandava_forest": {
+    "Name": "Khandava Forest",
+    "Type": "Forest",
+    "Region": "Bharata",
+    "Nearby_Locations": [
+      "@indraprastha"
+    ],
+    "Famous_For": [
+      "Burned by Arjuna and Krishna",
+      "Indraprastha built on its land"
+    ],
+    "Coordinates": {
+      "lat": 28.5,
+      "lng": 77.3
+    },
+    "Modern_Equivalent": "South Delhi / Faridabad region",
+    "Nearby_Distances_km": [
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 13
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 13
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 64
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 101
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 109
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 118
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 123
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 168
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 170
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 172
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 179
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 181
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 184
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 187
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 200
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 209
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 302
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 324
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 327
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 328
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 355
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 367
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 392
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 451
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 481
+      }
+    ],
+    "Notes": "Agni consumed this forest with help of Arjuna and Krishna. Region south of Indraprastha.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_020"
+      }
+    ]
+  },
+  "@kamyaka_forest": {
+    "Name": "Kamyaka Forest",
+    "Type": "Forest",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Pandavas' exile forest",
+      "Nala-Damayanti story told here"
+    ],
+    "Coordinates": {
+      "lat": 29.55,
+      "lng": 76.9
+    },
+    "Modern_Equivalent": "Near Kurukshetra/Sarasvati river bank, Haryana",
+    "Nearby_Distances_km": [
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 47
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 47
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 57
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 71
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 110
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 110
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 117
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 123
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 130
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 145
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 232
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 235
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 241
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 247
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 259
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 279
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 282
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 282
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 283
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 285
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 398
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 446
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 456
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 467
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 493
+      }
+    ],
+    "Notes": "Main forest during Pandavas' 12-year exile. Identified near banks of old Sarasvati.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_025"
+      },
+      {
+        "Event": "@evt_028"
+      },
+      {
+        "Event": "@evt_030"
+      }
+    ]
+  },
+  "@dvaitavana": {
+    "Name": "Dvaitavana",
+    "Type": "Forest",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Pandavas' exile",
+      "Near a lake",
+      "Duryodhana captured by Gandharvas here"
+    ],
+    "Coordinates": {
+      "lat": 29.97,
+      "lng": 76.82
+    },
+    "Modern_Equivalent": "Near Sthaneshwar (Thanesar), Haryana",
+    "Nearby_Distances_km": [
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 6
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 23
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 47
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 114
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 130
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 140
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 147
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 157
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 157
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 170
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 192
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 232
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 271
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 271
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 279
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 288
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 302
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 310
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 327
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 330
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 356
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 447
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 493
+      }
+    ],
+    "Notes": "Forest of exile near a sacred lake. Located close to Kurukshetra.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_031"
+      }
+    ]
+  },
+  "@naimisha_forest": {
+    "Name": "Naimisha Forest",
+    "Type": "Forest",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Ugrasrava narrated Mahabharata here",
+      "Sacred to sages"
+    ],
+    "Coordinates": {
+      "lat": 26.746,
+      "lng": 80.453
+    },
+    "Modern_Equivalent": "Nimsar (Naimisharanya), Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 142
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 173
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 207
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 282
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 287
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 288
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 298
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 305
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 360
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 367
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 377
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 378
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 397
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 399
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 403
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 405
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 420
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 428
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 429
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 441
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 454
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 455
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 464
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 467
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 488
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 489
+      }
+    ],
+    "Notes": "Where the outer frame story of Mahabharata is set. Active pilgrimage site today."
+  },
+  "@dandaka_forest": {
+    "Name": "Dandaka Forest",
+    "Type": "Forest",
+    "Region": "Central Bharata",
+    "Famous_For": [
+      "Rama's exile in Ramayana",
+      "Dense ancient forest"
+    ],
+    "Geography": {
+      "Terrain": "Dense tropical forest",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 19.5,
+      "lng": 80.0
+    },
+    "Modern_Equivalent": "Dandakaranya, Chhattisgarh/Maharashtra border",
+    "Nearby_Distances_km": [
+      {
+        "To": "@vidarbha",
+        "Name": "Vidarbha",
+        "km": 206
+      },
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 409
+      }
+    ]
+  },
+  "@ganga_river": {
+    "Name": "Ganga",
+    "Type": "River",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Sacred river",
+      "Shantanu met Ganga here",
+      "Bhishma's mother"
+    ],
+    "Geography": {
+      "Terrain": "Major river flowing east to Bay of Bengal",
+      "Climate": "Varied"
+    },
+    "Coordinates": {
+      "lat": 29.9457,
+      "lng": 78.1642
+    },
+    "Modern_Equivalent": "Ganga at Haridwar (origin to plains)",
+    "Nearby_Distances_km": [
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 19
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 88
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 123
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 123
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 124
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 130
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 130
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 153
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 155
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 156
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 173
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 173
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 181
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 214
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 267
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 277
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 291
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 326
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 351
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 365
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 369
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 420
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 447
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 479
+      }
+    ],
+    "Notes": "Personified as goddess Ganga, mother of Bhishma. Shantanu met her near Hastinapura."
+  },
+  "@yamuna_river": {
+    "Name": "Yamuna",
+    "Type": "River",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Flows past Indraprastha",
+      "Krishna's childhood river"
+    ],
+    "Geography": {
+      "Terrain": "Tributary of Ganga",
+      "Climate": "Temperate"
+    },
+    "Coordinates": {
+      "lat": 28.61,
+      "lng": 77.25
+    },
+    "Modern_Equivalent": "Yamuna at Delhi (flows past Purana Qila/Indraprastha)",
+    "Nearby_Distances_km": [
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 1
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 13
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 53
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 97
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 110
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 122
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 131
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 155
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 157
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 166
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 173
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 179
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 192
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 193
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 196
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 215
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 294
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 321
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 322
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 337
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 342
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 377
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 402
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 463
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 478
+      }
+    ],
+    "Notes": "Also known as Kalindi. Flows past Indraprastha (Delhi), Mathura, and Vrindavana."
+  },
+  "@sarasvati_river": {
+    "Name": "Sarasvati",
+    "Type": "River",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Sacred river",
+      "Pilgrimage sites along banks",
+      "Balarama's pilgrimage"
+    ],
+    "Geography": {
+      "Terrain": "Dried up in places",
+      "Climate": "Semi-arid"
+    },
+    "Coordinates": {
+      "lat": 29.98,
+      "lng": 76.58
+    },
+    "Modern_Equivalent": "Dried Sarasvati channel near Kurukshetra/Pehowa, Haryana",
+    "Nearby_Distances_km": [
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 23
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 29
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 57
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 127
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 153
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 163
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 165
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 166
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 166
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 178
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 179
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 253
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 288
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 292
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 293
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 296
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 299
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 326
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 329
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 330
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 341
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 469
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 500
+      }
+    ],
+    "Notes": "Mentioned as flowing near Kurukshetra. Dried channel identified via satellite imagery."
+  },
+  "@sindhu_river": {
+    "Name": "Sindhu (Indus)",
+    "Type": "River",
+    "Region": "Northwestern Bharata",
+    "Famous_For": [
+      "Western boundary of Bharata",
+      "Major river of west"
+    ],
+    "Geography": {
+      "Terrain": "Large river flowing south",
+      "Climate": "Arid to semi-arid"
+    },
+    "Coordinates": {
+      "lat": 33.774,
+      "lng": 72.3609
+    },
+    "Modern_Equivalent": "Indus River at Attock, Pakistan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@gandhara",
+        "Name": "Gandhara",
+        "km": 82
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 247
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 406
+      }
+    ]
+  },
+  "@godavari_river": {
+    "Name": "Godavari",
+    "Type": "River",
+    "Region": "Southern Bharata",
+    "Famous_For": [
+      "Sacred southern river",
+      "Pilgrimage sites"
+    ],
+    "Geography": {
+      "Terrain": "Major peninsular river",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 19.9975,
+      "lng": 73.7898
+    },
+    "Modern_Equivalent": "Godavari at Nashik (source), Maharashtra"
+  },
+  "@narmada_river": {
+    "Name": "Narmada",
+    "Type": "River",
+    "Region": "Central Bharata",
+    "Famous_For": [
+      "Sacred river",
+      "Boundary between north and south"
+    ],
+    "Geography": {
+      "Terrain": "Flows westward through central India",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 23.1815,
+      "lng": 79.9864
+    },
+    "Modern_Equivalent": "Narmada at Jabalpur, Madhya Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 105
+      },
+      {
+        "To": "@vidarbha",
+        "Name": "Vidarbha",
+        "km": 245
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 258
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 345
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 385
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 399
+      },
+      {
+        "To": "@dandaka_forest",
+        "Name": "Dandaka Forest",
+        "km": 409
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 459
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 475
+      }
+    ]
+  },
+  "@himalayas": {
+    "Name": "Himalayas",
+    "Type": "Mountain",
+    "Region": "Northern Bharata",
+    "Famous_For": [
+      "Abode of gods",
+      "Arjuna's penance for Pashupatastra",
+      "Pandavas' final journey (Mahaprasthana)",
+      "Shiva's abode"
+    ],
+    "Geography": {
+      "Terrain": "Highest mountain range",
+      "Climate": "Alpine/glacial"
+    },
+    "Coordinates": {
+      "lat": 30.7346,
+      "lng": 79.0669
+    },
+    "Modern_Equivalent": "Kedarnath/Badrinath region, Uttarakhand",
+    "Nearby_Distances_km": [
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 41
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 41
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 105
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 123
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 202
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 217
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 227
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 232
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 246
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 247
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 253
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 266
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 294
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 295
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 302
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 339
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 375
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 385
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 464
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 473
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 473
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 485
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 488
+      }
+    ],
+    "Notes": "Site of Arjuna's tapas, Pandavas' ascent in Mahaprasthanika Parva",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_026"
+      },
+      {
+        "Event": "@evt_057"
+      }
+    ]
+  },
+  "@meru": {
+    "Name": "Mount Meru",
+    "Type": "Mountain",
+    "Region": "Cosmic center",
+    "Famous_For": [
+      "Center of universe",
+      "Abode of gods",
+      "Golden mountain"
+    ],
+    "Geography": {
+      "Terrain": "Mythical golden peak",
+      "Climate": "Divine"
+    },
+    "Mythical": true,
+    "Notes": "Cosmic mountain at center of universe in Hindu cosmology. No physical location."
+  },
+  "@gandhamadana": {
+    "Name": "Gandhamadana",
+    "Type": "Mountain",
+    "Region": "Northern Bharata",
+    "Famous_For": [
+      "Bhima met Hanuman here",
+      "Fragrant herbs",
+      "Kubera's garden"
+    ],
+    "Geography": {
+      "Terrain": "Fragrant mountain",
+      "Climate": "Alpine"
+    },
+    "Coordinates": {
+      "lat": 30.75,
+      "lng": 79.5
+    },
+    "Modern_Equivalent": "Near Badrinath, Uttarakhand / Kailash range",
+    "Nearby_Distances_km": [
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 1
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 41
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 139
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 156
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 176
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 227
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 265
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 266
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 271
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 277
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 283
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 293
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 322
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 323
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 328
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 379
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 393
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 403
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 455
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 500
+      }
+    ],
+    "Notes": "Bhima encountered Hanuman while searching for Saugandhika lotus",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_029"
+      }
+    ]
+  },
+  "@kailasa": {
+    "Name": "Kailasa",
+    "Type": "Mountain",
+    "Region": "Northern Bharata",
+    "Famous_For": [
+      "Abode of Shiva and Parvati",
+      "Kubera's residence"
+    ],
+    "Geography": {
+      "Terrain": "Sacred peak",
+      "Climate": "Alpine/glacial"
+    },
+    "Coordinates": {
+      "lat": 31.0672,
+      "lng": 81.3119
+    },
+    "Modern_Equivalent": "Mount Kailash, Tibet (China)",
+    "Nearby_Distances_km": [
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 176
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 177
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 217
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 311
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 326
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 351
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 381
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 439
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 442
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 447
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 456
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 469
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 478
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 478
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 481
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 483
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 488
+      }
+    ],
+    "Notes": "Mount Kailash - sacred abode of Lord Shiva. Active pilgrimage destination."
+  },
+  "@vindhya": {
+    "Name": "Vindhya",
+    "Type": "Mountain",
+    "Region": "Central Bharata",
+    "Famous_For": [
+      "Divides north and south India",
+      "Ancient mountain range"
+    ],
+    "Geography": {
+      "Terrain": "Old mountain range",
+      "Climate": "Tropical"
+    },
+    "Coordinates": {
+      "lat": 24.0,
+      "lng": 80.5
+    },
+    "Modern_Equivalent": "Vindhya Range, Madhya Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@narmada_river",
+        "Name": "Narmada",
+        "km": 105
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 165
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 290
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 305
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 319
+      },
+      {
+        "To": "@vidarbha",
+        "Name": "Vidarbha",
+        "km": 349
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 354
+      },
+      {
+        "To": "@ekachakra",
+        "Name": "Ekachakra",
+        "km": 454
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 481
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 487
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 488
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 497
+      }
+    ]
+  },
+  "@svarga": {
+    "Name": "Svarga",
+    "Type": "Celestial",
+    "Region": "Cosmic",
+    "Ruler": "@indra",
+    "Famous_For": [
+      "Heaven of gods",
+      "Arjuna trained here",
+      "Pandavas ascended here"
+    ],
+    "Residents": [
+      "@indra"
+    ],
+    "Mythical": true,
+    "Notes": "Indra's heaven; Arjuna spent time here learning weapons and dance",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_027"
+      },
+      {
+        "Event": "@evt_058"
+      }
+    ]
+  },
+  "@brahmaloka": {
+    "Name": "Brahmaloka",
+    "Type": "Celestial",
+    "Region": "Cosmic",
+    "Ruler": "@brahma",
+    "Famous_For": [
+      "Highest heaven",
+      "Abode of Brahma"
+    ],
+    "Mythical": true,
+    "Notes": "The highest celestial realm"
+  },
+  "@patala": {
+    "Name": "Patala",
+    "Type": "Celestial",
+    "Region": "Cosmic",
+    "Famous_For": [
+      "Underworld",
+      "Realm of Nagas",
+      "Arjuna visited Ulupi here"
+    ],
+    "Mythical": true,
+    "Notes": "Subterranean realm of Nagas"
+  },
+  "@amaravati": {
+    "Name": "Amaravati",
+    "Type": "Celestial",
+    "Region": "Cosmic",
+    "Ruler": "@indra",
+    "Famous_For": [
+      "Capital of Svarga",
+      "Indra's court"
+    ],
+    "Mythical": true,
+    "Notes": "City of the gods in Indra's heaven"
+  },
+  "@ekachakra": {
+    "Name": "Ekachakra",
+    "Type": "Village",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Bhima killed Bakasura here",
+      "Pandavas lived in disguise"
+    ],
+    "Coordinates": {
+      "lat": 25.5549,
+      "lng": 84.6634
+    },
+    "Modern_Equivalent": "Arrah/Chakranagar, Bihar",
+    "Nearby_Distances_km": [
+      {
+        "To": "@magadha",
+        "Name": "Magadha",
+        "km": 96
+      },
+      {
+        "To": "@girivraja",
+        "Name": "Girivraja",
+        "km": 96
+      },
+      {
+        "To": "@kashi",
+        "Name": "Kashi",
+        "km": 172
+      },
+      {
+        "To": "@anga",
+        "Name": "Anga",
+        "km": 236
+      },
+      {
+        "To": "@champapuri",
+        "Name": "Champapuri",
+        "km": 237
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 282
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 435
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 441
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 454
+      }
+    ],
+    "Notes": "Pandavas stayed here as Brahmins after Lakshagriha escape",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_017"
+      }
+    ]
+  },
+  "@upaplavya": {
+    "Name": "Upaplavya",
+    "Type": "City",
+    "Parent_Kingdom": "@matsya",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Pandava war camp",
+      "Alliance meetings before war"
+    ],
+    "Coordinates": {
+      "lat": 27.05,
+      "lng": 76.4
+    },
+    "Modern_Equivalent": "Near Bairat, Rajasthan",
+    "Nearby_Distances_km": [
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 3
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 36
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 135
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 142
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 184
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 192
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 193
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 211
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 217
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 244
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 282
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 283
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 326
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 327
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 328
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 332
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 365
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 384
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 403
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 429
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 482
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 485
+      }
+    ],
+    "Notes": "City in Matsya where Pandavas gathered allies before war"
+  },
+  "@mathura": {
+    "Name": "Mathura",
+    "Type": "City",
+    "Region": "Bharata",
+    "Famous_For": [
+      "Krishna's birthplace",
+      "Kamsa's capital"
+    ],
+    "Geography": {
+      "Terrain": "Banks of Yamuna",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 27.4924,
+      "lng": 77.6737
+    },
+    "Modern_Equivalent": "Mathura, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 10
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 118
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 131
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 131
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 135
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 138
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 149
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 178
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 189
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 198
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 207
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 241
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 277
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 286
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 287
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 288
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 294
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 296
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 311
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 347
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 385
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 402
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 403
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 455
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 472
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 481
+      }
+    ],
+    "Notes": "Krishna was born here in Kamsa's prison. Keshava Deo temple at birthplace."
+  },
+  "@vrindavana": {
+    "Name": "Vrindavana",
+    "Type": "Village",
+    "Region": "Bharata",
+    "Nearby_Locations": [
+      "@mathura"
+    ],
+    "Famous_For": [
+      "Krishna's childhood",
+      "Gokula nearby"
+    ],
+    "Geography": {
+      "Terrain": "Banks of Yamuna",
+      "Climate": "Subtropical"
+    },
+    "Coordinates": {
+      "lat": 27.583,
+      "lng": 77.7013
+    },
+    "Modern_Equivalent": "Vrindavan, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 10
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 109
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 122
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 123
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 142
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 144
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 153
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 168
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 178
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 191
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 217
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 232
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 267
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 277
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 279
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 284
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 288
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 288
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 321
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 351
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 375
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 392
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 393
+      },
+      {
+        "To": "@koshala",
+        "Name": "Koshala",
+        "km": 454
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 464
+      },
+      {
+        "To": "@vindhya",
+        "Name": "Vindhya",
+        "km": 487
+      }
+    ]
+  },
+  "@shatashriga": {
+    "Name": "Shatashriga",
+    "Type": "Mountain",
+    "Region": "Northern Bharata",
+    "Famous_For": [
+      "Pandu's death",
+      "Pandavas' early childhood"
+    ],
+    "Coordinates": {
+      "lat": 30.0869,
+      "lng": 78.2676
+    },
+    "Modern_Equivalent": "Near Haridwar/Rishikesh foothills, Uttarakhand",
+    "Nearby_Distances_km": [
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 19
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 105
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 106
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 134
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 138
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 139
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 140
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 142
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 145
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 163
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 192
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 192
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 200
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 222
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 284
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 292
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 294
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 311
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 370
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 384
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 387
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 429
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 445
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 496
+      }
+    ],
+    "Notes": "Mountain where Pandu lived in exile and died. Identified with Shivalik foothills.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_005"
+      },
+      {
+        "Event": "@evt_007"
+      },
+      {
+        "Event": "@evt_008"
+      },
+      {
+        "Event": "@evt_010"
+      },
+      {
+        "Event": "@evt_011"
+      },
+      {
+        "Event": "@evt_012"
+      }
+    ]
+  },
+  "@badarikashrama": {
+    "Name": "Badarikashrama",
+    "Type": "Hermitage",
+    "Region": "Northern Bharata",
+    "Famous_For": [
+      "Vyasa's ashram",
+      "Nara-Narayana tapas"
+    ],
+    "Geography": {
+      "Terrain": "Himalayan valley",
+      "Climate": "Alpine"
+    },
+    "Coordinates": {
+      "lat": 30.7433,
+      "lng": 79.4938
+    },
+    "Modern_Equivalent": "Badrinath, Uttarakhand",
+    "Nearby_Distances_km": [
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 1
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 41
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 138
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 155
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 177
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 226
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 264
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 265
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 271
+      },
+      {
+        "To": "@lakshagriha",
+        "Name": "Lakshagriha",
+        "km": 276
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 282
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 292
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 321
+      },
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 322
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 327
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 379
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 392
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 402
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 454
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 499
+      }
+    ]
+  },
+  "@lakshagriha": {
+    "Name": "Lakshagriha",
+    "Type": "City",
+    "Region": "Bharata",
+    "Famous_For": [
+      "House of lac",
+      "Duryodhana's plot to burn Pandavas"
+    ],
+    "Coordinates": {
+      "lat": 29.07,
+      "lng": 77.38
+    },
+    "Modern_Equivalent": "Barnawa (Varanavata), Baghpat district, Uttar Pradesh",
+    "Nearby_Distances_km": [
+      {
+        "To": "@indraprastha",
+        "Name": "Indraprastha",
+        "km": 53
+      },
+      {
+        "To": "@yamuna_river",
+        "Name": "Yamuna",
+        "km": 53
+      },
+      {
+        "To": "@hastinapura",
+        "Name": "Hastinapura",
+        "km": 63
+      },
+      {
+        "To": "@khandava_forest",
+        "Name": "Khandava Forest",
+        "km": 64
+      },
+      {
+        "To": "@kamyaka_forest",
+        "Name": "Kamyaka Forest",
+        "km": 71
+      },
+      {
+        "To": "@kurukshetra",
+        "Name": "Kurukshetra",
+        "km": 111
+      },
+      {
+        "To": "@dvaitavana",
+        "Name": "Dvaitavana",
+        "km": 114
+      },
+      {
+        "To": "@ganga_river",
+        "Name": "Ganga",
+        "km": 123
+      },
+      {
+        "To": "@sarasvati_river",
+        "Name": "Sarasvati",
+        "km": 127
+      },
+      {
+        "To": "@shatashriga",
+        "Name": "Shatashriga",
+        "km": 142
+      },
+      {
+        "To": "@vrindavana",
+        "Name": "Vrindavana",
+        "km": 168
+      },
+      {
+        "To": "@mathura",
+        "Name": "Mathura",
+        "km": 178
+      },
+      {
+        "To": "@panchala",
+        "Name": "Panchala",
+        "km": 215
+      },
+      {
+        "To": "@matsya",
+        "Name": "Matsya",
+        "km": 228
+      },
+      {
+        "To": "@upaplavya",
+        "Name": "Upaplavya",
+        "km": 244
+      },
+      {
+        "To": "@himalayas",
+        "Name": "Himalayas",
+        "km": 246
+      },
+      {
+        "To": "@viratanagara",
+        "Name": "Viratanagara",
+        "km": 248
+      },
+      {
+        "To": "@badarikashrama",
+        "Name": "Badarikashrama",
+        "km": 276
+      },
+      {
+        "To": "@gandhamadana",
+        "Name": "Gandhamadana",
+        "km": 277
+      },
+      {
+        "To": "@trigarta",
+        "Name": "Trigarta",
+        "km": 305
+      },
+      {
+        "To": "@nishadha",
+        "Name": "Nishadha",
+        "km": 385
+      },
+      {
+        "To": "@naimisha_forest",
+        "Name": "Naimisha Forest",
+        "km": 397
+      },
+      {
+        "To": "@kailasa",
+        "Name": "Kailasa",
+        "km": 439
+      },
+      {
+        "To": "@kunti_kingdom",
+        "Name": "Kunti",
+        "km": 454
+      },
+      {
+        "To": "@madra",
+        "Name": "Madra",
+        "km": 468
+      },
+      {
+        "To": "@chedi",
+        "Name": "Chedi",
+        "km": 495
+      }
+    ],
+    "Notes": "Also called Varanavata; trap set for Pandavas. Lacquer mound (Laksha ka Tila) survives at Barnawa.",
+    "Events_Occurred": [
+      {
+        "Event": "@evt_016"
+      }
+    ]
+  }
+}

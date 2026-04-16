@@ -1,0 +1,14 @@
+# Large binary files
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp
+*.log
+run_log.txt

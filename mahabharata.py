@@ -874,7 +874,11 @@ def step4_characters(base_dir):
 
     def add(primary, *, aliases=None, father=None, mother=None,
             siblings=None, spouse=None, gender=None,
-            caste=None, duty=None, dynasty=None, status=None):
+            caste=None, duty=None, dynasty=None, status=None,
+            kingdom=None, political_role=None,
+            skills=None, divine_weapons=None, titles=None,
+            traits=None, character_arc=None,
+            key_relationships=None, important_locations=None):
         """spouse: list of strings OR list of (name, relation) tuples.
            Plain strings default to relation 'Wife'/'Husband' based on gender."""
         k = _key(primary)
@@ -883,7 +887,11 @@ def step4_characters(base_dir):
                         'father': None, 'mother': None,
                         'siblings': set(), 'spouse': [],
                         'gender': 'Unknown',
-                        'caste': '', 'duty': '', 'dynasty': '', 'status': ''}
+                        'caste': '', 'duty': '', 'dynasty': '', 'status': '',
+                        'kingdom': '', 'political_role': '',
+                        'skills': [], 'divine_weapons': [], 'titles': [],
+                        'traits': [], 'character_arc': [],
+                        'key_relationships': [], 'important_locations': []}
         c = chars[k]
         if aliases:
             for a in aliases:
@@ -922,6 +930,29 @@ def step4_characters(base_dir):
             c['dynasty'] = dynasty
         if status and not c['status']:
             c['status'] = status
+        if kingdom and not c['kingdom']:
+            c['kingdom'] = kingdom
+        if political_role and not c['political_role']:
+            c['political_role'] = political_role
+        if skills:
+            c['skills'] = list(dict.fromkeys(c['skills'] + skills))
+        if divine_weapons:
+            c['divine_weapons'] = list(dict.fromkeys(c['divine_weapons'] + divine_weapons))
+        if titles:
+            c['titles'] = list(dict.fromkeys(c['titles'] + titles))
+        if traits:
+            c['traits'] = list(dict.fromkeys(c['traits'] + traits))
+        if character_arc:
+            c['character_arc'] = list(dict.fromkeys(c['character_arc'] + character_arc))
+        if key_relationships:
+            existing_pairs = {(kr['With'], kr['Type']) for kr in c['key_relationships']}
+            for kr in key_relationships:
+                pair = (kr['With'], kr['Type'])
+                if pair not in existing_pairs:
+                    c['key_relationships'].append(kr)
+                    existing_pairs.add(pair)
+        if important_locations:
+            c['important_locations'] = list(dict.fromkeys(c['important_locations'] + important_locations))
 
     def _spouse_keys(c):
         """Return list of spouse keys from the (key, relation) tuple list."""
@@ -950,7 +981,11 @@ def step4_characters(base_dir):
                         'father': None, 'mother': None,
                         'siblings': set(), 'spouse': [],
                         'gender': gender or 'Unknown',
-                        'caste': '', 'duty': '', 'dynasty': '', 'status': ''}
+                        'caste': '', 'duty': '', 'dynasty': '', 'status': '',
+                        'kingdom': '', 'political_role': '',
+                        'skills': [], 'divine_weapons': [], 'titles': [],
+                        'traits': [], 'character_arc': [],
+                        'key_relationships': [], 'important_locations': []}
         elif gender and gender != 'Unknown' and chars[k]['gender'] == 'Unknown':
             chars[k]['gender'] = gender
         return k
@@ -962,27 +997,105 @@ def step4_characters(base_dir):
         father="Pandu", mother="Kunti",
         siblings=["Bhima","Arjuna","Nakula","Sahadeva"],
         spouse=["Draupadi"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Kuru", status="Alive")
+        caste="Kshatriya", duty="King", dynasty="Kuru", status="Alive",
+        kingdom="indraprastha", political_role="Emperor",
+        skills=["Dharma","Spear combat","Dice","Statecraft","Diplomacy"],
+        divine_weapons=["Spear of Dharma"],
+        titles=["Dharmaraja","Ajatashatru","Emperor of Indraprastha"],
+        traits=["Righteous","Truthful","Just","Compassionate","Overly virtuous"],
+        character_arc=["Born to Kunti via Yama (Dharma)","Heir apparent to Hastinapura",
+            "Rajasuya Yajna - crowned emperor","Lost kingdom in dice game",
+            "13 years of exile","Led Pandavas in Kurukshetra War",
+            "Crowned King of Hastinapura after war","Retired to forest","Ascended to Svarga"],
+        key_relationships=[
+            {"With":"@krishna","Type":"Guide"},
+            {"With":"@duryodhana","Type":"Rival"},
+            {"With":"@vidura","Type":"Guide"},
+            {"With":"@draupadi","Type":"Spouse"},
+            {"With":"@bhima","Type":"Brother"},
+            {"With":"@arjuna","Type":"Brother"}],
+        important_locations=["hastinapura","indraprastha","kamyaka_forest","kurukshetra","svarga"])
     add("Bhima", aliases=["Bhimasena","Vrikodara"],
         father="Pandu", mother="Kunti",
         siblings=["Yudhishthira","Arjuna","Nakula","Sahadeva"],
         spouse=[("Draupadi","Wife"),("Hidimba","Gandharva marriage")], gender="Male",
-        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive")
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive",
+        kingdom="indraprastha", political_role="Prince",
+        skills=["Mace combat","Wrestling","Immense strength","Cooking"],
+        titles=["Vrikodara","Ballava"],
+        traits=["Fierce","Loyal","Wrathful","Protective","Gluttonous"],
+        character_arc=["Born to Kunti via Vayu","Poisoned by Duryodhana - survived",
+            "Killed Bakasura at Ekachakra","Killed Hidimba - married Hidimba (sister)",
+            "Killed Jarasandha in wrestling duel","Served as cook Ballava in Virata",
+            "Vowed to kill all 100 Kauravas","Killed Duhshasana - drank his blood",
+            "Killed Duryodhana in mace duel","Ascended to Svarga"],
+        key_relationships=[
+            {"With":"@duryodhana","Type":"Enemy"},
+            {"With":"@duhshasana","Type":"Enemy"},
+            {"With":"@hanuman","Type":"Brother"},
+            {"With":"@draupadi","Type":"Spouse"},
+            {"With":"@ghatotkacha","Type":"Father"}],
+        important_locations=["hastinapura","indraprastha","ekachakra","kamyaka_forest","viratanagara","kurukshetra"])
     add("Arjuna", aliases=["Partha","Dhananjaya","Savyasachi","Gudakesha",
         "Phalguna","Kiriti","Bibhatsu","Vijaya","Shvetavahana","Jishnu",
         "Kaunteya","Kounteya","Gandivadhanva"],
         father="Pandu", mother="Kunti",
         siblings=["Yudhishthira","Bhima","Nakula","Sahadeva"],
         spouse=[("Draupadi","Wife"),("Subhadra","Wife"),("Ulupi","Wife"),("Chitrangada_manipura","Wife")], gender="Male",
-        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive")
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive",
+        kingdom="indraprastha", political_role="Prince",
+        skills=["Archery","Sword combat","Celestial weapons mastery","Dance","Music"],
+        divine_weapons=["Gandiva bow","Pashupatastra","Brahmastra","Aindraastra",
+            "Varunastra","Agneyastra","Vayavyastra","Narayanastra"],
+        titles=["Partha","Savyasachi","Dhananjaya","Gudakesha","Kiriti","Bibhatsu",
+            "Vijaya","Shvetavahana","Jishnu","Phalguna","Brihannala"],
+        traits=["Skilled","Disciplined","Devoted","Courageous","Self-doubting"],
+        character_arc=["Born to Kunti via Indra","Trained under Drona - best archer",
+            "Won Draupadi at Swayamvara","Burned Khandava forest with Krishna",
+            "Exile - penance to Shiva (Pashupatastra)","Trained in Svarga under Indra",
+            "Lived as Brihannala in Virata","Received Bhagavad Gita from Krishna",
+            "Fought and won Kurukshetra War","Killed Karna","Ashvamedha Yajna",
+            "Ascended to Svarga"],
+        key_relationships=[
+            {"With":"@krishna","Type":"Friend"},
+            {"With":"@drona","Type":"Guru"},
+            {"With":"@karna","Type":"Rival"},
+            {"With":"@subhadra","Type":"Spouse"},
+            {"With":"@draupadi","Type":"Spouse"},
+            {"With":"@abhimanyu","Type":"Father"},
+            {"With":"@indra","Type":"Divine father"}],
+        important_locations=["hastinapura","indraprastha","khandava_forest","svarga",
+            "viratanagara","kurukshetra","manipura","dvaraka"])
     add("Nakula", father="Pandu", mother="Madri",
         siblings=["Yudhishthira","Bhima","Arjuna","Sahadeva"],
         spouse=["Draupadi"], gender="Male",
-        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive")
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive",
+        kingdom="indraprastha", political_role="Prince",
+        skills=["Sword combat","Horse keeping","Ayurveda","Handsome appearance"],
+        titles=["Granthika"],
+        traits=["Handsome","Skilled horseman","Loyal","Humble"],
+        character_arc=["Born to Madri via Ashvins","Trained under Drona",
+            "Served as horse-keeper Granthika in Virata",
+            "Fought in Kurukshetra War","Ascended to Svarga"],
+        key_relationships=[
+            {"With":"@sahadeva","Type":"Twin brother"},
+            {"With":"@draupadi","Type":"Spouse"}],
+        important_locations=["hastinapura","indraprastha","viratanagara","kurukshetra"])
     add("Sahadeva", father="Pandu", mother="Madri",
         siblings=["Yudhishthira","Bhima","Arjuna","Nakula"],
         spouse=["Draupadi"], gender="Male",
-        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive")
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Alive",
+        kingdom="indraprastha", political_role="Prince",
+        skills=["Sword combat","Astrology","Cattle keeping","Intelligence"],
+        titles=["Tantipala"],
+        traits=["Wise","Knowledgeable","Modest","Loyal"],
+        character_arc=["Born to Madri via Ashvins","Trained under Drona",
+            "Served as cowherd Tantipala in Virata",
+            "Fought in Kurukshetra War","Fell during Mahaprasthana"],
+        key_relationships=[
+            {"With":"@nakula","Type":"Twin brother"},
+            {"With":"@draupadi","Type":"Spouse"}],
+        important_locations=["hastinapura","indraprastha","viratanagara","kurukshetra"])
 
     # Kauravas - 100 sons of Gandhari + 1 daughter (Duhshala) + Yuyutsu from Sughada
     # Birth order per Adi Parva Ch.108
@@ -1012,7 +1125,24 @@ def step4_characters(base_dir):
     add("Duryodhana", aliases=["Suyodhana"],
         father="Dhritarashtra", mother="Gandhari",
         spouse=["Bhanumati"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Crown Prince",
+        skills=["Mace combat","Statecraft","Leadership"],
+        titles=["Suyodhana","King of Hastinapura"],
+        traits=["Ambitious","Jealous","Brave","Loyal to friends","Wrathful","Proud"],
+        character_arc=["Born first among 100 Kauravas","Jealous of Pandavas from childhood",
+            "Poisoned Bhima as youth","Conspired lac palace (Lakshagriha)",
+            "Orchestrated dice game - humiliated Draupadi","Refused to return kingdom after exile",
+            "Rejected Krishna's peace offer","Led Kaurava army in Kurukshetra War",
+            "Last Kaurava standing","Killed by Bhima in mace duel on Day 18"],
+        key_relationships=[
+            {"With":"@karna","Type":"Friend"},
+            {"With":"@shakuni","Type":"Guide"},
+            {"With":"@bhima","Type":"Rival"},
+            {"With":"@yudhishthira","Type":"Rival"},
+            {"With":"@drona","Type":"Guru"},
+            {"With":"@balarama","Type":"Guru"}],
+        important_locations=["hastinapura","kurukshetra"])
     add("Duhshasana", aliases=["Duhshaasana"],
         father="Dhritarashtra", mother="Gandhari",
         gender="Male", caste="Kshatriya", duty="Prince", dynasty="Kuru", status="Deceased")
@@ -1063,35 +1193,126 @@ def step4_characters(base_dir):
         father="Vichitravirya", mother="Ambika",
         spouse=[("Gandhari","Wife"), ("Sughada","Concubine")],
         siblings=["Pandu","Vidura"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="King",
+        skills=["Immense physical strength","Statecraft"],
+        titles=["King of Hastinapura","Blind King"],
+        traits=["Blind","Indecisive","Partial to sons","Grieving father","Weak-willed"],
+        character_arc=["Born blind via Niyoga from Vyasa","Passed over for throne due to blindness",
+            "Became regent after Pandu's death","Failed to restrain Duryodhana",
+            "Approved dice game","Witnessed war through Sanjaya's narration",
+            "Lost all 100 sons in war","Retired to forest with Gandhari","Died in forest fire"],
+        key_relationships=[
+            {"With":"@gandhari","Type":"Spouse"},
+            {"With":"@duryodhana","Type":"Father"},
+            {"With":"@vidura","Type":"Brother"},
+            {"With":"@sanjaya","Type":"Adviser"},
+            {"With":"@pandu","Type":"Brother"}],
+        important_locations=["hastinapura"])
     add("Sughada", aliases=["Vaishya maid","Vaishya woman"],
         spouse=[("Dhritarashtra","Concubine")], gender="Female",
         caste="Vaishya", dynasty="Kuru")
     add("Pandu", father="Vichitravirya", mother="Ambalika",
         spouse=[("Kunti","Wife"),("Madri","Wife")],
         siblings=["Dhritarashtra","Vidura"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="King",
+        skills=["Archery","Warfare","Conquest"],
+        titles=["Pandu the Pale","King of Hastinapura"],
+        traits=["Valiant","Cursed","Remorseful","Expansionist"],
+        character_arc=["Born to Ambalika via Niyoga from Vyasa","Crowned king (Dhritarashtra blind)",
+            "Conquered many kingdoms","Cursed by sage Kindama","Retired to forest",
+            "Sons born via divine boons of Kunti and Madri","Died from curse when approaching Madri"],
+        key_relationships=[
+            {"With":"@kunti","Type":"Spouse"},
+            {"With":"@madri","Type":"Spouse"},
+            {"With":"@dhritarashtra","Type":"Brother"}],
+        important_locations=["hastinapura","shatashriga"])
     add("Vidura", aliases=["Kshatta"],
         siblings=["Dhritarashtra","Pandu"], gender="Male",
-        caste="Kshatriya", duty="Minister", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="Minister", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Prime Minister",
+        skills=["Diplomacy","Dharma","Statecraft","Wisdom"],
+        titles=["Kshatta","Dharma incarnation"],
+        traits=["Wise","Righteous","Impartial","Courageous speaker of truth"],
+        character_arc=["Born to maid via Niyoga from Vyasa","Served as minister of Hastinapura",
+            "Warned Pandavas of Lakshagriha plot","Opposed dice game",
+            "Counseled Dhritarashtra for peace","Left court in disgust","Died during forest retirement"],
+        key_relationships=[
+            {"With":"@yudhishthira","Type":"Guide"},
+            {"With":"@dhritarashtra","Type":"Brother"},
+            {"With":"@kunti","Type":"Ally"}],
+        important_locations=["hastinapura"])
     add("Kunti", aliases=["Pritha"],
         father="Shurasena",
         spouse=[("Pandu","Husband"),("Surya","Divine boon"),("Yama","Divine boon"),("Vayu","Divine boon"),("Indra","Divine boon")], gender="Female",
-        caste="Kshatriya", duty="Queen", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="Queen", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Queen Mother",
+        skills=["Divine invocation mantra","Devotion","Endurance"],
+        titles=["Pritha","Queen Mother"],
+        traits=["Devoted mother","Strong","Secretive","Sacrificing","Resilient"],
+        character_arc=["Born as Pritha - adopted by Kuntibhoja","Received divine mantra from Durvasa",
+            "Invoked Surya - bore Karna (abandoned)","Married Pandu",
+            "Bore Yudhishthira (Yama), Bhima (Vayu), Arjuna (Indra)",
+            "Shared mantra with Madri for Nakula & Sahadeva",
+            "Raised Pandavas in Hastinapura after Pandu's death",
+            "Revealed Karna's identity before war","Retired to forest","Died in forest fire"],
+        key_relationships=[
+            {"With":"@karna","Type":"Secret mother"},
+            {"With":"@yudhishthira","Type":"Mother"},
+            {"With":"@vidura","Type":"Ally"},
+            {"With":"@pandu","Type":"Spouse"},
+            {"With":"@draupadi","Type":"Mother-in-law"}],
+        important_locations=["hastinapura","kunti_kingdom","indraprastha"])
     add("Madri", spouse=[("Pandu","Husband"),("Ashvins","Divine boon")], gender="Female",
         caste="Kshatriya", duty="Queen", dynasty="Kuru", status="Deceased")
     add("Gandhari", father="Subala",
         spouse=[("Dhritarashtra","Husband")], gender="Female",
-        caste="Kshatriya", duty="Queen", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="Queen", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Queen",
+        skills=["Austerity","Divine powers from tapas"],
+        titles=["Queen of Hastinapura","Blindfolded Queen"],
+        traits=["Devoted wife","Strong-willed","Blind devotion","Grieving mother","Powerful"],
+        character_arc=["Born princess of Gandhara","Blindfolded herself after marrying blind Dhritarashtra",
+            "Mother of 100 sons and 1 daughter","Cursed Krishna for not preventing war",
+            "Lost all sons in war","Retired to forest","Died in forest fire"],
+        key_relationships=[
+            {"With":"@dhritarashtra","Type":"Spouse"},
+            {"With":"@duryodhana","Type":"Mother"},
+            {"With":"@shakuni","Type":"Brother"},
+            {"With":"@krishna","Type":"Adversary"},
+            {"With":"@kunti","Type":"Rival"}],
+        important_locations=["hastinapura","gandhara"])
 
     # Bhishma's line
     add("Bhishma", aliases=["Devavrata","Gangeya","Shantanava"],
         father="Shantanu", mother="Ganga", gender="Male",
-        caste="Kshatriya", duty="Regent", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="Regent", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Regent and Grand-sire",
+        skills=["Archery","All weapons mastery","Statecraft","Celibacy vow"],
+        divine_weapons=["Brahmastra","Prasvapana"],
+        titles=["Devavrata","Gangeya","Pitamaha","Grand-sire of Kuru"],
+        traits=["Vow-keeper","Invincible","Wise","Tragic","Bound by duty"],
+        character_arc=["Born to Shantanu and Ganga - 8th Vasu","Took vow of celibacy (Bhishma Pratigya)",
+            "Abducted Amba, Ambika, Ambalika for Vichitravirya",
+            "Served as regent of Hastinapura across generations",
+            "Became Kaurava commander (Days 1-10)","Shot by Arjuna using Shikhandi as shield",
+            "Lay on bed of arrows","Taught Shanti Parva wisdom","Died on Uttarayana"],
+        key_relationships=[
+            {"With":"@arjuna","Type":"Grandfather figure"},
+            {"With":"@duryodhana","Type":"Grandfather figure"},
+            {"With":"@drona","Type":"Ally"},
+            {"With":"@shikhandi","Type":"Adversary"},
+            {"With":"@amba","Type":"Adversary"},
+            {"With":"@parashurama","Type":"Guru"}],
+        important_locations=["hastinapura","kurukshetra"])
     add("Shantanu", aliases=["king of Hastinapura"],
         spouse=[("Ganga","Wife"),("Satyavati","Wife")],
         father="Pratipa", gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="King",
+        traits=["Romantic","Generous","Just"],
+        important_locations=["hastinapura"])
     add("Ganga", aliases=["Bhagirathi","Jahnavi"],
         spouse=["Shantanu"], gender="Female",
         duty="River goddess", status="Immortal")
@@ -1118,7 +1339,19 @@ def step4_characters(base_dir):
         father="Parashara", mother="Satyavati",
         spouse=[("Ambika","Niyoga"),("Ambalika","Niyoga")],
         gender="Male",
-        caste="Brahmin", duty="Sage", status="Immortal")
+        caste="Brahmin", duty="Sage", status="Immortal",
+        skills=["Vedic knowledge","Authorship","Prophecy","Niyoga"],
+        titles=["Vedavyasa","Krishna Dvaipayana","Chiranjivi"],
+        traits=["Wise","Omniscient narrator","Dark-complexioned","Detached"],
+        character_arc=["Born to Parashara and Satyavati on island","Compiled the Vedas",
+            "Authored the Mahabharata","Fathered Dhritarashtra, Pandu, Vidura via Niyoga",
+            "Witnessed and narrated the great war","Immortal sage"],
+        key_relationships=[
+            {"With":"@dhritarashtra","Type":"Father (Niyoga)"},
+            {"With":"@pandu","Type":"Father (Niyoga)"},
+            {"With":"@satyavati","Type":"Mother"},
+            {"With":"@vaishampayana","Type":"Disciple"}],
+        important_locations=["hastinapura","badarikashrama"])
     add("Parashara", spouse=[("Satyavati","Pre-marital union")],
         gender="Male", caste="Brahmin", duty="Sage")
     add("Shuka", aliases=["son of Vyasa"],
@@ -1132,12 +1365,48 @@ def step4_characters(base_dir):
         father="Vasudeva_father", mother="Devaki",
         siblings=["Balarama","Subhadra"],
         spouse=[("Rukmini","Wife"),("Satyabhama","Wife"),("Jambavati","Wife")], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Yadava", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Yadava", status="Deceased",
+        kingdom="dvaraka", political_role="King of Dvaraka",
+        skills=["Diplomacy","Statecraft","Charioteer","Divine knowledge","Sudarshana Chakra","Flute"],
+        divine_weapons=["Sudarshana Chakra","Kaumodaki mace","Sharnga bow","Nandaka sword"],
+        titles=["Vasudeva","Keshava","Govinda","Madhava","Janardana","Purushottama",
+            "Lord of Dvaraka","Yogeshvara","Parthasarathi"],
+        traits=["Wise","Strategic","Divine","Playful","Just","Compassionate","Pragmatic"],
+        character_arc=["Born to Devaki and Vasudeva in prison","Grew up in Gokula/Vrindavana",
+            "Killed Kamsa","Built Dvaraka","Befriended Arjuna",
+            "Burned Khandava forest with Arjuna","Killed Shishupala at Rajasuya",
+            "Peace ambassador to Kauravas (failed)","Charioteer of Arjuna in war",
+            "Delivered Bhagavad Gita","Guided Pandavas to victory","Cursed by Gandhari",
+            "Yadava civil war (Mausala)","Shot by hunter Jara","Left mortal world"],
+        key_relationships=[
+            {"With":"@arjuna","Type":"Friend"},
+            {"With":"@yudhishthira","Type":"Guide"},
+            {"With":"@draupadi","Type":"Friend"},
+            {"With":"@duryodhana","Type":"Adversary"},
+            {"With":"@karna","Type":"Adversary"},
+            {"With":"@balarama","Type":"Brother"},
+            {"With":"@subhadra","Type":"Sister"},
+            {"With":"@bhishma","Type":"Respected elder"}],
+        important_locations=["dvaraka","mathura","vrindavana","hastinapura","indraprastha",
+            "kurukshetra","khandava_forest"])
     add("Balarama", aliases=["Baladeva","Halayudhu","Haladhara","Sankarshana"],
         father="Vasudeva_father", mother="Rohini",
         siblings=["Krishna","Subhadra"],
         spouse=["Revati"], gender="Male",
-        caste="Kshatriya", duty="Prince", dynasty="Yadava", status="Deceased")
+        caste="Kshatriya", duty="Prince", dynasty="Yadava", status="Deceased",
+        kingdom="dvaraka", political_role="Prince of Dvaraka",
+        skills=["Mace combat","Plough weapon"],
+        divine_weapons=["Plough (Hala)","Mace (Saunanda)"],
+        titles=["Baladeva","Halayudha","Sankarshana"],
+        traits=["Strong","Hot-tempered","Neutral in war","Fond of Duryodhana"],
+        character_arc=["Born to Rohini (transferred from Devaki)","Trained Duryodhana and Bhima in mace",
+            "Refused to fight in war (neutral)","Went on pilgrimage during war",
+            "Angered at Bhima's foul blow to Duryodhana","Died during Mausala"],
+        key_relationships=[
+            {"With":"@krishna","Type":"Brother"},
+            {"With":"@duryodhana","Type":"Guru"},
+            {"With":"@bhima","Type":"Guru"}],
+        important_locations=["dvaraka","mathura"])
     add("Subhadra",
         father="Vasudeva_father",
         siblings=["Krishna","Balarama"],
@@ -1170,7 +1439,27 @@ def step4_characters(base_dir):
     add("Karna", aliases=["Radheya","Vasusena","Anga-raja","Vrisha","Vaikartana"],
         mother="Kunti", father="Surya",
         spouse=[("Vrushali","Wife")], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Anga", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Anga", status="Deceased",
+        kingdom="anga", political_role="King of Anga",
+        skills=["Archery","Generosity","Chariot warfare"],
+        divine_weapons=["Vijaya bow","Shakti weapon (from Indra)","Brahmastra",
+            "Bhargavastra","Nagastra"],
+        titles=["Radheya","Vasusena","Anga-raja","Danveer Karna","Vaikartana"],
+        traits=["Generous","Loyal","Brave","Tragic","Cursed","Honorable"],
+        character_arc=["Born to Kunti via Surya - abandoned at birth",
+            "Raised by charioteer Adhiratha and Radha","Trained under Parashurama - cursed",
+            "Humiliated at tournament - befriended by Duryodhana",
+            "Made King of Anga by Duryodhana","Gave away Kavacha-Kundala to Indra",
+            "Learned true identity from Kunti before war","Fought as Kaurava commander",
+            "Killed by Arjuna on Day 17"],
+        key_relationships=[
+            {"With":"@duryodhana","Type":"Friend"},
+            {"With":"@arjuna","Type":"Rival"},
+            {"With":"@parashurama","Type":"Guru"},
+            {"With":"@kunti","Type":"Mother"},
+            {"With":"@indra","Type":"Adversary"},
+            {"With":"@krishna","Type":"Adversary"}],
+        important_locations=["hastinapura","anga","kurukshetra","champapuri"])
     add("Vrishasena", father="Karna", mother="Vrushali", gender="Male",
         caste="Kshatriya", duty="Warrior", dynasty="Anga", status="Deceased")
     add("Vrishaketu", father="Karna", mother="Vrushali", gender="Male",
@@ -1197,9 +1486,31 @@ def step4_characters(base_dir):
     add("Abhimanyu", aliases=["Soubhadra"],
         father="Arjuna", mother="Subhadra",
         spouse=["Uttaraa"], gender="Male",
-        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased")
+        caste="Kshatriya", duty="Warrior", dynasty="Kuru", status="Deceased",
+        kingdom="indraprastha", political_role="Prince",
+        skills=["Archery","Chakravyuha penetration","Chariot warfare"],
+        titles=["Soubhadra"],
+        traits=["Brave","Young","Fearless","Tragic"],
+        character_arc=["Born to Arjuna and Subhadra","Learned Chakravyuha entry in the womb",
+            "Married Uttaraa of Matsya","Entered Chakravyuha on Day 13",
+            "Killed treacherously by 7 warriors"],
+        key_relationships=[
+            {"With":"@arjuna","Type":"Father"},
+            {"With":"@krishna","Type":"Uncle"},
+            {"With":"@jayadratha","Type":"Enemy"},
+            {"With":"@drona","Type":"Enemy"}],
+        important_locations=["dvaraka","indraprastha","viratanagara","kurukshetra"])
     add("Ghatotkacha", father="Bhima", mother="Hidimba", gender="Male",
-        caste="Rakshasa", duty="Warrior", status="Deceased")
+        caste="Rakshasa", duty="Warrior", status="Deceased",
+        skills=["Shape-shifting","Sorcery","Aerial combat","Immense strength"],
+        traits=["Brave","Devoted to father","Fierce","Selfless"],
+        character_arc=["Born to Bhima and Hidimba in forest","Grew up among Rakshasas",
+            "Joined Pandava army in war","Wreaked havoc on Kaurava forces at night",
+            "Killed by Karna's Shakti weapon on Day 14"],
+        key_relationships=[
+            {"With":"@bhima","Type":"Father"},
+            {"With":"@karna","Type":"Enemy"}],
+        important_locations=["kurukshetra"])
     add("Parikshit", father="Abhimanyu", mother="Uttaraa", gender="Male",
         caste="Kshatriya", duty="King", dynasty="Kuru")
     add("Babhruvahana", father="Arjuna", mother="Chitrangada_manipura",
@@ -1213,10 +1524,44 @@ def step4_characters(base_dir):
     add("Drona", aliases=["Dronacharya","preceptor","acharya"],
         father="Bharadvaja",
         spouse=["Kripi"], gender="Male",
-        caste="Brahmin", duty="Teacher", dynasty="Kuru", status="Deceased")
+        caste="Brahmin", duty="Teacher", dynasty="Kuru", status="Deceased",
+        kingdom="hastinapura", political_role="Royal preceptor",
+        skills=["All weapons mastery","Teaching","Archery","Brahmastra"],
+        divine_weapons=["Brahmastra","Brahmashira","Agneyastra","Varunastra"],
+        titles=["Dronacharya","Acharya","Guru of princes"],
+        traits=["Greatest teacher","Partial to Arjuna","Vengeful","Tragic"],
+        character_arc=["Born from pot (drona) to sage Bharadvaja","Trained under Parashurama",
+            "Humiliated by Drupada","Became teacher of Kuru princes",
+            "Favored Arjuna as best student","Demanded Ekalavya's thumb",
+            "Captured Drupada - took half his kingdom","Fought for Kauravas",
+            "Became commander after Bhishma fell (Days 11-15)",
+            "Killed by Dhrishtadyumna after Ashvatthama deception"],
+        key_relationships=[
+            {"With":"@arjuna","Type":"Guru"},
+            {"With":"@ashvatthama","Type":"Father"},
+            {"With":"@drupada","Type":"Rival"},
+            {"With":"@ekalavya","Type":"Guru"},
+            {"With":"@parashurama","Type":"Guru"},
+            {"With":"@dhrishtadyumna","Type":"Enemy"}],
+        important_locations=["hastinapura","panchala","kurukshetra"])
     add("Ashvatthama", aliases=["Dronaputra"],
         father="Drona", mother="Kripi", gender="Male",
-        caste="Brahmin", duty="Warrior", dynasty="Kuru", status="Immortal")
+        caste="Brahmin", duty="Warrior", dynasty="Kuru", status="Immortal",
+        skills=["All weapons mastery","Brahmastra","Narayanastra"],
+        divine_weapons=["Narayanastra","Brahmashira","Brahmastra","Agneyastra"],
+        titles=["Dronaputra","Chiranjivi"],
+        traits=["Wrathful","Vengeful","Cursed","Immortal"],
+        character_arc=["Son of Drona and Kripi","Grew up in poverty",
+            "Trained alongside Kuru princes","Fought for Kauravas",
+            "Attacked Pandava camp at night (Sauptika)","Killed Upapandavas in sleep",
+            "Launched Brahmashira at Pandavas","Cursed by Krishna to wander 3000 years"],
+        key_relationships=[
+            {"With":"@drona","Type":"Father"},
+            {"With":"@duryodhana","Type":"Friend"},
+            {"With":"@arjuna","Type":"Rival"},
+            {"With":"@dhrishtadyumna","Type":"Enemy"},
+            {"With":"@krishna","Type":"Adversary"}],
+        important_locations=["hastinapura","kurukshetra"])
     add("Bharadvaja", gender="Male", caste="Brahmin", duty="Sage")
     add("Kripi", aliases=["Sharadvati"],
         father="Sharadvat",
@@ -1238,7 +1583,24 @@ def step4_characters(base_dir):
         siblings=["Dhrishtadyumna","Shikhandi"],
         spouse=[("Yudhishthira","Husband"),("Bhima","Husband"),("Arjuna","Husband"),("Nakula","Husband"),("Sahadeva","Husband")],
         gender="Female",
-        caste="Kshatriya", duty="Queen", dynasty="Panchala")
+        caste="Kshatriya", duty="Queen", dynasty="Panchala",
+        kingdom="indraprastha", political_role="Queen",
+        skills=["Statesmanship","Devotion","Endurance"],
+        titles=["Panchali","Krishnaa","Yajnaseni","Queen of Indraprastha"],
+        traits=["Fiery","Beautiful","Vengeful","Devoted","Proud","Resilient"],
+        character_arc=["Born from sacrificial fire of Drupada","Won by Arjuna at Swayamvara",
+            "Married all 5 Pandavas","Queen of Indraprastha",
+            "Humiliated in dice game - vowed vengeance","13 years of exile",
+            "Served as Sairandhri in Virata","Witnessed vengeance in war",
+            "Lost all 5 sons (Upapandavas)","Fell during Mahaprasthana"],
+        key_relationships=[
+            {"With":"@krishna","Type":"Friend"},
+            {"With":"@bhima","Type":"Spouse"},
+            {"With":"@arjuna","Type":"Spouse"},
+            {"With":"@duhshasana","Type":"Enemy"},
+            {"With":"@duryodhana","Type":"Enemy"},
+            {"With":"@kunti","Type":"Mother-in-law"}],
+        important_locations=["panchala","hastinapura","indraprastha","kamyaka_forest","viratanagara","kurukshetra"])
     add("Dhrishtadyumna", aliases=["Panchala prince"],
         father="Drupada",
         siblings=["Draupadi","Shikhandi"], gender="Male",
@@ -1252,17 +1614,62 @@ def step4_characters(base_dir):
     # Other key characters
     add("Jayadratha", aliases=["Saindhava","king of Sindhu"],
         spouse=["Duhshala"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Sindhu", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Sindhu", status="Deceased",
+        kingdom="sindhu", political_role="King of Sindhu",
+        skills=["Warfare","Boon of Shiva (hold Pandavas)"],
+        traits=["Arrogant","Lustful","Cowardly"],
+        character_arc=["King of Sindhu kingdom","Married Duhshala (Kaurava sister)",
+            "Tried to abduct Draupadi in forest","Received boon from Shiva",
+            "Blocked Pandavas from saving Abhimanyu (Day 13)",
+            "Killed by Arjuna before sunset on Day 14"],
+        key_relationships=[
+            {"With":"@arjuna","Type":"Enemy"},
+            {"With":"@abhimanyu","Type":"Enemy"},
+            {"With":"@duryodhana","Type":"Ally"},
+            {"With":"@duhshala","Type":"Spouse"}],
+        important_locations=["sindhu","kurukshetra","kamyaka_forest"])
     add("Shakuni", aliases=["Soubala"],
         father="Subala", siblings=["Gandhari"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Gandhara", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Gandhara", status="Deceased",
+        kingdom="gandhara", political_role="King of Gandhara",
+        skills=["Dice","Deception","Manipulation"],
+        titles=["Soubala","Master of dice"],
+        traits=["Cunning","Manipulative","Vengeful","Scheming"],
+        character_arc=["Prince of Gandhara","Vowed revenge against Kuru (for Gandhari's marriage)",
+            "Mastermind of dice game","Manipulated Duryodhana against Pandavas",
+            "Fought in war","Killed by Sahadeva on Day 18"],
+        key_relationships=[
+            {"With":"@duryodhana","Type":"Guide"},
+            {"With":"@gandhari","Type":"Brother"},
+            {"With":"@yudhishthira","Type":"Enemy"},
+            {"With":"@sahadeva","Type":"Enemy"}],
+        important_locations=["hastinapura","gandhara","kurukshetra"])
     add("Subala", gender="Male",
         caste="Kshatriya", duty="King", dynasty="Gandhara", status="Deceased")
     add("Shalya", aliases=["king of Madra","Madra king"],
         siblings=["Madri"], gender="Male",
-        caste="Kshatriya", duty="King", dynasty="Madra", status="Deceased")
+        caste="Kshatriya", duty="King", dynasty="Madra", status="Deceased",
+        kingdom="madra", political_role="King of Madra",
+        skills=["Chariot warfare","Mace combat"],
+        traits=["Honorable","Tricked into fighting for Kauravas"],
+        character_arc=["Uncle of Pandavas (Madri's brother)","Tricked by Duryodhana into joining Kauravas",
+            "Served as Karna's charioteer (to demoralize)","Became last Kaurava commander on Day 18",
+            "Killed by Yudhishthira"],
+        key_relationships=[
+            {"With":"@yudhishthira","Type":"Nephew/Enemy"},
+            {"With":"@karna","Type":"Antagonist (charioteer)"},
+            {"With":"@duryodhana","Type":"Ally"}],
+        important_locations=["madra","kurukshetra"])
     add("Ekalavya", aliases=["Nishada prince"], gender="Male",
-        caste="Nishada", duty="Warrior")
+        caste="Nishada", duty="Warrior",
+        skills=["Archery","Self-taught mastery"],
+        traits=["Devoted","Self-taught","Tragic","Humble"],
+        character_arc=["Nishada prince","Rejected by Drona as student",
+            "Built clay idol of Drona and self-trained","Surpassed Arjuna in archery",
+            "Cut off his thumb as guru-dakshina to Drona"],
+        key_relationships=[
+            {"With":"@drona","Type":"Guru"},
+            {"With":"@arjuna","Type":"Rival"}])
     add("Shishupala", aliases=["king of Chedi","Chedi king"], gender="Male",
         caste="Kshatriya", duty="King", dynasty="Chedi", status="Deceased")
     add("Jarasandha", aliases=["king of Magadha"],
@@ -1979,6 +2386,35 @@ def step4_characters(base_dir):
             entry["Dynasty"] = c['dynasty']
         if c['status']:
             entry["Status"] = c['status']
+        if c.get('kingdom'):
+            entry["Kingdom"] = f"@{c['kingdom']}"
+        if c.get('political_role'):
+            entry["Political_Role"] = c['political_role']
+        if c.get('skills'):
+            entry["Skills"] = c['skills']
+        if c.get('divine_weapons'):
+            entry["Divine_Weapons"] = c['divine_weapons']
+        if c.get('titles'):
+            entry["Titles"] = c['titles']
+        if c.get('traits'):
+            entry["Traits"] = c['traits']
+        if c.get('character_arc'):
+            entry["Character_Arc"] = c['character_arc']
+        if c.get('key_relationships'):
+            entry["Key_Relationships"] = c['key_relationships']
+        if c.get('important_locations'):
+            entry["Important_Locations"] = [f"@{loc}" for loc in c['important_locations']]
+        # Auto-derive Lineage from father chain
+        lineage = {}
+        if c['father'] and c['father'] in chars:
+            gf = chars[c['father']].get('father')
+            if gf and gf in chars:
+                lineage["Grandfather"] = f"@{gf}"
+                ggf = chars[gf].get('father')
+                if ggf and ggf in chars:
+                    lineage["Great_Grandfather"] = f"@{ggf}"
+        if lineage:
+            entry["Lineage"] = lineage
         output[f"@{k}"] = entry
 
     out_path = os.path.join(os.path.dirname(base_dir), 'characters.json')
@@ -2000,6 +2436,13 @@ def step4_characters(base_dir):
     with_duty = sum(1 for v in output.values() if 'Duty' in v)
     with_dynasty = sum(1 for v in output.values() if 'Dynasty' in v)
     with_status = sum(1 for v in output.values() if 'Status' in v)
+    with_kingdom = sum(1 for v in output.values() if 'Kingdom' in v)
+    with_skills = sum(1 for v in output.values() if 'Skills' in v)
+    with_weapons = sum(1 for v in output.values() if 'Divine_Weapons' in v)
+    with_traits = sum(1 for v in output.values() if 'Traits' in v)
+    with_arc = sum(1 for v in output.values() if 'Character_Arc' in v)
+    with_lineage = sum(1 for v in output.values() if 'Lineage' in v)
+    with_key_rel = sum(1 for v in output.values() if 'Key_Relationships' in v)
     males = sum(1 for v in output.values() if v['Gender'] == 'Male')
     females = sum(1 for v in output.values() if v['Gender'] == 'Female')
     unknowns = sum(1 for v in output.values() if v['Gender'] == 'Unknown')
@@ -2010,13 +2453,1098 @@ def step4_characters(base_dir):
     print(f"  With Children: {with_children}")
     print(f"  With Caste: {with_caste}, Duty: {with_duty}")
     print(f"  With Dynasty: {with_dynasty}, Status: {with_status}")
+    print(f"  With Kingdom: {with_kingdom}, Skills: {with_skills}")
+    print(f"  With Weapons: {with_weapons}, Traits: {with_traits}")
+    print(f"  With Arc: {with_arc}, Lineage: {with_lineage}")
+    print(f"  With Key Relationships: {with_key_rel}")
     print(f"  Gender - Male: {males}, Female: {females}, Unknown: {unknowns}")
     print(f"  Saved to characters.json")
 
+    # ── Phase 5: Locations ──────────────────────────────────────
+    locations = {
+        # ─── Kingdoms ───
+        "hastinapura": {
+            "Name": "Hastinapura", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Sub_Locations": ["@indraprastha"],
+            "Ruler": "@dhritarashtra",
+            "Famous_For": ["Capital of Kuru dynasty","Dice game","Court of Kauravas"],
+            "Residents": ["@dhritarashtra","@gandhari","@duryodhana","@bhishma","@drona","@vidura","@kunti"],
+            "Geography": {"Terrain": "Plains along Ganga","Climate": "Temperate"},
+            "Modern_Equivalent": "Hastinapur, Meerut district, Uttar Pradesh",
+            "Coordinates": {"lat": 29.1604, "lng": 78.0180},
+            "Notes": "Primary capital of the Kuru kingdom. Archaeological site at Hastinapur village, Meerut."
+        },
+        "indraprastha": {
+            "Name": "Indraprastha", "Type": "City",
+            "Parent_Kingdom": "@hastinapura",
+            "Region": "Bharata",
+            "Ruler": "@yudhishthira",
+            "Famous_For": ["Maya Sabha","Rajasuya Yajna","Pandava capital"],
+            "Residents": ["@yudhishthira","@bhima","@arjuna","@nakula","@sahadeva","@draupadi"],
+            "Geography": {"Terrain": "Plains along Yamuna","Climate": "Temperate"},
+            "Modern_Equivalent": "Purana Qila area, Delhi",
+            "Coordinates": {"lat": 28.6095, "lng": 77.2425},
+            "Notes": "Built by Maya Danava for Pandavas on Khandava land. Identified with Purana Qila, Delhi."
+        },
+        "panchala": {
+            "Name": "Panchala", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Ruler": "@drupada",
+            "Famous_For": ["Draupadi Swayamvara","Birth of Dhrishtadyumna","Allied with Pandavas"],
+            "Residents": ["@drupada","@draupadi","@dhrishtadyumna","@shikhandi"],
+            "Geography": {"Terrain": "Gangetic plains","Climate": "Temperate"},
+            "Modern_Equivalent": "Ahichchhatra (North Panchala), Kampilya (South Panchala), Uttar Pradesh",
+            "Coordinates": {"lat": 28.3670, "lng": 79.4304},
+            "Notes": "Divided into North Panchala (capital Ahichchhatra) and South Panchala (capital Kampilya). Archaeological ruins at both sites."
+        },
+        "dvaraka": {
+            "Name": "Dvaraka", "Type": "Kingdom",
+            "Region": "Western Bharata",
+            "Ruler": "@krishna",
+            "Famous_For": ["Krishna's capital","Golden city","Submerged by sea"],
+            "Residents": ["@krishna","@balarama","@rukmini","@satyabhama","@pradyumna"],
+            "Geography": {"Terrain": "Coastal island city","Climate": "Tropical maritime"},
+            "Modern_Equivalent": "Dwarka, Gujarat",
+            "Coordinates": {"lat": 22.2442, "lng": 68.9685},
+            "Notes": "Built by Vishwakarma; sank into sea after Mausala. Underwater ruins found by ASI off Dwarka coast."
+        },
+        "magadha": {
+            "Name": "Magadha", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Sub_Locations": ["@girivraja"],
+            "Ruler": "@jarasandha",
+            "Famous_For": ["Jarasandha's fortress","Wrestling duel with Bhima"],
+            "Residents": ["@jarasandha"],
+            "Geography": {"Terrain": "Hills and plains","Climate": "Subtropical"},
+            "Modern_Equivalent": "Rajgir/Patna region, Bihar",
+            "Coordinates": {"lat": 25.0283, "lng": 85.4218},
+            "Notes": "Powerful eastern kingdom opposing Yadavas. Capital at Rajgir (Girivraja)."
+        },
+        "girivraja": {
+            "Name": "Girivraja", "Type": "City",
+            "Parent_Kingdom": "@magadha",
+            "Region": "Eastern Bharata",
+            "Famous_For": ["Jarasandha's capital","Surrounded by five hills"],
+            "Geography": {"Terrain": "Hill-girt city","Climate": "Subtropical"},
+            "Modern_Equivalent": "Rajgir, Bihar",
+            "Coordinates": {"lat": 25.0268, "lng": 85.4210}
+        },
+        "kashi": {
+            "Name": "Kashi", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Famous_For": ["Swayamvara of princesses","Abduction by Bhishma","Sacred city"],
+            "Geography": {"Terrain": "Banks of Ganga","Climate": "Subtropical"},
+            "Modern_Equivalent": "Varanasi, Uttar Pradesh",
+            "Coordinates": {"lat": 25.3176, "lng": 82.9739},
+            "Notes": "Princesses Amba, Ambika, Ambalika abducted from here by Bhishma"
+        },
+        "chedi": {
+            "Name": "Chedi", "Type": "Kingdom",
+            "Region": "Central Bharata",
+            "Ruler": "@shishupala",
+            "Famous_For": ["Shishupala killed by Krishna at Rajasuya"],
+            "Residents": ["@shishupala","@dhrishtaketu"],
+            "Geography": {"Terrain": "Central Indian plateau","Climate": "Subtropical"},
+            "Modern_Equivalent": "Banda/Sagar region, Madhya Pradesh",
+            "Coordinates": {"lat": 25.4760, "lng": 80.3319},
+            "Notes": "Capital identified with Suktimati or Sothivatinagara."
+        },
+        "anga": {
+            "Name": "Anga", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Ruler": "@karna",
+            "Famous_For": ["Karna's kingdom","Given by Duryodhana"],
+            "Residents": ["@karna","@vrishasena"],
+            "Geography": {"Terrain": "Gangetic plains","Climate": "Subtropical"},
+            "Modern_Equivalent": "Bhagalpur region, Bihar",
+            "Coordinates": {"lat": 25.2425, "lng": 86.9842},
+            "Notes": "Duryodhana crowned Karna king of Anga. Capital at Champa (modern Bhagalpur)."
+        },
+        "gandhara": {
+            "Name": "Gandhara", "Type": "Kingdom",
+            "Region": "Northwestern Bharata",
+            "Ruler": "@shakuni",
+            "Famous_For": ["Shakuni's kingdom","Gandhari's homeland"],
+            "Residents": ["@shakuni","@subala"],
+            "Geography": {"Terrain": "Mountain valleys","Climate": "Continental"},
+            "Modern_Equivalent": "Peshawar valley / Taxila region, Pakistan",
+            "Coordinates": {"lat": 34.0151, "lng": 71.5249},
+            "Notes": "Capital at Takshashila (Taxila). One of the sixteen Mahajanapadas."
+        },
+        "sindhu": {
+            "Name": "Sindhu", "Type": "Kingdom",
+            "Region": "Western Bharata",
+            "Ruler": "@jayadratha",
+            "Famous_For": ["Jayadratha's kingdom","Blocked Pandavas in Chakravyuha day"],
+            "Residents": ["@jayadratha","@duhshala"],
+            "Geography": {"Terrain": "Indus river basin","Climate": "Arid"},
+            "Modern_Equivalent": "Sindh, Pakistan",
+            "Coordinates": {"lat": 25.3960, "lng": 68.3578}
+        },
+        "madra": {
+            "Name": "Madra", "Type": "Kingdom",
+            "Region": "Northwestern Bharata",
+            "Ruler": "@shalya",
+            "Famous_For": ["Shalya's kingdom","Madri's homeland"],
+            "Residents": ["@shalya"],
+            "Geography": {"Terrain": "Punjab plains","Climate": "Subtropical"},
+            "Modern_Equivalent": "Sialkot region, Punjab",
+            "Coordinates": {"lat": 32.4945, "lng": 74.5229}
+        },
+        "matsya": {
+            "Name": "Matsya", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Sub_Locations": ["@viratanagara"],
+            "Ruler": "@virata",
+            "Famous_For": ["Pandavas' incognito year","Uttara Gograhana battle"],
+            "Residents": ["@virata","@uttaraa"],
+            "Geography": {"Terrain": "Arid plains","Climate": "Semi-arid"},
+            "Modern_Equivalent": "Jaipur/Bairat region, Rajasthan",
+            "Coordinates": {"lat": 27.3117, "lng": 76.1775}
+        },
+        "viratanagara": {
+            "Name": "Viratanagara", "Type": "City",
+            "Parent_Kingdom": "@matsya",
+            "Region": "Bharata",
+            "Famous_For": ["Pandavas served in disguise for one year"],
+            "Modern_Equivalent": "Bairat (Viratnagar), Rajasthan",
+            "Coordinates": {"lat": 27.0238, "lng": 76.3817},
+            "Notes": "Archaeological remains found at Bairat. Circular temple and Ashokan edict."
+        },
+        "pragjyotisha": {
+            "Name": "Pragjyotisha", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Ruler": "@bhagadatta",
+            "Famous_For": ["Bhagadatta's elephant army","Naraka dynasty"],
+            "Residents": ["@bhagadatta"],
+            "Geography": {"Terrain": "Brahmaputra valley","Climate": "Subtropical humid"},
+            "Modern_Equivalent": "Guwahati, Assam",
+            "Coordinates": {"lat": 26.1445, "lng": 91.7362}
+        },
+        "manipura": {
+            "Name": "Manipura", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Ruler": "@chitrangada_manipura",
+            "Famous_For": ["Arjuna married princess Chitrangada here"],
+            "Residents": ["@chitrangada_manipura","@babhruvahana"],
+            "Geography": {"Terrain": "Hills and valleys","Climate": "Subtropical"},
+            "Modern_Equivalent": "Imphal, Manipur",
+            "Coordinates": {"lat": 24.8170, "lng": 93.9368}
+        },
+        "trigarta": {
+            "Name": "Trigarta", "Type": "Kingdom",
+            "Region": "Northern Bharata",
+            "Ruler": "@susharma",
+            "Famous_For": ["Susharma's alliance with Kauravas","Attack on Matsya"],
+            "Residents": ["@susharma"],
+            "Geography": {"Terrain": "Foothills between three rivers","Climate": "Continental"},
+            "Modern_Equivalent": "Jalandhar, Punjab",
+            "Coordinates": {"lat": 31.3260, "lng": 75.5762},
+            "Notes": "Name means 'land between three rivers' (Ravi, Beas, Sutlej)."
+        },
+        "koshala": {
+            "Name": "Koshala", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Famous_For": ["Ancient kingdom","Rama's kingdom"],
+            "Geography": {"Terrain": "Gangetic plains","Climate": "Subtropical"},
+            "Modern_Equivalent": "Ayodhya/Faizabad region, Uttar Pradesh",
+            "Coordinates": {"lat": 26.7922, "lng": 82.1998}
+        },
+        "vidarbha": {
+            "Name": "Vidarbha", "Type": "Kingdom",
+            "Region": "Central Bharata",
+            "Famous_For": ["Rukmini's homeland","Nala-Damayanti story"],
+            "Residents": ["@rukmini","@damayanti","@bhima_vidarbha"],
+            "Geography": {"Terrain": "Deccan plateau","Climate": "Tropical"},
+            "Modern_Equivalent": "Nagpur/Amravati region, Maharashtra",
+            "Coordinates": {"lat": 21.1458, "lng": 79.0882},
+            "Notes": "Capital identified with Kundina (modern Kaundinyapur near Amravati)."
+        },
+        "nishadha": {
+            "Name": "Nishadha", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Ruler": "@nala",
+            "Famous_For": ["Nala-Damayanti love story"],
+            "Residents": ["@nala"],
+            "Geography": {"Terrain": "Plains","Climate": "Subtropical"},
+            "Modern_Equivalent": "Narwar/Gwalior region, Madhya Pradesh",
+            "Coordinates": {"lat": 25.6400, "lng": 77.9100}
+        },
+        "kalinga": {
+            "Name": "Kalinga", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Famous_For": ["Participated in Kurukshetra War"],
+            "Geography": {"Terrain": "Coastal","Climate": "Tropical"},
+            "Modern_Equivalent": "Bhubaneswar/Puri region, Odisha",
+            "Coordinates": {"lat": 20.2961, "lng": 85.8245}
+        },
+        "vanga": {
+            "Name": "Vanga", "Type": "Kingdom",
+            "Region": "Eastern Bharata",
+            "Famous_For": ["Eastern kingdom","Participated in war"],
+            "Geography": {"Terrain": "Delta region","Climate": "Tropical"},
+            "Modern_Equivalent": "Bengal (West Bengal/Bangladesh)",
+            "Coordinates": {"lat": 22.5726, "lng": 88.3639}
+        },
+        "kunti_kingdom": {
+            "Name": "Kunti", "Type": "Kingdom",
+            "Region": "Bharata",
+            "Famous_For": ["Kunti's adoptive homeland","Kuntibhoja's kingdom"],
+            "Modern_Equivalent": "Kota/Bundi region, Rajasthan",
+            "Coordinates": {"lat": 25.2138, "lng": 75.8648},
+            "Notes": "Kingdom of Kuntibhoja where Pritha (Kunti) grew up. Identified with area around Bundi."
+        },
+        "champapuri": {
+            "Name": "Champapuri", "Type": "City",
+            "Parent_Kingdom": "@anga",
+            "Region": "Eastern Bharata",
+            "Famous_For": ["Capital of Anga kingdom","Karna's capital"],
+            "Modern_Equivalent": "Champanagar near Bhagalpur, Bihar",
+            "Coordinates": {"lat": 25.2440, "lng": 87.0010}
+        },
+        # ─── Battlefield ───
+        "kurukshetra": {
+            "Name": "Kurukshetra", "Type": "Battlefield",
+            "Region": "Bharata",
+            "Famous_For": ["18-day Mahabharata War","Bhagavad Gita delivered here"],
+            "Geography": {"Terrain": "Sacred plains","Climate": "Semi-arid"},
+            "Modern_Equivalent": "Kurukshetra, Haryana",
+            "Coordinates": {"lat": 29.9695, "lng": 76.8783},
+            "Notes": "Dharmakshetra - field of righteousness. Jyotisar - exact spot of Gita Upadesh."
+        },
+        # ─── Forests ───
+        "khandava_forest": {
+            "Name": "Khandava Forest", "Type": "Forest",
+            "Region": "Bharata",
+            "Famous_For": ["Burned by Arjuna and Krishna","Indraprastha built on its land"],
+            "Nearby_Locations": ["@indraprastha"],
+            "Modern_Equivalent": "South Delhi / Faridabad region",
+            "Coordinates": {"lat": 28.5000, "lng": 77.3000},
+            "Notes": "Agni consumed this forest with help of Arjuna and Krishna. Region south of Indraprastha."
+        },
+        "kamyaka_forest": {
+            "Name": "Kamyaka Forest", "Type": "Forest",
+            "Region": "Bharata",
+            "Famous_For": ["Pandavas' exile forest","Nala-Damayanti story told here"],
+            "Modern_Equivalent": "Near Kurukshetra/Sarasvati river bank, Haryana",
+            "Coordinates": {"lat": 29.5500, "lng": 76.9000},
+            "Notes": "Main forest during Pandavas' 12-year exile. Identified near banks of old Sarasvati."
+        },
+        "dvaitavana": {
+            "Name": "Dvaitavana", "Type": "Forest",
+            "Region": "Bharata",
+            "Famous_For": ["Pandavas' exile","Near a lake","Duryodhana captured by Gandharvas here"],
+            "Modern_Equivalent": "Near Sthaneshwar (Thanesar), Haryana",
+            "Coordinates": {"lat": 29.9700, "lng": 76.8200},
+            "Notes": "Forest of exile near a sacred lake. Located close to Kurukshetra."
+        },
+        "naimisha_forest": {
+            "Name": "Naimisha Forest", "Type": "Forest",
+            "Region": "Bharata",
+            "Famous_For": ["Ugrasrava narrated Mahabharata here","Sacred to sages"],
+            "Modern_Equivalent": "Nimsar (Naimisharanya), Uttar Pradesh",
+            "Coordinates": {"lat": 26.7460, "lng": 80.4530},
+            "Notes": "Where the outer frame story of Mahabharata is set. Active pilgrimage site today."
+        },
+        "dandaka_forest": {
+            "Name": "Dandaka Forest", "Type": "Forest",
+            "Region": "Central Bharata",
+            "Famous_For": ["Rama's exile in Ramayana","Dense ancient forest"],
+            "Geography": {"Terrain": "Dense tropical forest","Climate": "Tropical"},
+            "Modern_Equivalent": "Dandakaranya, Chhattisgarh/Maharashtra border",
+            "Coordinates": {"lat": 19.5000, "lng": 80.0000}
+        },
+        # ─── Rivers (representative point along the river) ───
+        "ganga_river": {
+            "Name": "Ganga", "Type": "River",
+            "Region": "Bharata",
+            "Famous_For": ["Sacred river","Shantanu met Ganga here","Bhishma's mother"],
+            "Geography": {"Terrain": "Major river flowing east to Bay of Bengal","Climate": "Varied"},
+            "Modern_Equivalent": "Ganga at Haridwar (origin to plains)",
+            "Coordinates": {"lat": 29.9457, "lng": 78.1642},
+            "Notes": "Personified as goddess Ganga, mother of Bhishma. Shantanu met her near Hastinapura."
+        },
+        "yamuna_river": {
+            "Name": "Yamuna", "Type": "River",
+            "Region": "Bharata",
+            "Famous_For": ["Flows past Indraprastha","Krishna's childhood river"],
+            "Geography": {"Terrain": "Tributary of Ganga","Climate": "Temperate"},
+            "Modern_Equivalent": "Yamuna at Delhi (flows past Purana Qila/Indraprastha)",
+            "Coordinates": {"lat": 28.6100, "lng": 77.2500},
+            "Notes": "Also known as Kalindi. Flows past Indraprastha (Delhi), Mathura, and Vrindavana."
+        },
+        "sarasvati_river": {
+            "Name": "Sarasvati", "Type": "River",
+            "Region": "Bharata",
+            "Famous_For": ["Sacred river","Pilgrimage sites along banks","Balarama's pilgrimage"],
+            "Geography": {"Terrain": "Dried up in places","Climate": "Semi-arid"},
+            "Modern_Equivalent": "Dried Sarasvati channel near Kurukshetra/Pehowa, Haryana",
+            "Coordinates": {"lat": 29.9800, "lng": 76.5800},
+            "Notes": "Mentioned as flowing near Kurukshetra. Dried channel identified via satellite imagery."
+        },
+        "sindhu_river": {
+            "Name": "Sindhu (Indus)", "Type": "River",
+            "Region": "Northwestern Bharata",
+            "Famous_For": ["Western boundary of Bharata","Major river of west"],
+            "Geography": {"Terrain": "Large river flowing south","Climate": "Arid to semi-arid"},
+            "Modern_Equivalent": "Indus River at Attock, Pakistan",
+            "Coordinates": {"lat": 33.7740, "lng": 72.3609}
+        },
+        "godavari_river": {
+            "Name": "Godavari", "Type": "River",
+            "Region": "Southern Bharata",
+            "Famous_For": ["Sacred southern river","Pilgrimage sites"],
+            "Geography": {"Terrain": "Major peninsular river","Climate": "Tropical"},
+            "Modern_Equivalent": "Godavari at Nashik (source), Maharashtra",
+            "Coordinates": {"lat": 19.9975, "lng": 73.7898}
+        },
+        "narmada_river": {
+            "Name": "Narmada", "Type": "River",
+            "Region": "Central Bharata",
+            "Famous_For": ["Sacred river","Boundary between north and south"],
+            "Geography": {"Terrain": "Flows westward through central India","Climate": "Tropical"},
+            "Modern_Equivalent": "Narmada at Jabalpur, Madhya Pradesh",
+            "Coordinates": {"lat": 23.1815, "lng": 79.9864}
+        },
+        # ─── Mountains ───
+        "himalayas": {
+            "Name": "Himalayas", "Type": "Mountain",
+            "Region": "Northern Bharata",
+            "Famous_For": ["Abode of gods","Arjuna's penance for Pashupatastra",
+                "Pandavas' final journey (Mahaprasthana)","Shiva's abode"],
+            "Geography": {"Terrain": "Highest mountain range","Climate": "Alpine/glacial"},
+            "Modern_Equivalent": "Kedarnath/Badrinath region, Uttarakhand",
+            "Coordinates": {"lat": 30.7346, "lng": 79.0669},
+            "Notes": "Site of Arjuna's tapas, Pandavas' ascent in Mahaprasthanika Parva"
+        },
+        "meru": {
+            "Name": "Mount Meru", "Type": "Mountain",
+            "Region": "Cosmic center",
+            "Famous_For": ["Center of universe","Abode of gods","Golden mountain"],
+            "Geography": {"Terrain": "Mythical golden peak","Climate": "Divine"},
+            "Mythical": True,
+            "Notes": "Cosmic mountain at center of universe in Hindu cosmology. No physical location."
+        },
+        "gandhamadana": {
+            "Name": "Gandhamadana", "Type": "Mountain",
+            "Region": "Northern Bharata",
+            "Famous_For": ["Bhima met Hanuman here","Fragrant herbs","Kubera's garden"],
+            "Geography": {"Terrain": "Fragrant mountain","Climate": "Alpine"},
+            "Modern_Equivalent": "Near Badrinath, Uttarakhand / Kailash range",
+            "Coordinates": {"lat": 30.7500, "lng": 79.5000},
+            "Notes": "Bhima encountered Hanuman while searching for Saugandhika lotus"
+        },
+        "kailasa": {
+            "Name": "Kailasa", "Type": "Mountain",
+            "Region": "Northern Bharata",
+            "Famous_For": ["Abode of Shiva and Parvati","Kubera's residence"],
+            "Geography": {"Terrain": "Sacred peak","Climate": "Alpine/glacial"},
+            "Modern_Equivalent": "Mount Kailash, Tibet (China)",
+            "Coordinates": {"lat": 31.0672, "lng": 81.3119},
+            "Notes": "Mount Kailash - sacred abode of Lord Shiva. Active pilgrimage destination."
+        },
+        "vindhya": {
+            "Name": "Vindhya", "Type": "Mountain",
+            "Region": "Central Bharata",
+            "Famous_For": ["Divides north and south India","Ancient mountain range"],
+            "Geography": {"Terrain": "Old mountain range","Climate": "Tropical"},
+            "Modern_Equivalent": "Vindhya Range, Madhya Pradesh",
+            "Coordinates": {"lat": 24.0000, "lng": 80.5000}
+        },
+        # ─── Celestial / Divine (no physical coordinates) ───
+        "svarga": {
+            "Name": "Svarga", "Type": "Celestial",
+            "Region": "Cosmic",
+            "Ruler": "@indra",
+            "Famous_For": ["Heaven of gods","Arjuna trained here","Pandavas ascended here"],
+            "Residents": ["@indra"],
+            "Mythical": True,
+            "Notes": "Indra's heaven; Arjuna spent time here learning weapons and dance"
+        },
+        "brahmaloka": {
+            "Name": "Brahmaloka", "Type": "Celestial",
+            "Region": "Cosmic",
+            "Ruler": "@brahma",
+            "Famous_For": ["Highest heaven","Abode of Brahma"],
+            "Mythical": True,
+            "Notes": "The highest celestial realm"
+        },
+        "patala": {
+            "Name": "Patala", "Type": "Celestial",
+            "Region": "Cosmic",
+            "Famous_For": ["Underworld","Realm of Nagas","Arjuna visited Ulupi here"],
+            "Mythical": True,
+            "Notes": "Subterranean realm of Nagas"
+        },
+        "amaravati": {
+            "Name": "Amaravati", "Type": "Celestial",
+            "Region": "Cosmic",
+            "Ruler": "@indra",
+            "Famous_For": ["Capital of Svarga","Indra's court"],
+            "Mythical": True,
+            "Notes": "City of the gods in Indra's heaven"
+        },
+        # ─── Other cities/places ───
+        "ekachakra": {
+            "Name": "Ekachakra", "Type": "Village",
+            "Region": "Bharata",
+            "Famous_For": ["Bhima killed Bakasura here","Pandavas lived in disguise"],
+            "Modern_Equivalent": "Arrah/Chakranagar, Bihar",
+            "Coordinates": {"lat": 25.5549, "lng": 84.6634},
+            "Notes": "Pandavas stayed here as Brahmins after Lakshagriha escape"
+        },
+        "upaplavya": {
+            "Name": "Upaplavya", "Type": "City",
+            "Parent_Kingdom": "@matsya",
+            "Region": "Bharata",
+            "Famous_For": ["Pandava war camp","Alliance meetings before war"],
+            "Modern_Equivalent": "Near Bairat, Rajasthan",
+            "Coordinates": {"lat": 27.0500, "lng": 76.4000},
+            "Notes": "City in Matsya where Pandavas gathered allies before war"
+        },
+        "mathura": {
+            "Name": "Mathura", "Type": "City",
+            "Region": "Bharata",
+            "Famous_For": ["Krishna's birthplace","Kamsa's capital"],
+            "Geography": {"Terrain": "Banks of Yamuna","Climate": "Subtropical"},
+            "Modern_Equivalent": "Mathura, Uttar Pradesh",
+            "Coordinates": {"lat": 27.4924, "lng": 77.6737},
+            "Notes": "Krishna was born here in Kamsa's prison. Keshava Deo temple at birthplace."
+        },
+        "vrindavana": {
+            "Name": "Vrindavana", "Type": "Village",
+            "Region": "Bharata",
+            "Famous_For": ["Krishna's childhood","Gokula nearby"],
+            "Nearby_Locations": ["@mathura"],
+            "Geography": {"Terrain": "Banks of Yamuna","Climate": "Subtropical"},
+            "Modern_Equivalent": "Vrindavan, Uttar Pradesh",
+            "Coordinates": {"lat": 27.5830, "lng": 77.7013}
+        },
+        "shatashriga": {
+            "Name": "Shatashriga", "Type": "Mountain",
+            "Region": "Northern Bharata",
+            "Famous_For": ["Pandu's death","Pandavas' early childhood"],
+            "Modern_Equivalent": "Near Haridwar/Rishikesh foothills, Uttarakhand",
+            "Coordinates": {"lat": 30.0869, "lng": 78.2676},
+            "Notes": "Mountain where Pandu lived in exile and died. Identified with Shivalik foothills."
+        },
+        "badarikashrama": {
+            "Name": "Badarikashrama", "Type": "Hermitage",
+            "Region": "Northern Bharata",
+            "Famous_For": ["Vyasa's ashram","Nara-Narayana tapas"],
+            "Geography": {"Terrain": "Himalayan valley","Climate": "Alpine"},
+            "Modern_Equivalent": "Badrinath, Uttarakhand",
+            "Coordinates": {"lat": 30.7433, "lng": 79.4938}
+        },
+        "lakshagriha": {
+            "Name": "Lakshagriha", "Type": "City",
+            "Region": "Bharata",
+            "Famous_For": ["House of lac","Duryodhana's plot to burn Pandavas"],
+            "Modern_Equivalent": "Barnawa (Varanavata), Baghpat district, Uttar Pradesh",
+            "Coordinates": {"lat": 29.0700, "lng": 77.3800},
+            "Notes": "Also called Varanavata; trap set for Pandavas. Lacquer mound (Laksha ka Tila) survives at Barnawa."
+        },
+    }
 
-# ================================================================
-# MAIN
-# ================================================================
+    # Compute distances between locations using haversine formula
+    import math
+    def _haversine(lat1, lng1, lat2, lng2):
+        R = 6371  # Earth radius in km
+        dlat = math.radians(lat2 - lat1)
+        dlng = math.radians(lng2 - lng1)
+        a = math.sin(dlat/2)**2 + math.cos(math.radians(lat1)) * math.cos(math.radians(lat2)) * math.sin(dlng/2)**2
+        return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+    # For each location with coordinates, find nearby locations (within 500 km)
+    # and compute distances to ALL other coordinate-bearing locations
+    coord_locs = {lid: loc for lid, loc in locations.items() if loc.get("Coordinates")}
+    for lid, loc in coord_locs.items():
+        c1 = loc["Coordinates"]
+        nearby = []
+        for other_id, other_loc in coord_locs.items():
+            if other_id == lid:
+                continue
+            c2 = other_loc["Coordinates"]
+            dist = round(_haversine(c1["lat"], c1["lng"], c2["lat"], c2["lng"]))
+            if dist <= 500:
+                nearby.append({"To": f"@{other_id}", "Name": other_loc["Name"], "km": dist})
+        # Sort by distance
+        nearby.sort(key=lambda x: x["km"])
+        if nearby:
+            loc["Nearby_Distances_km"] = nearby
+
+    # Build locations output
+    loc_output = {}
+    for loc_id, loc in locations.items():
+        entry = {"Name": loc["Name"], "Type": loc["Type"]}
+        if loc.get("Parent_Kingdom"):
+            entry["Parent_Kingdom"] = loc["Parent_Kingdom"]
+        entry["Region"] = loc.get("Region", "Bharata")
+        if loc.get("Sub_Locations"):
+            entry["Sub_Locations"] = loc["Sub_Locations"]
+        if loc.get("Nearby_Locations"):
+            entry["Nearby_Locations"] = loc["Nearby_Locations"]
+        if loc.get("Ruler"):
+            entry["Ruler"] = loc["Ruler"]
+        if loc.get("Famous_For"):
+            entry["Famous_For"] = loc["Famous_For"]
+        if loc.get("Residents"):
+            entry["Residents"] = loc["Residents"]
+        if loc.get("Geography"):
+            entry["Geography"] = loc["Geography"]
+        if loc.get("Coordinates"):
+            entry["Coordinates"] = loc["Coordinates"]
+        if loc.get("Mythical"):
+            entry["Mythical"] = True
+        if loc.get("Modern_Equivalent"):
+            entry["Modern_Equivalent"] = loc["Modern_Equivalent"]
+        if loc.get("Nearby_Distances_km"):
+            entry["Nearby_Distances_km"] = loc["Nearby_Distances_km"]
+        if loc.get("Notes"):
+            entry["Notes"] = loc["Notes"]
+        loc_output[f"@{loc_id}"] = entry
+
+    loc_path = os.path.join(os.path.dirname(base_dir), 'locations.json')
+    with open(loc_path, 'w', encoding='utf-8') as f:
+        json.dump(loc_output, f, ensure_ascii=False, indent=2)
+    print(f"\n  LOCATIONS: {len(loc_output)} locations saved to locations.json")
+    with_coords = sum(1 for v in loc_output.values() if 'Coordinates' in v)
+    mythical = sum(1 for v in loc_output.values() if v.get('Mythical'))
+    with_distances = sum(1 for v in loc_output.values() if 'Nearby_Distances_km' in v)
+    print(f"    With coordinates: {with_coords}, Mythical: {mythical}")
+    print(f"    With nearby distances: {with_distances}")
+    type_counts = {}
+    for v in loc_output.values():
+        t = v['Type']
+        type_counts[t] = type_counts.get(t, 0) + 1
+    for t, c in sorted(type_counts.items()):
+        print(f"    {t}: {c}")
+
+    # ── Phase 6: Timeline ───────────────────────────────────────
+    timeline = [
+        # ─── Pre-War Era ───
+        {"Order":1, "Year":-80, "Era":"Pre-War",
+         "Event_Name":"Birth of Bhishma",
+         "Description":"Devavrata born to King Shantanu and goddess Ganga, the eighth Vasu incarnate.",
+         "Location":"@hastinapura", "Participants":["@bhishma","@shantanu","@ganga"],
+         "Outcome":"Ganga returns to heaven after giving Devavrata to Shantanu",
+         "Consequences":["Bhishma raised as crown prince of Hastinapura"]},
+
+        {"Order":2, "Year":-78, "Era":"Pre-War",
+         "Event_Name":"Bhishma's Vow of Celibacy",
+         "Description":"Devavrata takes terrible vow of lifelong celibacy so Shantanu can marry Satyavati.",
+         "Location":"@hastinapura", "Participants":["@bhishma","@shantanu","@satyavati"],
+         "Outcome":"Shantanu marries Satyavati; Devavrata becomes Bhishma",
+         "Consequences":["Kuru succession crisis in future","Bhishma can never be king"]},
+
+        {"Order":3, "Year":-60, "Era":"Pre-War",
+         "Event_Name":"Niyoga - Birth of Dhritarashtra, Pandu, Vidura",
+         "Description":"Vyasa fathers Dhritarashtra (from Ambika), Pandu (from Ambalika), and Vidura (from maid) through Niyoga at Satyavati's request.",
+         "Location":"@hastinapura", "Participants":["@vyasa","@ambika","@ambalika","@satyavati"],
+         "Outcome":"Three sons born to continue Kuru line",
+         "Consequences":["Dhritarashtra born blind","Pandu born pale","Vidura born wise"]},
+
+        {"Order":4, "Year":-40, "Era":"Pre-War",
+         "Event_Name":"Pandu Crowned King",
+         "Description":"Pandu crowned king of Hastinapura as Dhritarashtra is blind.",
+         "Location":"@hastinapura", "Participants":["@pandu","@dhritarashtra","@bhishma"],
+         "Outcome":"Pandu becomes king, conquers many kingdoms",
+         "Consequences":["Dhritarashtra passed over due to blindness"]},
+
+        {"Order":5, "Year":-38, "Era":"Pre-War",
+         "Event_Name":"Pandu's Curse by Kindama",
+         "Description":"Pandu accidentally kills sage Kindama in deer form; cursed to die if he approaches a woman.",
+         "Location":"@shatashriga", "Participants":["@pandu"],
+         "Outcome":"Pandu retires to forest with Kunti and Madri",
+         "Consequences":["Sons born through divine invocation instead"]},
+
+        {"Order":6, "Year":-36, "Era":"Pre-War",
+         "Event_Name":"Karna Born and Abandoned",
+         "Description":"Kunti invokes Surya using Durvasa's mantra; Karna born with divine armor (Kavacha-Kundala). Kunti abandons infant in river.",
+         "Location":"@hastinapura", "Participants":["@kunti","@surya","@karna"],
+         "Outcome":"Karna found and raised by charioteer Adhiratha and Radha",
+         "Consequences":["Karna's identity unknown until before war","Source of epic tragedy"]},
+
+        {"Order":7, "Year":-35, "Era":"Pre-War",
+         "Event_Name":"Birth of Yudhishthira",
+         "Description":"Kunti invokes Yama (Dharma); Yudhishthira born as eldest Pandava.",
+         "Location":"@shatashriga", "Participants":["@kunti","@yama","@yudhishthira"],
+         "Outcome":"Eldest Pandava born"},
+
+        {"Order":8, "Year":-34, "Era":"Pre-War",
+         "Event_Name":"Birth of Bhima",
+         "Description":"Kunti invokes Vayu; Bhima born with immense strength.",
+         "Location":"@shatashriga", "Participants":["@kunti","@vayu","@bhima"],
+         "Outcome":"Second Pandava born"},
+
+        {"Order":9, "Year":-33, "Era":"Pre-War",
+         "Event_Name":"Birth of 100 Kauravas",
+         "Description":"Gandhari gives birth to a mass of flesh; Vyasa divides it into 101 pots. 100 sons and 1 daughter (Duhshala) born. Duryodhana is firstborn.",
+         "Location":"@hastinapura", "Participants":["@gandhari","@vyasa","@duryodhana","@duhshala"],
+         "Outcome":"100 Kaurava sons and Duhshala born",
+         "Consequences":["Omens at Duryodhana's birth - jackals howled"]},
+
+        {"Order":10, "Year":-33, "Era":"Pre-War",
+         "Event_Name":"Birth of Arjuna",
+         "Description":"Kunti invokes Indra; Arjuna born as third Pandava.",
+         "Location":"@shatashriga", "Participants":["@kunti","@indra","@arjuna"],
+         "Outcome":"Greatest archer born"},
+
+        {"Order":11, "Year":-32, "Era":"Pre-War",
+         "Event_Name":"Birth of Nakula and Sahadeva",
+         "Description":"Madri invokes Ashvins using Kunti's mantra; twin sons Nakula and Sahadeva born.",
+         "Location":"@shatashriga", "Participants":["@madri","@ashvins","@nakula","@sahadeva"],
+         "Outcome":"Twin Pandavas born"},
+
+        {"Order":12, "Year":-30, "Era":"Pre-War",
+         "Event_Name":"Death of Pandu",
+         "Description":"Pandu approaches Madri despite the curse and dies. Madri commits sati.",
+         "Location":"@shatashriga", "Participants":["@pandu","@madri"],
+         "Outcome":"Pandu and Madri die; Kunti brings Pandavas to Hastinapura",
+         "Consequences":["Pandavas raised in Hastinapura","Dhritarashtra becomes king"]},
+
+        {"Order":13, "Year":-22, "Era":"Pre-War",
+         "Event_Name":"Education under Drona",
+         "Description":"Drona becomes teacher of Kuru princes. Arjuna proves best student.",
+         "Location":"@hastinapura", "Participants":["@drona","@arjuna","@bhima","@yudhishthira","@duryodhana","@karna","@ashvatthama"],
+         "Outcome":"Princes trained in warfare",
+         "Consequences":["Arjuna becomes greatest archer","Rivalry between Pandavas and Kauravas deepens"]},
+
+        {"Order":14, "Year":-21, "Era":"Pre-War",
+         "Event_Name":"Ekalavya's Thumb",
+         "Description":"Ekalavya, self-taught archer, gives his thumb as guru-dakshina to Drona.",
+         "Participants":["@ekalavya","@drona","@arjuna"],
+         "Outcome":"Ekalavya can no longer shoot as well",
+         "Consequences":["Arjuna's supremacy in archery preserved"]},
+
+        {"Order":15, "Year":-20, "Era":"Pre-War",
+         "Event_Name":"Tournament and Karna's Appearance",
+         "Description":"Kuru princes display skills. Karna arrives and challenges Arjuna. Duryodhana crowns Karna king of Anga.",
+         "Location":"@hastinapura", "Participants":["@karna","@arjuna","@duryodhana","@drona"],
+         "Outcome":"Karna-Duryodhana friendship formed",
+         "Consequences":["Karna becomes king of Anga","Lifetime rivalry with Arjuna begins"]},
+
+        {"Order":16, "Year":-18, "Era":"Pre-War",
+         "Event_Name":"Lakshagriha (House of Lac)",
+         "Description":"Duryodhana plots to burn Pandavas in house of lac at Varanavata. Vidura warns them; they escape through tunnel.",
+         "Location":"@lakshagriha", "Participants":["@duryodhana","@yudhishthira","@vidura","@bhima"],
+         "Outcome":"Pandavas escape; world believes them dead",
+         "Consequences":["Pandavas live in hiding","Bhima kills Bakasura"]},
+
+        {"Order":17, "Year":-17, "Era":"Pre-War",
+         "Event_Name":"Bhima Kills Bakasura",
+         "Description":"While hiding at Ekachakra, Bhima kills the demon Bakasura terrorizing the village.",
+         "Location":"@ekachakra", "Participants":["@bhima"],
+         "Outcome":"Bakasura killed; village freed"},
+
+        {"Order":18, "Year":-16, "Era":"Pre-War",
+         "Event_Name":"Draupadi Swayamvara",
+         "Description":"Arjuna (disguised as Brahmin) strings the bow and wins Draupadi. Kunti says share; Draupadi marries all five Pandavas.",
+         "Location":"@panchala", "Participants":["@arjuna","@draupadi","@drupada","@kunti","@yudhishthira","@bhima","@nakula","@sahadeva","@karna"],
+         "Outcome":"Draupadi marries all five Pandavas",
+         "Consequences":["Pandavas revealed alive","Alliance with Panchala"]},
+
+        {"Order":19, "Year":-15, "Era":"Pre-War",
+         "Event_Name":"Indraprastha Built",
+         "Description":"Pandavas receive Khandavaprastha, clear land; Maya Danava builds magnificent palace of Indraprastha.",
+         "Location":"@indraprastha", "Participants":["@yudhishthira","@arjuna","@krishna"],
+         "Outcome":"Pandavas establish their own kingdom",
+         "Consequences":["Pandava power grows","Duryodhana's jealousy intensifies"]},
+
+        {"Order":20, "Year":-14, "Era":"Pre-War",
+         "Event_Name":"Burning of Khandava Forest",
+         "Description":"Arjuna and Krishna help Agni burn Khandava forest. Arjuna receives Gandiva bow.",
+         "Location":"@khandava_forest", "Participants":["@arjuna","@krishna","@agni","@indra"],
+         "Outcome":"Forest burned; Maya Danava saved; Gandiva obtained by Arjuna",
+         "Consequences":["Arjuna gets Gandiva bow","Maya builds Sabha for Pandavas","Takshaka's enmity"]},
+
+        {"Order":21, "Year":-10, "Era":"Pre-War",
+         "Event_Name":"Rajasuya Yajna",
+         "Description":"Yudhishthira performs Rajasuya Yajna and is crowned emperor. Shishupala killed by Krishna.",
+         "Location":"@indraprastha", "Participants":["@yudhishthira","@krishna","@shishupala","@bhima","@arjuna"],
+         "Outcome":"Yudhishthira crowned emperor; Shishupala slain by Krishna's Sudarshana Chakra",
+         "Consequences":["Duryodhana humiliated at Maya Sabha","Seeds of dice game"]},
+
+        {"Order":22, "Year":-10, "Era":"Pre-War",
+         "Event_Name":"Bhima Kills Jarasandha",
+         "Description":"Before Rajasuya, Krishna, Arjuna, and Bhima go to Magadha. Bhima kills Jarasandha in wrestling duel.",
+         "Location":"@girivraja", "Participants":["@bhima","@krishna","@arjuna","@jarasandha"],
+         "Outcome":"Jarasandha killed; imprisoned kings freed",
+         "Consequences":["Obstacle to Rajasuya removed","Magadha weakened"]},
+
+        {"Order":23, "Year":-8, "Era":"Pre-War",
+         "Event_Name":"The Dice Game",
+         "Description":"Shakuni defeats Yudhishthira in rigged dice game. Pandavas lose kingdom, wealth, Draupadi. Draupadi humiliated in court (vastraharan).",
+         "Location":"@hastinapura", "Participants":["@yudhishthira","@shakuni","@duryodhana","@duhshasana","@draupadi","@dhritarashtra","@vidura","@bhishma","@karna"],
+         "Outcome":"Pandavas lose everything; Draupadi disrobed; Krishna saves her",
+         "Consequences":["Pandavas exiled 13 years (12 forest + 1 incognito)","Draupadi vows vengeance","War becomes inevitable"]},
+
+        {"Order":24, "Year":-8, "Era":"Pre-War",
+         "Event_Name":"Second Dice Game",
+         "Description":"Called back for second dice game; Pandavas lose again. Sentenced to 12 years forest exile + 1 year incognito.",
+         "Location":"@hastinapura", "Participants":["@yudhishthira","@shakuni"],
+         "Outcome":"Pandavas begin exile"},
+
+        # ─── Exile Era ───
+        {"Order":25, "Year":-8, "Era":"Exile",
+         "Event_Name":"Pandavas Enter Forest Exile",
+         "Description":"Pandavas depart Hastinapura for 12-year forest exile. Citizens follow them.",
+         "Location":"@kamyaka_forest", "Participants":["@yudhishthira","@bhima","@arjuna","@nakula","@sahadeva","@draupadi"],
+         "Outcome":"Pandavas begin forest wandering"},
+
+        {"Order":26, "Year":-7, "Era":"Exile",
+         "Event_Name":"Arjuna's Penance for Pashupatastra",
+         "Description":"Arjuna travels to Himalayas, performs severe penance. Shiva (as Kirata hunter) grants Pashupatastra after combat.",
+         "Location":"@himalayas", "Participants":["@arjuna","@shiva"],
+         "Outcome":"Arjuna receives Pashupatastra",
+         "Consequences":["Arjuna receives other divine weapons from gods"]},
+
+        {"Order":27, "Year":-6, "Era":"Exile",
+         "Event_Name":"Arjuna in Svarga",
+         "Description":"Arjuna taken to Indra's heaven. Trains under Indra and celestial warriors. Cursed by Urvashi (becomes eunuch for one year).",
+         "Location":"@svarga", "Participants":["@arjuna","@indra"],
+         "Outcome":"Arjuna masters celestial weapons",
+         "Consequences":["Urvashi's curse useful during incognito year as Brihannala"]},
+
+        {"Order":28, "Year":-5, "Era":"Exile",
+         "Event_Name":"Jayadratha Abducts Draupadi",
+         "Description":"Jayadratha attempts to abduct Draupadi while Pandavas are away. Captured and humiliated by Bhima.",
+         "Location":"@kamyaka_forest", "Participants":["@jayadratha","@draupadi","@bhima","@arjuna","@yudhishthira"],
+         "Outcome":"Jayadratha defeated and shamed",
+         "Consequences":["Jayadratha performs penance to Shiva","Gets boon to hold 4 Pandavas (except Arjuna)"]},
+
+        {"Order":29, "Year":-4, "Era":"Exile",
+         "Event_Name":"Bhima Meets Hanuman",
+         "Description":"While searching for Saugandhika lotus for Draupadi, Bhima meets his brother Hanuman in Gandhamadana.",
+         "Location":"@gandhamadana", "Participants":["@bhima","@hanuman"],
+         "Outcome":"Hanuman blesses Bhima and promises to be on Arjuna's flag",
+         "Consequences":["Hanuman present on Arjuna's chariot banner in war"]},
+
+        {"Order":30, "Year":-3, "Era":"Exile",
+         "Event_Name":"Nala-Damayanti Story",
+         "Description":"Sage Brihadarva narrates story of Nala and Damayanti to comfort Yudhishthira during exile.",
+         "Location":"@kamyaka_forest", "Participants":["@yudhishthira","@nala","@damayanti"],
+         "Outcome":"Yudhishthira consoled"},
+
+        {"Order":31, "Year":-2, "Era":"Exile",
+         "Event_Name":"Duryodhana Captured by Gandharvas",
+         "Description":"Duryodhana goes to forest to mock Pandavas; captured by Gandharva Chitrasena. Pandavas rescue him.",
+         "Location":"@dvaitavana", "Participants":["@duryodhana","@chitrasena_gandharva","@arjuna","@yudhishthira"],
+         "Outcome":"Duryodhana rescued by Pandavas",
+         "Consequences":["Duryodhana humiliated","Deepens his hatred"]},
+
+        {"Order":32, "Year":-1, "Era":"Exile",
+         "Event_Name":"Incognito Year at Virata",
+         "Description":"Pandavas live incognito in King Virata's court: Yudhishthira as Brahmin Kanka, Bhima as cook Ballava, Arjuna as eunuch Brihannala, Nakula as horse-keeper, Sahadeva as cowherd, Draupadi as Sairandhri.",
+         "Location":"@viratanagara", "Participants":["@yudhishthira","@bhima","@arjuna","@nakula","@sahadeva","@draupadi","@virata"],
+         "Outcome":"Pandavas complete 13th year without detection"},
+
+        {"Order":33, "Year":-1, "Era":"Exile",
+         "Event_Name":"Kichaka Killed by Bhima",
+         "Description":"Kichaka, Virata's commander, harasses Draupadi. Bhima kills him secretly.",
+         "Location":"@viratanagara", "Participants":["@bhima","@draupadi"],
+         "Outcome":"Kichaka killed",
+         "Consequences":["Suspicion arises that Pandavas are hidden in Virata"]},
+
+        {"Order":34, "Year":-1, "Era":"Exile",
+         "Event_Name":"Uttara Gograhana - Arjuna Reveals Identity",
+         "Description":"Kauravas attack Virata to steal cattle and expose Pandavas. Arjuna (as Brihannala) single-handedly defeats entire Kaurava army.",
+         "Location":"@viratanagara", "Participants":["@arjuna","@duryodhana","@bhishma","@drona","@karna"],
+         "Outcome":"Pandavas revealed; incognito period completed",
+         "Consequences":["Abhimanyu married to Uttaraa","War preparations begin"]},
+
+        # ─── Pre-War Diplomacy ───
+        {"Order":35, "Year":-1, "Era":"Pre-War",
+         "Event_Name":"Krishna's Peace Mission",
+         "Description":"Krishna goes as peace ambassador to Hastinapura. Shows Vishvarupa. Duryodhana refuses to give even 5 villages.",
+         "Location":"@hastinapura", "Participants":["@krishna","@duryodhana","@dhritarashtra","@gandhari","@vidura","@karna","@bhishma"],
+         "Outcome":"Peace negotiations fail completely",
+         "Consequences":["War becomes certain","Krishna reveals divine form","Karna learns his true identity from Kunti"]},
+
+        {"Order":36, "Year":-1, "Era":"Pre-War",
+         "Event_Name":"Karna Rejects Kunti's Appeal",
+         "Description":"Kunti reveals to Karna that he is her firstborn. Asks him to join Pandavas. Karna refuses but promises he will not kill any Pandava except Arjuna.",
+         "Location":"@hastinapura", "Participants":["@karna","@kunti"],
+         "Outcome":"Karna remains loyal to Duryodhana",
+         "Consequences":["Karna promises Kunti she will still have 5 sons after war"]},
+
+        {"Order":37, "Year":0, "Era":"Pre-War",
+         "Event_Name":"Bhagavad Gita",
+         "Description":"On the battlefield, Arjuna refuses to fight seeing kinsmen. Krishna delivers the Bhagavad Gita - discourse on duty, dharma, and paths to liberation.",
+         "Location":"@kurukshetra", "Participants":["@krishna","@arjuna"],
+         "Outcome":"Arjuna resolves to fight",
+         "Consequences":["Most sacred text of Hinduism delivered","War begins"]},
+
+        # ─── War Era (18 days) ───
+        {"Order":38, "Year":0, "Era":"War",
+         "Event_Name":"War Day 1 - War Begins",
+         "Description":"Kurukshetra War begins. Bhishma is Kaurava commander. Pandava army led by Dhrishtadyumna.",
+         "Location":"@kurukshetra", "Participants":["@bhishma","@dhrishtadyumna","@arjuna","@duryodhana"],
+         "Outcome":"First day of battle",
+         "Consequences":["Massive casualties on both sides"]},
+
+        {"Order":39, "Year":0, "Era":"War",
+         "Event_Name":"War Day 10 - Fall of Bhishma",
+         "Description":"Arjuna uses Shikhandi as shield. Bhishma refuses to fight Shikhandi (former Amba). Arjuna pierces Bhishma with arrows. Bhishma falls on bed of arrows.",
+         "Location":"@kurukshetra", "Participants":["@bhishma","@arjuna","@shikhandi","@duryodhana"],
+         "Outcome":"Bhishma falls; lies on bed of arrows awaiting Uttarayana",
+         "Consequences":["Drona becomes next Kaurava commander"]},
+
+        {"Order":40, "Year":0, "Era":"War",
+         "Event_Name":"War Day 13 - Death of Abhimanyu",
+         "Description":"Abhimanyu enters Chakravyuha but cannot exit. Jayadratha blocks other Pandavas. Seven warriors kill Abhimanyu treacherously.",
+         "Location":"@kurukshetra", "Participants":["@abhimanyu","@jayadratha","@drona","@karna","@duhshasana","@duryodhana"],
+         "Outcome":"Abhimanyu killed",
+         "Consequences":["Arjuna vows to kill Jayadratha before next sunset or self-immolate"]},
+
+        {"Order":41, "Year":0, "Era":"War",
+         "Event_Name":"War Day 14 - Arjuna Kills Jayadratha",
+         "Description":"Arjuna fights through entire Kaurava army. Krishna creates artificial sunset. Jayadratha emerges; Krishna reveals sun. Arjuna beheads Jayadratha.",
+         "Location":"@kurukshetra", "Participants":["@arjuna","@krishna","@jayadratha"],
+         "Outcome":"Jayadratha killed; Arjuna's vow fulfilled",
+         "Consequences":["Ghatotkacha fights night battle"]},
+
+        {"Order":42, "Year":0, "Era":"War",
+         "Event_Name":"War Day 14 Night - Death of Ghatotkacha",
+         "Description":"Ghatotkacha wreaks havoc on Kaurava army at night using powers. Karna uses Shakti weapon (meant for Arjuna) to kill Ghatotkacha.",
+         "Location":"@kurukshetra", "Participants":["@ghatotkacha","@karna"],
+         "Outcome":"Ghatotkacha killed by Shakti weapon",
+         "Consequences":["Karna loses his one-use weapon meant for Arjuna","Krishna rejoices"]},
+
+        {"Order":43, "Year":0, "Era":"War",
+         "Event_Name":"War Day 15 - Death of Drona",
+         "Description":"Ashvatthama elephant killed. Yudhishthira says 'Ashvatthama is dead' (the elephant). Drona lays down arms in grief. Dhrishtadyumna beheads Drona.",
+         "Location":"@kurukshetra", "Participants":["@drona","@dhrishtadyumna","@yudhishthira","@ashvatthama"],
+         "Outcome":"Drona killed through deception",
+         "Consequences":["Karna becomes next commander","Ashvatthama vows revenge"]},
+
+        {"Order":44, "Year":0, "Era":"War",
+         "Event_Name":"War Day 16 - Karna Becomes Commander",
+         "Description":"Karna appointed Kaurava commander. Fierce battles continue.",
+         "Location":"@kurukshetra", "Participants":["@karna","@duryodhana","@arjuna","@shalya"],
+         "Outcome":"Karna leads Kaurava army",
+         "Consequences":["Shalya appointed as Karna's charioteer to demoralize him"]},
+
+        {"Order":45, "Year":0, "Era":"War",
+         "Event_Name":"War Day 17 - Karna Kills Duhshasana... Karna Killed by Arjuna",
+         "Description":"Karna and Arjuna duel. Karna's chariot wheel sinks. While trying to lift it, Arjuna kills Karna on Krishna's urging. Earlier, Bhima kills Duhshasana and drinks his blood.",
+         "Location":"@kurukshetra", "Participants":["@karna","@arjuna","@krishna","@bhima","@duhshasana","@shalya"],
+         "Outcome":"Karna killed; Duhshasana killed by Bhima",
+         "Consequences":["Draupadi's vow partly fulfilled","Shalya becomes last commander"]},
+
+        {"Order":46, "Year":0, "Era":"War",
+         "Event_Name":"War Day 18 - Duryodhana Falls",
+         "Description":"Shalya killed by Yudhishthira. Shakuni killed by Sahadeva. Duryodhana hides in lake. Called out; mace duel with Bhima. Bhima strikes below belt. Duryodhana falls.",
+         "Location":"@kurukshetra", "Participants":["@duryodhana","@bhima","@shalya","@yudhishthira","@shakuni","@sahadeva","@balarama","@krishna"],
+         "Outcome":"Duryodhana mortally wounded; war effectively ends",
+         "Consequences":["Balarama furious at Bhima's foul blow","Ashvatthama plans night raid"]},
+
+        # ─── Post-War Era ───
+        {"Order":47, "Year":0, "Era":"Post-War",
+         "Event_Name":"Sauptika - Night Massacre",
+         "Description":"Ashvatthama, Kripacharya, and Kritavarma attack sleeping Pandava camp at night. Ashvatthama kills all Upapandavas (Draupadi's five sons) and Dhrishtadyumna.",
+         "Location":"@kurukshetra", "Participants":["@ashvatthama","@kripa","@kritavarma","@dhrishtadyumna"],
+         "Outcome":"Upapandavas, Dhrishtadyumna, and others killed in sleep",
+         "Consequences":["Ashvatthama launches Brahmashira","Cursed by Krishna to wander 3000 years"]},
+
+        {"Order":48, "Year":0, "Era":"Post-War",
+         "Event_Name":"Ashvatthama's Brahmashira and Curse",
+         "Description":"Ashvatthama launches Brahmashira astra at Pandavas. Arjuna counters. Vyasa intervenes. Ashvatthama redirects weapon at Uttaraa's womb. Krishna saves Parikshit. Ashvatthama cursed to wander 3000 years.",
+         "Location":"@kurukshetra", "Participants":["@ashvatthama","@arjuna","@krishna","@vyasa"],
+         "Outcome":"Ashvatthama stripped of gem; cursed by Krishna",
+         "Consequences":["Parikshit saved in womb","Ashvatthama immortally cursed"]},
+
+        {"Order":49, "Year":0, "Era":"Post-War",
+         "Event_Name":"Stri Parva - Lament of Women",
+         "Description":"Women of both sides mourn the dead. Gandhari curses Krishna that Yadavas will destroy themselves. Dhritarashtra tries to crush Bhima (Krishna substitutes iron statue).",
+         "Location":"@kurukshetra", "Participants":["@gandhari","@krishna","@dhritarashtra","@kunti","@draupadi"],
+         "Outcome":"Gandhari's curse on Krishna accepted",
+         "Consequences":["Yadava destruction foreshadowed"]},
+
+        {"Order":50, "Year":0, "Era":"Post-War",
+         "Event_Name":"Bhishma's Teachings (Shanti & Anushashana Parva)",
+         "Description":"Bhishma, lying on bed of arrows, teaches Yudhishthira about dharma, governance, and philosophy over many days.",
+         "Location":"@kurukshetra", "Participants":["@bhishma","@yudhishthira","@krishna"],
+         "Outcome":"Comprehensive teachings on kingship and dharma delivered"},
+
+        {"Order":51, "Year":0, "Era":"Post-War",
+         "Event_Name":"Death of Bhishma",
+         "Description":"On Uttarayana (sun's northward journey), Bhishma gives up his life. Body cremated on the banks of Ganga.",
+         "Location":"@kurukshetra", "Participants":["@bhishma","@yudhishthira","@krishna"],
+         "Outcome":"Bhishma dies on chosen day"},
+
+        {"Order":52, "Year":1, "Era":"Post-War",
+         "Event_Name":"Yudhishthira Crowned King",
+         "Description":"Yudhishthira crowned king of Hastinapura. Rules with dharma.",
+         "Location":"@hastinapura", "Participants":["@yudhishthira","@krishna","@bhima","@arjuna","@vidura","@dhritarashtra"],
+         "Outcome":"Pandavas rule Hastinapura"},
+
+        {"Order":53, "Year":2, "Era":"Post-War",
+         "Event_Name":"Ashvamedha Yajna",
+         "Description":"Yudhishthira performs Ashvamedha (horse sacrifice) to establish sovereignty. Arjuna follows the horse and fights various kings including his son Babhruvahana.",
+         "Location":"@hastinapura", "Participants":["@yudhishthira","@arjuna","@babhruvahana"],
+         "Outcome":"Ashvamedha completed successfully"},
+
+        {"Order":54, "Year":15, "Era":"Post-War",
+         "Event_Name":"Dhritarashtra, Gandhari, Kunti Retire to Forest",
+         "Description":"After 15 years of Pandava rule, Dhritarashtra, Gandhari, Kunti, Vidura, and Sanjaya retire to forest.",
+         "Location":"@hastinapura", "Participants":["@dhritarashtra","@gandhari","@kunti","@vidura","@sanjaya"],
+         "Outcome":"Elders leave for forest life"},
+
+        {"Order":55, "Year":18, "Era":"Post-War",
+         "Event_Name":"Death of Dhritarashtra, Gandhari, Kunti",
+         "Description":"Forest fire kills Dhritarashtra, Gandhari, and Kunti. Sanjaya survives.",
+         "Participants":["@dhritarashtra","@gandhari","@kunti","@sanjaya"],
+         "Outcome":"Three elders perish in forest fire"},
+
+        {"Order":56, "Year":36, "Era":"Post-War",
+         "Event_Name":"Mausala Parva - Destruction of Yadavas",
+         "Description":"Gandhari's curse fulfilled. Yadavas fight among themselves with iron pestles grown from eraka grass. Krishna's sons, Pradyumna, Samba die. Balarama dies. Krishna shot by hunter Jara.",
+         "Location":"@dvaraka", "Participants":["@krishna","@balarama","@pradyumna","@samba"],
+         "Outcome":"Yadava dynasty destroyed; Krishna dies; Dvaraka sinks into sea",
+         "Consequences":["Arjuna fails to protect Yadava women","Pandavas decide to renounce"]},
+
+        {"Order":57, "Year":36, "Era":"Post-War",
+         "Event_Name":"Mahaprasthanika - Great Journey",
+         "Description":"Pandavas renounce kingdom, crown Parikshit. Walk towards Himalayas. One by one, Draupadi, Sahadeva, Nakula, Arjuna, Bhima fall. Only Yudhishthira reaches summit with a dog (Yama in disguise).",
+         "Location":"@himalayas", "Participants":["@yudhishthira","@bhima","@arjuna","@nakula","@sahadeva","@draupadi"],
+         "Outcome":"All Pandavas except Yudhishthira fall on the journey",
+         "Consequences":["Yudhishthira tested by Yama"]},
+
+        {"Order":58, "Year":36, "Era":"Post-War",
+         "Event_Name":"Svargarohanika - Ascent to Heaven",
+         "Description":"Yudhishthira reaches heaven. Sees Duryodhana in heaven, Pandavas in hell (illusion). After test, all united in Svarga.",
+         "Location":"@svarga", "Participants":["@yudhishthira","@indra","@yama"],
+         "Outcome":"Yudhishthira passes final test; all heroes united in heaven",
+         "Consequences":["Epic concludes"]},
+    ]
+
+    # Build timeline output
+    tl_output = {}
+    for evt in timeline:
+        evt_id = f"evt_{evt['Order']:03d}"
+        entry = {
+            "Order": evt["Order"],
+            "Year": evt["Year"],
+            "Era": evt["Era"],
+            "Event_Name": evt["Event_Name"],
+            "Description": evt["Description"],
+        }
+        if evt.get("Location"):
+            entry["Location"] = evt["Location"]
+        if evt.get("Participants"):
+            entry["Participants"] = evt["Participants"]
+        if evt.get("Outcome"):
+            entry["Outcome"] = evt["Outcome"]
+        if evt.get("Consequences"):
+            entry["Consequences"] = evt["Consequences"]
+        if evt.get("Related_Events"):
+            entry["Related_Events"] = evt["Related_Events"]
+        if evt.get("Sources"):
+            entry["Sources"] = evt["Sources"]
+        tl_output[f"@{evt_id}"] = entry
+
+    tl_path = os.path.join(os.path.dirname(base_dir), 'timeline.json')
+    with open(tl_path, 'w', encoding='utf-8') as f:
+        json.dump(tl_output, f, ensure_ascii=False, indent=2)
+    print(f"\n  TIMELINE: {len(tl_output)} events saved to timeline.json")
+    era_counts = {}
+    for v in tl_output.values():
+        e = v['Era']
+        era_counts[e] = era_counts.get(e, 0) + 1
+    for e, c in sorted(era_counts.items()):
+        print(f"    {e}: {c}")
+
+    # ── Phase 7: Cross-linking ──────────────────────────────────
+    # Add Events_Occurred to locations from timeline
+    for evt_key, evt in tl_output.items():
+        loc_ref = evt.get("Location", "")
+        if loc_ref.startswith("@"):
+            loc_id = loc_ref[1:]  # remove @
+            if f"@{loc_id}" in loc_output:
+                loc_entry = loc_output[f"@{loc_id}"]
+                if "Events_Occurred" not in loc_entry:
+                    loc_entry["Events_Occurred"] = []
+                loc_entry["Events_Occurred"].append({"Event": evt_key})
+
+    # Re-save locations with events
+    with open(loc_path, 'w', encoding='utf-8') as f:
+        json.dump(loc_output, f, ensure_ascii=False, indent=2)
+
+    # Add Major_Events to characters from timeline
+    char_events = {}  # char_key -> [evt_keys]
+    for evt_key, evt in tl_output.items():
+        for p in evt.get("Participants", []):
+            if p.startswith("@"):
+                ck = p[1:]
+                char_events.setdefault(ck, []).append(evt_key)
+
+    for char_key, evt_keys in char_events.items():
+        full_key = f"@{char_key}"
+        if full_key in output:
+            output[full_key]["Major_Events"] = evt_keys
+
+    # Re-save characters with events
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    # ── Phase 8: Validation ─────────────────────────────────────
+    print("\n  VALIDATION:")
+    errors = 0
+    # Check character refs in timeline
+    for evt_key, evt in tl_output.items():
+        for p in evt.get("Participants", []):
+            if p.startswith("@") and p not in output:
+                print(f"    WARNING: Timeline {evt_key} references unknown character {p}")
+                errors += 1
+        loc = evt.get("Location", "")
+        if loc.startswith("@") and loc not in loc_output:
+            print(f"    WARNING: Timeline {evt_key} references unknown location {loc}")
+            errors += 1
+
+    # Check location refs in characters
+    for ck, cv in output.items():
+        kingdom = cv.get("Kingdom", "")
+        if kingdom.startswith("@") and kingdom not in loc_output:
+            print(f"    WARNING: Character {ck} Kingdom references unknown location {kingdom}")
+            errors += 1
+        for loc in cv.get("Important_Locations", []):
+            if loc.startswith("@") and loc not in loc_output:
+                print(f"    WARNING: Character {ck} Important_Locations references unknown location {loc}")
+                errors += 1
+
+    # Check location cross-refs
+    for lk, lv in loc_output.items():
+        ruler = lv.get("Ruler", "")
+        if ruler.startswith("@") and ruler not in output:
+            print(f"    WARNING: Location {lk} Ruler references unknown character {ruler}")
+            errors += 1
+        for r in lv.get("Residents", []):
+            if r.startswith("@") and r not in output:
+                print(f"    WARNING: Location {lk} Residents references unknown character {r}")
+                errors += 1
+
+    # Timeline order validation
+    orders = [v['Order'] for v in tl_output.values()]
+    if orders != list(range(1, len(orders) + 1)):
+        print(f"    WARNING: Timeline order is not continuous 1..{len(orders)}")
+        errors += 1
+    years = [v['Year'] for v in tl_output.values()]
+    for i in range(1, len(years)):
+        if years[i] < years[i-1]:
+            print(f"    WARNING: Timeline year goes backward at Order {i+1}: {years[i-1]} -> {years[i]}")
+            errors += 1
+
+    if errors == 0:
+        print("    All cross-references valid!")
+    else:
+        print(f"    {errors} validation warnings found")
+
+    print(f"\n  SUMMARY:")
+    print(f"    characters.json: {len(output)} characters")
+    print(f"    locations.json:  {len(loc_output)} locations")
+    print(f"    timeline.json:   {len(tl_output)} events")
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:

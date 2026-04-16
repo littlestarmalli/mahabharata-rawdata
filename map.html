@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mahabharata Locations Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', Arial, sans-serif; background: #1a1a2e; color: #e0e0e0; }
+
+#header {
+    background: linear-gradient(135deg, #16213e, #0f3460);
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #e94560;
+    z-index: 1000;
+    position: relative;
+}
+#header h1 {
+    font-size: 22px;
+    color: #f5c518;
+    letter-spacing: 1px;
+}
+#header .stats {
+    font-size: 13px;
+    color: #aaa;
+}
+
+#search-box {
+    position: absolute;
+    top: 70px;
+    left: 16px;
+    z-index: 1000;
+    background: rgba(22, 33, 62, 0.95);
+    border-radius: 8px;
+    padding: 10px;
+    width: 280px;
+    border: 1px solid #0f3460;
+}
+#search-input {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #0f3460;
+    border-radius: 6px;
+    background: #1a1a2e;
+    color: #e0e0e0;
+    font-size: 14px;
+    outline: none;
+}
+#search-input:focus { border-color: #e94560; }
+#search-input::placeholder { color: #666; }
+#search-results {
+    max-height: 300px;
+    overflow-y: auto;
+    margin-top: 6px;
+}
+.search-item {
+    padding: 6px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.search-item:hover { background: #0f3460; }
+.search-item .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+#legend {
+    position: absolute;
+    bottom: 30px;
+    right: 16px;
+    z-index: 1000;
+    background: rgba(22, 33, 62, 0.95);
+    border-radius: 8px;
+    padding: 12px 16px;
+    border: 1px solid #0f3460;
+    font-size: 12px;
+}
+#legend h3 { color: #f5c518; margin-bottom: 8px; font-size: 14px; }
+.legend-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 4px;
+}
+.legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.3);
+    flex-shrink: 0;
+}
+
+#map { height: calc(100vh - 52px); width: 100%; }
+
+.custom-popup .leaflet-popup-content-wrapper {
+    background: #16213e;
+    color: #e0e0e0;
+    border: 1px solid #e94560;
+    border-radius: 8px;
+    font-size: 13px;
+}
+.custom-popup .leaflet-popup-tip { background: #16213e; }
+.popup-title { font-size: 16px; font-weight: bold; color: #f5c518; margin-bottom: 4px; }
+.popup-type { color: #e94560; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+.popup-info { margin-top: 6px; line-height: 1.5; }
+.popup-info b { color: #7ec8e3; }
+.popup-distances { margin-top: 6px; font-size: 12px; color: #aaa; }
+.popup-distances span { color: #4ecca3; }
+</style>
+</head>
+<body>
+
+<div id="header">
+    <h1>&#x1F3F9; Mahabharata Locations</h1>
+    <div class="stats" id="stats"></div>
+</div>
+
+<div id="search-box">
+    <input type="text" id="search-input" placeholder="Search locations..." autocomplete="off">
+    <div id="search-results"></div>
+</div>
+
+<div id="legend">
+    <h3>Location Types</h3>
+    <div class="legend-row"><div class="legend-dot" style="background:#e94560"></div> Kingdom</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#f5c518"></div> City / Village</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#4ecca3"></div> Forest</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#3ec1d3"></div> River</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#a88beb"></div> Mountain</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#ff6b35"></div> Battlefield</div>
+    <div class="legend-row"><div class="legend-dot" style="background:#e0e0e0"></div> Hermitage</div>
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const TYPE_COLORS = {
+    'Kingdom':    '#e94560',
+    'City':       '#f5c518',
+    'Village':    '#f5c518',
+    'Forest':     '#4ecca3',
+    'River':      '#3ec1d3',
+    'Mountain':   '#a88beb',
+    'Battlefield':'#ff6b35',
+    'Celestial':  '#fff',
+    'Hermitage':  '#e0e0e0'
+};
+
+const TYPE_RADIUS = {
+    'Kingdom': 9,
+    'City': 7,
+    'Village': 6,
+    'Forest': 7,
+    'River': 6,
+    'Mountain': 8,
+    'Battlefield': 10,
+    'Hermitage': 6
+};
+
+// Locations data (embedded from locations.json)
+const locations = [
+    { id:"@hastinapura", name:"Hastinapura", type:"Kingdom", lat:29.1604, lng:78.018, famous:"Capital of Kuru dynasty", modern:"Hastinapur, Meerut district, UP", distances:[{n:"Lakshagriha",km:63},{n:"Ganga",km:88},{n:"Indraprastha",km:97},{n:"Kurukshetra",km:142}] },
+    { id:"@indraprastha", name:"Indraprastha", type:"City", lat:28.6095, lng:77.2425, famous:"Maya Sabha", modern:"Purana Qila, Delhi", distances:[{n:"Yamuna",km:1},{n:"Khandava Forest",km:14},{n:"Hastinapura",km:97}] },
+    { id:"@panchala", name:"Panchala", type:"Kingdom", lat:28.367, lng:79.4304, famous:"Draupadi Swayamvara", modern:"Bareilly-Badaun, UP", distances:[{n:"Hastinapura",km:157},{n:"Ganga",km:161}] },
+    { id:"@dvaraka", name:"Dvaraka", type:"Kingdom", lat:22.2442, lng:68.9685, famous:"Krishna's capital city", modern:"Dwarka, Gujarat", distances:[{n:"Sindhu",km:356},{n:"Narmada",km:490}] },
+    { id:"@magadha", name:"Magadha", type:"Kingdom", lat:25.0283, lng:85.4218, famous:"Jarasandha's fortress", modern:"Rajgir, Bihar", distances:[{n:"Girivraja",km:1},{n:"Champapuri",km:175},{n:"Anga",km:178}] },
+    { id:"@girivraja", name:"Girivraja", type:"City", lat:25.0268, lng:85.421, famous:"Jarasandha's capital", modern:"Rajgir, Bihar", distances:[{n:"Magadha",km:1},{n:"Champapuri",km:175}] },
+    { id:"@kashi", name:"Kashi", type:"Kingdom", lat:25.3176, lng:82.9739, famous:"Swayamvara of princesses", modern:"Varanasi, UP", distances:[{n:"Koshala",km:105},{n:"Ekachakra",km:196}] },
+    { id:"@chedi", name:"Chedi", type:"Kingdom", lat:25.476, lng:80.3319, famous:"Shishupala killed by Krishna", modern:"Near Jhansi-Banda, UP", distances:[{n:"Nishadha",km:273}] },
+    { id:"@anga", name:"Anga", type:"Kingdom", lat:25.2425, lng:86.9842, famous:"Karna's kingdom", modern:"Bhagalpur, Bihar", distances:[{n:"Champapuri",km:4},{n:"Magadha",km:178}] },
+    { id:"@gandhara", name:"Gandhara", type:"Kingdom", lat:34.0151, lng:71.5249, famous:"Shakuni's kingdom", modern:"Peshawar, Pakistan", distances:[{n:"Sindhu (Indus)",km:115}] },
+    { id:"@sindhu", name:"Sindhu", type:"Kingdom", lat:25.396, lng:68.3578, famous:"Jayadratha's kingdom", modern:"Sindh, Pakistan", distances:[{n:"Dvaraka",km:356}] },
+    { id:"@madra", name:"Madra", type:"Kingdom", lat:32.4945, lng:74.5229, famous:"Shalya's kingdom", modern:"Sialkot, Pakistan", distances:[{n:"Trigarta",km:154}] },
+    { id:"@matsya", name:"Matsya", type:"Kingdom", lat:27.3117, lng:76.1775, famous:"Pandavas' incognito year", modern:"Alwar-Jaipur, Rajasthan", distances:[{n:"Viratanagara",km:36},{n:"Upaplavya",km:40}] },
+    { id:"@viratanagara", name:"Viratanagara", type:"City", lat:27.0238, lng:76.3817, famous:"Pandavas served in disguise", modern:"Bairat, Rajasthan", distances:[{n:"Matsya",km:36},{n:"Upaplavya",km:5}] },
+    { id:"@pragjyotisha", name:"Pragjyotisha", type:"Kingdom", lat:26.1445, lng:91.7362, famous:"Bhagadatta's elephant army", modern:"Guwahati, Assam", distances:[{n:"Manipura",km:248}] },
+    { id:"@manipura", name:"Manipura", type:"Kingdom", lat:24.817, lng:93.9368, famous:"Arjuna married Chitrangada", modern:"Imphal, Manipur", distances:[{n:"Pragjyotisha",km:248}] },
+    { id:"@trigarta", name:"Trigarta", type:"Kingdom", lat:31.326, lng:75.5762, famous:"Susharma's alliance with Kauravas", modern:"Jalandhar, Punjab", distances:[{n:"Madra",km:154},{n:"Kurukshetra",km:195}] },
+    { id:"@koshala", name:"Koshala", type:"Kingdom", lat:26.7922, lng:82.1998, famous:"Ancient kingdom of Rama", modern:"Ayodhya-Faizabad, UP", distances:[{n:"Kashi",km:105}] },
+    { id:"@vidarbha", name:"Vidarbha", type:"Kingdom", lat:21.1458, lng:79.0882, famous:"Rukmini's homeland", modern:"Nagpur, Maharashtra", distances:[{n:"Narmada",km:238},{n:"Godavari",km:295}] },
+    { id:"@nishadha", name:"Nishadha", type:"Kingdom", lat:25.64, lng:77.91, famous:"Nala-Damayanti love story", modern:"Near Gwalior, MP", distances:[] },
+    { id:"@kalinga", name:"Kalinga", type:"Kingdom", lat:20.2961, lng:85.8245, famous:"Participated in Kurukshetra War", modern:"Bhubaneswar, Odisha", distances:[] },
+    { id:"@vanga", name:"Vanga", type:"Kingdom", lat:22.5726, lng:88.3639, famous:"Eastern kingdom", modern:"Kolkata, West Bengal", distances:[] },
+    { id:"@kunti_kingdom", name:"Kunti", type:"Kingdom", lat:25.2138, lng:75.8648, famous:"Kunti's adoptive homeland", modern:"Kota-Bundi, Rajasthan", distances:[] },
+    { id:"@champapuri", name:"Champapuri", type:"City", lat:25.244, lng:87.001, famous:"Capital of Anga", modern:"Champa, Bihar", distances:[{n:"Anga",km:4},{n:"Magadha",km:175}] },
+    { id:"@kurukshetra", name:"Kurukshetra", type:"Battlefield", lat:29.9695, lng:76.8783, famous:"18-day Mahabharata War", modern:"Kurukshetra, Haryana", distances:[{n:"Dvaitavana",km:6},{n:"Sarasvati",km:27},{n:"Kamyaka Forest",km:47},{n:"Hastinapura",km:142}] },
+    { id:"@khandava_forest", name:"Khandava Forest", type:"Forest", lat:28.5, lng:77.3, famous:"Burned by Arjuna and Krishna", modern:"Near Delhi", distances:[{n:"Indraprastha",km:14},{n:"Yamuna",km:12}] },
+    { id:"@kamyaka_forest", name:"Kamyaka Forest", type:"Forest", lat:29.55, lng:76.9, famous:"Pandavas' exile forest", modern:"Near Kurukshetra, Haryana", distances:[{n:"Kurukshetra",km:47},{n:"Dvaitavana",km:47},{n:"Sarasvati",km:50}] },
+    { id:"@dvaitavana", name:"Dvaitavana", type:"Forest", lat:29.97, lng:76.82, famous:"Pandavas' exile", modern:"Near Thanesar, Haryana", distances:[{n:"Kurukshetra",km:6},{n:"Sarasvati",km:24}] },
+    { id:"@naimisha_forest", name:"Naimisha Forest", type:"Forest", lat:26.746, lng:80.453, famous:"Suta Ugrasrava narrated Mahabharata here", modern:"Naimisharanya, UP", distances:[] },
+    { id:"@dandaka_forest", name:"Dandaka Forest", type:"Forest", lat:19.5, lng:80.0, famous:"Rama's exile (Ramayana)", modern:"Dandakaranya, Chhattisgarh", distances:[] },
+    { id:"@ganga_river", name:"Ganga", type:"River", lat:29.9457, lng:78.1642, famous:"Sacred river, Bhishma's mother", modern:"Haridwar, Uttarakhand", distances:[{n:"Shatashriga",km:16},{n:"Hastinapura",km:88},{n:"Kurukshetra",km:140}] },
+    { id:"@yamuna_river", name:"Yamuna", type:"River", lat:28.61, lng:77.25, famous:"Flows past Indraprastha", modern:"Delhi", distances:[{n:"Indraprastha",km:1},{n:"Khandava Forest",km:13},{n:"Hastinapura",km:97}] },
+    { id:"@sarasvati_river", name:"Sarasvati", type:"River", lat:29.98, lng:76.58, famous:"Sacred river of Kurukshetra", modern:"Dried up, Haryana", distances:[{n:"Dvaitavana",km:24},{n:"Kurukshetra",km:27}] },
+    { id:"@sindhu_river", name:"Sindhu (Indus)", type:"River", lat:33.774, lng:72.3609, famous:"Western boundary of Bharata", modern:"Indus River, Pakistan", distances:[{n:"Gandhara",km:115}] },
+    { id:"@godavari_river", name:"Godavari", type:"River", lat:19.9975, lng:73.7898, famous:"Sacred southern river", modern:"Nashik, Maharashtra", distances:[{n:"Vidarbha",km:295}] },
+    { id:"@narmada_river", name:"Narmada", type:"River", lat:23.1815, lng:79.9864, famous:"Sacred river", modern:"Jabalpur, MP", distances:[{n:"Vidarbha",km:238},{n:"Vindhya",km:99}] },
+    { id:"@himalayas", name:"Himalayas", type:"Mountain", lat:30.7346, lng:79.0669, famous:"Abode of gods", modern:"Uttarakhand", distances:[{n:"Badarikashrama",km:47},{n:"Gandhamadana",km:48},{n:"Shatashriga",km:99}] },
+    { id:"@gandhamadana", name:"Gandhamadana", type:"Mountain", lat:30.75, lng:79.5, famous:"Bhima met Hanuman here", modern:"Near Badrinath", distances:[{n:"Badarikashrama",km:1},{n:"Himalayas",km:48}] },
+    { id:"@kailasa", name:"Kailasa", type:"Mountain", lat:31.0672, lng:81.3119, famous:"Abode of Shiva", modern:"Mount Kailash, Tibet", distances:[{n:"Himalayas",km:243}] },
+    { id:"@vindhya", name:"Vindhya", type:"Mountain", lat:24.0, lng:80.5, famous:"Divides north and south India", modern:"Vindhya Range, MP", distances:[{n:"Narmada",km:99},{n:"Chedi",km:163}] },
+    { id:"@ekachakra", name:"Ekachakra", type:"Village", lat:25.5549, lng:84.6634, famous:"Bhima killed Bakasura", modern:"Chakranagar, Bihar", distances:[{n:"Kashi",km:196}] },
+    { id:"@upaplavya", name:"Upaplavya", type:"City", lat:27.05, lng:76.4, famous:"Pandava war camp", modern:"Near Bairat, Rajasthan", distances:[{n:"Viratanagara",km:5},{n:"Matsya",km:40}] },
+    { id:"@mathura", name:"Mathura", type:"City", lat:27.4924, lng:77.6737, famous:"Krishna's birthplace", modern:"Mathura, UP", distances:[{n:"Vrindavana",km:11},{n:"Indraprastha",km:141}] },
+    { id:"@vrindavana", name:"Vrindavana", type:"Village", lat:27.583, lng:77.7013, famous:"Krishna's childhood", modern:"Vrindavan, UP", distances:[{n:"Mathura",km:11},{n:"Indraprastha",km:150}] },
+    { id:"@shatashriga", name:"Shatashriga", type:"Mountain", lat:30.0869, lng:78.2676, famous:"Pandu's death", modern:"Near Rishikesh", distances:[{n:"Ganga",km:16},{n:"Himalayas",km:99}] },
+    { id:"@badarikashrama", name:"Badarikashrama", type:"Hermitage", lat:30.7433, lng:79.4938, famous:"Vyasa's ashram", modern:"Badrinath, Uttarakhand", distances:[{n:"Gandhamadana",km:1},{n:"Himalayas",km:47}] },
+    { id:"@lakshagriha", name:"Lakshagriha", type:"City", lat:29.07, lng:77.38, famous:"House of lac – Kauravas' plot", modern:"Near Meerut, UP", distances:[{n:"Hastinapura",km:63},{n:"Indraprastha",km:52}] }
+];
+
+// Initialize map centered on India
+const map = L.map('map', {
+    zoomControl: true,
+    attributionControl: true
+}).setView([26.5, 79], 5);
+
+// Dark tile layer
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap &copy; CARTO',
+    maxZoom: 18
+}).addTo(map);
+
+const markers = {};
+
+// Add markers
+locations.forEach(loc => {
+    const color = TYPE_COLORS[loc.type] || '#fff';
+    const radius = TYPE_RADIUS[loc.type] || 7;
+
+    // Build popup content
+    let popup = `<div class="popup-title">${loc.name}</div>`;
+    popup += `<div class="popup-type">${loc.type}</div>`;
+    popup += `<div class="popup-info">`;
+    if (loc.famous) popup += `<b>Famous for:</b> ${loc.famous}<br>`;
+    if (loc.modern) popup += `<b>Modern:</b> ${loc.modern}<br>`;
+    popup += `<b>Coords:</b> ${loc.lat.toFixed(2)}°N, ${loc.lng.toFixed(2)}°E`;
+    popup += `</div>`;
+
+    if (loc.distances && loc.distances.length > 0) {
+        popup += `<div class="popup-distances"><b>Nearby:</b><br>`;
+        loc.distances.forEach(d => {
+            popup += `→ <span>${d.n}</span> — ${d.km} km<br>`;
+        });
+        popup += `</div>`;
+    }
+
+    const marker = L.circleMarker([loc.lat, loc.lng], {
+        radius: radius,
+        fillColor: color,
+        color: '#fff',
+        weight: 1.5,
+        opacity: 0.9,
+        fillOpacity: 0.85
+    }).addTo(map);
+
+    marker.bindPopup(popup, { className: 'custom-popup', maxWidth: 280 });
+
+    // Permanent label
+    const tooltip = L.tooltip({
+        permanent: true,
+        direction: 'top',
+        offset: [0, -radius - 2],
+        className: 'location-label'
+    }).setContent(loc.name);
+    marker.bindTooltip(tooltip);
+
+    markers[loc.id] = { marker, data: loc };
+});
+
+// Add label styling
+const labelStyle = document.createElement('style');
+labelStyle.textContent = `
+    .location-label {
+        background: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        color: #e0e0e0 !important;
+        font-size: 11px !important;
+        font-weight: 600 !important;
+        text-shadow: 0 0 4px #000, 0 0 8px #000, 1px 1px 2px #000 !important;
+        padding: 0 !important;
+    }
+    .location-label::before { display: none !important; }
+`;
+document.head.appendChild(labelStyle);
+
+// Show labels only at higher zoom
+function updateLabels() {
+    const zoom = map.getZoom();
+    document.querySelectorAll('.location-label').forEach(el => {
+        el.style.display = zoom >= 6 ? '' : 'none';
+    });
+}
+map.on('zoomend', updateLabels);
+updateLabels();
+
+// Stats
+document.getElementById('stats').textContent =
+    `${locations.length} locations on map | Kingdoms: ${locations.filter(l=>l.type==='Kingdom').length} | Cities: ${locations.filter(l=>l.type==='City'||l.type==='Village').length} | Rivers: ${locations.filter(l=>l.type==='River').length} | Mountains: ${locations.filter(l=>l.type==='Mountain').length} | Forests: ${locations.filter(l=>l.type==='Forest').length}`;
+
+// Search
+const searchInput = document.getElementById('search-input');
+const searchResults = document.getElementById('search-results');
+
+searchInput.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase().trim();
+    searchResults.innerHTML = '';
+    if (!q) return;
+
+    const matches = locations.filter(l =>
+        l.name.toLowerCase().includes(q) ||
+        l.type.toLowerCase().includes(q) ||
+        (l.famous && l.famous.toLowerCase().includes(q)) ||
+        (l.modern && l.modern.toLowerCase().includes(q))
+    );
+
+    matches.forEach(loc => {
+        const color = TYPE_COLORS[loc.type] || '#fff';
+        const div = document.createElement('div');
+        div.className = 'search-item';
+        div.innerHTML = `<div class="dot" style="background:${color}"></div>
+            <div><strong>${loc.name}</strong> <span style="color:#888;font-size:11px">${loc.type}</span></div>`;
+        div.onclick = () => {
+            map.setView([loc.lat, loc.lng], 9);
+            markers[loc.id].marker.openPopup();
+            searchInput.value = '';
+            searchResults.innerHTML = '';
+        };
+        searchResults.appendChild(div);
+    });
+});
+</script>
+</body>
+</html>

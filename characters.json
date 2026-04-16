@@ -8,7 +8,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@abhibhu": {
     "Name": "Abhibhu",
@@ -38,7 +42,61 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Prince",
+    "Skills": [
+      "Archery",
+      "Chakravyuha penetration",
+      "Chariot warfare"
+    ],
+    "Titles": [
+      "Soubhadra"
+    ],
+    "Traits": [
+      "Brave",
+      "Young",
+      "Fearless",
+      "Tragic"
+    ],
+    "Character_Arc": [
+      "Born to Arjuna and Subhadra",
+      "Learned Chakravyuha entry in the womb",
+      "Married Uttaraa of Matsya",
+      "Entered Chakravyuha on Day 13",
+      "Killed treacherously by 7 warriors"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@arjuna",
+        "Type": "Father"
+      },
+      {
+        "With": "@krishna",
+        "Type": "Uncle"
+      },
+      {
+        "With": "@jayadratha",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@drona",
+        "Type": "Enemy"
+      }
+    ],
+    "Important_Locations": [
+      "@dvaraka",
+      "@indraprastha",
+      "@viratanagara",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    },
+    "Major_Events": [
+      "@evt_040"
+    ]
   },
   "@adhiratha": {
     "Name": "Adhiratha",
@@ -71,7 +129,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@agastya": {
     "Name": "Agastya",
@@ -93,7 +155,10 @@
     "Gender": "Male",
     "Caste": "Deva",
     "Duty": "Fire god",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_020"
+    ]
   },
   "@ahuka": {
     "Name": "Ahuka",
@@ -135,7 +200,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@amba": {
     "Name": "Amba",
@@ -166,7 +235,10 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Queen",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Major_Events": [
+      "@evt_003"
+    ]
   },
   "@ambarisha": {
     "Name": "Ambarisha",
@@ -205,7 +277,10 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Queen",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Major_Events": [
+      "@evt_003"
+    ]
   },
   "@amurtarayas": {
     "Name": "Amurtarayas",
@@ -224,13 +299,21 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ananta": {
     "Name": "Ananta",
     "Alias_names": [],
     "Gender": "Female",
-    "Father": "@krishna"
+    "Father": "@krishna",
+    "Lineage": {
+      "Grandfather": "@vasudeva_father",
+      "Great_Grandfather": "@shurasena"
+    }
   },
   "@anga": {
     "Name": "Anga",
@@ -276,7 +359,11 @@
     "Name": "Anjanaparva",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@bhima"
+    "Father": "@bhima",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@anshuman": {
     "Name": "Anshuman",
@@ -295,7 +382,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@anuvinda": {
     "Name": "Anuvinda",
@@ -306,7 +397,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@aparajita": {
     "Name": "Aparajita",
@@ -317,7 +412,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@apava": {
     "Name": "Apava",
@@ -386,7 +485,132 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Alive"
+    "Status": "Alive",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Prince",
+    "Skills": [
+      "Archery",
+      "Sword combat",
+      "Celestial weapons mastery",
+      "Dance",
+      "Music"
+    ],
+    "Divine_Weapons": [
+      "Gandiva bow",
+      "Pashupatastra",
+      "Brahmastra",
+      "Aindraastra",
+      "Varunastra",
+      "Agneyastra",
+      "Vayavyastra",
+      "Narayanastra"
+    ],
+    "Titles": [
+      "Partha",
+      "Savyasachi",
+      "Dhananjaya",
+      "Gudakesha",
+      "Kiriti",
+      "Bibhatsu",
+      "Vijaya",
+      "Shvetavahana",
+      "Jishnu",
+      "Phalguna",
+      "Brihannala"
+    ],
+    "Traits": [
+      "Skilled",
+      "Disciplined",
+      "Devoted",
+      "Courageous",
+      "Self-doubting"
+    ],
+    "Character_Arc": [
+      "Born to Kunti via Indra",
+      "Trained under Drona - best archer",
+      "Won Draupadi at Swayamvara",
+      "Burned Khandava forest with Krishna",
+      "Exile - penance to Shiva (Pashupatastra)",
+      "Trained in Svarga under Indra",
+      "Lived as Brihannala in Virata",
+      "Received Bhagavad Gita from Krishna",
+      "Fought and won Kurukshetra War",
+      "Killed Karna",
+      "Ashvamedha Yajna",
+      "Ascended to Svarga"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@krishna",
+        "Type": "Friend"
+      },
+      {
+        "With": "@drona",
+        "Type": "Guru"
+      },
+      {
+        "With": "@karna",
+        "Type": "Rival"
+      },
+      {
+        "With": "@subhadra",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@abhimanyu",
+        "Type": "Father"
+      },
+      {
+        "With": "@indra",
+        "Type": "Divine father"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@indraprastha",
+      "@khandava_forest",
+      "@svarga",
+      "@viratanagara",
+      "@kurukshetra",
+      "@manipura",
+      "@dvaraka"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_010",
+      "@evt_013",
+      "@evt_014",
+      "@evt_015",
+      "@evt_018",
+      "@evt_019",
+      "@evt_020",
+      "@evt_021",
+      "@evt_022",
+      "@evt_025",
+      "@evt_026",
+      "@evt_027",
+      "@evt_028",
+      "@evt_031",
+      "@evt_032",
+      "@evt_034",
+      "@evt_037",
+      "@evt_038",
+      "@evt_039",
+      "@evt_041",
+      "@evt_044",
+      "@evt_045",
+      "@evt_048",
+      "@evt_052",
+      "@evt_053",
+      "@evt_057"
+    ]
   },
   "@aruna": {
     "Name": "Aruna",
@@ -448,7 +672,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ashvatthama": {
     "Name": "Ashvatthama",
@@ -461,7 +689,73 @@
     "Caste": "Brahmin",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Skills": [
+      "All weapons mastery",
+      "Brahmastra",
+      "Narayanastra"
+    ],
+    "Divine_Weapons": [
+      "Narayanastra",
+      "Brahmashira",
+      "Brahmastra",
+      "Agneyastra"
+    ],
+    "Titles": [
+      "Dronaputra",
+      "Chiranjivi"
+    ],
+    "Traits": [
+      "Wrathful",
+      "Vengeful",
+      "Cursed",
+      "Immortal"
+    ],
+    "Character_Arc": [
+      "Son of Drona and Kripi",
+      "Grew up in poverty",
+      "Trained alongside Kuru princes",
+      "Fought for Kauravas",
+      "Attacked Pandava camp at night (Sauptika)",
+      "Killed Upapandavas in sleep",
+      "Launched Brahmashira at Pandavas",
+      "Cursed by Krishna to wander 3000 years"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@drona",
+        "Type": "Father"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Friend"
+      },
+      {
+        "With": "@arjuna",
+        "Type": "Rival"
+      },
+      {
+        "With": "@dhrishtadyumna",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@krishna",
+        "Type": "Adversary"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@bharadvaja"
+    },
+    "Major_Events": [
+      "@evt_013",
+      "@evt_043",
+      "@evt_047",
+      "@evt_048"
+    ]
   },
   "@ashvins": {
     "Name": "Ashvins",
@@ -481,7 +775,10 @@
     ],
     "Caste": "Deva",
     "Duty": "Divine physicians",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_011"
+    ]
   },
   "@astika": {
     "Name": "Astika",
@@ -517,7 +814,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ayu": {
     "Name": "Ayu",
@@ -545,7 +846,14 @@
     "Father": "@arjuna",
     "Mother": "@chitrangada_manipura",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    },
+    "Major_Events": [
+      "@evt_053"
+    ]
   },
   "@bahlika": {
     "Name": "Bahlika",
@@ -565,7 +873,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@baka": {
     "Name": "Baka",
@@ -586,7 +898,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@balarama": {
     "Name": "Balarama",
@@ -610,7 +926,61 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Yadava",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@dvaraka",
+    "Political_Role": "Prince of Dvaraka",
+    "Skills": [
+      "Mace combat",
+      "Plough weapon"
+    ],
+    "Divine_Weapons": [
+      "Plough (Hala)",
+      "Mace (Saunanda)"
+    ],
+    "Titles": [
+      "Baladeva",
+      "Halayudha",
+      "Sankarshana"
+    ],
+    "Traits": [
+      "Strong",
+      "Hot-tempered",
+      "Neutral in war",
+      "Fond of Duryodhana"
+    ],
+    "Character_Arc": [
+      "Born to Rohini (transferred from Devaki)",
+      "Trained Duryodhana and Bhima in mace",
+      "Refused to fight in war (neutral)",
+      "Went on pilgrimage during war",
+      "Angered at Bhima's foul blow to Duryodhana",
+      "Died during Mausala"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@krishna",
+        "Type": "Brother"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Guru"
+      },
+      {
+        "With": "@bhima",
+        "Type": "Guru"
+      }
+    ],
+    "Important_Locations": [
+      "@dvaraka",
+      "@mathura"
+    ],
+    "Lineage": {
+      "Grandfather": "@shurasena"
+    },
+    "Major_Events": [
+      "@evt_046",
+      "@evt_056"
+    ]
   },
   "@balavardhana": {
     "Name": "Balavardhana",
@@ -621,7 +991,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@bali": {
     "Name": "Bali",
@@ -638,7 +1012,10 @@
     "Name": "Bana",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@bali"
+    "Father": "@bali",
+    "Lineage": {
+      "Grandfather": "@virochana"
+    }
   },
   "@banasura": {
     "Name": "Banasura",
@@ -683,7 +1060,11 @@
     "Name": "Bhanu",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@krishna"
+    "Father": "@krishna",
+    "Lineage": {
+      "Grandfather": "@vasudeva_father",
+      "Great_Grandfather": "@shurasena"
+    }
   },
   "@bhanumati": {
     "Name": "Bhanumati",
@@ -744,7 +1125,90 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Alive"
+    "Status": "Alive",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Prince",
+    "Skills": [
+      "Mace combat",
+      "Wrestling",
+      "Immense strength",
+      "Cooking"
+    ],
+    "Titles": [
+      "Vrikodara",
+      "Ballava"
+    ],
+    "Traits": [
+      "Fierce",
+      "Loyal",
+      "Wrathful",
+      "Protective",
+      "Gluttonous"
+    ],
+    "Character_Arc": [
+      "Born to Kunti via Vayu",
+      "Poisoned by Duryodhana - survived",
+      "Killed Bakasura at Ekachakra",
+      "Killed Hidimba - married Hidimba (sister)",
+      "Killed Jarasandha in wrestling duel",
+      "Served as cook Ballava in Virata",
+      "Vowed to kill all 100 Kauravas",
+      "Killed Duhshasana - drank his blood",
+      "Killed Duryodhana in mace duel",
+      "Ascended to Svarga"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@duryodhana",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@duhshasana",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@hanuman",
+        "Type": "Brother"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@ghatotkacha",
+        "Type": "Father"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@indraprastha",
+      "@ekachakra",
+      "@kamyaka_forest",
+      "@viratanagara",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_008",
+      "@evt_013",
+      "@evt_016",
+      "@evt_017",
+      "@evt_018",
+      "@evt_021",
+      "@evt_022",
+      "@evt_025",
+      "@evt_028",
+      "@evt_029",
+      "@evt_032",
+      "@evt_033",
+      "@evt_045",
+      "@evt_046",
+      "@evt_052",
+      "@evt_057"
+    ]
   },
   "@bhima_vidarbha": {
     "Name": "Bhima_vidarbha",
@@ -768,7 +1232,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@bhimakarma": {
     "Name": "Bhimakarma",
@@ -779,7 +1247,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@bhimaratha": {
     "Name": "Bhimaratha",
@@ -790,7 +1262,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@bhimavega": {
     "Name": "Bhimavega",
@@ -801,7 +1277,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@bhishma": {
     "Name": "Bhishma",
@@ -817,7 +1297,88 @@
     "Caste": "Kshatriya",
     "Duty": "Regent",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Regent and Grand-sire",
+    "Skills": [
+      "Archery",
+      "All weapons mastery",
+      "Statecraft",
+      "Celibacy vow"
+    ],
+    "Divine_Weapons": [
+      "Brahmastra",
+      "Prasvapana"
+    ],
+    "Titles": [
+      "Devavrata",
+      "Gangeya",
+      "Pitamaha",
+      "Grand-sire of Kuru"
+    ],
+    "Traits": [
+      "Vow-keeper",
+      "Invincible",
+      "Wise",
+      "Tragic",
+      "Bound by duty"
+    ],
+    "Character_Arc": [
+      "Born to Shantanu and Ganga - 8th Vasu",
+      "Took vow of celibacy (Bhishma Pratigya)",
+      "Abducted Amba, Ambika, Ambalika for Vichitravirya",
+      "Served as regent of Hastinapura across generations",
+      "Became Kaurava commander (Days 1-10)",
+      "Shot by Arjuna using Shikhandi as shield",
+      "Lay on bed of arrows",
+      "Taught Shanti Parva wisdom",
+      "Died on Uttarayana"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@arjuna",
+        "Type": "Grandfather figure"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Grandfather figure"
+      },
+      {
+        "With": "@drona",
+        "Type": "Ally"
+      },
+      {
+        "With": "@shikhandi",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@amba",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@parashurama",
+        "Type": "Guru"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@pratipa"
+    },
+    "Major_Events": [
+      "@evt_001",
+      "@evt_002",
+      "@evt_004",
+      "@evt_023",
+      "@evt_034",
+      "@evt_035",
+      "@evt_038",
+      "@evt_039",
+      "@evt_050",
+      "@evt_051"
+    ]
   },
   "@bhishmaka": {
     "Name": "Bhishmaka",
@@ -937,7 +1498,10 @@
     "Name": "Brihattara",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@kashyapa"
+    "Father": "@kashyapa",
+    "Lineage": {
+      "Grandfather": "@maricha"
+    }
   },
   "@budha": {
     "Name": "Budha",
@@ -953,7 +1517,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chedi": {
     "Name": "Chedi",
@@ -977,7 +1545,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitrabana": {
     "Name": "Chitrabana",
@@ -988,7 +1560,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitraksha": {
     "Name": "Chitraksha",
@@ -999,7 +1575,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitrakundala": {
     "Name": "Chitrakundala",
@@ -1010,7 +1590,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitranga": {
     "Name": "Chitranga",
@@ -1021,7 +1605,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitrangada_kuru": {
     "Name": "Chitrangada_kuru",
@@ -1034,7 +1622,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pratipa"
+    }
   },
   "@chitrangada_manipura": {
     "Name": "Chitrangada_manipura",
@@ -1067,7 +1658,10 @@
       "@shashabindu"
     ],
     "Caste": "Gandharva",
-    "Duty": "King"
+    "Duty": "King",
+    "Major_Events": [
+      "@evt_031"
+    ]
   },
   "@chitrasena_kaurava": {
     "Name": "Chitrasena_kaurava",
@@ -1080,7 +1674,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chitravahana": {
     "Name": "Chitravahana",
@@ -1098,7 +1696,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@chyavana": {
     "Name": "Chyavana",
@@ -1134,7 +1736,10 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Queen",
-    "Dynasty": "Vidarbha"
+    "Dynasty": "Vidarbha",
+    "Major_Events": [
+      "@evt_030"
+    ]
   },
   "@dandadhara_kaurava": {
     "Name": "Dandadhara_kaurava",
@@ -1145,7 +1750,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@daruka": {
     "Name": "Daruka",
@@ -1227,7 +1836,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dhata": {
     "Name": "Dhata",
@@ -1249,7 +1862,15 @@
     "Caste": "Kshatriya",
     "Duty": "Commander",
     "Dynasty": "Panchala",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@prishata"
+    },
+    "Major_Events": [
+      "@evt_038",
+      "@evt_043",
+      "@evt_047"
+    ]
   },
   "@dhrishtaketu": {
     "Name": "Dhrishtaketu",
@@ -1394,7 +2015,73 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "King",
+    "Skills": [
+      "Immense physical strength",
+      "Statecraft"
+    ],
+    "Titles": [
+      "King of Hastinapura",
+      "Blind King"
+    ],
+    "Traits": [
+      "Blind",
+      "Indecisive",
+      "Partial to sons",
+      "Grieving father",
+      "Weak-willed"
+    ],
+    "Character_Arc": [
+      "Born blind via Niyoga from Vyasa",
+      "Passed over for throne due to blindness",
+      "Became regent after Pandu's death",
+      "Failed to restrain Duryodhana",
+      "Approved dice game",
+      "Witnessed war through Sanjaya's narration",
+      "Lost all 100 sons in war",
+      "Retired to forest with Gandhari",
+      "Died in forest fire"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@gandhari",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Father"
+      },
+      {
+        "With": "@vidura",
+        "Type": "Brother"
+      },
+      {
+        "With": "@sanjaya",
+        "Type": "Adviser"
+      },
+      {
+        "With": "@pandu",
+        "Type": "Brother"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura"
+    ],
+    "Lineage": {
+      "Grandfather": "@shantanu",
+      "Great_Grandfather": "@pratipa"
+    },
+    "Major_Events": [
+      "@evt_004",
+      "@evt_023",
+      "@evt_035",
+      "@evt_049",
+      "@evt_052",
+      "@evt_054",
+      "@evt_055"
+    ]
   },
   "@dhundhu": {
     "Name": "Dhundhu",
@@ -1419,7 +2106,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dirghalochana": {
     "Name": "Dirghalochana",
@@ -1430,7 +2121,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dirghatama": {
     "Name": "Dirghatama",
@@ -1499,7 +2194,87 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Queen",
-    "Dynasty": "Panchala"
+    "Dynasty": "Panchala",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Queen",
+    "Skills": [
+      "Statesmanship",
+      "Devotion",
+      "Endurance"
+    ],
+    "Titles": [
+      "Panchali",
+      "Krishnaa",
+      "Yajnaseni",
+      "Queen of Indraprastha"
+    ],
+    "Traits": [
+      "Fiery",
+      "Beautiful",
+      "Vengeful",
+      "Devoted",
+      "Proud",
+      "Resilient"
+    ],
+    "Character_Arc": [
+      "Born from sacrificial fire of Drupada",
+      "Won by Arjuna at Swayamvara",
+      "Married all 5 Pandavas",
+      "Queen of Indraprastha",
+      "Humiliated in dice game - vowed vengeance",
+      "13 years of exile",
+      "Served as Sairandhri in Virata",
+      "Witnessed vengeance in war",
+      "Lost all 5 sons (Upapandavas)",
+      "Fell during Mahaprasthana"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@krishna",
+        "Type": "Friend"
+      },
+      {
+        "With": "@bhima",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@arjuna",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@duhshasana",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@kunti",
+        "Type": "Mother-in-law"
+      }
+    ],
+    "Important_Locations": [
+      "@panchala",
+      "@hastinapura",
+      "@indraprastha",
+      "@kamyaka_forest",
+      "@viratanagara",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@prishata"
+    },
+    "Major_Events": [
+      "@evt_018",
+      "@evt_023",
+      "@evt_025",
+      "@evt_028",
+      "@evt_032",
+      "@evt_033",
+      "@evt_049",
+      "@evt_057"
+    ]
   },
   "@dridhahasta": {
     "Name": "Dridhahasta",
@@ -1510,7 +2285,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dridhakshatra": {
     "Name": "Dridhakshatra",
@@ -1521,7 +2300,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dridharatha": {
     "Name": "Dridharatha",
@@ -1532,7 +2315,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dridhasandha": {
     "Name": "Dridhasandha",
@@ -1543,7 +2330,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dridhavarma": {
     "Name": "Dridhavarma",
@@ -1554,7 +2345,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dridhayudha": {
     "Name": "Dridhayudha",
@@ -1565,7 +2360,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@drona": {
     "Name": "Drona",
@@ -1589,7 +2388,83 @@
     "Caste": "Brahmin",
     "Duty": "Teacher",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Royal preceptor",
+    "Skills": [
+      "All weapons mastery",
+      "Teaching",
+      "Archery",
+      "Brahmastra"
+    ],
+    "Divine_Weapons": [
+      "Brahmastra",
+      "Brahmashira",
+      "Agneyastra",
+      "Varunastra"
+    ],
+    "Titles": [
+      "Dronacharya",
+      "Acharya",
+      "Guru of princes"
+    ],
+    "Traits": [
+      "Greatest teacher",
+      "Partial to Arjuna",
+      "Vengeful",
+      "Tragic"
+    ],
+    "Character_Arc": [
+      "Born from pot (drona) to sage Bharadvaja",
+      "Trained under Parashurama",
+      "Humiliated by Drupada",
+      "Became teacher of Kuru princes",
+      "Favored Arjuna as best student",
+      "Demanded Ekalavya's thumb",
+      "Captured Drupada - took half his kingdom",
+      "Fought for Kauravas",
+      "Became commander after Bhishma fell (Days 11-15)",
+      "Killed by Dhrishtadyumna after Ashvatthama deception"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@arjuna",
+        "Type": "Guru"
+      },
+      {
+        "With": "@ashvatthama",
+        "Type": "Father"
+      },
+      {
+        "With": "@drupada",
+        "Type": "Rival"
+      },
+      {
+        "With": "@ekalavya",
+        "Type": "Guru"
+      },
+      {
+        "With": "@parashurama",
+        "Type": "Guru"
+      },
+      {
+        "With": "@dhrishtadyumna",
+        "Type": "Enemy"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@panchala",
+      "@kurukshetra"
+    ],
+    "Major_Events": [
+      "@evt_013",
+      "@evt_014",
+      "@evt_015",
+      "@evt_034",
+      "@evt_040",
+      "@evt_043"
+    ]
   },
   "@drupada": {
     "Name": "Drupada",
@@ -1608,7 +2483,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Panchala",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_018"
+    ]
   },
   "@duhsaha": {
     "Name": "Duhsaha",
@@ -1619,7 +2497,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@duhshala": {
     "Name": "Duhshala",
@@ -1637,7 +2519,14 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Princess",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_009"
+    ]
   },
   "@duhshanta": {
     "Name": "Duhshanta",
@@ -1657,7 +2546,16 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_023",
+      "@evt_040",
+      "@evt_045"
+    ]
   },
   "@duravara": {
     "Name": "Duravara",
@@ -1668,7 +2566,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@durdharsha": {
     "Name": "Durdharsha",
@@ -1679,7 +2581,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@durmada": {
     "Name": "Durmada",
@@ -1690,7 +2596,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@durmarshana": {
     "Name": "Durmarshana",
@@ -1701,7 +2611,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@durmukha": {
     "Name": "Durmukha",
@@ -1712,7 +2626,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@durvimochana": {
     "Name": "Durvimochana",
@@ -1723,7 +2641,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@duryodhana": {
     "Name": "Duryodhana",
@@ -1748,7 +2670,87 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Crown Prince",
+    "Skills": [
+      "Mace combat",
+      "Statecraft",
+      "Leadership"
+    ],
+    "Titles": [
+      "Suyodhana",
+      "King of Hastinapura"
+    ],
+    "Traits": [
+      "Ambitious",
+      "Jealous",
+      "Brave",
+      "Loyal to friends",
+      "Wrathful",
+      "Proud"
+    ],
+    "Character_Arc": [
+      "Born first among 100 Kauravas",
+      "Jealous of Pandavas from childhood",
+      "Poisoned Bhima as youth",
+      "Conspired lac palace (Lakshagriha)",
+      "Orchestrated dice game - humiliated Draupadi",
+      "Refused to return kingdom after exile",
+      "Rejected Krishna's peace offer",
+      "Led Kaurava army in Kurukshetra War",
+      "Last Kaurava standing",
+      "Killed by Bhima in mace duel on Day 18"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@karna",
+        "Type": "Friend"
+      },
+      {
+        "With": "@shakuni",
+        "Type": "Guide"
+      },
+      {
+        "With": "@bhima",
+        "Type": "Rival"
+      },
+      {
+        "With": "@yudhishthira",
+        "Type": "Rival"
+      },
+      {
+        "With": "@drona",
+        "Type": "Guru"
+      },
+      {
+        "With": "@balarama",
+        "Type": "Guru"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_009",
+      "@evt_013",
+      "@evt_015",
+      "@evt_016",
+      "@evt_023",
+      "@evt_031",
+      "@evt_034",
+      "@evt_035",
+      "@evt_038",
+      "@evt_039",
+      "@evt_040",
+      "@evt_044",
+      "@evt_046"
+    ]
   },
   "@dushkarma": {
     "Name": "Dushkarma",
@@ -1759,7 +2761,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dushparajaya": {
     "Name": "Dushparajaya",
@@ -1770,7 +2776,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dushpradharshana": {
     "Name": "Dushpradharshana",
@@ -1781,7 +2791,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dushpragaha": {
     "Name": "Dushpragaha",
@@ -1792,7 +2806,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@dushyanta": {
     "Name": "Dushyanta",
@@ -1812,7 +2830,37 @@
     "Gender": "Male",
     "Caste": "Nishada",
     "Duty": "Warrior",
-    "Dynasty": "Nishadha"
+    "Dynasty": "Nishadha",
+    "Skills": [
+      "Archery",
+      "Self-taught mastery"
+    ],
+    "Traits": [
+      "Devoted",
+      "Self-taught",
+      "Tragic",
+      "Humble"
+    ],
+    "Character_Arc": [
+      "Nishada prince",
+      "Rejected by Drona as student",
+      "Built clay idol of Drona and self-trained",
+      "Surpassed Arjuna in archery",
+      "Cut off his thumb as guru-dakshina to Drona"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@drona",
+        "Type": "Guru"
+      },
+      {
+        "With": "@arjuna",
+        "Type": "Rival"
+      }
+    ],
+    "Major_Events": [
+      "@evt_014"
+    ]
   },
   "@elapatra": {
     "Name": "Elapatra",
@@ -1963,7 +3011,66 @@
     "Caste": "Kshatriya",
     "Duty": "Queen",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Queen",
+    "Skills": [
+      "Austerity",
+      "Divine powers from tapas"
+    ],
+    "Titles": [
+      "Queen of Hastinapura",
+      "Blindfolded Queen"
+    ],
+    "Traits": [
+      "Devoted wife",
+      "Strong-willed",
+      "Blind devotion",
+      "Grieving mother",
+      "Powerful"
+    ],
+    "Character_Arc": [
+      "Born princess of Gandhara",
+      "Blindfolded herself after marrying blind Dhritarashtra",
+      "Mother of 100 sons and 1 daughter",
+      "Cursed Krishna for not preventing war",
+      "Lost all sons in war",
+      "Retired to forest",
+      "Died in forest fire"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@dhritarashtra",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Mother"
+      },
+      {
+        "With": "@shakuni",
+        "Type": "Brother"
+      },
+      {
+        "With": "@krishna",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@kunti",
+        "Type": "Rival"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@gandhara"
+    ],
+    "Major_Events": [
+      "@evt_009",
+      "@evt_035",
+      "@evt_049",
+      "@evt_054",
+      "@evt_055"
+    ]
   },
   "@ganga": {
     "Name": "Ganga",
@@ -1984,7 +3091,10 @@
       }
     ],
     "Duty": "River goddess",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_001"
+    ]
   },
   "@garga": {
     "Name": "Garga",
@@ -2030,7 +3140,46 @@
     "Mother": "@hidimba",
     "Caste": "Rakshasa",
     "Duty": "Warrior",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Skills": [
+      "Shape-shifting",
+      "Sorcery",
+      "Aerial combat",
+      "Immense strength"
+    ],
+    "Traits": [
+      "Brave",
+      "Devoted to father",
+      "Fierce",
+      "Selfless"
+    ],
+    "Character_Arc": [
+      "Born to Bhima and Hidimba in forest",
+      "Grew up among Rakshasas",
+      "Joined Pandava army in war",
+      "Wreaked havoc on Kaurava forces at night",
+      "Killed by Karna's Shakti weapon on Day 14"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@bhima",
+        "Type": "Father"
+      },
+      {
+        "With": "@karna",
+        "Type": "Enemy"
+      }
+    ],
+    "Important_Locations": [
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    },
+    "Major_Events": [
+      "@evt_042"
+    ]
   },
   "@girika": {
     "Name": "Girika",
@@ -2066,7 +3215,10 @@
     "Mother": "@anjana",
     "Caste": "Vanara",
     "Duty": "Warrior",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_029"
+    ]
   },
   "@harimedha": {
     "Name": "Harimedha",
@@ -2116,7 +3268,10 @@
     ],
     "Caste": "Daitya",
     "Duty": "King",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@maricha"
+    }
   },
   "@hiranyavarma": {
     "Name": "Hiranyavarma",
@@ -2152,7 +3307,10 @@
       "@trishanku"
     ],
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@prachetasa"
+    }
   },
   "@ila": {
     "Name": "Ila",
@@ -2161,7 +3319,10 @@
     "Father": "@manu",
     "Children": [
       "@pururava"
-    ]
+    ],
+    "Lineage": {
+      "Grandfather": "@prachetasa"
+    }
   },
   "@ilavila": {
     "Name": "Ilavila",
@@ -2197,7 +3358,13 @@
     ],
     "Caste": "Deva",
     "Duty": "King of gods",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_010",
+      "@evt_020",
+      "@evt_027",
+      "@evt_058"
+    ]
   },
   "@indrota": {
     "Name": "Indrota",
@@ -2213,7 +3380,11 @@
     "Mother": "@ulupi",
     "Caste": "Kshatriya",
     "Duty": "Warrior",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@jahnu": {
     "Name": "Jahnu",
@@ -2237,7 +3408,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@jamadagni": {
     "Name": "Jamadagni",
@@ -2248,7 +3423,11 @@
       "@parashurama"
     ],
     "Caste": "Brahmin",
-    "Duty": "Sage"
+    "Duty": "Sage",
+    "Lineage": {
+      "Grandfather": "@ourva",
+      "Great_Grandfather": "@chyavana"
+    }
   },
   "@jambavan": {
     "Name": "Jambavan",
@@ -2291,7 +3470,11 @@
     "Father": "@parikshit",
     "Caste": "Kshatriya",
     "Duty": "King",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Lineage": {
+      "Grandfather": "@abhimanyu",
+      "Great_Grandfather": "@arjuna"
+    }
   },
   "@jarasandha": {
     "Name": "Jarasandha",
@@ -2303,7 +3486,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Magadha",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_022"
+    ]
   },
   "@jarasandha_kaurava": {
     "Name": "Jarasandha_kaurava",
@@ -2314,7 +3500,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@jaratkaru": {
     "Name": "Jaratkaru",
@@ -2365,7 +3555,54 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Sindhu",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@sindhu",
+    "Political_Role": "King of Sindhu",
+    "Skills": [
+      "Warfare",
+      "Boon of Shiva (hold Pandavas)"
+    ],
+    "Traits": [
+      "Arrogant",
+      "Lustful",
+      "Cowardly"
+    ],
+    "Character_Arc": [
+      "King of Sindhu kingdom",
+      "Married Duhshala (Kaurava sister)",
+      "Tried to abduct Draupadi in forest",
+      "Received boon from Shiva",
+      "Blocked Pandavas from saving Abhimanyu (Day 13)",
+      "Killed by Arjuna before sunset on Day 14"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@arjuna",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@abhimanyu",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Ally"
+      },
+      {
+        "With": "@duhshala",
+        "Type": "Spouse"
+      }
+    ],
+    "Important_Locations": [
+      "@sindhu",
+      "@kurukshetra",
+      "@kamyaka_forest"
+    ],
+    "Major_Events": [
+      "@evt_028",
+      "@evt_040",
+      "@evt_041"
+    ]
   },
   "@kadru": {
     "Name": "Kadru",
@@ -2433,7 +3670,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kanakayu": {
     "Name": "Kanakayu",
@@ -2444,7 +3685,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kanva": {
     "Name": "Kanva",
@@ -2499,7 +3744,93 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Anga",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@anga",
+    "Political_Role": "King of Anga",
+    "Skills": [
+      "Archery",
+      "Generosity",
+      "Chariot warfare"
+    ],
+    "Divine_Weapons": [
+      "Vijaya bow",
+      "Shakti weapon (from Indra)",
+      "Brahmastra",
+      "Bhargavastra",
+      "Nagastra"
+    ],
+    "Titles": [
+      "Radheya",
+      "Vasusena",
+      "Anga-raja",
+      "Danveer Karna",
+      "Vaikartana"
+    ],
+    "Traits": [
+      "Generous",
+      "Loyal",
+      "Brave",
+      "Tragic",
+      "Cursed",
+      "Honorable"
+    ],
+    "Character_Arc": [
+      "Born to Kunti via Surya - abandoned at birth",
+      "Raised by charioteer Adhiratha and Radha",
+      "Trained under Parashurama - cursed",
+      "Humiliated at tournament - befriended by Duryodhana",
+      "Made King of Anga by Duryodhana",
+      "Gave away Kavacha-Kundala to Indra",
+      "Learned true identity from Kunti before war",
+      "Fought as Kaurava commander",
+      "Killed by Arjuna on Day 17"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@duryodhana",
+        "Type": "Friend"
+      },
+      {
+        "With": "@arjuna",
+        "Type": "Rival"
+      },
+      {
+        "With": "@parashurama",
+        "Type": "Guru"
+      },
+      {
+        "With": "@kunti",
+        "Type": "Mother"
+      },
+      {
+        "With": "@indra",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@krishna",
+        "Type": "Adversary"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@anga",
+      "@kurukshetra",
+      "@champapuri"
+    ],
+    "Major_Events": [
+      "@evt_006",
+      "@evt_013",
+      "@evt_015",
+      "@evt_018",
+      "@evt_023",
+      "@evt_034",
+      "@evt_035",
+      "@evt_036",
+      "@evt_040",
+      "@evt_042",
+      "@evt_044",
+      "@evt_045"
+    ]
   },
   "@karna_kaurava": {
     "Name": "Karna_kaurava",
@@ -2512,7 +3843,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kartikeya": {
     "Name": "Kartikeya",
@@ -2557,7 +3892,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kavi": {
     "Name": "Kavi",
@@ -2621,7 +3960,10 @@
     "Caste": "Brahmin",
     "Duty": "Teacher",
     "Dynasty": "Kuru",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_047"
+    ]
   },
   "@kripi": {
     "Name": "Kripi",
@@ -2700,7 +4042,123 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Yadava",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@dvaraka",
+    "Political_Role": "King of Dvaraka",
+    "Skills": [
+      "Diplomacy",
+      "Statecraft",
+      "Charioteer",
+      "Divine knowledge",
+      "Sudarshana Chakra",
+      "Flute"
+    ],
+    "Divine_Weapons": [
+      "Sudarshana Chakra",
+      "Kaumodaki mace",
+      "Sharnga bow",
+      "Nandaka sword"
+    ],
+    "Titles": [
+      "Vasudeva",
+      "Keshava",
+      "Govinda",
+      "Madhava",
+      "Janardana",
+      "Purushottama",
+      "Lord of Dvaraka",
+      "Yogeshvara",
+      "Parthasarathi"
+    ],
+    "Traits": [
+      "Wise",
+      "Strategic",
+      "Divine",
+      "Playful",
+      "Just",
+      "Compassionate",
+      "Pragmatic"
+    ],
+    "Character_Arc": [
+      "Born to Devaki and Vasudeva in prison",
+      "Grew up in Gokula/Vrindavana",
+      "Killed Kamsa",
+      "Built Dvaraka",
+      "Befriended Arjuna",
+      "Burned Khandava forest with Arjuna",
+      "Killed Shishupala at Rajasuya",
+      "Peace ambassador to Kauravas (failed)",
+      "Charioteer of Arjuna in war",
+      "Delivered Bhagavad Gita",
+      "Guided Pandavas to victory",
+      "Cursed by Gandhari",
+      "Yadava civil war (Mausala)",
+      "Shot by hunter Jara",
+      "Left mortal world"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@arjuna",
+        "Type": "Friend"
+      },
+      {
+        "With": "@yudhishthira",
+        "Type": "Guide"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Friend"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@karna",
+        "Type": "Adversary"
+      },
+      {
+        "With": "@balarama",
+        "Type": "Brother"
+      },
+      {
+        "With": "@subhadra",
+        "Type": "Sister"
+      },
+      {
+        "With": "@bhishma",
+        "Type": "Respected elder"
+      }
+    ],
+    "Important_Locations": [
+      "@dvaraka",
+      "@mathura",
+      "@vrindavana",
+      "@hastinapura",
+      "@indraprastha",
+      "@kurukshetra",
+      "@khandava_forest"
+    ],
+    "Lineage": {
+      "Grandfather": "@shurasena"
+    },
+    "Major_Events": [
+      "@evt_019",
+      "@evt_020",
+      "@evt_021",
+      "@evt_022",
+      "@evt_035",
+      "@evt_037",
+      "@evt_041",
+      "@evt_045",
+      "@evt_046",
+      "@evt_048",
+      "@evt_049",
+      "@evt_050",
+      "@evt_051",
+      "@evt_052",
+      "@evt_056"
+    ]
   },
   "@kritavarma": {
     "Name": "Kritavarma",
@@ -2711,7 +4169,10 @@
     "Father": "@hridika",
     "Caste": "Kshatriya",
     "Duty": "Warrior",
-    "Dynasty": "Yadava"
+    "Dynasty": "Yadava",
+    "Major_Events": [
+      "@evt_047"
+    ]
   },
   "@krodha": {
     "Name": "Krodha",
@@ -2729,7 +4190,10 @@
     "Father": "@vishrava",
     "Caste": "Deva",
     "Duty": "God of wealth",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Lineage": {
+      "Grandfather": "@pulastya"
+    }
   },
   "@kundabhedi": {
     "Name": "Kundabhedi",
@@ -2740,7 +4204,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kundashi": {
     "Name": "Kundashi",
@@ -2751,7 +4219,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kundodara": {
     "Name": "Kundodara",
@@ -2762,7 +4234,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@kunti": {
     "Name": "Kunti",
@@ -2812,7 +4288,75 @@
     "Caste": "Kshatriya",
     "Duty": "Queen",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Queen Mother",
+    "Skills": [
+      "Divine invocation mantra",
+      "Devotion",
+      "Endurance"
+    ],
+    "Titles": [
+      "Pritha",
+      "Queen Mother"
+    ],
+    "Traits": [
+      "Devoted mother",
+      "Strong",
+      "Secretive",
+      "Sacrificing",
+      "Resilient"
+    ],
+    "Character_Arc": [
+      "Born as Pritha - adopted by Kuntibhoja",
+      "Received divine mantra from Durvasa",
+      "Invoked Surya - bore Karna (abandoned)",
+      "Married Pandu",
+      "Bore Yudhishthira (Yama), Bhima (Vayu), Arjuna (Indra)",
+      "Shared mantra with Madri for Nakula & Sahadeva",
+      "Raised Pandavas in Hastinapura after Pandu's death",
+      "Revealed Karna's identity before war",
+      "Retired to forest",
+      "Died in forest fire"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@karna",
+        "Type": "Secret mother"
+      },
+      {
+        "With": "@yudhishthira",
+        "Type": "Mother"
+      },
+      {
+        "With": "@vidura",
+        "Type": "Ally"
+      },
+      {
+        "With": "@pandu",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Mother-in-law"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@kunti_kingdom",
+      "@indraprastha"
+    ],
+    "Major_Events": [
+      "@evt_006",
+      "@evt_007",
+      "@evt_008",
+      "@evt_010",
+      "@evt_018",
+      "@evt_036",
+      "@evt_049",
+      "@evt_054",
+      "@evt_055"
+    ]
   },
   "@kuntibhoja": {
     "Name": "Kuntibhoja",
@@ -2850,7 +4394,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@dhritarashtra",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@lakshmi": {
     "Name": "Lakshmi",
@@ -2927,7 +4475,11 @@
     "Caste": "Kshatriya",
     "Duty": "Queen",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_011",
+      "@evt_012"
+    ]
   },
   "@magadha": {
     "Name": "Magadha",
@@ -2943,7 +4495,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@mahabahu_kaurava2": {
     "Name": "Mahabahu_kaurava2",
@@ -2954,7 +4510,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@mahabhisha": {
     "Name": "Mahabhisha",
@@ -2972,7 +4532,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@mandapala": {
     "Name": "Mandapala",
@@ -2988,7 +4552,10 @@
     "Father": "@yuvanashva",
     "Caste": "Kshatriya",
     "Duty": "King",
-    "Dynasty": "Ikshvaku"
+    "Dynasty": "Ikshvaku",
+    "Lineage": {
+      "Grandfather": "@vrishadarbha"
+    }
   },
   "@manu": {
     "Name": "Manu",
@@ -3111,7 +4678,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@nahusha": {
     "Name": "Nahusha",
@@ -3143,7 +4714,58 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Alive"
+    "Status": "Alive",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Prince",
+    "Skills": [
+      "Sword combat",
+      "Horse keeping",
+      "Ayurveda",
+      "Handsome appearance"
+    ],
+    "Titles": [
+      "Granthika"
+    ],
+    "Traits": [
+      "Handsome",
+      "Skilled horseman",
+      "Loyal",
+      "Humble"
+    ],
+    "Character_Arc": [
+      "Born to Madri via Ashvins",
+      "Trained under Drona",
+      "Served as horse-keeper Granthika in Virata",
+      "Fought in Kurukshetra War",
+      "Ascended to Svarga"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@sahadeva",
+        "Type": "Twin brother"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Spouse"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@indraprastha",
+      "@viratanagara",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_011",
+      "@evt_018",
+      "@evt_025",
+      "@evt_032",
+      "@evt_057"
+    ]
   },
   "@nala": {
     "Name": "Nala",
@@ -3165,7 +4787,10 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "King",
-    "Dynasty": "Nishadha"
+    "Dynasty": "Nishadha",
+    "Major_Events": [
+      "@evt_030"
+    ]
   },
   "@nanda_kaurava": {
     "Name": "Nanda_kaurava",
@@ -3176,7 +4801,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@nara": {
     "Name": "Nara",
@@ -3225,7 +4854,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@nriga": {
     "Name": "Nriga",
@@ -3233,7 +4866,11 @@
     "Gender": "Male",
     "Father": "@ikshvaku",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@manu",
+      "Great_Grandfather": "@prachetasa"
+    }
   },
   "@ourva": {
     "Name": "Ourva",
@@ -3242,7 +4879,10 @@
     "Father": "@chyavana",
     "Children": [
       "@richika"
-    ]
+    ],
+    "Lineage": {
+      "Grandfather": "@bhrigu"
+    }
   },
   "@panchala": {
     "Name": "Panchala",
@@ -3268,7 +4908,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@pandu": {
     "Name": "Pandu",
@@ -3300,7 +4944,60 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "King",
+    "Skills": [
+      "Archery",
+      "Warfare",
+      "Conquest"
+    ],
+    "Titles": [
+      "Pandu the Pale",
+      "King of Hastinapura"
+    ],
+    "Traits": [
+      "Valiant",
+      "Cursed",
+      "Remorseful",
+      "Expansionist"
+    ],
+    "Character_Arc": [
+      "Born to Ambalika via Niyoga from Vyasa",
+      "Crowned king (Dhritarashtra blind)",
+      "Conquered many kingdoms",
+      "Cursed by sage Kindama",
+      "Retired to forest",
+      "Sons born via divine boons of Kunti and Madri",
+      "Died from curse when approaching Madri"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@kunti",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@madri",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@dhritarashtra",
+        "Type": "Brother"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@shatashriga"
+    ],
+    "Lineage": {
+      "Grandfather": "@shantanu",
+      "Great_Grandfather": "@pratipa"
+    },
+    "Major_Events": [
+      "@evt_004",
+      "@evt_005",
+      "@evt_012"
+    ]
   },
   "@parameshthi": {
     "Name": "Parameshthi",
@@ -3336,7 +5033,11 @@
     "Mother": "@renuka",
     "Caste": "Brahmin",
     "Duty": "Warrior sage",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Lineage": {
+      "Grandfather": "@richika",
+      "Great_Grandfather": "@ourva"
+    }
   },
   "@parikshit": {
     "Name": "Parikshit",
@@ -3349,7 +5050,11 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "King",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Lineage": {
+      "Grandfather": "@arjuna",
+      "Great_Grandfather": "@pandu"
+    }
   },
   "@parvati": {
     "Name": "Parvati",
@@ -3380,7 +5085,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@patala": {
     "Name": "Patala",
@@ -3426,14 +5135,25 @@
     "Mother": "@rukmini",
     "Caste": "Kshatriya",
     "Duty": "Prince",
-    "Dynasty": "Yadava"
+    "Dynasty": "Yadava",
+    "Lineage": {
+      "Grandfather": "@vasudeva_father",
+      "Great_Grandfather": "@shurasena"
+    },
+    "Major_Events": [
+      "@evt_056"
+    ]
   },
   "@prahlada": {
     "Name": "Prahlada",
     "Alias_names": [],
     "Gender": "Male",
     "Father": "@hiranyakashipu",
-    "Caste": "Daitya"
+    "Caste": "Daitya",
+    "Lineage": {
+      "Grandfather": "@kashyapa",
+      "Great_Grandfather": "@maricha"
+    }
   },
   "@pramadvara": {
     "Name": "Pramadvara",
@@ -3490,7 +5210,11 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@prishata": {
     "Name": "Prishata",
@@ -3539,7 +5263,11 @@
     "Gender": "Male",
     "Father": "@ila",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@manu",
+      "Great_Grandfather": "@prachetasa"
+    }
   },
   "@pushkara": {
     "Name": "Pushkara",
@@ -3612,7 +5340,11 @@
     "Father": "@ourva",
     "Children": [
       "@jamadagni"
-    ]
+    ],
+    "Lineage": {
+      "Grandfather": "@chyavana",
+      "Great_Grandfather": "@bhrigu"
+    }
   },
   "@riksha": {
     "Name": "Riksha",
@@ -3671,7 +5403,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@roushadashvi": {
     "Name": "Roushadashvi",
@@ -3731,7 +5467,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sagara": {
     "Name": "Sagara",
@@ -3750,7 +5490,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sahadeva": {
     "Name": "Sahadeva",
@@ -3771,7 +5515,59 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Alive"
+    "Status": "Alive",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Prince",
+    "Skills": [
+      "Sword combat",
+      "Astrology",
+      "Cattle keeping",
+      "Intelligence"
+    ],
+    "Titles": [
+      "Tantipala"
+    ],
+    "Traits": [
+      "Wise",
+      "Knowledgeable",
+      "Modest",
+      "Loyal"
+    ],
+    "Character_Arc": [
+      "Born to Madri via Ashvins",
+      "Trained under Drona",
+      "Served as cowherd Tantipala in Virata",
+      "Fought in Kurukshetra War",
+      "Fell during Mahaprasthana"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@nakula",
+        "Type": "Twin brother"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Spouse"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@indraprastha",
+      "@viratanagara",
+      "@kurukshetra"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_011",
+      "@evt_018",
+      "@evt_025",
+      "@evt_032",
+      "@evt_046",
+      "@evt_057"
+    ]
   },
   "@sairandhri": {
     "Name": "Sairandhri",
@@ -3787,7 +5583,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@samayamani": {
     "Name": "Samayamani",
@@ -3802,7 +5602,14 @@
     "Mother": "@jambavati",
     "Caste": "Kshatriya",
     "Duty": "Prince",
-    "Dynasty": "Yadava"
+    "Dynasty": "Yadava",
+    "Lineage": {
+      "Grandfather": "@vasudeva_father",
+      "Great_Grandfather": "@shurasena"
+    },
+    "Major_Events": [
+      "@evt_056"
+    ]
   },
   "@samkriti": {
     "Name": "Samkriti",
@@ -3845,7 +5652,11 @@
     "Father": "@gavalgana",
     "Caste": "Suta",
     "Duty": "Charioteer",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Major_Events": [
+      "@evt_054",
+      "@evt_055"
+    ]
   },
   "@sankriti": {
     "Name": "Sankriti",
@@ -3856,13 +5667,20 @@
     "Name": "Sanpriya",
     "Alias_names": [],
     "Gender": "Female",
-    "Father": "@krishna"
+    "Father": "@krishna",
+    "Lineage": {
+      "Grandfather": "@vasudeva_father",
+      "Great_Grandfather": "@shurasena"
+    }
   },
   "@sarana": {
     "Name": "Sarana",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@vasudeva_father"
+    "Father": "@vasudeva_father",
+    "Lineage": {
+      "Grandfather": "@shurasena"
+    }
   },
   "@sarasvata": {
     "Name": "Sarasvata",
@@ -3910,7 +5728,10 @@
     "Gender": "Male",
     "Father": "@drupada",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@prishata"
+    }
   },
   "@satyaki": {
     "Name": "Satyaki",
@@ -3932,7 +5753,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@satyavan": {
     "Name": "Satyavan",
@@ -3983,7 +5808,11 @@
     ],
     "Duty": "Queen",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_002",
+      "@evt_003"
+    ]
   },
   "@savita": {
     "Name": "Savita",
@@ -4021,7 +5850,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@senapati": {
     "Name": "Senapati",
@@ -4032,7 +5865,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@shachi": {
     "Name": "Shachi",
@@ -4063,7 +5900,60 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Gandhara",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@gandhara",
+    "Political_Role": "King of Gandhara",
+    "Skills": [
+      "Dice",
+      "Deception",
+      "Manipulation"
+    ],
+    "Titles": [
+      "Soubala",
+      "Master of dice"
+    ],
+    "Traits": [
+      "Cunning",
+      "Manipulative",
+      "Vengeful",
+      "Scheming"
+    ],
+    "Character_Arc": [
+      "Prince of Gandhara",
+      "Vowed revenge against Kuru (for Gandhari's marriage)",
+      "Mastermind of dice game",
+      "Manipulated Duryodhana against Pandavas",
+      "Fought in war",
+      "Killed by Sahadeva on Day 18"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@duryodhana",
+        "Type": "Guide"
+      },
+      {
+        "With": "@gandhari",
+        "Type": "Brother"
+      },
+      {
+        "With": "@yudhishthira",
+        "Type": "Enemy"
+      },
+      {
+        "With": "@sahadeva",
+        "Type": "Enemy"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@gandhara",
+      "@kurukshetra"
+    ],
+    "Major_Events": [
+      "@evt_023",
+      "@evt_024",
+      "@evt_046"
+    ]
   },
   "@shakuntala": {
     "Name": "Shakuntala",
@@ -4090,7 +5980,47 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Madra",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@madra",
+    "Political_Role": "King of Madra",
+    "Skills": [
+      "Chariot warfare",
+      "Mace combat"
+    ],
+    "Traits": [
+      "Honorable",
+      "Tricked into fighting for Kauravas"
+    ],
+    "Character_Arc": [
+      "Uncle of Pandavas (Madri's brother)",
+      "Tricked by Duryodhana into joining Kauravas",
+      "Served as Karna's charioteer (to demoralize)",
+      "Became last Kaurava commander on Day 18",
+      "Killed by Yudhishthira"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@yudhishthira",
+        "Type": "Nephew/Enemy"
+      },
+      {
+        "With": "@karna",
+        "Type": "Antagonist (charioteer)"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Ally"
+      }
+    ],
+    "Important_Locations": [
+      "@madra",
+      "@kurukshetra"
+    ],
+    "Major_Events": [
+      "@evt_044",
+      "@evt_045",
+      "@evt_046"
+    ]
   },
   "@shamika": {
     "Name": "Shamika",
@@ -4129,7 +6059,21 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "King",
+    "Traits": [
+      "Romantic",
+      "Generous",
+      "Just"
+    ],
+    "Important_Locations": [
+      "@hastinapura"
+    ],
+    "Major_Events": [
+      "@evt_001",
+      "@evt_002"
+    ]
   },
   "@sharadvat": {
     "Name": "Sharadvat",
@@ -4151,7 +6095,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sharmishtha": {
     "Name": "Sharmishtha",
@@ -4186,7 +6134,11 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@shesha": {
     "Name": "Shesha",
@@ -4209,7 +6161,13 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Panchala",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@prishata"
+    },
+    "Major_Events": [
+      "@evt_039"
+    ]
   },
   "@shini": {
     "Name": "Shini",
@@ -4229,7 +6187,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Chedi",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_021"
+    ]
   },
   "@shiva": {
     "Name": "Shiva",
@@ -4252,7 +6213,10 @@
     ],
     "Caste": "Deva",
     "Duty": "Destroyer",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_026"
+    ]
   },
   "@shounaka": {
     "Name": "Shounaka",
@@ -4274,7 +6238,11 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@shrutasena": {
     "Name": "Shrutasena",
@@ -4285,7 +6253,11 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@shrutayu": {
     "Name": "Shrutayu",
@@ -4314,7 +6286,11 @@
     "Gender": "Male",
     "Father": "@vyasa",
     "Caste": "Brahmin",
-    "Duty": "Sage"
+    "Duty": "Sage",
+    "Lineage": {
+      "Grandfather": "@parashara",
+      "Great_Grandfather": "@shakti"
+    }
   },
   "@shunaka": {
     "Name": "Shunaka",
@@ -4406,7 +6382,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@soubha": {
     "Name": "Soubha",
@@ -4443,7 +6423,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@subala": {
     "Name": "Subala",
@@ -4475,7 +6459,10 @@
     ],
     "Caste": "Kshatriya",
     "Duty": "Princess",
-    "Dynasty": "Yadava"
+    "Dynasty": "Yadava",
+    "Lineage": {
+      "Grandfather": "@shurasena"
+    }
   },
   "@sudasa": {
     "Name": "Sudasa",
@@ -4538,7 +6525,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@suhotra": {
     "Name": "Suhotra",
@@ -4561,7 +6552,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sumitra": {
     "Name": "Sumitra",
@@ -4580,7 +6575,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sunanda": {
     "Name": "Sunanda",
@@ -4594,7 +6593,10 @@
     "Gender": "Male",
     "Father": "@jayadratha",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@vriddhakshatra"
+    }
   },
   "@surya": {
     "Name": "Surya",
@@ -4626,7 +6628,10 @@
     ],
     "Caste": "Deva",
     "Duty": "Sun god",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_006"
+    ]
   },
   "@susharma": {
     "Name": "Susharma",
@@ -4647,7 +6652,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@sutasoma": {
     "Name": "Sutasoma",
@@ -4658,7 +6667,11 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pandu",
+      "Great_Grandfather": "@vichitravirya"
+    }
   },
   "@suvarcha": {
     "Name": "Suvarcha",
@@ -4669,7 +6682,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@suvarchala": {
     "Name": "Suvarchala",
@@ -4693,7 +6710,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@svayambhu": {
     "Name": "Svayambhu",
@@ -4723,7 +6744,11 @@
     "Name": "Trishanku",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@ikshvaku"
+    "Father": "@ikshvaku",
+    "Lineage": {
+      "Grandfather": "@manu",
+      "Great_Grandfather": "@prachetasa"
+    }
   },
   "@tvashtri": {
     "Name": "Tvashtri",
@@ -4747,7 +6772,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ugrasena": {
     "Name": "Ugrasena",
@@ -4765,7 +6794,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ugrasrava": {
     "Name": "Ugrasrava",
@@ -4786,7 +6819,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ugrayudha": {
     "Name": "Ugrayudha",
@@ -4797,7 +6834,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ulupi": {
     "Name": "Ulupi",
@@ -4826,7 +6867,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@upanandaka": {
     "Name": "Upanandaka",
@@ -4837,7 +6882,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@uparichara": {
     "Name": "Uparichara",
@@ -4855,7 +6904,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@ushanas": {
     "Name": "Ushanas",
@@ -5058,7 +7111,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vayu": {
     "Name": "Vayu",
@@ -5079,7 +7136,10 @@
     ],
     "Caste": "Deva",
     "Duty": "Wind god",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_008"
+    ]
   },
   "@vena": {
     "Name": "Vena",
@@ -5122,7 +7182,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@pratipa"
+    }
   },
   "@vidula": {
     "Name": "Vidula",
@@ -5138,7 +7201,58 @@
     "Caste": "Kshatriya",
     "Duty": "Minister",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Kingdom": "@hastinapura",
+    "Political_Role": "Prime Minister",
+    "Skills": [
+      "Diplomacy",
+      "Dharma",
+      "Statecraft",
+      "Wisdom"
+    ],
+    "Titles": [
+      "Kshatta",
+      "Dharma incarnation"
+    ],
+    "Traits": [
+      "Wise",
+      "Righteous",
+      "Impartial",
+      "Courageous speaker of truth"
+    ],
+    "Character_Arc": [
+      "Born to maid via Niyoga from Vyasa",
+      "Served as minister of Hastinapura",
+      "Warned Pandavas of Lakshagriha plot",
+      "Opposed dice game",
+      "Counseled Dhritarashtra for peace",
+      "Left court in disgust",
+      "Died during forest retirement"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@yudhishthira",
+        "Type": "Guide"
+      },
+      {
+        "With": "@dhritarashtra",
+        "Type": "Brother"
+      },
+      {
+        "With": "@kunti",
+        "Type": "Ally"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura"
+    ],
+    "Major_Events": [
+      "@evt_016",
+      "@evt_023",
+      "@evt_035",
+      "@evt_052",
+      "@evt_054"
+    ]
   },
   "@vikarna": {
     "Name": "Vikarna",
@@ -5149,7 +7263,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vikata": {
     "Name": "Vikata",
@@ -5160,7 +7278,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vinata": {
     "Name": "Vinata",
@@ -5180,7 +7302,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vira_kaurava": {
     "Name": "Vira_kaurava",
@@ -5191,7 +7317,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@virabahu": {
     "Name": "Virabahu",
@@ -5202,7 +7332,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@viraja": {
     "Name": "Viraja",
@@ -5213,13 +7347,20 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@viraketu": {
     "Name": "Viraketu",
     "Alias_names": [],
     "Gender": "Male",
-    "Father": "@panchala"
+    "Father": "@panchala",
+    "Lineage": {
+      "Grandfather": "@gopati"
+    }
   },
   "@virasena": {
     "Name": "Virasena",
@@ -5241,7 +7382,10 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Matsya",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Major_Events": [
+      "@evt_032"
+    ]
   },
   "@viravi": {
     "Name": "Viravi",
@@ -5252,7 +7396,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@virochana": {
     "Name": "Virochana",
@@ -5271,7 +7419,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vishnu": {
     "Name": "Vishnu",
@@ -5340,7 +7492,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vivitsu": {
     "Name": "Vivitsu",
@@ -5351,7 +7507,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@vriddhakshatra": {
     "Name": "Vriddhakshatra",
@@ -5379,7 +7539,10 @@
     "Father": "@karna",
     "Mother": "@vrushali",
     "Caste": "Kshatriya",
-    "Dynasty": "Anga"
+    "Dynasty": "Anga",
+    "Lineage": {
+      "Grandfather": "@surya"
+    }
   },
   "@vrishaparva": {
     "Name": "Vrishaparva",
@@ -5400,7 +7563,10 @@
     "Caste": "Kshatriya",
     "Duty": "Warrior",
     "Dynasty": "Anga",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@surya"
+    }
   },
   "@vritra": {
     "Name": "Vritra",
@@ -5456,7 +7622,62 @@
     ],
     "Caste": "Brahmin",
     "Duty": "Sage",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Skills": [
+      "Vedic knowledge",
+      "Authorship",
+      "Prophecy",
+      "Niyoga"
+    ],
+    "Titles": [
+      "Vedavyasa",
+      "Krishna Dvaipayana",
+      "Chiranjivi"
+    ],
+    "Traits": [
+      "Wise",
+      "Omniscient narrator",
+      "Dark-complexioned",
+      "Detached"
+    ],
+    "Character_Arc": [
+      "Born to Parashara and Satyavati on island",
+      "Compiled the Vedas",
+      "Authored the Mahabharata",
+      "Fathered Dhritarashtra, Pandu, Vidura via Niyoga",
+      "Witnessed and narrated the great war",
+      "Immortal sage"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@dhritarashtra",
+        "Type": "Father (Niyoga)"
+      },
+      {
+        "With": "@pandu",
+        "Type": "Father (Niyoga)"
+      },
+      {
+        "With": "@satyavati",
+        "Type": "Mother"
+      },
+      {
+        "With": "@vaishampayana",
+        "Type": "Disciple"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@badarikashrama"
+    ],
+    "Lineage": {
+      "Grandfather": "@shakti"
+    },
+    "Major_Events": [
+      "@evt_003",
+      "@evt_009",
+      "@evt_048"
+    ]
   },
   "@vyudhoru": {
     "Name": "Vyudhoru",
@@ -5467,7 +7688,11 @@
     "Caste": "Kshatriya",
     "Duty": "Prince",
     "Dynasty": "Kuru",
-    "Status": "Deceased"
+    "Status": "Deceased",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   },
   "@yadava": {
     "Name": "Yadava",
@@ -5499,7 +7724,11 @@
     ],
     "Caste": "Deva",
     "Duty": "God of death",
-    "Status": "Immortal"
+    "Status": "Immortal",
+    "Major_Events": [
+      "@evt_007",
+      "@evt_058"
+    ]
   },
   "@yamuna": {
     "Name": "Yamuna",
@@ -5512,7 +7741,10 @@
     "Gender": "Male",
     "Father": "@nahusha",
     "Caste": "Kshatriya",
-    "Duty": "King"
+    "Duty": "King",
+    "Lineage": {
+      "Grandfather": "@ayusha"
+    }
   },
   "@yudhishthira": {
     "Name": "Yudhishthira",
@@ -5541,7 +7773,102 @@
     "Caste": "Kshatriya",
     "Duty": "King",
     "Dynasty": "Kuru",
-    "Status": "Alive"
+    "Status": "Alive",
+    "Kingdom": "@indraprastha",
+    "Political_Role": "Emperor",
+    "Skills": [
+      "Dharma",
+      "Spear combat",
+      "Dice",
+      "Statecraft",
+      "Diplomacy"
+    ],
+    "Divine_Weapons": [
+      "Spear of Dharma"
+    ],
+    "Titles": [
+      "Dharmaraja",
+      "Ajatashatru",
+      "Emperor of Indraprastha"
+    ],
+    "Traits": [
+      "Righteous",
+      "Truthful",
+      "Just",
+      "Compassionate",
+      "Overly virtuous"
+    ],
+    "Character_Arc": [
+      "Born to Kunti via Yama (Dharma)",
+      "Heir apparent to Hastinapura",
+      "Rajasuya Yajna - crowned emperor",
+      "Lost kingdom in dice game",
+      "13 years of exile",
+      "Led Pandavas in Kurukshetra War",
+      "Crowned King of Hastinapura after war",
+      "Retired to forest",
+      "Ascended to Svarga"
+    ],
+    "Key_Relationships": [
+      {
+        "With": "@krishna",
+        "Type": "Guide"
+      },
+      {
+        "With": "@duryodhana",
+        "Type": "Rival"
+      },
+      {
+        "With": "@vidura",
+        "Type": "Guide"
+      },
+      {
+        "With": "@draupadi",
+        "Type": "Spouse"
+      },
+      {
+        "With": "@bhima",
+        "Type": "Brother"
+      },
+      {
+        "With": "@arjuna",
+        "Type": "Brother"
+      }
+    ],
+    "Important_Locations": [
+      "@hastinapura",
+      "@indraprastha",
+      "@kamyaka_forest",
+      "@kurukshetra",
+      "@svarga"
+    ],
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    },
+    "Major_Events": [
+      "@evt_007",
+      "@evt_013",
+      "@evt_016",
+      "@evt_018",
+      "@evt_019",
+      "@evt_021",
+      "@evt_023",
+      "@evt_024",
+      "@evt_025",
+      "@evt_028",
+      "@evt_030",
+      "@evt_031",
+      "@evt_032",
+      "@evt_043",
+      "@evt_046",
+      "@evt_050",
+      "@evt_051",
+      "@evt_052",
+      "@evt_053",
+      "@evt_057",
+      "@evt_058"
+    ]
   },
   "@yuvanashva": {
     "Name": "Yuvanashva",
@@ -5560,6 +7887,10 @@
     "Mother": "@sughada",
     "Caste": "Kshatriya",
     "Duty": "Prince",
-    "Dynasty": "Kuru"
+    "Dynasty": "Kuru",
+    "Lineage": {
+      "Grandfather": "@vichitravirya",
+      "Great_Grandfather": "@shantanu"
+    }
   }
 }
