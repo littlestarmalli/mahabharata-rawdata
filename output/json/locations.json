@@ -219,7 +219,6 @@
   "@indraprastha": {
     "Name": "Indraprastha",
     "Type": "City",
-    "Parent_Kingdom": "@hastinapura",
     "Region": "Bharata",
     "Ruler": "@yudhishthira",
     "Famous_For": [
@@ -661,7 +660,6 @@
   "@girivraja": {
     "Name": "Girivraja",
     "Type": "City",
-    "Parent_Kingdom": "@magadha",
     "Region": "Eastern Bharata",
     "Famous_For": [
       "Jarasandha's capital",
@@ -1288,7 +1286,6 @@
   "@viratanagara": {
     "Name": "Viratanagara",
     "Type": "City",
-    "Parent_Kingdom": "@matsya",
     "Region": "Bharata",
     "Famous_For": [
       "Pandavas served in disguise for one year"
@@ -2079,7 +2076,6 @@
   "@champapuri": {
     "Name": "Champapuri",
     "Type": "City",
-    "Parent_Kingdom": "@anga",
     "Region": "Eastern Bharata",
     "Famous_For": [
       "Capital of Anga kingdom",
@@ -4077,7 +4073,6 @@
   "@upaplavya": {
     "Name": "Upaplavya",
     "Type": "City",
-    "Parent_Kingdom": "@matsya",
     "Region": "Bharata",
     "Famous_For": [
       "Pandava war camp",
