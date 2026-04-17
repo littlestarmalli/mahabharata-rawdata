@@ -860,8 +860,8 @@ def step3_verify(base_dir):
 # STEP 4: BUILD CHARACTER DATABASE
 # ================================================================
 
-def step4_characters(base_dir):
-    """Extract characters with relationships, write characters.json."""
+def step4_characters(base_dir, json_dir):
+    """Extract characters with relationships, write characters.json, locations.json, timeline.json."""
     print("\n" + "=" * 60)
     print("STEP 4: Building character knowledge graph")
     print("=" * 60)
@@ -2417,7 +2417,7 @@ def step4_characters(base_dir):
             entry["Lineage"] = lineage
         output[f"@{k}"] = entry
 
-    out_path = os.path.join(os.path.dirname(base_dir), 'characters.json')
+    out_path = os.path.join(json_dir, 'characters.json')
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
@@ -3005,7 +3005,7 @@ def step4_characters(base_dir):
             entry["Notes"] = loc["Notes"]
         loc_output[f"@{loc_id}"] = entry
 
-    loc_path = os.path.join(os.path.dirname(base_dir), 'locations.json')
+    loc_path = os.path.join(json_dir, 'locations.json')
     with open(loc_path, 'w', encoding='utf-8') as f:
         json.dump(loc_output, f, ensure_ascii=False, indent=2)
     print(f"\n  LOCATIONS: {len(loc_output)} locations saved to locations.json")
@@ -3445,7 +3445,7 @@ def step4_characters(base_dir):
             entry["Sources"] = evt["Sources"]
         tl_output[f"@{evt_id}"] = entry
 
-    tl_path = os.path.join(os.path.dirname(base_dir), 'timeline.json')
+    tl_path = os.path.join(json_dir, 'timeline.json')
     with open(tl_path, 'w', encoding='utf-8') as f:
         json.dump(tl_output, f, ensure_ascii=False, indent=2)
     print(f"\n  TIMELINE: {len(tl_output)} events saved to timeline.json")
@@ -3547,30 +3547,39 @@ def step4_characters(base_dir):
     print(f"    timeline.json:   {len(tl_output)} events")
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
-        print("Usage: python mahabharata.py <path_to_pdf> [output_dir]")
-        sys.exit(1)
+    # Resolve project root from script location: pipeline/ -> project root
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 
-    pdf_path = os.path.abspath(sys.argv[1])
+    # Fixed paths — this script is specific to this PDF
+    PDF_NAME = 'The Mahabharata Set of 10 Volumes.pdf'
+    pdf_path = os.path.join(PROJECT_ROOT, 'input', PDF_NAME)
+    volumes_dir = os.path.join(PROJECT_ROOT, 'output', 'volumes')
+    json_dir = os.path.join(PROJECT_ROOT, 'output', 'json')
+
     if not os.path.isfile(pdf_path):
-        print(f"Error: File not found: {pdf_path}")
+        print(f"Error: PDF not found at: {pdf_path}")
+        print(f"Place '{PDF_NAME}' in the input/ folder.")
         sys.exit(1)
 
-    if len(sys.argv) >= 3:
-        base_dir = os.path.abspath(sys.argv[2])
-    else:
-        base_dir = os.path.join(os.path.dirname(pdf_path), 'volumes')
-    os.makedirs(base_dir, exist_ok=True)
+    os.makedirs(volumes_dir, exist_ok=True)
+    os.makedirs(json_dir, exist_ok=True)
 
-    step1_extract(pdf_path, base_dir)
-    step1b_manual_fixes(base_dir)
-    step2_add_sections(base_dir)
-    ok = step3_verify(base_dir)
-    step4_characters(base_dir)
+    print(f"Project root : {PROJECT_ROOT}")
+    print(f"PDF input    : {pdf_path}")
+    print(f"Volumes dir  : {volumes_dir}")
+    print(f"JSON dir     : {json_dir}")
+
+    step1_extract(pdf_path, volumes_dir)
+    step1b_manual_fixes(volumes_dir)
+    step2_add_sections(volumes_dir)
+    ok = step3_verify(volumes_dir)
+    step4_characters(volumes_dir, json_dir)
 
     print("\n" + "=" * 60)
     if ok:
         print("ALL DONE - 100% footnote matching across all volumes")
     else:
         print("DONE - some footnote mismatches detected (check above)")
+    print(f"Output: {json_dir}")
     print("=" * 60)

@@ -1,5 +1,5 @@
 # Large binary files
-*.pdf
+input/*.pdf
 
 # Python
 __pycache__/
