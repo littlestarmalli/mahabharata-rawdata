@@ -7,6 +7,7 @@ This script is specific to this PDF and its structure.
 Steps:
   1. Extract PDF -> toc, chapters, footnotes per volume  (output/volumes/)
   1b. Apply hardcoded OCR fixes
+  1c. Merge broken paragraph lines (OCR page-break splits)
   2. Add section headers to footnotes
   3. Verify footnote ref/def matching (16,734 footnotes)
   4. Build knowledge graph: characters, locations, timeline (output/json/)
@@ -46,7 +47,8 @@ sys.path.insert(0, PROJECT_ROOT)
 
 from pipeline.config import PDF_FILENAME
 from pipeline.extract.pdf_parser import step1_extract
-from pipeline.fixes.ocr_fixes import step1b_manual_fixes
+from pipeline.fixes.ocr_fixes import step1b_manual_fixes, normalize_plural_possessives
+from pipeline.fixes.paragraph_merge import step1c_merge_paragraphs
 from pipeline.extract.section_headers import step2_add_sections
 from pipeline.extract.verify import step3_verify
 from pipeline.model.character_model import CharacterDB
@@ -84,6 +86,12 @@ def main():
 
     # ── Step 1b: Fix known OCR errors ───────────────────────────
     step1b_manual_fixes(volumes_dir)
+
+    # ── Step 1b2: Normalize plural possessive apostrophes ───────
+    normalize_plural_possessives(volumes_dir)
+
+    # ── Step 1c: Merge broken paragraph lines ───────────────────
+    step1c_merge_paragraphs(volumes_dir)
 
     # ── Step 2: Add section headers ─────────────────────────────
     step2_add_sections(volumes_dir)

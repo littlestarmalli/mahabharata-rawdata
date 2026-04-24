@@ -46,6 +46,63 @@ def join_block_lines(raw_text):
     return result
 
 
+# Indentation threshold: lines with x0 >= this value start a new paragraph.
+# In this PDF, normal left margin is x0 ~= 75.3, indented lines x0 ~= 85.3.
+PARAGRAPH_INDENT_THRESHOLD = 80.0
+
+# Sentence-ending punctuation (colon excluded to avoid over-splitting dialog)
+SENT_END = '.!?\u2019\u201d\'")}'
+
+
+def split_block_by_indent(block_dict):
+    """Split a dict-mode block into paragraphs based on line indentation.
+
+    A new paragraph starts when:
+    1. The line is indented (x0 >= THRESHOLD) AND
+    2. The previous line ended with sentence-ending punctuation (. ! ? or closing quotes)
+    
+    NOTE: Colon (:) is NOT treated as sentence-ending to avoid over-splitting
+    dialog patterns like 'Krishna said: "Go forth!"'
+    """
+    paragraphs = []
+    current = ""
+    
+    for line in block_dict.get('lines', []):
+        spans = line.get('spans', [])
+        if not spans:
+            continue
+        raw = ''.join(s['text'] for s in spans)
+        line_text = norm(raw.replace('\u2029', ' '))
+        if not line_text:
+            continue
+        x0 = line['bbox'][0]
+        is_indented = x0 >= PARAGRAPH_INDENT_THRESHOLD
+
+        if is_indented and current:
+            prev_stripped = current.rstrip()
+            # New paragraph if prev ended with sentence punctuation
+            if prev_stripped and prev_stripped[-1] in SENT_END:
+                paragraphs.append(current)
+                current = line_text
+            else:
+                # Continuation (dropcap wrap, etc.)
+                if current.endswith('-'):
+                    current = current[:-1] + line_text
+                else:
+                    current += " " + line_text
+        elif current:
+            if current.endswith('-'):
+                current = current[:-1] + line_text
+            else:
+                current += " " + line_text
+        else:
+            current = line_text
+
+    if current:
+        paragraphs.append(current)
+    return paragraphs
+
+
 def extract_volume(doc, vol, start_page, end_page):
     pw = doc[start_page].rect.width
 
@@ -170,6 +227,14 @@ def extract_volume(doc, vol, start_page, end_page):
         page = doc[p]
         raw_blocks = page.get_text('blocks')
 
+        # Also get dict-mode blocks for line-level paragraph detection.
+        # Match dict blocks to blocks-mode blocks via their bbox (block_no index).
+        dict_data = page.get_text('dict')
+        dict_blocks_by_num = {}
+        for db in dict_data.get('blocks', []):
+            if db.get('type') == 0:
+                dict_blocks_by_num[db.get('number')] = db
+
         text_blocks = [b for b in raw_blocks if b[6] == 0]
         text_blocks.sort(key=lambda b: (b[1], b[0]))
 
@@ -276,22 +341,101 @@ def extract_volume(doc, vol, start_page, end_page):
             if not block_text:
                 continue
 
-            if prev_paragraph:
-                first_char = block_text[0] if block_text else ''
-                if prev_paragraph.endswith('-'):
-                    prev_paragraph = prev_paragraph[:-1] + block_text
-                    continue
-                elif first_char.islower() or first_char == '(':
-                    prev_paragraph += " " + block_text
-                    continue
-                elif ends_mid_sentence(prev_paragraph):
-                    prev_paragraph += " " + block_text
-                    continue
-                else:
-                    chapter_paragraphs.append(prev_paragraph)
-                    prev_paragraph = block_text
+            # Split the block into paragraphs using line-level indentation.
+            # In this PDF, paragraph-starting lines are indented (x0 ~= 85.3)
+            # vs continuation lines at x0 ~= 75.3. Some pages don't use
+            # indentation at all - in that case the whole block is one
+            # paragraph (PyMuPDF already separates blocks by y-gap).
+            block_no = b[5]
+            dict_block = dict_blocks_by_num.get(block_no)
+            if dict_block is not None:
+                block_paragraphs = split_block_by_indent(dict_block)
             else:
-                prev_paragraph = block_text
+                block_paragraphs = [block_text]
+
+            if not block_paragraphs:
+                continue
+
+            # Determine if the FIRST line of this block is indented.
+            # Rule: indented first line (x0 >= threshold) starts a new
+            # paragraph; non-indented first line continues the previous.
+            first_line_indented = False
+            if dict_block is not None:
+                for line in dict_block.get('lines', []):
+                    spans = line.get('spans', [])
+                    if not spans:
+                        continue
+                    lt = ''.join(s['text'] for s in spans).strip()
+                    if not lt:
+                        continue
+                    first_line_indented = line['bbox'][0] >= PARAGRAPH_INDENT_THRESHOLD
+                    break
+
+            # Restore drop-cap prefix if it was merged into raw_text by the
+            # dropcap merging pass but isn't present in the dict_block.
+            # The missing prefix may be a capital letter optionally preceded
+            # by smart quotes (e.g. "'Y" or "'"Y").
+            if block_paragraphs and block_text:
+                first_para_text = block_paragraphs[0]
+                bt_stripped = block_text.lstrip()
+                fp_stripped = first_para_text.lstrip()
+                # Find common-suffix alignment: if block_text ends with the
+                # first_para_text (approximately), then the prefix is the
+                # dropcap. Use a short anchor: first 30 chars of fp.
+                anchor = fp_stripped[:30]
+                if anchor:
+                    idx = bt_stripped.find(anchor)
+                    if idx > 0:
+                        prefix = bt_stripped[:idx]
+                        # Only restore if prefix is short and contains a
+                        # capital letter (dropcap signature)
+                        if 0 < len(prefix) <= 4 and any(c.isupper() for c in prefix):
+                            block_paragraphs[0] = prefix + first_para_text
+
+            first_para = block_paragraphs[0]
+            rest_paras = block_paragraphs[1:]
+
+            # Decide whether this block continues the previous paragraph or starts fresh.
+            # Simple rules:
+            #   1. Previous ends with hyphen → merge (word wrap)
+            #   2. First line of block NOT indented → merge (continuation)
+            #   3. Otherwise → new paragraph
+            first_line_indented = False
+            if dict_block is not None:
+                for line in dict_block.get('lines', []):
+                    spans = line.get('spans', [])
+                    if not spans:
+                        continue
+                    lt = ''.join(s['text'] for s in spans).strip()
+                    if not lt:
+                        continue
+                    first_line_indented = line['bbox'][0] >= PARAGRAPH_INDENT_THRESHOLD
+                    break
+
+            if prev_paragraph:
+                prev_stripped = prev_paragraph.rstrip()
+                merge = False
+                
+                if prev_stripped.endswith('-'):
+                    # Hyphen word wrap
+                    merge = True
+                    prev_paragraph = prev_stripped[:-1] + first_para
+                elif not first_line_indented:
+                    # Non-indented = continuation
+                    merge = True
+                    prev_paragraph = prev_stripped + " " + first_para
+
+                if not merge:
+                    chapter_paragraphs.append(prev_paragraph)
+                    prev_paragraph = first_para
+            else:
+                prev_paragraph = first_para
+
+            # Append remaining paragraphs from this block
+            for para in rest_paras:
+                if prev_paragraph:
+                    chapter_paragraphs.append(prev_paragraph)
+                prev_paragraph = para
 
     if prev_paragraph:
         chapter_paragraphs.append(prev_paragraph)

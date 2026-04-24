@@ -59,3 +59,70 @@ def step1b_manual_fixes(base_dir):
             open(path, 'w', encoding='utf-8').write(text)
 
     print(f"  Applied {fixes} fixes")
+
+
+def normalize_plural_possessives(base_dir):
+    """Replace plural-possessive \u2019 with plain apostrophe (') in chapter files.
+
+    Patterns like Pandavas\u2019 fame, sisters\u2019 sons, lions\u2019 are
+    plural possessives where the right-single-quote should NOT be treated as
+    a closing dialog quote.  Replacing with U+0027 makes them invisible to
+    smart-quote-based dialog detection.
+
+    To avoid false positives (e.g. 'alms\u2019 which is a real closing
+    quote), we scan backward up to 50 chars for an unmatched opening
+    \u2018.  If one is found, the mark is a closing quote and is kept.
+    """
+    print("\n" + "=" * 60)
+    print("STEP 1C: Normalizing plural possessive apostrophes")
+    print("=" * 60)
+
+    OQ_S = '\u2018'
+    CQ_S = '\u2019'
+    total = 0
+
+    for vol in range(1, 11):
+        path = os.path.join(base_dir, f'volume_{vol}_chapters.txt')
+        if not os.path.exists(path):
+            continue
+        text = open(path, encoding='utf-8').read()
+        chars = list(text)
+        fixes = 0
+
+        for i, ch in enumerate(chars):
+            if ch != CQ_S:
+                continue
+            prev = chars[i - 1] if i > 0 else ''
+            nxt = chars[i + 1] if i + 1 < len(chars) else ''
+
+            # Only target: alpha + s + \u2019 + non-alpha
+            if prev != 's' or nxt.isalpha():
+                continue
+            prev2 = chars[i - 2] if i > 1 else ''
+            if not prev2.isalpha():
+                continue
+
+            # Scan backward up to 50 chars for an unmatched opening '
+            is_closing = False
+            depth = 0
+            for j in range(i - 1, max(0, i - 50) - 1, -1):
+                c = chars[j]
+                if c == CQ_S:
+                    depth += 1
+                elif c == OQ_S:
+                    if depth > 0:
+                        depth -= 1
+                    else:
+                        is_closing = True
+                        break
+
+            if not is_closing:
+                chars[i] = "'"   # plain apostrophe U+0027
+                fixes += 1
+
+        if fixes > 0:
+            open(path, 'w', encoding='utf-8').write(''.join(chars))
+        print(f"  Vol {vol}: {fixes} plural possessives normalized")
+        total += fixes
+
+    print(f"  Total: {total} plural possessives normalized")
