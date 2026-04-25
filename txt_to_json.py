@@ -32,9 +32,9 @@ MAIN_RE = re.compile(
 SUB_RE = re.compile(
     r'^_{4,}\s+(.+?)\s+\[(\d+)\]\s+_{2,}\s+\[(\d+)\]\s+_{2,}\s+\[(\d+)\]\s+_{4,}\s*$'
 )
-# --- Chapter global(local) [shlokas] ---
+# --- Chapter global(local) [shlokas|?] ---
 CH_RE = re.compile(
-    r'^---\s+Chapter\s+(\d+)(?:\((\d+)\))?\s*(?:\[(\d+)\])?\s*---\s*$'
+    r'^---\s+Chapter\s+(\d+)(?:\((\d+)\))?\s*(?:\[(\d+|\?)\])?\s*---\s*$'
 )
 
 # ── Footnote patterns ─────────────────────────────────────────────────────────
@@ -243,7 +243,7 @@ def parse_combined_files(parva_notes: dict):
                 save_note()
                 g_num   = int(m.group(1))
                 l_num   = int(m.group(2)) if m.group(2) else g_num
-                shlokas = int(m.group(3)) if m.group(3) else 0
+                shlokas = int(m.group(3)) if m.group(3) and m.group(3) != '?' else None
                 cur_chapter = {
                     "global_number": g_num,
                     "local_number":  l_num,

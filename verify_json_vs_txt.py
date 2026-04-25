@@ -24,7 +24,7 @@ VOL_DIR    = ROOT / "output" / "volumes"
 STORY_DIR  = ROOT / "output" / "json" / "story"
 REPORT_OUT = ROOT / "verify_report.txt"
 
-KNOWN_MISSING = {309, 451, 541, 1091, 1149}   # known OCR gaps
+KNOWN_MISSING = set()   # no known OCR gaps after parser fix (was {309,451,541,1091,1149})
 
 MAIN_RE = re.compile(
     r'^={5,}\s+(.+?)\s+\[(\d+)\]\s+={2,}\s+\[(\d+)\]\s+={2,}\s+\[(\d+)\]\s+={2,}\s+\[(\d+)\]\s+={5,}\s*$'
@@ -33,7 +33,7 @@ SUB_RE = re.compile(
     r'^_{4,}\s+(.+?)\s+\[(\d+)\]\s+_{2,}\s+\[(\d+)\]\s+_{2,}\s+\[(\d+)\]\s+_{4,}\s*$'
 )
 CH_RE = re.compile(
-    r'^---\s+Chapter\s+(\d+)(?:\((\d+)\))?\s*(?:\[(\d+)\])?\s*---\s*$'
+    r'^---\s+Chapter\s+(\d+)(?:\((\d+)\))?\s*(?:\[(\d+|\?)\])?\s*---\s*$'
 )
 
 
@@ -106,7 +106,7 @@ def parse_txt_source():
                 flush()
                 cur_ch_global  = int(m.group(1))
                 cur_ch_local   = int(m.group(2)) if m.group(2) else cur_ch_global
-                cur_ch_shlokas = int(m.group(3)) if m.group(3) else None
+                cur_ch_shlokas = int(m.group(3)) if (m.group(3) and m.group(3) != '?') else None
                 continue
 
             if cur_ch_global is not None:

@@ -80,7 +80,6 @@
       "name": "Aranyaka Parva (Vana Parva)",
       "bori_adhyayas": 299,
       "bori_shlokas": 10239,
-      "note": "3 chapters missing from this translation's source (ch 309, 451, 541) → 296 loaded",
       "sub_parvas": [
         { "number": 29, "name": "Aranyaka",                    "adhyayas": 11, "shlokas": 327  },
         { "number": 30, "name": "Kirmira-vadha",               "adhyayas": 1,  "shlokas": 75   },
@@ -149,7 +148,6 @@
       "name": "Drona Parva",
       "bori_adhyayas": 173,
       "bori_shlokas": 8069,
-      "note": "2 chapters missing from source (ch 1091, 1149) → 171 loaded",
       "sub_parvas": [
         { "number": 65, "name": "Dronabhisheka",        "adhyayas": 15, "shlokas": 634  },
         { "number": 66, "name": "Samshaptaka-vadha",    "adhyayas": 16, "shlokas": 717  },
@@ -299,13 +297,10 @@
   ],
 
   "this_translation_vs_bori": {
-    "note": "This translation follows BORI's critical edition. The text files in this dataset (volume_N_chapters.txt) are derived from OCR of the printed volumes. 5 chapter gaps exist due to OCR extraction issues.",
+    "note": "This translation follows BORI's critical edition. The text files in this dataset (volume_N_chapters.txt) are derived from OCR of the printed volumes. Chapter headers with unknown shloka counts ([?]) are now correctly parsed.",
     "bori_adhyayas_total": 1995,
-    "translation_chapters_loaded": 1990,
-    "missing_chapters": [309, 451, 541, 1091, 1149],
-    "missing_by_parva": {
-      "Vana Parva (ch 298–596)": [309, 451, 541],
-      "Drona Parva (ch 978–1150)": [1091, 1149]
-    }
+    "translation_chapters_loaded": 1995,
+    "missing_chapters": [],
+    "missing_by_parva": {}
   }
 }
