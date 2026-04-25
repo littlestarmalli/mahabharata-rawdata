@@ -1,0 +1,1001 @@
+{
+  "_source": "Bibek Debroy's unabridged English translation of the Mahabharata (Penguin Books, 10 volumes). Counts are extracted from OCR'd chapter headers in the text. 'shlokas_from_headers' counts only shlokas explicitly given in chapter headers (headers with missing counts — marked [?] in the OCR — contribute 0 to the sum). This differs from the BORI Critical Edition counts in bori_official.json.",
+  "translator": "Bibek Debroy",
+  "publisher": "Penguin Books",
+  "num_volumes": 10,
+  "total_chapters": 1995,
+  "total_shlokas_from_headers": 73413,
+  "note_on_shlokas": "5 chapter headers have [?] shloka counts (chapters 309, 451, 541, 1091, 1149). Their shlokas are not included in 'shlokas_from_headers' totals.",
+  "parvas": [
+    {
+      "number": 1,
+      "name": "Adi Parva",
+      "chapters": 225,
+      "shlokas_from_headers": 7205,
+      "sub_parvas": [
+        {
+          "number": 1,
+          "name": "Anukramanika Parva",
+          "source_volume": 1,
+          "chapters": 1,
+          "shlokas_from_headers": 210,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 2,
+          "name": "Parvasamgraha Parva",
+          "source_volume": 1,
+          "chapters": 1,
+          "shlokas_from_headers": 243,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 3,
+          "name": "Poushya Parva",
+          "source_volume": 1,
+          "chapters": 1,
+          "shlokas_from_headers": 195,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 4,
+          "name": "Pouloma Parva",
+          "source_volume": 1,
+          "chapters": 9,
+          "shlokas_from_headers": 153,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 5,
+          "name": "Astika Parva",
+          "source_volume": 1,
+          "chapters": 41,
+          "shlokas_from_headers": 1025,
+          "chapters_with_shloka_count": 41,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 6,
+          "name": "Adi-vamshavatarana Parva",
+          "source_volume": 1,
+          "chapters": 5,
+          "shlokas_from_headers": 257,
+          "chapters_with_shloka_count": 5,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 7,
+          "name": "Sambhava Parva",
+          "source_volume": 1,
+          "chapters": 65,
+          "shlokas_from_headers": 2394,
+          "chapters_with_shloka_count": 65,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 8,
+          "name": "Jatugriha-daha Parva",
+          "source_volume": 1,
+          "chapters": 15,
+          "shlokas_from_headers": 373,
+          "chapters_with_shloka_count": 15,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 9,
+          "name": "Hidimba-vadha Parva",
+          "source_volume": 1,
+          "chapters": 6,
+          "shlokas_from_headers": 169,
+          "chapters_with_shloka_count": 6,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 10,
+          "name": "Baka-vadha Parva",
+          "source_volume": 1,
+          "chapters": 8,
+          "shlokas_from_headers": 206,
+          "chapters_with_shloka_count": 8,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 11,
+          "name": "Chaitraratha Parva",
+          "source_volume": 1,
+          "chapters": 21,
+          "shlokas_from_headers": 557,
+          "chapters_with_shloka_count": 21,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 12,
+          "name": "Swayamvara Parva",
+          "source_volume": 1,
+          "chapters": 12,
+          "shlokas_from_headers": 263,
+          "chapters_with_shloka_count": 12,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 13,
+          "name": "Vaivahika Parva",
+          "source_volume": 1,
+          "chapters": 6,
+          "shlokas_from_headers": 155,
+          "chapters_with_shloka_count": 6,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 14,
+          "name": "Viduragamana Parva",
+          "source_volume": 1,
+          "chapters": 7,
+          "shlokas_from_headers": 174,
+          "chapters_with_shloka_count": 7,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 15,
+          "name": "Rajya-labha Parva",
+          "source_volume": 1,
+          "chapters": 1,
+          "shlokas_from_headers": 50,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 16,
+          "name": "Arjuna-vanavasa Parva",
+          "source_volume": 2,
+          "chapters": 11,
+          "shlokas_from_headers": 298,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 17,
+          "name": "Subhadra-harana Parva",
+          "source_volume": 2,
+          "chapters": 2,
+          "shlokas_from_headers": 57,
+          "chapters_with_shloka_count": 2,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 18,
+          "name": "Harana-harika Parva",
+          "source_volume": 2,
+          "chapters": 1,
+          "shlokas_from_headers": 82,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 19,
+          "name": "Khandava-daha Parva",
+          "source_volume": 2,
+          "chapters": 12,
+          "shlokas_from_headers": 344,
+          "chapters_with_shloka_count": 12,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Sabha Parva",
+      "chapters": 72,
+      "shlokas_from_headers": 2390,
+      "sub_parvas": [
+        {
+          "number": 20,
+          "name": "Sabha Parva",
+          "source_volume": 2,
+          "chapters": 11,
+          "shlokas_from_headers": 429,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 21,
+          "name": "Mantra Parva",
+          "source_volume": 2,
+          "chapters": 6,
+          "shlokas_from_headers": 222,
+          "chapters_with_shloka_count": 6,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 22,
+          "name": "Jarasandha-vadha Parva",
+          "source_volume": 2,
+          "chapters": 5,
+          "shlokas_from_headers": 195,
+          "chapters_with_shloka_count": 5,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 23,
+          "name": "Digvijaya Parva",
+          "source_volume": 2,
+          "chapters": 7,
+          "shlokas_from_headers": 191,
+          "chapters_with_shloka_count": 7,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 24,
+          "name": "Rajasuya Parva",
+          "source_volume": 2,
+          "chapters": 3,
+          "shlokas_from_headers": 97,
+          "chapters_with_shloka_count": 3,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 25,
+          "name": "Arghabhiharana Parva",
+          "source_volume": 2,
+          "chapters": 4,
+          "shlokas_from_headers": 99,
+          "chapters_with_shloka_count": 4,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 26,
+          "name": "Shishupala-vadha Parva",
+          "source_volume": 2,
+          "chapters": 6,
+          "shlokas_from_headers": 191,
+          "chapters_with_shloka_count": 6,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 27,
+          "name": "Dyuta Parva",
+          "source_volume": 2,
+          "chapters": 23,
+          "shlokas_from_headers": 734,
+          "chapters_with_shloka_count": 23,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 28,
+          "name": "Anudyuta Parva",
+          "source_volume": 2,
+          "chapters": 7,
+          "shlokas_from_headers": 232,
+          "chapters_with_shloka_count": 7,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Vana Parva",
+      "chapters": 299,
+      "shlokas_from_headers": 10152,
+      "sub_parvas": [
+        {
+          "number": 29,
+          "name": "Aranyaka Parva",
+          "source_volume": 2,
+          "chapters": 11,
+          "shlokas_from_headers": 327,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 30,
+          "name": "Kirmira-vadha Parva",
+          "source_volume": 2,
+          "chapters": 1,
+          "shlokas_from_headers": 0,
+          "chapters_with_shloka_count": 0,
+          "chapters_missing_shloka_count": 1
+        },
+        {
+          "number": 31,
+          "name": "Kairata Parva",
+          "source_volume": 2,
+          "chapters": 30,
+          "shlokas_from_headers": 1150,
+          "chapters_with_shloka_count": 30,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 32,
+          "name": "Indralokabhigamana Parva",
+          "source_volume": 2,
+          "chapters": 37,
+          "shlokas_from_headers": 1175,
+          "chapters_with_shloka_count": 37,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 33,
+          "name": "Tirtha-yatra Parva",
+          "source_volume": 3,
+          "chapters": 74,
+          "shlokas_from_headers": 2422,
+          "chapters_with_shloka_count": 74,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 34,
+          "name": "Jatasura-vadha Parva",
+          "source_volume": 3,
+          "chapters": 1,
+          "shlokas_from_headers": 0,
+          "chapters_with_shloka_count": 0,
+          "chapters_missing_shloka_count": 1
+        },
+        {
+          "number": 35,
+          "name": "Yaksha-yuddha Parva",
+          "source_volume": 3,
+          "chapters": 18,
+          "shlokas_from_headers": 727,
+          "chapters_with_shloka_count": 18,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 36,
+          "name": "Ajagara Parva",
+          "source_volume": 3,
+          "chapters": 6,
+          "shlokas_from_headers": 201,
+          "chapters_with_shloka_count": 6,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 37,
+          "name": "Markandeya Samasya Parva",
+          "source_volume": 3,
+          "chapters": 43,
+          "shlokas_from_headers": 1694,
+          "chapters_with_shloka_count": 43,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 38,
+          "name": "Droupadi-Satyabhama Parva",
+          "source_volume": 3,
+          "chapters": 3,
+          "shlokas_from_headers": 88,
+          "chapters_with_shloka_count": 3,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 39,
+          "name": "Ghoshayatra Parva",
+          "source_volume": 3,
+          "chapters": 19,
+          "shlokas_from_headers": 519,
+          "chapters_with_shloka_count": 19,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 40,
+          "name": "Mriga-Svapna-Bhaya Parva",
+          "source_volume": 3,
+          "chapters": 1,
+          "shlokas_from_headers": 0,
+          "chapters_with_shloka_count": 0,
+          "chapters_missing_shloka_count": 1
+        },
+        {
+          "number": 41,
+          "name": "Vrihi-Drounika Parva",
+          "source_volume": 3,
+          "chapters": 3,
+          "shlokas_from_headers": 117,
+          "chapters_with_shloka_count": 3,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 42,
+          "name": "Droupadi-harana Parva",
+          "source_volume": 3,
+          "chapters": 36,
+          "shlokas_from_headers": 1247,
+          "chapters_with_shloka_count": 36,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 43,
+          "name": "Kundala-aharana Parva",
+          "source_volume": 3,
+          "chapters": 11,
+          "shlokas_from_headers": 294,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 44,
+          "name": "Aranyaka-parvan Parva",
+          "source_volume": 3,
+          "chapters": 5,
+          "shlokas_from_headers": 191,
+          "chapters_with_shloka_count": 5,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Virata Parva",
+      "chapters": 67,
+      "shlokas_from_headers": 1823,
+      "sub_parvas": [
+        {
+          "number": 45,
+          "name": "Vairata Parva",
+          "source_volume": 4,
+          "chapters": 12,
+          "shlokas_from_headers": 282,
+          "chapters_with_shloka_count": 12,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 46,
+          "name": "Kichaka-vadha Parva",
+          "source_volume": 4,
+          "chapters": 11,
+          "shlokas_from_headers": 353,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 47,
+          "name": "Go-Grahana Parva",
+          "source_volume": 4,
+          "chapters": 39,
+          "shlokas_from_headers": 1009,
+          "chapters_with_shloka_count": 39,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 48,
+          "name": "Vaivahika Parva",
+          "source_volume": 4,
+          "chapters": 5,
+          "shlokas_from_headers": 179,
+          "chapters_with_shloka_count": 5,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Udyoga Parva",
+      "chapters": 197,
+      "shlokas_from_headers": 6058,
+      "sub_parvas": [
+        {
+          "number": 49,
+          "name": "Udyoga Parva",
+          "source_volume": 4,
+          "chapters": 21,
+          "shlokas_from_headers": 575,
+          "chapters_with_shloka_count": 21,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 50,
+          "name": "Sanjaya-Yana Parva",
+          "source_volume": 4,
+          "chapters": 11,
+          "shlokas_from_headers": 311,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 51,
+          "name": "Prajagara Parva",
+          "source_volume": 4,
+          "chapters": 9,
+          "shlokas_from_headers": 541,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 52,
+          "name": "Sanatsujata Parva",
+          "source_volume": 4,
+          "chapters": 4,
+          "shlokas_from_headers": 121,
+          "chapters_with_shloka_count": 4,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 53,
+          "name": "Yana-Sandhi Parva",
+          "source_volume": 4,
+          "chapters": 24,
+          "shlokas_from_headers": 726,
+          "chapters_with_shloka_count": 24,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 54,
+          "name": "Bhagavat-Yana Parva",
+          "source_volume": 4,
+          "chapters": 68,
+          "shlokas_from_headers": 2055,
+          "chapters_with_shloka_count": 68,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 55,
+          "name": "Karna-Upanivada Parva",
+          "source_volume": 4,
+          "chapters": 11,
+          "shlokas_from_headers": 351,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 56,
+          "name": "Sainya-Niryayana Parva",
+          "source_volume": 4,
+          "chapters": 4,
+          "shlokas_from_headers": 169,
+          "chapters_with_shloka_count": 4,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 57,
+          "name": "Bhishma-Abhishechana Parva",
+          "source_volume": 4,
+          "chapters": 4,
+          "shlokas_from_headers": 122,
+          "chapters_with_shloka_count": 4,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 58,
+          "name": "Uluka-Yana Parva",
+          "source_volume": 4,
+          "chapters": 4,
+          "shlokas_from_headers": 101,
+          "chapters_with_shloka_count": 4,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 59,
+          "name": "Aindrya Parva",
+          "source_volume": 4,
+          "chapters": 9,
+          "shlokas_from_headers": 231,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 60,
+          "name": "Amba-Upakhyana Parva",
+          "source_volume": 5,
+          "chapters": 28,
+          "shlokas_from_headers": 755,
+          "chapters_with_shloka_count": 28,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Bhishma Parva",
+      "chapters": 117,
+      "shlokas_from_headers": 5406,
+      "sub_parvas": [
+        {
+          "number": 61,
+          "name": "Jambukhanda-Vinirmana Parva",
+          "source_volume": 5,
+          "chapters": 11,
+          "shlokas_from_headers": 378,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 62,
+          "name": "Bhumi Parva",
+          "source_volume": 5,
+          "chapters": 2,
+          "shlokas_from_headers": 87,
+          "chapters_with_shloka_count": 2,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 63,
+          "name": "Bhagavad Gita Parva",
+          "source_volume": 5,
+          "chapters": 27,
+          "shlokas_from_headers": 994,
+          "chapters_with_shloka_count": 27,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 64,
+          "name": "Bhishma-vadha Parva",
+          "source_volume": 5,
+          "chapters": 77,
+          "shlokas_from_headers": 3947,
+          "chapters_with_shloka_count": 77,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Drona Parva",
+      "chapters": 173,
+      "shlokas_from_headers": 7957,
+      "sub_parvas": [
+        {
+          "number": 65,
+          "name": "Dronabhisheka Parva",
+          "source_volume": 5,
+          "chapters": 15,
+          "shlokas_from_headers": 634,
+          "chapters_with_shloka_count": 15,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 66,
+          "name": "Samshaptaka-vadha Parva",
+          "source_volume": 5,
+          "chapters": 16,
+          "shlokas_from_headers": 717,
+          "chapters_with_shloka_count": 16,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 67,
+          "name": "Abhimanyu-vadha Parva",
+          "source_volume": 6,
+          "chapters": 20,
+          "shlokas_from_headers": 643,
+          "chapters_with_shloka_count": 20,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 68,
+          "name": "Pratijna Parva",
+          "source_volume": 6,
+          "chapters": 9,
+          "shlokas_from_headers": 365,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 69,
+          "name": "Jayadratha-vadha Parva",
+          "source_volume": 6,
+          "chapters": 61,
+          "shlokas_from_headers": 2820,
+          "chapters_with_shloka_count": 60,
+          "chapters_missing_shloka_count": 1
+        },
+        {
+          "number": 70,
+          "name": "Ghatotkacha-vadha Parva",
+          "source_volume": 6,
+          "chapters": 33,
+          "shlokas_from_headers": 1642,
+          "chapters_with_shloka_count": 33,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 71,
+          "name": "Drona-vadha Parva",
+          "source_volume": 6,
+          "chapters": 11,
+          "shlokas_from_headers": 692,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 72,
+          "name": "Narayana-astra-moksana Parva",
+          "source_volume": 6,
+          "chapters": 8,
+          "shlokas_from_headers": 444,
+          "chapters_with_shloka_count": 7,
+          "chapters_missing_shloka_count": 1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Karna Parva",
+      "chapters": 69,
+      "shlokas_from_headers": 3870,
+      "sub_parvas": [
+        {
+          "number": 73,
+          "name": "Karna-vadha Parva",
+          "source_volume": 7,
+          "chapters": 69,
+          "shlokas_from_headers": 3870,
+          "chapters_with_shloka_count": 69,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Shalya Parva",
+      "chapters": 64,
+      "shlokas_from_headers": 3315,
+      "sub_parvas": [
+        {
+          "number": 74,
+          "name": "Shalya-vadha Parva",
+          "source_volume": 7,
+          "chapters": 16,
+          "shlokas_from_headers": 844,
+          "chapters_with_shloka_count": 16,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 75,
+          "name": "Hrada-pravesha Parva",
+          "source_volume": 7,
+          "chapters": 12,
+          "shlokas_from_headers": 664,
+          "chapters_with_shloka_count": 12,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 76,
+          "name": "Tirtha-yatra Parva",
+          "source_volume": 7,
+          "chapters": 25,
+          "shlokas_from_headers": 1261,
+          "chapters_with_shloka_count": 25,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 77,
+          "name": "Gada-yuddha Parva",
+          "source_volume": 7,
+          "chapters": 11,
+          "shlokas_from_headers": 546,
+          "chapters_with_shloka_count": 11,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Sauptika Parva",
+      "chapters": 18,
+      "shlokas_from_headers": 772,
+      "sub_parvas": [
+        {
+          "number": 78,
+          "name": "Souptika Parva",
+          "source_volume": 8,
+          "chapters": 9,
+          "shlokas_from_headers": 515,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 79,
+          "name": "Aishika Parva",
+          "source_volume": 8,
+          "chapters": 9,
+          "shlokas_from_headers": 257,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Stri Parva",
+      "chapters": 27,
+      "shlokas_from_headers": 730,
+      "sub_parvas": [
+        {
+          "number": 80,
+          "name": "Stri Parva",
+          "source_volume": 8,
+          "chapters": 8,
+          "shlokas_from_headers": 194,
+          "chapters_with_shloka_count": 8,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 81,
+          "name": "Stri-vilapa Parva",
+          "source_volume": 8,
+          "chapters": 17,
+          "shlokas_from_headers": 468,
+          "chapters_with_shloka_count": 17,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 82,
+          "name": "Shraddha Parva",
+          "source_volume": 8,
+          "chapters": 1,
+          "shlokas_from_headers": 44,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 83,
+          "name": "Jala-pradanika Parva",
+          "source_volume": 8,
+          "chapters": 1,
+          "shlokas_from_headers": 24,
+          "chapters_with_shloka_count": 1,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Shanti Parva",
+      "chapters": 353,
+      "shlokas_from_headers": 12823,
+      "sub_parvas": [
+        {
+          "number": 84,
+          "name": "Raja Dharma Parva",
+          "source_volume": 8,
+          "chapters": 167,
+          "shlokas_from_headers": 6069,
+          "chapters_with_shloka_count": 167,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 86,
+          "name": "Moksha Dharma Parva",
+          "source_volume": 8,
+          "chapters": 186,
+          "shlokas_from_headers": 6754,
+          "chapters_with_shloka_count": 186,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Anushasana Parva",
+      "chapters": 154,
+      "shlokas_from_headers": 6534,
+      "sub_parvas": [
+        {
+          "number": 87,
+          "name": "Dana Dharma Parva",
+          "source_volume": 9,
+          "chapters": 152,
+          "shlokas_from_headers": 6450,
+          "chapters_with_shloka_count": 152,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 88,
+          "name": "Bhishma-Svargarohana Parva",
+          "source_volume": 10,
+          "chapters": 2,
+          "shlokas_from_headers": 84,
+          "chapters_with_shloka_count": 2,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Ashvamedhika Parva",
+      "chapters": 96,
+      "shlokas_from_headers": 2743,
+      "sub_parvas": [
+        {
+          "number": 89,
+          "name": "Ashvamedhika Parva",
+          "source_volume": 10,
+          "chapters": 96,
+          "shlokas_from_headers": 2743,
+          "chapters_with_shloka_count": 96,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Ashramavasa Parva",
+      "chapters": 47,
+      "shlokas_from_headers": 1062,
+      "sub_parvas": [
+        {
+          "number": 90,
+          "name": "Ashrama-Vasa Parva",
+          "source_volume": 10,
+          "chapters": 35,
+          "shlokas_from_headers": 737,
+          "chapters_with_shloka_count": 35,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 91,
+          "name": "Putra Darshana Parva",
+          "source_volume": 10,
+          "chapters": 9,
+          "shlokas_from_headers": 234,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        },
+        {
+          "number": 92,
+          "name": "Naradagamana Parva",
+          "source_volume": 10,
+          "chapters": 3,
+          "shlokas_from_headers": 91,
+          "chapters_with_shloka_count": 3,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Mausala Parva",
+      "chapters": 9,
+      "shlokas_from_headers": 273,
+      "sub_parvas": [
+        {
+          "number": 93,
+          "name": "Mausala Parva",
+          "source_volume": 10,
+          "chapters": 9,
+          "shlokas_from_headers": 273,
+          "chapters_with_shloka_count": 9,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Mahaprasthanika Parva",
+      "chapters": 3,
+      "shlokas_from_headers": 106,
+      "sub_parvas": [
+        {
+          "number": 94,
+          "name": "Mahaprasthanika Parva",
+          "source_volume": 10,
+          "chapters": 3,
+          "shlokas_from_headers": 106,
+          "chapters_with_shloka_count": 3,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Svargarohana Parva",
+      "chapters": 5,
+      "shlokas_from_headers": 194,
+      "sub_parvas": [
+        {
+          "number": 95,
+          "name": "Svargarohana Parva",
+          "source_volume": 10,
+          "chapters": 5,
+          "shlokas_from_headers": 194,
+          "chapters_with_shloka_count": 5,
+          "chapters_missing_shloka_count": 0
+        }
+      ]
+    }
+  ]
+}
