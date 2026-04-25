@@ -3,7 +3,7 @@
   "parva_number": 3,
   "details": {
     "num_subparvas": 16,
-    "num_chapters": 299,
+    "num_chapters": 296,
     "num_shlokas": 10152
   },
   "subparvas": {
@@ -139,8 +139,9 @@
       "source_volume": 2,
       "file_path": "output/volumes/volume_2_chapters.txt",
       "details": {
-        "num_chapters": 1,
-        "num_shlokas": 0
+        "num_chapters": 0,
+        "num_shlokas": 0,
+        "missing_chapter_note": "Chapter 309 missing from OCR source"
       },
       "note": "Kirmira was a rakshasa mentioned in the last section and as already explained the word vadha means killing. So this section is about the killing of Kirmira.",
       "chapters": {}
@@ -1710,8 +1711,9 @@
       "source_volume": 3,
       "file_path": "output/volumes/volume_3_chapters.txt",
       "details": {
-        "num_chapters": 1,
-        "num_shlokas": 0
+        "num_chapters": 0,
+        "num_shlokas": 0,
+        "missing_chapter_note": "Chapter 451 missing from OCR source"
       },
       "note": "Vadha means to kill or slay and this section is about Bhima killing the demon named Jatasura.",
       "chapters": {}
@@ -2703,8 +2705,9 @@
       "source_volume": 3,
       "file_path": "output/volumes/volume_3_chapters.txt",
       "details": {
-        "num_chapters": 1,
-        "num_shlokas": 0
+        "num_chapters": 0,
+        "num_shlokas": 0,
+        "missing_chapter_note": "Chapter 541 missing from OCR source"
       },
       "note": "Mriga means deer. Deer appear to Yudhishthira in a dream (svapna) and tell him about their fears (bhaya), requesting the Pan-davas to relocate from Dvaitavana.",
       "chapters": {}

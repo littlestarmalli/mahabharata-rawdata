@@ -198,15 +198,47 @@ Each volume covers approximately **~200 chapters and ~7,000 shlokas** (10% of th
 
 ### Missing Chapters (OCR extraction gaps)
 
-| Chapter | Parva | Sub-parva |
-|--------:|-------|-----------|
-| 309 | Vana Parva | Tirtha-yatra |
-| 451 | Vana Parva | Markandeya-samasya |
-| 541 | Vana Parva | Droupadi-harana |
-| 1091 | Drona Parva | Jayadratha-vadha |
-| 1149 | Drona Parva | Drona-vadha |
+| Chapter | Parva | Sub-parva | Note |
+|--------:|-------|-----------|------|
+| 309 | Vana Parva | **Kirmira-vadha** (sp #30) | Only chapter — entire sub-parva empty |
+| 451 | Vana Parva | **Jatasura-vadha** (sp #34) | Only chapter — entire sub-parva empty |
+| 541 | Vana Parva | **Mriga-Svapna-Bhaya** (sp #40) | Only chapter — entire sub-parva empty |
+| 1091 | Drona Parva | **Jayadratha-vadha** (sp #69) | Ch 1038–1098, gap at 1091 |
+| 1149 | Drona Parva | **Narayana-astra-moksana** (sp #72) | Ch 1143–1150, gap at 1149 |
 
 > **Why the JSON says 1990 but Chapter 1995 exists:** The JSON contains *all chapters 1991–1995* (in Svargarohana Parva). The count "1990" is the number of chapters *successfully loaded* — 5 less than 1995 because of the 5 OCR extraction gaps above.
+>
+> Sub-parvas 30, 34, and 40 in Vana Parva each have exactly one chapter in BORI, and that single chapter is missing from the OCR source — making those three sub-parvas completely empty in this dataset.
+
+---
+
+## Shloka Count: BORI vs This Dataset (OCR-Loaded)
+
+The BORI shloka counts are from the scholarly critical edition. The dataset shloka counts come from the OCR-extracted text. Small differences are expected due to OCR variation and different counting conventions.
+
+| # | Parva | BORI Shlokas | Dataset Shlokas | Diff |
+|---|-------|-------------:|----------------:|-----:|
+| 1 | Adi Parva | 7,202 | 7,205 | +3 |
+| 2 | Sabha Parva | 2,387 | 2,390 | +3 |
+| 3 | Vana Parva | 10,239 | 10,152 | **-87** |
+| 4 | Virata Parva | 1,736 | 1,823 | +87 |
+| 5 | Udyoga Parva | 6,001 | 6,058 | +57 |
+| 6 | Bhishma Parva | 5,381 | 5,406 | +25 |
+| 7 | Drona Parva | 8,069 | 7,957 | **-112** |
+| 8 | Karna Parva | 3,870 | 3,870 | 0 |
+| 9 | Shalya Parva | 3,541 | 3,315 | **-226** |
+| 10 | Sauptika Parva | 771 | 772 | +1 |
+| 11 | Stri Parva | 713 | 730 | +17 |
+| 12 | Shanti Parva | 13,006 | 12,823 | **-183** |
+| 13 | Anushasana Parva | 6,493 | 6,534 | +41 |
+| 14 | Ashvamedhika Parva | 2,741 | 2,743 | +2 |
+| 15 | Ashramavasika Parva | 1,061 | 1,062 | +1 |
+| 16 | Mausala Parva | 273 | 273 | 0 |
+| 17 | Mahaprasthanika Parva | 106 | 106 | 0 |
+| 18 | Svargarohana Parva | 194 | 194 | 0 |
+| | **TOTAL** | **73,784** | **73,413** | **-371** |
+
+> Shloka counts in the dataset come from the `num_shlokas` field written in the chapter headers of the OCR source files. The overall dataset is 371 shlokas (0.5%) below the BORI official count, likely due to OCR omissions and minor counting differences in the printed volumes.
 
 ---
 
