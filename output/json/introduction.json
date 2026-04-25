@@ -1,0 +1,311 @@
+{
+  "_notes": "Data sourced from the Introduction of Bibek Debroy's 10-volume unabridged translation of the Mahabharata (Penguin Books). Based on the BORI Critical Edition (Bhandarkar Oriental Research Institute, Pune).",
+
+  "title": "The Mahabharata",
+  "translator": "Bibek Debroy",
+  "publisher": "Penguin Books",
+  "num_volumes": 10,
+
+  "bori_critical_edition": {
+    "institution": "Bhandarkar Oriental Research Institute (BORI), Pune",
+    "period": "1919–1966 (without Hari Vamsha); complete with Hari Vamsha by 1970",
+    "description": "Authenticated text produced by a board of scholars, eliminating later interpolations and unifying regional versions (Bengal, Bombay, South)",
+    "original_versions": {
+      "Jaya":      { "shlokas": 8800,  "note": "Original composition by Krishna Dvaipayana Vedavyasa" },
+      "Bharata":   { "shlokas": 24000, "note": "First expansion" },
+      "Mahabharata": { "shlokas": 100000, "note": "Final expanded form (traditional claim)" }
+    },
+    "bori_actual_totals": {
+      "without_hari_vamsha": { "adhyayas": 1995, "shlokas": 73784 },
+      "with_hari_vamsha":    { "adhyayas": 2113, "shlokas": 79857 },
+      "regional_versions_estimate": { "shlokas_approx": 85000, "note": "Regional non-critical text; ~95000 with Hari Vamsha" }
+    }
+  },
+
+  "classification": {
+    "note": "The Mahabharata has two nested classification systems. The 18-parva system is commonly known. The 100-parva (actually 98 in the BORI critical edition) system is indicated within the text itself.",
+    "eighteen_parva_count": 18,
+    "hundred_parva_count_bori": 98,
+    "hundred_parva_count_traditional": 100,
+    "hierarchy": "shloka (couplet) → adhyaya (chapter) → sub-parva (100-parva) → parva (18-parva)"
+  },
+
+  "parvas": [
+    {
+      "number": 1,
+      "name": "Adi Parva",
+      "bori_adhyayas": 225,
+      "bori_shlokas": 7202,
+      "sub_parvas": [
+        { "number":  1, "name": "Anukramanika",          "adhyayas": 1,  "shlokas": 210  },
+        { "number":  2, "name": "Parvasamgraha",         "adhyayas": 1,  "shlokas": 243  },
+        { "number":  3, "name": "Poushya",               "adhyayas": 1,  "shlokas": 195  },
+        { "number":  4, "name": "Pouloma",               "adhyayas": 9,  "shlokas": 153  },
+        { "number":  5, "name": "Astika",                "adhyayas": 41, "shlokas": 1025 },
+        { "number":  6, "name": "Adi-vamshavatarana",    "adhyayas": 5,  "shlokas": 257  },
+        { "number":  7, "name": "Sambhava",              "adhyayas": 65, "shlokas": 2394 },
+        { "number":  8, "name": "Jatugriha-daha",        "adhyayas": 15, "shlokas": null },
+        { "number":  9, "name": "Hidimba-vadha",         "adhyayas": 6,  "shlokas": 169  },
+        { "number": 10, "name": "Baka-vadha",            "adhyayas": 8,  "shlokas": 206  },
+        { "number": 11, "name": "Chaitraratha",          "adhyayas": 21, "shlokas": 557  },
+        { "number": 12, "name": "Droupadi-svayamvara",   "adhyayas": 12, "shlokas": 263  },
+        { "number": 13, "name": "Vaivahika",             "adhyayas": 6,  "shlokas": 155  },
+        { "number": 14, "name": "Viduragamana",          "adhyayas": 7,  "shlokas": 174  },
+        { "number": 15, "name": "Rajya-labha",           "adhyayas": null, "shlokas": 50 },
+        { "number": 16, "name": "Arjuna-vanavasa",       "adhyayas": 11, "shlokas": 295  },
+        { "number": 17, "name": "Subhadra-harana",       "adhyayas": 2,  "shlokas": 57   },
+        { "number": 18, "name": "Harana-harika",         "adhyayas": 1,  "shlokas": null },
+        { "number": 19, "name": "Khandava-daha",         "adhyayas": 12, "shlokas": 344  }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Sabha Parva",
+      "bori_adhyayas": 72,
+      "bori_shlokas": 2387,
+      "sub_parvas": [
+        { "number": 20, "name": "Sabha",            "adhyayas": 11, "shlokas": 429 },
+        { "number": 21, "name": "Mantra",           "adhyayas": 6,  "shlokas": 222 },
+        { "number": 22, "name": "Jarasandha-vadha", "adhyayas": 5,  "shlokas": 195 },
+        { "number": 23, "name": "Digvijaya",        "adhyayas": 7,  "shlokas": 188 },
+        { "number": 24, "name": "Rajasuya",         "adhyayas": 3,  "shlokas": 97  },
+        { "number": 25, "name": "Arghabhirana",     "adhyayas": 4,  "shlokas": 99  },
+        { "number": 26, "name": "Shishupala-vadha", "adhyayas": 6,  "shlokas": 191 },
+        { "number": 27, "name": "Dyuta",            "adhyayas": 23, "shlokas": 734 },
+        { "number": 28, "name": "Anudyuta",         "adhyayas": 7,  "shlokas": 232 }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Aranyaka Parva (Vana Parva)",
+      "bori_adhyayas": 299,
+      "bori_shlokas": 10239,
+      "note": "3 chapters missing from this translation's source (ch 309, 451, 541) → 296 loaded",
+      "sub_parvas": [
+        { "number": 29, "name": "Aranyaka",                    "adhyayas": 11, "shlokas": 327  },
+        { "number": 30, "name": "Kirmira-vadha",               "adhyayas": 1,  "shlokas": 75   },
+        { "number": 31, "name": "Kairata",                     "adhyayas": 30, "shlokas": 1158 },
+        { "number": 32, "name": "Indralokabhigamana",          "adhyayas": 37, "shlokas": 1157 },
+        { "number": 33, "name": "Tirtha-yatra",                "adhyayas": 74, "shlokas": 2422 },
+        { "number": 34, "name": "Jatasura-vadha",              "adhyayas": 1,  "shlokas": 61   },
+        { "number": 35, "name": "Yaksha-yuddha",               "adhyayas": 18, "shlokas": 710  },
+        { "number": 36, "name": "Ajagara",                     "adhyayas": 6,  "shlokas": 201  },
+        { "number": 37, "name": "Markandeya-samasya",          "adhyayas": 43, "shlokas": 1656 },
+        { "number": 38, "name": "Droupadi-Satyabhama-sambada", "adhyayas": 3,  "shlokas": 88   },
+        { "number": 39, "name": "Ghosha-yatra",                "adhyayas": 19, "shlokas": 519  },
+        { "number": 40, "name": "Mriga-svapna-bhaya",          "adhyayas": 1,  "shlokas": 16   },
+        { "number": 41, "name": "Vrihi-drounika",              "adhyayas": 3,  "shlokas": 117  },
+        { "number": 42, "name": "Droupadi-harana",             "adhyayas": 36, "shlokas": 1247 },
+        { "number": 43, "name": "Kundala-harana",              "adhyayas": 11, "shlokas": 294  },
+        { "number": 44, "name": "Araneya",                     "adhyayas": 5,  "shlokas": 191  }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Virata Parva",
+      "bori_adhyayas": 67,
+      "bori_shlokas": 1736,
+      "sub_parvas": [
+        { "number": 45, "name": "Vairata",       "adhyayas": 12, "shlokas": 271 },
+        { "number": 46, "name": "Kichaka-vadha", "adhyayas": 11, "shlokas": 353 },
+        { "number": 47, "name": "Go-grahana",    "adhyayas": 39, "shlokas": 933 },
+        { "number": 48, "name": "Vaivahika",     "adhyayas": 5,  "shlokas": 179 }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Udyoga Parva",
+      "bori_adhyayas": 197,
+      "bori_shlokas": 6001,
+      "sub_parvas": [
+        { "number": 49, "name": "Udyoga",              "adhyayas": 21, "shlokas": 575  },
+        { "number": 50, "name": "Sanjaya-yana",        "adhyayas": 11, "shlokas": 274  },
+        { "number": 51, "name": "Prajagara",           "adhyayas": 9,  "shlokas": 541  },
+        { "number": 52, "name": "Sanatsujata",         "adhyayas": 4,  "shlokas": 121  },
+        { "number": 53, "name": "Yana-sandhi",         "adhyayas": 24, "shlokas": 709  },
+        { "number": 54, "name": "Bhagavad-dhyana",     "adhyayas": 65, "shlokas": 2053 },
+        { "number": 55, "name": "Kamopani-vadha",      "adhyayas": 14, "shlokas": 351  },
+        { "number": 56, "name": "Abhiniryana",         "adhyayas": 4,  "shlokas": 169  },
+        { "number": 57, "name": "Bhishmabhishechana",  "adhyayas": 4,  "shlokas": 122  },
+        { "number": 58, "name": "Uluka-yana",          "adhyayas": 4,  "shlokas": 100  },
+        { "number": 59, "name": "Rathatiratha-sankhyana", "adhyayas": 9, "shlokas": 231 },
+        { "number": 60, "name": "Ambopakhyana",        "adhyayas": 28, "shlokas": 755  }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Bhishma Parva",
+      "bori_adhyayas": 117,
+      "bori_shlokas": 5381,
+      "sub_parvas": [
+        { "number": 61, "name": "Jambukhanda-vinirmana", "adhyayas": 11, "shlokas": 377 },
+        { "number": 62, "name": "Bhumi",                 "adhyayas": 2,  "shlokas": 87  },
+        { "number": 63, "name": "Bhagavad-gita",         "adhyayas": 27, "shlokas": 974 },
+        { "number": 64, "name": "Bhishma-vadha",         "adhyayas": 77, "shlokas": null }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Drona Parva",
+      "bori_adhyayas": 173,
+      "bori_shlokas": 8069,
+      "note": "2 chapters missing from source (ch 1091, 1149) → 171 loaded",
+      "sub_parvas": [
+        { "number": 65, "name": "Dronabhisheka",        "adhyayas": 15, "shlokas": 634  },
+        { "number": 66, "name": "Samshaptaka-vadha",    "adhyayas": 16, "shlokas": 717  },
+        { "number": 67, "name": "Abhimanyu-vadha",      "adhyayas": 20, "shlokas": 640  },
+        { "number": 68, "name": "Pratijna",             "adhyayas": 9,  "shlokas": 365  },
+        { "number": 69, "name": "Jayadratha-vadha",     "adhyayas": 61, "shlokas": 2834 },
+        { "number": 70, "name": "Ghatotkacha-vadha",    "adhyayas": 33, "shlokas": 1645 },
+        { "number": 71, "name": "Drona-vadha",          "adhyayas": 11, "shlokas": 692  },
+        { "number": 72, "name": "Narayanaastra-moksha", "adhyayas": 8,  "shlokas": 542  }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Karna Parva",
+      "bori_adhyayas": 69,
+      "bori_shlokas": 3870,
+      "sub_parvas": [
+        { "number": 73, "name": "Karna-vadha", "adhyayas": 69, "shlokas": 3870 }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Shalya Parva",
+      "bori_adhyayas": 64,
+      "bori_shlokas": 3541,
+      "sub_parvas": [
+        { "number": 74, "name": "Shalya-vadha",    "adhyayas": 16, "shlokas": 1074 },
+        { "number": 75, "name": "Hrada-pravesha",  "adhyayas": 12, "shlokas": 664  },
+        { "number": 76, "name": "Tirtha-yatra",    "adhyayas": 25, "shlokas": 1258 },
+        { "number": 77, "name": "Gada-yuddha",     "adhyayas": 11, "shlokas": null  }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Sauptika Parva",
+      "bori_adhyayas": 18,
+      "bori_shlokas": 771,
+      "sub_parvas": [
+        { "number": 78, "name": "Souptika", "adhyayas": 9, "shlokas": 514 },
+        { "number": 79, "name": "Aishika",  "adhyayas": 9, "shlokas": 257 }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Stri Parva",
+      "bori_adhyayas": 27,
+      "bori_shlokas": 713,
+      "sub_parvas": [
+        { "number": 80, "name": "Vishoka / Stri-Vishoka", "adhyayas": 8,  "shlokas": 177 },
+        { "number": 81, "name": "Stri-vilapa",             "adhyayas": 17, "shlokas": 468 },
+        { "number": 82, "name": "Shraddha",                "adhyayas": 1,  "shlokas": 44  },
+        { "number": 83, "name": "Jala-pradanika",          "adhyayas": 1,  "shlokas": 24  }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Shanti Parva",
+      "bori_adhyayas": 353,
+      "bori_shlokas": 13006,
+      "sub_parvas": [
+        { "number": 84, "name": "Raja-dharma",  "adhyayas": 128, "shlokas": 4511 },
+        { "number": 85, "name": "Apad-dharma",  "adhyayas": 39,  "shlokas": null },
+        { "number": 86, "name": "Moksha-dharma","adhyayas": 186, "shlokas": null }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Anushasana Parva",
+      "bori_adhyayas": 154,
+      "bori_shlokas": 6493,
+      "sub_parvas": [
+        { "number": 87, "name": "Dana-dharma",           "adhyayas": 152, "shlokas": 6409 },
+        { "number": 88, "name": "Bhishma-svargarohana",  "adhyayas": 2,   "shlokas": 84   }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Ashvamedhika Parva",
+      "bori_adhyayas": 96,
+      "bori_shlokas": 2741,
+      "sub_parvas": [
+        { "number": 89, "name": "Ashvamedha", "adhyayas": 96, "shlokas": 2741 }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Ashramavasika Parva",
+      "bori_adhyayas": 47,
+      "bori_shlokas": 1061,
+      "sub_parvas": [
+        { "number": 90, "name": "Ashrama-vasa",    "adhyayas": 35, "shlokas": 736  },
+        { "number": 91, "name": "Putra-darshana",  "adhyayas": 9,  "shlokas": 134  },
+        { "number": 92, "name": "Naradagamana",    "adhyayas": 3,  "shlokas": 91   }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Mausala Parva",
+      "bori_adhyayas": 9,
+      "bori_shlokas": 273,
+      "sub_parvas": [
+        { "number": 93, "name": "Mousala", "adhyayas": 9, "shlokas": 273 }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Mahaprasthanika Parva",
+      "bori_adhyayas": 3,
+      "bori_shlokas": 106,
+      "sub_parvas": [
+        { "number": 94, "name": "Maha-prasthanika", "adhyayas": 3, "shlokas": 106 }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Svargarohana Parva",
+      "bori_adhyayas": 5,
+      "bori_shlokas": 194,
+      "sub_parvas": [
+        { "number": 95, "name": "Svargarohana", "adhyayas": 5, "shlokas": 194 }
+      ]
+    }
+  ],
+
+  "hari_vamsha": {
+    "note": "Regarded as a khila (supplement/epilogue) to the Mahabharata. Included by BORI in the critical edition in a separate volume. Included in this translation.",
+    "sub_parvas": [
+      { "number": 96, "name": "Hari-vamsha", "adhyayas": 45,  "shlokas": 2442 },
+      { "number": 97, "name": "Vishnu",      "adhyayas": 68,  "shlokas": 3426 },
+      { "number": 98, "name": "Bhavishya",   "adhyayas": 5,   "shlokas": 205  }
+    ],
+    "total_adhyayas": 118,
+    "total_shlokas": 6073
+  },
+
+  "volumes": [
+    { "number": 1,  "sections": "1–15",  "parvas_100": "1–19",   "chapters": 199,  "shlokas_approx": 6500,  "note": "90% of Adi Parva" },
+    { "number": 2,  "sections": "16–32", "parvas_100": "16–28",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 3,  "sections": "33–44", "parvas_100": "29–44",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 4,  "sections": "45–59", "parvas_100": "45–60",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 5,  "sections": "60–66", "parvas_100": "60–64",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 6,  "sections": "67–72", "parvas_100": "65–72",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 7,  "sections": "73–77", "parvas_100": "73–77",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 8,  "sections": "78–86", "parvas_100": "78–86",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 9,  "sections": "86–87", "parvas_100": "86–88",  "chapters": "~200", "shlokas_approx": 7000 },
+    { "number": 10, "sections": "87–95", "parvas_100": "87–95",  "chapters": "~200", "shlokas_approx": 7000, "note": "Ends with Svargarohana; includes Hari Vamsha sections" }
+  ],
+
+  "this_translation_vs_bori": {
+    "note": "This translation follows BORI's critical edition. The text files in this dataset (volume_N_chapters.txt) are derived from OCR of the printed volumes. 5 chapter gaps exist due to OCR extraction issues.",
+    "bori_adhyayas_total": 1995,
+    "translation_chapters_loaded": 1990,
+    "missing_chapters": [309, 451, 541, 1091, 1149],
+    "missing_by_parva": {
+      "Vana Parva (ch 298–596)": [309, 451, 541],
+      "Drona Parva (ch 978–1150)": [1091, 1149]
+    }
+  }
+}
