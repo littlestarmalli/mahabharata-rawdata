@@ -1,0 +1,221 @@
+{
+  "total_parvas": 18,
+  "parvas": [
+    {
+      "parva_number": 1,
+      "name": "Adi Parva",
+      "details": {
+        "num_subparvas": 19,
+        "num_chapters": 225,
+        "num_shlokas": 7205
+      },
+      "chapters_loaded": 225,
+      "story_file": "story/parva_01_adi_parva.json",
+      "footnotes_file": "footnotes/parva_01_adi_parva_fn.json"
+    },
+    {
+      "parva_number": 2,
+      "name": "Sabha Parva",
+      "details": {
+        "num_subparvas": 9,
+        "num_chapters": 72,
+        "num_shlokas": 2390
+      },
+      "chapters_loaded": 72,
+      "story_file": "story/parva_02_sabha_parva.json",
+      "footnotes_file": "footnotes/parva_02_sabha_parva_fn.json"
+    },
+    {
+      "parva_number": 3,
+      "name": "Vana Parva",
+      "details": {
+        "num_subparvas": 16,
+        "num_chapters": 299,
+        "num_shlokas": 10152
+      },
+      "chapters_loaded": 296,
+      "story_file": "story/parva_03_vana_parva.json",
+      "footnotes_file": "footnotes/parva_03_vana_parva_fn.json"
+    },
+    {
+      "parva_number": 4,
+      "name": "Virata Parva",
+      "details": {
+        "num_subparvas": 4,
+        "num_chapters": 67,
+        "num_shlokas": 1823
+      },
+      "chapters_loaded": 67,
+      "story_file": "story/parva_04_virata_parva.json",
+      "footnotes_file": "footnotes/parva_04_virata_parva_fn.json"
+    },
+    {
+      "parva_number": 5,
+      "name": "Udyoga Parva",
+      "details": {
+        "num_subparvas": 12,
+        "num_chapters": 197,
+        "num_shlokas": 6058
+      },
+      "chapters_loaded": 197,
+      "story_file": "story/parva_05_udyoga_parva.json",
+      "footnotes_file": "footnotes/parva_05_udyoga_parva_fn.json"
+    },
+    {
+      "parva_number": 6,
+      "name": "Bhishma Parva",
+      "details": {
+        "num_subparvas": 4,
+        "num_chapters": 117,
+        "num_shlokas": 5406
+      },
+      "chapters_loaded": 117,
+      "story_file": "story/parva_06_bhishma_parva.json",
+      "footnotes_file": "footnotes/parva_06_bhishma_parva_fn.json"
+    },
+    {
+      "parva_number": 7,
+      "name": "Drona Parva",
+      "details": {
+        "num_subparvas": 8,
+        "num_chapters": 173,
+        "num_shlokas": 7957
+      },
+      "chapters_loaded": 171,
+      "story_file": "story/parva_07_drona_parva.json",
+      "footnotes_file": "footnotes/parva_07_drona_parva_fn.json"
+    },
+    {
+      "parva_number": 8,
+      "name": "Karna Parva",
+      "details": {
+        "num_subparvas": 1,
+        "num_chapters": 69,
+        "num_shlokas": 3870
+      },
+      "chapters_loaded": 69,
+      "story_file": "story/parva_08_karna_parva.json",
+      "footnotes_file": "footnotes/parva_08_karna_parva_fn.json"
+    },
+    {
+      "parva_number": 9,
+      "name": "Shalya Parva",
+      "details": {
+        "num_subparvas": 4,
+        "num_chapters": 64,
+        "num_shlokas": 3315
+      },
+      "chapters_loaded": 64,
+      "story_file": "story/parva_09_shalya_parva.json",
+      "footnotes_file": "footnotes/parva_09_shalya_parva_fn.json"
+    },
+    {
+      "parva_number": 10,
+      "name": "Sauptika Parva",
+      "details": {
+        "num_subparvas": 2,
+        "num_chapters": 18,
+        "num_shlokas": 772
+      },
+      "chapters_loaded": 18,
+      "story_file": "story/parva_10_sauptika_parva.json",
+      "footnotes_file": "footnotes/parva_10_sauptika_parva_fn.json"
+    },
+    {
+      "parva_number": 11,
+      "name": "Stri Parva",
+      "details": {
+        "num_subparvas": 4,
+        "num_chapters": 27,
+        "num_shlokas": 730
+      },
+      "chapters_loaded": 27,
+      "story_file": "story/parva_11_stri_parva.json",
+      "footnotes_file": "footnotes/parva_11_stri_parva_fn.json"
+    },
+    {
+      "parva_number": 12,
+      "name": "Shanti Parva",
+      "details": {
+        "num_subparvas": 3,
+        "num_chapters": 353,
+        "num_shlokas": 12823
+      },
+      "chapters_loaded": 353,
+      "story_file": "story/parva_12_shanti_parva.json",
+      "footnotes_file": "footnotes/parva_12_shanti_parva_fn.json"
+    },
+    {
+      "parva_number": 13,
+      "name": "Anushasana Parva",
+      "details": {
+        "num_subparvas": 2,
+        "num_chapters": 154,
+        "num_shlokas": 6534
+      },
+      "chapters_loaded": 154,
+      "story_file": "story/parva_13_anushasana_parva.json",
+      "footnotes_file": "footnotes/parva_13_anushasana_parva_fn.json"
+    },
+    {
+      "parva_number": 14,
+      "name": "Ashvamedhika Parva",
+      "details": {
+        "num_subparvas": 1,
+        "num_chapters": 96,
+        "num_shlokas": 2743
+      },
+      "chapters_loaded": 96,
+      "story_file": "story/parva_14_ashvamedhika_parva.json",
+      "footnotes_file": "footnotes/parva_14_ashvamedhika_parva_fn.json"
+    },
+    {
+      "parva_number": 15,
+      "name": "Ashramavasa Parva",
+      "details": {
+        "num_subparvas": 3,
+        "num_chapters": 47,
+        "num_shlokas": 1062
+      },
+      "chapters_loaded": 47,
+      "story_file": "story/parva_15_ashramavasa_parva.json",
+      "footnotes_file": "footnotes/parva_15_ashramavasa_parva_fn.json"
+    },
+    {
+      "parva_number": 16,
+      "name": "Mausala Parva",
+      "details": {
+        "num_subparvas": 1,
+        "num_chapters": 9,
+        "num_shlokas": 273
+      },
+      "chapters_loaded": 9,
+      "story_file": "story/parva_16_mausala_parva.json",
+      "footnotes_file": "footnotes/parva_16_mausala_parva_fn.json"
+    },
+    {
+      "parva_number": 17,
+      "name": "Mahaprasthanika Parva",
+      "details": {
+        "num_subparvas": 1,
+        "num_chapters": 3,
+        "num_shlokas": 106
+      },
+      "chapters_loaded": 3,
+      "story_file": "story/parva_17_mahaprasthanika_parva.json",
+      "footnotes_file": "footnotes/parva_17_mahaprasthanika_parva_fn.json"
+    },
+    {
+      "parva_number": 18,
+      "name": "Svargarohana Parva",
+      "details": {
+        "num_subparvas": 1,
+        "num_chapters": 5,
+        "num_shlokas": 194
+      },
+      "chapters_loaded": 5,
+      "story_file": "story/parva_18_svargarohana_parva.json",
+      "footnotes_file": "footnotes/parva_18_svargarohana_parva_fn.json"
+    }
+  ]
+}
