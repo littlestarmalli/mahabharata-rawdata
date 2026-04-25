@@ -1,0 +1,63 @@
+Volume 4 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   7
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              7
+
+
+──────────────────────────────────────────────────────────────────────
+Section [45] Vairata Parva  (chapters 597–608)
+  Refs: 84   Defs: 85
+
+  CASE B — 1 orphan(s):
+    fn 64
+
+  CASE D — ref sequence gaps: [64]
+
+──────────────────────────────────────────────────────────────────────
+Section [50] Sanjaya-Yana Parva  (chapters 685–695)
+  Refs: 117   Defs: 118
+
+  CASE B — 1 orphan(s):
+    fn 45
+
+  CASE D — ref sequence gaps: [45]
+
+──────────────────────────────────────────────────────────────────────
+Section [51] Prajagara Parva  (chapters 696–704)
+  Refs: 93   Defs: 94
+
+  CASE B — 1 orphan(s):
+    fn 92
+
+  CASE D — ref sequence gaps: [92]
+
+──────────────────────────────────────────────────────────────────────
+Section [52] Sanatsujata Parva  (chapters 705–708)
+  Refs: 40   Defs: 41
+
+  CASE B — 1 orphan(s):
+    fn 14
+
+  CASE D — ref sequence gaps: [14]
+
+──────────────────────────────────────────────────────────────────────
+Section [53] Yana-Sandhi Parva  (chapters 709–732)
+  Refs: 185   Defs: 186
+
+  CASE B — 1 orphan(s):
+    fn 48
+
+  CASE D — ref sequence gaps: [48]
+
+──────────────────────────────────────────────────────────────────────
+Section [54] Bhagavat-Yana Parva  (chapters 733–800)
+  Refs: 332   Defs: 334
+
+  CASE B — 2 orphan(s):
+    fn 113
+    fn 134
+
+  CASE D — ref sequence gaps: [113, 134]

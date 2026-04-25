@@ -1,0 +1,48 @@
+Volume 2 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   8
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              8
+
+
+──────────────────────────────────────────────────────────────────────
+Section [20] Sabha Parva  (chapters 226–236)
+  Refs: 172   Defs: 174
+
+  CASE B — 2 orphan(s):
+    fn 106
+    fn 136
+
+  CASE D — ref sequence gaps: [106, 136]
+
+──────────────────────────────────────────────────────────────────────
+Section [25] Arghabhiharana Parva  (chapters 258–261)
+  Refs: 16   Defs: 17
+
+  CASE B — 1 orphan(s):
+    fn 13
+
+  CASE D — ref sequence gaps: [13]
+
+──────────────────────────────────────────────────────────────────────
+Section [27] Dyuta Parva  (chapters 268–290)
+  Refs: 243   Defs: 247
+
+  CASE B — 4 orphan(s):
+    fn 48
+    fn 74
+    fn 108
+    fn 218
+
+  CASE D — ref sequence gaps: [48, 74, 108, 218]
+
+──────────────────────────────────────────────────────────────────────
+Section [32] Indralokabhigamana Parva  (chapters 340–376)
+  Refs: 204   Defs: 205
+
+  CASE B — 1 orphan(s):
+    fn 51
+
+  CASE D — ref sequence gaps: [51]

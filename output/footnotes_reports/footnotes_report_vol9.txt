@@ -1,0 +1,38 @@
+Volume 9 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   14
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              14
+
+
+──────────────────────────────────────────────────────────────────────
+Section [86] Moksha Dharma Parva  (chapters 1528–1681)
+  Refs: 1387   Defs: 1399
+
+  CASE B — 12 orphan(s):
+    fn 42
+    fn 89
+    fn 103
+    fn 247
+    fn 312
+    fn 441
+    fn 888
+    fn 905
+    fn 948
+    fn 1014
+    fn 1071
+    fn 1180
+
+  CASE D — ref sequence gaps: [42, 89, 103, 247, 312, 441, 888, 905, 948, 1014, 1071, 1180]
+
+──────────────────────────────────────────────────────────────────────
+Section [87] Dana Dharma Parva  (chapters 1682–1737)
+  Refs: 1337   Defs: 1339
+
+  CASE B — 2 orphan(s):
+    fn 223
+    fn 236
+
+  CASE D — ref sequence gaps: [223, 236]

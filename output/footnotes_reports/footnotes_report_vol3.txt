@@ -1,0 +1,29 @@
+Volume 3 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   5
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              5
+
+
+──────────────────────────────────────────────────────────────────────
+Section [33] Tirtha-yatra Parva  (chapters 377–450)
+  Refs: 719   Defs: 723
+
+  CASE B — 4 orphan(s):
+    fn 279
+    fn 320
+    fn 632
+    fn 706
+
+  CASE D — ref sequence gaps: [279, 320, 632, 706]
+
+──────────────────────────────────────────────────────────────────────
+Section [44] Aranyaka-parvan Parva  (chapters 592–596)
+  Refs: 37   Defs: 38
+
+  CASE B — 1 orphan(s):
+    fn 18
+
+  CASE D — ref sequence gaps: [18]
