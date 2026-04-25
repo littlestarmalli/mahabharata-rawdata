@@ -2,45 +2,34 @@ Volume 1 Footnote Cross-Check Report (section-aware)
 ======================================================================
 
   Total CASE A (missing defs → placeholders inserted): 0
-  Total CASE B (orphan defs  → marked with comment):   46
+  Total CASE B (orphan defs  → marked with comment):   37
   Total CASE C (def gaps):                              0
-  Total CASE D (ref gaps):                              45
+  Total CASE D (ref gaps):                              36
 
-
-──────────────────────────────────────────────────────────────────────
-Section [1] Anukramanika Parva  (chapters 1–1)
-  Refs: 85   Defs: 86
-
-  CASE B — 1 orphan(s):
-    fn 18
-
-  CASE D — ref sequence gaps: [18]
 
 ──────────────────────────────────────────────────────────────────────
 Section [2] Parvasamgraha Parva  (chapters 2–2)
-  Refs: 128   Defs: 134
+  Refs: 129   Defs: 134
 
-  CASE B — 6 orphan(s):
+  CASE B — 5 orphan(s):
     fn 37
     fn 51
     fn 60
     fn 63
     fn 69
-    fn 76
 
-  CASE D — ref sequence gaps: [37, 51, 60, 63, 69, 76]
+  CASE D — ref sequence gaps: [37, 51, 60, 63, 69]
 
 ──────────────────────────────────────────────────────────────────────
 Section [4] Pouloma Parva  (chapters 5–12)
-  Refs: 19   Defs: 23
+  Refs: 20   Defs: 23
 
-  CASE B — 4 orphan(s):
+  CASE B — 3 orphan(s):
     fn 1
-    fn 4
     fn 7
     fn 12
 
-  CASE D — ref sequence gaps: [4, 7, 12]
+  CASE D — ref sequence gaps: [7, 12]
 
 ──────────────────────────────────────────────────────────────────────
 Section [6] Adi-vamshavatarana Parva  (chapters 54–58)
@@ -55,19 +44,14 @@ Section [6] Adi-vamshavatarana Parva  (chapters 54–58)
 
 ──────────────────────────────────────────────────────────────────────
 Section [7] Sambhava Parva  (chapters 59–123)
-  Refs: 345   Defs: 353
+  Refs: 350   Defs: 353
 
-  CASE B — 8 orphan(s):
-    fn 3
-    fn 142
-    fn 178
+  CASE B — 3 orphan(s):
     fn 214
-    fn 281
-    fn 305
     fn 309
     fn 347
 
-  CASE D — ref sequence gaps: [3, 142, 178, 214, 281, 305, 309, 347]
+  CASE D — ref sequence gaps: [214, 309, 347]
 
 ──────────────────────────────────────────────────────────────────────
 Section [8] Jatugriha-daha Parva  (chapters 124–138)
@@ -99,13 +83,12 @@ Section [10] Baka-vadha Parva  (chapters 145–152)
 
 ──────────────────────────────────────────────────────────────────────
 Section [11] Chaitraratha Parva  (chapters 153–174)
-  Refs: 118   Defs: 120
+  Refs: 119   Defs: 120
 
-  CASE B — 2 orphan(s):
+  CASE B — 1 orphan(s):
     fn 22
-    fn 75
 
-  CASE D — ref sequence gaps: [22, 75]
+  CASE D — ref sequence gaps: [22]
 
 ──────────────────────────────────────────────────────────────────────
 Section [13] Vaivahika Parva  (chapters 186–191)

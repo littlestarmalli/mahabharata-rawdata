@@ -2,19 +2,10 @@ Volume 8 Footnote Cross-Check Report (section-aware)
 ======================================================================
 
   Total CASE A (missing defs → placeholders inserted): 0
-  Total CASE B (orphan defs  → marked with comment):   20
+  Total CASE B (orphan defs  → marked with comment):   13
   Total CASE C (def gaps):                              1
-  Total CASE D (ref gaps):                              21
+  Total CASE D (ref gaps):                              14
 
-
-──────────────────────────────────────────────────────────────────────
-Section [78] Souptika Parva  (chapters 1284–1292)
-  Refs: 131   Defs: 132
-
-  CASE B — 1 orphan(s):
-    fn 129
-
-  CASE D — ref sequence gaps: [129]
 
 ──────────────────────────────────────────────────────────────────────
 Section [79] Aishika Parva  (chapters 1293–1301)
@@ -27,44 +18,36 @@ Section [79] Aishika Parva  (chapters 1293–1301)
 
 ──────────────────────────────────────────────────────────────────────
 Section [83] Jala-pradanika Parva  (chapters 1328–1456)
-  Refs: 1095   Defs: 1109
+  Refs: 1098   Defs: 1109
 
-  CASE B — 14 orphan(s):
+  CASE B — 11 orphan(s):
     fn 136
     fn 232
     fn 283
     fn 297
     fn 298
     fn 299
-    fn 354
     fn 409
     fn 460
     fn 506
-    fn 524
     fn 779
-    fn 885
     fn 947
 
-  CASE D — ref sequence gaps: [136, 232, 283, 297, 298, 299, 354, 409, 460, 506, 524, 779, 885, 947]
+  CASE D — ref sequence gaps: [136, 232, 283, 297, 298, 299, 409, 460, 506, 779, 947]
 
 ──────────────────────────────────────────────────────────────────────
 Section [84] Raja Dharma Parva  (chapters 1457–1495)
-  Refs: 271   Defs: 272
-
-  CASE B — 1 orphan(s):
-    fn 32
+  Refs: 272   Defs: 272
 
   CASE C — def sequence gaps: [76]
 
-  CASE D — ref sequence gaps: [32, 76]
+  CASE D — ref sequence gaps: [76]
 
 ──────────────────────────────────────────────────────────────────────
 Section [86] Moksha Dharma Parva  (chapters 1496–1527)
-  Refs: 222   Defs: 225
+  Refs: 224   Defs: 225
 
-  CASE B — 3 orphan(s):
-    fn 88
-    fn 121
+  CASE B — 1 orphan(s):
     fn 198
 
-  CASE D — ref sequence gaps: [88, 121, 198]
+  CASE D — ref sequence gaps: [198]
