@@ -1,0 +1,44 @@
+================================================================================
+MAHABHARATA — TXT SOURCE vs STORY JSON VERIFICATION
+================================================================================
+
+[1/4] Parsing TXT source files ...
+      TXT: 1990 chapters, 18 parvas, 94 sub-parvas
+[2/4] Loading story JSON files ...
+      JSON: 1990 chapters, 18 parvas, 94 sub-parvas
+
+[3/4] Cross-checking chapters ...
+      Chapter gaps: [309, 451, 541, 1091, 1149] (all accounted for as known OCR gaps) OK
+[4/4] Per-chapter paragraph & shloka check ...
+
+================================================================================
+RESULTS
+================================================================================
+
+================================================================================
+ALL CHECKS PASSED  ✓  TXT source and JSON are fully consistent.
+================================================================================
+
+--- PER-PARVA SUMMARY ---
+ P Parva                            TXT_ch JSON_ch   TXT_sh  JSON_sh   OK?
+---------------------------------------------------------------------------
+ 1 Adi Parva                           225     225    7,205    7,205    OK
+ 2 Sabha Parva                          72      72    2,390    2,390    OK
+ 3 Vana Parva                          296     296   10,152   10,152    OK
+ 4 Virata Parva                         67      67    1,823    1,823    OK
+ 5 Udyoga Parva                        197     197    6,058    6,058    OK
+ 6 Bhishma Parva                       117     117    5,406    5,406    OK
+ 7 Drona Parva                         171     171    7,957    7,957    OK
+ 8 Karna Parva                          69      69    3,870    3,870    OK
+ 9 Shalya Parva                         64      64    3,315    3,315    OK
+10 Sauptika Parva                       18      18      772      772    OK
+11 Stri Parva                           27      27      730      730    OK
+12 Shanti Parva                        353     353   12,823   12,823    OK
+13 Anushasana Parva                    154     154    6,534    6,534    OK
+14 Ashvamedhika Parva                   96      96    2,743    2,743    OK
+15 Ashramavasa Parva                    47      47    1,062    1,062    OK
+16 Mausala Parva                         9       9      273      273    OK
+17 Mahaprasthanika Parva                 3       3      106      106    OK
+18 Svargarohana Parva                    5       5      194      194    OK
+---------------------------------------------------------------------------
+   TOTAL                              1990    1990
