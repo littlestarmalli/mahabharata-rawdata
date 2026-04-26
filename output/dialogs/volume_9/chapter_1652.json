@@ -1,0 +1,349 @@
+{
+  "chapter": 1652,
+  "local": 324,
+  "shlokas": 39,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “Since the great king Vasu was devoted to the illustrious one, why was he dislodged? Why did he have to sink into a hole in the ground?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Since the great king Vasu was devoted to the illustrious one, why was he dislodged? Why did he have to sink into a hole in the ground?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O descendant of the Bharata lineage! In this connection, there is the history of a conversation between the rishis and the residents of heaven. The gods told the supreme among brahmanas that ajas should be killed in sacriﬁces{1123}. However, by aja, one should understand a goat and no other animal.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! In this connection, there is the history of a conversation between the rishis and the residents of heaven. The gods told the supreme among brahmanas that ajas should be killed in sacriﬁces{1123}. However, by aja, one should understand a goat and no other animal.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rishis said, ‘The shruti texts of the Vedas aver that only seeds should be offered at sacriﬁces. The word aja signiﬁes seeds. You should not slaughter goats. O gods! The slaughter of animals cannot constitute virtuous dharma. This is the best yuga of krita. How can one slaughter animals?’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rishis said, ",
+          "speaker": "@bhishma",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The shruti texts of the Vedas aver that only seeds should be offered at sacriﬁces. The word aja signiﬁes seeds. You should not slaughter goats. O gods! The slaughter of animals cannot constitute virtuous dharma. This is the best yuga of krita. How can one slaughter animals?’",
+          "speaker": "@sages",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “This conversation was going on between the rishis and the gods. At that time, travelling along a path, Vasu, best among kings, arrived at the spot. He could travel through the sky. He was prosperous and all the soldiers and mounts were ahead of him. On seeing Vasu suddenly arrive through the sky, the brahmanas told the gods, ‘He will dispel our doubts. He performs sacriﬁces. He is foremost among those who donate. He is affectionate towards all creatures and is devoted to their welfare. How can the great Vasu speak contrary words?’ Thus conversing, the gods and the rishis approached King Vasu, who had suddenly arrived, and asked him. ‘O king! How should one sacriﬁce? Should one use goats or herbs? Sever our doubt about this. We will accept your view as the proof.’ Thus asked, Vasu joined his hands in salutation and said, ‘What are your views? Let both sides tell me the truth.’ The rishis responded, ‘O lord of men! The view of our side is that grain should be offered at sacriﬁces. The gods are of the view that animals should be offered. O king! Tell us your opinion.’ Ascertaining the views of the gods, Vasu opted for their side. He said that goats should be offered at sacriﬁces. All the sages were as radiant as the sun and were enraged at this. Vasu was on his celestial vehicle and had spoken on the side of the gods. They told him, ‘You have opted for the side of the gods. Therefore, you will fall down from heaven. O king! From today, you will no longer be able to travel through the sky. Because of our curse, you will shatter the earth and penetrate there.’ As soon as they said this, King Uparichara quickly fell down. The king penetrated a hole in the ground. However, because of Narayana's instructions, he did not lose his memory.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This conversation was going on between the rishis and the gods. At that time, travelling along a path, Vasu, best among kings, arrived at the spot. He could travel through the sky. He was prosperous and all the soldiers and mounts were ahead of him. On seeing Vasu suddenly arrive through the sky, the brahmanas told the gods, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmanas",
+          "introduces_label": "the brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He will dispel our doubts. He performs sacriﬁces. He is foremost among those who donate. He is affectionate towards all creatures and is devoted to their welfare. How can the great Vasu speak contrary words?’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus conversing, the gods and the rishis approached King Vasu, who had suddenly arrived, and asked him. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! How should one sacriﬁce? Should one use goats or herbs? Sever our doubt about this. We will accept your view as the proof.’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus asked, Vasu joined his hands in salutation and said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What are your views? Let both sides tell me the truth.’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The rishis responded, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of men! The view of our side is that grain should be offered at sacriﬁces. The gods are of the view that animals should be offered. O king! Tell us your opinion.’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Ascertaining the views of the gods, Vasu opted for their side. He said that goats should be offered at sacriﬁces. All the sages were as radiant as the sun and were enraged at this. Vasu was on his celestial vehicle and had spoken on the side of the gods. They told him, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have opted for the side of the gods. Therefore, you will fall down from heaven. O king! From today, you will no longer be able to travel through the sky. Because of our curse, you will shatter the earth and penetrate there.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " As soon as they said this, King Uparichara quickly fell down. The king penetrated a hole in the ground. However, because of Narayana's instructions, he did not lose his memory.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“All the gods began to think of a means to free Vasu from his curse. The gods anxiously reﬂected on the king's good deeds. 'The great-souled king has obtained this curse on our account. The residents of heaven must unite and do what is agreeable for him.’ Having determined this, the lords swiftly went to where King Uparichara was. They cheerfully spoke to him. ‘You are devoted to the god of the brahmanas, Hari, the preceptor of the gods and the asuras. You should desire to please him. He will then act, so as to free you from this curse. However, the greatsouled brahmanas also deserve respect. O supreme among kings! Their austerities must yield fruits{1124}. That is the reason you have suddenly been dislodged from heaven and have fallen down on the surface of the earth. O supreme among kings! However, we will show you a favour. O unblemished one! Because of the taint of the curse, there will be a period when you will be in this hole in the ground. The great-souled brahmanas offer excellent oblations at sacriﬁces, in the name of \"Vasudhara{1125}\". Through our favours, as long as you are here, you will obtain those and hardships and despair will not touch you. O Indra among kings! As long as you are in this hole in this ground, you will not be afﬂicted by hunger or thirst. You will drink Vasudhara and your energy will not be diminished. Because of our boon, that god{1126} will be pleased with you and will convey you to Brahma's world.’ This is the boon that all the residents of heaven granted to the king. The gods and the rishis, rich in austerities, returned to their own abodes.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“All the gods began to think of a means to free Vasu from his curse. The gods anxiously reﬂected on the king's good deeds. 'The great-souled king has obtained this curse on our account. The residents of heaven must unite and do what is agreeable for him.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having determined this, the lords swiftly went to where King Uparichara was. They cheerfully spoke to him. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘You are devoted to the god of the brahmanas, Hari, the preceptor of the gods and the asuras. You should desire to please him. He will then act, so as to free you from this curse. However, the greatsouled brahmanas also deserve respect. O supreme among kings! Their austerities must yield fruits{1124}. That is the reason you have suddenly been dislodged from heaven and have fallen down on the surface of the earth. O supreme among kings! However, we will show you a favour. O unblemished one! Because of the taint of the curse, there will be a period when you will be in this hole in the ground. The great-souled brahmanas offer excellent oblations at sacriﬁces, in the name of \"Vasudhara{1125}\". Through our favours, as long as you are here, you will obtain those and hardships and despair will not touch you. O Indra among kings! As long as you are in this hole in this ground, you will not be afﬂicted by hunger or thirst. You will drink Vasudhara and your energy will not be diminished. Because of our boon, that god{1126} will be pleased with you and will convey you to Brahma's world.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " This is the boon that all the residents of heaven granted to the king. The gods and the rishis, rich in austerities, returned to their own abodes.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘“O descendant of the Bharata lineage! He always worshipped Vishvaksena{1127}. He always worshipped him through mantras that had emerged from Narayana's mouth. O scorcher of enemies! Though he was in the hole in the ground, at ﬁve times of the day, he worshipped Hari, the lord of all gods, through the ﬁve sacriﬁces{1128}. The illustrious Narayana Hari was satisﬁed at his devotion. He was entirely devoted to him. He conquered his soul and was always faithful to him. In the presence of the best among brahmanas, the illustrious Vishnu, the granter of boons, smiled and spoke to the immensely swift Garuda, who was near him. ‘O supreme among birds! O greatly fortunate one! Listen to my words and go there. There is an emperor named Vasu. He has dharma in his soul and is devoted to me. Because of the wrath of the brahmanas, he has penetrated into the ground. The Indras among brahmanas have already been shown due respect. O supreme among birds! O Garuda! On my instruction, go to that hole in the ground. The best among kings can no longer travel up. Without any delay, bring him up into the sky.’ The bird, Garuda, left, with a speed that was like that of the wind. He entered the hole in the ground and saved Vasu, as he had been asked to. Vinata's son violently rose up into the sky and quickly released him there. In a short instant, King Uparichara regained his senses. In his own body, the supreme among kings went to Brahma's world. O Kounteya! In this way, in his ignorance, he committed a fault in speech. Because of the curse of the great-souled brahmanas, the performer of sacriﬁces obtained that end. However, he only worshipped the lord Hari, the great being. He was thus quickly freed from the curse and went to Brahma's world. I have told you everything about the origin of men. I will now tell you everything about how the rishi Narada went to Shvetadvipa. O king! Listen with single-minded attention.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O descendant of the Bharata lineage! He always worshipped Vishvaksena{1127}. He always worshipped him through mantras that had emerged from Narayana's mouth. O scorcher of enemies! Though he was in the hole in the ground, at ﬁve times of the day, he worshipped Hari, the lord of all gods, through the ﬁve sacriﬁces{1128}. The illustrious Narayana Hari was satisﬁed at his devotion. He was entirely devoted to him. He conquered his soul and was always faithful to him. In the presence of the best among brahmanas, the illustrious Vishnu, the granter of boons, smiled and spoke to the immensely swift Garuda, who was near him. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O supreme among birds! O greatly fortunate one! Listen to my words and go there. There is an emperor named Vasu. He has dharma in his soul and is devoted to me. Because of the wrath of the brahmanas, he has penetrated into the ground. The Indras among brahmanas have already been shown due respect. O supreme among birds! O Garuda! On my instruction, go to that hole in the ground. The best among kings can no longer travel up. Without any delay, bring him up into the sky.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The bird, Garuda, left, with a speed that was like that of the wind. He entered the hole in the ground and saved Vasu, as he had been asked to. Vinata's son violently rose up into the sky and quickly released him there. In a short instant, King Uparichara regained his senses. In his own body, the supreme among kings went to Brahma's world. O Kounteya! In this way, in his ignorance, he committed a fault in speech. Because of the curse of the great-souled brahmanas, the performer of sacriﬁces obtained that end. However, he only worshipped the lord Hari, the great being. He was thus quickly freed from the curse and went to Brahma's world. I have told you everything about the origin of men. I will now tell you everything about how the rishi Narada went to Shvetadvipa. O king! Listen with single-minded attention.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

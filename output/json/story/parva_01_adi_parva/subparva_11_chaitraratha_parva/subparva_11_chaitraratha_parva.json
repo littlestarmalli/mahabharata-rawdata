@@ -1,0 +1,160 @@
+{
+  "name": "Chaitraratha Parva",
+  "subparva_number": 11,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 21,
+    "num_shlokas": 557
+  },
+  "note": "The parva is named after Chitraratha, a gandharva, whose stories figure in this section.",
+  "chapters": {
+    "153": {
+      "chapter_number": 153,
+      "global_number": 153,
+      "local_number": 153,
+      "num_shlokas": 12,
+      "file": "subparva_11_chaitraratha_parva/chapter_153.json"
+    },
+    "154": {
+      "chapter_number": 154,
+      "global_number": 154,
+      "local_number": 154,
+      "num_shlokas": 25,
+      "file": "subparva_11_chaitraratha_parva/chapter_154.json"
+    },
+    "155": {
+      "chapter_number": 155,
+      "global_number": 155,
+      "local_number": 155,
+      "num_shlokas": 52,
+      "file": "subparva_11_chaitraratha_parva/chapter_155.json"
+    },
+    "156": {
+      "chapter_number": 156,
+      "global_number": 156,
+      "local_number": 156,
+      "num_shlokas": 11,
+      "file": "subparva_11_chaitraratha_parva/chapter_156.json"
+    },
+    "157": {
+      "chapter_number": 157,
+      "global_number": 157,
+      "local_number": 157,
+      "num_shlokas": 16,
+      "file": "subparva_11_chaitraratha_parva/chapter_157.json"
+    },
+    "158": {
+      "chapter_number": 158,
+      "global_number": 158,
+      "local_number": 158,
+      "num_shlokas": 55,
+      "file": "subparva_11_chaitraratha_parva/chapter_158.json"
+    },
+    "159": {
+      "chapter_number": 159,
+      "global_number": 159,
+      "local_number": 159,
+      "num_shlokas": 22,
+      "file": "subparva_11_chaitraratha_parva/chapter_159.json"
+    },
+    "160": {
+      "chapter_number": 160,
+      "global_number": 160,
+      "local_number": 160,
+      "num_shlokas": 41,
+      "file": "subparva_11_chaitraratha_parva/chapter_160.json"
+    },
+    "161": {
+      "chapter_number": 161,
+      "global_number": 161,
+      "local_number": 161,
+      "num_shlokas": 20,
+      "file": "subparva_11_chaitraratha_parva/chapter_161.json"
+    },
+    "162": {
+      "chapter_number": 162,
+      "global_number": 162,
+      "local_number": 162,
+      "num_shlokas": 18,
+      "file": "subparva_11_chaitraratha_parva/chapter_162.json"
+    },
+    "163": {
+      "chapter_number": 163,
+      "global_number": 163,
+      "local_number": 163,
+      "num_shlokas": 23,
+      "file": "subparva_11_chaitraratha_parva/chapter_163.json"
+    },
+    "164": {
+      "chapter_number": 164,
+      "global_number": 164,
+      "local_number": 164,
+      "num_shlokas": 14,
+      "file": "subparva_11_chaitraratha_parva/chapter_164.json"
+    },
+    "165": {
+      "chapter_number": 165,
+      "global_number": 165,
+      "local_number": 165,
+      "num_shlokas": 44,
+      "file": "subparva_11_chaitraratha_parva/chapter_165.json"
+    },
+    "166": {
+      "chapter_number": 166,
+      "global_number": 166,
+      "local_number": 166,
+      "num_shlokas": 45,
+      "file": "subparva_11_chaitraratha_parva/chapter_166.json"
+    },
+    "167": {
+      "chapter_number": 167,
+      "global_number": 167,
+      "local_number": 167,
+      "num_shlokas": 21,
+      "file": "subparva_11_chaitraratha_parva/chapter_167.json"
+    },
+    "168": {
+      "chapter_number": 168,
+      "global_number": 168,
+      "local_number": 168,
+      "num_shlokas": 25,
+      "file": "subparva_11_chaitraratha_parva/chapter_168.json"
+    },
+    "169": {
+      "chapter_number": 169,
+      "global_number": 169,
+      "local_number": 169,
+      "num_shlokas": 25,
+      "file": "subparva_11_chaitraratha_parva/chapter_169.json"
+    },
+    "170": {
+      "chapter_number": 170,
+      "global_number": 170,
+      "local_number": 170,
+      "num_shlokas": 21,
+      "file": "subparva_11_chaitraratha_parva/chapter_170.json"
+    },
+    "171": {
+      "chapter_number": 171,
+      "global_number": 171,
+      "local_number": 171,
+      "num_shlokas": 26,
+      "file": "subparva_11_chaitraratha_parva/chapter_171.json"
+    },
+    "172": {
+      "chapter_number": 172,
+      "global_number": 172,
+      "local_number": 172,
+      "num_shlokas": 17,
+      "file": "subparva_11_chaitraratha_parva/chapter_172.json"
+    },
+    "173": {
+      "chapter_number": 173,
+      "global_number": 173,
+      "local_number": 173,
+      "num_shlokas": 24,
+      "file": "subparva_11_chaitraratha_parva/chapter_173.json"
+    }
+  }
+}

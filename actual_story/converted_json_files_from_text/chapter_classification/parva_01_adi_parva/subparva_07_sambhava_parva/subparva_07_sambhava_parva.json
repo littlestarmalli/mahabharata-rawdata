@@ -1,0 +1,468 @@
+{
+  "name": "Sambhava Parva",
+  "subparva_number": 7,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 65,
+    "num_shlokas": 2394
+  },
+  "note": "This parva comprises 2394 shlokas and sixty-five chapters. The word sambhava means what can originate or be in existence. Hence, this parva is about the origins of the core story. It is one of the long-est parvas.",
+  "chapters": {
+    "59": {
+      "chapter_number": 59,
+      "global_number": 59,
+      "local_number": 59,
+      "num_shlokas": 54,
+      "file": "subparva_07_sambhava_parva/chapter_059.json"
+    },
+    "60": {
+      "chapter_number": 60,
+      "global_number": 60,
+      "local_number": 60,
+      "num_shlokas": 69,
+      "file": "subparva_07_sambhava_parva/chapter_060.json"
+    },
+    "61": {
+      "chapter_number": 61,
+      "global_number": 61,
+      "local_number": 61,
+      "num_shlokas": 102,
+      "file": "subparva_07_sambhava_parva/chapter_061.json"
+    },
+    "62": {
+      "chapter_number": 62,
+      "global_number": 62,
+      "local_number": 62,
+      "num_shlokas": 14,
+      "file": "subparva_07_sambhava_parva/chapter_062.json"
+    },
+    "63": {
+      "chapter_number": 63,
+      "global_number": 63,
+      "local_number": 63,
+      "num_shlokas": 26,
+      "file": "subparva_07_sambhava_parva/chapter_063.json"
+    },
+    "64": {
+      "chapter_number": 64,
+      "global_number": 64,
+      "local_number": 64,
+      "num_shlokas": 42,
+      "file": "subparva_07_sambhava_parva/chapter_064.json"
+    },
+    "65": {
+      "chapter_number": 65,
+      "global_number": 65,
+      "local_number": 65,
+      "num_shlokas": 42,
+      "file": "subparva_07_sambhava_parva/chapter_065.json"
+    },
+    "66": {
+      "chapter_number": 66,
+      "global_number": 66,
+      "local_number": 66,
+      "num_shlokas": 17,
+      "file": "subparva_07_sambhava_parva/chapter_066.json"
+    },
+    "67": {
+      "chapter_number": 67,
+      "global_number": 67,
+      "local_number": 67,
+      "num_shlokas": 33,
+      "file": "subparva_07_sambhava_parva/chapter_067.json"
+    },
+    "68": {
+      "chapter_number": 68,
+      "global_number": 68,
+      "local_number": 68,
+      "num_shlokas": 80,
+      "file": "subparva_07_sambhava_parva/chapter_068.json"
+    },
+    "69": {
+      "chapter_number": 69,
+      "global_number": 69,
+      "local_number": 69,
+      "num_shlokas": 51,
+      "file": "subparva_07_sambhava_parva/chapter_069.json"
+    },
+    "70": {
+      "chapter_number": 70,
+      "global_number": 70,
+      "local_number": 70,
+      "num_shlokas": 46,
+      "file": "subparva_07_sambhava_parva/chapter_070.json"
+    },
+    "71": {
+      "chapter_number": 71,
+      "global_number": 71,
+      "local_number": 71,
+      "num_shlokas": 58,
+      "file": "subparva_07_sambhava_parva/chapter_071.json"
+    },
+    "72": {
+      "chapter_number": 72,
+      "global_number": 72,
+      "local_number": 72,
+      "num_shlokas": 23,
+      "file": "subparva_07_sambhava_parva/chapter_072.json"
+    },
+    "73": {
+      "chapter_number": 73,
+      "global_number": 73,
+      "local_number": 73,
+      "num_shlokas": 36,
+      "file": "subparva_07_sambhava_parva/chapter_073.json"
+    },
+    "74": {
+      "chapter_number": 74,
+      "global_number": 74,
+      "local_number": 74,
+      "num_shlokas": 12,
+      "file": "subparva_07_sambhava_parva/chapter_074.json"
+    },
+    "75": {
+      "chapter_number": 75,
+      "global_number": 75,
+      "local_number": 75,
+      "num_shlokas": 25,
+      "file": "subparva_07_sambhava_parva/chapter_075.json"
+    },
+    "76": {
+      "chapter_number": 76,
+      "global_number": 76,
+      "local_number": 76,
+      "num_shlokas": 35,
+      "file": "subparva_07_sambhava_parva/chapter_076.json"
+    },
+    "77": {
+      "chapter_number": 77,
+      "global_number": 77,
+      "local_number": 77,
+      "num_shlokas": 27,
+      "file": "subparva_07_sambhava_parva/chapter_077.json"
+    },
+    "78": {
+      "chapter_number": 78,
+      "global_number": 78,
+      "local_number": 78,
+      "num_shlokas": 41,
+      "file": "subparva_07_sambhava_parva/chapter_078.json"
+    },
+    "79": {
+      "chapter_number": 79,
+      "global_number": 79,
+      "local_number": 79,
+      "num_shlokas": 30,
+      "file": "subparva_07_sambhava_parva/chapter_079.json"
+    },
+    "80": {
+      "chapter_number": 80,
+      "global_number": 80,
+      "local_number": 80,
+      "num_shlokas": 27,
+      "file": "subparva_07_sambhava_parva/chapter_080.json"
+    },
+    "81": {
+      "chapter_number": 81,
+      "global_number": 81,
+      "local_number": 81,
+      "num_shlokas": 16,
+      "file": "subparva_07_sambhava_parva/chapter_081.json"
+    },
+    "82": {
+      "chapter_number": 82,
+      "global_number": 82,
+      "local_number": 82,
+      "num_shlokas": 13,
+      "file": "subparva_07_sambhava_parva/chapter_082.json"
+    },
+    "83": {
+      "chapter_number": 83,
+      "global_number": 83,
+      "local_number": 83,
+      "num_shlokas": 13,
+      "file": "subparva_07_sambhava_parva/chapter_083.json"
+    },
+    "84": {
+      "chapter_number": 84,
+      "global_number": 84,
+      "local_number": 84,
+      "num_shlokas": 21,
+      "file": "subparva_07_sambhava_parva/chapter_084.json"
+    },
+    "85": {
+      "chapter_number": 85,
+      "global_number": 85,
+      "local_number": 85,
+      "num_shlokas": 27,
+      "file": "subparva_07_sambhava_parva/chapter_085.json"
+    },
+    "86": {
+      "chapter_number": 86,
+      "global_number": 86,
+      "local_number": 86,
+      "num_shlokas": 17,
+      "file": "subparva_07_sambhava_parva/chapter_086.json"
+    },
+    "87": {
+      "chapter_number": 87,
+      "global_number": 87,
+      "local_number": 87,
+      "num_shlokas": 18,
+      "file": "subparva_07_sambhava_parva/chapter_087.json"
+    },
+    "88": {
+      "chapter_number": 88,
+      "global_number": 88,
+      "local_number": 88,
+      "num_shlokas": 26,
+      "file": "subparva_07_sambhava_parva/chapter_088.json"
+    },
+    "89": {
+      "chapter_number": 89,
+      "global_number": 89,
+      "local_number": 89,
+      "num_shlokas": 55,
+      "file": "subparva_07_sambhava_parva/chapter_089.json"
+    },
+    "90": {
+      "chapter_number": 90,
+      "global_number": 90,
+      "local_number": 90,
+      "num_shlokas": 96,
+      "file": "subparva_07_sambhava_parva/chapter_090.json"
+    },
+    "91": {
+      "chapter_number": 91,
+      "global_number": 91,
+      "local_number": 91,
+      "num_shlokas": 22,
+      "file": "subparva_07_sambhava_parva/chapter_091.json"
+    },
+    "92": {
+      "chapter_number": 92,
+      "global_number": 92,
+      "local_number": 92,
+      "num_shlokas": 55,
+      "file": "subparva_07_sambhava_parva/chapter_092.json"
+    },
+    "93": {
+      "chapter_number": 93,
+      "global_number": 93,
+      "local_number": 93,
+      "num_shlokas": 46,
+      "file": "subparva_07_sambhava_parva/chapter_093.json"
+    },
+    "94": {
+      "chapter_number": 94,
+      "global_number": 94,
+      "local_number": 94,
+      "num_shlokas": 94,
+      "file": "subparva_07_sambhava_parva/chapter_094.json"
+    },
+    "95": {
+      "chapter_number": 95,
+      "global_number": 95,
+      "local_number": 95,
+      "num_shlokas": 14,
+      "file": "subparva_07_sambhava_parva/chapter_095.json"
+    },
+    "96": {
+      "chapter_number": 96,
+      "global_number": 96,
+      "local_number": 96,
+      "num_shlokas": 59,
+      "file": "subparva_07_sambhava_parva/chapter_096.json"
+    },
+    "97": {
+      "chapter_number": 97,
+      "global_number": 97,
+      "local_number": 97,
+      "num_shlokas": 26,
+      "file": "subparva_07_sambhava_parva/chapter_097.json"
+    },
+    "98": {
+      "chapter_number": 98,
+      "global_number": 98,
+      "local_number": 98,
+      "num_shlokas": 33,
+      "file": "subparva_07_sambhava_parva/chapter_098.json"
+    },
+    "99": {
+      "chapter_number": 99,
+      "global_number": 99,
+      "local_number": 99,
+      "num_shlokas": 49,
+      "file": "subparva_07_sambhava_parva/chapter_099.json"
+    },
+    "100": {
+      "chapter_number": 100,
+      "global_number": 100,
+      "local_number": 100,
+      "num_shlokas": 30,
+      "file": "subparva_07_sambhava_parva/chapter_100.json"
+    },
+    "101": {
+      "chapter_number": 101,
+      "global_number": 101,
+      "local_number": 101,
+      "num_shlokas": 28,
+      "file": "subparva_07_sambhava_parva/chapter_101.json"
+    },
+    "102": {
+      "chapter_number": 102,
+      "global_number": 102,
+      "local_number": 102,
+      "num_shlokas": 23,
+      "file": "subparva_07_sambhava_parva/chapter_102.json"
+    },
+    "103": {
+      "chapter_number": 103,
+      "global_number": 103,
+      "local_number": 103,
+      "num_shlokas": 17,
+      "file": "subparva_07_sambhava_parva/chapter_103.json"
+    },
+    "104": {
+      "chapter_number": 104,
+      "global_number": 104,
+      "local_number": 104,
+      "num_shlokas": 21,
+      "file": "subparva_07_sambhava_parva/chapter_104.json"
+    },
+    "105": {
+      "chapter_number": 105,
+      "global_number": 105,
+      "local_number": 105,
+      "num_shlokas": 27,
+      "file": "subparva_07_sambhava_parva/chapter_105.json"
+    },
+    "106": {
+      "chapter_number": 106,
+      "global_number": 106,
+      "local_number": 106,
+      "num_shlokas": 14,
+      "file": "subparva_07_sambhava_parva/chapter_106.json"
+    },
+    "107": {
+      "chapter_number": 107,
+      "global_number": 107,
+      "local_number": 107,
+      "num_shlokas": 37,
+      "file": "subparva_07_sambhava_parva/chapter_107.json"
+    },
+    "108": {
+      "chapter_number": 108,
+      "global_number": 108,
+      "local_number": 108,
+      "num_shlokas": 18,
+      "file": "subparva_07_sambhava_parva/chapter_108.json"
+    },
+    "109": {
+      "chapter_number": 109,
+      "global_number": 109,
+      "local_number": 109,
+      "num_shlokas": 31,
+      "file": "subparva_07_sambhava_parva/chapter_109.json"
+    },
+    "110": {
+      "chapter_number": 110,
+      "global_number": 110,
+      "local_number": 110,
+      "num_shlokas": 45,
+      "file": "subparva_07_sambhava_parva/chapter_110.json"
+    },
+    "111": {
+      "chapter_number": 111,
+      "global_number": 111,
+      "local_number": 111,
+      "num_shlokas": 36,
+      "file": "subparva_07_sambhava_parva/chapter_111.json"
+    },
+    "112": {
+      "chapter_number": 112,
+      "global_number": 112,
+      "local_number": 112,
+      "num_shlokas": 34,
+      "file": "subparva_07_sambhava_parva/chapter_112.json"
+    },
+    "113": {
+      "chapter_number": 113,
+      "global_number": 113,
+      "local_number": 113,
+      "num_shlokas": 43,
+      "file": "subparva_07_sambhava_parva/chapter_113.json"
+    },
+    "114": {
+      "chapter_number": 114,
+      "global_number": 114,
+      "local_number": 114,
+      "num_shlokas": 66,
+      "file": "subparva_07_sambhava_parva/chapter_114.json"
+    },
+    "115": {
+      "chapter_number": 115,
+      "global_number": 115,
+      "local_number": 115,
+      "num_shlokas": 28,
+      "file": "subparva_07_sambhava_parva/chapter_115.json"
+    },
+    "116": {
+      "chapter_number": 116,
+      "global_number": 116,
+      "local_number": 116,
+      "num_shlokas": 31,
+      "file": "subparva_07_sambhava_parva/chapter_116.json"
+    },
+    "117": {
+      "chapter_number": 117,
+      "global_number": 117,
+      "local_number": 117,
+      "num_shlokas": 33,
+      "file": "subparva_07_sambhava_parva/chapter_117.json"
+    },
+    "118": {
+      "chapter_number": 118,
+      "global_number": 118,
+      "local_number": 118,
+      "num_shlokas": 30,
+      "file": "subparva_07_sambhava_parva/chapter_118.json"
+    },
+    "119": {
+      "chapter_number": 119,
+      "global_number": 119,
+      "local_number": 119,
+      "num_shlokas": 43,
+      "file": "subparva_07_sambhava_parva/chapter_119.json"
+    },
+    "120": {
+      "chapter_number": 120,
+      "global_number": 120,
+      "local_number": 120,
+      "num_shlokas": 21,
+      "file": "subparva_07_sambhava_parva/chapter_120.json"
+    },
+    "121": {
+      "chapter_number": 121,
+      "global_number": 121,
+      "local_number": 121,
+      "num_shlokas": 23,
+      "file": "subparva_07_sambhava_parva/chapter_121.json"
+    },
+    "122": {
+      "chapter_number": 122,
+      "global_number": 122,
+      "local_number": 122,
+      "num_shlokas": 47,
+      "file": "subparva_07_sambhava_parva/chapter_122.json"
+    },
+    "123": {
+      "chapter_number": 123,
+      "global_number": 123,
+      "local_number": 123,
+      "num_shlokas": 78,
+      "file": "subparva_07_sambhava_parva/chapter_123.json"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "chapter": 866,
+  "local": 6,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “O Sanjaya! O one who knows about the measure of different things! Tell me about the names and the measures of rivers, mountains, places inhabited by people, everything else on earth and forests. O Sanjaya! Tell me everything.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! O one who knows about the measure of different things! Tell me about the names and the measures of rivers, mountains, places inhabited by people, everything else on earth and forests. O Sanjaya! Tell me everything.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O great king! Because everything in the earth is based on the ﬁve universal constituents, the learned regard all of them as equal. These are bhumi, apa, vayu, agni and akasha. Each of them does not possess a quality from the preceding one. Therefore, bhumi is the foremost, as has been said by the rishis who know the truth about the qualities. These are sound, touch, sight and taste, with smell as the ﬁfth{50}. O king! There are four qualities in apa, it does not possess smell. There are three qualities in tejas—sound, touch and sight. Vayu has sound and touch, while akasha has only sound. O king! These ﬁve qualities exist in the ﬁve constituents of matter, and beings in all the worlds are established on them. When there is homogeneity, they exist separately and independently{51}. When they do not exist in their natural state, they depend on each other and embodied beings are created. There is no exception to this. They are destroyed, with the one that succeeds merging into the one that precedes it. They are created in that way too, with each resulting from the one that precedes it{52}. All of them cannot be measured. Their forms are those of the lord himself{53}. Beings consisting of the ﬁve bhutas are seen in the universe. Men use reason to try and identify their measure{54}. But these are things that cannot be thought of. They cannot be fathomed through reason. They are beyond nature and this is a sign that they are inconceivable. O descendant of the Kuru lineage! I will now tell you about the island named Sudarshana{55}. O great king! This island is circular and in the form of a wheel. It is full of rivers and other waterbodies. It has mountains that look like masses of clouds. It has cities of different types and beautiful countries. It has trees laden with ﬂowers and fruits and is prosperous, with riches and crops. It is surrounded in every direction by the salty ocean. Just as a man can see his own face in a mirror, the island Sudarshana can be seen in the disc of the moon. Two of its parts look like the pippala{56} and two others look like a large hare. It is surrounded on all sides with every kind of medicinal plants. Besides this, everything else is water, and listen as I brieﬂy describe this to you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! Because everything in the earth is based on the ﬁve universal constituents, the learned regard all of them as equal. These are bhumi, apa, vayu, agni and akasha. Each of them does not possess a quality from the preceding one. Therefore, bhumi is the foremost, as has been said by the rishis who know the truth about the qualities. These are sound, touch, sight and taste, with smell as the ﬁfth{50}. O king! There are four qualities in apa, it does not possess smell. There are three qualities in tejas—sound, touch and sight. Vayu has sound and touch, while akasha has only sound. O king! These ﬁve qualities exist in the ﬁve constituents of matter, and beings in all the worlds are established on them. When there is homogeneity, they exist separately and independently{51}. When they do not exist in their natural state, they depend on each other and embodied beings are created. There is no exception to this. They are destroyed, with the one that succeeds merging into the one that precedes it. They are created in that way too, with each resulting from the one that precedes it{52}. All of them cannot be measured. Their forms are those of the lord himself{53}. Beings consisting of the ﬁve bhutas are seen in the universe. Men use reason to try and identify their measure{54}. But these are things that cannot be thought of. They cannot be fathomed through reason. They are beyond nature and this is a sign that they are inconceivable. O descendant of the Kuru lineage! I will now tell you about the island named Sudarshana{55}. O great king! This island is circular and in the form of a wheel. It is full of rivers and other waterbodies. It has mountains that look like masses of clouds. It has cities of different types and beautiful countries. It has trees laden with ﬂowers and fruits and is prosperous, with riches and crops. It is surrounded in every direction by the salty ocean. Just as a man can see his own face in a mirror, the island Sudarshana can be seen in the disc of the moon. Two of its parts look like the pippala{56} and two others look like a large hare. It is surrounded on all sides with every kind of medicinal plants. Besides this, everything else is water, and listen as I brieﬂy describe this to you.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nested Dialogue Structure — Infographic</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f8f9fb;
+  color: #2d3748;
+  padding: 40px 20px;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+  padding: 48px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a202c;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 15px;
+  color: #718096;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 32px;
+}
+
+.section {
+  background: #fafbfc;
+  border-radius: 14px;
+  padding: 28px;
+  border: 1px solid #e8ecf1;
+}
+
+.section-title {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: #a0aec0;
+  margin-bottom: 20px;
+}
+
+/* ─── LEFT: Visual Blocks ─── */
+
+.block {
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 0;
+  position: relative;
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+.block .label {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  opacity: 0.7;
+  margin-bottom: 6px;
+}
+
+.block .text {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.block .text em { font-style: normal; opacity: 0.6; }
+
+/* Level 0 — Narration */
+.l0 {
+  background: rgba(126,184,247,0.10);
+  border-left: 4px solid #7EB8F7;
+  color: #2b6cb0;
+}
+
+/* Level 1 — Speech */
+.l1 {
+  background: rgba(45,106,79,0.08);
+  border-left: 4px solid #2D6A4F;
+  color: #22543d;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+/* Level 1 alt */
+.l1b {
+  background: rgba(139,105,20,0.08);
+  border-left: 4px solid #8B6914;
+  color: #744210;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+/* Level 2 — Inner Speech */
+.l2 {
+  background: rgba(224,122,95,0.10);
+  border-left: 4px solid #E07A5F;
+  color: #9b2c2c;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+/* Level 3 — Deepest */
+.l3 {
+  background: rgba(108,92,231,0.10);
+  border-left: 4px solid #6C5CE7;
+  color: #44337a;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+.arrow-down {
+  text-align: center;
+  color: #cbd5e0;
+  font-size: 18px;
+  margin: 4px 0;
+}
+
+.nested-in {
+  padding: 12px;
+  padding-bottom: 14px;
+}
+
+/* ─── CENTER: HTML Code ─── */
+
+.code-block {
+  background: #1a1f36;
+  border-radius: 10px;
+  padding: 20px;
+  overflow-x: auto;
+  font-family: 'Fira Code', 'Consolas', monospace;
+  font-size: 12px;
+  line-height: 1.7;
+  color: #e2e8f0;
+}
+
+.code-block .tag { color: #7EB8F7; }
+.code-block .attr { color: #F6AD55; }
+.code-block .str { color: #68D391; }
+.code-block .txt { color: #E2E8F0; opacity: 0.7; }
+.code-block .cmt { color: #718096; font-style: italic; }
+
+.indent1 { padding-left: 20px; }
+.indent2 { padding-left: 40px; }
+.indent3 { padding-left: 60px; }
+.indent4 { padding-left: 80px; }
+.indent5 { padding-left: 100px; }
+
+/* ─── RIGHT: Legend ─── */
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.legend-color {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.legend-text {
+  font-size: 13.5px;
+  font-weight: 500;
+}
+
+.legend-desc {
+  font-size: 12px;
+  color: #a0aec0;
+  font-weight: 400;
+}
+
+.rules {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid #e8ecf1;
+}
+
+.rules h4 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #4a5568;
+  margin-bottom: 12px;
+}
+
+.rules li {
+  font-size: 12.5px;
+  color: #4a5568;
+  margin-bottom: 8px;
+  line-height: 1.5;
+  list-style: none;
+  padding-left: 16px;
+  position: relative;
+}
+
+.rules li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #a0aec0;
+}
+
+.tree {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid #e8ecf1;
+}
+
+.tree h4 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #4a5568;
+  margin-bottom: 12px;
+}
+
+.tree-diagram {
+  font-family: 'Fira Code', monospace;
+  font-size: 12.5px;
+  line-height: 1.8;
+  color: #4a5568;
+  background: #f7f8fa;
+  border-radius: 8px;
+  padding: 14px 18px;
+}
+
+.tree-diagram .t0 { color: #2b6cb0; font-weight: 600; }
+.tree-diagram .t1 { color: #22543d; font-weight: 600; }
+.tree-diagram .t1b { color: #744210; font-weight: 600; }
+.tree-diagram .t2 { color: #E07A5F; font-weight: 600; }
+.tree-diagram .t3 { color: #6C5CE7; font-weight: 600; }
+.tree-diagram .branch { color: #cbd5e0; }
+
+/* ─── BOTTOM: Full Example ─── */
+
+.full-example {
+  margin-top: 32px;
+  background: #fafbfc;
+  border-radius: 14px;
+  padding: 28px;
+  border: 1px solid #e8ecf1;
+}
+
+.full-example .section-title { margin-bottom: 16px; }
+
+.example-flow {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>Nested Dialogue Structure</h1>
+<p class="subtitle">How narration → speech → inner speech forms a visual hierarchy in HTML</p>
+
+<div class="grid">
+
+<!-- ════════ LEFT: Visual Structure ════════ -->
+<div class="section">
+  <div class="section-title">Visual Structure</div>
+
+  <div class="block l0">
+    <div class="label">Level 0 · Narration</div>
+    <div class="text">Souti said,</div>
+  </div>
+
+  <div class="block l1">
+    <div class="label">Level 1 · Speech (Souti's frame)</div>
+    <div class="text">'O one blessed with austerities! <em>...told his sister,</em></div>
+
+    <div class="block l1b" style="margin-top:10px">
+      <div class="label">Level 2 · Speech (Vasuki)</div>
+      <div class="text">"O fortunate one! <em>...pull out the terrible stake...in my heart."</em></div>
+    </div>
+  </div>
+
+  <div class="block l1">
+    <div class="label">Level 1 · Speech (Souti continues)</div>
+    <div class="text"><em>Being thus asked, Jaratkaru...and said,</em></div>
+
+    <div class="block l1b" style="margin-top:10px">
+      <div class="label">Level 2 · Speech (Jaratkaru)</div>
+      <div class="text">"I asked...He said,</div>
+
+      <div class="block l2" style="margin-top:10px">
+        <div class="label">Level 3 · Speech (quoting husband)</div>
+        <div class="text">'O snake woman! <em>...born to you.'</em></div>
+      </div>
+
+      <div style="margin-top:8px;font-size:13px;opacity:0.8">
+        O brother! <em>...Let the great distress...be removed."</em>
+      </div>
+    </div>
+  </div>
+
+  <div class="block l1">
+    <div class="label">Level 1 · Speech (Souti)</div>
+    <div class="text"><em>On hearing this, Vasuki...was delighted.'</em></div>
+  </div>
+</div>
+
+<!-- ════════ CENTER: HTML Code ════════ -->
+<div class="section">
+  <div class="section-title">HTML Structure</div>
+
+  <div class="code-block">
+    <div><span class="cmt">&lt;!-- Level 0: Narration --&gt;</span></div>
+    <div><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-0 narration"</span><span class="tag">&gt;</span></div>
+    <div class="indent1"><span class="txt">Souti said,</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent1"><span class="cmt">&lt;!-- Level 1: Souti's frame --&gt;</span></div>
+    <div class="indent1"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-1 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent2"><span class="txt">'O one blessed...told his sister,</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent2"><span class="cmt">&lt;!-- Level 2: Vasuki speaks --&gt;</span></div>
+    <div class="indent2"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-2 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent3"><span class="txt">"O fortunate one!...heart."</span></div>
+    <div class="indent2"><span class="tag">&lt;/div&gt;</span></div>
+    <div class="indent1"><span class="tag">&lt;/div&gt;</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent1"><span class="cmt">&lt;!-- Level 1: Souti continues --&gt;</span></div>
+    <div class="indent1"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-1 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent2"><span class="txt">Being thus asked...said,</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent2"><span class="cmt">&lt;!-- Level 2: Jaratkaru --&gt;</span></div>
+    <div class="indent2"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-2 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent3"><span class="txt">"I asked...He said,</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent3"><span class="cmt">&lt;!-- Level 3: Quote --&gt;</span></div>
+    <div class="indent3"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-3 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent4"><span class="txt">'O snake woman!...you.'</span></div>
+    <div class="indent3"><span class="tag">&lt;/div&gt;</span></div>
+    <div>&nbsp;</div>
+    <div class="indent3"><span class="txt">O brother!...removed."</span></div>
+    <div class="indent2"><span class="tag">&lt;/div&gt;</span></div>
+    <div class="indent1"><span class="tag">&lt;/div&gt;</span></div>
+    <div>&nbsp;</div>
+
+    <div class="indent1"><span class="cmt">&lt;!-- Level 1: Back to Souti --&gt;</span></div>
+    <div class="indent1"><span class="tag">&lt;div</span> <span class="attr">class=</span><span class="str">"level-1 speech"</span><span class="tag">&gt;</span></div>
+    <div class="indent2"><span class="txt">On hearing this, Vasuki...'</span></div>
+    <div class="indent1"><span class="tag">&lt;/div&gt;</span></div>
+    <div><span class="tag">&lt;/div&gt;</span></div>
+  </div>
+</div>
+
+<!-- ════════ RIGHT: Legend + Explanation ════════ -->
+<div class="section">
+  <div class="section-title">Legend &amp; Hierarchy</div>
+
+  <div class="legend-item">
+    <div class="legend-color" style="background:rgba(126,184,247,0.25);border:2px solid #7EB8F7"></div>
+    <div>
+      <div class="legend-text">Level 0 — Narration</div>
+      <div class="legend-desc">Author's voice / frame intro</div>
+    </div>
+  </div>
+
+  <div class="legend-item">
+    <div class="legend-color" style="background:rgba(45,106,79,0.15);border:2px solid #2D6A4F"></div>
+    <div>
+      <div class="legend-text">Level 1 — Speech (Primary)</div>
+      <div class="legend-desc">Souti / Vaishampayana frame</div>
+    </div>
+  </div>
+
+  <div class="legend-item">
+    <div class="legend-color" style="background:rgba(139,105,20,0.15);border:2px solid #8B6914"></div>
+    <div>
+      <div class="legend-text">Level 2 — Speech (Character)</div>
+      <div class="legend-desc">Character dialog within frame</div>
+    </div>
+  </div>
+
+  <div class="legend-item">
+    <div class="legend-color" style="background:rgba(224,122,95,0.15);border:2px solid #E07A5F"></div>
+    <div>
+      <div class="legend-text">Level 3 — Inner Speech</div>
+      <div class="legend-desc">Quote within a quote</div>
+    </div>
+  </div>
+
+  <div class="legend-item">
+    <div class="legend-color" style="background:rgba(108,92,231,0.15);border:2px solid #6C5CE7"></div>
+    <div>
+      <div class="legend-text">Level 4+ — Deeper</div>
+      <div class="legend-desc">Further nested quotes</div>
+    </div>
+  </div>
+
+  <div class="rules">
+    <h4>Nesting Rules</h4>
+    <ul>
+      <li>Narration contains speech blocks</li>
+      <li>Speech can contain inner speech</li>
+      <li>Quote marks alternate: <code style="font-family:'Fira Code',monospace;font-size:11px;background:#f0f0f0;padding:1px 4px;border-radius:3px">' → " → ' → "</code></li>
+      <li>Each level = one deeper quote</li>
+      <li>Parent-child hierarchy forms a tree</li>
+      <li>Text after inner quote closes still belongs to the parent speech</li>
+    </ul>
+  </div>
+
+  <div class="tree">
+    <h4>Tree Diagram</h4>
+    <div class="tree-diagram">
+      <div><span class="t0">Level 0 — Narration</span></div>
+      <div><span class="branch">├── </span><span class="t1">Level 1 — Souti's speech</span></div>
+      <div><span class="branch">│   ├── </span><span class="t1b">Level 2 — Vasuki</span></div>
+      <div><span class="branch">│   │</span></div>
+      <div><span class="branch">├── </span><span class="t1">Level 1 — Souti (cont.)</span></div>
+      <div><span class="branch">│   ├── </span><span class="t1b">Level 2 — Jaratkaru</span></div>
+      <div><span class="branch">│   │   └── </span><span class="t2">Level 3 — Husband</span></div>
+      <div><span class="branch">│   │</span></div>
+      <div><span class="branch">└── </span><span class="t1">Level 1 — Souti (end)</span></div>
+    </div>
+  </div>
+</div>
+
+</div><!-- grid -->
+
+<!-- ════════ BOTTOM: Quote Depth Pattern ════════ -->
+<div class="full-example" style="margin-top:32px">
+  <div class="section-title">Quote Depth Pattern — How ' and " Alternate</div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px">
+    <div>
+      <div style="font-size:13px;color:#718096;margin-bottom:12px;font-weight:500">Depth progression:</div>
+      <div style="font-family:'Fira Code',monospace;font-size:13px;line-height:2.2">
+        <div>
+          <span style="display:inline-block;width:90px;color:#718096">Depth 0:</span>
+          <span style="color:#2b6cb0">plain text</span>
+          <span style="color:#a0aec0">← author narration</span>
+        </div>
+        <div>
+          <span style="display:inline-block;width:90px;color:#718096">Depth 1:</span>
+          <span style="color:#22543d;font-weight:600">'</span><span style="color:#22543d">...text...</span><span style="color:#22543d;font-weight:600">'</span>
+          <span style="color:#a0aec0">← single quotes</span>
+        </div>
+        <div>
+          <span style="display:inline-block;width:90px;color:#718096">Depth 2:</span>
+          <span style="color:#744210;font-weight:600">"</span><span style="color:#744210">...text...</span><span style="color:#744210;font-weight:600">"</span>
+          <span style="color:#a0aec0">← double quotes</span>
+        </div>
+        <div>
+          <span style="display:inline-block;width:90px;color:#718096">Depth 3:</span>
+          <span style="color:#E07A5F;font-weight:600">'</span><span style="color:#E07A5F">...text...</span><span style="color:#E07A5F;font-weight:600">'</span>
+          <span style="color:#a0aec0">← single again</span>
+        </div>
+        <div>
+          <span style="display:inline-block;width:90px;color:#718096">Depth 4:</span>
+          <span style="color:#6C5CE7;font-weight:600">"</span><span style="color:#6C5CE7">...text...</span><span style="color:#6C5CE7;font-weight:600">"</span>
+          <span style="color:#a0aec0">← double again</span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div style="font-size:13px;color:#718096;margin-bottom:12px;font-weight:500">Key insight:</div>
+      <div style="font-size:13px;line-height:1.7;color:#4a5568">
+        <p style="margin-bottom:10px">The Mahabharata text uses <strong>curly quotes</strong> as structural markers:</p>
+        <div style="background:#f7f8fa;border-radius:8px;padding:14px;font-family:'Fira Code',monospace;font-size:12px;line-height:1.8">
+          <span style="color:#22543d;font-size:16px">\u2018</span> opens depth +1 (single)<br>
+          <span style="color:#22543d;font-size:16px">\u2019</span> closes depth −1 (single)<br>
+          <span style="color:#744210;font-size:16px">\u201c</span> opens depth +1 (double)<br>
+          <span style="color:#744210;font-size:16px">\u201d</span> closes depth −1 (double)
+        </div>
+        <p style="margin-top:10px">Every opening quote <strong>pushes</strong> a new speech depth. Every closing quote <strong>pops</strong> back to the parent. Text between inner close and outer close is <strong>still the parent's speech</strong>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div><!-- container -->
+</body>
+</html>

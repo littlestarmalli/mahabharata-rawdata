@@ -1,0 +1,18 @@
+Volume 2 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   2
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              2
+
+
+──────────────────────────────────────────────────────────────────────
+Section [27] Dyuta Parva  (chapters 268–290)
+  Refs: 245   Defs: 247
+
+  CASE B — 2 orphan(s):
+    fn 48
+    fn 108
+
+  CASE D — ref sequence gaps: [48, 108]

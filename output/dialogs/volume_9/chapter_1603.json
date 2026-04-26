@@ -1,0 +1,155 @@
+{
+  "chapter": 1603,
+  "local": 275,
+  "shlokas": 21,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O grandfather! Creatures are always terriﬁed of sorrow and misery and death. O grandfathe Tell me how both of these can be prevented.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandfather! Creatures are always terriﬁed of sorrow and misery and death. O grandfathe Tell me how both of these can be prevented.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O descendant of the Bharata lineage! In this connection, there is an ancient history about a conversation between Narada and Samanga.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! In this connection, there is an ancient history about a conversation between Narada and Samanga.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Narada said, ‘You bow down with your chest and cross with your arms{676}. You are always cheerful and are seen to be without sorrow. One cannot discern the slightest bit of anxiety in you. You are always content and satisﬁed and seem to be like a child in your endeavours.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Narada said, ",
+          "speaker": "@bhishma",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You bow down with your chest and cross with your arms{676}. You are always cheerful and are seen to be without sorrow. One cannot discern the slightest bit of anxiety in you. You are always content and satisﬁed and seem to be like a child in your endeavours.’",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Samanga replied, ‘O one who grants honours! I know the truth about the past, the present and the future. Since I know the truth about these, I am never distressed. I also know about how exertions result and their fruits. There are many different kinds of fruits. Therefore, I am never distressed. O Narada! Behold. Those who are unfathomable in destitution, those who are not healthy and those who are blind and dumb are also alive. They are seen to live. It has been ordained that the residents of heaven should have no disease in their limbs. The strong and the weak are also thus created{677}. A person who rules over thousands is alive. A person who rules over hundreds is also alive. There are others who sustain themselves only on vegetables. Behold. I am also alive. O Narada! I do not grieve. What use do I have for dharma or deeds? One comes under the control of happiness that results from deeds and it is only misery that grows. When a person realizes that wisdom is actually the foundation of all the gratiﬁcation of the senses, such a man is said to be wise. The senses cause confusion and sorrow. If a person is confounded because of the senses, such a person cannot obtain wisdom. A foolish person also suffers from pride and delusion. There is no world here, or in the hereafter, for a foolish person. Misery does not last forever. Any happiness obtained is also not eternal. Since I know that everything created is always changeable, a person like me never suffers from fever. I do not care for objects of desire or the happiness that results from possessions. Nor do I think about any unhappiness that may befall. I am controlled and do not desire the possessions of others. I do not bother about what has not been obtained. Nor do I ﬁnd delight in what has been obtained. I am not delighted at obtaining a great deal of riches. Nor am I distressed if riches are destroyed. Relatives, riches, noble birth, learning, mantras and valour are incapable of saving one from miseries and they have to be tolerated. Good conduct alone can bring peace in the world hereafter. If a person does not possess intelligence or yoga, he cannot obtain happiness. There cannot be any happiness without both fortitude and the abandoning of misery. Anything that brings delight is pleasant. But delight also increases pride. Pride leads to hell. That is the reason I have discarded these. Sorrow and fear cause delusion and so do pleasure and pain. I may move around in my body. But I look upon all these as an indifferent witness. I have abandoned all desire for riches. I am bereft of sorrow and bereft of fever. I roam around the entire earth, having discarded thirst and confusion. There is no death. There is no adharma. Where will greed come from? I have drunk amrita. I have no fear in this world and in the next. Because of the great and undecaying austerities that I have performed, I have got to know the brahman. O Narada! Having obtained that, there is no grief that can constrain me.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Samanga replied, ",
+          "speaker": "@bhishma",
+          "introduces": "samanga",
+          "introduces_label": "Samanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one who grants honours! I know the truth about the past, the present and the future. Since I know the truth about these, I am never distressed. I also know about how exertions result and their fruits. There are many different kinds of fruits. Therefore, I am never distressed. O Narada! Behold. Those who are unfathomable in destitution, those who are not healthy and those who are blind and dumb are also alive. They are seen to live. It has been ordained that the residents of heaven should have no disease in their limbs. The strong and the weak are also thus created{677}. A person who rules over thousands is alive. A person who rules over hundreds is also alive. There are others who sustain themselves only on vegetables. Behold. I am also alive. O Narada! I do not grieve. What use do I have for dharma or deeds? One comes under the control of happiness that results from deeds and it is only misery that grows. When a person realizes that wisdom is actually the foundation of all the gratiﬁcation of the senses, such a man is said to be wise. The senses cause confusion and sorrow. If a person is confounded because of the senses, such a person cannot obtain wisdom. A foolish person also suffers from pride and delusion. There is no world here, or in the hereafter, for a foolish person. Misery does not last forever. Any happiness obtained is also not eternal. Since I know that everything created is always changeable, a person like me never suffers from fever. I do not care for objects of desire or the happiness that results from possessions. Nor do I think about any unhappiness that may befall. I am controlled and do not desire the possessions of others. I do not bother about what has not been obtained. Nor do I ﬁnd delight in what has been obtained. I am not delighted at obtaining a great deal of riches. Nor am I distressed if riches are destroyed. Relatives, riches, noble birth, learning, mantras and valour are incapable of saving one from miseries and they have to be tolerated. Good conduct alone can bring peace in the world hereafter. If a person does not possess intelligence or yoga, he cannot obtain happiness. There cannot be any happiness without both fortitude and the abandoning of misery. Anything that brings delight is pleasant. But delight also increases pride. Pride leads to hell. That is the reason I have discarded these. Sorrow and fear cause delusion and so do pleasure and pain. I may move around in my body. But I look upon all these as an indifferent witness. I have abandoned all desire for riches. I am bereft of sorrow and bereft of fever. I roam around the entire earth, having discarded thirst and confusion. There is no death. There is no adharma. Where will greed come from? I have drunk amrita. I have no fear in this world and in the next. Because of the great and undecaying austerities that I have performed, I have got to know the brahman. O Narada! Having obtained that, there is no grief that can constrain me.’",
+          "speaker": "samanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

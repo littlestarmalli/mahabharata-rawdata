@@ -1,0 +1,248 @@
+{
+  "chapter": 1748,
+  "local": 67,
+  "shlokas": 33,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “Tell me again about gifts of sesamum, lamps, food and garments.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Tell me again about gifts of sesamum, lamps, food and garments.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O Yudhishthira! In this connection, an ancient history is recounted about a conversation between a brahmana and Yama. In the middle region, in the land between the Ganga and the Yamuna, there was a large village of brahmanas, at the foot of the mountains known as Yamuna{49}. O lord of men! That beautiful village was known as Parnashala. Many learned brahmanas resided there. One day, Yama instructed a man{50}. He was attired in black garments. His eyes were red and his body hair stood erect. His feet, eyes and nose were like that of a crow. ‘Go to the village of brahmanas. Having gone there, bring the one who is named Sharmina. He belongs to Agastya's lineage. He is learned and self-controlled. He is a revered and well-known preceptor. Do not bring anyone else, even if that person lives near him and is from the same gotra. That other person is his equal in qualities, studying and birth. He is also the intelligent one's{51} equal in offspring and conduct. Bring the one I have spoken about. It is my duty to honour him.’ Having gone there on Yama's instructions, he did the opposite of what he had been asked to. Though restrained by Yama, he attacked and brought the other one. At this, Yama arose and worshipped the valiant one. He said, ‘Take this one away and bring the other one instead.’ When Dharmaraja{52} spoke these words, the brahmana replied to Dharmaraja. ‘I am tired of studying. O undecaying one! Whatever be the time that is left for me, I wish to dwell here with you{53}.’ Yama said, ‘I cannot accept anyone until his ordained time has come. I only know about the acts of dharma that people have performed{54}. O brahmana! O immensely radiant one! Return to your own house. Tell me if there is anything else that I can do for you.’ The brahmana replied, ‘Tell me about extremely great and beneﬁcial acts. O excellent one! You are the yardstick for everything in the three worlds.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhishthira! In this connection, an ancient history is recounted about a conversation between a brahmana and Yama. In the middle region, in the land between the Ganga and the Yamuna, there was a large village of brahmanas, at the foot of the mountains known as Yamuna{49}. O lord of men! That beautiful village was known as Parnashala. Many learned brahmanas resided there. One day, Yama instructed a man{50}. He was attired in black garments. His eyes were red and his body hair stood erect. His feet, eyes and nose were like that of a crow. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Go to the village of brahmanas. Having gone there, bring the one who is named Sharmina. He belongs to Agastya's lineage. He is learned and self-controlled. He is a revered and well-known preceptor. Do not bring anyone else, even if that person lives near him and is from the same gotra. That other person is his equal in qualities, studying and birth. He is also the intelligent one's{51} equal in offspring and conduct. Bring the one I have spoken about. It is my duty to honour him.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having gone there on Yama's instructions, he did the opposite of what he had been asked to. Though restrained by Yama, he attacked and brought the other one. At this, Yama arose and worshipped the valiant one. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Take this one away and bring the other one instead.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When Dharmaraja{52} spoke these words, the brahmana replied to Dharmaraja. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am tired of studying. O undecaying one! Whatever be the time that is left for me, I wish to dwell here with you{53}.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Yama said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I cannot accept anyone until his ordained time has come. I only know about the acts of dharma that people have performed{54}. O brahmana! O immensely radiant one! Return to your own house. Tell me if there is anything else that I can do for you.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Tell me about extremely great and beneﬁcial acts. O excellent one! You are the yardstick for everything in the three worlds.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Yama said, ‘O brahmana rishi! Listen to the excellent ordinances that have been laid down for donations. Sesamum is a supreme gift and leads to eternal merits. O bull among brahmanas! Depending on capacity, one must always donate sesamum. If one donates sesamum every day, one obtains all the objects of desire. A funeral ceremony with sesamum is praised and it is the supreme gift. Following the ordinances laid down for rites, give it to brahmanas. Whenever sesamum is obtained, sesamum must always be eaten. If a virtuous person desires prosperity, he must always do this in his house, with all his soul{55}. There is no doubt that drinks also ﬁgure among all gifts. Lakes, ponds and wells must be constructed. O supreme among brahmanas! Such tasks are extremely rare in the world. Water must always be given, since it brings supreme merits. O supreme among brahmanas! For the sake of drinking water, reservoirs must always be constructed. In particular, after a person has eaten, water must be offered.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Yama said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana rishi! Listen to the excellent ordinances that have been laid down for donations. Sesamum is a supreme gift and leads to eternal merits. O bull among brahmanas! Depending on capacity, one must always donate sesamum. If one donates sesamum every day, one obtains all the objects of desire. A funeral ceremony with sesamum is praised and it is the supreme gift. Following the ordinances laid down for rites, give it to brahmanas. Whenever sesamum is obtained, sesamum must always be eaten. If a virtuous person desires prosperity, he must always do this in his house, with all his soul{55}. There is no doubt that drinks also ﬁgure among all gifts. Lakes, ponds and wells must be constructed. O supreme among brahmanas! Such tasks are extremely rare in the world. Water must always be given, since it brings supreme merits. O supreme among brahmanas! For the sake of drinking water, reservoirs must always be constructed. In particular, after a person has eaten, water must be offered.”",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "’",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Having been instructed, Yama's messenger then took him back to his residence. Once he{56} had been taken there, he followed all of Yama's instructions. Having taken him there, Yama's messenger seized Sharmina and went and conveyed him to Dharmaraja. Dharmaraja, who knew about dharma, worshipped the powerful one. Having conversed with him, Yama also instructed him about everything and said that he should be taken back to where he had been brought from. Having returned, he also did everything that Yama had asked him to. For the beneﬁt of the ancestors, Yama praised the donation of lamps. Therefore, to enable the ancestors to cross over, lamps must always be given. O supreme among the Bharata lineage! One must always give lamps. O lord! These have been held to constitute eyes for the gods and the ancestors. O lord of men! It has been said that the donation of jewels brings extremely great merits. If a brahmana receives these, and then sells them for undertaking a sacriﬁce, he doesn't do anything terrible. Having received these, if a brahmana donates them to other brahmanas, both the donor and the recipient obtain inexhaustible beneﬁts. Manu knew about dharma and said that as long as the donor and the recipient follow the appropriate rites, both of them obtain eternal dharma. A man who is devoted to his own wife must always give garments. He will then obtain excellent garments and excellent attire. O tiger among men! These are the proofs enunciated and described in the Vedas about the many beneﬁts from donating cattle, gold and sesamum. One must marry and generate offspring. O Kouravya! The obtaining of a son is superior to all kinds of gains.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having been instructed, Yama's messenger then took him back to his residence. Once he{56} had been taken there, he followed all of Yama's instructions. Having taken him there, Yama's messenger seized Sharmina and went and conveyed him to Dharmaraja. Dharmaraja, who knew about dharma, worshipped the powerful one. Having conversed with him, Yama also instructed him about everything and said that he should be taken back to where he had been brought from. Having returned, he also did everything that Yama had asked him to. For the beneﬁt of the ancestors, Yama praised the donation of lamps. Therefore, to enable the ancestors to cross over, lamps must always be given. O supreme among the Bharata lineage! One must always give lamps. O lord! These have been held to constitute eyes for the gods and the ancestors. O lord of men! It has been said that the donation of jewels brings extremely great merits. If a brahmana receives these, and then sells them for undertaking a sacriﬁce, he doesn't do anything terrible. Having received these, if a brahmana donates them to other brahmanas, both the donor and the recipient obtain inexhaustible beneﬁts. Manu knew about dharma and said that as long as the donor and the recipient follow the appropriate rites, both of them obtain eternal dharma. A man who is devoted to his own wife must always give garments. He will then obtain excellent garments and excellent attire. O tiger among men! These are the proofs enunciated and described in the Vedas about the many beneﬁts from donating cattle, gold and sesamum. One must marry and generate offspring. O Kouravya! The obtaining of a son is superior to all kinds of gains.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

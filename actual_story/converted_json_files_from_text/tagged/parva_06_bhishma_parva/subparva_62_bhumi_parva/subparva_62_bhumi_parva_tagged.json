@@ -1,0 +1,37 @@
+{
+  "name": "Bhumi Parva",
+  "subparva_number": 62,
+  "source_volume": 5,
+  "details": {
+    "num_chapters": 2,
+    "num_shlokas": 87
+  },
+  "note": "Bhumi means land or the earth and this section is so named because it has a description of the earth. CHAPTER 872(12)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "872": {
+      "chapter_number": 872,
+      "global_number": 872,
+      "local_number": 12,
+      "num_shlokas": 37,
+      "file": "subparva_62_bhumi_parva/chapter_872_tagged.json"
+    },
+    "873": {
+      "chapter_number": 873,
+      "global_number": 873,
+      "local_number": 13,
+      "num_shlokas": 50,
+      "file": "subparva_62_bhumi_parva/chapter_873_tagged.json"
+    }
+  }
+}

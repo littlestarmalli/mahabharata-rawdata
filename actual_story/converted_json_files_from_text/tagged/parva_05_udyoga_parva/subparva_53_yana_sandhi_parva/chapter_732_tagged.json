@@ -1,0 +1,49 @@
+{
+  "chapter_number": 732,
+  "global_number": 732,
+  "local_number": 69,
+  "num_shlokas": 7,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Dhritarashtra said, “O Sanjaya! I envy those who have eyes, because they can see Vasudeva before them. His supreme and radiant form illuminates the direction and the sub-directions. He will speak words that deserve to be honoured, because they will be for the good of the Bharatas and the Srinjayas. Those unblemished words should be accepted by those who wish to live, though they need not be accepted by those who are doomed. He will come to us, the solitary champion of the Satvatas. He is the bull who guides the Yadavas. He destroys enemies and causes terror among them. He takes away fame from those who hate him. The assembled Kurus will see the great-souled and venerable destroyer of enemies. That best of the Vrishni lineage will speak words of non-violence and thus win over my side. He is the eternal and wise rishi. He is an ocean of words. He is a pot among all ascetics. He will come with the golden-feathered Garuda Arishtanemi{186}. He is the lord of all beings and the refuge of the universe. He is the ancient being with one thousand heads. He has no beginning, no middle and no end. His deeds are inﬁnite. He is the one who places the seed. Though without birth, he is the creator. He is supreme and higher than the supreme. I seek refuge with him. He is the creator who made the three worlds, the gods, the asuras, the serpents and the rakshasas. He is foremost among wise lords of men. He is Indra’s younger brother. I seek refuge with him.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“O Sanjaya! I envy those who have eyes, because they can see Vasudeva before them. His supreme and radiant form illuminates the direction and the sub-directions. He will speak words that deserve to be honoured, because they will be for the good of the Bharatas and the Srinjayas. Those unblemished words should be accepted by those who wish to live, though they need not be accepted by those who are doomed. He will come to us, the solitary champion of the Satvatas. He is the bull who guides the Yadavas. He destroys enemies and causes terror among them. He takes away fame from those who hate him. The assembled Kurus will see the great-souled and venerable destroyer of enemies. That best of the Vrishni lineage will speak words of non-violence and thus win over my side. He is the eternal and wise rishi. He is an ocean of words. He is a pot among all ascetics. He will come with the golden-feathered Garuda Arishtanemi{186}. He is the lord of all beings and the refuge of the universe. He is the ancient being with one thousand heads. He has no beginning, no middle and no end. His deeds are inﬁnite. He is the one who places the seed. Though without birth, he is the creator. He is supreme and higher than the supreme. I seek refuge with him. He is the creator who made the three worlds, the gods, the asuras, the serpents and the rakshasas. He is foremost among wise lords of men. He is Indra’s younger brother. I seek refuge with him.”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

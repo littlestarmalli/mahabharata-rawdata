@@ -1,0 +1,245 @@
+{
+  "chapter": 292,
+  "local": 67,
+  "shlokas": 21,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On the intelligent King Dhritarashtra's command, a Pratikamin spoke to Partha Yudhishthira, who had already gone a long distance away. “O descendant of the Bharata lineage! Your father has said that the sabha has been covered with carpets. O king! O Pandava! The dice are ready. Come and play.” Yudhishthira replied, “Following the decisions of the creator, all beings attain good and evil. Even if I do not play again, neither can be prevented. This summon to gamble with the dice is the old one's{12} command. Though I know that it will lead to ruin, I cannot disobey the command.” Having uttered these words, the Pandava returned with his brothers. Though he knew Shakuni's resort to maya, Partha returned to gamble. Paining the hearts of their well-wishers, those maharathas, bulls among the Bharata lineage, again entered the sabha. They once again seated themselves, ready to gamble, ordained by destiny in the destruction of all the worlds.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On the intelligent King Dhritarashtra's command, a Pratikamin spoke to Partha Yudhishthira, who had already gone a long distance away. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! Your father has said that the sabha has been covered with carpets. O king! O Pandava! The dice are ready. Come and play.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Following the decisions of the creator, all beings attain good and evil. Even if I do not play again, neither can be prevented. This summon to gamble with the dice is the old one's{12} command. Though I know that it will lead to ruin, I cannot disobey the command.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having uttered these words, the Pandava returned with his brothers. Though he knew Shakuni's resort to maya, Partha returned to gamble. Paining the hearts of their well-wishers, those maharathas, bulls among the Bharata lineage, again entered the sabha. They once again seated themselves, ready to gamble, ordained by destiny in the destruction of all the worlds.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O bull among the Bharata lineage! The old one returned all your riches and I worship him for that. But listen to me, because there is one more stake with great riches. If we are defeated by you in gambling, we will enter the great forest for twelve years. We will wear the skins of ruru deer and spend a thirteenth year in disguise, but in inhabited places. If recognized, we will return to the forest for another twelve years. But if you are defeated by us, together with Krishna, you will live in the forest for twelve years, clad in deerskin. When the thirteenth year is over, as is proper, each will obtain his own kingdom back. O Yudhishthira! O descendant of the Bharata lineage! With this stake, let us ready the dice and play another gamble with us.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! The old one returned all your riches and I worship him for that. But listen to me, because there is one more stake with great riches. If we are defeated by you in gambling, we will enter the great forest for twelve years. We will wear the skins of ruru deer and spend a thirteenth year in disguise, but in inhabited places. If recognized, we will return to the forest for another twelve years. But if you are defeated by us, together with Krishna, you will live in the forest for twelve years, clad in deerskin. When the thirteenth year is over, as is proper, each will obtain his own kingdom back. O Yudhishthira! O descendant of the Bharata lineage! With this stake, let us ready the dice and play another gamble with us.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Those who were in the sabha said, “Alas! Why can't his{13} relatives make him understand the great danger? The intelligent can understand this. But the bulls among the Bharatas do not understand it.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those who were in the sabha said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "those_who_were_in_the_sabha",
+          "introduces_label": "Those who were in the sabha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Alas! Why can't his{13} relatives make him understand the great danger? The intelligent can understand this. But the bulls among the Bharatas do not understand it.”",
+          "speaker": "those_who_were_in_the_sabha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Partha, lord of men, heard the remarks of the people. But from shame and from his sense of dharma, again began to play with dice. The immensely intelligent one knew, but returned to the game, thinking about whether this would lead to the destruction of the Kurus. Yudhishthira said, “I am a king who always follows his own dharma. How can I not return when challenged? O Shakuni! I will play with you.” Shakuni replied, “O Pandavas! Ignore cattle, horses, many milch cows, innumerable sheep and goats, elephants, treasuries, gold and all the female and male slaves. There is a single stake of exile in the forest. Whether you or we lose, we will live in the forest. O bull among the Bharata lineage! This is the stake with which we will play. O descendant of the Bharata lineage! There is one throw of the dice for a life in the forest.” Partha accepted the challenge and Soubala gathered the dice. Shakuni told Yudhishthira, “I have won.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Partha, lord of men, heard the remarks of the people. But from shame and from his sense of dharma, again began to play with dice. The immensely intelligent one knew, but returned to the game, thinking about whether this would lead to the destruction of the Kurus. Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am a king who always follows his own dharma. How can I not return when challenged? O Shakuni! I will play with you.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Shakuni replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Pandavas! Ignore cattle, horses, many milch cows, innumerable sheep and goats, elephants, treasuries, gold and all the female and male slaves. There is a single stake of exile in the forest. Whether you or we lose, we will live in the forest. O bull among the Bharata lineage! This is the stake with which we will play. O descendant of the Bharata lineage! There is one throw of the dice for a life in the forest.”",
+          "speaker": "@shakuni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Partha accepted the challenge and Soubala gathered the dice. Shakuni told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@shakuni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "chapter": 1407,
+  "local": 79,
+  "shlokas": 43,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O descendant of the Bharata lineage! It has been said that in times of distress, brahmanas may live by adopting the dharma of kshatriyas. Can they also live by adopting the dharma of vaishyas?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! It has been said that in times of distress, brahmanas may live by adopting the dharma of kshatriyas. Can they also live by adopting the dharma of vaishyas?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “When he is incapable of following the dharma of kshatriyas, he can follow the dharma of vaishyas. When the means of subsistence is destroyed because of some hardship, agriculture and tending to cattle is permissible.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When he is incapable of following the dharma of kshatriyas, he can follow the dharma of vaishyas. When the means of subsistence is destroyed because of some hardship, agriculture and tending to cattle is permissible.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “O bull among the Bharata lineage! When a brahmana follows the dharma of vaishyas, what commodities can he sell, without being deprived of the world of heaven?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! When a brahmana follows the dharma of vaishyas, what commodities can he sell, without being deprived of the world of heaven?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “Under every circumstance, a brahmana must always avoid liquor, salt, sesamum seeds, animals with manes, bulls, honey, meat and cooked food. O son! If a brahmana sells these, he goes to hell. A goat is Agni. A sheep is Varuna. A horse is Surya. The earth is large{731}. A cow is a soma sacriﬁce. These must never be sold. The virtuous do not praise the exchange of uncooked food for cooked food. O descendant of the Bharata lineage! However, for the sake of eating, cooked food can be obtained in exchange for uncooked food. ‘We will eat this when it has been cooked. Please cook this for us.’ If one considers uncooked food with this objective in mind, there is no adharma. On this, there is the ancient conduct of dharma, followed by those who adhered to custom. O Yudhishthira! Listen to this. ‘I will give you this. You must give me that in return.’ This voluntary agreement is dharma, because there is no force involved. Ancient transactions occurred in this way, accepted by rishis and others. There is no doubt that this is virtuous.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Under every circumstance, a brahmana must always avoid liquor, salt, sesamum seeds, animals with manes, bulls, honey, meat and cooked food. O son! If a brahmana sells these, he goes to hell. A goat is Agni. A sheep is Varuna. A horse is Surya. The earth is large{731}. A cow is a soma sacriﬁce. These must never be sold. The virtuous do not praise the exchange of uncooked food for cooked food. O descendant of the Bharata lineage! However, for the sake of eating, cooked food can be obtained in exchange for uncooked food. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We will eat this when it has been cooked. Please cook this for us.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " If one considers uncooked food with this objective in mind, there is no adharma. On this, there is the ancient conduct of dharma, followed by those who adhered to custom. O Yudhishthira! Listen to this. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will give you this. You must give me that in return.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " This voluntary agreement is dharma, because there is no force involved. Ancient transactions occurred in this way, accepted by rishis and others. There is no doubt that this is virtuous.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “O father{732}! When all the subjects abandon their own dharma and take up weapons, the strength of the kshatriya dwindles. How will the king then become the protector and refuge of the worlds? I have a doubt about this. O grandfather! Tell me this in detail.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O father{732}! When all the subjects abandon their own dharma and take up weapons, the strength of the kshatriya dwindles. How will the king then become the protector and refuge of the worlds? I have a doubt about this. O grandfather! Tell me this in detail.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “As the foremost among the varnas, brahmanas should seek the comfort of their own selves through donations, austerities, performance of sacriﬁces, lack of injury and self-control. Those among them who possess the strength of the Vedas must arise in every way and increase the king's strength, like the gods do to the great Indra. When the king is weak, it is said that the arms of the brahmanas become his refuge. Therefore, if he knows, he should seek to uplift himself through the strength of brahmanas. When the king is victorious and ensures welfare in the kingdom, all the varnas are immersed in their own dharma and perform their own tasks. O Yudhishthira! However, when bandits are engaged in causing confusion, there is mixing{733} and all the varnas must take up weapons and there is no sin in this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“As the foremost among the varnas, brahmanas should seek the comfort of their own selves through donations, austerities, performance of sacriﬁces, lack of injury and self-control. Those among them who possess the strength of the Vedas must arise in every way and increase the king's strength, like the gods do to the great Indra. When the king is weak, it is said that the arms of the brahmanas become his refuge. Therefore, if he knows, he should seek to uplift himself through the strength of brahmanas. When the king is victorious and ensures welfare in the kingdom, all the varnas are immersed in their own dharma and perform their own tasks. O Yudhishthira! However, when bandits are engaged in causing confusion, there is mixing{733} and all the varnas must take up weapons and there is no sin in this.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “If all the kshatriyas act injuriously towards the brahmanas, who will then save the brahmanas? What will be the supreme dharma then?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If all the kshatriyas act injuriously towards the brahmanas, who will then save the brahmanas? What will be the supreme dharma then?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In particular, the aged brahmanas must restrain and pacify the kshatriyas through austerities, brahmacharya, weapons, physical strength, deceit and lack of deceit. Brahmanas can do the restraining, because kshatriyas were created from brahmanas. Fire was created from water, kshatriyas from brahmanas and iron from stone. Therefore, the energy of each category is paciﬁed by its own womb. When iron encounters stone, ﬁre comes in contact with water and kshatriyas are injurious towards brahmanas, all three are paciﬁed. O Yudhishthira! Therefore, kshatriyas are paciﬁed by brahmanas, even if they are great and irresistible in energy and strength. When the vigour of brahmanas is mild and the vigour of kshatriyas is extremely weak, all the varnas always act in a wicked way towards the brahmanas. Those who ﬁght then, ready to give up their lives for the sake of protecting brahmanas, are those who have dharma in their souls. All those spirited ones who are enraged and wish to take up weapons for the sake of brahmanas obtain sacred worlds. Those worlds are beyond those meant for the extremely virtuous ones who study, and the ascetics. Those brave ones go to supreme worlds that are beyond those meant for those who fast and destroy their lives in the ﬁre. For learned ones, there is no other dharma than giving up their lives in the cause{734}. One should bow down before those fortunate ones who offer their lives. May we obtain the worlds obtained by those who seek to restrain the enemies of brahmanas. Manu has said that those brave ones conquer heaven and Brahma's world. People are puriﬁed when they bathe after a horse sacriﬁce. That is what happens to the evil and good deeds of those who are killed by weapons in a battle. Because of the time and the place, adharma can become dharma and dharma can become adharma. That is the nature of time and place. Friends can perform cruel deeds and conquer supreme heaven. The virtuous can perform wicked deeds and attain the supreme objective. There are three occasions when the taking up of weapons by a brahmana is not reprehensible—to save himself, to prevent the mixing of the varnas and to restrain the unassailable.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In particular, the aged brahmanas must restrain and pacify the kshatriyas through austerities, brahmacharya, weapons, physical strength, deceit and lack of deceit. Brahmanas can do the restraining, because kshatriyas were created from brahmanas. Fire was created from water, kshatriyas from brahmanas and iron from stone. Therefore, the energy of each category is paciﬁed by its own womb. When iron encounters stone, ﬁre comes in contact with water and kshatriyas are injurious towards brahmanas, all three are paciﬁed. O Yudhishthira! Therefore, kshatriyas are paciﬁed by brahmanas, even if they are great and irresistible in energy and strength. When the vigour of brahmanas is mild and the vigour of kshatriyas is extremely weak, all the varnas always act in a wicked way towards the brahmanas. Those who ﬁght then, ready to give up their lives for the sake of protecting brahmanas, are those who have dharma in their souls. All those spirited ones who are enraged and wish to take up weapons for the sake of brahmanas obtain sacred worlds. Those worlds are beyond those meant for the extremely virtuous ones who study, and the ascetics. Those brave ones go to supreme worlds that are beyond those meant for those who fast and destroy their lives in the ﬁre. For learned ones, there is no other dharma than giving up their lives in the cause{734}. One should bow down before those fortunate ones who offer their lives. May we obtain the worlds obtained by those who seek to restrain the enemies of brahmanas. Manu has said that those brave ones conquer heaven and Brahma's world. People are puriﬁed when they bathe after a horse sacriﬁce. That is what happens to the evil and good deeds of those who are killed by weapons in a battle. Because of the time and the place, adharma can become dharma and dharma can become adharma. That is the nature of time and place. Friends can perform cruel deeds and conquer supreme heaven. The virtuous can perform wicked deeds and attain the supreme objective. There are three occasions when the taking up of weapons by a brahmana is not reprehensible—to save himself, to prevent the mixing of the varnas and to restrain the unassailable.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “O supreme among kings! When the strength of bandits increases, for the sake of preventing injury, when the varnas are mixed and the varnas are confused, should someone else who is stronger, a brahmana, a vaishya or a shudra, take up the task{735}? Should he protect the subjects against bandits by wielding the rod of dharma? Should he perform that task or is he restrained from doing that? I think that weapons should not be wielded by anyone who is not born a kshatriya.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among kings! When the strength of bandits increases, for the sake of preventing injury, when the varnas are mixed and the varnas are confused, should someone else who is stronger, a brahmana, a vaishya or a shudra, take up the task{735}? Should he protect the subjects against bandits by wielding the rod of dharma? Should he perform that task or is he restrained from doing that? I think that weapons should not be wielded by anyone who is not born a kshatriya.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “If he is a means of crossing over to a shore when none exists, if he is a boat when no boats exist, whether he is a shudra or someone else, he must always be revered. O king! When people are afﬂicted by bandits, he protects those who have no protectors. Men seek refuge with him and he conveys them to a state of happiness. Therefore, he must be affectionately worshipped, as if he is a relative. O Kouravya! He deserves honour and should be looked upon as a performer of great deeds. What use is a bull that does not bear a load? What use is a cow that does not yield milk? What use is a barren wife? What use is a king who does not protect? What use is an elephant made of wood? What use is a deer made of leather? What use is a cart without a drive and a path? What use is a degraded ﬁeld? A brahmana who does not study and a king who does not protect are always useless in this way, like a cloud that does not rain. The one who always protects the virtuous and chastises the wicked performs the duties of a king and should always be upheld and instated in this way.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If he is a means of crossing over to a shore when none exists, if he is a boat when no boats exist, whether he is a shudra or someone else, he must always be revered. O king! When people are afﬂicted by bandits, he protects those who have no protectors. Men seek refuge with him and he conveys them to a state of happiness. Therefore, he must be affectionately worshipped, as if he is a relative. O Kouravya! He deserves honour and should be looked upon as a performer of great deeds. What use is a bull that does not bear a load? What use is a cow that does not yield milk? What use is a barren wife? What use is a king who does not protect? What use is an elephant made of wood? What use is a deer made of leather? What use is a cart without a drive and a path? What use is a degraded ﬁeld? A brahmana who does not study and a king who does not protect are always useless in this way, like a cloud that does not rain. The one who always protects the virtuous and chastises the wicked performs the duties of a king and should always be upheld and instated in this way.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

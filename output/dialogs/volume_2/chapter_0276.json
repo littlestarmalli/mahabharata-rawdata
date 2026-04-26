@@ -1,0 +1,352 @@
+{
+  "chapter": 276,
+  "local": 51,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shakuni said, “Challenge the enemy to a game of dice. I will rob Pandu's son Yudhishthira of the prosperity that you have seen, which has been burning you. Be clear that I will not ﬁght in front of armies. Through the throw of dice, a skilful one can vanquish one that is not skilful. O descendant of the Bharata lineage! Know that the bow and arrows are my dice. The heart of the dice is the string of my bow. Know that the carpet{109} is my chariot.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Challenge the enemy to a game of dice. I will rob Pandu's son Yudhishthira of the prosperity that you have seen, which has been burning you. Be clear that I will not ﬁght in front of armies. Through the throw of dice, a skilful one can vanquish one that is not skilful. O descendant of the Bharata lineage! Know that the bow and arrows are my dice. The heart of the dice is the string of my bow. Know that the carpet{109} is my chariot.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duryodhana said, “O king! This one, who is skilled in dice, is ready to win over the prosperity of Pandu's son with dice. O father! You should ﬁnd that pleasing.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! This one, who is skilled in dice, is ready to win over the prosperity of Pandu's son with dice. O father! You should ﬁnd that pleasing.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra replied, “I always listen to the counsel of my brother, the great-souled Vidura. I will decide on the course of action after meeting with him.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I always listen to the counsel of my brother, the great-souled Vidura. I will decide on the course of action after meeting with him.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duryodhana said, “O Kourava! There is no doubt that Vidura will make you refrain from the resolution. He is engaged in the welfare of the Pandavas and not mine. O descendant of the Kuru lineage{110}! No man should engage in his task with another's counsel, because two minds seldom agree on a course of action. Like a straw mat{111} during the rainy season, a fool that abhors fear stands and destroys himself. Neither disease nor Yama wait for prosperity to come. Therefore, let us act for the good while there is time.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kourava! There is no doubt that Vidura will make you refrain from the resolution. He is engaged in the welfare of the Pandavas and not mine. O descendant of the Kuru lineage{110}! No man should engage in his task with another's counsel, because two minds seldom agree on a course of action. Like a straw mat{111} during the rainy season, a fool that abhors fear stands and destroys himself. Neither disease nor Yama wait for prosperity to come. Therefore, let us act for the good while there is time.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra replied, “O son! I never like a ﬁght with those who are stronger. Enmity creates distortion, and that itself is a weapon, though it is not made of iron. O prince! You think that disaster will bring welfare, this terrible collection of quarrels. Once it starts, in one way or another, it will release bows, swords and arrows.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! I never like a ﬁght with those who are stronger. Enmity creates distortion, and that itself is a weapon, though it is not made of iron. O prince! You think that disaster will bring welfare, this terrible collection of quarrels. Once it starts, in one way or another, it will release bows, swords and arrows.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duryodhana said, “The ancient ones created the rules of dice. It leads to neither evil, nor blows. Today, you should approve of Shakuni's words. Let your instructions be issued for the swift construction of a sabha{112}. Because the doors of heaven will become closer, it is appropriate for us to be engaged in this. Approve of this act with the Pandavas and we will then stand equal to them.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The ancient ones created the rules of dice. It leads to neither evil, nor blows. Today, you should approve of Shakuni's words. Let your instructions be issued for the swift construction of a sabha{112}. Because the doors of heaven will become closer, it is appropriate for us to be engaged in this. Approve of this act with the Pandavas and we will then stand equal to them.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra replied, “O Indra among men! I do not like the words that you utter. But do what brings you pleasure. Later, you will remember your words and suffer, because such words cannot bring prosperity to those who abide by dharma. A long time in the past, Vidura, who follows wisdom and learning, had foretold all this. The great calamity that will destroy the seed of the kshatriyas has now arrived and we are powerless.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among men! I do not like the words that you utter. But do what brings you pleasure. Later, you will remember your words and suffer, because such words cannot bring prosperity to those who abide by dharma. A long time in the past, Vidura, who follows wisdom and learning, had foretold all this. The great calamity that will destroy the seed of the kshatriyas has now arrived and we are powerless.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having uttered these words, the wise Dhritarashtra decided that destiny alone was supreme. Fate robbed the king of his senses and he instructed his men{113} to obey his son's words. “Carefully build one thousand pillars adorned with gold and lapis lazuli. Let there be a hundred gates with arches made of crystal. Let the beautiful sabha be swiftly built, one krosha{114} long and one krosha wide.” On hearing these words, without hesitation, thousands of wise and skilled artisans swiftly built the sabha and stocked it with every kind of object. Then, in a short space of time, they informed the king that the beautiful assembly hall was ready and that it had been adorned with multicoloured gems and beautiful golden seats. Then Dhritarashtra, lord of men, spoke to the learned Vidura, foremost among his advisers, “Go to Prince Yudhishthira and swiftly bring him here at my command. Say that he and his brothers should come here and see this beautiful sabha that I have built, with many gems and decorated with expensive beds and seats. We will then have a game of dice among well-wishers.” Knowing his son's mind and that fate could not be avoided, King Dhritarashtra, lord of men, acted thus. Vidura, supreme among learned ones, did not approve of his brother's words and thought them to be unjust. He spoke to him, “O king! I do not approve of this errand. Do not do this. I fear the destruction of our lineage. O Indra among men! When the sons are disunited, a quarrel is certain and I am concerned about this game of dice.” Dhritarashtra replied, “O Kshatta! Unless destiny turns adverse, I am not worried about a quarrel. The universe is under the control of the creator. The entire world does not run independently. O Vidura! Therefore, today, go to the king{115} at my command and quickly bring Kunti's invincible son, Yudhishthira, here.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having uttered these words, the wise Dhritarashtra decided that destiny alone was supreme. Fate robbed the king of his senses and he instructed his men{113} to obey his son's words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Carefully build one thousand pillars adorned with gold and lapis lazuli. Let there be a hundred gates with arches made of crystal. Let the beautiful sabha be swiftly built, one krosha{114} long and one krosha wide.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing these words, without hesitation, thousands of wise and skilled artisans swiftly built the sabha and stocked it with every kind of object. Then, in a short space of time, they informed the king that the beautiful assembly hall was ready and that it had been adorned with multicoloured gems and beautiful golden seats. Then Dhritarashtra, lord of men, spoke to the learned Vidura, foremost among his advisers, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Go to Prince Yudhishthira and swiftly bring him here at my command. Say that he and his brothers should come here and see this beautiful sabha that I have built, with many gems and decorated with expensive beds and seats. We will then have a game of dice among well-wishers.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Knowing his son's mind and that fate could not be avoided, King Dhritarashtra, lord of men, acted thus. Vidura, supreme among learned ones, did not approve of his brother's words and thought them to be unjust. He spoke to him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! I do not approve of this errand. Do not do this. I fear the destruction of our lineage. O Indra among men! When the sons are disunited, a quarrel is certain and I am concerned about this game of dice.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Dhritarashtra replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kshatta! Unless destiny turns adverse, I am not worried about a quarrel. The universe is under the control of the creator. The entire world does not run independently. O Vidura! Therefore, today, go to the king{115} at my command and quickly bring Kunti's invincible son, Yudhishthira, here.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

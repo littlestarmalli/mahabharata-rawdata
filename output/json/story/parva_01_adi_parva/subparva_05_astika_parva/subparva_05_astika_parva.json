@@ -1,0 +1,300 @@
+{
+  "name": "Astika Parva",
+  "subparva_number": 5,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 41,
+    "num_shlokas": 1025
+  },
+  "note": "It is one of the longer parvas and is about the snake-sacrifice, which provides the setting where the Mahabharata story was told. The parva is named after a sage named Astika, who saved the snakes (the major ones) from the snake-sacrifice.",
+  "chapters": {
+    "13": {
+      "chapter_number": 13,
+      "global_number": 13,
+      "local_number": 13,
+      "num_shlokas": 45,
+      "file": "subparva_05_astika_parva/chapter_013.json"
+    },
+    "14": {
+      "chapter_number": 14,
+      "global_number": 14,
+      "local_number": 14,
+      "num_shlokas": 23,
+      "file": "subparva_05_astika_parva/chapter_014.json"
+    },
+    "15": {
+      "chapter_number": 15,
+      "global_number": 15,
+      "local_number": 15,
+      "num_shlokas": 13,
+      "file": "subparva_05_astika_parva/chapter_015.json"
+    },
+    "16": {
+      "chapter_number": 16,
+      "global_number": 16,
+      "local_number": 16,
+      "num_shlokas": 40,
+      "file": "subparva_05_astika_parva/chapter_016.json"
+    },
+    "17": {
+      "chapter_number": 17,
+      "global_number": 17,
+      "local_number": 17,
+      "num_shlokas": 30,
+      "file": "subparva_05_astika_parva/chapter_017.json"
+    },
+    "18": {
+      "chapter_number": 18,
+      "global_number": 18,
+      "local_number": 18,
+      "num_shlokas": 11,
+      "file": "subparva_05_astika_parva/chapter_018.json"
+    },
+    "19": {
+      "chapter_number": 19,
+      "global_number": 19,
+      "local_number": 19,
+      "num_shlokas": 17,
+      "file": "subparva_05_astika_parva/chapter_019.json"
+    },
+    "20": {
+      "chapter_number": 20,
+      "global_number": 20,
+      "local_number": 20,
+      "num_shlokas": 15,
+      "file": "subparva_05_astika_parva/chapter_020.json"
+    },
+    "21": {
+      "chapter_number": 21,
+      "global_number": 21,
+      "local_number": 21,
+      "num_shlokas": 17,
+      "file": "subparva_05_astika_parva/chapter_021.json"
+    },
+    "22": {
+      "chapter_number": 22,
+      "global_number": 22,
+      "local_number": 22,
+      "num_shlokas": 5,
+      "file": "subparva_05_astika_parva/chapter_022.json"
+    },
+    "23": {
+      "chapter_number": 23,
+      "global_number": 23,
+      "local_number": 23,
+      "num_shlokas": 12,
+      "file": "subparva_05_astika_parva/chapter_023.json"
+    },
+    "24": {
+      "chapter_number": 24,
+      "global_number": 24,
+      "local_number": 24,
+      "num_shlokas": 14,
+      "file": "subparva_05_astika_parva/chapter_024.json"
+    },
+    "25": {
+      "chapter_number": 25,
+      "global_number": 25,
+      "local_number": 25,
+      "num_shlokas": 33,
+      "file": "subparva_05_astika_parva/chapter_025.json"
+    },
+    "26": {
+      "chapter_number": 26,
+      "global_number": 26,
+      "local_number": 26,
+      "num_shlokas": 47,
+      "file": "subparva_05_astika_parva/chapter_026.json"
+    },
+    "27": {
+      "chapter_number": 27,
+      "global_number": 27,
+      "local_number": 27,
+      "num_shlokas": 35,
+      "file": "subparva_05_astika_parva/chapter_027.json"
+    },
+    "28": {
+      "chapter_number": 28,
+      "global_number": 28,
+      "local_number": 28,
+      "num_shlokas": 25,
+      "file": "subparva_05_astika_parva/chapter_028.json"
+    },
+    "29": {
+      "chapter_number": 29,
+      "global_number": 29,
+      "local_number": 29,
+      "num_shlokas": 23,
+      "file": "subparva_05_astika_parva/chapter_029.json"
+    },
+    "30": {
+      "chapter_number": 30,
+      "global_number": 30,
+      "local_number": 30,
+      "num_shlokas": 22,
+      "file": "subparva_05_astika_parva/chapter_030.json"
+    },
+    "31": {
+      "chapter_number": 31,
+      "global_number": 31,
+      "local_number": 31,
+      "num_shlokas": 18,
+      "file": "subparva_05_astika_parva/chapter_031.json"
+    },
+    "32": {
+      "chapter_number": 32,
+      "global_number": 32,
+      "local_number": 32,
+      "num_shlokas": 25,
+      "file": "subparva_05_astika_parva/chapter_032.json"
+    },
+    "33": {
+      "chapter_number": 33,
+      "global_number": 33,
+      "local_number": 33,
+      "num_shlokas": 31,
+      "file": "subparva_05_astika_parva/chapter_033.json"
+    },
+    "34": {
+      "chapter_number": 34,
+      "global_number": 34,
+      "local_number": 34,
+      "num_shlokas": 18,
+      "file": "subparva_05_astika_parva/chapter_034.json"
+    },
+    "35": {
+      "chapter_number": 35,
+      "global_number": 35,
+      "local_number": 35,
+      "num_shlokas": 13,
+      "file": "subparva_05_astika_parva/chapter_035.json"
+    },
+    "36": {
+      "chapter_number": 36,
+      "global_number": 36,
+      "local_number": 36,
+      "num_shlokas": 26,
+      "file": "subparva_05_astika_parva/chapter_036.json"
+    },
+    "37": {
+      "chapter_number": 37,
+      "global_number": 37,
+      "local_number": 37,
+      "num_shlokas": 27,
+      "file": "subparva_05_astika_parva/chapter_037.json"
+    },
+    "38": {
+      "chapter_number": 38,
+      "global_number": 38,
+      "local_number": 38,
+      "num_shlokas": 39,
+      "file": "subparva_05_astika_parva/chapter_038.json"
+    },
+    "39": {
+      "chapter_number": 39,
+      "global_number": 39,
+      "local_number": 39,
+      "num_shlokas": 33,
+      "file": "subparva_05_astika_parva/chapter_039.json"
+    },
+    "40": {
+      "chapter_number": 40,
+      "global_number": 40,
+      "local_number": 40,
+      "num_shlokas": 11,
+      "file": "subparva_05_astika_parva/chapter_040.json"
+    },
+    "41": {
+      "chapter_number": 41,
+      "global_number": 41,
+      "local_number": 41,
+      "num_shlokas": 30,
+      "file": "subparva_05_astika_parva/chapter_041.json"
+    },
+    "42": {
+      "chapter_number": 42,
+      "global_number": 42,
+      "local_number": 42,
+      "num_shlokas": 20,
+      "file": "subparva_05_astika_parva/chapter_042.json"
+    },
+    "43": {
+      "chapter_number": 43,
+      "global_number": 43,
+      "local_number": 43,
+      "num_shlokas": 39,
+      "file": "subparva_05_astika_parva/chapter_043.json"
+    },
+    "44": {
+      "chapter_number": 44,
+      "global_number": 44,
+      "local_number": 44,
+      "num_shlokas": 22,
+      "file": "subparva_05_astika_parva/chapter_044.json"
+    },
+    "45": {
+      "chapter_number": 45,
+      "global_number": 45,
+      "local_number": 45,
+      "num_shlokas": 28,
+      "file": "subparva_05_astika_parva/chapter_045.json"
+    },
+    "46": {
+      "chapter_number": 46,
+      "global_number": 46,
+      "local_number": 46,
+      "num_shlokas": 41,
+      "file": "subparva_05_astika_parva/chapter_046.json"
+    },
+    "47": {
+      "chapter_number": 47,
+      "global_number": 47,
+      "local_number": 47,
+      "num_shlokas": 25,
+      "file": "subparva_05_astika_parva/chapter_047.json"
+    },
+    "48": {
+      "chapter_number": 48,
+      "global_number": 48,
+      "local_number": 48,
+      "num_shlokas": 26,
+      "file": "subparva_05_astika_parva/chapter_048.json"
+    },
+    "49": {
+      "chapter_number": 49,
+      "global_number": 49,
+      "local_number": 49,
+      "num_shlokas": 28,
+      "file": "subparva_05_astika_parva/chapter_049.json"
+    },
+    "50": {
+      "chapter_number": 50,
+      "global_number": 50,
+      "local_number": 50,
+      "num_shlokas": 17,
+      "file": "subparva_05_astika_parva/chapter_050.json"
+    },
+    "51": {
+      "chapter_number": 51,
+      "global_number": 51,
+      "local_number": 51,
+      "num_shlokas": 23,
+      "file": "subparva_05_astika_parva/chapter_051.json"
+    },
+    "52": {
+      "chapter_number": 52,
+      "global_number": 52,
+      "local_number": 52,
+      "num_shlokas": 22,
+      "file": "subparva_05_astika_parva/chapter_052.json"
+    },
+    "53": {
+      "chapter_number": 53,
+      "global_number": 53,
+      "local_number": 53,
+      "num_shlokas": 36,
+      "file": "subparva_05_astika_parva/chapter_053.json"
+    }
+  }
+}

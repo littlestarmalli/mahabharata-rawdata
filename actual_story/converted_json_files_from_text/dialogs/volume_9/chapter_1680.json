@@ -1,0 +1,123 @@
+{
+  "chapter": 1680,
+  "local": 352,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“The brahmana said, ‘O supreme among serpents! There is no doubt that this is extraordinary. I am extremely delighted. Your sentences are full of meaning and have shown me my path. O virtuous one! O supreme among serpents! May you be fortunate. I will depart. Remember me and send your messengers to ﬁnd out how I am.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O supreme among serpents! There is no doubt that this is extraordinary. I am extremely delighted. Your sentences are full of meaning and have shown me my path. O virtuous one! O supreme among serpents! May you be fortunate. I will depart. Remember me and send your messengers to ﬁnd out how I am.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The serpent replied, ‘You have not told me about the task that you are attached to. How can you then go? O brahmana! Tell me what is to be done and the reason why you have come here. O bull among brahmanas! Whether you state it or don't state it, take my permission and leave only after you have accomplished your purpose. O brahmana! You should only go after you have honoured me and received my permission. I have become attached to you. You should not go only after having seen me, seated near the root of this tree. O brahmana rishi! This is not how you should depart. O foremost among brahmanas! There is no doubt that you have also become attached to me. O unblemished one! All these people belong to you. In staying with me, what is there to think about?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The serpent replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_serpent",
+          "introduces_label": "The serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have not told me about the task that you are attached to. How can you then go? O brahmana! Tell me what is to be done and the reason why you have come here. O bull among brahmanas! Whether you state it or don't state it, take my permission and leave only after you have accomplished your purpose. O brahmana! You should only go after you have honoured me and received my permission. I have become attached to you. You should not go only after having seen me, seated near the root of this tree. O brahmana rishi! This is not how you should depart. O foremost among brahmanas! There is no doubt that you have also become attached to me. O unblemished one! All these people belong to you. In staying with me, what is there to think about?’",
+          "speaker": "the_serpent",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana said, ‘O immensely wise one! O serpent! It is exactly as you have understood it. The gods are not superior to you in any way. O serpent! I am you and you are me. I, you, and all the creatures can always go everywhere{1395}. O lord of Bhoga{1396}! There was a doubt in my mind about the way to accumulate merit. O virtuous one! I have now seen the truth and will follow the vow of unchha. O virtuous one! I have now made up my mind to follow the best method. O fortunate one! O serpent! I have obtained success and I seek your leave.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O immensely wise one! O serpent! It is exactly as you have understood it. The gods are not superior to you in any way. O serpent! I am you and you are me. I, you, and all the creatures can always go everywhere{1395}. O lord of Bhoga{1396}! There was a doubt in my mind about the way to accumulate merit. O virtuous one! I have now seen the truth and will follow the vow of unchha. O virtuous one! I have now made up my mind to follow the best method. O fortunate one! O serpent! I have obtained success and I seek your leave.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

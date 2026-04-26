@@ -1,0 +1,358 @@
+{
+  "chapter": 39,
+  "local": 39,
+  "shlokas": 33,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Takshaka said, “O Kashyapa! If you can cure any creature that has been bitten by me, revive this tree once I have bitten it. O best of the Brahmanas! I will set on ﬁre this ﬁg tree before your very eyes. Try your best and show me the power of the mantras that you have spoken of.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Takshaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@takshaka",
+          "introduces_label": "Takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kashyapa! If you can cure any creature that has been bitten by me, revive this tree once I have bitten it. O best of the Brahmanas! I will set on ﬁre this ﬁg tree before your very eyes. Try your best and show me the power of the mantras that you have spoken of.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Kashyapa said, “O king of snakes! If that is what you wish, bite the tree. O snake! I shall revive it, once it has been bitten by you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Kashyapa said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kashyapa",
+          "introduces_label": "Kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king of snakes! If that is what you wish, bite the tree. O snake! I shall revive it, once it has been bitten by you.”",
+          "speaker": "@kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘Thus addressed by the great-souled Kashyapa, the king of snakes, supreme among snakes, went and bit the ﬁg tree. Bitten by the great-souled snake, the tree imbibed the poison and ﬂared up all around. When he had burnt the tree down, the snake again spoke to Kashyapa. “O best of the Brahmanas! Try your best and give life to this lord of the forest.” The tree had been reduced to ashes from the energy of the king of the snakes. But picking up the ashes, Kashyapa uttered these words. “O king of snakes! Today you will witness the power of my knowledge. O snake! I will revive this lord of the forest in your very presence.” Then the illustrious and learned Kashyapa, supreme among Brahmanas, revived through his learning the tree that had been reduced to a heap of ashes. First, he created a sapling. Then he created two leaves in it. Then he created twigs and branches. Then he regenerated the entire tree.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus addressed by the great-souled Kashyapa, the king of snakes, supreme among snakes, went and bit the ﬁg tree. Bitten by the great-souled snake, the tree imbibed the poison and ﬂared up all around. When he had burnt the tree down, the snake again spoke to Kashyapa. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best of the Brahmanas! Try your best and give life to this lord of the forest.”",
+          "speaker": "@kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The tree had been reduced to ashes from the energy of the king of the snakes. But picking up the ashes, Kashyapa uttered these words. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king of snakes! Today you will witness the power of my knowledge. O snake! I will revive this lord of the forest in your very presence.”",
+          "speaker": "@kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then the illustrious and learned Kashyapa, supreme among Brahmanas, revived through his learning the tree that had been reduced to a heap of ashes. First, he created a sapling. Then he created two leaves in it. Then he created twigs and branches. Then he regenerated the entire tree.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On seeing that the tree had really been revived by the great-souled Kashyapa, Takshaka said, “O Brahmana! It is wonderful that you can destroy my poison or that of others like me. O king of the Brahmanas! O you who are blessed with the power of austerities! Driven by what desire are you going there? I will give you whatever fruits you hope to gain from that best of kings, however difﬁcult they may prove to get. O Brahmana! Your success is uncertain, because that king has been afﬂicted with a Brahmana's curse. His life has been shortened. Your blazing fame, that is famous throughout the three worlds, will disappear, like the sun robbed of his splendour.” Kashyapa replied, “O snake! I am going there for riches. O best of the snakes! Give it to me and I will return home.” Takshaka said, “O best of the Brahmanas! I will today give you more riches than you hope to get from the king. Therefore, return.” Having heard what Takshaka had said, Kashyapa, supreme among Brahmanas, intelligent and with great energy, meditated on the king.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On seeing that the tree had really been revived by the great-souled Kashyapa, Takshaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@takshaka",
+          "introduces_label": "Takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brahmana! It is wonderful that you can destroy my poison or that of others like me. O king of the Brahmanas! O you who are blessed with the power of austerities! Driven by what desire are you going there? I will give you whatever fruits you hope to gain from that best of kings, however difﬁcult they may prove to get. O Brahmana! Your success is uncertain, because that king has been afﬂicted with a Brahmana's curse. His life has been shortened. Your blazing fame, that is famous throughout the three worlds, will disappear, like the sun robbed of his splendour.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kashyapa replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kashyapa",
+          "introduces_label": "Kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O snake! I am going there for riches. O best of the snakes! Give it to me and I will return home.”",
+          "speaker": "@kashyapa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Takshaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@takshaka",
+          "introduces_label": "Takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best of the Brahmanas! I will today give you more riches than you hope to get from the king. Therefore, return.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having heard what Takshaka had said, Kashyapa, supreme among Brahmanas, intelligent and with great energy, meditated on the king.",
+          "speaker": "@ugrasrava",
+          "introduces": "heard_what_takshaka_had",
+          "introduces_label": "heard what Takshaka had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The powerful Kashyapa then learnt through his divine knowledge that the life of the Pandava king had indeed been shortened. He returned, receiving from Takshaka all the riches that he wanted to possess. At the great-souled Kashyapa's departure, Takshaka hastened towards Hastinapura{127}. On his way, Takshaka heard that the lord of the earth was leading a careful life, protected by mantras and herbs that cured poison. At that, the snake thought to himself, “The king must be deceived through my powers of maya. But what is the best way?” In the disguise of ascetics, Takshaka sent some snakes to the king, with fruits, leaves and water as presents. Takshaka said, “Go swiftly to the king, as if you have a rite to perform. Make the king a present of the fruits, leaves and water.” Thus commanded by Takshaka, the snakes did this and took darbha grass, water and fruits to the king. The valorous king of kings accepted their presents. When their rites were performed, he gave them leave to depart.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The powerful Kashyapa then learnt through his divine knowledge that the life of the Pandava king had indeed been shortened. He returned, receiving from Takshaka all the riches that he wanted to possess. At the great-souled Kashyapa's departure, Takshaka hastened towards Hastinapura{127}. On his way, Takshaka heard that the lord of the earth was leading a careful life, protected by mantras and herbs that cured poison. At that, the snake thought to himself, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The king must be deceived through my powers of maya. But what is the best way?”",
+          "speaker": "heard_what_takshaka_had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " In the disguise of ascetics, Takshaka sent some snakes to the king, with fruits, leaves and water as presents. Takshaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@takshaka",
+          "introduces_label": "Takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Go swiftly to the king, as if you have a rite to perform. Make the king a present of the fruits, leaves and water.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus commanded by Takshaka, the snakes did this and took darbha grass, water and fruits to the king. The valorous king of kings accepted their presents. When their rites were performed, he gave them leave to depart.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘When those snakes disguised as ascetics had left, the king addressed his advisers and well-wishers. “All of you eat with me the succulent fruits presented by those ascetics.” O Shounaka! As the king was about to eat the fruit with his ministers, a small worm appeared in the fruit that he had picked up. It was tiny, with black eyes, and had the colour of copper. Picking it up, the best of kings told his advisers, “The sun is setting. Today, I no longer have any fear from poison. Therefore, let this worm become Takshaka and bite me. Let the words of the hermit become true and let a falsehood not be committed.” Driven by destiny, the advisers applauded him. Having said this, the king of kings smilingly placed the small worm on his throat, about to die and robbed of his senses. He was still laughing when Takshaka, who had come out of the fruit that had been given to the king, coiled around him.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When those snakes disguised as ascetics had left, the king addressed his advisers and well-wishers. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All of you eat with me the succulent fruits presented by those ascetics.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O Shounaka! As the king was about to eat the fruit with his ministers, a small worm appeared in the fruit that he had picked up. It was tiny, with black eyes, and had the colour of copper. Picking it up, the best of kings told his advisers, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The sun is setting. Today, I no longer have any fear from poison. Therefore, let this worm become Takshaka and bite me. Let the words of the hermit become true and let a falsehood not be committed.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Driven by destiny, the advisers applauded him. Having said this, the king of kings smilingly placed the small worm on his throat, about to die and robbed of his senses. He was still laughing when Takshaka, who had come out of the fruit that had been given to the king, coiled around him.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

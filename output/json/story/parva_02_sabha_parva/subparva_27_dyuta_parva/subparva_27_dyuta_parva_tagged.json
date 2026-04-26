@@ -1,0 +1,184 @@
+{
+  "name": "Dyuta Parva",
+  "subparva_number": 27,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 23,
+    "num_shlokas": 734
+  },
+  "note": "Dyuta means playing or gambling with dice, and also the resultant prize. So this section is about the gambling with dice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "268": {
+      "chapter_number": 268,
+      "global_number": 268,
+      "local_number": 43,
+      "num_shlokas": 36,
+      "file": "subparva_27_dyuta_parva/chapter_268_tagged.json"
+    },
+    "269": {
+      "chapter_number": 269,
+      "global_number": 269,
+      "local_number": 44,
+      "num_shlokas": 22,
+      "file": "subparva_27_dyuta_parva/chapter_269_tagged.json"
+    },
+    "270": {
+      "chapter_number": 270,
+      "global_number": 270,
+      "local_number": 45,
+      "num_shlokas": 58,
+      "file": "subparva_27_dyuta_parva/chapter_270_tagged.json"
+    },
+    "271": {
+      "chapter_number": 271,
+      "global_number": 271,
+      "local_number": 46,
+      "num_shlokas": 35,
+      "file": "subparva_27_dyuta_parva/chapter_271_tagged.json"
+    },
+    "272": {
+      "chapter_number": 272,
+      "global_number": 272,
+      "local_number": 47,
+      "num_shlokas": 31,
+      "file": "subparva_27_dyuta_parva/chapter_272_tagged.json"
+    },
+    "273": {
+      "chapter_number": 273,
+      "global_number": 273,
+      "local_number": 48,
+      "num_shlokas": 42,
+      "file": "subparva_27_dyuta_parva/chapter_273_tagged.json"
+    },
+    "274": {
+      "chapter_number": 274,
+      "global_number": 274,
+      "local_number": 49,
+      "num_shlokas": 25,
+      "file": "subparva_27_dyuta_parva/chapter_274_tagged.json"
+    },
+    "275": {
+      "chapter_number": 275,
+      "global_number": 275,
+      "local_number": 50,
+      "num_shlokas": 28,
+      "file": "subparva_27_dyuta_parva/chapter_275_tagged.json"
+    },
+    "276": {
+      "chapter_number": 276,
+      "global_number": 276,
+      "local_number": 51,
+      "num_shlokas": 26,
+      "file": "subparva_27_dyuta_parva/chapter_276_tagged.json"
+    },
+    "277": {
+      "chapter_number": 277,
+      "global_number": 277,
+      "local_number": 52,
+      "num_shlokas": 37,
+      "file": "subparva_27_dyuta_parva/chapter_277_tagged.json"
+    },
+    "278": {
+      "chapter_number": 278,
+      "global_number": 278,
+      "local_number": 53,
+      "num_shlokas": 25,
+      "file": "subparva_27_dyuta_parva/chapter_278_tagged.json"
+    },
+    "279": {
+      "chapter_number": 279,
+      "global_number": 279,
+      "local_number": 54,
+      "num_shlokas": 29,
+      "file": "subparva_27_dyuta_parva/chapter_279_tagged.json"
+    },
+    "280": {
+      "chapter_number": 280,
+      "global_number": 280,
+      "local_number": 55,
+      "num_shlokas": 17,
+      "file": "subparva_27_dyuta_parva/chapter_280_tagged.json"
+    },
+    "281": {
+      "chapter_number": 281,
+      "global_number": 281,
+      "local_number": 56,
+      "num_shlokas": 10,
+      "file": "subparva_27_dyuta_parva/chapter_281_tagged.json"
+    },
+    "282": {
+      "chapter_number": 282,
+      "global_number": 282,
+      "local_number": 57,
+      "num_shlokas": 21,
+      "file": "subparva_27_dyuta_parva/chapter_282_tagged.json"
+    },
+    "283": {
+      "chapter_number": 283,
+      "global_number": 283,
+      "local_number": 58,
+      "num_shlokas": 43,
+      "file": "subparva_27_dyuta_parva/chapter_283_tagged.json"
+    },
+    "284": {
+      "chapter_number": 284,
+      "global_number": 284,
+      "local_number": 59,
+      "num_shlokas": 12,
+      "file": "subparva_27_dyuta_parva/chapter_284_tagged.json"
+    },
+    "285": {
+      "chapter_number": 285,
+      "global_number": 285,
+      "local_number": 60,
+      "num_shlokas": 47,
+      "file": "subparva_27_dyuta_parva/chapter_285_tagged.json"
+    },
+    "286": {
+      "chapter_number": 286,
+      "global_number": 286,
+      "local_number": 61,
+      "num_shlokas": 82,
+      "file": "subparva_27_dyuta_parva/chapter_286_tagged.json"
+    },
+    "287": {
+      "chapter_number": 287,
+      "global_number": 287,
+      "local_number": 62,
+      "num_shlokas": 38,
+      "file": "subparva_27_dyuta_parva/chapter_287_tagged.json"
+    },
+    "288": {
+      "chapter_number": 288,
+      "global_number": 288,
+      "local_number": 63,
+      "num_shlokas": 36,
+      "file": "subparva_27_dyuta_parva/chapter_288_tagged.json"
+    },
+    "289": {
+      "chapter_number": 289,
+      "global_number": 289,
+      "local_number": 64,
+      "num_shlokas": 17,
+      "file": "subparva_27_dyuta_parva/chapter_289_tagged.json"
+    },
+    "290": {
+      "chapter_number": 290,
+      "global_number": 290,
+      "local_number": 65,
+      "num_shlokas": 17,
+      "file": "subparva_27_dyuta_parva/chapter_290_tagged.json"
+    }
+  }
+}

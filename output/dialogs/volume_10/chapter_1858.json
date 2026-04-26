@@ -1,0 +1,456 @@
+{
+  "chapter": 1858,
+  "local": 23,
+  "shlokas": 24,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“The brahmana said, ‘O extremely beautiful one! In this connection, there is an ancient history about the ordinances followed by the ﬁve ofﬁciating priests. Those who are knowledgable and learned know the supreme —prana, apana, udana, samana and vyana are the ﬁve ofﬁciating priests.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O extremely beautiful one! In this connection, there is an ancient history about the ordinances followed by the ﬁve ofﬁciating priests. Those who are knowledgable and learned know the supreme —prana, apana, udana, samana and vyana are the ﬁve ofﬁciating priests.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmani said, ‘Earlier, it was my view that there are seven natural ofﬁciating priests. But tell me about the supreme principle, whereby, there are ﬁve ofﬁciating priests.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmani said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmani",
+          "introduces_label": "The brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Earlier, it was my view that there are seven natural ofﬁciating priests. But tell me about the supreme principle, whereby, there are ﬁve ofﬁciating priests.’",
+          "speaker": "the_brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘The breath of life is nurtured by prana and gives birth to apana. The breath of life is nurtured by apana and makes vyana ﬂow. The breath of life is nurtured by vyana and makes udana ﬂow. The breath of life is nurtured by udana and makes samana ﬂow. In earlier times, they went to Prajapati, who was born ﬁrst, and asked, “Tell us who is the eldest among us. He is the one who will be the foremost.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The breath of life is nurtured by prana and gives birth to apana. The breath of life is nurtured by apana and makes vyana ﬂow. The breath of life is nurtured by vyana and makes udana ﬂow. The breath of life is nurtured by udana and makes samana ﬂow. In earlier times, they went to Prajapati, who was born ﬁrst, and asked, ",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Tell us who is the eldest among us. He is the one who will be the foremost.”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘“‘Brahma responded, “In all creatures that have bodies and are alive, there is a breath of life. When that is destroyed, the creature is destroyed. When it is destroyed, the creature can no longer move. That is the best among you. Now go wherever you wish.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘Brahma responded, ",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“In all creatures that have bodies and are alive, there is a breath of life. When that is destroyed, the creature is destroyed. When it is destroyed, the creature can no longer move. That is the best among you. Now go wherever you wish.”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘“‘Prana said, “When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘Prana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "prana",
+          "introduces_label": "Prana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”",
+          "speaker": "prana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana continued, ‘Prana was destroyed. But the creature continued to move. O beautiful one! At this, samana and udana spoke up. “You do not pervade everything. You are not established like us. O prana! You are not the foremost. Apana alone is under your control.” Prana began to move around again and apana said, “When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.” Vyana and udana spoke these words. “O apana! You are not the foremost. Only prana is under your subjugation.” Apana began to move again and vyana now said, “I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.” Vyana was destroyed. But the creature continued to move. Prana, apana, udana and samana said, “O vyana! You are not the foremost. Samana alone is under your subjugation.” Vyana began to move again and samana said, “I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.” Samana was destroyed. But the creature continued to move. At this, prana, apana, udana and vyana said, “O samana! You are not the foremost. Vyana alone is under your subjugation.” Samana began to move again and udana said, “I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.” Udana was destroyed. But the creature continued to move. Prana, apana, samana and vyana said, “O udana! You are not the foremost. Vyana alone is under your subjugation.” At this, Brahma Prajapati spoke to the assembled ones. “All of you are foremost. Yet, not a single one is foremost. All of you follow different kinds of dharma. All of you are foremost in your own area. All of you are protected by each other. There are superior ﬁve breaths of life. They are both mobile and immobile. My atman is one, but is experienced in many different forms. Be affectionate towards each other and make each other prosper. O fortunate ones! Depart in peace. Sustain each other.”’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Prana was destroyed. But the creature continued to move. O beautiful one! At this, samana and udana spoke up. ",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“You do not pervade everything. You are not established like us. O prana! You are not the foremost. Apana alone is under your control.”",
+          "speaker": "prana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Prana began to move around again and apana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "prana_began_to_move_around_again_and_apana",
+          "introduces_label": "Prana began to move around again and apana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”",
+          "speaker": "prana_began_to_move_around_again_and_apana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Vyana and udana spoke these words. ",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O apana! You are not the foremost. Only prana is under your subjugation.”",
+          "speaker": "prana_began_to_move_around_again_and_apana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Apana began to move again and vyana now said, ",
+          "speaker": "the_brahmana",
+          "introduces": "apana_began_to_move_again_and_vyana_now",
+          "introduces_label": "Apana began to move again and vyana now",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”",
+          "speaker": "apana_began_to_move_again_and_vyana_now",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Vyana was destroyed. But the creature continued to move. Prana, apana, udana and samana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "samana",
+          "introduces_label": "samana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O vyana! You are not the foremost. Samana alone is under your subjugation.”",
+          "speaker": "samana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Vyana began to move again and samana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "vyana_began_to_move_again_and_samana",
+          "introduces_label": "Vyana began to move again and samana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”",
+          "speaker": "vyana_began_to_move_again_and_samana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Samana was destroyed. But the creature continued to move. At this, prana, apana, udana and vyana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "vyana",
+          "introduces_label": "vyana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O samana! You are not the foremost. Vyana alone is under your subjugation.”",
+          "speaker": "vyana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Samana began to move again and udana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "samana_began_to_move_again_and_udana",
+          "introduces_label": "Samana began to move again and udana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I am the foremost among all of us. Listen to the reason. When I am destroyed, the creature also heads towards destruction. Therefore, among all the breaths that sustain life in a body, I am foremost. When I am destroyed, the creature can no longer move. Behold. I am going to destroy myself.”",
+          "speaker": "samana_began_to_move_again_and_udana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Udana was destroyed. But the creature continued to move. Prana, apana, samana and vyana said, ",
+          "speaker": "the_brahmana",
+          "introduces": "vyana",
+          "introduces_label": "vyana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O udana! You are not the foremost. Vyana alone is under your subjugation.”",
+          "speaker": "vyana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " At this, Brahma Prajapati spoke to the assembled ones. ",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“All of you are foremost. Yet, not a single one is foremost. All of you follow different kinds of dharma. All of you are foremost in your own area. All of you are protected by each other. There are superior ﬁve breaths of life. They are both mobile and immobile. My atman is one, but is experienced in many different forms. Be affectionate towards each other and make each other prosper. O fortunate ones! Depart in peace. Sustain each other.”",
+          "speaker": "vyana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

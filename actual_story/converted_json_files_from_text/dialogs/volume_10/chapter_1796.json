@@ -1,0 +1,88 @@
+{
+  "chapter": 1796,
+  "local": 115,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘The grandfather was lying down on the bed of arrows. After this, the immensely energetic King Yudhishthira again asked the supreme among eloquent ones. “O immensely intelligent one! The rishis, the brahmanas and the gods cite the proofs laid down in the Vedas and praise the dharma that has signs of non-violence. O supreme among kings! However, if a man has indulged in violence, in deeds, words and thoughts, how can he be freed from the misery?”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The grandfather was lying down on the bed of arrows. After this, the immensely energetic King Yudhishthira again asked the supreme among eloquent ones. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O immensely intelligent one! The rishis, the brahmanas and the gods cite the proofs laid down in the Vedas and praise the dharma that has signs of non-violence. O supreme among kings! However, if a man has indulged in violence, in deeds, words and thoughts, how can he be freed from the misery?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O slayer of enemies! Those who have spoken about the brahman have instructed that there are four kinds of non-violence and deviation from even one of these is not acceptable. All quadrupeds are incapable of standing on three legs. O protector of the earth! In that way, it is said that one cannot stand on only three. When others follow in the footsteps of an elephant, all their footprints are lost in the footprints left by the elephant. In that way, in this world, non-violence has been instructed as the supreme dharma. Creatures become attached to violence in deeds, words and thoughts. It must ﬁrst be given up in the mind and then in words and deeds. Those who have spoken about the brahman have spoken about these three kinds of reasons. The sins are established in thoughts, words and taste{360}. Learned ones who are devoted to austerities do not eat ﬂesh. O king! I will tell you about the sins attached to the eating of meat. Listen to me. Those who senselessly eat it, eat what is like the ﬂesh of their own son. A son is born through the union of the mother and the father. In that way, the juices are united with the tongue and lead to discrimination. That is the reason the sacred texts say that taste and attachment must be controlled{361}. Whether it is cooked well or not cooked well, whether there is salt in it or no salt in it, once one discriminates, those sentiments constrict the consciousness. After listening to the sounds of drums, conch shells and stringed musical instruments, how can those evil men eat meat? Having tasted the juices, there are those who praise meat and the fruits it leads to, describing it as inconceivable, unimaginable and impossible to describe. These are sinful acts and lead to consequent fruits. There are many virtuous people who protected the ﬂesh of others and gave up their own ﬂesh and their own lives instead. They went to heaven. O great king! These are the four traits of non-violent conduct. What I have instructed you has the essence of all dharma and artha.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O slayer of enemies! Those who have spoken about the brahman have instructed that there are four kinds of non-violence and deviation from even one of these is not acceptable. All quadrupeds are incapable of standing on three legs. O protector of the earth! In that way, it is said that one cannot stand on only three. When others follow in the footsteps of an elephant, all their footprints are lost in the footprints left by the elephant. In that way, in this world, non-violence has been instructed as the supreme dharma. Creatures become attached to violence in deeds, words and thoughts. It must ﬁrst be given up in the mind and then in words and deeds. Those who have spoken about the brahman have spoken about these three kinds of reasons. The sins are established in thoughts, words and taste{360}. Learned ones who are devoted to austerities do not eat ﬂesh. O king! I will tell you about the sins attached to the eating of meat. Listen to me. Those who senselessly eat it, eat what is like the ﬂesh of their own son. A son is born through the union of the mother and the father. In that way, the juices are united with the tongue and lead to discrimination. That is the reason the sacred texts say that taste and attachment must be controlled{361}. Whether it is cooked well or not cooked well, whether there is salt in it or no salt in it, once one discriminates, those sentiments constrict the consciousness. After listening to the sounds of drums, conch shells and stringed musical instruments, how can those evil men eat meat? Having tasted the juices, there are those who praise meat and the fruits it leads to, describing it as inconceivable, unimaginable and impossible to describe. These are sinful acts and lead to consequent fruits. There are many virtuous people who protected the ﬂesh of others and gave up their own ﬂesh and their own lives instead. They went to heaven. O great king! These are the four traits of non-violent conduct. What I have instructed you has the essence of all dharma and artha.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

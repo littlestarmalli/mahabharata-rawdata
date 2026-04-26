@@ -1,0 +1,746 @@
+{
+  "chapter": 279,
+  "local": 54,
+  "shlokas": 29,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O Shakuni! You have won this gamble from me by using deceit. Let us now grasp the dice and play a thousand times. I have a hundred laden jars, each ﬁlled with a thousand gold coins. O king! That apart, my treasury has inexhaustible gold and much gold{138}. Those are the riches I now stake to gamble with you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shakuni! You have won this gamble from me by using deceit. Let us now grasp the dice and play a thousand times. I have a hundred laden jars, each ﬁlled with a thousand gold coins. O king! That apart, my treasury has inexhaustible gold and much gold{138}. Those are the riches I now stake to gamble with you.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘As soon as he had spoken, Shakuni told the king, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘As soon as he had spoken, Shakuni told the king, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “My royal chariot is covered with tiger skin and is worth a thousand. It is ﬁnely built, beautiful, makes a thunderous noise and is adorned with nets of bells. It gladdens the heart and brought us here. This sacred chariot, supreme among all chariots, roars like the clouds and the ocean. It is drawn by eight horses that are famous throughout the kingdom. They are noble and have the colour of ospreys. No one who walks the earth can escape their hooves. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“My royal chariot is covered with tiger skin and is worth a thousand. It is ﬁnely built, beautiful, makes a thunderous noise and is adorned with nets of bells. It gladdens the heart and brought us here. This sacred chariot, supreme among all chariots, roars like the clouds and the ocean. It is drawn by eight horses that are famous throughout the kingdom. They are noble and have the colour of ospreys. No one who walks the earth can escape their hooves. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard this, Shakuni used deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard this, Shakuni used deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “O Soubala! I have one thousand elephants that are in must. They have golden girdles and are hung with golden garlands. They are spotted{139}. They are well trained, with ﬁne tusks and are capable of bearing kings. They can withstand every kind of noise in battle. They have giant tusks like shafts{140} and each bull has with it eight she-elephants. All of these elephants have the shade of new clouds{141} and are capable of battering down enemy cities. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Soubala! I have one thousand elephants that are in must. They have golden girdles and are hung with golden garlands. They are spotted{139}. They are well trained, with ﬁne tusks and are capable of bearing kings. They can withstand every kind of noise in battle. They have giant tusks like shafts{140} and each bull has with it eight she-elephants. All of these elephants have the shade of new clouds{141} and are capable of battering down enemy cities. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard these words, Soubala laughed at Partha. Shakuni told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard these words, Soubala laughed at Partha. Shakuni told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have one hundred thousand slave girls. They are young and extremely beautiful. They wear bracelets and armlets{142}, necklaces of gold coins and wear ornaments. They wear expensive garlands and ornaments, beautiful garments, and are anointed with sandalwood paste. They wear jewels and gold and all of them are dressed in sheer garments. They are skilled in singing and dancing. On my instructions, they wait upon and serve the snatakas, advisers and kings. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have one hundred thousand slave girls. They are young and extremely beautiful. They wear bracelets and armlets{142}, necklaces of gold coins and wear ornaments. They wear expensive garlands and ornaments, beautiful garments, and are anointed with sandalwood paste. They wear jewels and gold and all of them are dressed in sheer garments. They are skilled in singing and dancing. On my instructions, they wait upon and serve the snatakas, advisers and kings. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have thousands of male slaves. They are always dressed in ﬁne garments and are skilled and ready to serve. They are wise, young, skilled and intelligent and wear polished earrings. With plates in their hands, they feed the guests day and night. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have thousands of male slaves. They are always dressed in ﬁne garments and are skilled and ready to serve. They are wise, young, skilled and intelligent and wear polished earrings. With plates in their hands, they feed the guests day and night. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have as many{143} chariots. They have pennants and are equipped with golden vessels. There are also well-trained horses, charioteers and wonderful warriors. Regardless of whether they ﬁght or do not ﬁght, each of them receives one thousand as monthly salary. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have as many{143} chariots. They have pennants and are equipped with golden vessels. There are also well-trained horses, charioteers and wonderful warriors. Regardless of whether they ﬁght or do not ﬁght, each of them receives one thousand as monthly salary. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard these words of Partha, the evil one resorted to deceit. Shakuni told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard these words of Partha, the evil one resorted to deceit. Shakuni told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have gandharva horses that are spotted and have the colour of partridges. They have golden harnesses and were happily given by Chitraratha{144} to Gandivadhanva{145}. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have gandharva horses that are spotted and have the colour of partridges. They have golden harnesses and were happily given by Chitraratha{144} to Gandivadhanva{145}. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard this, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard this, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have ten thousand chariots, carts and horses. They are yoked to the best draught animals. I have thousands of soldiers from each varna. They drink milk and feed on rice and grain. There are sixty thousand of them and all of them have broad chests. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have ten thousand chariots, carts and horses. They are yoked to the best draught animals. I have thousands of soldiers from each varna. They drink milk and feed on rice and grain. There are sixty thousand of them and all of them have broad chests. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On hearing these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On hearing these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “I have four hundred treasure chests made of copper and iron. Each of them has ﬁve receptacles ﬁlled with beaten gold. O king! These are my riches that I now gamble with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have four hundred treasure chests made of copper and iron. Each of them has ﬁve receptacles ﬁlled with beaten gold. O king! These are my riches that I now gamble with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On hearing these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On hearing these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

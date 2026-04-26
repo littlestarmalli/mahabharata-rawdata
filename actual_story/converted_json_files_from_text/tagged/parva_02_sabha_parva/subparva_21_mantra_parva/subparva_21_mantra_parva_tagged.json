@@ -1,0 +1,65 @@
+{
+  "name": "Mantra Parva",
+  "subparva_number": 21,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 222
+  },
+  "note": "The word mantra has different meanings, but here it means a process of consultation. This section is therefore about a process of consultation pri-or to the royal sacrifice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "237": {
+      "chapter_number": 237,
+      "global_number": 237,
+      "local_number": 12,
+      "num_shlokas": 40,
+      "file": "subparva_21_mantra_parva/chapter_237_tagged.json"
+    },
+    "238": {
+      "chapter_number": 238,
+      "global_number": 238,
+      "local_number": 13,
+      "num_shlokas": 68,
+      "file": "subparva_21_mantra_parva/chapter_238_tagged.json"
+    },
+    "239": {
+      "chapter_number": 239,
+      "global_number": 239,
+      "local_number": 14,
+      "num_shlokas": 20,
+      "file": "subparva_21_mantra_parva/chapter_239_tagged.json"
+    },
+    "240": {
+      "chapter_number": 240,
+      "global_number": 240,
+      "local_number": 15,
+      "num_shlokas": 16,
+      "file": "subparva_21_mantra_parva/chapter_240_tagged.json"
+    },
+    "241": {
+      "chapter_number": 241,
+      "global_number": 241,
+      "local_number": 16,
+      "num_shlokas": 51,
+      "file": "subparva_21_mantra_parva/chapter_241_tagged.json"
+    },
+    "242": {
+      "chapter_number": 242,
+      "global_number": 242,
+      "local_number": 17,
+      "num_shlokas": 27,
+      "file": "subparva_21_mantra_parva/chapter_242_tagged.json"
+    }
+  }
+}

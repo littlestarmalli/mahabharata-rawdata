@@ -1,0 +1,347 @@
+{
+  "name": "Naradagamana Parva",
+  "subparva_number": 92,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 3,
+    "num_shlokas": 91
+  },
+  "note": "Agamana means arrival and this parva is about Narada�s arrival. Narada arrives and tells the Pandavas that Dhritarashtra, Gandhari and Kunti have been killed in a forest fire and Sanjaya has gone off to the Himalayas.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1976": {
+      "global_number": 1976,
+      "local_number": 45,
+      "num_shlokas": 44,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O king! Two years passed since the return of the Pandavas. As he wished, devarshi Narada came to meet Yudhishthira. Mighty-armed Yudhishthira, king of the Kurus, worshipped him. When he was seated and rested, the supreme among eloquent ones asked, “O illustrious one! It has been a long time since you last came. O brahmana! Since you have arrived, is everything well and auspicious? Which countries have you seen? What can I do for you? O foremost among brahmanas! Tell me that. You are our beloved guest.” Narada replied, “O king! I have not seen you for a long time and that is the reason I have come from my hermitage. O king! I have seen the tirthas and the Ganga.” Yudhishthira asked, “People who reside along the banks of the Ganga say that the great-souled Dhritarashtra is resorting to supreme austerities now. Have you seen if the extender of the Kuru lineage is well? What about Gandhari, Pritha and Sanjaya, the son of a suta? How is the king, my father, now? O illustrious one! If you have seen the king, I wish to hear about this.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Two years passed since the return of the Pandavas. As he wished, devarshi Narada came to meet Yudhishthira. Mighty-armed Yudhishthira, king of the Kurus, worshipped him. When he was seated and rested,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the supreme among eloquent ones asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_supreme_among_eloquent_ones",
+              "text": "“O illustrious one! It has been a long time since you last came. O brahmana! Since you have arrived, is everything well and auspicious? Which countries have you seen? What can I do for you? O foremost among brahmanas! Tell me that. You are our beloved guest.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“O king! I have not seen you for a long time and that is the reason I have come from my hermitage. O king! I have seen the tirthas and the Ganga.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“People who reside along the banks of the Ganga say that the great-souled Dhritarashtra is resorting to supreme austerities now. Have you seen if the extender of the Kuru lineage is well? What about Gandhari, Pritha and Sanjaya, the son of a suta? How is the king, my father, now? O illustrious one! If you have seen the king, I wish to hear about this.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Narada replied, “O great king! Be calm and listen. I will tell you everything about what I heard and what I saw in that hermitage. O descendant of the Kuru lineage! O king! When you returned from residing in the forest, your father left Kurukshetra and left for Gangadvara{1}. The intelligent one went with Gandhari, the daughter-in-law, Kunti, the suta Sanjaya, the sacriﬁcial ﬁre and the ofﬁciating priests. Your father is a store of austerities and resorted to ﬁerce austerities. He placed pebbles in his mouth. He subsisted only on air. He became like a sage. In that forest, the great ascetic was worshipped by all the sages. In six months, the king was reduced to skin and bones. Gandhari subsisted only on water. Kunti ate only once a month. O descendant of the Bharata lineage! Sanjaya ate every sixth day. The lord and the ofﬁciating priests offered many kinds of oblations into the sacriﬁcial ﬁre. In that forest, the king was sometimes seen and sometimes not seen{2}. The king roamed around in that forest, without a ﬁxed abode. He was followed by the two queens and by Sanjaya. Sanjaya guided the king over plain and uneven terrain. In a similar way, the unblemished Pritha became Gandhari’s eyes. Once, the supreme among kings went to a marshy tract near the Ganga. The intelligent one bathed in the Ganga and then headed for the hermitage. A wind arose and there was a large forest conﬂagration. In every direction, it grasped everything and burnt down the entire forest. In every direction, herds of deer and ﬂocks of birds were burnt down. Herds of boar sought refuge in waterbodies. The forest thus confronted a great hardship. The king had not eaten. Because he was weak, he couldn’t move around. Your mothers were also extremely emaciated and incapable of moving. The king saw that the ﬁre was approaching near. Therefore, the lord of the earth anxiously spoke these words to the suta, Sanjaya. ‘O Sanjaya! Go to a spot so that the ﬁre does not burn you down. We will be burnt down by the ﬁre and obtain the supreme objective.’ Sanjaya, supreme among eloquent ones, replied, ‘O king! This destruction and death from a ﬁre is futile. However, I do not see any means of escaping from the ﬁre. Therefore, you should tell me what needs to be done now.’ Thus addressed by Sanjaya, the king spoke again. ‘Since we have left our house ourselves, this death can cause us no harm. Water, ﬁre, wind and emaciation of the body are praised for ascetics{3}. O Sanjaya! Leave without delay.’ Having told Sanjaya this, the king concentrated his mind. He sat down with Gandhari and Kunti, facing an eastern direction. On seeing this, Sanjaya circumambulated them. The intelligent one replied, ‘O lord! Focus yourself.’ The king, the learned son of a rishi, acted in accordance with these words. He restrained all his senses and became like a piece of wood. So did the immensely fortunate Gandhari and your mother, Pritha. Your father, the king, was burnt down in the forest conﬂagration. But Sanjaya, the great adviser, escaped from the conﬂagration. I saw him on the banks of the Ganga, surrounded by ascetics. When I asked him, the energetic one told me everything. The suta, Sanjaya, next left for the Himalaya mountains. In this way, the great-minded king of the Kurus was killed. O lord of men! So were Gandhari and your mother, Pritha. O bull among the Bharata lineage! When I was wandering around as I wished, I saw the bodies of the king and the two queens. On hearing about the king, many ascetics assembled in that hermitage. He was devoted and you should not grieve about him. O supreme among men! O Pandava! That is where I heard everything about the king and the queens and about how they were burnt down. O Indra among kings! You should not grieve about this. The lord of the earth, Gandhari and your mother desired that death by the ﬁre voluntarily.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“O great king! Be calm and listen. I will tell you everything about what I heard and what I saw in that hermitage. O descendant of the Kuru lineage! O king! When you returned from residing in the forest, your father left Kurukshetra and left for Gangadvara{1}. The intelligent one went with Gandhari, the daughter-in-law, Kunti, the suta Sanjaya, the sacriﬁcial ﬁre and the ofﬁciating priests. Your father is a store of austerities and resorted to ﬁerce austerities. He placed pebbles in his mouth. He subsisted only on air. He became like a sage. In that forest, the great ascetic was worshipped by all the sages. In six months, the king was reduced to skin and bones. Gandhari subsisted only on water. Kunti ate only once a month. O descendant of the Bharata lineage! Sanjaya ate every sixth day. The lord and the ofﬁciating priests offered many kinds of oblations into the sacriﬁcial ﬁre. In that forest, the king was sometimes seen and sometimes not seen{2}. The king roamed around in that forest, without a ﬁxed abode. He was followed by the two queens and by Sanjaya. Sanjaya guided the king over plain and uneven terrain. In a similar way, the unblemished Pritha became Gandhari’s eyes. Once, the supreme among kings went to a marshy tract near the Ganga. The intelligent one bathed in the Ganga and then headed for the hermitage. A wind arose and there was a large forest conﬂagration. In every direction, it grasped everything and burnt down the entire forest. In every direction, herds of deer and ﬂocks of birds were burnt down. Herds of boar sought refuge in waterbodies. The forest thus confronted a great hardship. The king had not eaten. Because he was weak, he couldn’t move around. Your mothers were also extremely emaciated and incapable of moving. The king saw that the ﬁre was approaching near. Therefore, the lord of the earth anxiously spoke these words to the suta, Sanjaya. ‘O Sanjaya! Go to a spot so that the ﬁre does not burn you down. We will be burnt down by the ﬁre and obtain the supreme objective.’ Sanjaya, supreme among eloquent ones, replied, ‘O king! This destruction and death from a ﬁre is futile. However, I do not see any means of escaping from the ﬁre. Therefore, you should tell me what needs to be done now.’ Thus addressed by Sanjaya, the king spoke again. ‘Since we have left our house ourselves, this death can cause us no harm. Water, ﬁre, wind and emaciation of the body are praised for ascetics{3}. O Sanjaya! Leave without delay.’ Having told Sanjaya this, the king concentrated his mind. He sat down with Gandhari and Kunti, facing an eastern direction. On seeing this, Sanjaya circumambulated them. The intelligent one replied, ‘O lord! Focus yourself.’ The king, the learned son of a rishi, acted in accordance with these words. He restrained all his senses and became like a piece of wood. So did the immensely fortunate Gandhari and your mother, Pritha. Your father, the king, was burnt down in the forest conﬂagration. But Sanjaya, the great adviser, escaped from the conﬂagration. I saw him on the banks of the Ganga, surrounded by ascetics. When I asked him, the energetic one told me everything. The suta, Sanjaya, next left for the Himalaya mountains. In this way, the great-minded king of the Kurus was killed. O lord of men! So were Gandhari and your mother, Pritha. O bull among the Bharata lineage! When I was wandering around as I wished, I saw the bodies of the king and the two queens. On hearing about the king, many ascetics assembled in that hermitage. He was devoted and you should not grieve about him. O supreme among men! O Pandava! That is where I heard everything about the king and the queens and about how they were burnt down. O Indra among kings! You should not grieve about this. The lord of the earth, Gandhari and your mother desired that death by the ﬁre voluntarily.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘On hearing this about Dhritarashtra’s departure, all the Pandavas were overcome by great grief. O great king! On hearing that the king had obtained his end, great sounds of lamentation arose from the inner quarters and from the citizens. Extremely miserable, the king exclaimed, “Alas!” Remembering his mother, Yudhishthira raised his arms upwards and wept. So did all his brothers, with Bhimasena at the forefront. O great king! On hearing that Pritha had departed, great sounds of weeping arose from the inner quarters. All of them sorrowed over the aged king who had lost his sons and had now been burnt down and about the ascetic Gandhari. O descendant of the Bharata lineage! After some time, those sounds stopped. Controlling his tears through his fortitude, Dharmaraja spoke these words.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On hearing this about Dhritarashtra’s departure, all the Pandavas were overcome by great grief. O great king! On hearing that the king had obtained his end, great sounds of lamentation arose from the inner quarters and from the citizens. Extremely miserable,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the king exclaimed",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king",
+              "text": "“Alas!”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Remembering his mother, Yudhishthira raised his arms upwards and wept. So did all his brothers, with Bhimasena at the forefront. O great king! On hearing that Pritha had departed, great sounds of weeping arose from the inner quarters. All of them sorrowed over the aged king who had lost his sons and had now been burnt down and about the ascetic Gandhari. O descendant of the Bharata lineage! After some time, those sounds stopped. Controlling his tears through his fortitude, Dharmaraja spoke these words.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1977": {
+      "global_number": 1977,
+      "local_number": 46,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “The great-souled one was engaged in ﬁerce austerities. Though we, his relatives, are here, he died without a protector. Since Vichitravirya’s son has been burnt down in a forest conﬂagration, it is my view that the fortune of men is extremely difﬁcult to decipher. He had one hundred handsome sons, with strength in their arms. The king himself possessed the strength of ten thousand elephants. Yet, he has been burnt down in a forest conﬂagration. Earlier, the best of women used to fan him with fans made out of palm leaves. Since he has been consumed in a forest conﬂagration, vultures are fanning him now. Large numbers of bards and minstrels used to wake him from sleep earlier. Because of my wicked deeds, the king is lying down on the ground now. I am not grieving over the illustrious Gandhari, whose sons have been slain. Devoted to her husband’s vows, she has got the world obtained by her husband. But I sorrow over Pritha. She abandoned the extremely great and blazing prosperity of her sons and chose to reside in the forest instead. Shame on our kingdom. Shame on our strength. Shame on our valour. Shame on the dharma of kshatriyas and on the fact that we are alive while she is dead. O supreme among the best of brahmanas! The progress of time is indeed exceedingly subtle, since she abandoned the kingdom and desired to reside in the forest. She is the mother of Yudhishthira, Bhima and Vijaya. Without a protector, how could she have been burnt down? When I think of this, I am stupeﬁed. Savyasachi paciﬁed the ﬁre god in Khandava and that was pointless{4}. It is my view that he{5} ignored that good deed and was ungrateful. The illustrious one burnt down Savyasachi’s mother. He assumed the disguise of a brahmana and arrived, seeking alms. Shame on Agni. Shame on Partha’s fame and unwavering aim. O illustrious one! There is something else that brings me greater grief. How could the lord of the earth suffer from a futile death from the ﬁre? Rajarshi Kourava decided to become an ascetic. He ruled the earth. How can this kind of death be praised for him? In the great forest, there are also ﬁres that have been sanctiﬁed by mantras. Since my father was so devoted, how could he have been consumed by a futile ﬁre? Pritha was emaciated and reduced to veins alone. I think that in great fear, she must have trembled and shrieked, ‘O son! O Dharmaraja! O Bhima! Save me from the fear that has surrounded me from all sides.’ Anxious because of the ﬁre, my mother must have run around in every direction. She loved Sahadeva more than her own sons. But that brave son of Madravati did not save her.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The great-souled one was engaged in ﬁerce austerities. Though we, his relatives, are here, he died without a protector. Since Vichitravirya’s son has been burnt down in a forest conﬂagration, it is my view that the fortune of men is extremely difﬁcult to decipher. He had one hundred handsome sons, with strength in their arms. The king himself possessed the strength of ten thousand elephants. Yet, he has been burnt down in a forest conﬂagration. Earlier, the best of women used to fan him with fans made out of palm leaves. Since he has been consumed in a forest conﬂagration, vultures are fanning him now. Large numbers of bards and minstrels used to wake him from sleep earlier. Because of my wicked deeds, the king is lying down on the ground now. I am not grieving over the illustrious Gandhari, whose sons have been slain. Devoted to her husband’s vows, she has got the world obtained by her husband. But I sorrow over Pritha. She abandoned the extremely great and blazing prosperity of her sons and chose to reside in the forest instead. Shame on our kingdom. Shame on our strength. Shame on our valour. Shame on the dharma of kshatriyas and on the fact that we are alive while she is dead. O supreme among the best of brahmanas! The progress of time is indeed exceedingly subtle, since she abandoned the kingdom and desired to reside in the forest. She is the mother of Yudhishthira, Bhima and Vijaya. Without a protector, how could she have been burnt down? When I think of this, I am stupeﬁed. Savyasachi paciﬁed the ﬁre god in Khandava and that was pointless{4}. It is my view that he{5} ignored that good deed and was ungrateful. The illustrious one burnt down Savyasachi’s mother. He assumed the disguise of a brahmana and arrived, seeking alms. Shame on Agni. Shame on Partha’s fame and unwavering aim. O illustrious one! There is something else that brings me greater grief. How could the lord of the earth suffer from a futile death from the ﬁre? Rajarshi Kourava decided to become an ascetic. He ruled the earth. How can this kind of death be praised for him? In the great forest, there are also ﬁres that have been sanctiﬁed by mantras. Since my father was so devoted, how could he have been consumed by a futile ﬁre? Pritha was emaciated and reduced to veins alone. I think that in great fear, she must have trembled and shrieked, ‘O son! O Dharmaraja! O Bhima! Save me from the fear that has surrounded me from all sides.’ Anxious because of the ﬁre, my mother must have run around in every direction. She loved Sahadeva more than her own sons. But that brave son of Madravati did not save her.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana continued, ‘Hearing this, all of them clung to each other and wept. The ﬁve Pandavas were afﬂicted by grief, like creatures at the time of the destruction of a yuga. The sounds of those Indras among men weeping ﬁlled the rooms of the palace and seemed to rise up to the space between heaven and earth.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana continued,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Hearing this, all of them clung to each other and wept. The ﬁve Pandavas were afﬂicted by grief, like creatures at the time of the destruction of a yuga. The sounds of those Indras among men weeping ﬁlled the rooms of the palace and seemed to rise up to the space between heaven and earth.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1978": {
+      "global_number": 1978,
+      "local_number": 47,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Narada said, “The king did not suffer a futile death from the ﬁre. That is what I heard there. O descendant of the Bharata lineage! This is what happened to the king who was Vichitravirya’s son. The intelligent one entered the forest and subsisted on air. He kindled the sacriﬁcial ﬁres. In that desolate forest, the ofﬁciating priests then cast those sacriﬁcial ﬁres away and the supreme among Bharatas left, as he wished. That ﬁre began to rage in the forest{6}. It is this ﬁre that blazed in the forest. That is what the ascetics told me. O bull among the Bharata lineage! As I have told you earlier, the king voluntarily allowed himself to be burnt down in a marshy area around the Jahnavi. O unblemished one! O Yudhishthira! This is what I got to know from the sages whom I met on the banks of the Bhagirathi. O lord of the earth! The king was thus consumed by his own ﬁre{7}. Since the king has gone to the supreme objective, you should not sorrow. O Pandava! There is no doubt that your mother was devoted to serving her seniors and has obtained an extremely great success. O Kouravya! You should perform the water rites for them. With your brothers, arrange for all the prescribed rites.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“The king did not suffer a futile death from the ﬁre. That is what I heard there. O descendant of the Bharata lineage! This is what happened to the king who was Vichitravirya’s son. The intelligent one entered the forest and subsisted on air. He kindled the sacriﬁcial ﬁres. In that desolate forest, the ofﬁciating priests then cast those sacriﬁcial ﬁres away and the supreme among Bharatas left, as he wished. That ﬁre began to rage in the forest{6}. It is this ﬁre that blazed in the forest. That is what the ascetics told me. O bull among the Bharata lineage! As I have told you earlier, the king voluntarily allowed himself to be burnt down in a marshy area around the Jahnavi. O unblemished one! O Yudhishthira! This is what I got to know from the sages whom I met on the banks of the Bhagirathi. O lord of the earth! The king was thus consumed by his own ﬁre{7}. Since the king has gone to the supreme objective, you should not sorrow. O Pandava! There is no doubt that your mother was devoted to serving her seniors and has obtained an extremely great success. O Kouravya! You should perform the water rites for them. With your brothers, arrange for all the prescribed rites.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana continued, ‘O bull among the Bharata lineage! The lord of the earth, the bearer of the burden of the Pandava lineage, departed with his brothers and his wives. Because of their devotion towards the king, so did the inhabitants of the city and the countryside. Clad in a single piece of garment, they went towards the Ganga. All the bulls among the Kurus immersed themselves in the waters there. With Yuyutsu at the forefront{8}, they offered water to the great-souled one. They also did this for Gandhari and Pritha in the prescribed way, pronouncing their names and their gotras. Having performed the rites of puriﬁcation, they returned, but remained outside the city{9}. They sent men who knew the ordinances about the funeral rites. O best among the Kuru lineage! They went to Gangadvara, where the king had been consumed. The lord of the earth{10} had given those men riches to perform the cremation rites in Gangadvara. On the twelfth day, the lord of men puriﬁed himself. For the funeral ceremony, Pandava gave away many types of dakshina. In Dhritarashtra’s name, the lord of the earth gave away gold, silver, cattle and extremely expensive beds. Naming them separately, the king also gave away different gifts in the names of the energetic Gandhari and Pritha. Every brahmana received whatever he wanted and as much as he wanted. There were beds, food, vehicles, gems, jewels and riches. In the names of the lord of the earth and his mothers, the king gave away vehicles, spreads, objects of pleasure, female slaves and female servants. Having given away large quantities at the funeral ceremony, the intelligent lord of the earth again entered Varanasahvya{11}. The men who had gone, following the king’s commands, also completed the cremation rites and returned with the remains. As is prescribed, these remains were worshipped with many kinds of garlands and fragrances. The king placed these remains in the proper places and performed the rites. O king! Narada comforted King Yudhishthira, the one with dharma in his soul. The supreme rishi then took his leave and went away wherever he wished. In this way, the intelligent Dhritarashtra spent ﬁfteen years in the city and three years in the forest. He always gave away gifts in the names of his sons, kin, matrimonial allies, friends, brothers and relatives who had been slain in the war. With his kin and relatives dead, King Yudhishthira was distressed in his mind, but bore the burden of the kingdom.’ This ends Naradagamana Parva and also ends Ashrama-Vasika Parva.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana continued,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O bull among the Bharata lineage! The lord of the earth, the bearer of the burden of the Pandava lineage, departed with his brothers and his wives. Because of their devotion towards the king, so did the inhabitants of the city and the countryside. Clad in a single piece of garment, they went towards the Ganga. All the bulls among the Kurus immersed themselves in the waters there. With Yuyutsu at the forefront{8}, they offered water to the great-souled one. They also did this for Gandhari and Pritha in the prescribed way, pronouncing their names and their gotras. Having performed the rites of puriﬁcation, they returned, but remained outside the city{9}. They sent men who knew the ordinances about the funeral rites. O best among the Kuru lineage! They went to Gangadvara, where the king had been consumed. The lord of the earth{10} had given those men riches to perform the cremation rites in Gangadvara. On the twelfth day, the lord of men puriﬁed himself. For the funeral ceremony, Pandava gave away many types of dakshina. In Dhritarashtra’s name, the lord of the earth gave away gold, silver, cattle and extremely expensive beds. Naming them separately, the king also gave away different gifts in the names of the energetic Gandhari and Pritha. Every brahmana received whatever he wanted and as much as he wanted. There were beds, food, vehicles, gems, jewels and riches. In the names of the lord of the earth and his mothers, the king gave away vehicles, spreads, objects of pleasure, female slaves and female servants. Having given away large quantities at the funeral ceremony, the intelligent lord of the earth again entered Varanasahvya{11}. The men who had gone, following the king’s commands, also completed the cremation rites and returned with the remains. As is prescribed, these remains were worshipped with many kinds of garlands and fragrances. The king placed these remains in the proper places and performed the rites. O king! Narada comforted King Yudhishthira, the one with dharma in his soul. The supreme rishi then took his leave and went away wherever he wished. In this way, the intelligent Dhritarashtra spent ﬁfteen years in the city and three years in the forest. He always gave away gifts in the names of his sons, kin, matrimonial allies, friends, brothers and relatives who had been slain in the war. With his kin and relatives dead, King Yudhishthira was distressed in his mind, but bore the burden of the kingdom.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "This ends Naradagamana Parva and also ends Ashrama-Vasika Parva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

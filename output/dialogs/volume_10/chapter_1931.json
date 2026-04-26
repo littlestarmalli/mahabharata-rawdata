@@ -1,0 +1,155 @@
+{
+  "chapter": 1931,
+  "local": 96,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘Who was the mongoose with a golden head? Who was the one who spoke in a human voice? I am asking you. Tell me.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Who was the mongoose with a golden head? Who was the one who spoke in a human voice? I am asking you. Tell me.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘You did not ask me earlier. That is the reason I did not tell you. Hear about the mongoose, the one who spoke in a human voice. In ancient times, Jamadagni thought of a funeral ceremony. The cow for the oblations appeared before him and he milked her himself. He placed the milk in a new, ﬁrm and pure vessel. Krodha{380} adopted a personiﬁed form and entered the vessel. He wished to test what the best among sages would do if something disagreeable was done. Having thought this and driven by this wicked intelligence, he corrupted the milk. But the sage knew that this was Krodha and wasn't enraged. At this, Krodha showed his form to him and stood, hands joined in salutation. “O foremost among the Bhrigu lineage! It is said that the Bhrigus are extremely prone to rage. But I have been conquered by you. People are wrong in their slander. I have been defeated by you. O great-souled one! I am stationed before you now. Forgive me. O virtuous one! I am frightened of your austerities. O lord! Show me your favours.” Jamadagni replied, “O Krodha! I have seen you in your personiﬁed form. Without any anxiety, depart. You have not caused me any injury today and there is no rage in me. I kept this milk with the resolution that I would offer it to the immensely fortunate ancestors. Go to them and ascertain what they want.” Thus addressed, fear was generated in him and he{381} disappeared. Cursed by the ancestors, he became a mongoose. He sought their favours, so that the curse might end. They told him, “When you speak ill of dharma, you will be freed.” Thus addressed, he wandered in places where sacriﬁces were performed and in forests, censuring dharma. It was thus that he came to this sacriﬁce. He censured Dharma's son by mentioning the prastha of saktu. Yudhishthira was Dharma's self and thus Krodha was freed from the curse. This is what transpired at the great-souled one's sacriﬁce. While we looked on, the mongoose vanished.’ This concludes Ashvamedhika Parva.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘You did not ask me earlier. That is the reason I did not tell you. Hear about the mongoose, the one who spoke in a human voice. In ancient times, Jamadagni thought of a funeral ceremony. The cow for the oblations appeared before him and he milked her himself. He placed the milk in a new, ﬁrm and pure vessel. Krodha{380} adopted a personiﬁed form and entered the vessel. He wished to test what the best among sages would do if something disagreeable was done. Having thought this and driven by this wicked intelligence, he corrupted the milk. But the sage knew that this was Krodha and wasn't enraged. At this, Krodha showed his form to him and stood, hands joined in salutation. ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O foremost among the Bhrigu lineage! It is said that the Bhrigus are extremely prone to rage. But I have been conquered by you. People are wrong in their slander. I have been defeated by you. O great-souled one! I am stationed before you now. Forgive me. O virtuous one! I am frightened of your austerities. O lord! Show me your favours.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Jamadagni replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@jamadagni",
+          "introduces_label": "Jamadagni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Krodha! I have seen you in your personiﬁed form. Without any anxiety, depart. You have not caused me any injury today and there is no rage in me. I kept this milk with the resolution that I would offer it to the immensely fortunate ancestors. Go to them and ascertain what they want.”",
+          "speaker": "@jamadagni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed, fear was generated in him and he{381} disappeared. Cursed by the ancestors, he became a mongoose. He sought their favours, so that the curse might end. They told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When you speak ill of dharma, you will be freed.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed, he wandered in places where sacriﬁces were performed and in forests, censuring dharma. It was thus that he came to this sacriﬁce. He censured Dharma's son by mentioning the prastha of saktu. Yudhishthira was Dharma's self and thus Krodha was freed from the curse. This is what transpired at the great-souled one's sacriﬁce. While we looked on, the mongoose vanished.’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": " This concludes Ashvamedhika Parva.",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "======= Ashramavasa Parva [15] ==== [3] ==== [47] ==== [1062] =======",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "======= Ashramavasa Parva [15] ==== [3] ==== [47] ==== [1062] =======",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

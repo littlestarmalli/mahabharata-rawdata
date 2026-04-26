@@ -1,0 +1,99 @@
+{
+  "chapter": 1474,
+  "local": 146,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O supreme among the Bharata lineage! If a person commits a sin out of ignorance, how can he be freed from it? Tell me about this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among the Bharata lineage! If a person commits a sin out of ignorance, how can he be freed from it? Tell me about this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is described. This is what the brahmana Indrota, the son of Shunaka, told Janamejaya. There was an extremely valorous king named Janamejaya, the son of Parikshit{127}. In his ignorance, that lord of the earth committed the sin of killing a brahmana. All the brahmanas and the priests abandoned him. Tormented day and night, the king went to the forest. Abandoned by his subjects, he acted so that he might obtain great welfare. He was tormented by repentance and performed extreme austerities. I will tell you about that history, about how he accumulated dharma. Janamejaya was tormented because of the sin he had committed and departed. He went to Indrota, the son of Shunaka, who was rigid in his vows. Having approached him, he seized his feet and embraced them. At this, the immensely wise one was alarmed and severely reprimanded him. ‘You have committed a great sin, like one who has killed a foetus. Why have you come here? What do you wish to do to me? Under no circumstances, should you touch me. Go. Go from this spot. It is certain that your presence does not give me pleasure. There is a smell of blood in you. You look like a corpse. It is inauspicious for you to be near auspicious things. Though you seem to be alive, you are actually dead. You are dead within and your soul is impure. You are only thinking about wickedness. You are awake, but you are actually asleep. You are roaming around, unhappy{128}. O king! Your being alive is futile. You will live in misery. You have been created for wicked and ignoble deeds. In this world, fathers desire sons who will bring great welfare. They perform austerities, offer sacriﬁces to the gods, worship the gods and are patient. Behold. Because of your deeds, this lineage of your forefathers has gone to hell. All their hopes have been rendered futile and so has their dependence on you. Those who worship brahmanas enjoy heaven, long lives, fame and happiness. But your constant hatred towards them has rendered this futile. Having been freed from this world, because of your wicked deed, you will fall head downwards for many years, though not for eternity. You will be devoured by vultures and peacocks with iron beaks. Once this has happened, you will return again and advance towards a wicked birth. O king! If you think that this world is nothing, not to speak of the one hereafter, in Yama's eternal abode, Yama's messengers will remind you about this.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is described. This is what the brahmana Indrota, the son of Shunaka, told Janamejaya. There was an extremely valorous king named Janamejaya, the son of Parikshit{127}. In his ignorance, that lord of the earth committed the sin of killing a brahmana. All the brahmanas and the priests abandoned him. Tormented day and night, the king went to the forest. Abandoned by his subjects, he acted so that he might obtain great welfare. He was tormented by repentance and performed extreme austerities. I will tell you about that history, about how he accumulated dharma. Janamejaya was tormented because of the sin he had committed and departed. He went to Indrota, the son of Shunaka, who was rigid in his vows. Having approached him, he seized his feet and embraced them. At this, the immensely wise one was alarmed and severely reprimanded him. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have committed a great sin, like one who has killed a foetus. Why have you come here? What do you wish to do to me? Under no circumstances, should you touch me. Go. Go from this spot. It is certain that your presence does not give me pleasure. There is a smell of blood in you. You look like a corpse. It is inauspicious for you to be near auspicious things. Though you seem to be alive, you are actually dead. You are dead within and your soul is impure. You are only thinking about wickedness. You are awake, but you are actually asleep. You are roaming around, unhappy{128}. O king! Your being alive is futile. You will live in misery. You have been created for wicked and ignoble deeds. In this world, fathers desire sons who will bring great welfare. They perform austerities, offer sacriﬁces to the gods, worship the gods and are patient. Behold. Because of your deeds, this lineage of your forefathers has gone to hell. All their hopes have been rendered futile and so has their dependence on you. Those who worship brahmanas enjoy heaven, long lives, fame and happiness. But your constant hatred towards them has rendered this futile. Having been freed from this world, because of your wicked deed, you will fall head downwards for many years, though not for eternity. You will be devoured by vultures and peacocks with iron beaks. Once this has happened, you will return again and advance towards a wicked birth. O king! If you think that this world is nothing, not to speak of the one hereafter, in Yama's eternal abode, Yama's messengers will remind you about this.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

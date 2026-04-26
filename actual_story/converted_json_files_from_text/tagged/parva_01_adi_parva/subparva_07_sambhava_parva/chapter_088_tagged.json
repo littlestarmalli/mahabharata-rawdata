@@ -1,0 +1,667 @@
+{
+  "chapter_number": 88,
+  "global_number": 88,
+  "local_number": 88,
+  "num_shlokas": 26,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Vasumana said, “O lord of men! I am Vasumana, the son of Roushadashvi, who is asking you. Is there any world for me in heaven? O great-souled one! I think you know the subject of dharma.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vasumana said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vasumana",
+          "text": "“O lord of men! I am Vasumana, the son of Roushadashvi, who is asking you. Is there any world for me in heaven? O great-souled one! I think you know the subject of dharma.”",
+          "color": "#4ED95B",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Yayati replied, “In the sky, on earth and in the directions and wherever the sun radiates its heat, eternal worlds are waiting for you in heaven.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“In the sky, on earth and in the directions and wherever the sun radiates its heat, eternal worlds are waiting for you in heaven.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Vasumana said, “I give them all to you. Do not keep falling. Let all my worlds be yours. O king! O wise one! If it is improper for you to accept them as a gift, buy them with a piece of straw.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vasumana said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vasumana",
+          "text": "“I give them all to you. Do not keep falling. Let all my worlds be yours. O king! O wise one! If it is improper for you to accept them as a gift, buy them with a piece of straw.”",
+          "color": "#4ED95B",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Yayati replied, “From childhood, I have not taken anything in a wrong way. I do not remember any false sale. If I do what others refuse to accept, how can that bring my welfare?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“From childhood, I have not taken anything in a wrong way. I do not remember any false sale. If I do what others refuse to accept, how can that bring my welfare?”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Vasumana said, “O king! If it is improper to purchase them, take these worlds from me as a gift. O lord of men! I will certainly never go there. Therefore, let these worlds be yours.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vasumana said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vasumana",
+          "text": "“O king! If it is improper to purchase them, take these worlds from me as a gift. O lord of men! I will certainly never go there. Therefore, let these worlds be yours.”",
+          "color": "#4ED95B",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘Shibi said, “O father! I am Shibi, the son of Ushinara. I ask you if there are any worlds, in the sky or in heaven, that are for me. I think you know the subject of dharma.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Shibi said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@shibi",
+          "text": "“O father! I am Shibi, the son of Ushinara. I ask you if there are any worlds, in the sky or in heaven, that are for me. I think you know the subject of dharma.”",
+          "color": "#4ED9C1",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘Yayati replied, “O lord of men! In speech and in your heart, you have never refused anyone who asked you. Therefore, eternal worlds await you in heaven, great, prosperous and radiant as lightning.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“O lord of men! In speech and in your heart, you have never refused anyone who asked you. Therefore, eternal worlds await you in heaven, great, prosperous and radiant as lightning.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘Shibi said, “O king! Accept these worlds as yours. If you don’t wish to accept them as a gift, purchase them. I will not accept them, now that I have given them to you. Go to those worlds.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Shibi said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@shibi",
+          "text": "“O king! Accept these worlds as yours. If you don’t wish to accept them as a gift, purchase them. I will not accept them, now that I have given them to you. Go to those worlds.”",
+          "color": "#4ED9C1",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘Yayati replied, “O Shibi! You are indeed the equal of Indra in inﬂuence. O lord of men! Your worlds are inﬁnite. But I derive no pleasure from worlds that are given to me. Therefore, I cannot accept what you have given to me.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“O Shibi! You are indeed the equal of Indra in inﬂuence. O lord of men! Your worlds are inﬁnite. But I derive no pleasure from worlds that are given to me. Therefore, I cannot accept what you have given to me.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘Ashtaka said, “O king! You have not welcomed any of our worlds. But we have given them all to you. You will now go to hell.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Ashtaka said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ashtaka",
+          "text": "“O king! You have not welcomed any of our worlds. But we have given them all to you. You will now go to hell.”",
+          "color": "#D94E56",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "11": {
+      "raw": "‘Yayati replied, “You have given to one who is deserving of gifts. All of you are strict in your righteousness and devoted to the truth. But I do not have the courage to do what I have not done earlier.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“You have given to one who is deserving of gifts. All of you are strict in your righteousness and devoted to the truth. But I do not have the courage to do what I have not done earlier.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "12": {
+      "raw": "‘Ashtaka said, “We see these ﬁve golden chariots before us. Who do they belong to? They are high and shining, blazing like the ﬂames of ﬁre.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Ashtaka said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ashtaka",
+          "text": "“We see these ﬁve golden chariots before us. Who do they belong to? They are high and shining, blazing like the ﬂames of ﬁre.”",
+          "color": "#D94E56",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "13": {
+      "raw": "‘Yayati replied, “These ﬁve golden chariots, high and shining and blazing like the ﬂames of ﬁre, will bear you.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“These ﬁve golden chariots, high and shining and blazing like the ﬂames of ﬁre, will bear you.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "14": {
+      "raw": "‘Ashtaka said, “O king! Climb into your chariot and ride valorously in the sky. We will follow you when our time comes.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Ashtaka said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ashtaka",
+          "text": "“O king! Climb into your chariot and ride valorously in the sky. We will follow you when our time comes.”",
+          "color": "#D94E56",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "15": {
+      "raw": "‘Yayati replied, “All of us must go together. All of us have conquered heaven. Look, our path to the world of the gods has become visible.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“All of us must go together. All of us have conquered heaven. Look, our path to the world of the gods has become visible.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "16": {
+      "raw": "Vaishampayana said, ‘Lighting up the sky and earth with the glory of their righteousness, those supreme kings then ascended their chariots and departed for heaven.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Lighting up the sky and earth with the glory of their righteousness, those supreme kings then ascended their chariots and departed for heaven.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "17": {
+      "raw": "‘Ashtaka said, “I thought that I would be the ﬁrst one to leave. The great-souled Indra has always been my friend. How is it that the vehicle of Shibi, son of Ushinara, has speedily outpaced us?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Ashtaka said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ashtaka",
+          "text": "“I thought that I would be the ﬁrst one to leave. The great-souled Indra has always been my friend. How is it that the vehicle of Shibi, son of Ushinara, has speedily outpaced us?”",
+          "color": "#D94E56",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "18": {
+      "raw": "‘Yayati replied, “Shibi, Ushinara’s son, has given up all his riches for the path of the gods. Therefore, he is the best among us. Gifts, austerities, truthfulness, dharma, humility, riches, forgiveness, equanimity and forbearance— King Shibi has always had them all, in incomparable measure. He is a learned king who has never been cruel. He is also restrained by his modesty. It is for these reasons that his chariot now outpaces ours.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“Shibi, Ushinara’s son, has given up all his riches for the path of the gods. Therefore, he is the best among us. Gifts, austerities, truthfulness, dharma, humility, riches, forgiveness, equanimity and forbearance— King Shibi has always had them all, in incomparable measure. He is a learned king who has never been cruel. He is also restrained by his modesty. It is for these reasons that his chariot now outpaces ours.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "19": {
+      "raw": "Vaishampayana said, ‘Driven by curiosity, Ashtaka again asked his maternal grandfather, who was equal to Indra, “O king! I am asking you. Please tell me truthfully. Where have you come from? Who do you belong to? Whose son are you? In this world, what is it that you have performed that no one else, Brahmana or Kshatriya, can perform?” Yayati replied, “I am Yayati, the son of Nahusha and Puru’s father. I was a universal emperor on earth. You are my relatives. So I am revealing the secret to you. I am your maternal grandfather. Having conquered the entire earth, I gave it to Brahmanas. I gave them also handsome horses with single hooves and the gods then obtained their rightful shares. I gave this entire earth away to Brahmanas, with all its means of transport—cattle, gold, the best of riches and cows that numbered one hundred arbudas{176}. The sky and the earth still exist because of my righteousness and the ﬁre burns among mankind. Never have I uttered a word that is not true. The learned always worship the truth. In all the worlds, I know that gods and sages are revered because they are devoted to the truth. He who recounts the tale of our ascent to heaven to the chief among Brahmanas, who do not question it, will himself attain the same worlds as us.” Thus, the great-souled king, who was the scourage of his enemies, was saved by his grandsons. The performer of the most noble of deeds left the earth and went to heaven, ﬁlling the earth with his exploits.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Driven by curiosity, Ashtaka again asked his maternal grandfather, who was equal to Indra,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“O king! I am asking you. Please tell me truthfully. Where have you come from? Who do you belong to? Whose son are you? In this world, what is it that you have performed that no one else, Brahmana or Kshatriya, can perform?”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yayati replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yayati",
+          "text": "“I am Yayati, the son of Nahusha and Puru’s father. I was a universal emperor on earth. You are my relatives. So I am revealing the secret to you. I am your maternal grandfather. Having conquered the entire earth, I gave it to Brahmanas. I gave them also handsome horses with single hooves and the gods then obtained their rightful shares. I gave this entire earth away to Brahmanas, with all its means of transport—cattle, gold, the best of riches and cows that numbered one hundred arbudas{176}. The sky and the earth still exist because of my righteousness and the ﬁre burns among mankind. Never have I uttered a word that is not true. The learned always worship the truth. In all the worlds, I know that gods and sages are revered because they are devoted to the truth. He who recounts the tale of our ascent to heaven to the chief among Brahmanas, who do not question it, will himself attain the same worlds as us.”",
+          "color": "#5B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Thus, the great-souled king, who was the scourage of his enemies, was saved by his grandsons. The performer of the most noble of deeds left the earth and went to heaven, ﬁlling the earth with his exploits.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

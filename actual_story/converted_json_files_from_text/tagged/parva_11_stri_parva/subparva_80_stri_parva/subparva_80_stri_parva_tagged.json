@@ -1,0 +1,79 @@
+{
+  "name": "Stri Parva",
+  "subparva_number": 80,
+  "source_volume": 8,
+  "details": {
+    "num_chapters": 8,
+    "num_shlokas": 194
+  },
+  "note": "Stri Parva is a parva concerning women. This parva is so named because it is about the grief of the women and the funeral ceremonies performed by the women and the survivors. In the 18-parva classification, Stri Parva is the eleventh. In the 100-parva classification, Stri Parva constitutes Sections 80 to 83. Stri Parva has twenty-seven chapters. In the numbering of the chap-ters in Stri Parva, the first number is a consecutive one, starting with the be-ginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within the parva. Vishoka means the end of sorrow, or to be freed from sorrow. This parva is named after Vidura�s attempt to dispel Dhritarashtra�s sorrow.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1302": {
+      "chapter_number": 1302,
+      "global_number": 1302,
+      "local_number": 1,
+      "num_shlokas": 37,
+      "file": "subparva_80_stri_parva/chapter_1302_tagged.json"
+    },
+    "1303": {
+      "chapter_number": 1303,
+      "global_number": 1303,
+      "local_number": 2,
+      "num_shlokas": 23,
+      "file": "subparva_80_stri_parva/chapter_1303_tagged.json"
+    },
+    "1304": {
+      "chapter_number": 1304,
+      "global_number": 1304,
+      "local_number": 3,
+      "num_shlokas": 17,
+      "file": "subparva_80_stri_parva/chapter_1304_tagged.json"
+    },
+    "1305": {
+      "chapter_number": 1305,
+      "global_number": 1305,
+      "local_number": 4,
+      "num_shlokas": 15,
+      "file": "subparva_80_stri_parva/chapter_1305_tagged.json"
+    },
+    "1306": {
+      "chapter_number": 1306,
+      "global_number": 1306,
+      "local_number": 5,
+      "num_shlokas": 22,
+      "file": "subparva_80_stri_parva/chapter_1306_tagged.json"
+    },
+    "1307": {
+      "chapter_number": 1307,
+      "global_number": 1307,
+      "local_number": 6,
+      "num_shlokas": 12,
+      "file": "subparva_80_stri_parva/chapter_1307_tagged.json"
+    },
+    "1308": {
+      "chapter_number": 1308,
+      "global_number": 1308,
+      "local_number": 7,
+      "num_shlokas": 20,
+      "file": "subparva_80_stri_parva/chapter_1308_tagged.json"
+    },
+    "1309": {
+      "chapter_number": 1309,
+      "global_number": 1309,
+      "local_number": 8,
+      "num_shlokas": 48,
+      "file": "subparva_80_stri_parva/chapter_1309_tagged.json"
+    }
+  }
+}

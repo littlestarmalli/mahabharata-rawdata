@@ -1,0 +1,338 @@
+{
+  "name": "Bhishma-Svargarohana Parva",
+  "subparva_number": 88,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 2,
+    "num_shlokas": 84
+  },
+  "note": "Svarga means heaven and arohana means ascent. Thus, this parva is about Bhishma�s death and ascent to heaven.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1834": {
+      "global_number": 1834,
+      "local_number": 153,
+      "num_shlokas": 50,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The king who was Kunti’s son honoured the inhabitants of the city and the countryside and gave them permission to leave for their own homes. The king who was Pandu’s son consoled the women who had lost their brave husbands and gave them a lot of riches. Having obtained his kingdom back, the immensely wise Yudhishthira was instated there. The best among men followed his own nature in everything. The supreme among the upholders of dharma obtained the benedictions of brahmanas, the foremost commanders of the army and the citizens. Having spent ﬁfty nights in that supreme and beautiful city, the bull among men remembered that this was the period the foremost among Kouravas{1} had indicated. Surrounded by priests, he emerged from Gajasahvya{2}. He saw that the sun had retreated and was proceeding towards uttarayana. Before leaving, Kounteya Yudhishthira took clariﬁed butter, garlands, fragrances, silken garments, sandalwood, the best of aloe and also black aloe, all required for preparing Bhishma. There were expensive garments and many kinds of jewels. The intelligent bull among men placed Dhritarashtra, the illustrious Gandhari, his mother, Pritha, and his brothers in front of him. Janardana and the intelligent Vidura followed, and so did Kouravya Yuyutsu and the lord Yuyudhana{3}. The king was surrounded by a large number of wagons with stores. O great king! Praises were sung. Fires were carried for kindling Bhishma. Like a king of the gods, he emerged from the city and arrived in Kurukshetra, to the king who was Shantanu’s son. O rajarshi! Parashara’s intelligent son, Vyasa, was worshipping him there and so were Narada and Asita-Devala. The remaining kings, who had not been killed, had assembled there from many countries. In every direction, the great-souled one was protected by the guards. The king saw that he was lying down on a bed meant for heroes. With his brothers, Dharmaraja descended from the chariot. Kounteya honoured his grandfather, the scorcher of enemies and Dvaipayana and the other brahmanas, who greeted them back. The undecaying one was with his brothers and with the ofﬁciating priests, who were like Brahma himself. They approached the bed of arrows, which was surrounded by the rishis.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The king who was Kunti’s son honoured the inhabitants of the city and the countryside and gave them permission to leave for their own homes. The king who was Pandu’s son consoled the women who had lost their brave husbands and gave them a lot of riches. Having obtained his kingdom back, the immensely wise Yudhishthira was instated there. The best among men followed his own nature in everything. The supreme among the upholders of dharma obtained the benedictions of brahmanas, the foremost commanders of the army and the citizens. Having spent ﬁfty nights in that supreme and beautiful city, the bull among men remembered that this was the period the foremost among Kouravas{1} had indicated. Surrounded by priests, he emerged from Gajasahvya{2}. He saw that the sun had retreated and was proceeding towards uttarayana. Before leaving, Kounteya Yudhishthira took clariﬁed butter, garlands, fragrances, silken garments, sandalwood, the best of aloe and also black aloe, all required for preparing Bhishma. There were expensive garments and many kinds of jewels. The intelligent bull among men placed Dhritarashtra, the illustrious Gandhari, his mother, Pritha, and his brothers in front of him. Janardana and the intelligent Vidura followed, and so did Kouravya Yuyutsu and the lord Yuyudhana{3}. The king was surrounded by a large number of wagons with stores. O great king! Praises were sung. Fires were carried for kindling Bhishma. Like a king of the gods, he emerged from the city and arrived in Kurukshetra, to the king who was Shantanu’s son. O rajarshi! Parashara’s intelligent son, Vyasa, was worshipping him there and so were Narada and Asita-Devala. The remaining kings, who had not been killed, had assembled there from many countries. In every direction, the great-souled one was protected by the guards. The king saw that he was lying down on a bed meant for heroes. With his brothers, Dharmaraja descended from the chariot. Kounteya honoured his grandfather, the scorcher of enemies and Dvaipayana and the other brahmanas, who greeted them back. The undecaying one was with his brothers and with the ofﬁciating priests, who were like Brahma himself. They approached the bed of arrows, which was surrounded by the rishis.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘O Kouravya! With his brothers, Dharmaraja Yudhishthira addressed the son of the river, the foremost among the Bharata lineage, who was lying down. “O king! O Jahnavi’s son! I am Yudhishthira and am bowing down before you. O mighty-armed one! If you can hear, tell me what I should do. O king! O lord! The time has come and I have brought the ﬁre for you. The preceptors, the brahmanas, the ofﬁciating priests and my brothers are also here. Your son, the immensely energetic King Dhritarashtra, is also present, with his advisers and the valiant Vasudeva. O tiger among the Kuru lineage! All the kings from Kurujangala{4}, who have not been slain, are also here. Open your eyes and look at them. Everything that needs to be done now has been arranged by me. Since this is the time you had spoken about, everything has been arranged.” Thus addressed by Kunti’s intelligent son, Gangeya looked at all those of the Bharata lineage who were standing there, surrounding him. Though Bhishma was strong, he could not move. At that time, the eloquent one grasped his{5} strong hand and spoke in a voice that was as deep as a torrent of water or the roar of the clouds. “O Kounteya! O Yudhishthira! It is good fortune that you have come here with your advisers. The illustrious sun, the one with the one thousand rays, is returning. Fifty-eight nights have passed since I have been lying down here, on these arrows that are sharp at the tip. It has been like one hundred years. O Yudhishthira! The sacred month of Magha{6} has arrived. One-fourth of shuklapaksha should still remain.” Gangeya spoke in this way to Yudhishthira, Dharma’s son. At that time, he also greeted Dhritarashtra and spoke these words. “O king! You know about dharma. Your doubts about artha have also been properly dispelled. You have served many brahmanas who are extremely learned. O lord of men! You know all the sacred texts of dharma associated with the Vedas, the four Vedas and all the Vedangas. O Kouravya! Since you know the truth about destiny, you should not grieve. From Krishna Dvaipayana, you have heard secret accounts connected with the gods. O king! Under dharma, the Pandavas are also your sons. They are always engaged in attending to their seniors. Remain established in dharma and protect them. Dharmaraja is pure in soul and always follows your instructions. I know that he is non-violent and is devoted to his seniors. Your sons were evil-souled and were addicted to anger and greed. Overcome with jealousy, they indulged in wicked conduct. You should not grieve over them.” Having spoken these words to the learned Dhritarashtra, the mighty-armed Kourava addressed Vasudeva. “O illustrious one! O god of the gods! O one who is worshipped by the gods and the asuras! O Trivikrama{7}! O wielder of the conch shell, chakra and the club! I bow down before you. O Krishna! O Vaikuntha! O Purushottama! Grant me permission. Protect the Pandaveyas. They are devoted to you. On an earlier occasion, I said this to the wicked and evil-minded Duryodhana. ‘Wherever Krishna exists, dharma is there. Wherever dharma exists, victory is there. O son! Use Vasudeva as a tirtha and have peace with the Pandavas.’ I repeatedly told him that the time had come for an alliance. However, that evil-minded and stupid one did not act in accordance with my words. Having destroyed the earth, he has himself been killed. O brave one! I know you as an ancient and supreme rishi. You spent a long period of time in Badari{8}, with the god Nara. Narada told me this and so did Vyasa, the great ascetic. They told me that Nara and Narayana have been born as men{9}.” Vasudeva replied, “O Bhishma! O king! I grant you leave. May you become a Vasu{10}. O immensely radiant one! I have not seen the slightest bit of deceit in you. O rajarshi! In your devotion to your father, you were like another Markandeya{11}. Like a servant with a bowed head, death was under your control.” Thus addressed, Gangeya again spoke to the Pandavas and to all his well-wishers, with Dhritarashtra as the foremost. “I wish to cast aside my breath of life. You should grant me leave. Strive to be truthful. Truth represents supreme strength. O descendant of the Bharata lineage{12}! Always be with non-violent and excellent brahmanas, those who have controlled their souls, are devoted to dharma and always engage in austerities.” Having said this, he embraced all his well-wishers. Yet again, the intelligent one spoke these words to Yudhishthira. “O lord of men! Brahmanas, especially wise ones, preceptors and ofﬁciating priests, should always be worshipped by you.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O Kouravya! With his brothers, Dharmaraja Yudhishthira addressed the son of the river, the foremost among the Bharata lineage, who was lying down.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O king! O Jahnavi’s son! I am Yudhishthira and am bowing down before you. O mighty-armed one! If you can hear, tell me what I should do. O king! O lord! The time has come and I have brought the ﬁre for you. The preceptors, the brahmanas, the ofﬁciating priests and my brothers are also here. Your son, the immensely energetic King Dhritarashtra, is also present, with his advisers and the valiant Vasudeva. O tiger among the Kuru lineage! All the kings from Kurujangala{4}, who have not been slain, are also here. Open your eyes and look at them. Everything that needs to be done now has been arranged by me. Since this is the time you had spoken about, everything has been arranged.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed by Kunti’s intelligent son, Gangeya looked at all those of the Bharata lineage who were standing there, surrounding him. Though Bhishma was strong, he could not move. At that time, the eloquent one grasped his{5} strong hand and spoke in a voice that was as deep as a torrent of water or the roar of the clouds.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Kounteya! O Yudhishthira! It is good fortune that you have come here with your advisers. The illustrious sun, the one with the one thousand rays, is returning. Fifty-eight nights have passed since I have been lying down here, on these arrows that are sharp at the tip. It has been like one hundred years. O Yudhishthira! The sacred month of Magha{6} has arrived. One-fourth of shuklapaksha should still remain.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Gangeya spoke in this way to Yudhishthira, Dharma’s son.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "At that time, he also greeted Dhritarashtra and spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@time",
+              "text": "“O king! You know about dharma. Your doubts about artha have also been properly dispelled. You have served many brahmanas who are extremely learned. O lord of men! You know all the sacred texts of dharma associated with the Vedas, the four Vedas and all the Vedangas. O Kouravya! Since you know the truth about destiny, you should not grieve. From Krishna Dvaipayana, you have heard secret accounts connected with the gods. O king! Under dharma, the Pandavas are also your sons. They are always engaged in attending to their seniors. Remain established in dharma and protect them. Dharmaraja is pure in soul and always follows your instructions. I know that he is non-violent and is devoted to his seniors. Your sons were evil-souled and were addicted to anger and greed. Overcome with jealousy, they indulged in wicked conduct. You should not grieve over them.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spoken these words to the learned Dhritarashtra,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the mighty-armed Kourava addressed Vasudeva",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_mighty_armed_kourava",
+              "text": "“O illustrious one! O god of the gods! O one who is worshipped by the gods and the asuras! O Trivikrama{7}! O wielder of the conch shell, chakra and the club! I bow down before you. O Krishna! O Vaikuntha! O Purushottama! Grant me permission. Protect the Pandaveyas. They are devoted to you. On an earlier occasion, I said this to the wicked and evil-minded Duryodhana. ‘Wherever Krishna exists, dharma is there. Wherever dharma exists, victory is there. O son! Use Vasudeva as a tirtha and have peace with the Pandavas.’ I repeatedly told him that the time had come for an alliance. However, that evil-minded and stupid one did not act in accordance with my words. Having destroyed the earth, he has himself been killed. O brave one! I know you as an ancient and supreme rishi. You spent a long period of time in Badari{8}, with the god Nara. Narada told me this and so did Vyasa, the great ascetic. They told me that Nara and Narayana have been born as men{9}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O Bhishma! O king! I grant you leave. May you become a Vasu{10}. O immensely radiant one! I have not seen the slightest bit of deceit in you. O rajarshi! In your devotion to your father, you were like another Markandeya{11}. Like a servant with a bowed head, death was under your control.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed, Gangeya again spoke to the Pandavas and to all his well-wishers, with Dhritarashtra as the foremost.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“I wish to cast aside my breath of life. You should grant me leave. Strive to be truthful. Truth represents supreme strength. O descendant of the Bharata lineage{12}! Always be with non-violent and excellent brahmanas, those who have controlled their souls, are devoted to dharma and always engage in austerities.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, he embraced all his well-wishers. Yet again,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the intelligent one spoke these words to Yudhishthira",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_intelligent_one",
+              "text": "“O lord of men! Brahmanas, especially wise ones, preceptors and ofﬁciating priests, should always be worshipped by you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1835": {
+      "global_number": 1835,
+      "local_number": 154,
+      "num_shlokas": 34,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Bhishma, Shantanu’s son, spoke these words to all the Kurus. O scorcher of enemies! Then, Kouravya remained silent for a while. In due order, he held himself in different stages of dharana{13}. Having controlled his breath of life, the great-souled one propelled it upwards. In the midst of those great-souled ones, an extraordinary event occurred. As Shantanu’s son released it along different parts of his body, because of being united with yoga, the wounds disappeared from those parts. While all of them looked on, in a short while, he was completely free of wounds. O king! With Vasudeva at the forefront, all of them were astounded on seeing this and that included all the sages, Vyasa and the others. He restrained his breath of life and controlled all the exits. Therefore, it pierced the crown of his head and ascended towards heaven. O lord of men! Like a giant meteor, it pierced Bhishma’s head and emerged, penetrating the sky and instantly disappearing. O tiger among kings! Thus did the king who was Shantanu’s son, the extender of the Bharata lineage, himself give up this world.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Bhishma, Shantanu’s son, spoke these words to all the Kurus. O scorcher of enemies! Then, Kouravya remained silent for a while. In due order, he held himself in different stages of dharana{13}. Having controlled his breath of life, the great-souled one propelled it upwards. In the midst of those great-souled ones, an extraordinary event occurred. As Shantanu’s son released it along different parts of his body, because of being united with yoga, the wounds disappeared from those parts. While all of them looked on, in a short while, he was completely free of wounds. O king! With Vasudeva at the forefront, all of them were astounded on seeing this and that included all the sages, Vyasa and the others. He restrained his breath of life and controlled all the exits. Therefore, it pierced the crown of his head and ascended towards heaven. O lord of men! Like a giant meteor, it pierced Bhishma’s head and emerged, penetrating the sky and instantly disappearing. O tiger among kings! Thus did the king who was Shantanu’s son, the extender of the Bharata lineage, himself give up this world.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The great-souled Pandavas and Vidura collected many diverse kinds of wood and fragrances and prepared the funeral pyre. Yuyutsu and the other Kouravas looked on. Yudhishthira and the extremely intelligent Vidura wrapped Gangeya Kourava’s body in silken cloth and covered it with garlands. Over it, Yuyutsu held aloft an excellent umbrella. Bhimasena and Arjuna fanned it with whisks. The sons of Madri held the headdresses. Bhishma was the protector of the Kouravas and the extender of the Kuru lineage. On every side, the women stood around with fans made of palm leaves and fanned the body. The great-souled one’s funeral ceremony{14} was performed according to the prescribed ordinances. Priests who knew the Sama Veda chanted Sama hymns. Sandalwood, yellow fragrant wood, black aloe and fragrances were used in the pyre. Gangeya was covered in these and the ﬁre was lit. The kings, with Dhritarashtra at the forefront, stood on the right side of the pyre. Thus did the supreme ones of the Kuru lineage perform the funeral rites of Gangeya, foremost among the Kurus. With large numbers of rishis, the extenders of the Kuru lineage then went to the banks of the Bhagirathi. They were followed by Vyasa, Narada, Asita, Krishna, the women of the Bharata lineage and the assembled citizens. Following the prescribed rites, the best among the kshatriyas and all the people offered water to the great-souled Gangeya.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The great-souled Pandavas and Vidura collected many diverse kinds of wood and fragrances and prepared the funeral pyre. Yuyutsu and the other Kouravas looked on. Yudhishthira and the extremely intelligent Vidura wrapped Gangeya Kourava’s body in silken cloth and covered it with garlands. Over it, Yuyutsu held aloft an excellent umbrella. Bhimasena and Arjuna fanned it with whisks. The sons of Madri held the headdresses. Bhishma was the protector of the Kouravas and the extender of the Kuru lineage. On every side, the women stood around with fans made of palm leaves and fanned the body. The great-souled one’s funeral ceremony{14} was performed according to the prescribed ordinances. Priests who knew the Sama Veda chanted Sama hymns. Sandalwood, yellow fragrant wood, black aloe and fragrances were used in the pyre. Gangeya was covered in these and the ﬁre was lit. The kings, with Dhritarashtra at the forefront, stood on the right side of the pyre. Thus did the supreme ones of the Kuru lineage perform the funeral rites of Gangeya, foremost among the Kurus. With large numbers of rishis, the extenders of the Kuru lineage then went to the banks of the Bhagirathi. They were followed by Vyasa, Narada, Asita, Krishna, the women of the Bharata lineage and the assembled citizens. Following the prescribed rites, the best among the kshatriyas and all the people offered water to the great-souled Gangeya.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘When water was offered to her son, the goddess Bhagirathi herself arose from the water, weeping in grief. Lamenting, she addressed the Kouravas. “O unblemished ones! I will tell you what has happened. Listen. He was royal in conduct, with wisdom and a noble lineage. He honoured the elders among the Kurus, was devoted to his father and was ﬁrm in his vows. On an earlier occasion, Rama, Jamadagni’s son, could not defeat him{15}. He possessed divine weapons and was immensely valorous. He has now been slain by Shikhandi. O kings! There is no doubt that the core of my heart is made out of stone. Though I can no longer see my beloved son, it has not yet been shattered. For the svayamvara, all the kings and the kshatriyas assembled in the city of Kashi{16}. On a single chariot, he defeated all of them and abducted the maidens. There never has been strength like his on earth. Yet, on hearing that he had been brought down by Shikhandi, my mind was not shattered. In Kurukshetra, the great-souled one fought with Jamadagni’s son. Despite his being brought down by Shikhandi, I am not greatly afﬂicted.” In this fashion, the great river lamented in many ways. The lord Damodara{17} comforted her. “O fortunate one! Control yourself. O one who is beautiful to see! You should not grieve. There is no doubt that your son has obtained supreme success. O beautiful one! He was one of the immensely energetic Vasus and was cursed. That is the reason he was born as a man. You should not sorrow. He followed the dharma of kshatriyas and fought in the ﬁeld of battle. He was brought down by Dhananjaya, not by Shikhandi. When Bhishma, tiger among the Kurus, was engaged in a great battle, no one was capable of bringing him down in that engagement, not even Shatakratu himself. O one with the beautiful face! Your son is at ease and has gone to heaven. O best among rivers! Therefore, you should not sorrow on account of that descendant of the Kuru lineage. O goddess! Be without anxiety. Your son has gone and has become one of the Vasus.” In this way, the best among rivers was addressed by Krishna and by Vyasa. O great king! She abandoned her grief and controlled herself. All the kings, with Krishna at the forefront, honoured the river. Having taken her permission, all the kings then returned.’ This concludes Bhishma-Svargarohana Parva and also concludes Anushasana Parva.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When water was offered to her son,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the goddess Bhagirathi herself arose from the water, weeping in grief. Lamenting, she addressed the Kouravas",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_goddess_bhagirathi_herself_arose",
+              "text": "“O unblemished ones! I will tell you what has happened. Listen. He was royal in conduct, with wisdom and a noble lineage. He honoured the elders among the Kurus, was devoted to his father and was ﬁrm in his vows. On an earlier occasion, Rama, Jamadagni’s son, could not defeat him{15}. He possessed divine weapons and was immensely valorous. He has now been slain by Shikhandi. O kings! There is no doubt that the core of my heart is made out of stone. Though I can no longer see my beloved son, it has not yet been shattered. For the svayamvara, all the kings and the kshatriyas assembled in the city of Kashi{16}. On a single chariot, he defeated all of them and abducted the maidens. There never has been strength like his on earth. Yet, on hearing that he had been brought down by Shikhandi, my mind was not shattered. In Kurukshetra, the great-souled one fought with Jamadagni’s son. Despite his being brought down by Shikhandi, I am not greatly afﬂicted.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "In this fashion, the great river lamented in many ways. The lord Damodara{17} comforted her.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O fortunate one! Control yourself. O one who is beautiful to see! You should not grieve. There is no doubt that your son has obtained supreme success. O beautiful one! He was one of the immensely energetic Vasus and was cursed. That is the reason he was born as a man. You should not sorrow. He followed the dharma of kshatriyas and fought in the ﬁeld of battle. He was brought down by Dhananjaya, not by Shikhandi. When Bhishma, tiger among the Kurus, was engaged in a great battle, no one was capable of bringing him down in that engagement, not even Shatakratu himself. O one with the beautiful face! Your son is at ease and has gone to heaven. O best among rivers! Therefore, you should not sorrow on account of that descendant of the Kuru lineage. O goddess! Be without anxiety. Your son has gone and has become one of the Vasus.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "In this way, the best among rivers was addressed by Krishna and by Vyasa. O great king! She abandoned her grief and controlled herself. All the kings, with Krishna at the forefront, honoured the river. Having taken her permission, all the kings then returned.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "This concludes Bhishma-Svargarohana Parva and also concludes Anushasana Parva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

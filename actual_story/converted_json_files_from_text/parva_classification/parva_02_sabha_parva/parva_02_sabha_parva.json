@@ -1,0 +1,110 @@
+{
+  "name": "Sabha Parva",
+  "parva_number": 2,
+  "details": {
+    "num_subparvas": 9,
+    "num_chapters": 72,
+    "num_shlokas": 2390
+  },
+  "subparvas": {
+    "20": {
+      "subparva_number": 20,
+      "name": "Sabha Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 429
+      },
+      "note": "The name of the first section within this parva is also the same as the name of the parva. The word sabha having already been explained. 226 (1) Vaishampayana said, 'In Vasudeva�s presence, Maya joined his hands as a sign of respect and repeatedly worship-ping him, spoke to Partha in ?attering words, �O Kounteya! You have saved me from the angry Krishna and the fire that desired to consume me. Please tell me what I can do for you.� Arjuna replied, �O great asura! You have done everything and can leave in peace. May you always be friendly towards us and may we always be friendly towards you.� Maya said, �O illustrious one! O bull among men! What you have said is deserving of you. O de-scendant of the Bharata lineage! But as a token of my affection, I wish to do something for you. I am extremely wise, the Vishvakarma of the danavas. O Pandava! Therefore, I wish to do something for you.� Arjuna replied, �You think that I have saved your life from instant death. But if that is the case, I cannot ask you to do anything. O Danava! But I do not wish to stand in the way of your resolution either. Therefore, do something for Krishna and that will be tantamount to doing something for me.� O bull among the Bharata lineage! Thus urged by Maya, Va-sudeva thought for an instant about what might be done for him. Having thought, Krishna said, �O Daitya! Build a wonderful assembly hall for Dharmaraja that you think to be worthy of him, so that no one from the world of men can construct an assembly hall that is its equal, even as they gaze at it amazed. O Maya! Build an assembly hall in which we will see the designs1 of the gods, asuras and humans.� Having heard these words, Maya was delighted. He drew up a design for an assembly hall for the Pandavas that was like a vimana.",
+      "file": "parva_02_sabha_parva/subparva_20_sabha_parva/subparva_20_sabha_parva.json"
+    },
+    "21": {
+      "subparva_number": 21,
+      "name": "Mantra Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 6,
+        "num_shlokas": 222
+      },
+      "note": "The word mantra has different meanings, but here it means a process of consultation. This section is therefore about a process of consultation pri-or to the royal sacrifice.",
+      "file": "parva_02_sabha_parva/subparva_21_mantra_parva/subparva_21_mantra_parva.json"
+    },
+    "22": {
+      "subparva_number": 22,
+      "name": "Jarasandha-vadha Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 5,
+        "num_shlokas": 195
+      },
+      "note": "The word vadha is the act of killing. This section is therefore about the killing of Jarasandha.",
+      "file": "parva_02_sabha_parva/subparva_22_jarasandha_vadha_parva/subparva_22_jarasandha_vadha_parva.json"
+    },
+    "23": {
+      "subparva_number": 23,
+      "name": "Digvijaya Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 7,
+        "num_shlokas": 191
+      },
+      "note": "The word digvijaya means the conquest of the directions, that is, the conquest of the world. This section is therefore about the conquest undertaken by the Pandavas.",
+      "file": "parva_02_sabha_parva/subparva_23_digvijaya_parva/subparva_23_digvijaya_parva.json"
+    },
+    "24": {
+      "subparva_number": 24,
+      "name": "Rajasuya Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 3,
+        "num_shlokas": 97
+      },
+      "note": "This section is about the rajasuya or royal sacrifice.",
+      "file": "parva_02_sabha_parva/subparva_24_rajasuya_parva/subparva_24_rajasuya_parva.json"
+    },
+    "25": {
+      "subparva_number": 25,
+      "name": "Arghabhiharana Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 4,
+        "num_shlokas": 99
+      },
+      "note": "Argha (or arghya) is an offering made as a sign of veneration. Abhiharana is the act of fetching or taking. So arghabhiharana parva is about the offering of a gift, as a sign of respect, and the consequent dispute.",
+      "file": "parva_02_sabha_parva/subparva_25_arghabhiharana_parva/subparva_25_arghabhiharana_parva.json"
+    },
+    "26": {
+      "subparva_number": 26,
+      "name": "Shishupala-vadha Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 6,
+        "num_shlokas": 191
+      },
+      "note": "Since vadha means killing this section is about the killing of Shishupala.",
+      "file": "parva_02_sabha_parva/subparva_26_shishupala_vadha_parva/subparva_26_shishupala_vadha_parva.json"
+    },
+    "27": {
+      "subparva_number": 27,
+      "name": "Dyuta Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 23,
+        "num_shlokas": 734
+      },
+      "note": "Dyuta means playing or gambling with dice, and also the resultant prize. So this section is about the gambling with dice.",
+      "file": "parva_02_sabha_parva/subparva_27_dyuta_parva/subparva_27_dyuta_parva.json"
+    },
+    "28": {
+      "subparva_number": 28,
+      "name": "Anudyuta Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 7,
+        "num_shlokas": 232
+      },
+      "note": "This sections has 232 shlokas and seven chapters. As has been mentioned in the earlier section, the word dyuta means playing or gambling with dice, and also the resultant prize. The word anu means after, behind, or in consequence of. So this section is about the aftermath of the gambling match.",
+      "file": "parva_02_sabha_parva/subparva_28_anudyuta_parva/subparva_28_anudyuta_parva.json"
+    }
+  }
+}

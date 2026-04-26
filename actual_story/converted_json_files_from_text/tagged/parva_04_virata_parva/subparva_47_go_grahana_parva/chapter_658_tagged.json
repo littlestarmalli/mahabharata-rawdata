@@ -1,0 +1,138 @@
+{
+  "chapter_number": 658,
+  "global_number": 658,
+  "local_number": 62,
+  "num_shlokas": 11,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Having defeated the Kurus in battle, the one with the eyes of a bull{207} gathered and brought back Virata’s great riches. When the sons of Dhritarashtra had all been shattered and had left, many Kuru soldiers emerged from the dense woods. Their hearts trembled in fright and they appeared, here and there. They could be seen standing there, their hair dishevelled and with their hands joined in salutation. They were hungry and thirsty and exhausted and in an alien land, they were not in their senses. They bowed down in homage before Partha and asked, “What will we do?” Arjuna replied, “O fortunate ones! Be safe. There is no reason for you to be scared. I assure you that I have no desire to kill those who are miserable.” On hearing these words of assurance, the assembled warriors praised him and wished for a long life, deeds and fame for him. Shattered and vanquished, the Kurus returned.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Having defeated the Kurus in battle, the one with the eyes of a bull{207} gathered and brought back Virata’s great riches. When the sons of Dhritarashtra had all been shattered and had left, many Kuru soldiers emerged from the dense woods. Their hearts trembled in fright and they appeared, here and there. They could be seen standing there, their hair dishevelled and with their hands joined in salutation. They were hungry and thirsty and exhausted and",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "in an alien land, they were not in their senses. They bowed down in homage before Partha and asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@in_an_alien_land",
+          "text": "“What will we do?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Arjuna replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@arjuna",
+          "text": "“O fortunate ones! Be safe. There is no reason for you to be scared. I assure you that I have no desire to kill those who are miserable.”",
+          "color": "#5BA4CF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On hearing these words of assurance, the assembled warriors praised him and wished for a long life, deeds and fame for him. Shattered and vanquished, the Kurus returned.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘On the road back, Phalguna spoke these words. “O brave prince! O mighty-armed one! Wait until all the cattle and all the cowherds have been collected. We will return to the city of Virata in the afternoon, after the horses have rested, have had their drink and have been tended to. The cowherds should now be swiftly dispatched by you. Let them go to the city with the good news that announces your victory{208}.” Uttara quickly told the messengers, “On Arjuna’s instructions, go and proclaim my victory.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On the road back,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Phalguna spoke these words",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@arjuna",
+          "text": "“O brave prince! O mighty-armed one! Wait until all the cattle and all the cowherds have been collected. We will return to the city of Virata in the afternoon, after the horses have rested, have had their drink and have been tended to. The cowherds should now be swiftly dispatched by you. Let them go to the city with the good news that announces your victory{208}.”",
+          "color": "#5BA4CF",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Uttara quickly told the messengers",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@uttara_quickly",
+          "text": "“On Arjuna’s instructions, go and proclaim my victory.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

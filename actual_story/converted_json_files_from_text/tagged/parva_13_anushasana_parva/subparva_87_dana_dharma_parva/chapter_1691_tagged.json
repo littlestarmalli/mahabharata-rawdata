@@ -1,0 +1,306 @@
+{
+  "chapter_number": 1691,
+  "global_number": 1691,
+  "local_number": 10,
+  "num_shlokas": 70,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Yudhishthira asked, “O rajarshi! O grandfather! If because of friendship or affection, a person imparts instructions to someone of inferior birth, is any sin incurred because of this? I wish to hear the truth about this. Please explain it. The progress of dharma is subtle. That is the reason men are confused.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O rajarshi! O grandfather! If because of friendship or affection, a person imparts instructions to someone of inferior birth, is any sin incurred because of this? I wish to hear the truth about this. Please explain it. The progress of dharma is subtle. That is the reason men are confused.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Bhishma replied, “O king! In this connection, following the sacred texts, rishis spoke about this earlier and I heard them. Listen. Instructions must never be given to someone who is of inferior birth. It is said that a teacher who imparts such instruction incurs a great sin. O king! O descendant of the Bharata lineage! There is an example about this. Listen. O king! O Yudhishthira! The evil that occurs has earlier been spoken about. There was a hermitage of brahmanas on the sacred slopes of the Himalayas. That sacred hermitage was full of a large number of trees. It was full of many creepers and plants and was inhabited by animals and birds. Siddhas and charanas frequented it. It was beautiful because of its ﬂowering groves. There were many mendicants there and many handsome ascetics. The immensely fortunate brahmanas were like the sun or the ﬁre in their splendour. It was full of ascetics who were accomplished in rituals and vows. O best among the Bharata lineage! They had consecrated themselves, were restrained in diet and had cleansed their souls. O bull among the Bharata lineage! There were the sounds of the Vedas being studied. It was full of many valakhilya mendicants. There was a shudra who was driven by compassion. He arrived at that hermitage and was honoured by those ascetics. Those large numbers of sages were greatly energetic and were like the gods, having been consecrated in many kinds of ways. O descendant of the Bharata lineage! On seeing them, he was delighted. O bull among the Bharata lineage! His mind turned towards the idea of becoming an ascetic. O descendant of the Bharata lineage! He grasped the feet of the kulapati{65} and said, ‘O bull among brahmanas! Through your favours, I wish to follow the path of dharma. O illustrious one! You should initiate me into a path of renunciation. O illustrious one! I belong to an inferior varna. O excellent one! I have been born as a shudra. I wish to serve you and have sought refuge with you. Show me your favours.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“O king! In this connection, following the sacred texts, rishis spoke about this earlier and I heard them. Listen. Instructions must never be given to someone who is of inferior birth. It is said that a teacher who imparts such instruction incurs a great sin. O king! O descendant of the Bharata lineage! There is an example about this. Listen. O king! O Yudhishthira! The evil that occurs has earlier been spoken about. There was a hermitage of brahmanas on the sacred slopes of the Himalayas. That sacred hermitage was full of a large number of trees. It was full of many creepers and plants and was inhabited by animals and birds. Siddhas and charanas frequented it. It was beautiful because of its ﬂowering groves. There were many mendicants there and many handsome ascetics. The immensely fortunate brahmanas were like the sun or the ﬁre in their splendour. It was full of ascetics who were accomplished in rituals and vows. O best among the Bharata lineage! They had consecrated themselves, were restrained in diet and had cleansed their souls. O bull among the Bharata lineage! There were the sounds of the Vedas being studied. It was full of many valakhilya mendicants. There was a shudra who was driven by compassion. He arrived at that hermitage and was honoured by those ascetics. Those large numbers of sages were greatly energetic and were like the gods, having been consecrated in many kinds of ways. O descendant of the Bharata lineage! On seeing them, he was delighted. O bull among the Bharata lineage! His mind turned towards the idea of becoming an ascetic. O descendant of the Bharata lineage! He grasped the feet of the kulapati{65} and said, ‘O bull among brahmanas! Through your favours, I wish to follow the path of dharma. O illustrious one! You should initiate me into a path of renunciation. O illustrious one! I belong to an inferior varna. O excellent one! I have been born as a shudra. I wish to serve you and have sought refuge with you. Show me your favours.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“The kulapati replied, ‘It is not possible for a shudra to accept those indications. If your mind turns towards that, you should always engage in servitude.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“The kulapati replied, ‘It is not possible for a shudra to accept those indications. If your mind turns towards that, you should always engage in servitude.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Bhishma continued, “O king! Having been thus addressed by the sage, the shudra began to think. ‘What should I do now? I have great devotion towards the supreme dharma. Let it be known that I will do whatever brings me the greatest beneﬁt.’ Going some distance from the hermitage, he constructed a hut. O best among the Bharata lineage! He created a sacriﬁcial altar and a spot for the gods on the ground. He cheerfully began to practise the rituals. He offered sacriﬁces and oblations and worshipped the gods. He controlled desire and followed the rituals. He lived on fruits and controlled his senses. He always collected herbs and fruits, so that he could worship the guests who arrived. In this way, he spent a long period of time. One day, to meet him, a sage came to that hermitage. He honoured the rishi who had come and following all the rites, satisﬁed him. He spoke pleasant words and as is proper, asked him about his welfare. The rishi was extremely energetic, with dharma in his soul and with his senses in restraint. O bull among the Bharata lineage! O bull among men! In this way, desiring to see the shudra, the rishi came to the shudra’s hermitage on several occasions. O bull among the Bharata lineage! On one such occasion, the shudra told the ascetic, ‘I wish to perform rites for the ancestors. Please show me your favours.’ O bull among the Bharata lineage! The brahmana agreed that he would certainly do so. The shudra puriﬁed himself and brought water for the rishi to wash his feet. O bull among the Bharata lineage! He brought darbha grass, wild herbs and the sacred seat known as a brisi{66}. However, the excellent head of the brisi was spread out in the southern direction. This was against the ordinances{67}. Seeing this, the rishi said, ‘Place the head towards the east. Purify yourself and sit with your head facing the north.’ The shudra acted in accordance with everything that the rishi had said. He was intelligent and spread out the darbha grass, following the instructions. As instructed by the ascetic, he followed all the rites of havya and kavya. He stayed on the path of dharma in observing rites for the ancestors. The rishi instructed him and when the rites for the ancestors were over, took his leave and departed. Subsequently, for a long period of time, the shudra ascetic tormented himself through austerities. O great king! Following these good practices, he died in the forest and thanks to these, the immensely radiant one was born in a lineage of kings. O son! O bull among the Bharata lineage! Following the progress of time, the rishi was also born as a brahmana, in a family of priests. The shudra and the sage were born in this way. They gradually grew up and became accomplished in learning. The rishi became extremely learned in the Atharva Veda, the Vedas{68}, and the application of kalpa{69} and also obtained excellence in astronomy. His delight in the study of the great sankhya increased. O descendant of the Bharata lineage! O king! When his father died, the prince performed the funeral rites and was instated by the subjects as a king. In turn, he instated the rishi as his priest and placed him at the forefront. O bull among the Bharata lineage! He followed dharma and happily ruled the kingdom, protecting the subjects. However, whenever there was an occasion for sacred oblations to be offered or rites of dharma to be practised, the king glanced towards the priest and laughed loudly. O king! Thus, there were numerous occasions when he laughed at the priest. The priest noticed that the king always smiled or laughed at him. On seeing this, he was enraged. The priest came and met the king who was alone. He spoke pleasantly to him and put him at ease. O bull among the Bharata lineage! The priest then told that lord of men, ‘O immensely wise one! I desire only a single boon from you.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma continued",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“O king! Having been thus addressed by the sage, the shudra began to think. ‘What should I do now? I have great devotion towards the supreme dharma. Let it be known that I will do whatever brings me the greatest beneﬁt.’ Going some distance from the hermitage, he constructed a hut. O best among the Bharata lineage! He created a sacriﬁcial altar and a spot for the gods on the ground. He cheerfully began to practise the rituals. He offered sacriﬁces and oblations and worshipped the gods. He controlled desire and followed the rituals. He lived on fruits and controlled his senses. He always collected herbs and fruits, so that he could worship the guests who arrived. In this way, he spent a long period of time. One day, to meet him, a sage came to that hermitage. He honoured the rishi who had come and following all the rites, satisﬁed him. He spoke pleasant words and as is proper, asked him about his welfare. The rishi was extremely energetic, with dharma in his soul and with his senses in restraint. O bull among the Bharata lineage! O bull among men! In this way, desiring to see the shudra, the rishi came to the shudra’s hermitage on several occasions. O bull among the Bharata lineage! On one such occasion, the shudra told the ascetic, ‘I wish to perform rites for the ancestors. Please show me your favours.’ O bull among the Bharata lineage! The brahmana agreed that he would certainly do so. The shudra puriﬁed himself and brought water for the rishi to wash his feet. O bull among the Bharata lineage! He brought darbha grass, wild herbs and the sacred seat known as a brisi{66}. However, the excellent head of the brisi was spread out in the southern direction. This was against the ordinances{67}. Seeing this, the rishi said, ‘Place the head towards the east. Purify yourself and sit with your head facing the north.’ The shudra acted in accordance with everything that the rishi had said. He was intelligent and spread out the darbha grass, following the instructions. As instructed by the ascetic, he followed all the rites of havya and kavya. He stayed on the path of dharma in observing rites for the ancestors. The rishi instructed him and when the rites for the ancestors were over, took his leave and departed. Subsequently, for a long period of time, the shudra ascetic tormented himself through austerities. O great king! Following these good practices, he died in the forest and thanks to these, the immensely radiant one was born in a lineage of kings. O son! O bull among the Bharata lineage! Following the progress of time, the rishi was also born as a brahmana, in a family of priests. The shudra and the sage were born in this way. They gradually grew up and became accomplished in learning. The rishi became extremely learned in the Atharva Veda, the Vedas{68}, and the application of kalpa{69} and also obtained excellence in astronomy. His delight in the study of the great sankhya increased. O descendant of the Bharata lineage! O king! When his father died, the prince performed the funeral rites and was instated by the subjects as a king. In turn, he instated the rishi as his priest and placed him at the forefront. O bull among the Bharata lineage! He followed dharma and happily ruled the kingdom, protecting the subjects. However, whenever there was an occasion for sacred oblations to be offered or rites of dharma to be practised, the king glanced towards the priest and laughed loudly. O king! Thus, there were numerous occasions when he laughed at the priest. The priest noticed that the king always smiled or laughed at him. On seeing this, he was enraged. The priest came and met the king who was alone. He spoke pleasantly to him and put him at ease. O bull among the Bharata lineage! The priest then told that lord of men, ‘O immensely wise one! I desire only a single boon from you.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘“The king replied, ‘O supreme among brahmanas! I will grant you one hundred boons, why only a single one? I like you and revere you greatly. There is nothing that I cannot give you.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The king replied, ‘O supreme among brahmanas! I will grant you one hundred boons, why only a single one? I like you and revere you greatly. There is nothing that I cannot give you.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘“The priest said, ‘O king! If you are satisﬁed with me, I desire only one single boon. O great king! If you wish to give me something, let it be such that you will always speak the truth to me, and never utter a falsehood.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“The priest said, ‘O king! If you are satisﬁed with me, I desire only one single boon. O great king! If you wish to give me something, let it be such that you will always speak the truth to me, and never utter a falsehood.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 4
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘Bhishma said, “O Yudhishthira! Thus addressed, the king agreed and replied, ‘I accept. If I know the answer, I will tell you. If I do not know, I will not speak.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma said",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“O Yudhishthira! Thus addressed, the king agreed and replied, ‘I accept. If I know the answer, I will tell you. If I do not know, I will not speak.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘“The priest asked, ‘Whenever sacred oblations are being offered, the rites of dharma performed and chants of peace recited, why do you glance towards me and laugh? Since you laugh at me, my mind is ashamed. O king! You have pledged to tell me the truth. If you do not, you will be cursed. There must be some reason behind such sentiments. The laughter cannot be without reason. I am extremely curious. You should tell me the truth.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The priest asked, ‘Whenever sacred oblations are being offered, the rites of dharma performed and chants of peace recited, why do you glance towards me and laugh? Since you laugh at me, my mind is ashamed. O king! You have pledged to tell me the truth. If you do not, you will be cursed. There must be some reason behind such sentiments. The laughter cannot be without reason. I am extremely curious. You should tell me the truth.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘“The king replied, ‘O brahmana! If you ask me in this way, I must certainly tell you the truth, even though this is not something that you should hear. O brahmana! Listen attentively. O supreme among brahmanas! Listen to what happened in our earlier births. O brahmana! I remember that. Listen with single-minded attention. I used to be a shudra earlier and practised terrible austerities. O supreme among brahmanas! You were a rishi who was ﬁerce in his austerities. O brahmana! Your mind was favourably inclined towards me then. O unblemished one! Following your instructions, I had performed the funeral rites for my ancestors. O supreme among sages! I used brisi, darbha, havya and kavya. O Indra among brahmanas! Because of this transgression in deeds, you have been born as a priest{70}. I have been born as a king. Behold the progress of time. You imparted instructions for my sake and have reaped this fruit. O brahmana! O supreme among brahmanas! That is the reason I laugh at you. O brahmana! I do not laugh at you out of any disrespect. You are my superior. Indeed, I am enraged at this course of events and my mind is tormented. However, I remember our earlier births and laugh at you. Your ﬁerce austerities have been destroyed by those instructions. Give up this priesthood and endeavour to be born again. O brahmana! Otherwise, you may obtain a birth that is inferior to the present one. O brahmana! Take whatever riches you want. O excellent one! Purify your self.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“The king replied, ‘O brahmana! If you ask me in this way, I must certainly tell you the truth, even though this is not something that you should hear. O brahmana! Listen attentively. O supreme among brahmanas! Listen to what happened in our earlier births. O brahmana! I remember that. Listen with single-minded attention. I used to be a shudra earlier and practised terrible austerities. O supreme among brahmanas! You were a rishi who was ﬁerce in his austerities. O brahmana! Your mind was favourably inclined towards me then. O unblemished one! Following your instructions, I had performed the funeral rites for my ancestors. O supreme among sages! I used brisi, darbha, havya and kavya. O Indra among brahmanas! Because of this transgression in deeds, you have been born as a priest{70}. I have been born as a king. Behold the progress of time. You imparted instructions for my sake and have reaped this fruit. O brahmana! O supreme among brahmanas! That is the reason I laugh at you. O brahmana! I do not laugh at you out of any disrespect. You are my superior. Indeed, I am enraged at this course of events and my mind is tormented. However, I remember our earlier births and laugh at you. Your ﬁerce austerities have been destroyed by those instructions. Give up this priesthood and endeavour to be born again. O brahmana! Otherwise, you may obtain a birth that is inferior to the present one. O brahmana! Take whatever riches you want. O excellent one! Purify your self.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 6
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘Bhishma continued, “The king gave the brahmana many gifts and gave him permission to leave. He gave all the brahmanas riches, land and villages. As asked, that supreme among brahmanas observed many hardships. He went to places of pilgrimage and gave away diverse gifts. The brahmana donated cattle to brahmanas and cleansed his soul. He went to that hermitage{71} and performed a large number of austerities. O supreme among kings! In this way, the brahmana obtained supreme success. In that hermitage, he was revered by all those who dwelt in that hermitage. O supreme among kings! Thus, that rishi had faced this great hardship. A brahmana must not reveal things to someone of an inferior varna. O king! A brahmana must always refrain from parting with such instructions. A brahmana who parts with such instructions faces hardships. A king can always receive such instructions from a brahmana. But they should not be revealed to a person who belongs to an inferior varna. O king! Brahmanas, kshatriyas and vaishyas—these three are known as the twice-born varnas. A brahmana is not tainted if he tells them anything. Virtuous people do reveal things to those who are advanced in this way. The course of dharma is subtle and is difﬁcult for those with unclean souls to comprehend. That is the reason sages remain silent and perform diksha{72} without speaking. O king! They are scared of saying something that should not have been said. There are those who follow dharma, possess all the qualities, are truthful and upright. Even they can perform the wicked act of speaking what should not be said. Therefore, one must never impart instructions to anyone. Through imparting instructions, a brahmana can incur a sin. Thus, a wise person who desires dharma should act wisely. Instruction bartered in exchange for something is evil. If one is asked about something, one must answer only after determining the consequences. An instruction must only be given when it leads to the accumulation of dharma. I have told you everything about imparting instructions. There can be great hardships as a result of imparting instructions.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma continued",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“The king gave the brahmana many gifts and gave him permission to leave. He gave all the brahmanas riches, land and villages. As asked, that supreme among brahmanas observed many hardships. He went to places of pilgrimage and gave away diverse gifts. The brahmana donated cattle to brahmanas and cleansed his soul. He went to that hermitage{71} and performed a large number of austerities. O supreme among kings! In this way, the brahmana obtained supreme success. In that hermitage, he was revered by all those who dwelt in that hermitage. O supreme among kings! Thus, that rishi had faced this great hardship. A brahmana must not reveal things to someone of an inferior varna. O king! A brahmana must always refrain from parting with such instructions. A brahmana who parts with such instructions faces hardships. A king can always receive such instructions from a brahmana. But they should not be revealed to a person who belongs to an inferior varna. O king! Brahmanas, kshatriyas and vaishyas—these three are known as the twice-born varnas. A brahmana is not tainted if he tells them anything. Virtuous people do reveal things to those who are advanced in this way. The course of dharma is subtle and is difﬁcult for those with unclean souls to comprehend. That is the reason sages remain silent and perform diksha{72} without speaking. O king! They are scared of saying something that should not have been said. There are those who follow dharma, possess all the qualities, are truthful and upright. Even they can perform the wicked act of speaking what should not be said. Therefore, one must never impart instructions to anyone. Through imparting instructions, a brahmana can incur a sin. Thus, a wise person who desires dharma should act wisely. Instruction bartered in exchange for something is evil. If one is asked about something, one must answer only after determining the consequences. An instruction must only be given when it leads to the accumulation of dharma. I have told you everything about imparting instructions. There can be great hardships as a result of imparting instructions.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 6
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        }
+      ]
+    }
+  }
+}

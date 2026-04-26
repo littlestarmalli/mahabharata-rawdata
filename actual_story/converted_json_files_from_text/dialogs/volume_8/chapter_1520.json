@@ -1,0 +1,1771 @@
+{
+  "chapter": 1520,
+  "local": 192,
+  "shlokas": 127,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “Earlier, you mentioned to me the dispute between Time, Death, Yama and the virtuous brahmana. You should tell me about this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Earlier, you mentioned to me the dispute between Time, Death, Yama and the virtuous brahmana. You should tell me about this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is recounted. This transpired between a brahmana and Ikshvaku, Surya's son. It also involved Time and Death. Listen to the account of the conversation that took place at that spot. There was an immensely illustrious japaka brahmana who was devoted to dharma. He was descended from Kushika and was Pippalada's son. He was immensely wise and knew about the six Angas{163}. He knew about the six Angas and about the one who is not manifest{164}. He was accomplished in the Vedas and dwelt on the slopes of the Himalayas. He performed other austerities for attaining the brahman. He controlled himself and performed japa. He observed such rituals for one thousand years. The goddess manifested herself before him and said, ‘I am pleased{165}.’ Because he was silent in the midst of his japa, he did not say anything in reply. The goddess was pleased and felt compassion for him. The mother of the Vedas{166} honoured his japa. When the japa was over, he arose and bowed his head down at her feet. Having prostrated himself before the goddess, the one with dharma in his soul spoke the following words. ‘O goddess! It is good fortune that you are pleased with me, have appeared before me and have shown yourself to me. If you are pleased with me, may my mind always ﬁnd delight in japa.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted. This transpired between a brahmana and Ikshvaku, Surya's son. It also involved Time and Death. Listen to the account of the conversation that took place at that spot. There was an immensely illustrious japaka brahmana who was devoted to dharma. He was descended from Kushika and was Pippalada's son. He was immensely wise and knew about the six Angas{163}. He knew about the six Angas and about the one who is not manifest{164}. He was accomplished in the Vedas and dwelt on the slopes of the Himalayas. He performed other austerities for attaining the brahman. He controlled himself and performed japa. He observed such rituals for one thousand years. The goddess manifested herself before him and said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am pleased{165}.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Because he was silent in the midst of his japa, he did not say anything in reply. The goddess was pleased and felt compassion for him. The mother of the Vedas{166} honoured his japa. When the japa was over, he arose and bowed his head down at her feet. Having prostrated himself before the goddess, the one with dharma in his soul spoke the following words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O goddess! It is good fortune that you are pleased with me, have appeared before me and have shown yourself to me. If you are pleased with me, may my mind always ﬁnd delight in japa.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Savitri said, ‘O brahmana rishi! What do you desire? What shall I do for you? O supreme among those who perform japa! Tell me. Everything will be as you wish.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Savitri said, ",
+          "speaker": "@bhishma",
+          "introduces": "@savitri",
+          "introduces_label": "Savitri",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana rishi! What do you desire? What shall I do for you? O supreme among those who perform japa! Tell me. Everything will be as you wish.’",
+          "speaker": "@savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “Having been thus addressed by the goddess, the brahmana who was devoted to dharma replied, ‘Let my desire for japa repeatedly increase. O auspicious one! Day and night, let my inclination towards the dharma of samadhi increase.’ In a sweet tone, the goddess replied that it would be this way. Wishing to do what would bring him pleasure, the goddess again said, ‘You will not go to the hell where other bulls among brahmanas go. You will go to the unblemished region of the brahman, which has not been created by anyone. I will depart now. But what you have wished for will become successful. Single-mindedly, perform japa. Dharma will present himself before you. Time, Death and Yama will also present themselves before you. There will be a dispute between them and you on dharma.’ Having said this, the illustrious one returned to her own abode. The brahmana continued to perform japa for one hundred celestial years. The intelligent brahmana remained there, completing his rituals. Pleased at this, Dharma presented himself before that brahmana.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having been thus addressed by the goddess, the brahmana who was devoted to dharma replied, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let my desire for japa repeatedly increase. O auspicious one! Day and night, let my inclination towards the dharma of samadhi increase.’",
+          "speaker": "@savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " In a sweet tone, the goddess replied that it would be this way. Wishing to do what would bring him pleasure, the goddess again said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_goddess",
+          "introduces_label": "the goddess",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You will not go to the hell where other bulls among brahmanas go. You will go to the unblemished region of the brahman, which has not been created by anyone. I will depart now. But what you have wished for will become successful. Single-mindedly, perform japa. Dharma will present himself before you. Time, Death and Yama will also present themselves before you. There will be a dispute between them and you on dharma.’",
+          "speaker": "the_goddess",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, the illustrious one returned to her own abode. The brahmana continued to perform japa for one hundred celestial years. The intelligent brahmana remained there, completing his rituals. Pleased at this, Dharma presented himself before that brahmana.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dharma said, ‘O brahmana! Look at me. I am Dharma. I have come here to see you. Listen to me. You have obtained the fruits that result from japa. You have obtained all the worlds, the divine and the human. You will be successful in passing through all the hells that are inhabited by the gods. O sage! Give up your life and go to the worlds that you desire. If you cast aside your own body, you will obtain those worlds.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Look at me. I am Dharma. I have come here to see you. Listen to me. You have obtained the fruits that result from japa. You have obtained all the worlds, the divine and the human. You will be successful in passing through all the hells that are inhabited by the gods. O sage! Give up your life and go to the worlds that you desire. If you cast aside your own body, you will obtain those worlds.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘O Dharma! I have obtained all the worlds here. Go to whatever spot brings you pleasure. O lord! Though this body suffers from a lot of joy and misery, I will not give it up.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Dharma! I have obtained all the worlds here. Go to whatever spot brings you pleasure. O lord! Though this body suffers from a lot of joy and misery, I will not give it up.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dharma said, ‘O bull among sages! This body should certainly be cast aside. O brahmana! Go to heaven. O unblemished one! What is it that pleases you?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O bull among sages! This body should certainly be cast aside. O brahmana! Go to heaven. O unblemished one! What is it that pleases you?’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘O lord! Without this body, I will ﬁnd no delight in residing in heaven. O Dharma! Go away. Without my body, I am not interested in going to heaven.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! Without this body, I will ﬁnd no delight in residing in heaven. O Dharma! Go away. Without my body, I am not interested in going to heaven.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dharma said, ‘There has been enough of this body. Make up your mind to give up this body and be happy. Go to the world where there is no rajas. Having gone there, you will not sorrow.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There has been enough of this body. Make up your mind to give up this body and be happy. Go to the world where there is no rajas. Having gone there, you will not sorrow.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘O immensely fortunate one! I take pleasure in japa and have obtained all the eternal worlds. O lord! I wish to go to heaven in my body, or not at all.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O immensely fortunate one! I take pleasure in japa and have obtained all the eternal worlds. O lord! I wish to go to heaven in my body, or not at all.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dharma said, ‘O brahmana! Behold. If you do not wish to cast aside your body, Time, Death and Yama will present themselves before you.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Behold. If you do not wish to cast aside your body, Time, Death and Yama will present themselves before you.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “O lord! There were those three—Vaivasvata{167}, Time and Death. They approached the immensely fortunate brahmana and spoke to him. Yama said, ‘I am Yama. You have tormented yourself well with austerities and your conduct is good. I am telling you that you will obtain the best of fruits.’ Time said, ‘I am Time and I have come before you. Because of your recitations and japa, you have obtained supreme fruits. The time has come for you to ascend to heaven.’ Death said, ‘O one who knows about dharma! Know me to be death. I have shown my own form to you. O brahmana! I have been urged by Time and have come to take you away.’ The brahmana replied, ‘Welcome to Surya's son{168}, great-souled Time, Death and Dharma. What can I do for you?’ To those who had come, he offered padya and arghya{169}. Extremely delighted, he asked, ‘According to my capacity, what can I do for you?’ At that time, Ikshvaku was on a visit to the tirthas and arrived at the spot where those lords were assembled together.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! There were those three—Vaivasvata{167}, Time and Death. They approached the immensely fortunate brahmana and spoke to him. Yama said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Yama. You have tormented yourself well with austerities and your conduct is good. I am telling you that you will obtain the best of fruits.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Time said, ",
+          "speaker": "@bhishma",
+          "introduces": "time",
+          "introduces_label": "Time",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Time and I have come before you. Because of your recitations and japa, you have obtained supreme fruits. The time has come for you to ascend to heaven.’",
+          "speaker": "time",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Death said, ",
+          "speaker": "@bhishma",
+          "introduces": "death",
+          "introduces_label": "Death",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one who knows about dharma! Know me to be death. I have shown my own form to you. O brahmana! I have been urged by Time and have come to take you away.’",
+          "speaker": "death",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Welcome to Surya's son{168}, great-souled Time, Death and Dharma. What can I do for you?’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " To those who had come, he offered padya and arghya{169}. Extremely delighted, he asked, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘According to my capacity, what can I do for you?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At that time, Ikshvaku was on a visit to the tirthas and arrived at the spot where those lords were assembled together.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rajarshi affectionately honoured all of them. The supreme among kings asked them questions about their welfare. The brahmana offered him a seat and padya and arghya too. Having asked him questions about his welfare, he said, ‘O great king! Welcome. Tell me what you desire. According to my capacity, please tell me what I can do for you.’ The king replied, ‘I am a king. You are a brahmana engaged in the six tasks{170}. I wish to give you some riches. Tell me how much you want.’ The brahmana said, ‘O king! There are two kinds of brahmanas and dharma is said to be of two kinds. There is attachment and withdrawal. I have accepted the path of withdrawal. O lord of men! Donate gifts to those who are on the path of attachment. I will not accept anything. What can I give you for your welfare instead? O best among kings! Tell me. I will ensure its success through my austerities.’ The king replied, ‘I am a kshatriya. I do not know the words, “Please give.” O best among brahmanas! The only thing we ask for is, “Give us battle.”’ The brahmana said, ‘O king! You are content in your own dharma and in a similar way, so am I with mine. There is no difference between us. Therefore, act as you wish.’ The king replied, ‘You are the one who ﬁrst said that you would give according to your capacity. O brahmana! I am asking you. Give me the fruits that you have obtained through japa.’ The brahmana said, ‘In your words, you boasted that you always asked for battle. Why don't you then ask that I should ﬁght with you?’ The king replied, ‘It has been said that brahmanas have the power of speech and kshatriyas live through the strength of their arms. O brahmana! That is the reason there has been this ﬁerce duel with words between you and me.’ The brahmana said, ‘Even now, that is my resolution. According to my capacity, what will I give you? O Indra among kings! I possess wealth. Tell me immediately. What shall I give you?’ The king replied, ‘You have performed japa for a full hundred years. If you wish to give me something, give me the fruits of that japa.’ The brahmana said, ‘Take the supreme fruits that I have obtained through japa. Without reﬂecting, take half of those fruits. Or, take all the fruits of the japa from me. O king! If you so wish, take them entirely.’ The king replied, ‘O fortunate one! Though I asked for all the fruits of japa, I don't want them. May you be fortunate. I am leaving you. But tell me what those fruits are.’ The brahmana said, ‘I don't know what fruits have been given to me because of the japa. However, Dharma, Time, Yama and Death are witnesses{171}.’ The king replied, ‘If you do not even know what the fruits of this dharma are, what will I do with them? O brahmana! Since there are doubts about what they are, I do not desire them.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rajarshi affectionately honoured all of them. The supreme among kings asked them questions about their welfare. The brahmana offered him a seat and padya and arghya too. Having asked him questions about his welfare, he said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great king! Welcome. Tell me what you desire. According to my capacity, please tell me what I can do for you.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am a king. You are a brahmana engaged in the six tasks{170}. I wish to give you some riches. Tell me how much you want.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! There are two kinds of brahmanas and dharma is said to be of two kinds. There is attachment and withdrawal. I have accepted the path of withdrawal. O lord of men! Donate gifts to those who are on the path of attachment. I will not accept anything. What can I give you for your welfare instead? O best among kings! Tell me. I will ensure its success through my austerities.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am a kshatriya. I do not know the words, ",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Please give.”",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O best among brahmanas! The only thing we ask for is, ",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Give us battle.”",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! You are content in your own dharma and in a similar way, so am I with mine. There is no difference between us. Therefore, act as you wish.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You are the one who ﬁrst said that you would give according to your capacity. O brahmana! I am asking you. Give me the fruits that you have obtained through japa.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In your words, you boasted that you always asked for battle. Why don't you then ask that I should ﬁght with you?’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It has been said that brahmanas have the power of speech and kshatriyas live through the strength of their arms. O brahmana! That is the reason there has been this ﬁerce duel with words between you and me.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Even now, that is my resolution. According to my capacity, what will I give you? O Indra among kings! I possess wealth. Tell me immediately. What shall I give you?’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have performed japa for a full hundred years. If you wish to give me something, give me the fruits of that japa.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Take the supreme fruits that I have obtained through japa. Without reﬂecting, take half of those fruits. Or, take all the fruits of the japa from me. O king! If you so wish, take them entirely.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! Though I asked for all the fruits of japa, I don't want them. May you be fortunate. I am leaving you. But tell me what those fruits are.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I don't know what fruits have been given to me because of the japa. However, Dharma, Time, Yama and Death are witnesses{171}.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you do not even know what the fruits of this dharma are, what will I do with them? O brahmana! Since there are doubts about what they are, I do not desire them.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana said, ‘I will not accept any other words for you. I have already given you my fruits. O rajarshi! Let both your words and mine be true. Earlier, I have never performed japa with any speciﬁc objective in mind. O tiger among kings! How will I then know the fruits from japa? You said, “give” and I said “take”. Let those words not be falsiﬁed. We must be steady and protect the truth. O king! If you do not keep the words that you spoke to me{172}, then, because of the falsehood, a great adharma will descend on you. O scorcher of enemies! The words that you have spoken should not be tainted with falsehood. In that way, I am also incapable of falsifying my words. Without any hesitation, I have earlier pledged to give it to you. Therefore, if you wish to adhere to the truth, you should accept it without any reﬂection. O king! You came here and asked me for the fruits of the japa. Therefore, adhere to the truth and accept what has been given to you. O king! There are no worlds for those who are supremely addicted to falsehood. Their past, or their future, cannot be saved. Sacriﬁces, studying, donations and rituals are incapable of saving them. O bull among men! In this world and in the next, there is nothing as supreme as the truth. Truth is superior to all the austerities you have performed and all the austerities you will undergo for hundreds and thousands of years. Truth is the single syllable of the brahman. Truth is the single syllable of austerities. Truth is the single syllable of sacriﬁces. Truth is the single syllable of learning. The Vedas remain awake in truth. The learned texts have said that truth brings the supreme fruits. Truth is dharma and self-control. Everything is established in truth. The Vedas and the Vedangas are truth. The sacriﬁces and rituals are in truth. Vows and good conduct are truth. Om is truth. The birth of beings is based on truth. Truth is their offspring. The wind blows because of truth. The sun heats because of truth. The ﬁre burns because of truth. Heaven is established in truth. Truth is sacriﬁces, austerities, the Vedas, hymns, mantras and Sarasvati. We have heard that dharma and truth were weighed on a pair of scales and when they were weighed together, truth was heavier. Where there is dharma, truth is there. Everything is enhanced through truth. O king! Why do you wish to perform an act of falsehood? O king! Fix your sentiments on truth and not futilely on falsehood. Why do you wish to inauspiciously falsify the word \"give\" that you spoke? O king! I have given you the fruits of my japa. If you refuse to accept them, you will roam around the world, dislodged from your own dharma. Having pledged, if one does not give, and if one does not accept, both are tainted by falsehood. Therefore, you should not act in a false way.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will not accept any other words for you. I have already given you my fruits. O rajarshi! Let both your words and mine be true. Earlier, I have never performed japa with any speciﬁc objective in mind. O tiger among kings! How will I then know the fruits from japa? You said, ",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“give”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " and I said ",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“take”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": ". Let those words not be falsiﬁed. We must be steady and protect the truth. O king! If you do not keep the words that you spoke to me{172}, then, because of the falsehood, a great adharma will descend on you. O scorcher of enemies! The words that you have spoken should not be tainted with falsehood. In that way, I am also incapable of falsifying my words. Without any hesitation, I have earlier pledged to give it to you. Therefore, if you wish to adhere to the truth, you should accept it without any reﬂection. O king! You came here and asked me for the fruits of the japa. Therefore, adhere to the truth and accept what has been given to you. O king! There are no worlds for those who are supremely addicted to falsehood. Their past, or their future, cannot be saved. Sacriﬁces, studying, donations and rituals are incapable of saving them. O bull among men! In this world and in the next, there is nothing as supreme as the truth. Truth is superior to all the austerities you have performed and all the austerities you will undergo for hundreds and thousands of years. Truth is the single syllable of the brahman. Truth is the single syllable of austerities. Truth is the single syllable of sacriﬁces. Truth is the single syllable of learning. The Vedas remain awake in truth. The learned texts have said that truth brings the supreme fruits. Truth is dharma and self-control. Everything is established in truth. The Vedas and the Vedangas are truth. The sacriﬁces and rituals are in truth. Vows and good conduct are truth. Om is truth. The birth of beings is based on truth. Truth is their offspring. The wind blows because of truth. The sun heats because of truth. The ﬁre burns because of truth. Heaven is established in truth. Truth is sacriﬁces, austerities, the Vedas, hymns, mantras and Sarasvati. We have heard that dharma and truth were weighed on a pair of scales and when they were weighed together, truth was heavier. Where there is dharma, truth is there. Everything is enhanced through truth. O king! Why do you wish to perform an act of falsehood? O king! Fix your sentiments on truth and not futilely on falsehood. Why do you wish to inauspiciously falsify the word \"give\" that you spoke? O king! I have given you the fruits of my japa. If you refuse to accept them, you will roam around the world, dislodged from your own dharma. Having pledged, if one does not give, and if one does not accept, both are tainted by falsehood. Therefore, you should not act in a false way.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king said, ‘O brahmana! The dharma of kshatriyas is to ﬁght and protect. It is said that kshatriyas are givers. How can I accept from you?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! The dharma of kshatriyas is to ﬁght and protect. It is said that kshatriyas are givers. How can I accept from you?’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘O king! I did not go to your house and insist. You came here and asked from me. How can you then not accept?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I did not go to your house and insist. You came here and asked from me. How can you then not accept?’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dharma said, ‘Let there be an end to this excessive dispute between you. Know that I am Dharma. Let the brahmana obtain the fruits of giving. Let the king obtain the fruits of adhering to the truth.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let there be an end to this excessive dispute between you. Know that I am Dharma. Let the brahmana obtain the fruits of giving. Let the king obtain the fruits of adhering to the truth.’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Heaven said, ‘O Indra among kings! Know that I am Heaven and have myself appeared before you. Let there be an end to this excessive dispute. Both of you are equal in obtaining the fruits.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Heaven said, ",
+          "speaker": "@bhishma",
+          "introduces": "heaven",
+          "introduces_label": "Heaven",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra among kings! Know that I am Heaven and have myself appeared before you. Let there be an end to this excessive dispute. Both of you are equal in obtaining the fruits.’",
+          "speaker": "heaven",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 19,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘I have performed tasks that will ensure heaven for me. O Heaven! Go wherever you want. If the brahmana so desires, I will give him the riches that I have obtained.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have performed tasks that will ensure heaven for me. O Heaven! Go wherever you want. If the brahmana so desires, I will give him the riches that I have obtained.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 20,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana said, ‘In my words, I may have ignorantly stretched out my hand{173}. I now follow the dharma that has the characteristics of not being attached and I am engaged in japa. O king! I have been engaged in withdrawal for a long time. Why do you wish to tempt me? I will perform my own acts. O king! I do not desire your fruits. I am engaged in austerities, studying and good conduct and have accepted the path of withdrawal.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In my words, I may have ignorantly stretched out my hand{173}. I now follow the dharma that has the characteristics of not being attached and I am engaged in japa. O king! I have been engaged in withdrawal for a long time. Why do you wish to tempt me? I will perform my own acts. O king! I do not desire your fruits. I am engaged in austerities, studying and good conduct and have accepted the path of withdrawal.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 21,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘O brahmana! If you wish to give me the supreme fruits of your japa, then accept some of my fruits and let us divide them. Brahmanas are engaged in accepting. Those born in royal lineages are engaged in giving. O brahmana! If you are learned about dharma, let our fruits be equal. Or if you do not wish to share equally, take all the fruits from me. If you wish to show me your favours, accept what I have earned through dharma.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! If you wish to give me the supreme fruits of your japa, then accept some of my fruits and let us divide them. Brahmanas are engaged in accepting. Those born in royal lineages are engaged in giving. O brahmana! If you are learned about dharma, let our fruits be equal. Or if you do not wish to share equally, take all the fruits from me. If you wish to show me your favours, accept what I have earned through dharma.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 22,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “At that time, two malformed men arrived there. They were dressed badly and each of them had his hand on the other one's shoulder. They said, ‘You don't owe me anything. It is I who owe you. We are debating in this way and here is a king who is a ruler. I am telling you truthfully. You don't owe me anything. You are speaking falsely, when you say that you owe me something.’ Engaged in this furious debate, they approached the king and said, ‘Examine the case, so that neither one of us is censured.’ Virupa said, ‘O tiger among men! I owe Vikrita the fruits of giving away a cow{174}. O lord of the earth! I wish to return this to him. But Vikrita refuses to accept it.’ Vikrita said, ‘O lord of men! Virupa does not owe me anything. O lord of men! He is lying to you. This is false.’ The king asked, ‘O Virupa! Tell me. What do you owe him? It is my view that, having heard, I will do what needs to be done.’ Virupa replied, ‘O king! Listen attentively to what happened and how I owe a debt to Vikrita. O rajarshi! O bull among men! I will tell you everything. O unblemished one! O rajarshi! For the sake of obtaining riches, in earlier times, he had given away an auspicious cow to a brahmana who was of good conduct and was engaged in austerities and studying. O king! I went to him and asked for the fruits of that act. Pure in his soul, he gave me the fruits of what he had done. Thereafter, after purifying myself, I performed some good deeds. I bought two brown cows{175} with calves and they yielded a lot of milk. O king! O lord! There was a brahmana who was devoted to the conduct of unchhavritti. Faithfully, and following the prescribed rites, I donated these to him. Having received earlier, I now wished to give him twice the fruits{176}. O tiger among men! This being the background, who among us is pure? Who is sinful? O king! We have debated this among us and have come before you. Decide on dharma and adharma and we will accept it with all humility. O lord! If he does not wish to accept the gift that he had bestowed on me earlier, then you must determine the right course for both of us to take.’ The king asked, ‘Why are you not accepting, when your debt is being repaid now? Grant your permission and receive it quickly.’ Vikrita replied, ‘He says that he owes me. But what I gave was given away. Therefore, he does not owe me anything. Let him go wherever he wishes.’ The king said, ‘He is willing to give, but you do not accept. To me, this does not seem fair. In my view, there is no doubt that you should be punished on this account.’ Vikrita replied, ‘O rajarshi! I gave him a gift. How can I take it back again? O lord! If it is your view that I am guilty, then please punish me.’ Virupa retorted, ‘I am willing to give, but you are unwilling to accept. The king is the protector of dharma and must restrain you.’ Vikrita replied, ‘I myself gave what he asked for. How can I take that back now? I am giving you. Having accepted it, you have my permission to go away.’ The brahmana said, ‘O king! You have heard what these two have said. Without any reﬂection, take what I have pledged to give you.’ The king replied, ‘An extremely grave task confronts us, like a bottomless pit. The japaka is ﬁrm in his resolution. How will this end? If I do not accept what has been earned by the brahmana, how will I avoid being tainted with a great sin?’ The rajarshi told those two, ‘You have accomplished your objectives. Depart now. Rajadharma is vested in me and I must ensure that it is not rendered futile. It has been determined that kings must protect their own dharma. It is extremely unfortunate that the dharma of brahmanas{177} has presented itself before me.’ The brahmana said, ‘Accept what I owe you. I have heard you ask for it. O king! If you refuse to accept it, it is certain that I will curse you.’ The king replied, ‘Shame on rajadharma, since it has been determined that I must do this. I must accept what you are giving, so that the two are rendered equal{178}. My hand is stretched out. Earlier, it used to be stretched out only for giving. O brahmana! Give me whatever you owe me.’ The brahmana said, ‘Whatever qualities I have obtained through the performance of japa and whatever is vested in me, accept all of those.’ The king replied, ‘O supreme among brahmanas! These drops of water have fallen on my hands. Accept those from me, so that we are equal.’ Virupa said, ‘Know that we are Desire and Anger and we have goaded you to act in this way. As you have said, the two of you are equal and will be equal in all the worlds. He{179} does not owe me anything. We questioned you for your own sake. Time, Dharma and Death, and the two of us, Desire and Anger, have examined everything about you, in your presence. As you desired, go to the worlds that you have won through your deeds.’ I have recounted to you the fruits obtained by japakas and the end, status and worlds conquered by japakas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“At that time, two malformed men arrived there. They were dressed badly and each of them had his hand on the other one's shoulder. They said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You don't owe me anything. It is I who owe you. We are debating in this way and here is a king who is a ruler. I am telling you truthfully. You don't owe me anything. You are speaking falsely, when you say that you owe me something.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Engaged in this furious debate, they approached the king and said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Examine the case, so that neither one of us is censured.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Virupa said, ",
+          "speaker": "@bhishma",
+          "introduces": "virupa",
+          "introduces_label": "Virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O tiger among men! I owe Vikrita the fruits of giving away a cow{174}. O lord of the earth! I wish to return this to him. But Vikrita refuses to accept it.’",
+          "speaker": "virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vikrita said, ",
+          "speaker": "@bhishma",
+          "introduces": "vikrita",
+          "introduces_label": "Vikrita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of men! Virupa does not owe me anything. O lord of men! He is lying to you. This is false.’",
+          "speaker": "vikrita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king asked, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Virupa! Tell me. What do you owe him? It is my view that, having heard, I will do what needs to be done.’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Virupa replied, ",
+          "speaker": "@bhishma",
+          "introduces": "virupa",
+          "introduces_label": "Virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Listen attentively to what happened and how I owe a debt to Vikrita. O rajarshi! O bull among men! I will tell you everything. O unblemished one! O rajarshi! For the sake of obtaining riches, in earlier times, he had given away an auspicious cow to a brahmana who was of good conduct and was engaged in austerities and studying. O king! I went to him and asked for the fruits of that act. Pure in his soul, he gave me the fruits of what he had done. Thereafter, after purifying myself, I performed some good deeds. I bought two brown cows{175} with calves and they yielded a lot of milk. O king! O lord! There was a brahmana who was devoted to the conduct of unchhavritti. Faithfully, and following the prescribed rites, I donated these to him. Having received earlier, I now wished to give him twice the fruits{176}. O tiger among men! This being the background, who among us is pure? Who is sinful? O king! We have debated this among us and have come before you. Decide on dharma and adharma and we will accept it with all humility. O lord! If he does not wish to accept the gift that he had bestowed on me earlier, then you must determine the right course for both of us to take.’",
+          "speaker": "virupa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king asked, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Why are you not accepting, when your debt is being repaid now? Grant your permission and receive it quickly.’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vikrita replied, ",
+          "speaker": "@bhishma",
+          "introduces": "vikrita",
+          "introduces_label": "Vikrita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He says that he owes me. But what I gave was given away. Therefore, he does not owe me anything. Let him go wherever he wishes.’",
+          "speaker": "vikrita",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He is willing to give, but you do not accept. To me, this does not seem fair. In my view, there is no doubt that you should be punished on this account.’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vikrita replied, ",
+          "speaker": "@bhishma",
+          "introduces": "vikrita",
+          "introduces_label": "Vikrita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O rajarshi! I gave him a gift. How can I take it back again? O lord! If it is your view that I am guilty, then please punish me.’",
+          "speaker": "vikrita",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Virupa retorted, ",
+          "speaker": "@bhishma",
+          "introduces": "virupa",
+          "introduces_label": "Virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am willing to give, but you are unwilling to accept. The king is the protector of dharma and must restrain you.’",
+          "speaker": "virupa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vikrita replied, ",
+          "speaker": "@bhishma",
+          "introduces": "vikrita",
+          "introduces_label": "Vikrita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I myself gave what he asked for. How can I take that back now? I am giving you. Having accepted it, you have my permission to go away.’",
+          "speaker": "vikrita",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! You have heard what these two have said. Without any reﬂection, take what I have pledged to give you.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘An extremely grave task confronts us, like a bottomless pit. The japaka is ﬁrm in his resolution. How will this end? If I do not accept what has been earned by the brahmana, how will I avoid being tainted with a great sin?’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The rajarshi told those two, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have accomplished your objectives. Depart now. Rajadharma is vested in me and I must ensure that it is not rendered futile. It has been determined that kings must protect their own dharma. It is extremely unfortunate that the dharma of brahmanas{177} has presented itself before me.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Accept what I owe you. I have heard you ask for it. O king! If you refuse to accept it, it is certain that I will curse you.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Shame on rajadharma, since it has been determined that I must do this. I must accept what you are giving, so that the two are rendered equal{178}. My hand is stretched out. Earlier, it used to be stretched out only for giving. O brahmana! Give me whatever you owe me.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Whatever qualities I have obtained through the performance of japa and whatever is vested in me, accept all of those.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O supreme among brahmanas! These drops of water have fallen on my hands. Accept those from me, so that we are equal.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Virupa said, ",
+          "speaker": "@bhishma",
+          "introduces": "virupa",
+          "introduces_label": "Virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Know that we are Desire and Anger and we have goaded you to act in this way. As you have said, the two of you are equal and will be equal in all the worlds. He{179} does not owe me anything. We questioned you for your own sake. Time, Dharma and Death, and the two of us, Desire and Anger, have examined everything about you, in your presence. As you desired, go to the worlds that you have won through your deeds.’",
+          "speaker": "virupa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " I have recounted to you the fruits obtained by japakas and the end, status and worlds conquered by japakas.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 23,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“A person who studies goes to the supreme abode of Brahma, or goes to Agni and enters into Surya. If he is attached, he imbibes that energy. Confounded by attachment, he imbibes those qualities{180}. This is also the case if his body is with Soma, Vayu, the earth or space. If there is attachment, he dwells and acts in accordance with those qualities. However, if he is detached, he is doubtful even if he goes there. He desires for the supreme and eventually penetrates that. He obtains the amrita of all amritas. He is tranquil and it is as if he has no atman. He becomes part of the brahman and is freed from opposite sentiments. He is happy, peaceful and without disease. He obtains the abode of the brahman, from which, there is no return. This is characterized by the single akshara alone. There is no misery. There is no decay. He obtains that region of tranquility. He is devoid of the four characteristics and the six and the sixteen{181}. He passes over Purusha and is immersed in space{182}. However, if he still has attachment in his soul and does not desire all this, he obtains everything that his mind desires. Or he looks upon all the worlds that have earlier been called hells. If he does not desire anything, he is free and ﬁnds delight in bliss. O great king! This is the end obtained by japakas. I have told you everything. What else do you wish to hear?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“A person who studies goes to the supreme abode of Brahma, or goes to Agni and enters into Surya. If he is attached, he imbibes that energy. Confounded by attachment, he imbibes those qualities{180}. This is also the case if his body is with Soma, Vayu, the earth or space. If there is attachment, he dwells and acts in accordance with those qualities. However, if he is detached, he is doubtful even if he goes there. He desires for the supreme and eventually penetrates that. He obtains the amrita of all amritas. He is tranquil and it is as if he has no atman. He becomes part of the brahman and is freed from opposite sentiments. He is happy, peaceful and without disease. He obtains the abode of the brahman, from which, there is no return. This is characterized by the single akshara alone. There is no misery. There is no decay. He obtains that region of tranquility. He is devoid of the four characteristics and the six and the sixteen{181}. He passes over Purusha and is immersed in space{182}. However, if he still has attachment in his soul and does not desire all this, he obtains everything that his mind desires. Or he looks upon all the worlds that have earlier been called hells. If he does not desire anything, he is free and ﬁnds delight in bliss. O great king! This is the end obtained by japakas. I have told you everything. What else do you wish to hear?”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "chapter_number": 659,
+  "global_number": 659,
+  "local_number": 63,
+  "num_shlokas": 54,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Leading an army, Virata had also won back his riches. With the other four Pandavas, he cheerfully entered the city. After defeating the Trigartas in battle and winning back all the cows, the great king, together with the Parthas, was radiant, surrounded by his prosperity. The brave one increased the delight of his wellwishers. He seated himself on his throne and all the ordinary subjects, together with the brahmanas, showed him homage. The king of Matsya, together with his army, honoured them in return. Then he gave the brahmanas, and the ordinary subjects, permission to leave. King Virata of Matsya, the leader of an army, then asked about Uttara. “Where has he gone?” All the women and maidens who dwelt in the inner quarters of the palace happily replied, “The Kurus abducted the wealth of cattle. Prithivinjaya was angry. He rashly went out alone, together with Brihannada, to defeat the six atiratha charioteers who had attacked us—Drona, Shantanu’s son, Kripa, Karna, Duryodhana and Drona’s son.” On hearing that his son, eager to ﬁght, had gone out alone on a chariot, with Brihannada as his charioteer, King Virata was tormented by grief and told his chief advisers, “Hearing that the Trigartas have been routed, all the Kurus and the lords of the earth will certainly not remain unmoved. Therefore, let those of my warriors, who have not been injured by the Trigartas, go out with a large army to protect Uttara.” For the sake of his son, he swiftly instructed horses, elephants, chariots and a large number of brave infantry to advance, with many weapons and decorated with ornaments. King Virata of Matsya, the leader of an army, quickly instructed the army that consisted of four parts{1}, “Swiftly ﬁnd out whether the prince is dead or alive. With a eunuch as his charioteer, I think that he cannot be alive.” Dharmaraja then laughed and told Virata, oppressed and tormented by the Kurus, “O Indra among men! If Brihannada is his charioteer, no enemy will now be able to take away the cattle. Served well by that charioteer, your son is capable of defeating in battle all the lords of the earth, together with the Kurus, even the gods, the asuras, the yakshas and the serpents.” Meanwhile, the swift messengers dispatched by Uttara arrived in the city of Virata and announced the news of his victory.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Leading an army, Virata had also won back his riches. With the other four Pandavas, he cheerfully entered the city. After defeating the Trigartas in battle and winning back all the cows, the great king, together with the Parthas, was radiant, surrounded by his prosperity. The brave one increased the delight of his wellwishers. He seated himself on his throne and all the ordinary subjects, together with the brahmanas, showed him homage. The king of Matsya, together with his army, honoured them in return. Then he gave the brahmanas, and the ordinary subjects, permission to leave.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "King Virata of Matsya, the leader of an army, then asked about Uttara",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata_of_matsya",
+          "text": "“Where has he gone?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "All the women and maidens who dwelt in the inner quarters of the palace happily replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@all_the_women_and",
+          "text": "“The Kurus abducted the wealth of cattle. Prithivinjaya was angry. He rashly went out alone, together with Brihannada, to defeat the six atiratha charioteers who had attacked us—Drona, Shantanu’s son, Kripa, Karna, Duryodhana and Drona’s son.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On hearing that his son, eager to ﬁght, had gone out alone on a chariot, with Brihannada as his charioteer,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "King Virata was tormented by grief and told his chief advisers",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata_was_tormented",
+          "text": "“Hearing that the Trigartas have been routed, all the Kurus and the lords of the earth will certainly not remain unmoved. Therefore, let those of my warriors, who have not been injured by the Trigartas, go out with a large army to protect Uttara.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "For the sake of his son, he swiftly instructed horses, elephants, chariots and a large number of brave infantry to advance, with many weapons and decorated with ornaments. King Virata of Matsya, the leader of an army, quickly instructed the army that consisted of four parts{1},",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Swiftly ﬁnd out whether the prince is dead or alive. With a eunuch as his charioteer, I think that he cannot be alive.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Dharmaraja then laughed and told Virata, oppressed and tormented by the Kurus,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“O Indra among men! If Brihannada is his charioteer, no enemy will now be able to take away the cattle. Served well by that charioteer, your son is capable of defeating in battle all the lords of the earth, together with the Kurus, even the gods, the asuras, the yakshas and the serpents.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Meanwhile, the swift messengers dispatched by Uttara arrived in the city of Virata and announced the news of his victory.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The chief adviser described everything to the king—the supreme victory, the defeat of the Kurus and Uttara’s return. “All the cattle have been won back. The Kurus have been defeated. Uttara, the scorcher of enemies, is safe, together with his charioteer.” Kanka{2} said, “It is through good fortune that the cattle have been recovered and the Kurus defeated. O bull among kings! It is through good fortune that we have heard that your son is alive. It is certain that one, who has Brihannada as his charioteer, will triumph.” On hearing about the victory of his inﬁnitely energetic son, King Virata was extremely delighted and his body hair stood up. He rewarded the messengers with garments and instructed his ministers, “Let the royal roads be decorated with ﬂags. Let all the gods be honoured with offerings of ﬂowers. Let princes, foremost warriors, well-ornamented harlots and all the musicians go out to receive my son. Let a man with a bell quickly mount an intoxicated elephant. Let him go to the crossroads and proclaim my victory. Let Uttara{3} go to receive Brihannada, surrounded by many maidens who bear the garments and ornaments of love{4}.” On hearing the words of the lord of the earth, everyone held auspicious marks{5} in the hands and bore cymbals, trumpets and conch shells. There were beautiful women in gorgeous garments. There were bards and raconteurs. There were trumpets and other pleasant-sounding musical instruments. They emerged from immensely strong Virata’s city, to receive his inﬁnitely valorous son.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "The chief adviser described everything to the king—the supreme victory, the defeat of the Kurus and Uttara’s return.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“All the cattle have been won back. The Kurus have been defeated. Uttara, the scorcher of enemies, is safe, together with his charioteer.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Kanka{2} said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@kanka",
+          "text": "“It is through good fortune that the cattle have been recovered and the Kurus defeated. O bull among kings! It is through good fortune that we have heard that your son is alive. It is certain that one, who has Brihannada as his charioteer, will triumph.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On hearing about the victory of his inﬁnitely energetic son, King Virata was extremely delighted and his body hair stood up. He rewarded the messengers with garments and instructed his ministers,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Let the royal roads be decorated with ﬂags. Let all the gods be honoured with offerings of ﬂowers. Let princes, foremost warriors, well-ornamented harlots and all the musicians go out to receive my son. Let a man with a bell quickly mount an intoxicated elephant. Let him go to the crossroads and proclaim my victory. Let Uttara{3} go to receive Brihannada, surrounded by many maidens who bear the garments and ornaments of love{4}.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On hearing the words of the lord of the earth, everyone held auspicious marks{5} in the hands and bore cymbals, trumpets and conch shells. There were beautiful women in gorgeous garments. There were bards and raconteurs. There were trumpets and other pleasant-sounding musical instruments. They emerged from immensely strong Virata’s city, to receive his inﬁnitely valorous son.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘After the soldiers, the maidens and the ornamented harlots had left, the immensely wise king of Matsya happily said, “O sairandhri{6}! Fetch the dice. O Kanka! Let the gambling commence.” When he said this, Pandava{7} looked at him and replied, “We have heard it said that one should not play with a gambler who is rejoicing. Now that you are so delighted, I should not play with you. I always act so as to bring you pleasure. But if you so wish, let it commence.” Virata said, “Even if I do not gamble, today, you will not be able to save my women, my cattle, my gold and whatever other riches I possess{8}.” Kanka replied, “O Indra among kings! Why do you wish to gamble? O one who grants honours! There are many vices and many sins in gambling and it should be avoided. You may have heard of, or seen, Pandava Yudhishthira. He lost his extremely large and prosperous kingdoms and his brothers, who were the equals of the thirty gods. He lost everything through gambling. Therefore, I ﬁnd no pleasure in gambling. O king! But if it pleases you to gamble, we will play.” While the gambling was going on, Matsya told Pandava, “Behold! My son has vanquished the likes of the Kurus in battle.” At this, Dharma’s son, Yudhishthira, replied to the king of Matsya, “How can one who has Brihannada as a charioteer not be victorious?” At this, the king of Matsya was enraged and told Pandava, “O brahmana! You are praising a eunuch, as if he is equal to my son. Do you not know what should be said and what should not be said? You are insulting me. Why should he not defeat all the warriors, with Bhishma and Drona at the forefront? O brahmana! For the sake of our friendship, I will pardon you this affront. But if you wish to live, you must not speak in this fashion again.” Yudhishthira said, “O Indra among kings! If Drona and Bhishma are there, Drona’s son, Vaikartana and Kripa, and Duryodhana and many other maharathas, even if Shatakratu is himself there, surrounded by masses of Maruts, who other than Brihannada can ﬁght all of them together?” Virata replied, “I have restrained you in many ways. But you do not control your words. If there is no one to restrain, who will observe dharma?” Having said this, the enraged king struck Yudhishthira on the face with the dice and angrily censured him. So powerfully was he struck that blood began to ﬂow from his nose. Partha caught it in his hands before it fell down on the ground. The one with dharma in his soul glanced at Droupadi, who was standing at one side. Having got to know his intentions, and obedient to the wishes of her husband, the unblemished one ﬁlled a golden vessel with water. She used this to gather the blood that ﬂowed from Pandava.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘After the soldiers, the maidens and the ornamented harlots had left,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the immensely wise king of Matsya happily said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_immensely_wise_king_of",
+          "text": "“O sairandhri{6}! Fetch the dice. O Kanka! Let the gambling commence.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "When he said this,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Pandava{7} looked at him and replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“We have heard it said that one should not play with a gambler who is rejoicing. Now that you are so delighted, I should not play with you. I always act so as to bring you pleasure. But if you so wish, let it commence.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Virata said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata",
+          "text": "“Even if I do not gamble, today, you will not be able to save my women, my cattle, my gold and whatever other riches I possess{8}.”",
+          "color": "#70D6FF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Kanka replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@kanka",
+          "text": "“O Indra among kings! Why do you wish to gamble? O one who grants honours! There are many vices and many sins in gambling and it should be avoided. You may have heard of, or seen, Pandava Yudhishthira. He lost his extremely large and prosperous kingdoms and his brothers, who were the equals of the thirty gods. He lost everything through gambling. Therefore, I ﬁnd no pleasure in gambling. O king! But if it pleases you to gamble, we will play.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "While the gambling was going on,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Matsya told Pandava",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@matsya",
+          "text": "“Behold! My son has vanquished the likes of the Kurus in battle.”",
+          "color": "#7B4ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "At this, Dharma’s son, Yudhishthira, replied to the king of Matsya,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“How can one who has Brihannada as a charioteer not be victorious?”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "At this,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the king of Matsya was enraged and told Pandava",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_king_of_matsya_was",
+          "text": "“O brahmana! You are praising a eunuch, as if he is equal to my son. Do you not know what should be said and what should not be said? You are insulting me. Why should he not defeat all the warriors, with Bhishma and Drona at the forefront? O brahmana! For the sake of our friendship, I will pardon you this affront. But if you wish to live, you must not speak in this fashion again.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O Indra among kings! If Drona and Bhishma are there, Drona’s son, Vaikartana and Kripa, and Duryodhana and many other maharathas, even if Shatakratu is himself there, surrounded by masses of Maruts, who other than Brihannada can ﬁght all of them together?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Virata replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata",
+          "text": "“I have restrained you in many ways. But you do not control your words. If there is no one to restrain, who will observe dharma?”",
+          "color": "#70D6FF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having said this, the enraged king struck Yudhishthira on the face with the dice and angrily censured him. So powerfully was he struck that blood began to ﬂow from his nose. Partha caught it in his hands before it fell down on the ground. The one with dharma in his soul glanced at Droupadi, who was standing at one side. Having got to know his intentions, and obedient to the wishes of her husband, the unblemished one ﬁlled a golden vessel with water. She used this to gather the blood that ﬂowed from Pandava.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Thereafter Uttara, adorned with pure fragrances and many garlands, happily and slowly entered the city. He was welcomed by the citizens, the women and the residents of the countryside. He approached the gate of the palace and sent word to his father. The gatekeeper entered and told Virata, “Your son Uttara is standing at the gate, together with Brihannada.” Delighted, the king of Matsya told his kshatta{9}, “Bring both of them here immediately. I am anxious to see them.” But the king of the Kurus{10} swiftly whispered in the kshatta’s ears, “Let Uttara enter alone. Do not allow Brihannada to enter. The mighty-armed one has sworn an oath. If anyone wounds my limbs, or if anyone makes blood ﬂow from my body without it being in an act of battle, he will certainly not remain alive. If he sees this blood ﬂowing from my body, he will become angry and will not tolerate it. He will kill Virata, together with his advisers, his army and his vehicles.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Thereafter Uttara, adorned with pure fragrances and many garlands, happily and slowly entered the city. He was welcomed by the citizens, the women and the residents of the countryside. He approached the gate of the palace and sent word to his father.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The gatekeeper entered and told Virata",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_gatekeeper_entered_and",
+          "text": "“Your son Uttara is standing at the gate, together with Brihannada.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Delighted,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the king of Matsya told his kshatta{9}",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_king_of_matsya",
+          "text": "“Bring both of them here immediately. I am anxious to see them.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "But the king of the Kurus{10} swiftly whispered in the kshatta’s ears",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_king_of",
+          "text": "“Let Uttara enter alone. Do not allow Brihannada to enter. The mighty-armed one has sworn an oath. If anyone wounds my limbs, or if anyone makes blood ﬂow from my body without it being in an act of battle, he will certainly not remain alive. If he sees this blood ﬂowing from my body, he will become angry and will not tolerate it. He will kill Virata, together with his advisers, his army and his vehicles.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

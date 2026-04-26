@@ -1,0 +1,221 @@
+{
+  "chapter": 1410,
+  "local": 82,
+  "shlokas": 30,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “If the circle of kin and relatives cannot be dealt with in this way, friends may become enemies. What should be one's sentiments then?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If the circle of kin and relatives cannot be dealt with in this way, friends may become enemies. What should be one's sentiments then?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is recounted, about the conversation between Vasudeva and Narada, the celestial rishi.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted, about the conversation between Vasudeva and Narada, the celestial rishi.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Vasudeva said, ‘O Narada! A person who is not a well-wisher should not get to know the supremely secret counsel, nor should a well-wisher who is not learned, or a learned person who is not in control of his soul. O Narada! Because you have affectionate feelings towards me, I will tell you something. O one who can go to heaven! Having considered my entire intelligence, I will also ask you something. I do not act so as to become a slave to my kin, by talking to them about their riches. I enjoy half the objects of pleasure{750} and forgive harsh words spoken to me, which crush my heart, like two kindling sticks rubbed together in a desire for ﬁre. O rishi of the gods! The words that are spoken harshly always torment me. Samkarshana{751} always possesses strength and Gada{752} is again delicate. O Narada! Pradyumna{753} surpasses me in beauty, but I have no aides. O Narada! The others of the Andhaka and Vrishni lineages are extremely fortunate. They are powerful and difﬁcult to assail. They are always full of enterprise. Whether they are on your side, or whether they are not on your side, there is hardship. What can be a greater misery than to have Akrura and Ahuka on the same side{754}? Both of them have always solicited me, but I have not opted for either of them. However, what can be a greater misery than not to have those two on your side? O great sage! I am like the mother of two{755} who are engaged in a gambling match. If I wish for the victory of one, it is like defeat for the other. O Narada! These two always afﬂict me in this way. You should tell me what is beneﬁcial for my kin and for my own self.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Vasudeva said, ",
+          "speaker": "@bhishma",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Narada! A person who is not a well-wisher should not get to know the supremely secret counsel, nor should a well-wisher who is not learned, or a learned person who is not in control of his soul. O Narada! Because you have affectionate feelings towards me, I will tell you something. O one who can go to heaven! Having considered my entire intelligence, I will also ask you something. I do not act so as to become a slave to my kin, by talking to them about their riches. I enjoy half the objects of pleasure{750} and forgive harsh words spoken to me, which crush my heart, like two kindling sticks rubbed together in a desire for ﬁre. O rishi of the gods! The words that are spoken harshly always torment me. Samkarshana{751} always possesses strength and Gada{752} is again delicate. O Narada! Pradyumna{753} surpasses me in beauty, but I have no aides. O Narada! The others of the Andhaka and Vrishni lineages are extremely fortunate. They are powerful and difﬁcult to assail. They are always full of enterprise. Whether they are on your side, or whether they are not on your side, there is hardship. What can be a greater misery than to have Akrura and Ahuka on the same side{754}? Both of them have always solicited me, but I have not opted for either of them. However, what can be a greater misery than not to have those two on your side? O great sage! I am like the mother of two{755} who are engaged in a gambling match. If I wish for the victory of one, it is like defeat for the other. O Narada! These two always afﬂict me in this way. You should tell me what is beneﬁcial for my kin and for my own self.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Narada replied, ‘O Krishna! Disasters are of two kinds—the external and the internal. O Varshneya! They result from one's own deeds, or those of others. This difﬁculty is internal and is because of your own deeds. Because of Akrura's power, for the sake of riches, because of desire or because they are frightened by words or deeds, the Bhojas are on his side. You obtained the prosperity for yourself, but gave it away to another{756}. You provided the foundation and he{757} is now applauded in words and possesses aides. Like food that has been vomited out, you are incapable of taking it back. O Krishna! You can never take the kingdom back from Babhru{758} and Ugrasena, especially because that will lead to conﬂict within the clan. That will only be possible after trying hard and performing an extremely difﬁcult task. There will be a great slaughter and perhaps complete destruction. Therefore, use a weapon that is not made of steel, one that is mild, but is capable of piercing hearts. Sharpen that blade and use it to remove their tongues.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Narada replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Krishna! Disasters are of two kinds—the external and the internal. O Varshneya! They result from one's own deeds, or those of others. This difﬁculty is internal and is because of your own deeds. Because of Akrura's power, for the sake of riches, because of desire or because they are frightened by words or deeds, the Bhojas are on his side. You obtained the prosperity for yourself, but gave it away to another{756}. You provided the foundation and he{757} is now applauded in words and possesses aides. Like food that has been vomited out, you are incapable of taking it back. O Krishna! You can never take the kingdom back from Babhru{758} and Ugrasena, especially because that will lead to conﬂict within the clan. That will only be possible after trying hard and performing an extremely difﬁcult task. There will be a great slaughter and perhaps complete destruction. Therefore, use a weapon that is not made of steel, one that is mild, but is capable of piercing hearts. Sharpen that blade and use it to remove their tongues.’",
+          "speaker": "@narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Vasudeva asked, ‘O sage! How will I know what is the weapon that is not made of steel and is mild? What will I sharpen and use to remove their tongues?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Vasudeva asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O sage! How will I know what is the weapon that is not made of steel and is mild? What will I sharpen and use to remove their tongues?’",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Narada replied, ‘Always give as much of food as you are capable of. Be patient, self-controlled and upright. Honour those who must be revered. This is the weapon that is not made of steel. Use words to pacify the hearts, the speech and the minds of the relatives who desire to speak bitter and slighting words. Someone who is not a great man, someone who has not cleansed his soul and someone who is without aides cannot bear a great burden{759}. Raise it aloft on your shoulders. Every one is capable of bearing a great burden on level terrain. Only an excellent bull can bear a load that is extremely heavy over uneven terrain. An aggregation is destroyed if there is conﬂict within its ranks. O Keshava! You are the foremost of the aggregation. When it has obtained you, act so that the aggregation is not destroyed. Nothing other than prosperity, renunciation and generosity are established in a person who is wise. Ensuring the prosperity of one's own side is fortunate and glorious and ensures a long life. O Krishna! Act so that there is no destruction of your relatives. O lord! Whether it is about the six aspects{760} of policy or marching out on an expedition, you are in control of everything and everything is known to you. O mightyarmed one! The Madhavas, the Kukuras, the Bhojas, the Andhakas and the Vrishnis are dependent on you, just as the worlds and the lords of the worlds are. O Madhava! Even the rishis worship your intelligence. You are the preceptor of all beings. You know what has gone and what will come. O foremost among the Yadu lineage! Resorting to you, your relatives enjoy happiness.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Narada replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Always give as much of food as you are capable of. Be patient, self-controlled and upright. Honour those who must be revered. This is the weapon that is not made of steel. Use words to pacify the hearts, the speech and the minds of the relatives who desire to speak bitter and slighting words. Someone who is not a great man, someone who has not cleansed his soul and someone who is without aides cannot bear a great burden{759}. Raise it aloft on your shoulders. Every one is capable of bearing a great burden on level terrain. Only an excellent bull can bear a load that is extremely heavy over uneven terrain. An aggregation is destroyed if there is conﬂict within its ranks. O Keshava! You are the foremost of the aggregation. When it has obtained you, act so that the aggregation is not destroyed. Nothing other than prosperity, renunciation and generosity are established in a person who is wise. Ensuring the prosperity of one's own side is fortunate and glorious and ensures a long life. O Krishna! Act so that there is no destruction of your relatives. O lord! Whether it is about the six aspects{760} of policy or marching out on an expedition, you are in control of everything and everything is known to you. O mightyarmed one! The Madhavas, the Kukuras, the Bhojas, the Andhakas and the Vrishnis are dependent on you, just as the worlds and the lords of the worlds are. O Madhava! Even the rishis worship your intelligence. You are the preceptor of all beings. You know what has gone and what will come. O foremost among the Yadu lineage! Resorting to you, your relatives enjoy happiness.’",
+          "speaker": "@narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

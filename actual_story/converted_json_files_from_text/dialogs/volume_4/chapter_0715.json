@@ -1,0 +1,47 @@
+{
+  "chapter": 715,
+  "local": 52,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “All the Pandavas are brave and desire victory. Their followers have also resolved to give up their lives and have set their sights on victory. You yourself have spoken about those mighty enemies of mine—the Panchalas, the Kekayas, the Matsyas, the Magadhas and the kings of Vatsa. There is also the powerful one, who if he so wishes, can subjugate all the worlds, together with Indra. Krishna is supreme in the universe and he is also set on victory for the Pandavas. Satyaki swiftly obtained all knowledge from Arjuna{94}. Shini's son will be stationed in the ﬁeld of battle and will shower arrows, like seeds. Dhrishtadyumna of Panchala is a maharatha and is the performer of cruel deeds. He is strong in the knowledge of supreme weapons and will ﬁght my armies in the war. O son{95}! Great fear is generated in me from Yudhishthira's anger, Arjuna's valour and the twins and Bhimasena. Those Indras among men will cast out a superhuman net over my soldiers. O Sanjaya! That is the reason I am lamenting. Pandu's son{96} is handsome and intelligent. He possesses the signs of prosperity and the radiance of brahmanas. He is wise and his insight is excellent. He has dharma in his soul. He is surrounded by excellent friends and advisers and he has horses to yoke and those who will yoke them. His brothers, fathers-in-law and sons are maharathas. The Pandava, tiger among men, possesses fortitude and can maintain secrecy. He is non-violent, generous and modest, and truth is his valour. He is extremely learned and has perfected his soul. He serves the aged and has conquered his senses. He has all the qualities. Which wicked one will burn himself by descending into that kindled ﬁre, like an insect? One with stupid intelligence is certain to die if he doesn't avoid the Pandava's ﬁre. The king is like a tall and thin ﬂame, with a complexion of pure gold. He will bring about the destruction of my wicked sons in battle. I think that it is best not to ﬁght. O Kurus! Listen to me. If there is a war, it is certain that the entire lineage will be destroyed. This is supreme peace and it will pacify my mind. If you do not wish for war, let us try for peace. If you try for this, Yudhishthira will not ignore you. He abhors adharma and blames me as having been the cause.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All the Pandavas are brave and desire victory. Their followers have also resolved to give up their lives and have set their sights on victory. You yourself have spoken about those mighty enemies of mine—the Panchalas, the Kekayas, the Matsyas, the Magadhas and the kings of Vatsa. There is also the powerful one, who if he so wishes, can subjugate all the worlds, together with Indra. Krishna is supreme in the universe and he is also set on victory for the Pandavas. Satyaki swiftly obtained all knowledge from Arjuna{94}. Shini's son will be stationed in the ﬁeld of battle and will shower arrows, like seeds. Dhrishtadyumna of Panchala is a maharatha and is the performer of cruel deeds. He is strong in the knowledge of supreme weapons and will ﬁght my armies in the war. O son{95}! Great fear is generated in me from Yudhishthira's anger, Arjuna's valour and the twins and Bhimasena. Those Indras among men will cast out a superhuman net over my soldiers. O Sanjaya! That is the reason I am lamenting. Pandu's son{96} is handsome and intelligent. He possesses the signs of prosperity and the radiance of brahmanas. He is wise and his insight is excellent. He has dharma in his soul. He is surrounded by excellent friends and advisers and he has horses to yoke and those who will yoke them. His brothers, fathers-in-law and sons are maharathas. The Pandava, tiger among men, possesses fortitude and can maintain secrecy. He is non-violent, generous and modest, and truth is his valour. He is extremely learned and has perfected his soul. He serves the aged and has conquered his senses. He has all the qualities. Which wicked one will burn himself by descending into that kindled ﬁre, like an insect? One with stupid intelligence is certain to die if he doesn't avoid the Pandava's ﬁre. The king is like a tall and thin ﬂame, with a complexion of pure gold. He will bring about the destruction of my wicked sons in battle. I think that it is best not to ﬁght. O Kurus! Listen to me. If there is a war, it is certain that the entire lineage will be destroyed. This is supreme peace and it will pacify my mind. If you do not wish for war, let us try for peace. If you try for this, Yudhishthira will not ignore you. He abhors adharma and blames me as having been the cause.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

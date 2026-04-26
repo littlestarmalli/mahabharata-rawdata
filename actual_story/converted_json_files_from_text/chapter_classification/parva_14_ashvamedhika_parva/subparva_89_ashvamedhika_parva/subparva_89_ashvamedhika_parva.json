@@ -1,0 +1,685 @@
+{
+  "name": "Ashvamedhika Parva",
+  "subparva_number": 89,
+  "source_volume": 10,
+  "file_path": "output/volumes/volume_10_chapters.txt",
+  "details": {
+    "num_chapters": 96,
+    "num_shlokas": 2743
+  },
+  "note": "Ashva means a horse and medha means a sacrifice. Thus, Ashvamedhika Parva or Ashvamedha Parva is about a horse sacri-fice. In the 78-parva classification, Ashvamedhika Parva is the 74th. In the 700-parva classification, Ashvamedhika Parva is Section 89. In the numbering of the chapters in Ashvamedhika Parva, the first number is a consecutive one, starting with the beginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within Ashvamedhika Parva. There is a recital of the Anu-Gita. Krishna leaves for Dvaraka and there is a discourse with Utanka on the way. Yud-hishthira collects riches for the horse sacrifice, this section being named after that. Krishna returns to Hastinapura. Parikshit is born dead, but is revived by Krishna. As the horse travels around, Arjuna fights with the Trigartas, Vajradatta (Bhagadatta�s son), the Saindhavas, Babhruvahana (his son through Chitrangada), Magadha, Shakuni�s son and many others. Yudhishthira�s horse sacrifice is held and there is the incident of the mongoose.",
+  "chapters": {
+    "1836": {
+      "chapter_number": 1836,
+      "global_number": 1836,
+      "local_number": 1,
+      "num_shlokas": 19,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1836.json"
+    },
+    "1837": {
+      "chapter_number": 1837,
+      "global_number": 1837,
+      "local_number": 2,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1837.json"
+    },
+    "1838": {
+      "chapter_number": 1838,
+      "global_number": 1838,
+      "local_number": 3,
+      "num_shlokas": 22,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1838.json"
+    },
+    "1839": {
+      "chapter_number": 1839,
+      "global_number": 1839,
+      "local_number": 4,
+      "num_shlokas": 27,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1839.json"
+    },
+    "1840": {
+      "chapter_number": 1840,
+      "global_number": 1840,
+      "local_number": 5,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1840.json"
+    },
+    "1841": {
+      "chapter_number": 1841,
+      "global_number": 1841,
+      "local_number": 6,
+      "num_shlokas": 33,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1841.json"
+    },
+    "1842": {
+      "chapter_number": 1842,
+      "global_number": 1842,
+      "local_number": 7,
+      "num_shlokas": 27,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1842.json"
+    },
+    "1843": {
+      "chapter_number": 1843,
+      "global_number": 1843,
+      "local_number": 8,
+      "num_shlokas": 35,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1843.json"
+    },
+    "1844": {
+      "chapter_number": 1844,
+      "global_number": 1844,
+      "local_number": 9,
+      "num_shlokas": 37,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1844.json"
+    },
+    "1845": {
+      "chapter_number": 1845,
+      "global_number": 1845,
+      "local_number": 10,
+      "num_shlokas": 36,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1845.json"
+    },
+    "1846": {
+      "chapter_number": 1846,
+      "global_number": 1846,
+      "local_number": 11,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1846.json"
+    },
+    "1847": {
+      "chapter_number": 1847,
+      "global_number": 1847,
+      "local_number": 12,
+      "num_shlokas": 14,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1847.json"
+    },
+    "1848": {
+      "chapter_number": 1848,
+      "global_number": 1848,
+      "local_number": 13,
+      "num_shlokas": 21,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1848.json"
+    },
+    "1849": {
+      "chapter_number": 1849,
+      "global_number": 1849,
+      "local_number": 14,
+      "num_shlokas": 17,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1849.json"
+    },
+    "1850": {
+      "chapter_number": 1850,
+      "global_number": 1850,
+      "local_number": 15,
+      "num_shlokas": 34,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1850.json"
+    },
+    "1851": {
+      "chapter_number": 1851,
+      "global_number": 1851,
+      "local_number": 16,
+      "num_shlokas": 43,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1851.json"
+    },
+    "1852": {
+      "chapter_number": 1852,
+      "global_number": 1852,
+      "local_number": 17,
+      "num_shlokas": 39,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1852.json"
+    },
+    "1853": {
+      "chapter_number": 1853,
+      "global_number": 1853,
+      "local_number": 18,
+      "num_shlokas": 34,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1853.json"
+    },
+    "1854": {
+      "chapter_number": 1854,
+      "global_number": 1854,
+      "local_number": 19,
+      "num_shlokas": 60,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1854.json"
+    },
+    "1855": {
+      "chapter_number": 1855,
+      "global_number": 1855,
+      "local_number": 20,
+      "num_shlokas": 27,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1855.json"
+    },
+    "1856": {
+      "chapter_number": 1856,
+      "global_number": 1856,
+      "local_number": 21,
+      "num_shlokas": 21,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1856.json"
+    },
+    "1857": {
+      "chapter_number": 1857,
+      "global_number": 1857,
+      "local_number": 22,
+      "num_shlokas": 29,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1857.json"
+    },
+    "1858": {
+      "chapter_number": 1858,
+      "global_number": 1858,
+      "local_number": 23,
+      "num_shlokas": 24,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1858.json"
+    },
+    "1859": {
+      "chapter_number": 1859,
+      "global_number": 1859,
+      "local_number": 24,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1859.json"
+    },
+    "1860": {
+      "chapter_number": 1860,
+      "global_number": 1860,
+      "local_number": 25,
+      "num_shlokas": 17,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1860.json"
+    },
+    "1861": {
+      "chapter_number": 1861,
+      "global_number": 1861,
+      "local_number": 26,
+      "num_shlokas": 18,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1861.json"
+    },
+    "1862": {
+      "chapter_number": 1862,
+      "global_number": 1862,
+      "local_number": 27,
+      "num_shlokas": 25,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1862.json"
+    },
+    "1863": {
+      "chapter_number": 1863,
+      "global_number": 1863,
+      "local_number": 28,
+      "num_shlokas": 28,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1863.json"
+    },
+    "1864": {
+      "chapter_number": 1864,
+      "global_number": 1864,
+      "local_number": 29,
+      "num_shlokas": 22,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1864.json"
+    },
+    "1865": {
+      "chapter_number": 1865,
+      "global_number": 1865,
+      "local_number": 30,
+      "num_shlokas": 31,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1865.json"
+    },
+    "1866": {
+      "chapter_number": 1866,
+      "global_number": 1866,
+      "local_number": 31,
+      "num_shlokas": 13,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1866.json"
+    },
+    "1867": {
+      "chapter_number": 1867,
+      "global_number": 1867,
+      "local_number": 32,
+      "num_shlokas": 25,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1867.json"
+    },
+    "1868": {
+      "chapter_number": 1868,
+      "global_number": 1868,
+      "local_number": 33,
+      "num_shlokas": 8,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1868.json"
+    },
+    "1869": {
+      "chapter_number": 1869,
+      "global_number": 1869,
+      "local_number": 34,
+      "num_shlokas": 12,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1869.json"
+    },
+    "1870": {
+      "chapter_number": 1870,
+      "global_number": 1870,
+      "local_number": 35,
+      "num_shlokas": 40,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1870.json"
+    },
+    "1871": {
+      "chapter_number": 1871,
+      "global_number": 1871,
+      "local_number": 36,
+      "num_shlokas": 36,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1871.json"
+    },
+    "1872": {
+      "chapter_number": 1872,
+      "global_number": 1872,
+      "local_number": 37,
+      "num_shlokas": 17,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1872.json"
+    },
+    "1873": {
+      "chapter_number": 1873,
+      "global_number": 1873,
+      "local_number": 38,
+      "num_shlokas": 15,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1873.json"
+    },
+    "1874": {
+      "chapter_number": 1874,
+      "global_number": 1874,
+      "local_number": 39,
+      "num_shlokas": 24,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1874.json"
+    },
+    "1875": {
+      "chapter_number": 1875,
+      "global_number": 1875,
+      "local_number": 40,
+      "num_shlokas": 9,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1875.json"
+    },
+    "1876": {
+      "chapter_number": 1876,
+      "global_number": 1876,
+      "local_number": 41,
+      "num_shlokas": 5,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1876.json"
+    },
+    "1877": {
+      "chapter_number": 1877,
+      "global_number": 1877,
+      "local_number": 42,
+      "num_shlokas": 62,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1877.json"
+    },
+    "1878": {
+      "chapter_number": 1878,
+      "global_number": 1878,
+      "local_number": 43,
+      "num_shlokas": 40,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1878.json"
+    },
+    "1879": {
+      "chapter_number": 1879,
+      "global_number": 1879,
+      "local_number": 44,
+      "num_shlokas": 21,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1879.json"
+    },
+    "1880": {
+      "chapter_number": 1880,
+      "global_number": 1880,
+      "local_number": 45,
+      "num_shlokas": 25,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1880.json"
+    },
+    "1881": {
+      "chapter_number": 1881,
+      "global_number": 1881,
+      "local_number": 46,
+      "num_shlokas": 55,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1881.json"
+    },
+    "1882": {
+      "chapter_number": 1882,
+      "global_number": 1882,
+      "local_number": 47,
+      "num_shlokas": 16,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1882.json"
+    },
+    "1883": {
+      "chapter_number": 1883,
+      "global_number": 1883,
+      "local_number": 48,
+      "num_shlokas": 29,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1883.json"
+    },
+    "1884": {
+      "chapter_number": 1884,
+      "global_number": 1884,
+      "local_number": 49,
+      "num_shlokas": 55,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1884.json"
+    },
+    "1885": {
+      "chapter_number": 1885,
+      "global_number": 1885,
+      "local_number": 50,
+      "num_shlokas": 51,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1885.json"
+    },
+    "1886": {
+      "chapter_number": 1886,
+      "global_number": 1886,
+      "local_number": 51,
+      "num_shlokas": 56,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1886.json"
+    },
+    "1887": {
+      "chapter_number": 1887,
+      "global_number": 1887,
+      "local_number": 52,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1887.json"
+    },
+    "1888": {
+      "chapter_number": 1888,
+      "global_number": 1888,
+      "local_number": 53,
+      "num_shlokas": 22,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1888.json"
+    },
+    "1889": {
+      "chapter_number": 1889,
+      "global_number": 1889,
+      "local_number": 54,
+      "num_shlokas": 35,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1889.json"
+    },
+    "1890": {
+      "chapter_number": 1890,
+      "global_number": 1890,
+      "local_number": 55,
+      "num_shlokas": 35,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1890.json"
+    },
+    "1891": {
+      "chapter_number": 1891,
+      "global_number": 1891,
+      "local_number": 56,
+      "num_shlokas": 28,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1891.json"
+    },
+    "1892": {
+      "chapter_number": 1892,
+      "global_number": 1892,
+      "local_number": 57,
+      "num_shlokas": 56,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1892.json"
+    },
+    "1893": {
+      "chapter_number": 1893,
+      "global_number": 1893,
+      "local_number": 58,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1893.json"
+    },
+    "1894": {
+      "chapter_number": 1894,
+      "global_number": 1894,
+      "local_number": 59,
+      "num_shlokas": 36,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1894.json"
+    },
+    "1895": {
+      "chapter_number": 1895,
+      "global_number": 1895,
+      "local_number": 60,
+      "num_shlokas": 41,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1895.json"
+    },
+    "1896": {
+      "chapter_number": 1896,
+      "global_number": 1896,
+      "local_number": 61,
+      "num_shlokas": 19,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1896.json"
+    },
+    "1897": {
+      "chapter_number": 1897,
+      "global_number": 1897,
+      "local_number": 62,
+      "num_shlokas": 23,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1897.json"
+    },
+    "1898": {
+      "chapter_number": 1898,
+      "global_number": 1898,
+      "local_number": 63,
+      "num_shlokas": 17,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1898.json"
+    },
+    "1899": {
+      "chapter_number": 1899,
+      "global_number": 1899,
+      "local_number": 64,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1899.json"
+    },
+    "1900": {
+      "chapter_number": 1900,
+      "global_number": 1900,
+      "local_number": 65,
+      "num_shlokas": 29,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1900.json"
+    },
+    "1901": {
+      "chapter_number": 1901,
+      "global_number": 1901,
+      "local_number": 66,
+      "num_shlokas": 19,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1901.json"
+    },
+    "1902": {
+      "chapter_number": 1902,
+      "global_number": 1902,
+      "local_number": 67,
+      "num_shlokas": 24,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1902.json"
+    },
+    "1903": {
+      "chapter_number": 1903,
+      "global_number": 1903,
+      "local_number": 68,
+      "num_shlokas": 24,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1903.json"
+    },
+    "1904": {
+      "chapter_number": 1904,
+      "global_number": 1904,
+      "local_number": 69,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1904.json"
+    },
+    "1905": {
+      "chapter_number": 1905,
+      "global_number": 1905,
+      "local_number": 70,
+      "num_shlokas": 25,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1905.json"
+    },
+    "1906": {
+      "chapter_number": 1906,
+      "global_number": 1906,
+      "local_number": 71,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1906.json"
+    },
+    "1907": {
+      "chapter_number": 1907,
+      "global_number": 1907,
+      "local_number": 72,
+      "num_shlokas": 27,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1907.json"
+    },
+    "1908": {
+      "chapter_number": 1908,
+      "global_number": 1908,
+      "local_number": 73,
+      "num_shlokas": 34,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1908.json"
+    },
+    "1909": {
+      "chapter_number": 1909,
+      "global_number": 1909,
+      "local_number": 74,
+      "num_shlokas": 20,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1909.json"
+    },
+    "1910": {
+      "chapter_number": 1910,
+      "global_number": 1910,
+      "local_number": 75,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1910.json"
+    },
+    "1911": {
+      "chapter_number": 1911,
+      "global_number": 1911,
+      "local_number": 76,
+      "num_shlokas": 32,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1911.json"
+    },
+    "1912": {
+      "chapter_number": 1912,
+      "global_number": 1912,
+      "local_number": 77,
+      "num_shlokas": 46,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1912.json"
+    },
+    "1913": {
+      "chapter_number": 1913,
+      "global_number": 1913,
+      "local_number": 78,
+      "num_shlokas": 39,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1913.json"
+    },
+    "1914": {
+      "chapter_number": 1914,
+      "global_number": 1914,
+      "local_number": 79,
+      "num_shlokas": 18,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1914.json"
+    },
+    "1915": {
+      "chapter_number": 1915,
+      "global_number": 1915,
+      "local_number": 80,
+      "num_shlokas": 22,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1915.json"
+    },
+    "1916": {
+      "chapter_number": 1916,
+      "global_number": 1916,
+      "local_number": 81,
+      "num_shlokas": 21,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1916.json"
+    },
+    "1917": {
+      "chapter_number": 1917,
+      "global_number": 1917,
+      "local_number": 82,
+      "num_shlokas": 32,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1917.json"
+    },
+    "1918": {
+      "chapter_number": 1918,
+      "global_number": 1918,
+      "local_number": 83,
+      "num_shlokas": 30,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1918.json"
+    },
+    "1919": {
+      "chapter_number": 1919,
+      "global_number": 1919,
+      "local_number": 84,
+      "num_shlokas": 19,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1919.json"
+    },
+    "1920": {
+      "chapter_number": 1920,
+      "global_number": 1920,
+      "local_number": 85,
+      "num_shlokas": 23,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1920.json"
+    },
+    "1921": {
+      "chapter_number": 1921,
+      "global_number": 1921,
+      "local_number": 86,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1921.json"
+    },
+    "1922": {
+      "chapter_number": 1922,
+      "global_number": 1922,
+      "local_number": 87,
+      "num_shlokas": 16,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1922.json"
+    },
+    "1923": {
+      "chapter_number": 1923,
+      "global_number": 1923,
+      "local_number": 88,
+      "num_shlokas": 21,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1923.json"
+    },
+    "1924": {
+      "chapter_number": 1924,
+      "global_number": 1924,
+      "local_number": 89,
+      "num_shlokas": 26,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1924.json"
+    },
+    "1925": {
+      "chapter_number": 1925,
+      "global_number": 1925,
+      "local_number": 90,
+      "num_shlokas": 39,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1925.json"
+    },
+    "1926": {
+      "chapter_number": 1926,
+      "global_number": 1926,
+      "local_number": 91,
+      "num_shlokas": 41,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1926.json"
+    },
+    "1927": {
+      "chapter_number": 1927,
+      "global_number": 1927,
+      "local_number": 92,
+      "num_shlokas": 22,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1927.json"
+    },
+    "1928": {
+      "chapter_number": 1928,
+      "global_number": 1928,
+      "local_number": 93,
+      "num_shlokas": 93,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1928.json"
+    },
+    "1929": {
+      "chapter_number": 1929,
+      "global_number": 1929,
+      "local_number": 94,
+      "num_shlokas": 34,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1929.json"
+    },
+    "1930": {
+      "chapter_number": 1930,
+      "global_number": 1930,
+      "local_number": 95,
+      "num_shlokas": 36,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1930.json"
+    },
+    "1931": {
+      "chapter_number": 1931,
+      "global_number": 1931,
+      "local_number": 96,
+      "num_shlokas": 15,
+      "file": "subparva_89_ashvamedhika_parva/chapter_1931.json"
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "chapter": 165,
+  "local": 165,
+  "shlokas": 44,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Arjuna said, “How did the hostility between Vashishtha and Vishvamitra, both of whom lived in divine hermitages, arise? Tell us in detail.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“How did the hostility between Vashishtha and Vishvamitra, both of whom lived in divine hermitages, arise? Tell us in detail.”",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The gandharva said, “O Partha! Vashishtha's account is known as a purana in all the worlds. Listen to me as I recount it in its entirety. O bull of the Bharata lineage! There was a great king in Kanyakubja. He was known in the world as Gadhi and he was devoted to true dharma. His virtuous son, a conqueror of enemies, was known by the name of Vishvamitra and he had many armies and mounts. With his ministers, he used to wander in deep forests and beautiful wildernesses, to hunt deer and boar. Once, tired and exhausted from pursuit of a deer, that best of men came to Vashishtha's hermitage. On seeing him come, the fortunate and illustrious rishi, Vashishtha, offered homage to Vishvamitra, the best of men. O descendant of the Bharata lineage! He welcomed him and offered him water to wash his feet and face and gave him offerings of forest fare.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The gandharva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gandharva",
+          "introduces_label": "The gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Partha! Vashishtha's account is known as a purana in all the worlds. Listen to me as I recount it in its entirety. O bull of the Bharata lineage! There was a great king in Kanyakubja. He was known in the world as Gadhi and he was devoted to true dharma. His virtuous son, a conqueror of enemies, was known by the name of Vishvamitra and he had many armies and mounts. With his ministers, he used to wander in deep forests and beautiful wildernesses, to hunt deer and boar. Once, tired and exhausted from pursuit of a deer, that best of men came to Vashishtha's hermitage. On seeing him come, the fortunate and illustrious rishi, Vashishtha, offered homage to Vishvamitra, the best of men. O descendant of the Bharata lineage! He welcomed him and offered him water to wash his feet and face and gave him offerings of forest fare.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The great-souled Vashishtha possessed a kamadhenu. When she was asked to give, she produced whatever was desired. O Arjuna! She yielded products of villages and forests, herbs, milk, juices with six different ﬂavours{73} that tasted like ambrosia itself, and different types of food that could be chewed, drunk, eaten, licked and sucked, all tasting like ambrosia. The king was honoured with everything that he desired, in abundant measure. He, his ministers and his entourage were greatly satisﬁed. With great surprise, he{74} saw Vashishtha's beautiful and unblemished cow, named Nandini{75}—six measures long, three measures wide and ﬁve measures around, with beautiful ﬂanks and thighs, with eyes prominent like those of frogs, with a beautiful carriage, large udders, beautiful tail, uplifted and straight ears, handsome horns and a well-developed head and neck. O king! Gadhi's son was gratiﬁed with what he saw and saluted the cow. The king{76} then spoke to the rishi{77}, ‘O Brahmana! O great sage! Give me Nandini in exchange for my kingdom or for 10,000 cows. Enjoy the kingdom.’ Vashishtha said, ‘O unblemished king! I keep this milk-yielding cow for the sake of the gods, ancestors, guests and sacriﬁcial offerings. Nandini cannot be given away, even in exchange for your kingdom.’ Vishvamitra said, ‘I am a Kshatriya and you are only a Brahmana devoted to studies and austerities. How can there be strength in Brahmanas who are peaceful and control themselves? If you don't give me what I want in exchange for 10,000 cows, I will not give up my own dharma. I will take the cow away by force.’ Vashishtha said, ‘You are a powerful king with an army with you. You are a Kshatriya with valour in your arms. Do what you wish quickly, and without thinking over it.’ O Partha! Thus, addressed, Vishamitra seized the cow Nandini, as translucent as a swan or the moon.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The great-souled Vashishtha possessed a kamadhenu. When she was asked to give, she produced whatever was desired. O Arjuna! She yielded products of villages and forests, herbs, milk, juices with six different ﬂavours{73} that tasted like ambrosia itself, and different types of food that could be chewed, drunk, eaten, licked and sucked, all tasting like ambrosia. The king was honoured with everything that he desired, in abundant measure. He, his ministers and his entourage were greatly satisﬁed. With great surprise, he{74} saw Vashishtha's beautiful and unblemished cow, named Nandini{75}—six measures long, three measures wide and ﬁve measures around, with beautiful ﬂanks and thighs, with eyes prominent like those of frogs, with a beautiful carriage, large udders, beautiful tail, uplifted and straight ears, handsome horns and a well-developed head and neck. O king! Gadhi's son was gratiﬁed with what he saw and saluted the cow. The king{76} then spoke to the rishi{77}, ",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Brahmana! O great sage! Give me Nandini in exchange for my kingdom or for 10,000 cows. Enjoy the kingdom.’",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vashishtha said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vasishtha",
+          "introduces_label": "Vashishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O unblemished king! I keep this milk-yielding cow for the sake of the gods, ancestors, guests and sacriﬁcial offerings. Nandini cannot be given away, even in exchange for your kingdom.’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vishvamitra said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vishvamitra",
+          "introduces_label": "Vishvamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am a Kshatriya and you are only a Brahmana devoted to studies and austerities. How can there be strength in Brahmanas who are peaceful and control themselves? If you don't give me what I want in exchange for 10,000 cows, I will not give up my own dharma. I will take the cow away by force.’",
+          "speaker": "@vishvamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vashishtha said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vasishtha",
+          "introduces_label": "Vashishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You are a powerful king with an army with you. You are a Kshatriya with valour in your arms. Do what you wish quickly, and without thinking over it.’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Partha! Thus, addressed, Vishamitra seized the cow Nandini, as translucent as a swan or the moon.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“He dragged her here and there and beat her with a stick. The blessed Nandini bellowed piteously and came to Vashishtha. O Partha! She stood near the illustrious sage and raised her head up at him. Though she had been beaten a lot, she did not leave the hermitage. Vashishtha said, ‘O fortunate Nandini! I hear your repeated cries. But you are being taken away by force. What can a forgiving Brahmana do?’ O bull among the Bharata lineage! Frightened by the force of Vishvamitra's army and frightened by Vishvamitra himself, she came closer to Vashishtha. Nandini said, ‘O illustrious one! Why do you overlook it when I am beaten by the sticks and lashes of Vishamitra's fearful army? Why do you orphan me when I am crying?’ O Partha! The great sage did not lose his patience. Nor did he deviate from his rigid vows{78} on hearing her cries of suffering. Vashishtha said, ‘A Kshatriya's strength is his energy. A Brahmana's strength is his forbearance. I cannot give up forbearance. If you wish, go.’ Nandini said, ‘O illustrious one! O Brahmana! Are you forsaking me in this way? If you do not forsake me, I cannot be taken away by force.’ Vashishtha said, ‘O blessed one! I am not forsaking you. Stay, if you can. Tethered with a strong rope, your calf is now being taken away by force.’ Hearing him say ‘stay’, Vashishtha's cow raised up her head and neck and became fearful to look at.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“He dragged her here and there and beat her with a stick. The blessed Nandini bellowed piteously and came to Vashishtha. O Partha! She stood near the illustrious sage and raised her head up at him. Though she had been beaten a lot, she did not leave the hermitage. Vashishtha said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vasishtha",
+          "introduces_label": "Vashishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate Nandini! I hear your repeated cries. But you are being taken away by force. What can a forgiving Brahmana do?’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O bull among the Bharata lineage! Frightened by the force of Vishvamitra's army and frightened by Vishvamitra himself, she came closer to Vashishtha. Nandini said, ",
+          "speaker": "the_gandharva",
+          "introduces": "nandini",
+          "introduces_label": "Nandini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Why do you overlook it when I am beaten by the sticks and lashes of Vishamitra's fearful army? Why do you orphan me when I am crying?’",
+          "speaker": "nandini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Partha! The great sage did not lose his patience. Nor did he deviate from his rigid vows{78} on hearing her cries of suffering. Vashishtha said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vasishtha",
+          "introduces_label": "Vashishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A Kshatriya's strength is his energy. A Brahmana's strength is his forbearance. I cannot give up forbearance. If you wish, go.’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Nandini said, ",
+          "speaker": "the_gandharva",
+          "introduces": "nandini",
+          "introduces_label": "Nandini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! O Brahmana! Are you forsaking me in this way? If you do not forsake me, I cannot be taken away by force.’",
+          "speaker": "nandini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vashishtha said, ",
+          "speaker": "the_gandharva",
+          "introduces": "@vasishtha",
+          "introduces_label": "Vashishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O blessed one! I am not forsaking you. Stay, if you can. Tethered with a strong rope, your calf is now being taken away by force.’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing him say ",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘stay’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": ", Vashishtha's cow raised up her head and neck and became fearful to look at.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Eyes red with anger and with thunderous bellows, she attacked Vishvamitra's army from all sides. Stung with their sticks and lashes and being dragged here and there, her anger increased and her eyes became red with rage. A shower of burning embers was unleashed from her tail. She blazed with anger like the midday sun. She created an army of pahlavas{79} from her tail, an army of shabaras{80} and shakas{81} from her dung and an army of yavanas{82} from her urine. She swooned with anger. From her froth, she produced pundras, kiratas{83}, dramidas{84}, Simhalas{85}, barbaras{86}, daradas{87} and mlecchas{88}. When she had produced these many armies of mlecchas, clad in different types of armour and armed with different types of weapons, before Vishvamitra's own eyes, she scattered with her ferocious troops his large army. Every single one of his soldiers was surrounded by ﬁve or seven of hers and with a shower of weapons was dispersed and ﬂed in all directions in panic. O bull among the Bharata lineage! Though greatly enraged, not a single one of Vishvamitra's soldiers was separated from his life by a single one of Vashishtha's. Vishvamitra's army was driven 3 yojanas away and though it cried out in panic, there was no saviour to be found.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Eyes red with anger and with thunderous bellows, she attacked Vishvamitra's army from all sides. Stung with their sticks and lashes and being dragged here and there, her anger increased and her eyes became red with rage. A shower of burning embers was unleashed from her tail. She blazed with anger like the midday sun. She created an army of pahlavas{79} from her tail, an army of shabaras{80} and shakas{81} from her dung and an army of yavanas{82} from her urine. She swooned with anger. From her froth, she produced pundras, kiratas{83}, dramidas{84}, Simhalas{85}, barbaras{86}, daradas{87} and mlecchas{88}. When she had produced these many armies of mlecchas, clad in different types of armour and armed with different types of weapons, before Vishvamitra's own eyes, she scattered with her ferocious troops his large army. Every single one of his soldiers was surrounded by ﬁve or seven of hers and with a shower of weapons was dispersed and ﬂed in all directions in panic. O bull among the Bharata lineage! Though greatly enraged, not a single one of Vishvamitra's soldiers was separated from his life by a single one of Vashishtha's. Vishvamitra's army was driven 3 yojanas away and though it cried out in panic, there was no saviour to be found.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On seeing this amazing sight born out of a Brahmana's powers, Vishvamitra was disgusted with his Kshatriya powers and said, ‘A curse on my Kshatriya powers! The true power is that of a Brahmana. In judging weakness and strength, I see that true strength arises from the power of austerities.’ He gave up his prosperous kingdom and his radiant regal fortune. Turning his back on all pleasures, he decided to devote himself to austerities. Through his power of austerities, he became successful and ﬁlled the worlds with his radiance. Through all his radiant energy, he became a Brahmana and Kushika's son{89} eventually drank the soma{90} juice with Indra himself.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On seeing this amazing sight born out of a Brahmana's powers, Vishvamitra was disgusted with his Kshatriya powers and said, ",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A curse on my Kshatriya powers! The true power is that of a Brahmana. In judging weakness and strength, I see that true strength arises from the power of austerities.’",
+          "speaker": "@vasishtha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He gave up his prosperous kingdom and his radiant regal fortune. Turning his back on all pleasures, he decided to devote himself to austerities. Through his power of austerities, he became successful and ﬁlled the worlds with his radiance. Through all his radiant energy, he became a Brahmana and Kushika's son{89} eventually drank the soma{90} juice with Indra himself.”",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

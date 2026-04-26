@@ -1,0 +1,235 @@
+{
+  "chapter": 420,
+  "local": 123,
+  "shlokas": 23,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Lomasha said, “O king! After some time, the gods who were the two Ashvins saw Sukanya. She had just bathed and was naked. On seeing the beautiful limbs of the one who was like the daughter of the king of the gods, the Nasatyas, the Ashvins, came to her and said, ‘O one with the beautiful thighs! Whose are you? What are you doing in this forest? O fortunate one! We wish to know about you. O beautiful one! Therefore, tell us.’ At that, Sukanya covered herself and told the best of the gods, ‘I am Sharyati's daughter. I am Chyavana's wife and property.’ The Ashvins laughed and again told her, ‘O fortunate one! Why has your father bestowed someone like you on a man who has already ﬁnished his travels{548}? O timid one! You are radiant in this forest like a ﬂash of lightning. O beautiful one! We have not seen someone equal to you even among the gods. If you are adorned with every ornament and attired in excellent garments, you will dazzle even more with your unblemished limbs, and not smeared in dirt like this. Why does someone like you serve a husband who is overcome with age? O beautiful one! Love and desire have deserted him. O one with the sweet smiles! He is not capable of protecting you and sustaining you. Therefore, give up Chyavana. Therefore, accept one of us as your husband. You are like one born from a divine womb. Do not waste your youth.’ Having been thus addressed, Sukanya again told the gods, ‘I am devoted to my husband Chyavana. Do not have any doubts about that.’ They again told her, ‘We are the physicians of the gods. We will make your husband young and beautiful. Then choose a husband from the three of us. O one with the beautiful face! Tell him about this arrangement and bring him here.’ O king! At these words, she went to Bhrigu's son and reported this to him. On hearing this, Chyavana told his wife that they should act in that way.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! After some time, the gods who were the two Ashvins saw Sukanya. She had just bathed and was naked. On seeing the beautiful limbs of the one who was like the daughter of the king of the gods, the Nasatyas, the Ashvins, came to her and said, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful thighs! Whose are you? What are you doing in this forest? O fortunate one! We wish to know about you. O beautiful one! Therefore, tell us.’",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At that, Sukanya covered herself and told the best of the gods, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Sharyati's daughter. I am Chyavana's wife and property.’",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The Ashvins laughed and again told her, ",
+          "speaker": "@lomasha",
+          "introduces": "the_ashvins_laughed",
+          "introduces_label": "The Ashvins laughed",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! Why has your father bestowed someone like you on a man who has already ﬁnished his travels{548}? O timid one! You are radiant in this forest like a ﬂash of lightning. O beautiful one! We have not seen someone equal to you even among the gods. If you are adorned with every ornament and attired in excellent garments, you will dazzle even more with your unblemished limbs, and not smeared in dirt like this. Why does someone like you serve a husband who is overcome with age? O beautiful one! Love and desire have deserted him. O one with the sweet smiles! He is not capable of protecting you and sustaining you. Therefore, give up Chyavana. Therefore, accept one of us as your husband. You are like one born from a divine womb. Do not waste your youth.’",
+          "speaker": "the_ashvins_laughed",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, Sukanya again told the gods, ",
+          "speaker": "@lomasha",
+          "introduces": "@sukanya",
+          "introduces_label": "Sukanya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am devoted to my husband Chyavana. Do not have any doubts about that.’",
+          "speaker": "@sukanya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " They again told her, ",
+          "speaker": "@lomasha",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We are the physicians of the gods. We will make your husband young and beautiful. Then choose a husband from the three of us. O one with the beautiful face! Tell him about this arrangement and bring him here.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! At these words, she went to Bhrigu's son and reported this to him. On hearing this, Chyavana told his wife that they should act in that way.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On obtaining her husband's permission, she said that the act should be done. On hearing her words that the act should be done, the Ashvins said that her husband should immerse himself in the water. Desirous of becoming handsome, Chyavana swiftly entered the water. O king! O lord! The Ashvins also entered the lake. After an instant had passed, all of them climbed out of the lake. All of them were young and divine in beauty, with dazzling earrings. All of them were equal in beauty, bringing delight to the mind. Then all of them told her together, ‘O fortunate one! O blessed one! O beautiful one! Choose one of us for your husband, whomsoever you desire. O one with the beautiful features! Choose whichever one is desired by you.’ On seeing all of them standing there, equal in beauty, the lady chose with her own mind and intelligence and chose her own husband.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On obtaining her husband's permission, she said that the act should be done. On hearing her words that the act should be done, the Ashvins said that her husband should immerse himself in the water. Desirous of becoming handsome, Chyavana swiftly entered the water. O king! O lord! The Ashvins also entered the lake. After an instant had passed, all of them climbed out of the lake. All of them were young and divine in beauty, with dazzling earrings. All of them were equal in beauty, bringing delight to the mind. Then all of them told her together, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! O blessed one! O beautiful one! Choose one of us for your husband, whomsoever you desire. O one with the beautiful features! Choose whichever one is desired by you.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On seeing all of them standing there, equal in beauty, the lady chose with her own mind and intelligence and chose her own husband.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Having obtained a wife and the youthful beauty that he desired, Chyavana happily spoke these words to the greatly energetic Nasatyas. ‘You have endowed an aged one with youthful beauty and I have also obtained this lady as my wife. I am pleased with you because you have made me young and I give you the right to drink soma, even in the presence of the king of the gods. I tell you this truthfully.’ Having heard this, the two happily returned to heaven. Chyavana and Sukanya sported themselves, like the gods.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Having obtained a wife and the youthful beauty that he desired, Chyavana happily spoke these words to the greatly energetic Nasatyas. ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have endowed an aged one with youthful beauty and I have also obtained this lady as my wife. I am pleased with you because you have made me young and I give you the right to drink soma, even in the presence of the king of the gods. I tell you this truthfully.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having heard this, the two happily returned to heaven. Chyavana and Sukanya sported themselves, like the gods.”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

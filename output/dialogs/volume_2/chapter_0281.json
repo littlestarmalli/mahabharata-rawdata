@@ -1,0 +1,47 @@
+{
+  "chapter": 281,
+  "local": 56,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Vidura said, “Gambling is the root of all quarrels. Its consequence is dissension and great wars. Taking recourse to it, Duryodhana, Dhritarashtra's son, creates terrible enmity. Because of Duryodhana's crime, all the descendants of Pratipa{157} and Shantanu, together with their terrible armies and with the descendants of the Bahlikas, will be destroyed. Like an angry bull that breaks its own horns forcibly, Duryodhana's stupidity will drive safety away from this kingdom. O king! A brave and wise man who disregards his sagacity and follows another's mind, is like one who goes to the sea in a boat guided by a child and is immersed in terrible afﬂiction. Duryodhana is gambling with Pandava and it pleases you because you think he is winning. But in this overdone deed is created a war that will lead to the destruction of all men. This badly designed act will lead to a decline in fruits. In the heart of the one who has resorted to counsel, there is great composure{158}. Friendship with Yudhishthira will lead to good fruit. Through paciﬁcation, the one with the excellent bow{159} will no longer exhibit enmity. O descendants of Pratipa! O descendants of Shantanu! O kings! Listen to Kavya's words and do not cross the limits. The terrible ﬁre has blazed forth. Extinguish it before there is a war. If Pandava Ajatashatru{160} is defeated in dice and his anger is not paciﬁed by Vrikodara, Savyasachi and the twins, there will be no refuge in the terrible onslaught that will ensue. O great king! You are a source of great riches, as much as you desired, even before this game. Even if you win great riches from the Pandavas, what is the gain? Pritha's sons are the source of wealth. We all know Soubala's skills in the game. This one from the mountains{161} knows techniques of deceit with dice. O descendant of the Bharata lineage! Let Shakuni return whence he came. The one from the mountains ﬁghts with the powers of maya.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vidura said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vidura",
+          "introduces_label": "Vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Gambling is the root of all quarrels. Its consequence is dissension and great wars. Taking recourse to it, Duryodhana, Dhritarashtra's son, creates terrible enmity. Because of Duryodhana's crime, all the descendants of Pratipa{157} and Shantanu, together with their terrible armies and with the descendants of the Bahlikas, will be destroyed. Like an angry bull that breaks its own horns forcibly, Duryodhana's stupidity will drive safety away from this kingdom. O king! A brave and wise man who disregards his sagacity and follows another's mind, is like one who goes to the sea in a boat guided by a child and is immersed in terrible afﬂiction. Duryodhana is gambling with Pandava and it pleases you because you think he is winning. But in this overdone deed is created a war that will lead to the destruction of all men. This badly designed act will lead to a decline in fruits. In the heart of the one who has resorted to counsel, there is great composure{158}. Friendship with Yudhishthira will lead to good fruit. Through paciﬁcation, the one with the excellent bow{159} will no longer exhibit enmity. O descendants of Pratipa! O descendants of Shantanu! O kings! Listen to Kavya's words and do not cross the limits. The terrible ﬁre has blazed forth. Extinguish it before there is a war. If Pandava Ajatashatru{160} is defeated in dice and his anger is not paciﬁed by Vrikodara, Savyasachi and the twins, there will be no refuge in the terrible onslaught that will ensue. O great king! You are a source of great riches, as much as you desired, even before this game. Even if you win great riches from the Pandavas, what is the gain? Pritha's sons are the source of wealth. We all know Soubala's skills in the game. This one from the mountains{161} knows techniques of deceit with dice. O descendant of the Bharata lineage! Let Shakuni return whence he came. The one from the mountains ﬁghts with the powers of maya.”",
+          "speaker": "@vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

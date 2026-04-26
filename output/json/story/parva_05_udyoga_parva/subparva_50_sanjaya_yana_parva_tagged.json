@@ -1,0 +1,1146 @@
+{
+  "name": "Sanjaya-Yana Parva",
+  "subparva_number": 50,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 311
+  },
+  "note": "The word yana means going or voyage. So this parva is about Sanjaya�s journey as a messenger. Dhritarashtra sends Sanjaya as an emissary to the Pandavas. This mission doesn�t succeed, though Krishna says that he will go as a messenger to the Kouravas. Yudhishthira asks for five vil-lages (through Sanjaya). Sanjaya returns to Hastinapura.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "685": {
+      "global_number": 685,
+      "local_number": 22,
+      "num_shlokas": 39,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dritarashtra said, “O Sanjaya! They have said that the sons of Pandu have reached Upaplavya. Go there and show homage to Ajatashatru and tell the unblemished one that it is fortunate that they have stationed themselves in that village. O Sanjaya! Honour them all, in words of conciliation. Say that they did not deserve the difﬁculties of dwelling in exile. Say they will soon be at peace with us. Though they have been falsely acted against, they retain affectionate feelings towards us. O Sanjaya! I have never seen any kind of falsehood on the part of the Pandavas. Having obtained all the riches through their own valour, the Pandavas offered them to me. Having scrutinized the Parthas for misdemeanours, I have never been able to ﬁnd any sin in them. They have always performed tasks for dharma and artha, and not in pursuit of happiness, pleasure or desire. They have endured hot and cold, and hunger and thirst. They have controlled sleep, lassitude, anger and delight. They have overcome delusion with fortitude and wisdom. The Parthas have sought to obtain dharma and artha. When the time is right, they have given away riches to their friends. Even living together for a long time does not diminish their friendship. The Parthas honour with homage and riches those to whom these are due. In Ajamidha’s lineage{1}, there is no one who hates the Parthas, except that evil, hateful and evil-minded Duryodhana and the even more inferior Karna. Those two engendered anger in those great-souled ones, when they tried to reduce their pleasure and comfort. Duryodhana is used to pleasures and because his valour has increased, he thinks that he is in the right. As long as the Pandavas are alive, only a child can think that their share can be taken away.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Dritarashtra said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "“O Sanjaya! They have said that the sons of Pandu have reached Upaplavya. Go there and show homage to Ajatashatru and tell the unblemished one that it is fortunate that they have stationed themselves in that village. O Sanjaya! Honour them all, in words of conciliation. Say that they did not deserve the difﬁculties of dwelling in exile. Say they will soon be at peace with us. Though they have been falsely acted against, they retain affectionate feelings towards us. O Sanjaya! I have never seen any kind of falsehood on the part of the Pandavas. Having obtained all the riches through their own valour, the Pandavas offered them to me. Having scrutinized the Parthas for misdemeanours, I have never been able to ﬁnd any sin in them. They have always performed tasks for dharma and artha, and not in pursuit of happiness, pleasure or desire. They have endured hot and cold, and hunger and thirst. They have controlled sleep, lassitude, anger and delight. They have overcome delusion with fortitude and wisdom. The Parthas have sought to obtain dharma and artha. When the time is right, they have given away riches to their friends. Even living together for a long time does not diminish their friendship. The Parthas honour with homage and riches those to whom these are due. In Ajamidha’s lineage{1}, there is no one who hates the Parthas, except that evil, hateful and evil-minded Duryodhana and the even more inferior Karna. Those two engendered anger in those great-souled ones, when they tried to reduce their pleasure and comfort. Duryodhana is used to pleasures and because his valour has increased, he thinks that he is in the right. As long as the Pandavas are alive, only a child can think that their share can be taken away.",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“Ajatashatru’s footsteps are followed by Arjuna, Keshava, Vrikodara, Satyaki, Madri’s two sons and all the Srinjayas{2}. It is better to give it to him than to ﬁght. Savyasachi, the wielder of the Gandiva, is capable of subjugating the earth alone on his chariot. The unassailable and great-souled Keshava Vishnu is the lord of the three worlds. Which mortal man can stand before him? He is worthy of being honoured by all the gods. The shower of his arrows is like the roar of the clouds and they are as swift as locusts{3}. With a single chariot, the wielder of the Gandiva conquered the northern direction and the northern Kurus{4}. Savyasachi robbed them of their riches and forced the soldiers to follow and pay tribute. In Khandava, Savyasachi, the wielder of the Gandiva, defeated Indra and the gods{5}. Phalguna rendered the offerings to the ﬁre god and increased the honour and the fame of the Pandavas. There is no one who is Bhima’s equal in wielding the club, or his equal in riding an elephant. It is said that he is Arjuna’s equal on the chariot and he has the valour of ten thousand elephants in the strength of his arms. He is well trained, skilled and swift. As an enemy, he will swiftly burn down the sons of Dhritarashtra. He is intolerant and powerful and even Vasava will be unable to defeat him in battle. Phalguna’s brothers{6} have been taught well. They are extremely intelligent and strong and their arms are swift. Like vultures destroying a ﬂock of birds, the sons of Madri will not leave any remnants among the Kurus. The swift Dhrishtadyumna is in their midst and he is regarded as one of the Pandavas. With his advisers, the joy of the Somakas{7} has devoted his soul for the victory of the Panadavas. The aged Virata, the lord of the Shalveyas{8}, is one with whom they have lived for a long time. He has opted for the Pandavas, together with his sons. I have heard that he is devoted to Yudhishthira. The ﬁve brave and spirited brothers, who are great archers, have been barred from Kekaya{9}. They desire to obtain the kingdom of Kekaya, and eager to ﬁght, follow the Parthas. All the brave ones among the lords of the earth have been assembled for the sake of the Pandavas. I have heard that these brave ones are devoted to him{10}. With great affection, they have resorted to Dharmaraja. There are warriors who dwell in the mountainous passes on earth. They are pure and have been born in noble lineages. There are valorous mlecchas{11} with many weapons. They have single-mindedly assembled for the sake of the Pandavas. The limitless King Pandya is equal to Indra in battle. He is accompanied in battle by many warriors. He is valorous in this world and his energy cannot be countered. That great-souled one has arrived for the sake of the Pandavas. I have heard that Satyaki learnt about weapons from Drona, Arjuna, Vasudeva, Kripa and Bhishma and that he is an equal of Krishna’s son{12}. He is also devoted to the cause of the Pandavas.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "‘",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "“Ajatashatru’s footsteps are followed by Arjuna, Keshava, Vrikodara, Satyaki, Madri’s two sons and all the Srinjayas{2}. It is better to give it to him than to ﬁght. Savyasachi, the wielder of the Gandiva, is capable of subjugating the earth alone on his chariot. The unassailable and great-souled Keshava Vishnu is the lord of the three worlds. Which mortal man can stand before him? He is worthy of being honoured by all the gods. The shower of his arrows is like the roar of the clouds and they are as swift as locusts{3}. With a single chariot, the wielder of the Gandiva conquered the northern direction and the northern Kurus{4}. Savyasachi robbed them of their riches and forced the soldiers to follow and pay tribute. In Khandava, Savyasachi, the wielder of the Gandiva, defeated Indra and the gods{5}. Phalguna rendered the offerings to the ﬁre god and increased the honour and the fame of the Pandavas. There is no one who is Bhima’s equal in wielding the club, or his equal in riding an elephant. It is said that he is Arjuna’s equal on the chariot and he has the valour of ten thousand elephants in the strength of his arms. He is well trained, skilled and swift. As an enemy, he will swiftly burn down the sons of Dhritarashtra. He is intolerant and powerful and even Vasava will be unable to defeat him in battle. Phalguna’s brothers{6} have been taught well. They are extremely intelligent and strong and their arms are swift. Like vultures destroying a ﬂock of birds, the sons of Madri will not leave any remnants among the Kurus. The swift Dhrishtadyumna is in their midst and he is regarded as one of the Pandavas. With his advisers, the joy of the Somakas{7} has devoted his soul for the victory of the Panadavas. The aged Virata, the lord of the Shalveyas{8}, is one with whom they have lived for a long time. He has opted for the Pandavas, together with his sons. I have heard that he is devoted to Yudhishthira. The ﬁve brave and spirited brothers, who are great archers, have been barred from Kekaya{9}. They desire to obtain the kingdom of Kekaya, and eager to ﬁght, follow the Parthas. All the brave ones among the lords of the earth have been assembled for the sake of the Pandavas. I have heard that these brave ones are devoted to him{10}. With great affection, they have resorted to Dharmaraja. There are warriors who dwell in the mountainous passes on earth. They are pure and have been born in noble lineages. There are valorous mlecchas{11} with many weapons. They have single-mindedly assembled for the sake of the Pandavas. The limitless King Pandya is equal to Indra in battle. He is accompanied in battle by many warriors. He is valorous in this world and his energy cannot be countered. That great-souled one has arrived for the sake of the Pandavas. I have heard that Satyaki learnt about weapons from Drona, Arjuna, Vasudeva, Kripa and Bhishma and that he is an equal of Krishna’s son{12}. He is also devoted to the cause of the Pandavas.",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“The Chedis and the Karushakas have also joined him, with all the enterprising lords of the earth. In their midst, blazing in prosperity like the sun, used to be the ﬂaming king of Chedi. He was regarded as unassailable in battle. In drawing the bow, he was foremost on earth. He was chief among the kshatriyas. But using his powerful force, Krishna crushed and killed him. In earlier times, he crushed Shishupala in battle, thus increasing the fame of the Yadavas. All the Indras among men, the kings of the Karushas, then increasingly extolled his honour. When Krishna rode on his chariot with Sugriva, they realized that Keshava was invincible{13}. They ran away, deserting the king of Chedi, like small animals at the sight of a lion. Whoever insolently wishes to engage in a duel with Vasudeva, is smitten down lifeless by Krishna, like a karnikara{14} struck down in a storm. O Sanjaya! O son of Gavalgana! On remembering what I have been told about Keshava’s valour, undertaken for their{15} sake, and on remembering Vishnu’s other deeds, I cannot ﬁnd any peace. No enemy can withstand those who are led by that lion among Vrishnis. My heart trembles when I hear that the two Krishnas{16} are united on the same chariot. I hope my evil-minded son, whose intelligence is contrary, does not fall foul of them in a ﬁght. O Sanjaya! Otherwise, they will burn down the Kurus, like Indra and Vishnu against the armies of the daityas. It is my view that Dhananjaya is Shakra’s equal and the Vrishni warrior{17} is the eternal Vishnu. Kunti’s spirited son, Pandava Ajatashatru, is humble and has sought refuge in dharma. The intelligent one has been deceived by Duryodhana. I hope that in his anger, he does not burn down the sons of Dhritarashtra.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "‘",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "“The Chedis and the Karushakas have also joined him, with all the enterprising lords of the earth. In their midst, blazing in prosperity like the sun, used to be the ﬂaming king of Chedi. He was regarded as unassailable in battle. In drawing the bow, he was foremost on earth. He was chief among the kshatriyas. But using his powerful force, Krishna crushed and killed him. In earlier times, he crushed Shishupala in battle, thus increasing the fame of the Yadavas. All the Indras among men, the kings of the Karushas, then increasingly extolled his honour. When Krishna rode on his chariot with Sugriva, they realized that Keshava was invincible{13}. They ran away, deserting the king of Chedi, like small animals at the sight of a lion. Whoever insolently wishes to engage in a duel with Vasudeva, is smitten down lifeless by Krishna, like a karnikara{14} struck down in a storm. O Sanjaya! O son of Gavalgana! On remembering what I have been told about Keshava’s valour, undertaken for their{15} sake, and on remembering Vishnu’s other deeds, I cannot ﬁnd any peace. No enemy can withstand those who are led by that lion among Vrishnis. My heart trembles when I hear that the two Krishnas{16} are united on the same chariot. I hope my evil-minded son, whose intelligence is contrary, does not fall foul of them in a ﬁght. O Sanjaya! Otherwise, they will burn down the Kurus, like Indra and Vishnu against the armies of the daityas. It is my view that Dhananjaya is Shakra’s equal and the Vrishni warrior{17} is the eternal Vishnu. Kunti’s spirited son, Pandava Ajatashatru, is humble and has sought refuge in dharma. The intelligent one has been deceived by Duryodhana. I hope that in his anger, he does not burn down the sons of Dhritarashtra.",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“I am not afraid of Arjuna, Vasudeva, Bhima or the twins, as much as I have always feared the ﬂaming rage of that king. O suta{18}! He is united with austerities and brahmacharya. Any resolution that he sets his mind on, is always successful. O Sanjaya! I am extremely terriﬁed of his anger on the ﬁeld of battle and I know that his cause is just. Therefore, swiftly depart on your chariot. Having gone to the abode of the king of Panchala, you must ask Ajatashatru about his welfare repeatedly, in words full of affection. O son{19}! When you meet Janardana, immensely wise, brave and generous, on my instructions, you must ask him about his good health too. Say that Dhritarashtra wishes for peace with the Pandavas. O suta! There is no word of Vasudeva’s that Kunti’s son will not carry out. Krishna is as dear to them as their own selves. He is intelligent and is always attentive to their cause. On meeting the Pandavas, the Srinjayas, Janardana, Yuyudhana and Virata, on my instructions, you must ask about their health and also that of the ﬁve sons of Droupadi. O Sanjaya! At the right time, whatever you think should be said for the welfare of the Bharatas, say that in the midst of the kings, but do not say anything that incites them to the war.”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "‘",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“I am not afraid of Arjuna, Vasudeva, Bhima or the twins, as much as I have always feared the ﬂaming rage of that king. O suta{18}! He is united with austerities and brahmacharya. Any resolution that he sets his mind on, is always successful. O Sanjaya! I am extremely terriﬁed of his anger on the ﬁeld of battle and I know that his cause is just. Therefore, swiftly depart on your chariot. Having gone to the abode of the king of Panchala, you must ask Ajatashatru about his welfare repeatedly, in words full of affection. O son{19}! When you meet Janardana, immensely wise, brave and generous, on my instructions, you must ask him about his good health too. Say that Dhritarashtra wishes for peace with the Pandavas. O suta! There is no word of Vasudeva’s that Kunti’s son will not carry out. Krishna is as dear to them as their own selves. He is intelligent and is always attentive to their cause. On meeting the Pandavas, the Srinjayas, Janardana, Yuyudhana and Virata, on my instructions, you must ask about their health and also that of the ﬁve sons of Droupadi. O Sanjaya! At the right time, whatever you think should be said for the welfare of the Bharatas, say that in the midst of the kings, but do not say anything that incites them to the war.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@dhritarashtra",
+              "text": "’",
+              "color": "#9B8BB4",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        }
+      }
+    },
+    "686": {
+      "global_number": 686,
+      "local_number": 23,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On hearing the words of King Dhritarashtra, Sanjaya went to Upaplavya to meet the inﬁnitely energetic Pandavas. Having approached King Yudhishthira, who had dharma in his soul, the son of the suta ﬁrst bowed down before him. Sanjaya, Gavalgana’s son, the son of the suta, then said, “O king! O Ajatashatru! It is fortunate that I see you healthy, with all your aides, who are the equals of the great Indra. The wise and aged King Dhritarashtra, Ambika’s son, has asked about your health. Is Bhima, foremost among the Pandavas, well, and also Arjuna and Madri’s two sons? How about the princess Krishna Droupadi, devoted to truth, the wife of warriors and the mother of sons? O descendant of the Bharata lineage! She is the spirited one for whom you offer sacriﬁces and wish for good fortune.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On hearing the words of King Dhritarashtra, Sanjaya went to Upaplavya to meet the inﬁnitely energetic Pandavas. Having approached King Yudhishthira, who had dharma in his soul, the son of the suta ﬁrst bowed down before him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya, Gavalgana’s son, the son of the suta, then said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O king! O Ajatashatru! It is fortunate that I see you healthy, with all your aides, who are the equals of the great Indra. The wise and aged King Dhritarashtra, Ambika’s son, has asked about your health. Is Bhima, foremost among the Pandavas, well, and also Arjuna and Madri’s two sons? How about the princess Krishna Droupadi, devoted to truth, the wife of warriors and the mother of sons? O descendant of the Bharata lineage! She is the spirited one for whom you offer sacriﬁces and wish for good fortune.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Yudhishthira replied, “O son of Gavalgana! O Sanjaya! You are welcome. O suta! I am delighted and honour you. O learned one! Let me tell you that I am well and my younger brothers are also well. O suta! It has been a long time since I heard about the welfare of King Bharata, the aged one of the Kuru lineage{20}! O Sanjaya! I am looking at you with delight, because I think that it is like looking at that Indra among men in person. Our grandfather is aged, intelligent, immensely wise and has all the qualities of dharma. O son{21}! Is Kouravya Bhishma well? Does he conduct himself as he used to do earlier? Is the great-souled King Dhritarashtra, Vichitravirya’s son, well, together with his sons? O son of a suta! Is Pratipa’s son, the intelligent and great King Bahlika, well? O son! Are Somadatta, Bhurishrava, Satyasandha, Shala, Drona and his son and the brahmana Kripa, all great archers, well? Are they free from disease? O Sanjaya! They are the foremost archers on earth and all of them are on the side of the Kurus. They are immensely wise and are learned in all the sacred texts. They are foremost among archers on this earth. O son! Are they being treated with due honours? Are those wielders of bows free from disease? Drona’s son, the handsome and great archer whose conduct is good, lives in that kingdom. O son! Is the immensely wise Prince Yuyutsu, the son of a vaishya, well{22}? O son! Is the adviser Karna well? He is the one whose advice the evil Suyodhana follows. O son! Are the aged ladies, the mothers of the Bharatas, the cooks and the wives of the servants well? How about the daughters-in-law, the sons, the nephews, the sisters and the sons of the daughters? Are they at peace? O son! Does the king continue to properly support the brahmanas, as he used to do earlier? O Sanjaya! I hope Dhritarashtra’s sons have not discontinued what I used to give to the brahmanas. Does King Dhritarashtra, together with his sons, overlook the transgressions committed by brahmanas? He is the refuge. Does he overlook any shortages they confront in their livelihood? The creator has decreed this pure light in the world of the living for the welfare of all beings. If those evil ones do not restrain their avarice, there will be complete destruction for the Kouravas. Does King Dhritarashtra, together with his sons, make arrangements for the livelihood of the advisers? Are there ill-wishers, who dwell as well-wishers, and bring about dissension and ruin? O son! Do all the Kurus talk about the crimes committed by the Pandavas? When they see the masses of dasyus{23} assemble, do they remember Partha{24}, the foremost warrior? O son! Do they remember the straight-ﬂying and whirring arrows released from the string of the bow? Do they remember the roar of Gandiva? I have not seen anyone on earth who is Arjuna’s equal or superior in battle. With a single stroke, he can release sixty-one sharp and well-shafted arrows that have been sharpened on stone. With the club in his hand, Bhimasena is spirited. He makes masses of his enemies tremble. He is like a rutting elephant that tears down a bed of reeds. Do they remember him? Sahadeva, Madri’s son, vanquished the assembled Kalingas and Dantakura{25}. The immensely strong one fought with his left hand and his right. Do they remember him? O son of Gavalgana! O Sanjaya! You saw when I sent Nakula out and he brought the western direction under my sway{26}. Do they remember Madri’s son? They were defeated in Dvaitavana, when they embarked on their ill-advised expedition with the cattle. The evil-minded ones were taken captive by the enemy and were freed by Bhimasena and Jaya{27}. I protected Arjuna from the rear and Bhimasena and the twins guarded his ﬂanks. The wielder of the Gandiva defeated the enemies and was unhurt. Do they remember him? O Sanjaya! Through good deeds one cannot make everything all right. With all our souls, we have not been able to sway Dhritarashtra’s son.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O son of Gavalgana! O Sanjaya! You are welcome. O suta! I am delighted and honour you. O learned one! Let me tell you that I am well and my younger brothers are also well. O suta! It has been a long time since I heard about the welfare of King Bharata, the aged one of the Kuru lineage{20}! O Sanjaya! I am looking at you with delight, because I think that it is like looking at that Indra among men in person. Our grandfather is aged, intelligent, immensely wise and has all the qualities of dharma. O son{21}! Is Kouravya Bhishma well? Does he conduct himself as he used to do earlier? Is the great-souled King Dhritarashtra, Vichitravirya’s son, well, together with his sons? O son of a suta! Is Pratipa’s son, the intelligent and great King Bahlika, well? O son! Are Somadatta, Bhurishrava, Satyasandha, Shala, Drona and his son and the brahmana Kripa, all great archers, well? Are they free from disease? O Sanjaya! They are the foremost archers on earth and all of them are on the side of the Kurus. They are immensely wise and are learned in all the sacred texts. They are foremost among archers on this earth. O son! Are they being treated with due honours? Are those wielders of bows free from disease? Drona’s son, the handsome and great archer whose conduct is good, lives in that kingdom. O son! Is the immensely wise Prince Yuyutsu, the son of a vaishya, well{22}? O son! Is the adviser Karna well? He is the one whose advice the evil Suyodhana follows. O son! Are the aged ladies, the mothers of the Bharatas, the cooks and the wives of the servants well? How about the daughters-in-law, the sons, the nephews, the sisters and the sons of the daughters? Are they at peace? O son! Does the king continue to properly support the brahmanas, as he used to do earlier? O Sanjaya! I hope Dhritarashtra’s sons have not discontinued what I used to give to the brahmanas. Does King Dhritarashtra, together with his sons, overlook the transgressions committed by brahmanas? He is the refuge. Does he overlook any shortages they confront in their livelihood? The creator has decreed this pure light in the world of the living for the welfare of all beings. If those evil ones do not restrain their avarice, there will be complete destruction for the Kouravas. Does King Dhritarashtra, together with his sons, make arrangements for the livelihood of the advisers? Are there ill-wishers, who dwell as well-wishers, and bring about dissension and ruin? O son! Do all the Kurus talk about the crimes committed by the Pandavas? When they see the masses of dasyus{23} assemble, do they remember Partha{24}, the foremost warrior? O son! Do they remember the straight-ﬂying and whirring arrows released from the string of the bow? Do they remember the roar of Gandiva? I have not seen anyone on earth who is Arjuna’s equal or superior in battle. With a single stroke, he can release sixty-one sharp and well-shafted arrows that have been sharpened on stone. With the club in his hand, Bhimasena is spirited. He makes masses of his enemies tremble. He is like a rutting elephant that tears down a bed of reeds. Do they remember him? Sahadeva, Madri’s son, vanquished the assembled Kalingas and Dantakura{25}. The immensely strong one fought with his left hand and his right. Do they remember him? O son of Gavalgana! O Sanjaya! You saw when I sent Nakula out and he brought the western direction under my sway{26}. Do they remember Madri’s son? They were defeated in Dvaitavana, when they embarked on their ill-advised expedition with the cattle. The evil-minded ones were taken captive by the enemy and were freed by Bhimasena and Jaya{27}. I protected Arjuna from the rear and Bhimasena and the twins guarded his ﬂanks. The wielder of the Gandiva defeated the enemies and was unhurt. Do they remember him? O Sanjaya! Through good deeds one cannot make everything all right. With all our souls, we have not been able to sway Dhritarashtra’s son.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "687": {
+      "global_number": 687,
+      "local_number": 24,
+      "num_shlokas": 10,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Sanjaya said, “O Pandava! You have described what you are capable of. O foremost among the Kuru lineage! You have asked about the Kurus and the people. O father{28}! O Partha! Those intelligent ones, the best of the Kurus that you have asked about, are well. O Pandava! Know that there are aged and virtuous men around Dhritrashtra’s son, but there are evil ones too. Dhritarashtra’s son has given to enemies. Why should he then take away the shares of brahmanas? If he follows adharma in his behaviour towards you, like injuring those who do not injure you, that would not be right. If Dhritarashtra, together with his sons, hates those who like you are righteous, that would not be right and would be like injuring one’s friends. He does not approve of this and is extremely tormented. O Ajatashatru! The aged one is sorrowing. Having consulted with brahmanas, he has heard that hating one’s friends is the most grievous of sins. O god among men! They remember you in their assemblies and Jishnu, the foremost among warriors, in battles. When there is the sound of drums and conch shells, they remember Bhimasena, who wields the club in his hand. In the midst of battle, they remember Madri’s two sons, who advanced in all the directions, continuously showering arrows on soldiers. Those maharathas were never perturbed in battle. O king! I think that no one knows the destiny that will befall a man. O Pandava! You have all the qualities of dharma, yet you have had to confront difﬁculties in the form of hardships. O Ajatashatru! You have been able to overcome your hardships, and even greater ones, because of your wisdom. All the sons of Pandu are like the equals of Indra and will not deviate from dharma for the sake of desire. O Ajatashatru! With the aid of your wisdom, you will be able to bring about the peace that will protect the sons of Dhritarashtra, the Pandavas, the Srinjayas and all the other kings who have gathered. O Ajatashatru! O king! Listen to the words your father Dhritarashtra told me in the night, when his advisers and his sons had gathered{29}.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O Pandava! You have described what you are capable of. O foremost among the Kuru lineage! You have asked about the Kurus and the people. O father{28}! O Partha! Those intelligent ones, the best of the Kurus that you have asked about, are well. O Pandava! Know that there are aged and virtuous men around Dhritrashtra’s son, but there are evil ones too. Dhritarashtra’s son has given to enemies. Why should he then take away the shares of brahmanas? If he follows adharma in his behaviour towards you, like injuring those who do not injure you, that would not be right. If Dhritarashtra, together with his sons, hates those who like you are righteous, that would not be right and would be like injuring one’s friends. He does not approve of this and is extremely tormented. O Ajatashatru! The aged one is sorrowing. Having consulted with brahmanas, he has heard that hating one’s friends is the most grievous of sins. O god among men! They remember you in their assemblies and Jishnu, the foremost among warriors, in battles. When there is the sound of drums and conch shells, they remember Bhimasena, who wields the club in his hand. In the midst of battle, they remember Madri’s two sons, who advanced in all the directions, continuously showering arrows on soldiers. Those maharathas were never perturbed in battle. O king! I think that no one knows the destiny that will befall a man. O Pandava! You have all the qualities of dharma, yet you have had to confront difﬁculties in the form of hardships. O Ajatashatru! You have been able to overcome your hardships, and even greater ones, because of your wisdom. All the sons of Pandu are like the equals of Indra and will not deviate from dharma for the sake of desire. O Ajatashatru! With the aid of your wisdom, you will be able to bring about the peace that will protect the sons of Dhritarashtra, the Pandavas, the Srinjayas and all the other kings who have gathered. O Ajatashatru! O king! Listen to the words your father Dhritarashtra told me in the night, when his advisers and his sons had gathered{29}.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "688": {
+      "global_number": 688,
+      "local_number": 25,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “The Pandavas and the Srinjayas have assembled, together with Janaradana, Yuyudhana and Virata. O son of Gavalgana! O son of a suta! Tell us what Dhritarashtra has instructed you to say.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The Pandavas and the Srinjayas have assembled, together with Janaradana, Yuyudhana and Virata. O son of Gavalgana! O son of a suta! Tell us what Dhritarashtra has instructed you to say.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Sanjaya said, “I show homage to Ajatashatru, Vrikodara, Dhananjaya, the sons of Madri, Shouri Vasudeva, Yuyudhana, Chekitana and Virata, and also to the aged lord of Panchala, Parshata Dhrishtadyumna and Yajnaseni{30}. All of you listen to my words, which I speak for the welfare of the Kurus. King Dhritarashtra welcomes peace. He has asked me to swiftly yoke my chariot. If the king{31}, his relatives, his brothers and his sons so desire, let the Pandavas ﬁnd peace. The Parthas are endowed with all the qualities of dharma. They are steadfast, mild and upright. They have been born in a noble lineage and are non-violent and generous. They are restrained by shame and are determined in their deeds. Mean deeds do not beﬁt you. O Bhimasenas{32}! Such is your spirit. Any mean act by you would be glaring, like a spot of collyrium on a white garment. Who will knowingly commit an evil act that is seen to bring about complete destruction? That will be sin and will lead to devastation and hell. A victory obtained thus will be equal to a defeat. Blessed are those who act for their relatives. They are your sons, your well-wishers and your relatives. If prosperity can be ensured for the Kurus, they are prepared to give up their lives, which are of limited value, for your cause. O Parthas! If you subjugate the Kurus, and destroy and vanquish all your enemies, your being alive will be equal to being dead. It is not right that you should live after killing your kin. Who is capable of ﬁghting with you, even if Indra and all the gods were to help? You have Keshava, Chekitana and Satyaki and are protected by Parshata’s arms{33}. O king! But who can withstand in battle and vanquish the Kurus, protected by Drona, Bhishma, Ashvatthama, Shalya, Kripa and the others, and protected by Radheya and the other lords of the earth? The king who is Dhritarashtra’s son has a large army. Who can withstand it, without being killed and destroyed? Therefore, I do not see the slightest welfare, either in victory, or in defeat. Why should the Parthas commit an act that is against dharma, like those born in low and inferior lineages? Therefore, I bow down and seek the favours of Vasudeva and the aged lord of Panchala. With hands joined in salutation, I seek refuge with you. How can there be safety for the Kurus and the Srinjayas? O Vasudeva! There is not a single one of your words that Dhananjaya will fail to follow. He will give up his life, if you were to ask him. O learned one! I am speaking to you, so that my objective is accomplished. The king{34}, with Bhishma at the forefront, desires that there should be supreme peace amongst you.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“I show homage to Ajatashatru, Vrikodara, Dhananjaya, the sons of Madri, Shouri Vasudeva, Yuyudhana, Chekitana and Virata, and also to the aged lord of Panchala, Parshata Dhrishtadyumna and Yajnaseni{30}. All of you listen to my words, which I speak for the welfare of the Kurus. King Dhritarashtra welcomes peace. He has asked me to swiftly yoke my chariot. If the king{31}, his relatives, his brothers and his sons so desire, let the Pandavas ﬁnd peace. The Parthas are endowed with all the qualities of dharma. They are steadfast, mild and upright. They have been born in a noble lineage and are non-violent and generous. They are restrained by shame and are determined in their deeds. Mean deeds do not beﬁt you. O Bhimasenas{32}! Such is your spirit. Any mean act by you would be glaring, like a spot of collyrium on a white garment. Who will knowingly commit an evil act that is seen to bring about complete destruction? That will be sin and will lead to devastation and hell. A victory obtained thus will be equal to a defeat. Blessed are those who act for their relatives. They are your sons, your well-wishers and your relatives. If prosperity can be ensured for the Kurus, they are prepared to give up their lives, which are of limited value, for your cause. O Parthas! If you subjugate the Kurus, and destroy and vanquish all your enemies, your being alive will be equal to being dead. It is not right that you should live after killing your kin. Who is capable of ﬁghting with you, even if Indra and all the gods were to help? You have Keshava, Chekitana and Satyaki and are protected by Parshata’s arms{33}. O king! But who can withstand in battle and vanquish the Kurus, protected by Drona, Bhishma, Ashvatthama, Shalya, Kripa and the others, and protected by Radheya and the other lords of the earth? The king who is Dhritarashtra’s son has a large army. Who can withstand it, without being killed and destroyed? Therefore, I do not see the slightest welfare, either in victory, or in defeat. Why should the Parthas commit an act that is against dharma, like those born in low and inferior lineages? Therefore, I bow down and seek the favours of Vasudeva and the aged lord of Panchala. With hands joined in salutation, I seek refuge with you. How can there be safety for the Kurus and the Srinjayas? O Vasudeva! There is not a single one of your words that Dhananjaya will fail to follow. He will give up his life, if you were to ask him. O learned one! I am speaking to you, so that my objective is accomplished. The king{34}, with Bhishma at the forefront, desires that there should be supreme peace amongst you.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "689": {
+      "global_number": 689,
+      "local_number": 26,
+      "num_shlokas": 28,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “O Sanjaya! What words have you heard from me, desirous of ﬁghting, that you are frightened of war? O son! The absence of war is superior to war. O suta! Having obtained that{35}, who goes to war? O Sanjaya! If all of a man’s desires are satisﬁed, without his having done anything, I know that he will never do anything{36}. There is nothing more foolish than going to war. Why should a man go to war, unless he has been cursed by destiny? The Parthas undertake tasks that bring about happiness, for the sake of dharma and the welfare of the world. He, who undertakes tasks for the sake of happiness, avoids difﬁcult tasks that bring on unhappiness. He desires happiness and tries to avoid unhappiness.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! What words have you heard from me, desirous of ﬁghting, that you are frightened of war? O son! The absence of war is superior to war. O suta! Having obtained that{35}, who goes to war? O Sanjaya! If all of a man’s desires are satisﬁed, without his having done anything, I know that he will never do anything{36}. There is nothing more foolish than going to war. Why should a man go to war, unless he has been cursed by destiny? The Parthas undertake tasks that bring about happiness, for the sake of dharma and the welfare of the world. He, who undertakes tasks for the sake of happiness, avoids difﬁcult tasks that bring on unhappiness. He desires happiness and tries to avoid unhappiness.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“But one, who seeks to bring pleasure to his senses, is overcome by desire and torments his own body. Having become confounded, he confronts unhappiness. A ﬁre that has been kindled becomes more energetic and stronger if more kindling is added. Thus, even if the objective has been attained, desire is not satisﬁed and is like a ﬁre with clariﬁed butter added to it. Look at the great abundance of objects of desire that the king who is Dhritarashtra’s son enjoys. Compare it with our diminished lot. He is not the lord of inferior beings. He does not hear the songs of inferior beings. He does not inhale the fragrance of inferior garlands. He does not use inferior unguents. He does not don inferior garments. Why have we then been banished from the land of the Kurus? Having thus driven us out, his heart is still consumed by the desire in his body. The king is himself partial and it is not proper that he should expect others to be impartial. The way one behaves towards others, is exactly reﬂected in the way others behave towards one’s own self. At the end of the cold season{37}, in the height of summer, one has kindled a ﬁre in a dense forest with dry wood, so that it grows because of the wind. Having done this, one suffers when one tries to escape. O Sanjaya! Having obtained the prosperity, why does King Dhritarashtra lament now? He has always accepted the evil-minded advice of his evil son and his stupid advisers. Unworthy himself, Suyodhana ﬂouted the good advice rendered by the trustworthy Vidura. Because of affection towards his son, King Dhritarashtra knowingly deviated from the path of dharma. He{38} is wise among the Kurus and wishes for the welfare of the Kurus. He is extremely learned, eloquent and of virtuous conduct. But out of affection for his son, King Dhritarashtra did not listen to Vidura. He{39} himself desires honour, but does not show honour. He is selﬁsh and envious and transgresses dharma and artha for the sake of his own interests. He is ill-spoken and is overcome by intolerance. He is addicted to desire and his heart is evil. He is perverse and insults those who are superior. He seeks for revenge. He injures his friends. O Sanjaya! He is evil-minded. Out of affection for that son, King Dhritarashtra knowingly deviated from the objective of dharma. O Sanjaya! When gambling, it occurred to me that the destruction of the Kurus might have arrived. Though Vidura spoke laudable and wise words, Dhritarashtra paid no attention to them. When they no longer followed the advice of Kshatta{40}, the Kurus started to face hardships. As long as they followed his wise advice, the kingdom continued to prosper. O suta! Now hear from me about the ones who advise Dhritarashtra’s son. They are Duhshasana, Shakuni and the son of the suta{41}. O son of Gavalgana! Behold his stupidity.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“But one, who seeks to bring pleasure to his senses, is overcome by desire and torments his own body. Having become confounded, he confronts unhappiness. A ﬁre that has been kindled becomes more energetic and stronger if more kindling is added. Thus, even if the objective has been attained, desire is not satisﬁed and is like a ﬁre with clariﬁed butter added to it. Look at the great abundance of objects of desire that the king who is Dhritarashtra’s son enjoys. Compare it with our diminished lot. He is not the lord of inferior beings. He does not hear the songs of inferior beings. He does not inhale the fragrance of inferior garlands. He does not use inferior unguents. He does not don inferior garments. Why have we then been banished from the land of the Kurus? Having thus driven us out, his heart is still consumed by the desire in his body. The king is himself partial and it is not proper that he should expect others to be impartial. The way one behaves towards others, is exactly reﬂected in the way others behave towards one’s own self. At the end of the cold season{37}, in the height of summer, one has kindled a ﬁre in a dense forest with dry wood, so that it grows because of the wind. Having done this, one suffers when one tries to escape. O Sanjaya! Having obtained the prosperity, why does King Dhritarashtra lament now? He has always accepted the evil-minded advice of his evil son and his stupid advisers. Unworthy himself, Suyodhana ﬂouted the good advice rendered by the trustworthy Vidura. Because of affection towards his son, King Dhritarashtra knowingly deviated from the path of dharma. He{38} is wise among the Kurus and wishes for the welfare of the Kurus. He is extremely learned, eloquent and of virtuous conduct. But out of affection for his son, King Dhritarashtra did not listen to Vidura. He{39} himself desires honour, but does not show honour. He is selﬁsh and envious and transgresses dharma and artha for the sake of his own interests. He is ill-spoken and is overcome by intolerance. He is addicted to desire and his heart is evil. He is perverse and insults those who are superior. He seeks for revenge. He injures his friends. O Sanjaya! He is evil-minded. Out of affection for that son, King Dhritarashtra knowingly deviated from the objective of dharma. O Sanjaya! When gambling, it occurred to me that the destruction of the Kurus might have arrived. Though Vidura spoke laudable and wise words, Dhritarashtra paid no attention to them. When they no longer followed the advice of Kshatta{40}, the Kurus started to face hardships. As long as they followed his wise advice, the kingdom continued to prosper. O suta! Now hear from me about the ones who advise Dhritarashtra’s son. They are Duhshasana, Shakuni and the son of the suta{41}. O son of Gavalgana! Behold his stupidity.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“Therefore, when I reﬂect on it, I do not see how there can be welfare for the Kurus and the Srinjayas. Dhritarashtra has usurped the wealth of others and has exiled the far-sighted Vidura{42}. Dhritarashtra and his son now aspire for a great kingdom on this earth, without any rivals. It is because of this that there cannot be any peace. They think that whatever is mine, should also be theirs. Karna thinks that it is possible to take up weapons against Arjuna in battle. There were many great battles in earlier times? Why was Karna not a source for recourse then{43}? Karna knows and so does Suyodhana, Drona knows and so does the grandfather{44}, and all the other Kurus also know that there is no wielder of the bow like Arjuna. All the Kurus know, and so do all the other assembled lords of the earth, that Duryodhana can perform evil acts only if Phalguna, the destroyer of enemies, is not present. Dhritarashtra’s son thinks that he can take away the riches that I have gathered, from the Pandavas. Knowing these intentions, Kiriti will ﬁght with a bow that is as long as a palm tree. The sons of Dhritarashtra survive as long as they have not heard the twang of the extended Gandiva. Overlooking the force of the angry Bhimasena, Suyodhana thinks that he has been successful in his objective. O son! Even Indra cannot take away my riches as long as Bhimasena is alive. O suta! There are Dhananjaya, Nakula and the brave Sahadeva too. O suta! The aged king, together with his son, should use his intelligence. O Sanjaya! Otherwise, the sons of Dhritarashtra will be consumed by the rage of the Pandavas in battle. You know the hardships that we have confronted. O Sanjaya! In your honour, I pardon them. You know what we have obtained earlier from the Kouravas and the conduct that we have shown towards Dhritarashtra’s son. We will behave in the same way today. As you have said, we will strive for peace. Let me have my kingdom in Indraprastha. Let Suyodhana, foremost among the Bharatas, agree.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Therefore, when I reﬂect on it, I do not see how there can be welfare for the Kurus and the Srinjayas. Dhritarashtra has usurped the wealth of others and has exiled the far-sighted Vidura{42}. Dhritarashtra and his son now aspire for a great kingdom on this earth, without any rivals. It is because of this that there cannot be any peace. They think that whatever is mine, should also be theirs. Karna thinks that it is possible to take up weapons against Arjuna in battle. There were many great battles in earlier times? Why was Karna not a source for recourse then{43}? Karna knows and so does Suyodhana, Drona knows and so does the grandfather{44}, and all the other Kurus also know that there is no wielder of the bow like Arjuna. All the Kurus know, and so do all the other assembled lords of the earth, that Duryodhana can perform evil acts only if Phalguna, the destroyer of enemies, is not present. Dhritarashtra’s son thinks that he can take away the riches that I have gathered, from the Pandavas. Knowing these intentions, Kiriti will ﬁght with a bow that is as long as a palm tree. The sons of Dhritarashtra survive as long as they have not heard the twang of the extended Gandiva. Overlooking the force of the angry Bhimasena, Suyodhana thinks that he has been successful in his objective. O son! Even Indra cannot take away my riches as long as Bhimasena is alive. O suta! There are Dhananjaya, Nakula and the brave Sahadeva too. O suta! The aged king, together with his son, should use his intelligence. O Sanjaya! Otherwise, the sons of Dhritarashtra will be consumed by the rage of the Pandavas in battle. You know the hardships that we have confronted. O Sanjaya! In your honour, I pardon them. You know what we have obtained earlier from the Kouravas and the conduct that we have shown towards Dhritarashtra’s son. We will behave in the same way today. As you have said, we will strive for peace. Let me have my kingdom in Indraprastha. Let Suyodhana, foremost among the Bharatas, agree.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "’",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "690": {
+      "global_number": 690,
+      "local_number": 27,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Sanjaya said, “O Pandava! You have always based yourself on dharma. O Partha! That is famous in the world and can be seen. But this great ﬂow of life is always transient. O Pandava! On noticing that, stay away from destruction. O Ajatashatru! If the Kurus refuse to return your share without a war, I think that it is better to be a beggar in the kingdoms of Andhaka and Vrishni than to obtain a kingdom through war. A man’s life lasts for a short time. That ﬂow is always subject to unhappiness and is unstable. Therefore, one should not shorten life. O Pandava! One should never resort to an evil act. Desire is created in man. O Indra among men! This causes obstructions in the path of dharma. If a persevering man strikes it{46} down in advance, he obtains unparalleled praise in this world. O Partha! The thirst for riches is a bond. It ties one down from the pursuit of dharma. He who chooses dharma is enlightened. He, who strives for desire, is diminished because of that. O father! He, who places dharma at the forefront of all deeds, obtains great radiance, like the sun. A man, who diminishes dharma, may obtain the earth. But because of his evil intelligence, he will be ruined. You have studied the Vedas. You have followed brahmacharya. You have observed sacriﬁces. You have donated to brahmanas. You know about the supreme objective. You have given many of your years to pleasure. He, who devotes himself excessively to pleasure and does not perform deeds according to the practice of yoga, is extremely unhappy when his riches are exhausted. He is incited by the force of desire and is immersed in misery. In the same way, a foolish one, who abandons dharma and follows adharma in the pursuit of riches, does not believe in the hereafter. When he gives up his body, that evil one is burnt in the hereafter. The deeds that have been performed are not destroyed in the hereafter, be they good or be they evil. The good and evil deeds precede the doer. The doer only follows them from behind. Your deeds are as pure as the fragrant and succulent food offered with devotion to brahmanas and the stipends offered at sacriﬁces, in accordance with the proper rites. O Partha! Deeds are performed in this world. In the hereafter, there are no deeds to be performed. You have performed great deeds, applauded by righteous ones, for the sake of the hereafter. Death brings an end to old age and fear. There is no hunger or thirst, nor anything that causes unpleasantness. There is no deed that remains to be done, but for the satisfaction of the senses.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "“O Pandava! You have always based yourself on dharma. O Partha! That is famous in the world and can be seen. But this great ﬂow of life is always transient. O Pandava! On noticing that, stay away from destruction. O Ajatashatru! If the Kurus refuse to return your share without a war, I think that it is better to be a beggar in the kingdoms of Andhaka and Vrishni than to obtain a kingdom through war. A man’s life lasts for a short time. That ﬂow is always subject to unhappiness and is unstable. Therefore, one should not shorten life. O Pandava! One should never resort to an evil act. Desire is created in man. O Indra among men! This causes obstructions in the path of dharma. If a persevering man strikes it{46} down in advance, he obtains unparalleled praise in this world. O Partha! The thirst for riches is a bond. It ties one down from the pursuit of dharma. He who chooses dharma is enlightened. He, who strives for desire, is diminished because of that. O father! He, who places dharma at the forefront of all deeds, obtains great radiance, like the sun. A man, who diminishes dharma, may obtain the earth. But because of his evil intelligence, he will be ruined. You have studied the Vedas. You have followed brahmacharya. You have observed sacriﬁces. You have donated to brahmanas. You know about the supreme objective. You have given many of your years to pleasure. He, who devotes himself excessively to pleasure and does not perform deeds according to the practice of yoga, is extremely unhappy when his riches are exhausted. He is incited by the force of desire and is immersed in misery. In the same way, a foolish one, who abandons dharma and follows adharma in the pursuit of riches, does not believe in the hereafter. When he gives up his body, that evil one is burnt in the hereafter. The deeds that have been performed are not destroyed in the hereafter, be they good or be they evil. The good and evil deeds precede the doer. The doer only follows them from behind. Your deeds are as pure as the fragrant and succulent food offered with devotion to brahmanas and the stipends offered at sacriﬁces, in accordance with the proper rites. O Partha! Deeds are performed in this world. In the hereafter, there are no deeds to be performed. You have performed great deeds, applauded by righteous ones, for the sake of the hereafter. Death brings an end to old age and fear. There is no hunger or thirst, nor anything that causes unpleasantness. There is no deed that remains to be done, but for the satisfaction of the senses.",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“O Indra among men! Such are the fruits of our deeds. O Pandava! Do not bear the load of what is pleasing to the heart and arises out of anger or the pursuit of happiness. Do that which brings pleasure in both the worlds. After an act is over, there remains one’s good name, truthfulness, self-control, honesty and non-violence. Horse-sacriﬁces, royal sacriﬁces and other sacriﬁces are evil deeds that transgress the limits{47}. O Parthas! After all this time, if you follow common norms and perform evil deeds, what was the reason for the Pandavas to spend many unhappy years in the forest, for the sake of observing dharma? You could have assembled an army without the exile. It was under your control earlier. The Panchalas have always been your advisers and Janardana and the brave Yuyudhana. That’s also true of the king of Matsya, who rides a golden chariot, and his sons; and Virata, with his warrior sons; and the kings whom you had conquered earlier. All of them would have gathered to your side. With all these great aides and a powerful army, honoured by Vasudeva and Arjuna, you would have slain the best of warriors in the arena of battle. You would have destroyed the insolence of Dhritarashtra’s son. Why did you increase the strength of your rivals? Why did you reduce the number of your aides? O Pandava! If you wished to ﬁght, why did you dwell for so many years in the forest and why have you picked the wrong time now? O Pandava! A foolish one desires to ﬁght, or one who is unaware of dharma and deviates from the path that ensures welfare. Even a wise person, or one who knows about dharma, can deviate from the path of welfare because of anger. O Partha! But your intelligence is not ﬁxed on adharma. Never have you committed an evil act out of anger. What is the reason for you to be attracted to a course of action that is counter to wisdom? O great king! Wrath is a bitter headache that does not result from disease. It destroys fame and gives rise to evil fruits. Unlike those who are sinful, those who are righteous should swallow it. Swallow your anger and be paciﬁed. Who desires to be tied down by evil? Forgiveness is superior to pleasures, when the latter results from Shantanu’s son, Bhishma, and Drona and his sons being slain. O Partha! Kripa, Shalya, Somadatta’s son, Vikarna, Vivimshati, Karna, Duryodhana—having killed all these, tell me what kind of happiness you will obtain. O king! Having obtained the entire earth, up to the frontiers of the ocean, you will not be able to conquer old age and death, pleasure and displeasure, happiness and unhappiness. Knowing this, do not wage war. If you wish this because of the desires of your advisers, and it is because of them that you are about to err like this, then give everything to them and go away. Do not deviate from the path that leads you to the road followed by the gods.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "‘",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O Indra among men! Such are the fruits of our deeds. O Pandava! Do not bear the load of what is pleasing to the heart and arises out of anger or the pursuit of happiness. Do that which brings pleasure in both the worlds. After an act is over, there remains one’s good name, truthfulness, self-control, honesty and non-violence. Horse-sacriﬁces, royal sacriﬁces and other sacriﬁces are evil deeds that transgress the limits{47}. O Parthas! After all this time, if you follow common norms and perform evil deeds, what was the reason for the Pandavas to spend many unhappy years in the forest, for the sake of observing dharma? You could have assembled an army without the exile. It was under your control earlier. The Panchalas have always been your advisers and Janardana and the brave Yuyudhana. That’s also true of the king of Matsya, who rides a golden chariot, and his sons; and Virata, with his warrior sons; and the kings whom you had conquered earlier. All of them would have gathered to your side. With all these great aides and a powerful army, honoured by Vasudeva and Arjuna, you would have slain the best of warriors in the arena of battle. You would have destroyed the insolence of Dhritarashtra’s son. Why did you increase the strength of your rivals? Why did you reduce the number of your aides? O Pandava! If you wished to ﬁght, why did you dwell for so many years in the forest and why have you picked the wrong time now? O Pandava! A foolish one desires to ﬁght, or one who is unaware of dharma and deviates from the path that ensures welfare. Even a wise person, or one who knows about dharma, can deviate from the path of welfare because of anger. O Partha! But your intelligence is not ﬁxed on adharma. Never have you committed an evil act out of anger. What is the reason for you to be attracted to a course of action that is counter to wisdom? O great king! Wrath is a bitter headache that does not result from disease. It destroys fame and gives rise to evil fruits. Unlike those who are sinful, those who are righteous should swallow it. Swallow your anger and be paciﬁed. Who desires to be tied down by evil? Forgiveness is superior to pleasures, when the latter results from Shantanu’s son, Bhishma, and Drona and his sons being slain. O Partha! Kripa, Shalya, Somadatta’s son, Vikarna, Vivimshati, Karna, Duryodhana—having killed all these, tell me what kind of happiness you will obtain. O king! Having obtained the entire earth, up to the frontiers of the ocean, you will not be able to conquer old age and death, pleasure and displeasure, happiness and unhappiness. Knowing this, do not wage war. If you wish this because of the desires of your advisers, and it is because of them that you are about to err like this, then give everything to them and go away. Do not deviate from the path that leads you to the road followed by the gods.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "’",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        }
+      }
+    },
+    "691": {
+      "global_number": 691,
+      "local_number": 28,
+      "num_shlokas": 14,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “O Sanjaya! You have undoubtedly spoken the truth. As you have said, dharma is supreme among all deeds. O Sanjaya! But you should not censure me before you know whether I am following dharma or adharma. Adharma sometimes adopts the guise of dharma. And dharma sometimes appears as adharma. According to their intelligence, the learned ones distinguish between the two. When there is a calamity, depending on one’s livelihood, dharma and adharma should be followed accordingly{48}. O Sanjaya! Know from me that in times of calamity, the pursuit of dharma often implies the ﬁrst{49}. When one’s natural means of livelihood has gone, one should strive to perform the duties that have been laid down. O Sanjaya! When the natural means of livelihood are present, both should be censured{50}. The creator has laid down a course of action for brahmanas who wish to remedy wrongs. O Sanjaya! When there is a time of calamity, those who do not act, or those who do not act correctly, are both reprehensible. According to livelihood, the right course of action has always been laid down, including for those who are not brahmanas and for those who do not follow the Vedas. It is only those righteous ones who can tell us what is best. This is the path that has been followed by our fathers earlier, and by our grandfathers and those who have preceded them. Those who are wise undertake these tasks and I do not think that this is the way of the unrighteous. O Sanjaya! Through the path of adharma, I do not crave whatever riches exist on this earth, whatever is with the thirty gods and beyond them, in Prajapati’s world, in heaven, or in Brahma’s world. The learned Krishna is the lord of dharma. He is skilled and knows about the right policy. He is honoured by the brahmanas. In many ways, he has instructed many powerful kings like the Bhojas. The immensely famous Keshava must tell me whether I should be censured for giving up peace and following my own dharma of embarking on a ﬁght{51}. Vasudeva wishes for the welfare of both sides. The Shinis, the Chaitrakas{52}, the Andhakas, the Varshneyas, the Bhojas, the Kukkuras{53} and the Srinjayas resort to Vasudeva’s intelligence to subdue their enemies and delight their well-wishers. Led by Krishna, Ugrasena and all the others among the Vrishnis and the Andhakas are like the equals of Indra. They are intelligent and have truth as their valour. The immensely strong Yadavas are prosperous. Babhru, the king of Kashi, has obtained supreme prosperity after having obtained Krishna as a brother and an instructor{54}. Vasudeva satisﬁes all his desires, like a showering cloud brings satisfaction to beings after the summer. O son! This is the kind of person Keshava is. We know that he knows how to decide on a course of action. We are devoted to the virtuous Krishna. We will not transgress Keshava’s words.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! You have undoubtedly spoken the truth. As you have said, dharma is supreme among all deeds. O Sanjaya! But you should not censure me before you know whether I am following dharma or adharma. Adharma sometimes adopts the guise of dharma. And dharma sometimes appears as adharma. According to their intelligence, the learned ones distinguish between the two. When there is a calamity, depending on one’s livelihood, dharma and adharma should be followed accordingly{48}. O Sanjaya! Know from me that in times of calamity, the pursuit of dharma often implies the ﬁrst{49}. When one’s natural means of livelihood has gone, one should strive to perform the duties that have been laid down. O Sanjaya! When the natural means of livelihood are present, both should be censured{50}. The creator has laid down a course of action for brahmanas who wish to remedy wrongs. O Sanjaya! When there is a time of calamity, those who do not act, or those who do not act correctly, are both reprehensible. According to livelihood, the right course of action has always been laid down, including for those who are not brahmanas and for those who do not follow the Vedas. It is only those righteous ones who can tell us what is best. This is the path that has been followed by our fathers earlier, and by our grandfathers and those who have preceded them. Those who are wise undertake these tasks and I do not think that this is the way of the unrighteous. O Sanjaya! Through the path of adharma, I do not crave whatever riches exist on this earth, whatever is with the thirty gods and beyond them, in Prajapati’s world, in heaven, or in Brahma’s world. The learned Krishna is the lord of dharma. He is skilled and knows about the right policy. He is honoured by the brahmanas. In many ways, he has instructed many powerful kings like the Bhojas. The immensely famous Keshava must tell me whether I should be censured for giving up peace and following my own dharma of embarking on a ﬁght{51}. Vasudeva wishes for the welfare of both sides. The Shinis, the Chaitrakas{52}, the Andhakas, the Varshneyas, the Bhojas, the Kukkuras{53} and the Srinjayas resort to Vasudeva’s intelligence to subdue their enemies and delight their well-wishers. Led by Krishna, Ugrasena and all the others among the Vrishnis and the Andhakas are like the equals of Indra. They are intelligent and have truth as their valour. The immensely strong Yadavas are prosperous. Babhru, the king of Kashi, has obtained supreme prosperity after having obtained Krishna as a brother and an instructor{54}. Vasudeva satisﬁes all his desires, like a showering cloud brings satisfaction to beings after the summer. O son! This is the kind of person Keshava is. We know that he knows how to decide on a course of action. We are devoted to the virtuous Krishna. We will not transgress Keshava’s words.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "692": {
+      "global_number": 692,
+      "local_number": 29,
+      "num_shlokas": 51,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “O Sanjaya! I desire that the Pandavas are not destroyed and that they are prosperous. I love them. O suta! In the same way, I desire the prosperity of King Dhritarashtra and his many sons. O Sanjaya! It has always been my desire that there should be peace between them and I have told them this. I hear that this is also desired by the king{55}. I think that this is also best for the Pandavas. O Sanjaya! Pandava{56} has already exhibited a kind of peacefulness that is extremely difﬁcult to attain. Though Dhritarashtra and his sons are avaricious, there need not be any quarrel between them. O Sanjaya! You know the nature of dharma better than I do or Yudhishthira does. O Sanjaya! Why are you then ﬁnding fault with Pandava, who is endeavouring to accomplish his own duty? As is known, his conduct towards his relative has always been virtuous, right from the beginning. On the present issue, there is a difference of opinion among the brahmanas. Some say that deeds bring success in the hereafter. Others discard deeds and say that success comes from learning. It is known to brahmanas that those who have food, but fail to eat it, will remain hungry. It is only knowledge which leads to deeds that bears fruit, not other kinds{57}. Deeds can be seen to bear fruits. One who is thirsty is satisﬁed by drinking water.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“O Sanjaya! I desire that the Pandavas are not destroyed and that they are prosperous. I love them. O suta! In the same way, I desire the prosperity of King Dhritarashtra and his many sons. O Sanjaya! It has always been my desire that there should be peace between them and I have told them this. I hear that this is also desired by the king{55}. I think that this is also best for the Pandavas. O Sanjaya! Pandava{56} has already exhibited a kind of peacefulness that is extremely difﬁcult to attain. Though Dhritarashtra and his sons are avaricious, there need not be any quarrel between them. O Sanjaya! You know the nature of dharma better than I do or Yudhishthira does. O Sanjaya! Why are you then ﬁnding fault with Pandava, who is endeavouring to accomplish his own duty? As is known, his conduct towards his relative has always been virtuous, right from the beginning. On the present issue, there is a difference of opinion among the brahmanas. Some say that deeds bring success in the hereafter. Others discard deeds and say that success comes from learning. It is known to brahmanas that those who have food, but fail to eat it, will remain hungry. It is only knowledge which leads to deeds that bears fruit, not other kinds{57}. Deeds can be seen to bear fruits. One who is thirsty is satisﬁed by drinking water.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“O Sanjaya! Therefore, the rites of deeds have been laid down and it is deeds that circulate. Thus, I think that there is nothing superior to deeds. It is weak and vain to speak otherwise. Elsewhere{58}, the gods are radiant because of their deeds. It is because of deeds that the wind blows. Determining day and night through his deeds, the sun ceaselessly rises every day. Ceaselessly, the moon goes through fortnights and months, through nakshatras and conjunctions. The ﬁre burns ceaselessly and through his deeds, kindles for the welfare of beings. Through her strength, the goddess earth ceaselessly bears a heavy load. The rivers ceaselessly bear the waters that satisfy the wishes of all beings. The destroyer of Bala{59} has a lot of energy and ceaselessly showers down, resounding in the sky and in heaven. He ceaselessly practises brahmacharya, desiring to be the foremost among the gods. Shakra gave up happiness and his mind’s desires. He became the foremost through his deeds. He steadfastly protects truth and dharma, with self-control, fortitude, equanimity and amiability. Cultivating all these, the foremost Maghavan obtained the kingdom of the gods. Brihaspati controlled his mind and restraining his soul in the proper fashion, followed brahmacharya. He gave up happiness and controlled his senses. He thus obtained praise and reverence from the gods{60}. The nakshatras shine because of their deeds. So do the Rudras, the Adityas, the Vasus, the Vishvas{61}, King Yama, Vaishravana Kubera, the gandharvas, the yakshas and the shining apsaras. The sages shine there{62} because they observe brahmacharya, study the Vedas and follow the rituals. You know this to be the dharma of all the worlds and for brahmanas, kshatriyas and vaishyas. You know what learned ones know.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“O Sanjaya! Therefore, the rites of deeds have been laid down and it is deeds that circulate. Thus, I think that there is nothing superior to deeds. It is weak and vain to speak otherwise. Elsewhere{58}, the gods are radiant because of their deeds. It is because of deeds that the wind blows. Determining day and night through his deeds, the sun ceaselessly rises every day. Ceaselessly, the moon goes through fortnights and months, through nakshatras and conjunctions. The ﬁre burns ceaselessly and through his deeds, kindles for the welfare of beings. Through her strength, the goddess earth ceaselessly bears a heavy load. The rivers ceaselessly bear the waters that satisfy the wishes of all beings. The destroyer of Bala{59} has a lot of energy and ceaselessly showers down, resounding in the sky and in heaven. He ceaselessly practises brahmacharya, desiring to be the foremost among the gods. Shakra gave up happiness and his mind’s desires. He became the foremost through his deeds. He steadfastly protects truth and dharma, with self-control, fortitude, equanimity and amiability. Cultivating all these, the foremost Maghavan obtained the kingdom of the gods. Brihaspati controlled his mind and restraining his soul in the proper fashion, followed brahmacharya. He gave up happiness and controlled his senses. He thus obtained praise and reverence from the gods{60}. The nakshatras shine because of their deeds. So do the Rudras, the Adityas, the Vasus, the Vishvas{61}, King Yama, Vaishravana Kubera, the gandharvas, the yakshas and the shining apsaras. The sages shine there{62} because they observe brahmacharya, study the Vedas and follow the rituals. You know this to be the dharma of all the worlds and for brahmanas, kshatriyas and vaishyas. You know what learned ones know.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“O Sanjaya! Why are you then pleading for the Kouravas? Know that he is always devoted to the sacred texts and to ashvamedha and rajasuya{63}. He is also united with bows and armour, with arm guards, chariots and weapons. If the Parthas knew of some other means of accomplishing the objective, without slaughtering the Kouravas, whereby dharma could be saved and the purity of deeds preserved, they would force Bhimasena to follow the conduct of an arya{64}. But if they are engaged in deeds followed by their ancestors, and in the process, destiny makes them confront death, that death will be regarded as praiseworthy, because they will have accomplished their own deeds, to the best of their capacities. I think that you know everything and I would like to hear your response to a question. Is it better for a king to wage war in accordance with dharma, or is it better for him not to wage war in accordance with dharma? O Sanjaya! You must ﬁrst consider the division into the four varnas and the deeds that are decreed for each. After having determined the duty of the Pandavas, you can then praise or censure it, according to your inclination. A brahmana must study, sacriﬁce, give, visit the sacred tirthas, teach, ofﬁciate for those who are ﬁt to sacriﬁce and receive gifts that he knows he can accept. A king must protect his subjects, act in accordance with dharma, steadfastly give, perform sacriﬁces, study all the Vedas, take a wife and observe the sacred deeds of a householder. A vaishya must not study. He must steadfastly sustain agriculture, animal husbandry and trade, accumulate riches, do what is pleasant for brahmanas and kshatriyas and observe the conduct of dharma and the sacred deeds of a householder. The ancient dharma of shudras is known to be that he must serve and honour brahmanas. Both study and sacriﬁce are prohibited for him. He must ceaselessly ensure the welfare of all beings. The king must tirelessly protect all the varnas in the pursuit of their own dharma. He must not be addicted to desire and must be impartial across all beings. He must never be addicted to desire that is adharma. If there is someone with all the qualities of dharma, he must acknowledge his superiority. He must chastise inferior subjects. If he acts in this fashion, he is virtuous. If he violently seizes land that belongs to others, intoxicated because of his powers, he angers destiny and this leads to strife between kings, creating armour, weapons and bows. For the task of killing dasyus, Indra created armour, weapons and bows. Whether riches are stolen secretly in private, or whether they are stolen forcibly in public, the two crimes are equally reprehensible. O Sanjaya! How is the act of Dhritarashtra’s son different?",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“O Sanjaya! Why are you then pleading for the Kouravas? Know that he is always devoted to the sacred texts and to ashvamedha and rajasuya{63}. He is also united with bows and armour, with arm guards, chariots and weapons. If the Parthas knew of some other means of accomplishing the objective, without slaughtering the Kouravas, whereby dharma could be saved and the purity of deeds preserved, they would force Bhimasena to follow the conduct of an arya{64}. But if they are engaged in deeds followed by their ancestors, and in the process, destiny makes them confront death, that death will be regarded as praiseworthy, because they will have accomplished their own deeds, to the best of their capacities. I think that you know everything and I would like to hear your response to a question. Is it better for a king to wage war in accordance with dharma, or is it better for him not to wage war in accordance with dharma? O Sanjaya! You must ﬁrst consider the division into the four varnas and the deeds that are decreed for each. After having determined the duty of the Pandavas, you can then praise or censure it, according to your inclination. A brahmana must study, sacriﬁce, give, visit the sacred tirthas, teach, ofﬁciate for those who are ﬁt to sacriﬁce and receive gifts that he knows he can accept. A king must protect his subjects, act in accordance with dharma, steadfastly give, perform sacriﬁces, study all the Vedas, take a wife and observe the sacred deeds of a householder. A vaishya must not study. He must steadfastly sustain agriculture, animal husbandry and trade, accumulate riches, do what is pleasant for brahmanas and kshatriyas and observe the conduct of dharma and the sacred deeds of a householder. The ancient dharma of shudras is known to be that he must serve and honour brahmanas. Both study and sacriﬁce are prohibited for him. He must ceaselessly ensure the welfare of all beings. The king must tirelessly protect all the varnas in the pursuit of their own dharma. He must not be addicted to desire and must be impartial across all beings. He must never be addicted to desire that is adharma. If there is someone with all the qualities of dharma, he must acknowledge his superiority. He must chastise inferior subjects. If he acts in this fashion, he is virtuous. If he violently seizes land that belongs to others, intoxicated because of his powers, he angers destiny and this leads to strife between kings, creating armour, weapons and bows. For the task of killing dasyus, Indra created armour, weapons and bows. Whether riches are stolen secretly in private, or whether they are stolen forcibly in public, the two crimes are equally reprehensible. O Sanjaya! How is the act of Dhritarashtra’s son different?",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“Overcome by intolerance and because of his avarice, he thinks that whatever he desires is dharma. The share of the Pandavas was determined. Why should we be robbed of those by others? If we are killed in battle, that will be praiseworthy. Inheritance is better than the conquest of another’s kingdom{65}. O Sanjaya! In the midst of their kingdom{66}, recount this ancient dharma to the Kouravas. Those who have been assembled by Dhritarashtra’s sons are stupid and evil and are under the control of death. Behold again the evil deed that the Kurus committed in the midst of their assembly hall. The illustrious Droupadi is the beloved wife of the Pandavas and she has virtuous conduct. With Bhishma at the forefront, the Kurus ignored it when she was seized by that lecher{67} and was forced to weep. If the Kurus who were assembled there, young and old, had tried to prevent it then, Dhritarashtra would have performed an act I would have approved of. This would have been a good deed for his sons too. Disregarding all norms, Duhshasana dragged Krishna to the midst of the assembly hall, with her fathers-in-law persent. Brought there, she was in a pitiable state, but found no protector other than Kshatta{68}. The kings in that assembly hall were such wretches that they were incapable of protesting. For the sake of dharma, Kshatta was the only one who spoke. Knowing dharma, he censured the one who possesses limited intelligence{69}. You did not speak of dharma in that assembly hall. But you see it ﬁt to instruct the Pandavas now. However, when she was brought into that assembly hall, Krishna did perform a pure deed that was extremely difﬁcult. Like a boat in the midst of the ocean, she freed herself and the Pandavas from that difﬁcult situation{70}. When Krishna stood before her fathers-in-law in that assembly hall, the son of the suta{71} spoke to her. ‘O Yajnaseni! You have no other recourse left. Go to Dhritarashtra’s house. They have been defeated and are no longer your husbands. O beautiful one! Choose another man as your husband.’ This was as heart-rending as a stake. They were extremely terrible and pierced the heart. Karna’s words were like arrows that possessed great energy. They were embedded in Bibhatsu Phalguna’s heart. When they donned garments that were made of black antelope skin, Duhshasana also spoke these harsh words. ‘All of you are like sterile and destroyed sesamum seeds. You have been ruined and will go to heaven for a very long time.’ Shakuni, the deceitful king of Gandhara, spoke to the Parthas at the time of gambling with the dice. ‘Nakula has been won. What stake is left other than Krishna Yajnaseni{72}?’ O Sanjaya! You yourself know these reprehensible words that were spoken at the time of the gambling.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“Overcome by intolerance and because of his avarice, he thinks that whatever he desires is dharma. The share of the Pandavas was determined. Why should we be robbed of those by others? If we are killed in battle, that will be praiseworthy. Inheritance is better than the conquest of another’s kingdom{65}. O Sanjaya! In the midst of their kingdom{66}, recount this ancient dharma to the Kouravas. Those who have been assembled by Dhritarashtra’s sons are stupid and evil and are under the control of death. Behold again the evil deed that the Kurus committed in the midst of their assembly hall. The illustrious Droupadi is the beloved wife of the Pandavas and she has virtuous conduct. With Bhishma at the forefront, the Kurus ignored it when she was seized by that lecher{67} and was forced to weep. If the Kurus who were assembled there, young and old, had tried to prevent it then, Dhritarashtra would have performed an act I would have approved of. This would have been a good deed for his sons too. Disregarding all norms, Duhshasana dragged Krishna to the midst of the assembly hall, with her fathers-in-law persent. Brought there, she was in a pitiable state, but found no protector other than Kshatta{68}. The kings in that assembly hall were such wretches that they were incapable of protesting. For the sake of dharma, Kshatta was the only one who spoke. Knowing dharma, he censured the one who possesses limited intelligence{69}. You did not speak of dharma in that assembly hall. But you see it ﬁt to instruct the Pandavas now. However, when she was brought into that assembly hall, Krishna did perform a pure deed that was extremely difﬁcult. Like a boat in the midst of the ocean, she freed herself and the Pandavas from that difﬁcult situation{70}. When Krishna stood before her fathers-in-law in that assembly hall, the son of the suta{71} spoke to her. ‘O Yajnaseni! You have no other recourse left. Go to Dhritarashtra’s house. They have been defeated and are no longer your husbands. O beautiful one! Choose another man as your husband.’ This was as heart-rending as a stake. They were extremely terrible and pierced the heart. Karna’s words were like arrows that possessed great energy. They were embedded in Bibhatsu Phalguna’s heart. When they donned garments that were made of black antelope skin, Duhshasana also spoke these harsh words. ‘All of you are like sterile and destroyed sesamum seeds. You have been ruined and will go to heaven for a very long time.’ Shakuni, the deceitful king of Gandhara, spoke to the Parthas at the time of gambling with the dice. ‘Nakula has been won. What stake is left other than Krishna Yajnaseni{72}?’ O Sanjaya! You yourself know these reprehensible words that were spoken at the time of the gambling.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘“I wish to go there myself, to settle matters before there is a disaster. If I can bring peace to the Kurus, without sacriﬁcing the interests of the Pandavas, I will accomplish a great and auspicious task. I will free the Kurus from the noose of death. I will speak words that are full of wisdom. They will be based on dharma and will be in conformity with the principles of non-violence. When I go there, I hope the Kurus honour me and the sons of Dhritarashtra listen to my words. If it is otherwise, Phalguna will ride on his chariot and Bhima will arm himself for war. Know that because of their own evil deeds, the wretched sons of Dhritarashtra will be burnt down. When the Pandavas were vanquished{73}, Dhritarashtra’s son spoke many terrible words. Wielding a club in his hand, the enraged Bhimasena will remind Duryodhana about these at the right moment. The angry Suyodhana is a giant tree. Karna is the trunk and Shakuni constitutes the branches. Duhshasana is the abundance of ﬂowers and fruit. The foolish King Dhritarashtra is the root. Yudhishthira is a giant tree that is full of dharma. Arjuna is the trunk and Bhimasena constitutes the branches. The sons of Madri constitute the abundance of ﬂowers and fruit. The brahman and brahmanas constitute the root. King Dhritarashtra and his sons are the forest. O Sanjaya! The Pandavas are the tigers. Do not cut down the forest with its tigers. Do not banish the tigers from the forest. Without the forest, the tiger is killed. Without the tigers, the forest is cut down. Therefore, the tiger protects the forest and the forest sustains the tiger. O Sanjaya! Dhritarashtra’s sons are like the creepers of dharma, but the Pandavas are shala trees. A creeper cannot grow without resorting to a large tree. The Parthas are positioned to serve, but those scorchers of enemies are also positioned, ready to ﬁght. Let Dhritarashtra, lord of men, decide on what he has to do. The greatsouled Pandavas are the followers of dharma and are positioned for peace. But they are capable of ﬁghting. O learned one! Relate this accurately.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 5
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“I wish to go there myself, to settle matters before there is a disaster. If I can bring peace to the Kurus, without sacriﬁcing the interests of the Pandavas, I will accomplish a great and auspicious task. I will free the Kurus from the noose of death. I will speak words that are full of wisdom. They will be based on dharma and will be in conformity with the principles of non-violence. When I go there, I hope the Kurus honour me and the sons of Dhritarashtra listen to my words. If it is otherwise, Phalguna will ride on his chariot and Bhima will arm himself for war. Know that because of their own evil deeds, the wretched sons of Dhritarashtra will be burnt down. When the Pandavas were vanquished{73}, Dhritarashtra’s son spoke many terrible words. Wielding a club in his hand, the enraged Bhimasena will remind Duryodhana about these at the right moment. The angry Suyodhana is a giant tree. Karna is the trunk and Shakuni constitutes the branches. Duhshasana is the abundance of ﬂowers and fruit. The foolish King Dhritarashtra is the root. Yudhishthira is a giant tree that is full of dharma. Arjuna is the trunk and Bhimasena constitutes the branches. The sons of Madri constitute the abundance of ﬂowers and fruit. The brahman and brahmanas constitute the root. King Dhritarashtra and his sons are the forest. O Sanjaya! The Pandavas are the tigers. Do not cut down the forest with its tigers. Do not banish the tigers from the forest. Without the forest, the tiger is killed. Without the tigers, the forest is cut down. Therefore, the tiger protects the forest and the forest sustains the tiger. O Sanjaya! Dhritarashtra’s sons are like the creepers of dharma, but the Pandavas are shala trees. A creeper cannot grow without resorting to a large tree. The Parthas are positioned to serve, but those scorchers of enemies are also positioned, ready to ﬁght. Let Dhritarashtra, lord of men, decide on what he has to do. The greatsouled Pandavas are the followers of dharma and are positioned for peace. But they are capable of ﬁghting. O learned one! Relate this accurately.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 6
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "’",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        }
+      }
+    },
+    "693": {
+      "global_number": 693,
+      "local_number": 30,
+      "num_shlokas": 47,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Sanjaya said, “O god among gods among men! O Pandava! I will now take your leave and go. May you be fortunate. As a result of the distress in my mind, I hope I have not spoken words that should not be spoken and caused you distress. I am taking my leave of Janardana, Bhimasena, Arjuna, Madri’s sons, Satyaki and Chekitana. May you be happy and prosperous. O kings! Look at me with eyes that are full of equanimity.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O god among gods among men! O Pandava! I will now take your leave and go. May you be fortunate. As a result of the distress in my mind, I hope I have not spoken words that should not be spoken and caused you distress. I am taking my leave of Janardana, Bhimasena, Arjuna, Madri’s sons, Satyaki and Chekitana. May you be happy and prosperous. O kings! Look at me with eyes that are full of equanimity.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Yudhishthira replied, “O Sanjaya! With our permission, depart in peace. You have not said anything unpleasant. They know, and all of us know, that when you speak in the midst of an assembly hall, you are pure in your soul. O Sanjaya! You were sent as an appropriate messenger. You are extremely dear to us. You have spoken words full of welfare and you have exhibited good conduct. O suta! Your views have not been clouded by delusion. When we have spoken the truth, you have not been angered. You have not spoken harsh and piercing words. Nor have you spoken bitter and acerbic words. O suta! We know that your words are guided by dharma and artha and that they are full of meaning, not meant to hurt. For us, you are a beloved messenger. Vidura is the only other one who could have come here. In earlier times, we have seen you frequently. You are our friend, like Dhananjaya himself. O Sanjaya! Having quickly departed from here, serve the brahmanas who are deserving of worship. They are pure and brave and are devoted to the Vedas{74}. They have been born in noble lineages and have all the qualities of dharma. The brahmanas are devoted to studying and live on alms. There are ascetics who always live in the forest. Greet all the elders on my behalf. O raconteur! Ask about the welfare of each one.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! With our permission, depart in peace. You have not said anything unpleasant. They know, and all of us know, that when you speak in the midst of an assembly hall, you are pure in your soul. O Sanjaya! You were sent as an appropriate messenger. You are extremely dear to us. You have spoken words full of welfare and you have exhibited good conduct. O suta! Your views have not been clouded by delusion. When we have spoken the truth, you have not been angered. You have not spoken harsh and piercing words. Nor have you spoken bitter and acerbic words. O suta! We know that your words are guided by dharma and artha and that they are full of meaning, not meant to hurt. For us, you are a beloved messenger. Vidura is the only other one who could have come here. In earlier times, we have seen you frequently. You are our friend, like Dhananjaya himself. O Sanjaya! Having quickly departed from here, serve the brahmanas who are deserving of worship. They are pure and brave and are devoted to the Vedas{74}. They have been born in noble lineages and have all the qualities of dharma. The brahmanas are devoted to studying and live on alms. There are ascetics who always live in the forest. Greet all the elders on my behalf. O raconteur! Ask about the welfare of each one.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“You must meet King Dhritarashtra’s priest, his preceptors and all his sacriﬁcial priests{75}. O son{76}! You must greet each one, as he deserves. O suta! You must meet each one and ask about his welfare. Our beloved preceptor{77} follows brahmacharya and the Vedas and never deviates from the right course of action. You must greet and honour Drona, as he deserves. He is the one who made the four techniques of weaponry known again{78}. You must swiftly go to Ashvatthama and ask about his welfare. He has studied and follows the Vedas{79}. He is the one who made the four techniques of weaponry known again. He is as swift as the son of a gandharva. You must then go to the abode of Sharadvat’s son{80}. He is a maharatha and supreme among those who know about weapons. O Sanjaya! You must remember me repeatedly and touch Kripa’s feet with your hand. You must also grasp the feet of Bhishma, supreme among the Kurus, and mention me to him. Valour, non-violence, austerities, wisdom, good conduct, learning and fortitude reside in him. O Sanjaya! You must salute the aged king{81} and tell him that I am well. He governs the Kurus with the sight of wisdom. He is extremely learned and the learned one tends to the aged.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“You must meet King Dhritarashtra’s priest, his preceptors and all his sacriﬁcial priests{75}. O son{76}! You must greet each one, as he deserves. O suta! You must meet each one and ask about his welfare. Our beloved preceptor{77} follows brahmacharya and the Vedas and never deviates from the right course of action. You must greet and honour Drona, as he deserves. He is the one who made the four techniques of weaponry known again{78}. You must swiftly go to Ashvatthama and ask about his welfare. He has studied and follows the Vedas{79}. He is the one who made the four techniques of weaponry known again. He is as swift as the son of a gandharva. You must then go to the abode of Sharadvat’s son{80}. He is a maharatha and supreme among those who know about weapons. O Sanjaya! You must remember me repeatedly and touch Kripa’s feet with your hand. You must also grasp the feet of Bhishma, supreme among the Kurus, and mention me to him. Valour, non-violence, austerities, wisdom, good conduct, learning and fortitude reside in him. O Sanjaya! You must salute the aged king{81} and tell him that I am well. He governs the Kurus with the sight of wisdom. He is extremely learned and the learned one tends to the aged.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“O Sanjaya! Dhritarashtra’s eldest son is evil, stupid, deceitful and prone to bad conduct. He now rules over the entire earth. O son{82}! You must ask about Suyodhana’s welfare. O Sanjaya! His younger brother is equally evil. He has always been like him in conduct{83}. He is a great archer and supreme among the Kuru warriors. O son{84}! You must ask about Duhshasana’s welfare. O son{85}! You must ask about the welfare of the son of the vaishya{86}. He has never liked the idea of a war. He is immensely wise and has all the qualities of dharma. He is supreme among all wise ones and is never confused. O son{87}! Ask about the welfare of Chitrasena{88}. He is unmatched in cutting and playing with dice{89}. He is extremely deceitful and is skilled in gambling and knows the heart of the dice. He is incapable of being defeated in duels with the dice. You must greet the learned bull of the Bahlika lineage, who has always had no other desire than that of there being peace among the Bharatas. He may happily greet me again, as he used to do earlier. It is my view that Somadatta must also be honoured. He is supreme among those who possess all the qualities. He is learned and is never cruel. Because of his affection, he has always endured all the injury{90}. O Sanjaya! Somadatta’s son{91} is the most venerable among the Kurus. He is our brother and friend. He is a great archer and supreme among charioteers. Ask him about his welfare and that of his advisers. There are other young ones who are chief among the Kurus. They are our sons, grandsons and brothers. If you meet them along the way, on my behalf, ask about their welfare. Dhritarashtra’s son has assembled kings to ﬁght against the Pandavas. There are the foremost among the Vasatis, the Shalvakas, the Kekayas, the Ambashthas and the Trigartas. There are brave ones from the east, the north, the south, the west and all the mountainous regions. They are non-violent and are proper in conduct. O son{92}! Ask all of them about their welfare. There are those who ride on elephants, horses and chariots, infantry and large masses of aryas. Tell all of them that I am in good health. Ask all of them if they are in good health. There are advisers who have been appointed by the king. There are gatekeepers and others who lead the army. There are those who calculate revenue and expenditure. There are great ones who think about his{93} welfare. The king from the mountainous region of Gandhara, Shakuni, is unrivalled in cutting and playing with the dice. O suta! He heightens the honour of Dhritarashtra’s son. O son{94}! He is false in his intelligence. But ask him about his welfare. O son{95}! Ask about Vaikartana’s{96} welfare. He is unmatched in deluding the deluded. The Pandavas are impossible to vanquish. But alone, on a single chariot, that brave one hopes to defeat them. Ask about the welfare of the inﬁnitely intelligent and far-sighted Vidura. He is devoted to us. He is our senior and our servant. He is our father, our mother and our well-wisher. He is our adviser.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! Dhritarashtra’s eldest son is evil, stupid, deceitful and prone to bad conduct. He now rules over the entire earth. O son{82}! You must ask about Suyodhana’s welfare. O Sanjaya! His younger brother is equally evil. He has always been like him in conduct{83}. He is a great archer and supreme among the Kuru warriors. O son{84}! You must ask about Duhshasana’s welfare. O son{85}! You must ask about the welfare of the son of the vaishya{86}. He has never liked the idea of a war. He is immensely wise and has all the qualities of dharma. He is supreme among all wise ones and is never confused. O son{87}! Ask about the welfare of Chitrasena{88}. He is unmatched in cutting and playing with dice{89}. He is extremely deceitful and is skilled in gambling and knows the heart of the dice. He is incapable of being defeated in duels with the dice. You must greet the learned bull of the Bahlika lineage, who has always had no other desire than that of there being peace among the Bharatas. He may happily greet me again, as he used to do earlier. It is my view that Somadatta must also be honoured. He is supreme among those who possess all the qualities. He is learned and is never cruel. Because of his affection, he has always endured all the injury{90}. O Sanjaya! Somadatta’s son{91} is the most venerable among the Kurus. He is our brother and friend. He is a great archer and supreme among charioteers. Ask him about his welfare and that of his advisers. There are other young ones who are chief among the Kurus. They are our sons, grandsons and brothers. If you meet them along the way, on my behalf, ask about their welfare. Dhritarashtra’s son has assembled kings to ﬁght against the Pandavas. There are the foremost among the Vasatis, the Shalvakas, the Kekayas, the Ambashthas and the Trigartas. There are brave ones from the east, the north, the south, the west and all the mountainous regions. They are non-violent and are proper in conduct. O son{92}! Ask all of them about their welfare. There are those who ride on elephants, horses and chariots, infantry and large masses of aryas. Tell all of them that I am in good health. Ask all of them if they are in good health. There are advisers who have been appointed by the king. There are gatekeepers and others who lead the army. There are those who calculate revenue and expenditure. There are great ones who think about his{93} welfare. The king from the mountainous region of Gandhara, Shakuni, is unrivalled in cutting and playing with the dice. O suta! He heightens the honour of Dhritarashtra’s son. O son{94}! He is false in his intelligence. But ask him about his welfare. O son{95}! Ask about Vaikartana’s{96} welfare. He is unmatched in deluding the deluded. The Pandavas are impossible to vanquish. But alone, on a single chariot, that brave one hopes to defeat them. Ask about the welfare of the inﬁnitely intelligent and far-sighted Vidura. He is devoted to us. He is our senior and our servant. He is our father, our mother and our well-wisher. He is our adviser.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘“O Sanjaya! The aged women who possess all the qualities are regarded by us like our mothers. Meet with all those aged women when they are assembled together, and on our behalf, show them honour. ‘O those among you who have sons who are alive! Do your sons treat you properly and without violence?’ O Sanjaya! Having said this, subsequently tell them that Ajatashatru and his sons are well{97}. O Sanjaya! There are those whom you know to be our wives{98}. O son{99}! All of them should be asked about their welfare. ‘Are you protected properly? Do you have fragrances? Are you uncensured and not distracted when you undertake the duties of the household? O fortunate ones! Do you behave properly towards your fathers-in-law? Are you well and are you treated without violence? Can you ensure your own conducts, so that your husbands remain devoted towards you?’ O Sanjaya! There are those whom you know to be our daughters-in-law{100}. They have all the qualities and have been born in noble lineages. When you meet them, tell them that Yudhishthira has happily saluted those mothers of children. O Sanjaya! You must meet the maidens in their houses. On my behalf, you must ask them about their welfare and say, ‘May you be fortunate and may you have husbands who are devoted to you. May you also be devoted to your husbands.’ O son{101}! You must ask about the welfare of the courtesan women. ‘Do you have ornaments, garments and fragrances? Are you happy and prosperous, without being frightened? Are your visits short? Are your words shorter{102}?’ The sons of the servant maids, the servants of the Kurus, the many hunchbacked and crippled ones who have sought refuge, must be told that I am well. Ask how the worst among them fares. ‘Do you continue to be engaged in your old pursuits? Does Dhritarashtra’s son provide you objects of pleasure? There are those who have lost limbs, or are miserable, or dwarfs. Does Dhritarashtra’s son treat you non-violently?’ There are many who are blind and aged. There are many who have to earn a living through their hands. Tell them that I am well and ask how the worst among them fares. ‘Do not be unhappy because of this sorry life. This must be because of sins committed in earlier lives. After subduing my enemies through the aid of my well-wishers, I will sustain you with garments and food. I used to provide stipends to brahmanas. I will provide more in the future. I will see all of you properly taken care of.’ Tell the king{103} whatever you hear about their success. There are those who are unprotected, weak and always stupid, preoccupied with their own selves. They are miserable in every way. O son{104}! You must ask about their welfare on my behalf.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! The aged women who possess all the qualities are regarded by us like our mothers. Meet with all those aged women when they are assembled together, and on our behalf, show them honour. ‘O those among you who have sons who are alive! Do your sons treat you properly and without violence?’ O Sanjaya! Having said this, subsequently tell them that Ajatashatru and his sons are well{97}. O Sanjaya! There are those whom you know to be our wives{98}. O son{99}! All of them should be asked about their welfare. ‘Are you protected properly? Do you have fragrances? Are you uncensured and not distracted when you undertake the duties of the household? O fortunate ones! Do you behave properly towards your fathers-in-law? Are you well and are you treated without violence? Can you ensure your own conducts, so that your husbands remain devoted towards you?’ O Sanjaya! There are those whom you know to be our daughters-in-law{100}. They have all the qualities and have been born in noble lineages. When you meet them, tell them that Yudhishthira has happily saluted those mothers of children. O Sanjaya! You must meet the maidens in their houses. On my behalf, you must ask them about their welfare and say, ‘May you be fortunate and may you have husbands who are devoted to you. May you also be devoted to your husbands.’ O son{101}! You must ask about the welfare of the courtesan women. ‘Do you have ornaments, garments and fragrances? Are you happy and prosperous, without being frightened? Are your visits short? Are your words shorter{102}?’ The sons of the servant maids, the servants of the Kurus, the many hunchbacked and crippled ones who have sought refuge, must be told that I am well. Ask how the worst among them fares. ‘Do you continue to be engaged in your old pursuits? Does Dhritarashtra’s son provide you objects of pleasure? There are those who have lost limbs, or are miserable, or dwarfs. Does Dhritarashtra’s son treat you non-violently?’ There are many who are blind and aged. There are many who have to earn a living through their hands. Tell them that I am well and ask how the worst among them fares. ‘Do not be unhappy because of this sorry life. This must be because of sins committed in earlier lives. After subduing my enemies through the aid of my well-wishers, I will sustain you with garments and food. I used to provide stipends to brahmanas. I will provide more in the future. I will see all of you properly taken care of.’ Tell the king{103} whatever you hear about their success. There are those who are unprotected, weak and always stupid, preoccupied with their own selves. They are miserable in every way. O son{104}! You must ask about their welfare on my behalf.",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘“O son of a suta! There are others who have sought refuge with Dhritarashtra’s son, arriving from many directions. On seeing them, or anyone who is deserving of honour, ask if they are well in every way. There are those who have come and others who are arriving—kings and messengers from all the directions. O suta! Ask all of them about their welfare. Later, you should tell them that I am well. There are no warriors on earth who are equal to the ones Dhritarashtra’s son has obtained. But dharma is eternal. And my dharma is that all immensely strong enemies must be destroyed. O Sanjaya! You must make Dhritarashtra’s son, Suyodhana, listen to my ﬁnal words. ‘The heart in your body has a desire to rule the Kurus without any rivals. This has no rationale. We will not do anything that doesn’t bring you pleasure. Give us our Shakrapura{105}. O foremost among the warriors of the Bharata lineage! Otherwise, be prepared to ﬁght.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O son of a suta! There are others who have sought refuge with Dhritarashtra’s son, arriving from many directions. On seeing them, or anyone who is deserving of honour, ask if they are well in every way. There are those who have come and others who are arriving—kings and messengers from all the directions. O suta! Ask all of them about their welfare. Later, you should tell them that I am well. There are no warriors on earth who are equal to the ones Dhritarashtra’s son has obtained. But dharma is eternal. And my dharma is that all immensely strong enemies must be destroyed. O Sanjaya! You must make Dhritarashtra’s son, Suyodhana, listen to my ﬁnal words. ‘The heart in your body has a desire to rule the Kurus without any rivals. This has no rationale. We will not do anything that doesn’t bring you pleasure. Give us our Shakrapura{105}. O foremost among the warriors of the Bharata lineage! Otherwise, be prepared to ﬁght.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "’",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        }
+      }
+    },
+    "694": {
+      "global_number": 694,
+      "local_number": 31,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “O Sanjaya! The creator places the righteous, the unrighteous, the young, the old, the weak and the strong under his control. The lord grants learning to children and childishness to the learned. He grants all this when he provides the seed in a being. There is no need to tell you more. You will report it the way it actually is, now that we have cheerfully consulted each other. O son of Gavalgana! Go to the Kurus and show homage to the immensely strong Dhritarashtra. Touch his feet and ask about his welfare. When he is seated, surrounded by the Kurus, tell him, ‘O king! It is through your valour that the Pandavas are living happily. O destroyer of enemies! It is through your favours that they obtained a kingdom while they were still young. After having established them in a kingdom ﬁrst, do not destroy them by ignoring them now.’ O Sanjaya! No one should enjoy everything alone. ‘O father! We will live together. Do not fall prey to enmity.’ In the same way, lower your head in homage and recount my name to Shantanu’s son, Bhishma, the grandfather of the Bharatas. After having greeted him, you should tell the grandfather, ‘When Shantanu’s lineage was drowning, you rescued it once{106}. O father{107}! O grandfather! Act again in that fashion so that your grandsons live with affection among themselves.’ You should speak in the same way to Vidura, the adviser to the Kurus. ‘O peaceful one! O one who wishes for the welfare of Yudhishthira! Speak words of peace.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "“O Sanjaya! The creator places the righteous, the unrighteous, the young, the old, the weak and the strong under his control. The lord grants learning to children and childishness to the learned. He grants all this when he provides the seed in a being. There is no need to tell you more. You will report it the way it actually is, now that we have cheerfully consulted each other. O son of Gavalgana! Go to the Kurus and show homage to the immensely strong Dhritarashtra. Touch his feet and ask about his welfare. When he is seated, surrounded by the Kurus, tell him, ‘O king! It is through your valour that the Pandavas are living happily. O destroyer of enemies! It is through your favours that they obtained a kingdom while they were still young. After having established them in a kingdom ﬁrst, do not destroy them by ignoring them now.’ O Sanjaya! No one should enjoy everything alone. ‘O father! We will live together. Do not fall prey to enmity.’ In the same way, lower your head in homage and recount my name to Shantanu’s son, Bhishma, the grandfather of the Bharatas. After having greeted him, you should tell the grandfather, ‘When Shantanu’s lineage was drowning, you rescued it once{106}. O father{107}! O grandfather! Act again in that fashion so that your grandsons live with affection among themselves.’ You should speak in the same way to Vidura, the adviser to the Kurus. ‘O peaceful one! O one who wishes for the welfare of Yudhishthira! Speak words of peace.’",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“Then you should repeatedly speak to the intolerant Prince Suyodhana, entreating him when he is seated in the midst of the Kurus. When Krishna was brought alone into the assembly hall, evil was done towards her. But we ignored it patiently, so that the Kurus might not be slaughtered. The Pandavas have borne hardships earlier and will do so again, though they are stronger now. All the Kurus know this. ‘O peaceful one! You sent us into exile, with deerskin as our garments. We bore those miseries, so that the Kurus might not be slaughtered. When Duhshasana, with your approval, oppressed Krishna by the hair in the assembly hall, we overlooked that also. O scorcher of enemies! But we will ﬁght for our rightful share now. O bull among men! Turn your mind away from avarice and from grasping the possessions of others. O king! Let there be peace and harmony amongst us. We wish for peace. Give us one province from your kingdom—Kushasthala, Vrikosthala, Asanti, Varanavata and whichever else you pick as the ﬁfth and the last. O Suyodhana! Give ﬁve villages to the brothers{108}.’ O Sanjaya! O immensely wise one! Let there be peace between us and our relatives. Let brother be united with brother, and let father be united with son. With smiles, let the Panchalas mingle with the Kurus. I desire to see the Kurus and the Panchalas uninjured. O son{109}! O bull among the Bharata lineage! Let all of us live happily in peace. O Sanjaya! I am as ready for peace, as I am for war. For the sake of dharma and artha, I can be mild. But I can also be terrible.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "‘",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Then you should repeatedly speak to the intolerant Prince Suyodhana, entreating him when he is seated in the midst of the Kurus. When Krishna was brought alone into the assembly hall, evil was done towards her. But we ignored it patiently, so that the Kurus might not be slaughtered. The Pandavas have borne hardships earlier and will do so again, though they are stronger now. All the Kurus know this. ‘O peaceful one! You sent us into exile, with deerskin as our garments. We bore those miseries, so that the Kurus might not be slaughtered. When Duhshasana, with your approval, oppressed Krishna by the hair in the assembly hall, we overlooked that also. O scorcher of enemies! But we will ﬁght for our rightful share now. O bull among men! Turn your mind away from avarice and from grasping the possessions of others. O king! Let there be peace and harmony amongst us. We wish for peace. Give us one province from your kingdom—Kushasthala, Vrikosthala, Asanti, Varanavata and whichever else you pick as the ﬁfth and the last. O Suyodhana! Give ﬁve villages to the brothers{108}.’ O Sanjaya! O immensely wise one! Let there be peace between us and our relatives. Let brother be united with brother, and let father be united with son. With smiles, let the Panchalas mingle with the Kurus. I desire to see the Kurus and the Panchalas uninjured. O son{109}! O bull among the Bharata lineage! Let all of us live happily in peace. O Sanjaya! I am as ready for peace, as I am for war. For the sake of dharma and artha, I can be mild. But I can also be terrible.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@yudhishthira",
+              "text": "’",
+              "color": "#F4D35E",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        }
+      }
+    },
+    "695": {
+      "global_number": 695,
+      "local_number": 32,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘With the permission of Pandava, Sanjaya then departed, having carried out all the instructions of the great-souled Dhritarashtra. Having reached Hastinapura, he entered swiftly and reaching the inner quarters, told the gatekeeper, “O gatekeeper! Tell Dhritarashtra that I have returned after meeting the Pandavas. If he is awake, tell him that Kshatta{110} wishes to enter after the king knows about his return.” The gatekeeper said, “O lord of the earth! I bow down before you. Sanjaya is here and is waiting at the gate, wishing to meet you. Your messenger has returned, after meeting the Pandavas. O king! Issue orders about what he should do.” Dhritarashtra replied, “Tell him that I am well and am waiting for him. Let Sanjaya be welcome and let him enter. I have always been ready for him. Why is Kshatta waiting at the gate then?” With the king’s permission, the son of a suta entered the large palace that was protected by wise and brave aryas. The king who was Vichitravirya’s son was seated on a throne and he joined his hands in salutation. Sanjaya said, “O lord of the earth! I am Sanjaya and I am bowing down before you. I have returned after meeting the Pandavas, gods among men. Yudhishthira, Pandu’s intelligent son, has greeted you and has asked about your welfare. O king! He has affectionately asked about your sons and wishes to know if you are happy with your sons and grandsons, and with your well-wishers and advisers, and with all those who are earning a living through you.” Dhritarashtra replied, “O son{111}! O Sanjaya! I am greeting you on your return. Is Partha Ajatashatru happy? Is the king well with his sons, his advisers and the younger Kouravas{112}?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘With the permission of Pandava, Sanjaya then departed, having carried out all the instructions of the great-souled Dhritarashtra.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Having reached Hastinapura, he entered swiftly and reaching the inner quarters, told the gatekeeper",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@hastinapura",
+              "text": "“O gatekeeper! Tell Dhritarashtra that I have returned after meeting the Pandavas. If he is awake, tell him that Kshatta{110} wishes to enter after the king knows about his return.”",
+              "color": "#4ED9A0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The gatekeeper said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_gatekeeper",
+              "text": "“O lord of the earth! I bow down before you. Sanjaya is here and is waiting at the gate, wishing to meet you. Your messenger has returned, after meeting the Pandavas. O king! Issue orders about what he should do.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“Tell him that I am well and am waiting for him. Let Sanjaya be welcome and let him enter. I have always been ready for him. Why is Kshatta waiting at the gate then?”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "With the king’s permission, the son of a suta entered the large palace that was protected by wise and brave aryas. The",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "king who was Vichitravirya’s son was seated on a throne and he joined his hands in salutation. Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@who_was_vichitravirya",
+              "text": "“O lord of the earth! I am Sanjaya and I am bowing down before you. I have returned after meeting the Pandavas, gods among men. Yudhishthira, Pandu’s intelligent son, has greeted you and has asked about your welfare. O king! He has affectionately asked about your sons and wishes to know if you are happy with your sons and grandsons, and with your well-wishers and advisers, and with all those who are earning a living through you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O son{111}! O Sanjaya! I am greeting you on your return. Is Partha Ajatashatru happy? Is the king well with his sons, his advisers and the younger Kouravas{112}?”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Sanjaya said, “Pandu’s son is well with his advisers, even more than you had had known him earlier. The intelligent one does that which ensures dharma and artha. He is extremely learned, has foresight and follows good conduct. The non-violent Pandava is devoted to supreme dharma. He thinks that dharma is superior to riches. O descendant of the Bharata lineage! Those who know him know that he will not follow happiness or pleasure that is against the norms of dharma. A man is controlled by others{113}, like a wooden puppet on a string. When I witness Pandava’s hardships, I think that earlier karma{114} determines the destiny of beings. On seeing the taints of your deeds, with the evil it leads to and its terrible form, I think that as long as a man desires that which is right, a man obtains praise. Ajatashatru has given up evil, like a snake discards its useless skin. Having transferred sins to you, the brave Yudhishthira is resplendent in his conduct. O king! Learn how your deeds have harmed you. They are not united with dharma and artha and are not the conduct of aryas. O king! You have only obtained ill fame. That evil cannot be removed and will be with you in the hereafter. You have ignored them and have followed your son and wish to obtain an objective that is impossible to attain. The earth has loudly proclaimed that this is adharma. O foremost among those of the Bharata lineage! This was not an act that was worthy of you. One who is weak in intelligence, one who is born from an inferior lineage, one who is violent, one who remembers enmity for a long time, one who does not know about the conduct of kshatriyas and one who is weak in valour, such a person will not be able to overcome the disaster that adharma brings. One who is born in a noble lineage, one who follows dharma, one who is famous, one who is greatly learned, one who is in control of his soul and one who places dharma and artha over everything else, such a person lives happily. In no other way, can one overcome destiny. How can one who has intelligent advisers, who are well versed in the canons of dharma and artha, be foolish enough to commit such a violent act, as if one did not possess all the good counsel? These learned advisers have assembled together and have always advised about your tasks. They have arrived at the ﬁrm conviction that the hell that will wreak the destruction of the Kurus is imminent. The Kurus will be destroyed before their time, if Ajatashatru counters the evil with evil and passes on the evil to you. There will be censure for you in this world. Was it not in accordance with the will of the gods that Partha set his eyes on the supreme world{115}? He ascended there, and was honoured. There is no doubt that this wasn’t because of human action. In examining the qualities of deeds, that which has been and that which will be, King Bali came to the conclusion that the present was transient{116}. He decided that destiny was the root cause of everything. The eyes, the ears, the nose, the skin and the tongue—these are the sources of knowledge for beings. When the thirst has been quenched, these are content. Therefore, one should happily control them{117}. There are others who think that if performed well, a man’s deeds take on forms of their own. The child is the outcome of the deeds of the mother and the father and in due course, grows through the intake of food. O king! One is subject to pleasant and unpleasant, happiness and unhappiness, censure and praise. One censures others for committing a crime and praises them for good conduct. I censure you for discord among the Bharatas. This will lead to the destruction of many beings. Because of the crimes of your deeds, the Kurus will be burnt up, like the one with the black form{118} burns up dry wood. O king! O Indra among kings! Among all those in this world, you alone have come under the control of the sons that were born to you. At the time of the gambling match, you praised the one whose soul was overtaken by desire. Now witness the calamity that has been brought down on him. O Indra among men! You accepted those who are unworthy. O king! You rejected those who are worthy. O Kouravya! You are now feeble and are incapable of protecting this extensive earth. I am exhausted from the speed of the chariot. O lion among men! I seek your permission to sleep. In the assembly hall tomorrow, the assembled Kurus will listen to the words that Ajatashatru has sent.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“Pandu’s son is well with his advisers, even more than you had had known him earlier. The intelligent one does that which ensures dharma and artha. He is extremely learned, has foresight and follows good conduct. The non-violent Pandava is devoted to supreme dharma. He thinks that dharma is superior to riches. O descendant of the Bharata lineage! Those who know him know that he will not follow happiness or pleasure that is against the norms of dharma. A man is controlled by others{113}, like a wooden puppet on a string. When I witness Pandava’s hardships, I think that earlier karma{114} determines the destiny of beings. On seeing the taints of your deeds, with the evil it leads to and its terrible form, I think that as long as a man desires that which is right, a man obtains praise. Ajatashatru has given up evil, like a snake discards its useless skin. Having transferred sins to you, the brave Yudhishthira is resplendent in his conduct. O king! Learn how your deeds have harmed you. They are not united with dharma and artha and are not the conduct of aryas. O king! You have only obtained ill fame. That evil cannot be removed and will be with you in the hereafter. You have ignored them and have followed your son and wish to obtain an objective that is impossible to attain. The earth has loudly proclaimed that this is adharma. O foremost among those of the Bharata lineage! This was not an act that was worthy of you. One who is weak in intelligence, one who is born from an inferior lineage, one who is violent, one who remembers enmity for a long time, one who does not know about the conduct of kshatriyas and one who is weak in valour, such a person will not be able to overcome the disaster that adharma brings. One who is born in a noble lineage, one who follows dharma, one who is famous, one who is greatly learned, one who is in control of his soul and one who places dharma and artha over everything else, such a person lives happily. In no other way, can one overcome destiny. How can one who has intelligent advisers, who are well versed in the canons of dharma and artha, be foolish enough to commit such a violent act, as if one did not possess all the good counsel? These learned advisers have assembled together and have always advised about your tasks. They have arrived at the ﬁrm conviction that the hell that will wreak the destruction of the Kurus is imminent. The Kurus will be destroyed before their time, if Ajatashatru counters the evil with evil and passes on the evil to you. There will be censure for you in this world. Was it not in accordance with the will of the gods that Partha set his eyes on the supreme world{115}? He ascended there, and was honoured. There is no doubt that this wasn’t because of human action. In examining the qualities of deeds, that which has been and that which will be, King Bali came to the conclusion that the present was transient{116}. He decided that destiny was the root cause of everything. The eyes, the ears, the nose, the skin and the tongue—these are the sources of knowledge for beings. When the thirst has been quenched, these are content. Therefore, one should happily control them{117}. There are others who think that if performed well, a man’s deeds take on forms of their own. The child is the outcome of the deeds of the mother and the father and in due course, grows through the intake of food. O king! One is subject to pleasant and unpleasant, happiness and unhappiness, censure and praise. One censures others for committing a crime and praises them for good conduct. I censure you for discord among the Bharatas. This will lead to the destruction of many beings. Because of the crimes of your deeds, the Kurus will be burnt up, like the one with the black form{118} burns up dry wood. O king! O Indra among kings! Among all those in this world, you alone have come under the control of the sons that were born to you. At the time of the gambling match, you praised the one whose soul was overtaken by desire. Now witness the calamity that has been brought down on him. O Indra among men! You accepted those who are unworthy. O king! You rejected those who are worthy. O Kouravya! You are now feeble and are incapable of protecting this extensive earth. I am exhausted from the speed of the chariot. O lion among men! I seek your permission to sleep. In the assembly hall tomorrow, the assembled Kurus will listen to the words that Ajatashatru has sent.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

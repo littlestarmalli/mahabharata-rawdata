@@ -1,0 +1,1190 @@
+{
+  "chapter": 283,
+  "local": 58,
+  "shlokas": 43,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shakuni said, “O Yudhisthira! You have lost great riches of the Pandavas. O Kounteya! Do you have any other riches that you have not lost yet?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhisthira! You have lost great riches of the Pandavas. O Kounteya! Do you have any other riches that you have not lost yet?”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “O Shakuni! O Soubala! I know of unlimited riches that I possess. Why do you ask me about my wealth? I can stake ayuta{168}, prayuta{169}, kharva{170}, padma{171}, arbuda{172}, shamkha{173}, nikharva{174} and an entire ocean{175}. O king! These are my riches that I will play with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shakuni! O Soubala! I know of unlimited riches that I possess. Why do you ask me about my wealth? I can stake ayuta{168}, prayuta{169}, kharva{170}, padma{171}, arbuda{172}, shamkha{173}, nikharva{174} and an entire ocean{175}. O king! These are my riches that I will play with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “O Soubala! I have many cattle, horses, milch cows, sheep and goats, of many species, to the east of the Sindhu{176}. O king! These are my riches that I will play with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Soubala! I have many cattle, horses, milch cows, sheep and goats, of many species, to the east of the Sindhu{176}. O king! These are my riches that I will play with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “O king! The riches that I have left are my city, the country, the land of all the non-brahmanas and the nonbrahmana subjects. O king! These are my riches that I will play with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! The riches that I have left are my city, the country, the land of all the non-brahmanas and the nonbrahmana subjects. O king! These are my riches that I will play with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhisthira replied, “O king! These princes{177} are resplendent in their ornaments, their earrings, the golden decorations on their breasts and the other bodily decorations. O king! These are my riches that I will play with you for.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhisthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhisthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! These princes{177} are resplendent in their ornaments, their earrings, the golden decorations on their breasts and the other bodily decorations. O king! These are my riches that I will play with you for.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “This dark youth with the red eyes is Nakula, with long arms and the shoulders of a lion. He and everything that he possesses will be one stake.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This dark youth with the red eyes is Nakula, with long arms and the shoulders of a lion. He and everything that he possesses will be one stake.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O King Yudhisthira! But Prince Nakula is dear to you. If he becomes part of our riches, what will you have left to gamble with?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O King Yudhisthira! But Prince Nakula is dear to you. If he becomes part of our riches, what will you have left to gamble with?”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having said this, Shakuni then ﬂung the dice and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having said this, Shakuni then ﬂung the dice and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “This Sahadeva is the one who administers dharma. He is known in the worlds as a learned one. Though this beloved prince does not deserve it, I will play with him with one who is not loved{178}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This Sahadeva is the one who administers dharma. He is known in the worlds as a learned one. Though this beloved prince does not deserve it, I will play with him with one who is not loved{178}.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O king! I have now won Madri's two sons, dear to you. But I think you regard Bhimasena and Dhananjaya as dearer.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! I have now won Madri's two sons, dear to you. But I think you regard Bhimasena and Dhananjaya as dearer.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “O foolish one! Without regard to what is proper, you are following that which is not dharma. You are trying to create dissension among those who are one of heart.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O foolish one! Without regard to what is proper, you are following that which is not dharma. You are trying to create dissension among those who are one of heart.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O king! O bull among the Bharata lineage! One who is intoxicated falls into a hole and remains there, like the trunk of a tree. You are our elder and our superior. I bow down before you. O Yudhishthira! When gamblers play, they utter mad ravings about what they have not seen, whether asleep or awake.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O bull among the Bharata lineage! One who is intoxicated falls into a hole and remains there, like the trunk of a tree. You are our elder and our superior. I bow down before you. O Yudhishthira! When gamblers play, they utter mad ravings about what they have not seen, whether asleep or awake.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “Like a boat, he carries us over to the other bank of battle. He is a powerful prince who defeats his enemies. The world knows that this warrior does not deserve it. O Shakuni! I will play with you for Phalguna{179}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Like a boat, he carries us over to the other bank of battle. He is a powerful prince who defeats his enemies. The world knows that this warrior does not deserve it. O Shakuni! I will play with you for Phalguna{179}.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 19,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 20,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “Pandava Savyasachi, the foremost archer among the Pandavas, has been won and has become mine. O king! Now play with your beloved Bhima. That is all you now have left to throw.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Pandava Savyasachi, the foremost archer among the Pandavas, has been won and has become mine. O king! Now play with your beloved Bhima. That is all you now have left to throw.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 21,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “He is our leader and guide in battle. He is like the wielder of the vajra{180}, the enemy of the demons. He is great of soul, with slanted eyes and knitted brows. His shoulders are like those of a lion and his anger is long-lasting. There is no other man with strength like his. He is the slayer of enemies and foremost among those who wield the club. O king! Though this prince does not deserve it, I will play with you for Bhimasena.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“He is our leader and guide in battle. He is like the wielder of the vajra{180}, the enemy of the demons. He is great of soul, with slanted eyes and knitted brows. His shoulders are like those of a lion and his anger is long-lasting. There is no other man with strength like his. He is the slayer of enemies and foremost among those who wield the club. O king! Though this prince does not deserve it, I will play with you for Bhimasena.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 22,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 23,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O Kounteya! You have lost a great deal of riches. You have lost your brothers, your horses and your elephants. Tell us if there are any riches that you have not yet lost.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kounteya! You have lost a great deal of riches. You have lost your brothers, your horses and your elephants. Tell us if there are any riches that you have not yet lost.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 24,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “I myself am left, especially loved by all my brothers. If won over, until the time of destruction, I will do whatever deed I am asked to do.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I myself am left, especially loved by all my brothers. If won over, until the time of destruction, I will do whatever deed I am asked to do.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 25,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words, Shakuni resorted to deceit and told Yudhishthira, “I have won.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words, Shakuni resorted to deceit and told Yudhishthira, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 26,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni said, “O king! You have allowed yourself to be won and you have committed the worst evil act. When there are riches left, it is evil to allow oneself to be won.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! You have allowed yourself to be won and you have committed the worst evil act. When there are riches left, it is evil to allow oneself to be won.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 27,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Thus spoke the one who was skilled in gambling with the dice. He had won in the game, one by one, the brave warriors of the world.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus spoke the one who was skilled in gambling with the dice. He had won in the game, one by one, the brave warriors of the world.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 28,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shakuni said, “But you have your beloved queen, who has still not been won in the game. Use Krishna Panchali{181} as a stake and using her, win back yourself.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“But you have your beloved queen, who has still not been won in the game. Use Krishna Panchali{181} as a stake and using her, win back yourself.”",
+          "speaker": "@shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 29,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira replied, “She is neither too short, nor too tall. She is neither too dark, nor too red. Her eyes are red with love and I will play with you for her. Her eyes are like the petals of lotuses in the autumn. Her fragrance is like that of lotuses in the autumn. Her beauty serves that of lotuses in the autumn. Her beauty is like that of Shri herself. Such is her lack of cruelty, her wealth of beauty and the goodness of her conduct, that every man desires her for a wife. She retires to bed last and she is the ﬁrst one to wake up. She looks after the cowherds and the shepherds. She knows everything about what should be done and what should not be done. When covered with sweat, her face looks like a lotus or a jasmine. Her waist is shaped like an altar. Her hair is long. Her eyes are copper-red. She does not have too much of body hair. O king! O Soubala! I will make the beautiful Droupadi of Panchala, slender of waist, my stake. Let us play.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“She is neither too short, nor too tall. She is neither too dark, nor too red. Her eyes are red with love and I will play with you for her. Her eyes are like the petals of lotuses in the autumn. Her fragrance is like that of lotuses in the autumn. Her beauty serves that of lotuses in the autumn. Her beauty is like that of Shri herself. Such is her lack of cruelty, her wealth of beauty and the goodness of her conduct, that every man desires her for a wife. She retires to bed last and she is the ﬁrst one to wake up. She looks after the cowherds and the shepherds. She knows everything about what should be done and what should not be done. When covered with sweat, her face looks like a lotus or a jasmine. Her waist is shaped like an altar. Her hair is long. Her eyes are copper-red. She does not have too much of body hair. O king! O Soubala! I will make the beautiful Droupadi of Panchala, slender of waist, my stake. Let us play.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 30,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When the intelligent Dharmaraja uttered these words, all the elders assembled in the sabha raised words of “shame”. O king! The sabha seemed to shake and the kings talked among themselves. Bhishma, Drona, Kripa and the others broke out in sweat. Vidura buried his head in his hands and sat with a downcast face, thinking and sighing like a serpent, like one who has lost his senses. But Dhritarashtra was delighted and failing to control his emotions, repeatedly kept asking, “Has he won? Has the stake been won?” Karna, Duhshasana and their allies were happy. But tears began to ﬂow down the eyes of others who were in the assembly hall. However, Soubala was insolent with success and proud of victory. He instantly ﬂung the dice and said, “I have won.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the intelligent Dharmaraja uttered these words, all the elders assembled in the sabha raised words of ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“shame”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": ". O king! The sabha seemed to shake and the kings talked among themselves. Bhishma, Drona, Kripa and the others broke out in sweat. Vidura buried his head in his hands and sat with a downcast face, thinking and sighing like a serpent, like one who has lost his senses. But Dhritarashtra was delighted and failing to control his emotions, repeatedly kept asking, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Has he won? Has the stake been won?”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Karna, Duhshasana and their allies were happy. But tears began to ﬂow down the eyes of others who were in the assembly hall. However, Soubala was insolent with success and proud of victory. He instantly ﬂung the dice and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have won.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

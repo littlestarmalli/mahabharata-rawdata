@@ -1,0 +1,380 @@
+{
+  "chapter": 92,
+  "local": 92,
+  "shlokas": 55,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘King Pratipa was always devoted to the welfare of all beings. He spent many years in meditation, on the banks of the Ganga. Then Ganga assumed the form of a woman who was beautiful and had all the qualities. She arose from the waters in this desirable form. The rajarshi was studying.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘King Pratipa was always devoted to the welfare of all beings. He spent many years in meditation, on the banks of the Ganga. Then Ganga assumed the form of a woman who was beautiful and had all the qualities. She arose from the waters in this desirable form. The rajarshi was studying.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘This divine and intelligent one with a beautiful face came and sat on his right thigh, which was like a shala tree. Pratipa, lord of the earth, asked the intelligent one, “O fortunate one! What can I do to bring you pleasure? What is your desire?” The lady said, “O king! O best of the Kurus! I desire you. I offer myself. Accept me and love me in return. Those who are wise always consider evil the act of refusing a woman who is full of desire.” Pratipa replied, “O beautiful one! Out of desire, I can never go to another man's wife or to one who is not equal to me in varna. O fortunate one! Know that this is the vow I have taken for the sake of dharma.” The lady said, “I am never undesirable. I am never one with whom union is forbidden. I am never malignant. I am a divine lady and supreme in beauty. O king! Love me, as I wish to love you.” Pratipa replied, “I must refrain from doing what brings you pleasure. I have taken a vow and if I break it, dharma will bring about my destruction. O beautiful lady! You have seated yourself on my right thigh. O timid one! That is the seat earmarked for daughters and daughters-in-law. The left is the seat for the woman one ﬁnds pleasure with. But you have rejected it. O beautiful one! Therefore, I cannot satisfy desire with you. O fortunate one! I accept you for my son. Be my daughter-in-law. The left thigh is for the wife, but you have not accepted that.” The lady said, “O one who is learned in dharma! Let it be as you say. Let me be united with your son. Out of my love for you, I will love the famous Bharata lineage. Your dynasty is the refuge of all the kings on earth. Even if I take 100 years, I will not be able to recount the qualities of this dynasty, whose fame and righteousness is supreme. But he must not know my high birth. Nor must he ever question what I do. Living with your son in this way, I will make him happy and bring about his welfare. Because of his sons, his righteous conduct and his merits, your son will attain heaven.” O king! Having said this, she disappeared.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘This divine and intelligent one with a beautiful face came and sat on his right thigh, which was like a shala tree. Pratipa, lord of the earth, asked the intelligent one, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O fortunate one! What can I do to bring you pleasure? What is your desire?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The lady said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_lady",
+          "introduces_label": "The lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O best of the Kurus! I desire you. I offer myself. Accept me and love me in return. Those who are wise always consider evil the act of refusing a woman who is full of desire.”",
+          "speaker": "the_lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Pratipa replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@pratipa",
+          "introduces_label": "Pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O beautiful one! Out of desire, I can never go to another man's wife or to one who is not equal to me in varna. O fortunate one! Know that this is the vow I have taken for the sake of dharma.”",
+          "speaker": "@pratipa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The lady said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_lady",
+          "introduces_label": "The lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am never undesirable. I am never one with whom union is forbidden. I am never malignant. I am a divine lady and supreme in beauty. O king! Love me, as I wish to love you.”",
+          "speaker": "the_lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Pratipa replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@pratipa",
+          "introduces_label": "Pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I must refrain from doing what brings you pleasure. I have taken a vow and if I break it, dharma will bring about my destruction. O beautiful lady! You have seated yourself on my right thigh. O timid one! That is the seat earmarked for daughters and daughters-in-law. The left is the seat for the woman one ﬁnds pleasure with. But you have rejected it. O beautiful one! Therefore, I cannot satisfy desire with you. O fortunate one! I accept you for my son. Be my daughter-in-law. The left thigh is for the wife, but you have not accepted that.”",
+          "speaker": "@pratipa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The lady said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_lady",
+          "introduces_label": "The lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O one who is learned in dharma! Let it be as you say. Let me be united with your son. Out of my love for you, I will love the famous Bharata lineage. Your dynasty is the refuge of all the kings on earth. Even if I take 100 years, I will not be able to recount the qualities of this dynasty, whose fame and righteousness is supreme. But he must not know my high birth. Nor must he ever question what I do. Living with your son in this way, I will make him happy and bring about his welfare. Because of his sons, his righteous conduct and his merits, your son will attain heaven.”",
+          "speaker": "the_lady",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! Having said this, she disappeared.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The king waited for his son to be born and for the promise to be fulﬁlled. O descendant of the Kuru lineage! Meanwhile, Pratipa, bull among the Kshatriyas, performed austerities with his wife, so as to obtain a son. Though they were old, a son was born to them and this son was Mahabhisha. He was known as Shantanu, because he was born when his father had controlled his senses{203}. Remebering that the eternal worlds can only be conquered through one's own deeds, Shantanu, supreme of the Kuru lineage, devoted himself to sacred conduct. When his son Shantanu became a youth, Pratipa told him, “O Shantanu! Earlier, a lady had approached me for your welfare. O son! If that divine and beautiful lady comes to you in secret and desires you so as to obtain offspring, you must not question her about who she is and who she belongs to. O unblemished one! You must not question any of her acts. I tell you that you must love her as she loves you.” Having thus commanded his son and instated him on the throne, King Pratipa departed for the forest.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The king waited for his son to be born and for the promise to be fulﬁlled. O descendant of the Kuru lineage! Meanwhile, Pratipa, bull among the Kshatriyas, performed austerities with his wife, so as to obtain a son. Though they were old, a son was born to them and this son was Mahabhisha. He was known as Shantanu, because he was born when his father had controlled his senses{203}. Remebering that the eternal worlds can only be conquered through one's own deeds, Shantanu, supreme of the Kuru lineage, devoted himself to sacred conduct. When his son Shantanu became a youth, Pratipa told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@pratipa",
+          "introduces_label": "Pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shantanu! Earlier, a lady had approached me for your welfare. O son! If that divine and beautiful lady comes to you in secret and desires you so as to obtain offspring, you must not question her about who she is and who she belongs to. O unblemished one! You must not question any of her acts. I tell you that you must love her as she loves you.”",
+          "speaker": "@pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having thus commanded his son and instated him on the throne, King Pratipa departed for the forest.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘King Shantanu was intelligent and became a famous archer on earth. He loved hunting and spent a lot of time in the forest. Once, that best of kings killed many deer and buffaloes. Wandering alone along the banks of the Ganga, he came to a place frequented by the siddhas and the charanas. One day, the king saw there a supreme woman, dazzling in her beauty like the lotus-seated Shri{204} herself. Her body was faultless and her teeth were beautiful. She was adorned with divine ornaments. She was alone and she wore sheer garments that were as beautiful as the ﬁlaments of a lotus. The king was astounded at the beauty of her form and the hair on his body stood up in rapture. The lord of men gazed at her with his eyes, but was not satisﬁed. On seeing the radiant king move around, she also felt love and affection for him and the wanton one wasn't satisﬁed. The king then addressed her in a gentle voice. “O beautiful one! O one with the slender waist! Are you from the race of gods, demons, gandharvas, apsaras, yakshas or pannagas, or are you human? You seem to be born of the gods. Whoever you are, please be my wife.” Hearing these soft words from the smiling king, that unblemished one remembered the promise she had made to the vasus. She spoke to the king, gladdening his heart with her words. “O lord of the earth! I will be your queen and will obey your words. O king! But you must not interfere in my acts, regardless of whether they please or displease you. You must never try to stop me or speak to me harshly. O king! As long as you act in the way I have asked you to, I will be with you. But I will certainly leave you whenever you try to stop me or speak to me harshly.” The best of the Bharata lineage agreed. At that, the lady was delighted to have obtained that supreme of kings as her husband.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘King Shantanu was intelligent and became a famous archer on earth. He loved hunting and spent a lot of time in the forest. Once, that best of kings killed many deer and buffaloes. Wandering alone along the banks of the Ganga, he came to a place frequented by the siddhas and the charanas. One day, the king saw there a supreme woman, dazzling in her beauty like the lotus-seated Shri{204} herself. Her body was faultless and her teeth were beautiful. She was adorned with divine ornaments. She was alone and she wore sheer garments that were as beautiful as the ﬁlaments of a lotus. The king was astounded at the beauty of her form and the hair on his body stood up in rapture. The lord of men gazed at her with his eyes, but was not satisﬁed. On seeing the radiant king move around, she also felt love and affection for him and the wanton one wasn't satisﬁed. The king then addressed her in a gentle voice. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O beautiful one! O one with the slender waist! Are you from the race of gods, demons, gandharvas, apsaras, yakshas or pannagas, or are you human? You seem to be born of the gods. Whoever you are, please be my wife.”",
+          "speaker": "@pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Hearing these soft words from the smiling king, that unblemished one remembered the promise she had made to the vasus. She spoke to the king, gladdening his heart with her words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth! I will be your queen and will obey your words. O king! But you must not interfere in my acts, regardless of whether they please or displease you. You must never try to stop me or speak to me harshly. O king! As long as you act in the way I have asked you to, I will be with you. But I will certainly leave you whenever you try to stop me or speak to me harshly.”",
+          "speaker": "@pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The best of the Bharata lineage agreed. At that, the lady was delighted to have obtained that supreme of kings as her husband.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Having obtained her, Shantanu was also delighted. He pleasured with her as he desired and remembering the promise, refrained from asking her anything. The lord of the earth was extremely pleased with her conduct, beauty, generosity, qualities and secret art of love. The divine Ganga, who courses the three worlds, assumed a beautiful and radiant human form and lived happily as an obedient wife to Shantanu, that lion among kings. He was as radiant as the king of the gods himself and his love waxed, as his fortune did. She pleased the king with her skilled love making, intelligence, coquetry and demeanour and the king loved her as much as she did. The king was so addicted to desire and the qualities of his supreme wife that many years, seasons and months passed by without him being aware. When the lord of men thus united with her when desire seized them, eight sons were borne by her, each resembling a god. O descendant of the Bharata lineage! As soon as each son was born, one after another, she ﬂung them into the waters of the Ganga, saying, “This is for your own good.” This did not please King Shantanu. But the lord of the earth did not dare to utter a word, for fear of losing her.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having obtained her, Shantanu was also delighted. He pleasured with her as he desired and remembering the promise, refrained from asking her anything. The lord of the earth was extremely pleased with her conduct, beauty, generosity, qualities and secret art of love. The divine Ganga, who courses the three worlds, assumed a beautiful and radiant human form and lived happily as an obedient wife to Shantanu, that lion among kings. He was as radiant as the king of the gods himself and his love waxed, as his fortune did. She pleased the king with her skilled love making, intelligence, coquetry and demeanour and the king loved her as much as she did. The king was so addicted to desire and the qualities of his supreme wife that many years, seasons and months passed by without him being aware. When the lord of men thus united with her when desire seized them, eight sons were borne by her, each resembling a god. O descendant of the Bharata lineage! As soon as each son was born, one after another, she ﬂung them into the waters of the Ganga, saying, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This is for your own good.”",
+          "speaker": "@pratipa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " This did not please King Shantanu. But the lord of the earth did not dare to utter a word, for fear of losing her.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘When the eighth son was born and she seemed to be smiling, the king, who desired a son, miserably told her, “Do not kill him. Who are you? Who do you belong to? Why do you kill your sons? As a murderer of your sons, you are committing a great sin. O evil one! Do not commit sin. Desist.” Ganga replied, “Since you desire a son, I will not kill this son. You will become the supreme father of a son. But following our agreement, my stay here has come to an end. I am Ganga, the daughter of Jahnu and worshipped by large numbers of maharshis. I have lived with you so far to accomplish the wishes of the gods. These were the eight vasus, immensely fortunate and immensely energetic gods. As a result of a curse imposed by Vashishtha, they had to be born in human form. There was no better father than you on earth and no human mother in this world who could equal me. Therefore, I assumed human form to become their mother. By becoming the father of the eight vasus, you have conquered the eternal worlds. My agreement with the divine vasus was that I should free them from their human birth as soon as each was born. I have thus freed them from the curse imposed by the great-souled Apava{205}. Be fortunate. I must leave now. Rear this son. He will be rigid in his vows. My promise to the vasus that I would live with you is over. Let this son, born from me, be known as Gangadatta{206}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the eighth son was born and she seemed to be smiling, the king, who desired a son, miserably told her, ",
+          "speaker": "@vaishampayana",
+          "introduces": "miserably",
+          "introduces_label": "miserably",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Do not kill him. Who are you? Who do you belong to? Why do you kill your sons? As a murderer of your sons, you are committing a great sin. O evil one! Do not commit sin. Desist.”",
+          "speaker": "miserably",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Ganga replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@ganga",
+          "introduces_label": "Ganga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Since you desire a son, I will not kill this son. You will become the supreme father of a son. But following our agreement, my stay here has come to an end. I am Ganga, the daughter of Jahnu and worshipped by large numbers of maharshis. I have lived with you so far to accomplish the wishes of the gods. These were the eight vasus, immensely fortunate and immensely energetic gods. As a result of a curse imposed by Vashishtha, they had to be born in human form. There was no better father than you on earth and no human mother in this world who could equal me. Therefore, I assumed human form to become their mother. By becoming the father of the eight vasus, you have conquered the eternal worlds. My agreement with the divine vasus was that I should free them from their human birth as soon as each was born. I have thus freed them from the curse imposed by the great-souled Apava{205}. Be fortunate. I must leave now. Rear this son. He will be rigid in his vows. My promise to the vasus that I would live with you is over. Let this son, born from me, be known as Gangadatta{206}.’",
+          "speaker": "@ganga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

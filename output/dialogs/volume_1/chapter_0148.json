@@ -1,0 +1,100 @@
+{
+  "chapter": 148,
+  "local": 148,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Kunti said, “I wish to learn exactly from you the reason for this grief. On learning it, I will remove the cause from you, if it can be removed.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Kunti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kunti",
+          "introduces_label": "Kunti",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I wish to learn exactly from you the reason for this grief. On learning it, I will remove the cause from you, if it can be removed.”",
+          "speaker": "@kunti",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Brahmana said, “O lady blessed with austerities! What you have said is worthy of righteous ones. But removal of this grief is beyond humans. Not far from this town lives a rakshasa named Baka. That immensely powerful one is the lord of this town and this country. That evil-minded maneater, chief among asuras, and with the power of rakshasas, rules over and protects this town, this country and this region, sustained through human ﬂesh. Thus protected by him, we have no fear from any encirclement by enemies or any living beings. But his stipend has been ﬁxed to a supply of food—a cartload of rice, two buffaloes and the human who takes these to him. One after another, all the people provide him with food. After intervals of many years, this difﬁcult task comes to a particular man and it is impossible to escape. If men ever try to escape their turn, the rakshasa eats them up, with their wives and children.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The Brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lady blessed with austerities! What you have said is worthy of righteous ones. But removal of this grief is beyond humans. Not far from this town lives a rakshasa named Baka. That immensely powerful one is the lord of this town and this country. That evil-minded maneater, chief among asuras, and with the power of rakshasas, rules over and protects this town, this country and this region, sustained through human ﬂesh. Thus protected by him, we have no fear from any encirclement by enemies or any living beings. But his stipend has been ﬁxed to a supply of food—a cartload of rice, two buffaloes and the human who takes these to him. One after another, all the people provide him with food. After intervals of many years, this difﬁcult task comes to a particular man and it is impossible to escape. If men ever try to escape their turn, the rakshasa eats them up, with their wives and children.",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king lives in a place known as Vetrakiyagriha. But he makes no efforts to free his subjects from this danger for good. We deserve all of this, because we live in continued harassment in the kingdom of a weak and incompetent king. Brahmanas are free to live, as they wish, on anyone's land{11}. They base themselves on their qualities and like birds freely go where they will. It is said that ﬁrst one should ﬁnd a king, then a wife, and then riches. By acquiring all three, one can maintain one's relatives and one's sons. But in acquiring these three, I have chosen the wrong order. Therefore, having fallen into this danger, I am suffering great grief. It is now my turn and it will destroy my family. I shall have to provide food and a man as stipend. I don't have the riches to purchase a man. Nor am I able to give up someone who is dear to me. I do not see any means of saving myself from that rakshasa. I am immersed in this great ocean of grief from which no escape seems possible. Today, I will go to that rakshasa with my entire family, so that the evil one can eat all of us together.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king lives in a place known as Vetrakiyagriha. But he makes no efforts to free his subjects from this danger for good. We deserve all of this, because we live in continued harassment in the kingdom of a weak and incompetent king. Brahmanas are free to live, as they wish, on anyone's land{11}. They base themselves on their qualities and like birds freely go where they will. It is said that ﬁrst one should ﬁnd a king, then a wife, and then riches. By acquiring all three, one can maintain one's relatives and one's sons. But in acquiring these three, I have chosen the wrong order. Therefore, having fallen into this danger, I am suffering great grief. It is now my turn and it will destroy my family. I shall have to provide food and a man as stipend. I don't have the riches to purchase a man. Nor am I able to give up someone who is dear to me. I do not see any means of saving myself from that rakshasa. I am immersed in this great ocean of grief from which no escape seems possible. Today, I will go to that rakshasa with my entire family, so that the evil one can eat all of us together.”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

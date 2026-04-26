@@ -1,0 +1,226 @@
+{
+  "chapter": 83,
+  "local": 83,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Indra said, “O king! O son of Nahusha! O Yayati! After accomplishing all your deeds, you left your home and departed for the forest. Tell me, who are you equal to in your austerities? I am asking you.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O son of Nahusha! O Yayati! After accomplishing all your deeds, you left your home and departed for the forest. Tell me, who are you equal to in your austerities? I am asking you.”",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yayati replied, “O Vasava{159}! I do not see anyone equal to me in austerities among gods, men, gandharvas and maharshis.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yayati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Vasava{159}! I do not see anyone equal to me in austerities among gods, men, gandharvas and maharshis.”",
+          "speaker": "@yayati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Indra said, “O king! Since you are disrespecting those who are your superiors, equals and inferiors, without knowing their powers, these worlds will end for you now. Your merits will diminish and you will fall.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Since you are disrespecting those who are your superiors, equals and inferiors, without knowing their powers, these worlds will end for you now. Your merits will diminish and you will fall.”",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yayati replied, “O Shakra! O king of the gods! Since my disrespect for gods, rishis, gandharvas and men have diminished me and made me lose these worlds, I wish that when I am deprived of the world of the gods, I should fall among righteous men.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yayati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shakra! O king of the gods! Since my disrespect for gods, rishis, gandharvas and men have diminished me and made me lose these worlds, I wish that when I am deprived of the world of the gods, I should fall among righteous men.”",
+          "speaker": "@yayati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Indra said, “O king! You will fall among those who are righteous. There you will again obtain great standing. O Yayati! After knowing this, you will never again show disrespect for your superiors and your equals.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! You will fall among those who are righteous. There you will again obtain great standing. O Yayati! After knowing this, you will never again show disrespect for your superiors and your equals.”",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At that, Yayati fell from the sacred worlds, frequented by the king of the gods. While he was falling, rajarshi Ashtaka, the protector of true dharma, saw him. Ashtaka asked, “O youth! Who are you? You are like Vasava in your form and blaze like the ﬁre with your own radiance. Why are you falling like the sun, the chief among those in the sky and the dispeller of masses of dark clouds? On seeing you fall from the sun's path, as immeasurably radiant as the sun or the ﬁre, everyone is wondering at what is falling among us and is being deprived of consciousness. On seeing you traverse the path of the gods, equal in radiance to Surya, Indra and Vishnu, we have all arisen and come together, to ask you the reason for your downfall. O one whose beauty causes envy! Had you asked us ﬁrst who we were, we would not have committed the impudence of asking you ﬁrst. But we now ask you, who are you and why have you come here? O one with Indra's powers! Let your fear be dispelled. Let your misery and delusion end. You are now in the presence of those who are righteous. Even Shakra, the killer of Bala, will not dare to harm you here. O one who is equal to the king of the gods! Righteous ones always provide standing to those who have been deprived of their happiness. Righteous ones are lords of the movable and the immovable. Righteous ones are assembled here and you are among them, those who are like you. Fire is the lord of burning. Earth is the lord of sowing. The sun is the lord of light. Like that, a guest is the lord of the righteous.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At that, Yayati fell from the sacred worlds, frequented by the king of the gods. While he was falling, rajarshi Ashtaka, the protector of true dharma, saw him. Ashtaka asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@ashtaka",
+          "introduces_label": "Ashtaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O youth! Who are you? You are like Vasava in your form and blaze like the ﬁre with your own radiance. Why are you falling like the sun, the chief among those in the sky and the dispeller of masses of dark clouds? On seeing you fall from the sun's path, as immeasurably radiant as the sun or the ﬁre, everyone is wondering at what is falling among us and is being deprived of consciousness. On seeing you traverse the path of the gods, equal in radiance to Surya, Indra and Vishnu, we have all arisen and come together, to ask you the reason for your downfall. O one whose beauty causes envy! Had you asked us ﬁrst who we were, we would not have committed the impudence of asking you ﬁrst. But we now ask you, who are you and why have you come here? O one with Indra's powers! Let your fear be dispelled. Let your misery and delusion end. You are now in the presence of those who are righteous. Even Shakra, the killer of Bala, will not dare to harm you here. O one who is equal to the king of the gods! Righteous ones always provide standing to those who have been deprived of their happiness. Righteous ones are lords of the movable and the immovable. Righteous ones are assembled here and you are among them, those who are like you. Fire is the lord of burning. Earth is the lord of sowing. The sun is the lord of light. Like that, a guest is the lord of the righteous.”",
+          "speaker": "@ashtaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

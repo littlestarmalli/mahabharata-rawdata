@@ -1,0 +1,300 @@
+{
+  "chapter": 181,
+  "local": 181,
+  "shlokas": 40,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Those bulls among the Brahmanas shook their deerskins and water pots{29} and said, “Do not be frightened. We will ﬁght with the enemies.” Arjuna smilingly told those Brahmanas, “Stand aside as spectators. I will repulse those kings, like poisonous snakes, with mantras, with showers of hundreds of sharp-pointed arrows.” Having said this, the maharatha took up the bow he had obtained as dowry and accompanied by his brother Bhima stood there like an immovable mountain. Seeing the Kshatriyas, with Karna leading them, furious to do battle, they fell upon them, like two elephants against hostile elephants. Eager to ﬁght, those kings then said, “It is permissible to kill a Brahmana who is willing to ﬁght.” Then the mighty Vaikartana{30} Karna rushed at Arjuna, eager to ﬁght, like an elephant rushes at a rival over a female elephant. Shalya, king of the Madras, rushed at Bhimasena. Duryodhana and the others rushed at the Brahmanas, but they fought with them lightly and carelessly.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those bulls among the Brahmanas shook their deerskins and water pots{29} and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Do not be frightened. We will ﬁght with the enemies.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna smilingly told those Brahmanas, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Stand aside as spectators. I will repulse those kings, like poisonous snakes, with mantras, with showers of hundreds of sharp-pointed arrows.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having said this, the maharatha took up the bow he had obtained as dowry and accompanied by his brother Bhima stood there like an immovable mountain. Seeing the Kshatriyas, with Karna leading them, furious to do battle, they fell upon them, like two elephants against hostile elephants. Eager to ﬁght, those kings then said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is permissible to kill a Brahmana who is willing to ﬁght.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then the mighty Vaikartana{30} Karna rushed at Arjuna, eager to ﬁght, like an elephant rushes at a rival over a female elephant. Shalya, king of the Madras, rushed at Bhimasena. Duryodhana and the others rushed at the Brahmanas, but they fought with them lightly and carelessly.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Seeing Vaikartana Karna rush towards him, the wise Arjuna stretched his mighty bow and pierced him with three arrows. The impact of these sharp arrows stunned Radheya{31} and he approached with greater circumspection. Then those two invincible warriors fought violently, each eager to vanquish the other. Such was the speed that they became invisible{32}. “Look at the strength in my arms”, “See how I countered that”, they taunted each other in words that only warriors understand. Seeing the valour in Arjuna's arms, unparalleled on earth, Vaikartana Karna fought even more vigorously. Repulsing Arjuna's swift arrows, Karna shouted out aloud and the warriors applauded his feat.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Seeing Vaikartana Karna rush towards him, the wise Arjuna stretched his mighty bow and pierced him with three arrows. The impact of these sharp arrows stunned Radheya{31} and he approached with greater circumspection. Then those two invincible warriors fought violently, each eager to vanquish the other. Such was the speed that they became invisible{32}. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Look at the strength in my arms”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": ", ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“See how I countered that”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": ", they taunted each other in words that only warriors understand. Seeing the valour in Arjuna's arms, unparalleled on earth, Vaikartana Karna fought even more vigorously. Repulsing Arjuna's swift arrows, Karna shouted out aloud and the warriors applauded his feat.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Karna said, “O foremost among Brahmanas! I am pleased with the strength of your arms, which do not tire in battle, and with your persistent control over weapons. O supreme among Brahmanas! Are you Rama{33}, the personiﬁcation of the knowledge of weapons{34}? Or are you Harihaya{35} himself? Or are you Achyuta Vishnu himself? Have you assumed the form of a Brahmana to disguise yourself and are now ﬁghting strongly with me for self-preservation, mustering the strength of your arms? When I am angry in the ﬁeld of battle, no one except Shachi's husband{36} and Pandava Kiriti{37} can withstand me.” Hearing these words, Phalguni{38} replied, “O Karna! I am not the science of weapons personiﬁed. Nor am I the powerful Rama. I am only a Brahmana, chief among warriors and supreme among those who have the knowledge of weapons. Through my preceptor's grace, I have become skilled in the use of brahma and paurandara{39} weapons. O warrior! Wait for a bit. I stand here today, to vanquish you in battle.” At these words, Radheya Karna withdrew from the battle, because the maharatha thought that Brahmana strength was invincible.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Karna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O foremost among Brahmanas! I am pleased with the strength of your arms, which do not tire in battle, and with your persistent control over weapons. O supreme among Brahmanas! Are you Rama{33}, the personiﬁcation of the knowledge of weapons{34}? Or are you Harihaya{35} himself? Or are you Achyuta Vishnu himself? Have you assumed the form of a Brahmana to disguise yourself and are now ﬁghting strongly with me for self-preservation, mustering the strength of your arms? When I am angry in the ﬁeld of battle, no one except Shachi's husband{36} and Pandava Kiriti{37} can withstand me.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Hearing these words, Phalguni{38} replied, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Karna! I am not the science of weapons personiﬁed. Nor am I the powerful Rama. I am only a Brahmana, chief among warriors and supreme among those who have the knowledge of weapons. Through my preceptor's grace, I have become skilled in the use of brahma and paurandara{39} weapons. O warrior! Wait for a bit. I stand here today, to vanquish you in battle.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At these words, Radheya Karna withdrew from the battle, because the maharatha thought that Brahmana strength was invincible.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘In another part of the arena, Shalya and Vrikodara, both warriors with great strength and knowledge of ﬁghting, were engaged in battle. Calling out to each other, they fought like two mad and great elephants, striking each other with clenched ﬁsts and knees. For a while, they dragged each other around in the duel. Then the immensely powerful Bhima raised Shalya up with his arms and hurled him down on the ground. The Brahmanas began to laugh. Bhimasena, bull among men, surprised everyone{40}. But though he hurled the powerful one on the ground, he did not kill him. When Shalya was thus hurled down by Bhima and Karna scared away, all the other kings were frightened and surrounded Vrikodara. They said, “These bulls among Brahmanas are supreme. Let us ﬁnd out in what lineage they were born and where they live. Who can ﬁght with Radheya Karna in battle except Rama, Drona, Sharadvata Kripa{41}, Devaki's son Krishna and Phalguni, the scorcher of enemies? Who can ﬁght against Duryodhana and who can vanquish in battle the powerful Shalya, king of Madra and chief among warriors, except the brave Baladeva and Pandava Vrikodara? Therefore, let us desist from this ﬁght against the Brahmanas. Let us ﬁnd out who they are and then we will happily ﬁght with them again.” On witnessing Bhima's feat, Krishna believed them to be Kunti's sons. He gently restrained the assembled kings and said, “This lady has been won according to dharma.” Thereupon, those best of kings, skilled in battle, refrained from the ﬁght and returned to their kingdoms, wonderstruck. Those who had assembled there went away, exclaiming that the Brahmanas had won the day and Panchali had become the wife of a Brahmana.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘In another part of the arena, Shalya and Vrikodara, both warriors with great strength and knowledge of ﬁghting, were engaged in battle. Calling out to each other, they fought like two mad and great elephants, striking each other with clenched ﬁsts and knees. For a while, they dragged each other around in the duel. Then the immensely powerful Bhima raised Shalya up with his arms and hurled him down on the ground. The Brahmanas began to laugh. Bhimasena, bull among men, surprised everyone{40}. But though he hurled the powerful one on the ground, he did not kill him. When Shalya was thus hurled down by Bhima and Karna scared away, all the other kings were frightened and surrounded Vrikodara. They said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“These bulls among Brahmanas are supreme. Let us ﬁnd out in what lineage they were born and where they live. Who can ﬁght with Radheya Karna in battle except Rama, Drona, Sharadvata Kripa{41}, Devaki's son Krishna and Phalguni, the scorcher of enemies? Who can ﬁght against Duryodhana and who can vanquish in battle the powerful Shalya, king of Madra and chief among warriors, except the brave Baladeva and Pandava Vrikodara? Therefore, let us desist from this ﬁght against the Brahmanas. Let us ﬁnd out who they are and then we will happily ﬁght with them again.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On witnessing Bhima's feat, Krishna believed them to be Kunti's sons. He gently restrained the assembled kings and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This lady has been won according to dharma.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thereupon, those best of kings, skilled in battle, refrained from the ﬁght and returned to their kingdoms, wonderstruck. Those who had assembled there went away, exclaiming that the Brahmanas had won the day and Panchali had become the wife of a Brahmana.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Surrounded by Brahmanas attired in the skins of deer and other animals, Bhimasena and Dhananjaya found it difﬁcult to pass. Eventually, those radiant warriors among men freed themselves from the crowd, followed by Krishna. Their mother had been worried about various evils that might have occurred, since they were late in returning after begging for alms. She even thought that Dhritarashtra's sons might have recognized and killed those bulls among the Kurus. Had some terrible rakshasas, versed with powers of maya and ﬁrm in their enmity, killed them? However, could the great-souled Vyasa's predictions be wrong? Filled with love for her sons, these were the thoughts that occurred to Pritha. Then, late in the afternoon, Jishnu, in the company of many Brahmanas, entered with the Brahmana in the forefront{42}, like the sun surrounded by clouds.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Surrounded by Brahmanas attired in the skins of deer and other animals, Bhimasena and Dhananjaya found it difﬁcult to pass. Eventually, those radiant warriors among men freed themselves from the crowd, followed by Krishna. Their mother had been worried about various evils that might have occurred, since they were late in returning after begging for alms. She even thought that Dhritarashtra's sons might have recognized and killed those bulls among the Kurus. Had some terrible rakshasas, versed with powers of maya and ﬁrm in their enmity, killed them? However, could the great-souled Vyasa's predictions be wrong? Filled with love for her sons, these were the thoughts that occurred to Pritha. Then, late in the afternoon, Jishnu, in the company of many Brahmanas, entered with the Brahmana in the forefront{42}, like the sun surrounded by clouds.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

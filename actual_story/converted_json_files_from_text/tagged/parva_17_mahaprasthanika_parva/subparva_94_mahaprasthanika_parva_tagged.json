@@ -1,0 +1,965 @@
+{
+  "name": "Mahaprasthanika Parva",
+  "subparva_number": 94,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 3,
+    "num_shlokas": 106
+  },
+  "note": "Maha means great and prasthana means journey or departure. Thus, maha-prasthana literally means great journey, but stands for departure from this world, or death. Maha-Prasthanika Parva is about the departure of the Pandavas for the Himalayas and their deaths, one after another. It has the story of Dharma disguised as a dog and Yudhishthi-ra�s ascent to heaven, in his physical body. In the 78-parva classification, Maha-Prasthanika Parva is the 77th. In the 700-parva classification, Maha-Prasthanika Parva consists of Section 94 alone. In the numbering of the chapters in Maha-Prasthanika Parva, the first number is a consecutive one, starting with the beginning of the Mahab-harata. And the second number, within brackets, is the numbering of the chapter within Maha-Prasthanika Parva.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1988": {
+      "global_number": 1988,
+      "local_number": 1,
+      "num_shlokas": 44,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘On hearing about the duel with the clubs in the lineage of the Vrishnis and the Andhakas and on hearing that Krishna had ascended to heaven, what did the Pandavas do?’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya asked,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘On hearing about the duel with the clubs in the lineage of the Vrishnis and the Andhakas and on hearing that Krishna had ascended to heaven, what did the Pandavas do?’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana replied, ‘Hearing about the great carnage caused among the Vrishnis, King Kourava made up his mind to give up his life and spoke these words to Arjuna. “O immensely wise one! Time cooks all creatures. I think all this has happened because of that. You should also consider that.” Thus addressed, Kounteya{1} only uttered the words, “Time! Time!” He agreed with the words his valiant elder brother had spoken. Discerning Arjuna’s intention, Bhimasena and the twins also agreed with the words that had been spoken by Savyasachi. Desiring dharma, they decided to depart and summoned Yuyutsu. Yudhishthira handed over the entire kingdom to the son of a vaishya{2}. Parikshit was instated as the king in his own kingdom{3}. The king who was the eldest of the Pandava sorrowfully told Subhadra, “This son of your son will be the king of the Kurus. The last of the Yadus, Vajra, has also been made a king. Parikshit will rule in Hastinapura and the Yadava in Shakraprastha. King Vajra should be protected by you and do not think of adharma in your mind{4}.” Having said this, the intelligent Dharmaraja, with dharma in his soul, together with his mothers{5}, attentively offered water to Vasudeva, his aged maternal uncle, Rama and the others. Following the prescribed rites, he instructed that the funeral ceremonies should be performed for all of them. He gave away jewels, garments, villages, horses and chariots, women and hundreds and thousands of cattle to the best among the brahmanas. The supreme among the Bharata lineage honoured Kripa and reverentially instructed that he would be the preceptor, handing over Parikshit to him as a disciple.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Vaishampayana replied,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘Hearing about the great carnage caused among the Vrishnis,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "King Kourava made up his mind to give up his life and spoke these words to Arjuna",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kourava_made_up",
+              "text": "“O immensely wise one! Time cooks all creatures. I think all this has happened because of that. You should also consider that.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Thus addressed, Kounteya{1} only uttered the words,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@author",
+              "text": "“Time! Time!”",
+              "color": "#C8B8A2",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "He agreed with the words his valiant elder brother had spoken. Discerning Arjuna’s intention, Bhimasena and the twins also agreed with the words that had been spoken by Savyasachi. Desiring dharma, they decided to depart and summoned Yuyutsu. Yudhishthira handed over the entire kingdom to the son of a vaishya{2}. Parikshit was",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "instated as the king in his own kingdom{3}. The king who was the eldest of the Pandava sorrowfully told Subhadra",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king",
+              "text": "“This son of your son will be the king of the Kurus. The last of the Yadus, Vajra, has also been made a king. Parikshit will rule in Hastinapura and the Yadava in Shakraprastha. King Vajra should be protected by you and do not think of adharma in your mind{4}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Having said this, the intelligent Dharmaraja, with dharma in his soul, together with his mothers{5}, attentively offered water to Vasudeva, his aged maternal uncle, Rama and the others. Following the prescribed rites, he instructed that the funeral ceremonies should be performed for all of them. He gave away jewels, garments, villages, horses and chariots, women and hundreds and thousands of cattle to the best among the brahmanas. The supreme among the Bharata lineage honoured Kripa and reverentially instructed that he would be the preceptor, handing over Parikshit to him as a disciple.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Yudhishthira honoured all the ordinary people. The rajarshi told all of them what he desired to do. On hearing his words, all the people of the city and the countryside were extremely anxious in their minds and did not welcome these words. They told the king, “This should not be done.” However, knowing about the progress of time and about dharma, the king did not listen to them. The one with dharma in his soul took the permission of the residents of the city and the countryside. He had made up his mind to leave and so had his brothers. Dharma’s son, Kouravya, King Yudhishthira, took off the ornaments from his body and donned the bark of trees. O lord of men! Bhima, Arjuna, the twins and the illustrious Droupadi—all of them donned garments made from the barks of trees. O bull among the Bharata lineage! They performed all the recommended beneﬁcial rites. All the bulls among men then cast the sacred ﬁre into water{6}. On seeing the bulls among men, all the women wept. They departed, with Droupadi as the sixth, just as in earlier times, they had left after being defeated in the game with the dice. But at the prospect of departure, the brothers were cheerful. After seeing the destruction of the Vrishnis and ascertaining Yudhishthira’s view, there was no other course.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Yudhishthira honoured all the ordinary people. The rajarshi told all of them what he desired to do. On hearing his words, all the people of",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "the city and the countryside were extremely anxious in their minds and did not welcome these words. They told the king",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_city_and_the_countryside",
+              "text": "“This should not be done.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "However, knowing about the progress of time and about dharma, the king did not listen to them. The one with dharma in his soul took the permission of the residents of the city and the countryside. He had made up his mind to leave and so had his brothers. Dharma’s son, Kouravya, King Yudhishthira, took off the ornaments from his body and donned the bark of trees. O lord of men! Bhima, Arjuna, the twins and the illustrious Droupadi—all of them donned garments made from the barks of trees. O bull among the Bharata lineage! They performed all the recommended beneﬁcial rites. All the bulls among men then cast the sacred ﬁre into water{6}. On seeing the bulls among men, all the women wept. They departed, with Droupadi as the sixth, just as in earlier times, they had left after being defeated in the game with the dice. But at the prospect of departure, the brothers were cheerful. After seeing the destruction of the Vrishnis and ascertaining Yudhishthira’s view, there was no other course.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘There were the ﬁve brothers. Krishna was the sixth and a dog joined as the seventh. Including him, there were seven and the king left Gajasahvya{7}. For some distance, the citizens and the ladies of the inner quarters followed them. However, none of them was capable of speaking to them and urging them to return. Then, all the men who resided in the city returned and stood around Kripa, Yuyutsu and the others. O Kouravya! Ulupi, the daughter of a serpent, entered the waters of the Ganga. Chitrangada left for the city of Manipura. All of Parikshit’s mothers{8} surrounded him and began to instruct him.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘There were the ﬁve brothers. Krishna was the sixth and a dog joined as the seventh. Including him, there were seven and the king left Gajasahvya{7}. For some distance, the citizens and the ladies of the inner quarters followed them. However, none of them was capable of speaking to them and urging them to return. Then, all the men who resided in the city returned and stood around Kripa, Yuyutsu and the others. O Kouravya! Ulupi, the daughter of a serpent, entered the waters of the Ganga. Chitrangada left for the city of Manipura. All of Parikshit’s mothers{8} surrounded him and began to instruct him.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘O Kouravya! The great-souled Pandavas and the illustrious Droupadi fasted and headed in an eastern direction. The great-souled ones immersed themselves in yoga, having decided to follow the dharma of renunciation. They passed through many countries, rivers and mountains. Yudhishthira walked in front, followed by Bhima. Arjuna came after him, followed by the twins, in the right order. O supreme among the Bharata lineage! The beautiful Droupadi, best among women, was at the rear. She was dark and her eyes were like the petals of lotuses. When the Pandavas left for the forest, a dog followed them. Gradually, the brave ones reached Louhitya{9}, an ocean full of water. O great king! Because of his love for precious things, Dhananjaya had still not let go off the divine bow, Gandiva, or the two inexhaustible quivers. They saw Agni standing before them, like a mountain. He stood there, barring their way, adopting a human form. The god with the seven ﬂames addressed the Pandavas. “O sons of Pandu! Listen! O brave ones! Listen! Know me to be the god of ﬁre. O mighty-armed one! O Yudhishthira! O scorcher of enemies! O Bhimasena! O Arjuna! O brave sons of the Ashvins! Listen to my words. O best among the Kurus! Using the powers of Arjuna and Narayana, I burnt down Khandava{10}. Your brother, Phalguna, can only go to the forest after casting aside the supreme weapon, Gandiva, not otherwise. The jewel, the chakra, which used to be with the great-souled Krishna, has vanished. When it is time, it will again appear in his hands. For Partha’s sake, I had earlier brought Gandiva, best among bows, from Varuna. It should now be returned to Varuna.” At this, all the brothers urged Dhananjaya to do this. He ﬂung it into the water, together with the two great and inexhaustible quivers. O best of the Bharata lineage! After this, Agni vanished. The brave Pandavas now headed in a southern direction. O tiger among the Bharata lineage! On the northern shores of the salty ocean, they proceeded in a southwestern direction. Then they again headed in a western direction. They saw Dvaraka, ﬂooded by the ocean. The supreme among the Bharatas then again headed towards the north. Devoted to the dharma of yoga, they desired to circle the entire earth.’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "O Kouravya! The great-souled Pandavas and the illustrious Droupadi fasted and headed in an eastern direction. The great-souled ones immersed themselves in yoga, having decided to follow the dharma of renunciation. They passed through many countries, rivers and mountains. Yudhishthira walked in front, followed by Bhima. Arjuna came after him, followed by the twins, in the right order. O supreme among the Bharata lineage! The beautiful Droupadi, best among women, was at the rear. She was dark and her eyes were like the petals of lotuses. When the Pandavas left for the forest, a dog followed them. Gradually, the brave ones reached Louhitya{9}, an ocean full of water. O great king! Because of his love for precious things, Dhananjaya had still not let go off the divine bow, Gandiva, or the two inexhaustible quivers. They saw Agni standing before them, like a mountain. He stood there, barring their way,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "adopting a human form. The god with the seven ﬂames addressed the Pandavas",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@a_human_form",
+              "text": "“O sons of Pandu! Listen! O brave ones! Listen! Know me to be the god of ﬁre. O mighty-armed one! O Yudhishthira! O scorcher of enemies! O Bhimasena! O Arjuna! O brave sons of the Ashvins! Listen to my words. O best among the Kurus! Using the powers of Arjuna and Narayana, I burnt down Khandava{10}. Your brother, Phalguna, can only go to the forest after casting aside the supreme weapon, Gandiva, not otherwise. The jewel, the chakra, which used to be with the great-souled Krishna, has vanished. When it is time, it will again appear in his hands. For Partha’s sake, I had earlier brought Gandiva, best among bows, from Varuna. It should now be returned to Varuna.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "At this, all the brothers urged Dhananjaya to do this. He ﬂung it into the water, together with the two great and inexhaustible quivers. O best of the Bharata lineage! After this, Agni vanished. The brave Pandavas now headed in a southern direction. O tiger among the Bharata lineage! On the northern shores of the salty ocean, they proceeded in a southwestern direction. Then they again headed in a western direction. They saw Dvaraka, ﬂooded by the ocean. The supreme among the Bharatas then again headed towards the north. Devoted to the dharma of yoga, they desired to circle the entire earth.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1989": {
+      "global_number": 1989,
+      "local_number": 2,
+      "num_shlokas": 26,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Restraining their souls and immersing themselves in yoga, they headed in a northern direction. They saw the giant mountains, the Himalayas. Having passed beyond it, they saw an ocean of sand. There, they saw the giant mountain of Meru, with an excellent summit. All of them proceeded swiftly, devoting themselves to the dharma of yoga. However, Yajnaseni deviated from yoga and fell down on the ground. On seeing that she had fallen down, the immensely strong Bhimasena glanced towards Yajnaseni and spoke to Dharmaraja. “O scorcher of enemies! This princess never committed an act of adharma. O king! Why has Krishna{11} fallen down on the ground?” Yudhishthira replied, “O supreme among men! She had a great partiality for Dhananjaya. She has reaped the fruits of that.” Having said this, the king who was Dharma’s son didn’t look back. The intelligent bull among men, with dharma in his soul, controlled his mind. The intelligent Sahadeva also fell down on the ground. On seeing that he had fallen down, Bhima spoke to the king. “Without any pride, he served all of us. Why has Madravati’s{12} son fallen down on the ground?” Yudhishthira replied, “He thought that there was no one who was his equal in wisdom. O son of a king! It is because of that sin that he has fallen down.” Having said this, he left Sahadeva there and proceeded. Kounteya Yudhishthira went on, with his brothers and the dog. On seeing that Krishna and Pandava Sahadeva had fallen down, the brave Nakula, who loved his relatives, was afﬂicted and also fell down. Seeing that the handsome and brave Nakula had fallen down, Bhima spoke to the king again. “He had dharma in his soul and his adherence to it never suffered. He followed the words of his brothers. In the world, Nakula was unmatched in his beauty. Yet, he has fallen down on the ground.” Thus addressed by Bhimasena, Yudhishthira replied, “Nakula possessed dharma in his soul and was supreme among all the intelligent ones. However, he held a view, like Diti’s offspring{13}, that there was no one who was his equal in beauty. In his mind, he thought that there was no one who was superior to him. O Vrikodara! Understand. This is the reason why Nakula has fallen down. O brave one! Anything ordained for a person is bound to happen.” On seeing that they had fallen down, Pandava, the one with the white horses and the scorcher of enemies{14}, was tormented by grief and also fell down. That tiger among men possessed Shakra’s energy. On seeing that the invincible one had fallen down and was about to die, Bhima spoke to the king. “I cannot remember any falsehood that this great-souled one has wilfully uttered. What is the transgression, as a result of which, he has fallen down on the ground?” Yudhishthira replied, “Arjuna always said that he would burn down the enemy in a single day. Though he was proud of his valour, he wasn’t able to accomplish that. That is the reason he has fallen down. Phalguna disrespected all the other wielders of the bow. Those who desire their own prosperity must always act as they have spoken.” Having said this, the king proceeded. Bhima fell down. Having fallen down, Bhima addressed Dharmaraja Yudhishthira. “O king! Look towards me. I am loved by you and I have fallen down. What is the reason I have fallen down? If you know, tell me.” Yudhishthira replied, “You ate too much and you boasted about your vigour. O Partha! You disrespected others. That is the reason you have fallen down on the ground.” Having said this, without looking back, the mighty-armed one proceeded. The single dog followed him and I have spoken about it to you many times{15}.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Restraining their souls and immersing themselves in yoga, they headed in a northern direction. They saw the giant mountains, the Himalayas. Having passed beyond it, they saw an ocean of sand. There, they saw the giant mountain of Meru, with an excellent summit. All of them proceeded swiftly, devoting themselves to the dharma of yoga. However, Yajnaseni deviated from yoga and fell down on the ground. On seeing that she had fallen down,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the immensely strong Bhimasena glanced towards Yajnaseni and spoke to Dharmaraja",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_immensely_strong_bhimasena_glanced",
+              "text": "“O scorcher of enemies! This princess never committed an act of adharma. O king! Why has Krishna{11} fallen down on the ground?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O supreme among men! She had a great partiality for Dhananjaya. She has reaped the fruits of that.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, the king who was Dharma’s son didn’t look back. The intelligent bull among men, with dharma in his soul, controlled his mind. The intelligent Sahadeva also fell down on the ground. On seeing that he had fallen down,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhima spoke to the king",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhima",
+              "text": "“Without any pride, he served all of us. Why has Madravati’s{12} son fallen down on the ground?”",
+              "color": "#E07A5F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“He thought that there was no one who was his equal in wisdom. O son of a king! It is because of that sin that he has fallen down.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, he left Sahadeva there and proceeded. Kounteya Yudhishthira went on, with his brothers and the dog. On seeing that Krishna and Pandava Sahadeva had fallen down, the brave Nakula, who loved his relatives, was afﬂicted and also fell down. Seeing that the handsome and brave Nakula had fallen down,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhima spoke to the king again",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhima",
+              "text": "“He had dharma in his soul and his adherence to it never suffered. He followed the words of his brothers. In the world, Nakula was unmatched in his beauty. Yet, he has fallen down on the ground.”",
+              "color": "#E07A5F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed by Bhimasena,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Nakula possessed dharma in his soul and was supreme among all the intelligent ones. However, he held a view, like Diti’s offspring{13}, that there was no one who was his equal in beauty. In his mind, he thought that there was no one who was superior to him. O Vrikodara! Understand. This is the reason why Nakula has fallen down. O brave one! Anything ordained for a person is bound to happen.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing that they had fallen down, Pandava, the one with the white horses and the scorcher of enemies{14}, was tormented by grief and also fell down. That tiger among men possessed Shakra’s energy. On seeing that the invincible one had fallen down and was about to die,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhima spoke to the king",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhima",
+              "text": "“I cannot remember any falsehood that this great-souled one has wilfully uttered. What is the transgression, as a result of which, he has fallen down on the ground?”",
+              "color": "#E07A5F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Arjuna always said that he would burn down the enemy in a single day. Though he was proud of his valour, he wasn’t able to accomplish that. That is the reason he has fallen down. Phalguna disrespected all the other wielders of the bow. Those who desire their own prosperity must always act as they have spoken.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, the king proceeded. Bhima fell down. Having fallen down,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhima addressed Dharmaraja Yudhishthira",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhima",
+              "text": "“O king! Look towards me. I am loved by you and I have fallen down. What is the reason I have fallen down? If you know, tell me.”",
+              "color": "#E07A5F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“You ate too much and you boasted about your vigour. O Partha! You disrespected others. That is the reason you have fallen down on the ground.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, without looking back, the mighty-armed one proceeded. The single dog followed him and I have spoken about it to you many times{15}.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1990": {
+      "global_number": 1990,
+      "local_number": 3,
+      "num_shlokas": 36,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Shakra arrived before Partha on a chariot, making all of heaven and earth echo with the roar, and asked him to ascend. On seeing that his brothers had fallen down, Dharmaraja Yudhishthira was overcome by grief and spoke these words to the one with the one thousand eyes. “My brothers have fallen down here. Let them come with me. O lord of the gods! Without my brothers, I do not desire to go to heaven. O Purandara! The princess was delicate and deserved happiness. Let her come with us. You should grant us this permission.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Shakra arrived before Partha on a chariot, making all of heaven and earth echo with the roar, and asked him to ascend. On seeing that his brothers had fallen down, Dharmaraja Yudhishthira was overcome by grief and spoke these words to the one with the one thousand eyes.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“My brothers have fallen down here. Let them come with me. O lord of the gods! Without my brothers, I do not desire to go to heaven. O Purandara! The princess was delicate and deserved happiness. Let her come with us. You should grant us this permission.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Indra replied, “You will see your brothers and sons, together with Krishna and all the others. They have gone to heaven, ahead of you. O bull among the Bharata lineage! Do not grieve. O bull among the Bharata lineage! They have cast aside their human bodies and have gone there. However, there is no doubt that you will go to heaven in this body.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“You will see your brothers and sons, together with Krishna and all the others. They have gone to heaven, ahead of you. O bull among the Bharata lineage! Do not grieve. O bull among the Bharata lineage! They have cast aside their human bodies and have gone there. However, there is no doubt that you will go to heaven in this body.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Yudhishthira said, “O lord of the past and the present! This dog has always been devoted to me. He should go with me. Because of compassion, that is my view.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O lord of the past and the present! This dog has always been devoted to me. He should go with me. Because of compassion, that is my view.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Indra replied, “O king! You will now obtain immortality, prosperity like mine, all kinds of great fame and the happiness of heaven. Abandon the dog. There is no lack of compassion in this.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“O king! You will now obtain immortality, prosperity like mine, all kinds of great fame and the happiness of heaven. Abandon the dog. There is no lack of compassion in this.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Yudhishthira said, “O one with one thousand eyes! How can a person who is noble perform an ignoble act? O noble one! That is exceedingly difﬁcult to do. I do not want a prosperity that comes about by abandoning those who are devoted to me.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O one with one thousand eyes! How can a person who is noble perform an ignoble act? O noble one! That is exceedingly difﬁcult to do. I do not want a prosperity that comes about by abandoning those who are devoted to me.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Indra replied, “For those with dogs, there is no place in the world of heaven. Krodhavasha takes away their beneﬁcial and good deeds{16}. O Dharmaraja! You should think about this. Abandon this dog. There is no lack of compassion in this.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“For those with dogs, there is no place in the world of heaven. Krodhavasha takes away their beneﬁcial and good deeds{16}. O Dharmaraja! You should think about this. Abandon this dog. There is no lack of compassion in this.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Yudhishthira said, “It is said that there is great sin in abandoning one who is devoted. In this world, this is equal to the killing of a brahmana. O great Indra! Ever since I have been born, I have patiently done that. Therefore, for the sake of my own happiness, how can I act in a contrary way now?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“It is said that there is great sin in abandoning one who is devoted. In this world, this is equal to the killing of a brahmana. O great Indra! Ever since I have been born, I have patiently done that. Therefore, for the sake of my own happiness, how can I act in a contrary way now?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘Indra replied, “If gifts laid out for a sacriﬁce, or oblations poured into it, are seen by a dog, Krodhavasha takes the beneﬁts away. Therefore, you should abandon this dog. If you abandon this dog, you will obtain the world of the gods. O brave one! Having abandoned your brothers and your beloved Krishna, you will obtain that world through your deeds. When you have given all of them up, why are you not ready to abandon the dog? Why are you confused?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“If gifts laid out for a sacriﬁce, or oblations poured into it, are seen by a dog, Krodhavasha takes the beneﬁts away. Therefore, you should abandon this dog. If you abandon this dog, you will obtain the world of the gods. O brave one! Having abandoned your brothers and your beloved Krishna, you will obtain that world through your deeds. When you have given all of them up, why are you not ready to abandon the dog? Why are you confused?”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘Yudhishthira said, “In the world of mortals, there is no friendship or enmity with those who are dead. I am incapable of reviving them. That is the reason I abandoned those who are no longer alive. O Shakra! It is my view that surrendering someone who was sought sanctuary, killing a woman, stealing the possessions of a brahmana and enmity towards a friend—these four are equal to the sin of abandoning someone who is devoted.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“In the world of mortals, there is no friendship or enmity with those who are dead. I am incapable of reviving them. That is the reason I abandoned those who are no longer alive. O Shakra! It is my view that surrendering someone who was sought sanctuary, killing a woman, stealing the possessions of a brahmana and enmity towards a friend—these four are equal to the sin of abandoning someone who is devoted.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "10": {
+          "raw": "Vaishampayana said, ‘Hearing Dharmaraja’s words, the illustrious one, who was in the form of Dharma, was pleased{17}. He gently spoke these words, which were full of praise, to Yudhishthira, Indra among men. “O Indra among kings! You have been born in a noble lineage. You follow your father’s conduct and possess intelligence. O descendant of the Bharata lineage! You possess compassion towards all beings. O son! On an earlier occasion, I had tested you in Dvaitavana{18}. Desiring to fetch some water, your valiant brothers were slain. Forgetting about your brothers Bhima and Arjuna and showing equality between your mothers{19}, you desired that Nakula should be brought back to life. Now, instead of giving up the devoted dog, you have decided to forsake the chariot of the gods. O lord of men! Therefore, there is no one in heaven who is your equal. O descendant of the Bharata lineage! Therefore, in your own body, you will obtain the eternal worlds. O best among the Bharata lineage! You will obtain a divine and supreme objective.” Dharma, Shakra, the Maruts, the Ashvins, the gods and the devarshis made Pandava ascend the chariot. The siddhas, who could roam around at will, left on their own celestial vehicles. They were sacred and radiant, auspicious in words, intelligence and deeds. The king, the extender of the Kuru lineage, climbed onto the chariot, which ascended swiftly, covering heaven and earth with its energy.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Hearing Dharmaraja’s words, the illustrious one, who was in the form of Dharma, was pleased{17}. He gently spoke these words, which were full of praise, to Yudhishthira, Indra among men.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Indra among kings! You have been born in a noble lineage. You follow your father’s conduct and possess intelligence. O descendant of the Bharata lineage! You possess compassion towards all beings. O son! On an earlier occasion, I had tested you in Dvaitavana{18}. Desiring to fetch some water, your valiant brothers were slain. Forgetting about your brothers Bhima and Arjuna and showing equality between your mothers{19}, you desired that Nakula should be brought back to life. Now, instead of giving up the devoted dog, you have decided to forsake the chariot of the gods. O lord of men! Therefore, there is no one in heaven who is your equal. O descendant of the Bharata lineage! Therefore, in your own body, you will obtain the eternal worlds. O best among the Bharata lineage! You will obtain a divine and supreme objective.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Dharma, Shakra, the Maruts, the Ashvins, the gods and the devarshis made Pandava ascend the chariot. The siddhas, who could roam around at will, left on their own celestial vehicles. They were sacred and radiant, auspicious in words, intelligence and deeds. The king, the extender of the Kuru lineage, climbed onto the chariot, which ascended swiftly, covering heaven and earth with its energy.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "11": {
+          "raw": "‘Narada was great in austerities and knew about all the worlds. He was great with words. From amidst those gods, he spoke these words. “There are rajarshis who have assembled here. However, the king of the Kurus has surpassed all their deeds with his own. He has enveloped the worlds with his fame, energy, conduct and prosperity and has gone there in his own body. We have not heard of anyone other than Pandava who has accomplished that.” Hearing Narada’s words, the king, with dharma in his soul, spoke these words, after honouring the gods and the kings who were alongside. “My brothers have obtained a good state or a bad one. Those are the worlds that I also wish to go to.” Hearing these words, Purandara, king of the gods, was ﬁlled with compassion and replied to Yudhishthira. “O Indra among kings! Dwell in this place. You have conquered it through your auspicious deeds. Why are you attached to human affection still? You have obtained supreme success and no other man has obtained it. O descendant of the Kuru lineage! Your brothers are incapable of obtaining that region. O lord of men! You are still touched by human sentiments. Behold heaven and the abodes of the gods, frequented by devarshis and siddhas.” Yet again, Yudhishthira spoke these words to the lord who was the Indra of the gods. “O slayer of daityas! Without them, I am not interested in anything. I wish to go to the place where my brothers have gone. I wish to go where Droupadi, best among women and my beloved, is. She possessed the qualities of spirit and intelligence. She was buxom and dark.”’ This ends Maha-Prasthanika Parva.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Narada was great in austerities and knew about all the worlds. He was great with words.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "From amidst those gods, he spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@from_amidst_those_gods",
+              "text": "“There are rajarshis who have assembled here. However, the king of the Kurus has surpassed all their deeds with his own. He has enveloped the worlds with his fame, energy, conduct and prosperity and has gone there in his own body. We have not heard of anyone other than Pandava who has accomplished that.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing Narada’s words, the king, with dharma in his soul, spoke these words, after honouring the gods and the kings who were alongside.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“My brothers have obtained a good state or a bad one. Those are the worlds that I also wish to go to.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words, Purandara, king of the gods,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "was ﬁlled with compassion and replied to Yudhishthira",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@was",
+              "text": "“O Indra among kings! Dwell in this place. You have conquered it through your auspicious deeds. Why are you attached to human affection still? You have obtained supreme success and no other man has obtained it. O descendant of the Kuru lineage! Your brothers are incapable of obtaining that region. O lord of men! You are still touched by human sentiments. Behold heaven and the abodes of the gods, frequented by devarshis and siddhas.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Yet again, Yudhishthira spoke these words to the lord who was the Indra of the gods.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O slayer of daityas! Without them, I am not interested in anything. I wish to go to the place where my brothers have gone. I wish to go where Droupadi, best among women and my beloved, is. She possessed the qualities of spirit and intelligence. She was buxom and dark.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’ This ends Maha-Prasthanika Parva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

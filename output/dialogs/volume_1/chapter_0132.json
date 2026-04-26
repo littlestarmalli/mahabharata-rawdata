@@ -1,0 +1,96 @@
+{
+  "chapter": 132,
+  "local": 132,
+  "shlokas": 19,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O descendant of the Bharata lineage! When the king{43} addressed Pandu's great-souled sons, the evil-hearted Duryodhana was extremely happy.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O descendant of the Bharata lineage! When the king{43} addressed Pandu's great-souled sons, the evil-hearted Duryodhana was extremely happy.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O bull among the Bharatas! He privately summoned Purochana, grasped the adviser by the right hand and told him these words. “O Purochana! This world, with all its riches, is mine. But with me, it is also yours. You should protect it. I have no other ally who is as trustworthy. I have to consult with you. O father{44}! Keep these consultations{45} and destroy my enemies cleverly. Skilfully accomplish what I ask you to do. Dhritarashtra has sent the Pandavas to Varanavata. On Dhritarashtra's command, they will sport themselves in the festival there. Ensure that you reach Varanavata today on a cart drawn by swift asses. On reaching there, build an excellent house with four halls on the outskirts of the city—large and full of riches and near the store where weapons are kept. Use hemp, resin and other inﬂammable materials that can be obtained in the construction. Mix the clay with ghee, oil from seeds and a large quantity of lac and plaster the walls with this. Also place carefully in the house hemp, cane, ghee, lac, wood and wooden tools, but in such a way that the Pandavas or other men are not suspicious on scrutiny and do not deduce that the house has been constructed with inﬂammable materials. After constructing the house in this way, reverently pay homage to the Pandavas and get them to live there, with Kunti and her attendants. For the sons of Pandu, place beautiful conveyances, seats and beds there, so as to satisfy my father. Do it in such a way that no one in the city of Varanavata gets to know, until our time arrives. Knowing that they are asleep in their beds, completely assured and without suspecting danger from anywhere, set ﬁre to it, beginning at the gate. When they have burnt to death in that house, people will not blame us for the death of the Pandavas.” Purochana promised the Kourava{46} that he would do this and left for Varanavata in a cart drawn by asses.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O bull among the Bharatas! He privately summoned Purochana, grasped the adviser by the right hand and told him these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Purochana! This world, with all its riches, is mine. But with me, it is also yours. You should protect it. I have no other ally who is as trustworthy. I have to consult with you. O father{44}! Keep these consultations{45} and destroy my enemies cleverly. Skilfully accomplish what I ask you to do. Dhritarashtra has sent the Pandavas to Varanavata. On Dhritarashtra's command, they will sport themselves in the festival there. Ensure that you reach Varanavata today on a cart drawn by swift asses. On reaching there, build an excellent house with four halls on the outskirts of the city—large and full of riches and near the store where weapons are kept. Use hemp, resin and other inﬂammable materials that can be obtained in the construction. Mix the clay with ghee, oil from seeds and a large quantity of lac and plaster the walls with this. Also place carefully in the house hemp, cane, ghee, lac, wood and wooden tools, but in such a way that the Pandavas or other men are not suspicious on scrutiny and do not deduce that the house has been constructed with inﬂammable materials. After constructing the house in this way, reverently pay homage to the Pandavas and get them to live there, with Kunti and her attendants. For the sons of Pandu, place beautiful conveyances, seats and beds there, so as to satisfy my father. Do it in such a way that no one in the city of Varanavata gets to know, until our time arrives. Knowing that they are asleep in their beds, completely assured and without suspecting danger from anywhere, set ﬁre to it, beginning at the gate. When they have burnt to death in that house, people will not blame us for the death of the Pandavas.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Purochana promised the Kourava{46} that he would do this and left for Varanavata in a cart drawn by asses.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O king! He was always obedient to Duryodhana and left quickly. Purochana did as the prince had asked him to.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! He was always obedient to Duryodhana and left quickly. Purochana did as the prince had asked him to.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

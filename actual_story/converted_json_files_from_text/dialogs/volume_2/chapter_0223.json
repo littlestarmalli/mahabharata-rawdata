@@ -1,0 +1,383 @@
+{
+  "chapter": 223,
+  "local": 223,
+  "shlokas": 25,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Jaritari said, “The intelligent man stays awake before difﬁcult times. When the difﬁcult time arrives, there is no suffering at all. But he who is not intelligent and is not sensible knows nothing and suffers because of difﬁculties when a difﬁcult time arrives.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Jaritari said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@jaritari",
+          "introduces_label": "Jaritari",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The intelligent man stays awake before difﬁcult times. When the difﬁcult time arrives, there is no suffering at all. But he who is not intelligent and is not sensible knows nothing and suffers because of difﬁculties when a difﬁcult time arrives.”",
+          "speaker": "@jaritari",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sarisrikva said, “You are implacable and intelligent. The time has come when our lives are endangered. There is no doubt that only one among many is wise and brave.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sarisrikva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "sarisrikva",
+          "introduces_label": "Sarisrikva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You are implacable and intelligent. The time has come when our lives are endangered. There is no doubt that only one among many is wise and brave.”",
+          "speaker": "sarisrikva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Stambamitra said, “The eldest is the protector, because the eldest saves in times of difﬁculty. If the eldest one does not know, what can the younger ones do?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Stambamitra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "stambamitra",
+          "introduces_label": "Stambamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The eldest is the protector, because the eldest saves in times of difﬁculty. If the eldest one does not know, what can the younger ones do?”",
+          "speaker": "stambamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Drona said, “The one with the golden seed{67} is swiftly advancing towards our abode in ﬂames. The seven tongues of the ﬁre are lean and are eagerly licking.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Drona said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The one with the golden seed{67} is swiftly advancing towards our abode in ﬂames. The seven tongues of the ﬁre are lean and are eagerly licking.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At these words of his brother, Jaritari folded his hands on his forehead in salutation. O king! Listen to the way he praised the ﬁre.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At these words of his brother, Jaritari folded his hands on his forehead in salutation. O king! Listen to the way he praised the ﬁre.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Jaritari said, “You are the soul of the wind, the puriﬁer{68}. You are the body of the creepers. O virile one{69}! You are the source of the water. The water is also your source. O most powerful one! Your ﬂames are like the rays of the sun and they go above and below, and on every side.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Jaritari said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@jaritari",
+          "introduces_label": "Jaritari",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You are the soul of the wind, the puriﬁer{68}. You are the body of the creepers. O virile one{69}! You are the source of the water. The water is also your source. O most powerful one! Your ﬂames are like the rays of the sun and they go above and below, and on every side.”",
+          "speaker": "@jaritari",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sarisrikva said, “O you with the clouds in your banner! Our mother has ignored us and we do not know our father. Our wings have still not grown. O Agni! We have no protector but for you. You are the only hero and, therefore, protect us. O Agni! We are seeking refuge with you. In your benevolent form and in your seven ﬂames, therefore, protect us. O Jataveda! You alone are the one that heats. O god! You alone are the one who heats the heavens. O bearer of sacriﬁcial offerings! Protect us young rishis today and bypass this place.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sarisrikva said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "sarisrikva",
+          "introduces_label": "Sarisrikva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O you with the clouds in your banner! Our mother has ignored us and we do not know our father. Our wings have still not grown. O Agni! We have no protector but for you. You are the only hero and, therefore, protect us. O Agni! We are seeking refuge with you. In your benevolent form and in your seven ﬂames, therefore, protect us. O Jataveda! You alone are the one that heats. O god! You alone are the one who heats the heavens. O bearer of sacriﬁcial offerings! Protect us young rishis today and bypass this place.”",
+          "speaker": "sarisrikva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Stambamitra said, “O Agni! You alone are everything. The entire universe is established in you. You sustain all beings and you hold up everything that exists. O Agni! You are the bearer of all sacriﬁcial offerings. You alone are the supreme sacriﬁcial offering. The learned ones offer sacriﬁces to you, knowing you to be one and many. O bearer of sacriﬁcial offerings! You are the creator of the three worlds. When the time arrives{70}, you kindle them and cook afresh. You are the mother of the entire universe. O Agni! You are the one in whom everything is established again. O lord of the universe! You remain inside and digest the food that beings eat{71}. Everything is established in you and you are always cooking and always expanding.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Stambamitra said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "stambamitra",
+          "introduces_label": "Stambamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Agni! You alone are everything. The entire universe is established in you. You sustain all beings and you hold up everything that exists. O Agni! You are the bearer of all sacriﬁcial offerings. You alone are the supreme sacriﬁcial offering. The learned ones offer sacriﬁces to you, knowing you to be one and many. O bearer of sacriﬁcial offerings! You are the creator of the three worlds. When the time arrives{70}, you kindle them and cook afresh. You are the mother of the entire universe. O Agni! You are the one in whom everything is established again. O lord of the universe! You remain inside and digest the food that beings eat{71}. Everything is established in you and you are always cooking and always expanding.”",
+          "speaker": "stambamitra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Drona said, “O Jataveda! You are the sun with its rays. You suck up the water from the earth and the juices that are born in the ground. O Shukra! You take them all and return them again in the form of rain when it is time and cause everything to grow. O Shukra! It is from you that the verdant creepers grow again. The ponds, the seas and the giant oceans are born. O you whose rays are piercing! We are always dependent on Varuna{72}. Be benevolent and be our protector. Do not destroy us today. O ﬁre! Your eyes have the colour of copper. Your neck is red and your trail is black. Save us, like the houses on the shores of the ocean{73}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Drona said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Jataveda! You are the sun with its rays. You suck up the water from the earth and the juices that are born in the ground. O Shukra! You take them all and return them again in the form of rain when it is time and cause everything to grow. O Shukra! It is from you that the verdant creepers grow again. The ponds, the seas and the giant oceans are born. O you whose rays are piercing! We are always dependent on Varuna{72}. Be benevolent and be our protector. Do not destroy us today. O ﬁre! Your eyes have the colour of copper. Your neck is red and your trail is black. Save us, like the houses on the shores of the ocean{73}.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When he had been thus addressed by Drona of the unsullied deeds, Jataveda spoke to Drona, remembering the promise he had made to Mandapala. Agni said, “O Drona! You are a rishi. What you have uttered is the Brahman{74}. I will do what you desire and you have nothing to fear. Mandapala had mentioned all this to me earlier and had asked me to spare his sons when I consumed the forest. The word that I gave him and the words that you have just spoken are both of great importance. Therefore, tell me what I should do. O fortunate one! O brahmana! O illustrious one! I am extremely pleased with your praise.” Drona replied, “O Shukra! These cats cause us trouble all the time. O bearer of sacriﬁcial offerings! Place them and all their relatives between your teeth.” O Janamejaya! After granting leave to the Sharngakas, Agni acted accordingly. Blazing up, he consumed the Khandava forest.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When he had been thus addressed by Drona of the unsullied deeds, Jataveda spoke to Drona, remembering the promise he had made to Mandapala. Agni said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Drona! You are a rishi. What you have uttered is the Brahman{74}. I will do what you desire and you have nothing to fear. Mandapala had mentioned all this to me earlier and had asked me to spare his sons when I consumed the forest. The word that I gave him and the words that you have just spoken are both of great importance. Therefore, tell me what I should do. O fortunate one! O brahmana! O illustrious one! I am extremely pleased with your praise.”",
+          "speaker": "@agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Drona replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shukra! These cats cause us trouble all the time. O bearer of sacriﬁcial offerings! Place them and all their relatives between your teeth.”",
+          "speaker": "@drona",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O Janamejaya! After granting leave to the Sharngakas, Agni acted accordingly. Blazing up, he consumed the Khandava forest.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

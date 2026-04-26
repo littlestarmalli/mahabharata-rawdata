@@ -1,0 +1,51 @@
+{
+  "name": "Sainya-Niryayana Parva",
+  "subparva_number": 56,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 169
+  },
+  "note": "",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "812": {
+      "chapter_number": 812,
+      "global_number": 812,
+      "local_number": 149,
+      "num_shlokas": 84,
+      "file": "subparva_56_sainya_niryayana_parva/chapter_812_tagged.json"
+    },
+    "813": {
+      "chapter_number": 813,
+      "global_number": 813,
+      "local_number": 150,
+      "num_shlokas": 27,
+      "file": "subparva_56_sainya_niryayana_parva/chapter_813_tagged.json"
+    },
+    "814": {
+      "chapter_number": 814,
+      "global_number": 814,
+      "local_number": 151,
+      "num_shlokas": 27,
+      "file": "subparva_56_sainya_niryayana_parva/chapter_814_tagged.json"
+    },
+    "815": {
+      "chapter_number": 815,
+      "global_number": 815,
+      "local_number": 152,
+      "num_shlokas": 31,
+      "file": "subparva_56_sainya_niryayana_parva/chapter_815_tagged.json"
+    }
+  }
+}

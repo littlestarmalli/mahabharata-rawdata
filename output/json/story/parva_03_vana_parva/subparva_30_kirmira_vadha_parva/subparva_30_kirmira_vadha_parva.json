@@ -1,0 +1,20 @@
+{
+  "name": "Kirmira-vadha Parva",
+  "subparva_number": 30,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 0
+  },
+  "note": "Kirmira was a rakshasa mentioned in the last section and as already explained the word vadha means killing. So this section is about the killing of Kirmira.",
+  "chapters": {
+    "309": {
+      "chapter_number": 309,
+      "global_number": 309,
+      "local_number": 12,
+      "num_shlokas": null,
+      "file": "subparva_30_kirmira_vadha_parva/chapter_309.json"
+    }
+  }
+}

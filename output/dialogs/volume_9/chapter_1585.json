@@ -1,0 +1,151 @@
+{
+  "chapter": 1585,
+  "local": 257,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “In this connection, an ancient history is recounted, about what King Vichakhanna sung, driven by compassion for subjects. He saw the mangled body of a bull and heard the extremely piteous cries of cattle. The king saw a sacriﬁcial enclosure where cows were being slaughtered. He said, ‘May there be safety to all the cattle in this world.’ When the violence had started, these words of benediction were heard. ‘Those who have deviated from the ordinances, those who are non-believers and confused, those who have doubts within themselves, are the men who applaud of violence. Manu, with dharma in his soul, said that there should be non-violence in all deeds. Driven by attachment to desire, men cause violence to animals outside the sacriﬁcial enclosure{512}. Therefore, one should follow the instructions and know the subtle nature of dharma. It has been held that non-violence is superior to all kinds of dharma. They dwell near sacred places, but have abandoned the learning of the Vedas. These misers are driven by desire for the fruits and follow bad conduct, in the disguise of good conduct. Pointing to sacriﬁces, trees and sacriﬁcial altars, men pointlessly eat ﬂesh{513}. This kind of dharma is not praised. Flesh, madhu, sura, ﬁsh, asava and krisara have been thought of by cunning people{514}. They were not thought of in the Vedas. Desire, confusion and greed led to these temptations being introduced. The brahmanas note that Vishnu is present in all sacriﬁces. It has been said that, with an excellent mind, he should only be offered payasa{515}. In the Vedas, trees have been thought of as sacriﬁcial offerings. These are the kinds of things that should properly be offered to the great god, with pure sentiments. All these deserve to be offered to that god.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted, about what King Vichakhanna sung, driven by compassion for subjects. He saw the mangled body of a bull and heard the extremely piteous cries of cattle. The king saw a sacriﬁcial enclosure where cows were being slaughtered. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘May there be safety to all the cattle in this world.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When the violence had started, these words of benediction were heard. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Those who have deviated from the ordinances, those who are non-believers and confused, those who have doubts within themselves, are the men who applaud of violence. Manu, with dharma in his soul, said that there should be non-violence in all deeds. Driven by attachment to desire, men cause violence to animals outside the sacriﬁcial enclosure{512}. Therefore, one should follow the instructions and know the subtle nature of dharma. It has been held that non-violence is superior to all kinds of dharma. They dwell near sacred places, but have abandoned the learning of the Vedas. These misers are driven by desire for the fruits and follow bad conduct, in the disguise of good conduct. Pointing to sacriﬁces, trees and sacriﬁcial altars, men pointlessly eat ﬂesh{513}. This kind of dharma is not praised. Flesh, madhu, sura, ﬁsh, asava and krisara have been thought of by cunning people{514}. They were not thought of in the Vedas. Desire, confusion and greed led to these temptations being introduced. The brahmanas note that Vishnu is present in all sacriﬁces. It has been said that, with an excellent mind, he should only be offered payasa{515}. In the Vedas, trees have been thought of as sacriﬁcial offerings. These are the kinds of things that should properly be offered to the great god, with pure sentiments. All these deserve to be offered to that god.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “The body and various difﬁculties always quarrel and cause injury to each other. If one abstains from all work, how will it be possible to sustain the body?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The body and various difﬁculties always quarrel and cause injury to each other. If one abstains from all work, how will it be possible to sustain the body?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “One must act so that the body does not suffer and so that one does not come under the subjugation of death. According to capacity, one's conduct should follow the norms of dharma.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“One must act so that the body does not suffer and so that one does not come under the subjugation of death. According to capacity, one's conduct should follow the norms of dharma.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

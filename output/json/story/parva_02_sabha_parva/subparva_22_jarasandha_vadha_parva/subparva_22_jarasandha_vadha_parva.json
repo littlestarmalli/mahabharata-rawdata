@@ -1,0 +1,48 @@
+{
+  "name": "Jarasandha-vadha Parva",
+  "subparva_number": 22,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 5,
+    "num_shlokas": 195
+  },
+  "note": "The word vadha is the act of killing. This section is therefore about the killing of Jarasandha.",
+  "chapters": {
+    "243": {
+      "chapter_number": 243,
+      "global_number": 243,
+      "local_number": 18,
+      "num_shlokas": 30,
+      "file": "subparva_22_jarasandha_vadha_parva/chapter_243.json"
+    },
+    "244": {
+      "chapter_number": 244,
+      "global_number": 244,
+      "local_number": 19,
+      "num_shlokas": 50,
+      "file": "subparva_22_jarasandha_vadha_parva/chapter_244.json"
+    },
+    "245": {
+      "chapter_number": 245,
+      "global_number": 245,
+      "local_number": 20,
+      "num_shlokas": 34,
+      "file": "subparva_22_jarasandha_vadha_parva/chapter_245.json"
+    },
+    "246": {
+      "chapter_number": 246,
+      "global_number": 246,
+      "local_number": 21,
+      "num_shlokas": 23,
+      "file": "subparva_22_jarasandha_vadha_parva/chapter_246.json"
+    },
+    "247": {
+      "chapter_number": 247,
+      "global_number": 247,
+      "local_number": 22,
+      "num_shlokas": 58,
+      "file": "subparva_22_jarasandha_vadha_parva/chapter_247.json"
+    }
+  }
+}

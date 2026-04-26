@@ -1,0 +1,41 @@
+Volume 10 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   11
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              8
+
+
+──────────────────────────────────────────────────────────────────────
+Section [87] Dana Dharma Parva  (chapters 1738–1833)
+  Refs: 1447   Defs: 1453
+
+  CASE B — 6 orphan(s):
+    fn 37
+    fn 64
+    fn 91
+    fn 137
+    fn 291
+    fn 413
+
+  CASE D — ref sequence gaps: [37, 64, 91, 137, 291, 413]
+
+──────────────────────────────────────────────────────────────────────
+Section [89] Ashvamedhika Parva  (chapters 1836–1931)
+  Refs: 379   Defs: 381
+
+  CASE B — 2 orphan(s):
+    fn 81
+    fn 167
+
+  CASE D — ref sequence gaps: [81, 167]
+
+──────────────────────────────────────────────────────────────────────
+Section [92] Naradagamana Parva  (chapters 1977–1978)
+  Refs: 8   Defs: 11
+
+  CASE B — 3 orphan(s):
+    fn 1
+    fn 2
+    fn 3

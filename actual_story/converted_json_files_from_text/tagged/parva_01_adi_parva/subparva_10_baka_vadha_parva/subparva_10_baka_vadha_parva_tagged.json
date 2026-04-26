@@ -1,0 +1,79 @@
+{
+  "name": "Baka-vadha Parva",
+  "subparva_number": 10,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 8,
+    "num_shlokas": 206
+  },
+  "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "145": {
+      "chapter_number": 145,
+      "global_number": 145,
+      "local_number": 145,
+      "num_shlokas": 40,
+      "file": "subparva_10_baka_vadha_parva/chapter_145_tagged.json"
+    },
+    "146": {
+      "chapter_number": 146,
+      "global_number": 146,
+      "local_number": 146,
+      "num_shlokas": 36,
+      "file": "subparva_10_baka_vadha_parva/chapter_146_tagged.json"
+    },
+    "147": {
+      "chapter_number": 147,
+      "global_number": 147,
+      "local_number": 147,
+      "num_shlokas": 24,
+      "file": "subparva_10_baka_vadha_parva/chapter_147_tagged.json"
+    },
+    "148": {
+      "chapter_number": 148,
+      "global_number": 148,
+      "local_number": 148,
+      "num_shlokas": 16,
+      "file": "subparva_10_baka_vadha_parva/chapter_148_tagged.json"
+    },
+    "149": {
+      "chapter_number": 149,
+      "global_number": 149,
+      "local_number": 149,
+      "num_shlokas": 20,
+      "file": "subparva_10_baka_vadha_parva/chapter_149_tagged.json"
+    },
+    "150": {
+      "chapter_number": 150,
+      "global_number": 150,
+      "local_number": 150,
+      "num_shlokas": 27,
+      "file": "subparva_10_baka_vadha_parva/chapter_150_tagged.json"
+    },
+    "151": {
+      "chapter_number": 151,
+      "global_number": 151,
+      "local_number": 151,
+      "num_shlokas": 24,
+      "file": "subparva_10_baka_vadha_parva/chapter_151_tagged.json"
+    },
+    "152": {
+      "chapter_number": 152,
+      "global_number": 152,
+      "local_number": 152,
+      "num_shlokas": 19,
+      "file": "subparva_10_baka_vadha_parva/chapter_152_tagged.json"
+    }
+  }
+}

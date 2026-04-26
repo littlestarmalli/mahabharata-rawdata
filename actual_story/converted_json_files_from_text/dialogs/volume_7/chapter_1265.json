@@ -1,0 +1,165 @@
+{
+  "chapter": 1265,
+  "local": 46,
+  "shlokas": 29,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya said, ‘O brahmana! What I have heard from you is exceedingly wonderful. You have told me in detail about how Kumara was duly consecrated. O one rich in austerities! After hearing this, I know that I have been puriﬁed. My body hair has stood up and my mind is delighted. After hearing about Kumara's consecration and the slaughter of the daityas, I am supremely happy. However, I am still curious. How was the lord of the waters consecrated by the gods and the asuras? O immensely wise one! O supreme one! You are skilled in narrating. Tell me about this.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O brahmana! What I have heard from you is exceedingly wonderful. You have told me in detail about how Kumara was duly consecrated. O one rich in austerities! After hearing this, I know that I have been puriﬁed. My body hair has stood up and my mind is delighted. After hearing about Kumara's consecration and the slaughter of the daityas, I am supremely happy. However, I am still curious. How was the lord of the waters consecrated by the gods and the asuras? O immensely wise one! O supreme one! You are skilled in narrating. Tell me about this.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘O king! Listen to this wonderful account, exactly as it happened in another kalpa{169}. During that original krita yuga, all the gods assembled, went to Varuna in the proper fashion and said, “Just as Shakra, lord of the gods, always protects us from fear, in that way, you become the lord of all the rivers. O god! Always dwell in the ocean, the abode of makaras. May the ocean, the lord of the rivers, be under your control. Together with Soma{170}, you will also wax and wane.” Varuna spoke to the gods, signifying his acceptance. All of them assembled and made Varuna, whose abode was the ocean, the lord of the waters, in accordance with the decreed rites. Having consecrated Varuna as the lord of the waters, the gods worshipped the lord of the waters and returned to their respective abodes. The immensely illustrious Varuna was thus consecrated by the gods. In accordance with what was required, he protected ﬂowing water, oceans, rivers and lakes, like Shatakratu protects the gods. The immensely wise destroyer of Pralamba{171} touched the waters there and gave away many riches. He then went to Agnitirtha. The ﬁre god was destroyed there and became invisible inside shami. O unblemished one! When the lord and light-giver of the worlds disappeared in this way, the great-souled gods presented themselves before the grandfather of all the worlds and said, “The illustrious Agni has disappeared and we do not know the reason. Let all the worlds not be destroyed. Please create ﬁre again.” ’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Listen to this wonderful account, exactly as it happened in another kalpa{169}. During that original krita yuga, all the gods assembled, went to Varuna in the proper fashion and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Just as Shakra, lord of the gods, always protects us from fear, in that way, you become the lord of all the rivers. O god! Always dwell in the ocean, the abode of makaras. May the ocean, the lord of the rivers, be under your control. Together with Soma{170}, you will also wax and wane.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Varuna spoke to the gods, signifying his acceptance. All of them assembled and made Varuna, whose abode was the ocean, the lord of the waters, in accordance with the decreed rites. Having consecrated Varuna as the lord of the waters, the gods worshipped the lord of the waters and returned to their respective abodes. The immensely illustrious Varuna was thus consecrated by the gods. In accordance with what was required, he protected ﬂowing water, oceans, rivers and lakes, like Shatakratu protects the gods. The immensely wise destroyer of Pralamba{171} touched the waters there and gave away many riches. He then went to Agnitirtha. The ﬁre god was destroyed there and became invisible inside shami. O unblemished one! When the lord and light-giver of the worlds disappeared in this way, the great-souled gods presented themselves before the grandfather of all the worlds and said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@varuna",
+          "introduces_label": "Varuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The illustrious Agni has disappeared and we do not know the reason. Let all the worlds not be destroyed. Please create ﬁre again.”",
+          "speaker": "@varuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘Why was the illustrious Agni, the creator of all the worlds, destroyed? How did the gods discover him again? Please tell me everything about this.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Why was the illustrious Agni, the creator of all the worlds, destroyed? How did the gods discover him again? Please tell me everything about this.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘The powerful ﬁre god was extremely frightened because of Bhrigu's curse{172}. The illustrious one sought refuge inside a shami tree and could no longer be seen. When the ﬁre god disappeared, all the gods, together with Vasava, were extremely unhappy. They searched for the ﬁre that had vanished. Having reached Agnitirtha, they found Agni inside a shami tree. They found the ﬁre god dwelling there. O tiger among men! With Brihaspati at the forefront, and with Vasava, all the gods were delighted at having found the ﬁre god. They returned to the places that they had come from and he became the devourer of everything. O lord of the earth! Bhrigu was knowledgeable about the brahman and this happened because of his curse. Having bathed there, the intelligent one{173} went to Brahmayoni. In earlier times, the illustrious lord Brahma, the grandfather of all the worlds, had bathed there, with the gods, in accordance with the rites that are laid down for the gods. Having bathed there, he{174} gave away many riches. He then went to the tirtha named Koubera. O king! The lord Ailabila tormented himself through great austerities there and became the lord of riches. O king! O best of men! At that spot, many stores of riches manifested themselves before him{175}. The one with the plough presented himself at that tirtha. Having gone and bathed there, in the prescribed way, he gave away riches to the brahmanas. He saw the place known as Koubera, with the best of groves. In earlier times, the extremely great-souled King Kubera tormented himself through great austerities there and obtained a large number of boons. He became the lord of riches and became a friend of the inﬁnitely energetic Rudra. He became a god and a guardian of the world there. He also obtained a son named Nalakubara. O mighty-armed one! The lord of riches swiftly obtained all these things there. Large numbers of Maruts assembled there and consecrated him. He also obtained a vehicle there, yoked to beautiful horses. This was the celestial vimana Pushpaka. He also got the riches of the gods. O king! Having bathed there, Bala gave away many kinds of gifts. Smearing himself with white sandalwood paste, Rama quickly went to the tirtha known as Badarapachana. It was inhabited by all kinds of living beings. Auspicious ﬂowers and fruit are always found in the groves there.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The powerful ﬁre god was extremely frightened because of Bhrigu's curse{172}. The illustrious one sought refuge inside a shami tree and could no longer be seen. When the ﬁre god disappeared, all the gods, together with Vasava, were extremely unhappy. They searched for the ﬁre that had vanished. Having reached Agnitirtha, they found Agni inside a shami tree. They found the ﬁre god dwelling there. O tiger among men! With Brihaspati at the forefront, and with Vasava, all the gods were delighted at having found the ﬁre god. They returned to the places that they had come from and he became the devourer of everything. O lord of the earth! Bhrigu was knowledgeable about the brahman and this happened because of his curse. Having bathed there, the intelligent one{173} went to Brahmayoni. In earlier times, the illustrious lord Brahma, the grandfather of all the worlds, had bathed there, with the gods, in accordance with the rites that are laid down for the gods. Having bathed there, he{174} gave away many riches. He then went to the tirtha named Koubera. O king! The lord Ailabila tormented himself through great austerities there and became the lord of riches. O king! O best of men! At that spot, many stores of riches manifested themselves before him{175}. The one with the plough presented himself at that tirtha. Having gone and bathed there, in the prescribed way, he gave away riches to the brahmanas. He saw the place known as Koubera, with the best of groves. In earlier times, the extremely great-souled King Kubera tormented himself through great austerities there and obtained a large number of boons. He became the lord of riches and became a friend of the inﬁnitely energetic Rudra. He became a god and a guardian of the world there. He also obtained a son named Nalakubara. O mighty-armed one! The lord of riches swiftly obtained all these things there. Large numbers of Maruts assembled there and consecrated him. He also obtained a vehicle there, yoked to beautiful horses. This was the celestial vimana Pushpaka. He also got the riches of the gods. O king! Having bathed there, Bala gave away many kinds of gifts. Smearing himself with white sandalwood paste, Rama quickly went to the tirtha known as Badarapachana. It was inhabited by all kinds of living beings. Auspicious ﬂowers and fruit are always found in the groves there.’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "chapter": 425,
+  "local": 128,
+  "shlokas": 19,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Somaka said, ‘O brahmana! Whatever needs to be done, in whichever way, let it be done accordingly. In a desire to obtain sons, I will do everything that you ask me to.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Somaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@somaka",
+          "introduces_label": "Somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Whatever needs to be done, in whichever way, let it be done accordingly. In a desire to obtain sons, I will do everything that you ask me to.’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Lomasha said, “Then Somaka peformed a sacriﬁce and offered Jantu. Out of affection for their son, the mothers forcibly tugged at him and cried out, ‘Alas! We are dead!’ Overcome with great distress, the mothers grasped him by his right hand. But the ofﬁciating priest grasped him by the left hand and pulled. As they screamed like female ospreys, he dragged their son away. Following the prescribed rites, he offered him as an oblation into the ﬁre. O descendant of the Kuru lineage! As the offering was made, the distressed mothers inhaled the smoke and suddenly fell down on the ground. All the king's women then conceived. O lord of the earth! O descendant of the Bharata lineage! After ten months had passed, a total of one hundred sons were born to all of them and Somaka. O descendant of the Bharata lineage! Jantu was the eldest and he was born to his former mother. They loved him more than their own sons. He had the golden mark on his left side. Among those one hundred sons, he was the best in terms of qualities.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Then Somaka peformed a sacriﬁce and offered Jantu. Out of affection for their son, the mothers forcibly tugged at him and cried out, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Alas! We are dead!’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Overcome with great distress, the mothers grasped him by his right hand. But the ofﬁciating priest grasped him by the left hand and pulled. As they screamed like female ospreys, he dragged their son away. Following the prescribed rites, he offered him as an oblation into the ﬁre. O descendant of the Kuru lineage! As the offering was made, the distressed mothers inhaled the smoke and suddenly fell down on the ground. All the king's women then conceived. O lord of the earth! O descendant of the Bharata lineage! After ten months had passed, a total of one hundred sons were born to all of them and Somaka. O descendant of the Bharata lineage! Jantu was the eldest and he was born to his former mother. They loved him more than their own sons. He had the golden mark on his left side. Among those one hundred sons, he was the best in terms of qualities.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Then Somaka's preceptor{565} went to the supreme world and after some time had passed, Somaka also followed him there. He saw him{566} being cooked in a terrible hell and asked, ‘O brahmana! Why are you being cooked in this hell?’ Then the preceptor, who was being cooked in terrible ﬁres, told him, ‘O king! I sacriﬁced for your sake and these are the fruits of that deed.’ Having heard this, the rajarshi told Dharmaraja{567}, ‘I will enter this place. Set my priest free. This immensely fortunate one is being cooked in the ﬁres of hell because of my deed.’ Dharma replied, ‘O king! No one ever obtains the fruits of someone else's action. O supreme among givers! Behold! Your fruits are there.’ Somaka said, ‘Without this one, learned about the brahman, I do not desire these sacred worlds. I only desire to dwell with him, be it in the abode of the gods, or in hell. O Dharmaraja! My deed is identical with his. O god! Therefore, the merits or the demerits should be equal.’ Dharma replied, ‘O king! If that is your desire, then suffer those fruits with him, for an equal length of time. Later, you will obtain the objective of the virtuous.’ Then the lotus-eyed king did all that. He was the beloved of his preceptor. Together with his brahmana preceptor, and by virtue of his own deeds, he again obtained the radiant worlds. This is his sacred hermitage, radiant before us. A man who controls himself and spends six nights here, obtains the end of the virtuous. O Indra among kings! O extender of the Kuru lineage! Devoid of fever, and controlling our souls, we must spend six nights here. Ready yourself.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Then Somaka's preceptor{565} went to the supreme world and after some time had passed, Somaka also followed him there. He saw him{566} being cooked in a terrible hell and asked, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Why are you being cooked in this hell?’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the preceptor, who was being cooked in terrible ﬁres, told him, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I sacriﬁced for your sake and these are the fruits of that deed.’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having heard this, the rajarshi told Dharmaraja{567}, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will enter this place. Set my priest free. This immensely fortunate one is being cooked in the ﬁres of hell because of my deed.’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Dharma replied, ",
+          "speaker": "@lomasha",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! No one ever obtains the fruits of someone else's action. O supreme among givers! Behold! Your fruits are there.’",
+          "speaker": "@yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Somaka said, ",
+          "speaker": "@lomasha",
+          "introduces": "@somaka",
+          "introduces_label": "Somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Without this one, learned about the brahman, I do not desire these sacred worlds. I only desire to dwell with him, be it in the abode of the gods, or in hell. O Dharmaraja! My deed is identical with his. O god! Therefore, the merits or the demerits should be equal.’",
+          "speaker": "@somaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Dharma replied, ",
+          "speaker": "@lomasha",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! If that is your desire, then suffer those fruits with him, for an equal length of time. Later, you will obtain the objective of the virtuous.’",
+          "speaker": "@yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the lotus-eyed king did all that. He was the beloved of his preceptor. Together with his brahmana preceptor, and by virtue of his own deeds, he again obtained the radiant worlds. This is his sacred hermitage, radiant before us. A man who controls himself and spends six nights here, obtains the end of the virtuous. O Indra among kings! O extender of the Kuru lineage! Devoid of fever, and controlling our souls, we must spend six nights here. Ready yourself.”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

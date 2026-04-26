@@ -1,0 +1,287 @@
+{
+  "chapter": 1492,
+  "local": 164,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Hearing these sweet words, Goutama was astounded. O king! He was curious and looked at Rajadharma.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Hearing these sweet words, Goutama was astounded. O king! He was curious and looked at Rajadharma.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Rajadharma said, ‘I am the son of Kashyapa and Dakshayani is my mother{263}. O bull among brahmanas! You are a guest and possess all the qualities. Welcome.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Rajadharma said, ",
+          "speaker": "@bhishma",
+          "introduces": "rajadharma",
+          "introduces_label": "Rajadharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am the son of Kashyapa and Dakshayani is my mother{263}. O bull among brahmanas! You are a guest and possess all the qualities. Welcome.’",
+          "speaker": "rajadharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “In accordance with the prescribed rites, he gave him all the honours. He fashioned a celestial seat that was covered with shala ﬂowers. That region around the Ganga was traversed by Bhagiratha's chariot and was inhabited by a large number of ﬁshes. Kashyapa{264} properly lit a blazing ﬁre and cooked some extremely large ﬁsh, offering them to Goutama, the guest. The brahmana fed on these and was delighted. The great-minded one then fanned him with his wings, so that his exhaustion might become less. When he was seated and rested, he asked him about his gotra. He said, ‘I am Goutama, a brahmana.’ He did not say anything else. He gave him a celestial bed covered with fragrant leaves and adorned with divine ﬂowers. Goutama happily lay down on it. Once he had lain down on the bed, the eloquent Kashyapa, the king of the cranes, asked him, ‘What is the reason behind your coming here?’ O descendant of the Bharata lineage! At this, Goutama replied, ‘O immensely intelligent one! I am poor. I have come to the ocean with the object of acquiring some riches.’ Kashyapa cheerfully replied, ‘O foremost among brahmanas! You should not be anxious. You will be successful. You will return to your home with riches. O lord! It is Brihaspati's view that there are four means of obtaining riches—inheritance, fate, deeds and friends. I have appeared before you as a friend and you are also my well-wisher. I will try on your account, so that you can truly obtain riches.’ When it was morning, he asked him{265} whether he was comfortable and said, ‘O amiable one! Advance along this path and you will be successful. Once you have travelled three yojanas, there will be a great lord of the rakshasas. He is immensely strong and is known by the name of Virupaksha. He is my friend. O best among brahmanas! Go to him. Because of my telling him, there is no doubt that he will give you as much of riches as you desire.’ O king! Having been thus addressed, Goutama was no longer exhausted and departed.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In accordance with the prescribed rites, he gave him all the honours. He fashioned a celestial seat that was covered with shala ﬂowers. That region around the Ganga was traversed by Bhagiratha's chariot and was inhabited by a large number of ﬁshes. Kashyapa{264} properly lit a blazing ﬁre and cooked some extremely large ﬁsh, offering them to Goutama, the guest. The brahmana fed on these and was delighted. The great-minded one then fanned him with his wings, so that his exhaustion might become less. When he was seated and rested, he asked him about his gotra. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Goutama, a brahmana.’",
+          "speaker": "rajadharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He did not say anything else. He gave him a celestial bed covered with fragrant leaves and adorned with divine ﬂowers. Goutama happily lay down on it. Once he had lain down on the bed, the eloquent Kashyapa, the king of the cranes, asked him, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What is the reason behind your coming here?’",
+          "speaker": "rajadharma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bharata lineage! At this, Goutama replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@kripa",
+          "introduces_label": "Goutama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O immensely intelligent one! I am poor. I have come to the ocean with the object of acquiring some riches.’",
+          "speaker": "@kripa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Kashyapa cheerfully replied, ",
+          "speaker": "@bhishma",
+          "introduces": "kashyapa_cheerfully",
+          "introduces_label": "Kashyapa cheerfully",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O foremost among brahmanas! You should not be anxious. You will be successful. You will return to your home with riches. O lord! It is Brihaspati's view that there are four means of obtaining riches—inheritance, fate, deeds and friends. I have appeared before you as a friend and you are also my well-wisher. I will try on your account, so that you can truly obtain riches.’",
+          "speaker": "kashyapa_cheerfully",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When it was morning, he asked him{265} whether he was comfortable and said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O amiable one! Advance along this path and you will be successful. Once you have travelled three yojanas, there will be a great lord of the rakshasas. He is immensely strong and is known by the name of Virupaksha. He is my friend. O best among brahmanas! Go to him. Because of my telling him, there is no doubt that he will give you as much of riches as you desire.’",
+          "speaker": "kashyapa_cheerfully",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! Having been thus addressed, Goutama was no longer exhausted and departed.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O great king! Along the way, as much as he wished, he ate fruit that was like amrita and progressed quickly. There were excellent forests of sandalwood, aloe and cinnamon. He reached a city named Meruvraja, with stone walls. There were ramparts made out of stone and a mechanical gate made out of stone. O king! It was announced to the intelligent Indra among rakshasas that a beloved well-wisher had sent a beloved guest to him. O Yudhishthira! At this, the Indra among rakshasas told his messengers, ‘Goutama has arrived at the gates of the city. Quickly go and bring him here.’ Men attired in white garments emerged from that supreme city. O great king! The messengers of the lord of the rakshasas went to the city gates and told the brahmana, ‘O Goutama! Make haste and come quickly. The king wishes to see you. The brave lord of the rakshasas is Virupaksha and you have heard of him. He wishes to see you swiftly. Therefore, you must make haste.’ Because of his amazement, the brahmana's exhaustion vanished and he hurried. Goutama saw the prosperity of the city and marvelled greatly. With the servants, he quickly arrived at the king's residence. At that time, the brahmana wished to see the Indra among the rakshasas.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O great king! Along the way, as much as he wished, he ate fruit that was like amrita and progressed quickly. There were excellent forests of sandalwood, aloe and cinnamon. He reached a city named Meruvraja, with stone walls. There were ramparts made out of stone and a mechanical gate made out of stone. O king! It was announced to the intelligent Indra among rakshasas that a beloved well-wisher had sent a beloved guest to him. O Yudhishthira! At this, the Indra among rakshasas told his messengers, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Goutama has arrived at the gates of the city. Quickly go and bring him here.’",
+          "speaker": "kashyapa_cheerfully",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Men attired in white garments emerged from that supreme city. O great king! The messengers of the lord of the rakshasas went to the city gates and told the brahmana, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Goutama! Make haste and come quickly. The king wishes to see you. The brave lord of the rakshasas is Virupaksha and you have heard of him. He wishes to see you swiftly. Therefore, you must make haste.’",
+          "speaker": "kashyapa_cheerfully",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Because of his amazement, the brahmana's exhaustion vanished and he hurried. Goutama saw the prosperity of the city and marvelled greatly. With the servants, he quickly arrived at the king's residence. At that time, the brahmana wished to see the Indra among the rakshasas.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

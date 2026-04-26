@@ -1,0 +1,114 @@
+{
+  "chapter": 15,
+  "local": 15,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘O great ascetic! At around this time, the two sisters once saw Ucchaihshrava approach towards them. This gem, the best of horses, was worshipped by all the gods when he arose when the ocean was churned for nectar. This horse was supreme, of unsurpassed strength, divine, forever young, wonderful and decorated with all the auspicious marks.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O great ascetic! At around this time, the two sisters once saw Ucchaihshrava approach towards them. This gem, the best of horses, was worshipped by all the gods when he arose when the ocean was churned for nectar. This horse was supreme, of unsurpassed strength, divine, forever young, wonderful and decorated with all the auspicious marks.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Shounaka asked, ‘Where and how did the gods churn the ocean for nectar, from which you say this powerful and resplendent king of horses arose? Tell me this.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Shounaka asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shounaka",
+          "introduces_label": "Shounaka",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Where and how did the gods churn the ocean for nectar, from which you say this powerful and resplendent king of horses arose? Tell me this.’",
+          "speaker": "@shounaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘There is a supreme mountain named Meru that is blazing with energy. The sun's rays are scattered when they fall on its golden and glowing peaks. Adorned with ornaments of gold and frequented by gods and gandharvas, this is unfathomable and unattainable to those who have committed many sins. Fearful beasts of prey roam its heights and divine herbs illuminate it. That great mountain arises high to cover the vaults of heaven. It cannot be approached through the imagination. It is bedecked with many trees and rivers and it echoes with the beautiful melodies of many birds. It has stood aloft for many eras. It was on this peak's bejewelled and beautiful summit that all the revered gods ascended. Those who had practised austerities and observed vows gathered and held consultations about how they might obtain the ambrosia. When all the gods thought and consulted each other, the god Narayana{11} spoke to Brahma. “The pot of curdled milk{12} must be churned by the gods and the demons together. When that is done, ambrosia and all the herbs and all the jewels will emerge. O gods! Therefore, churn the ocean and you will get the ambrosia.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘There is a supreme mountain named Meru that is blazing with energy. The sun's rays are scattered when they fall on its golden and glowing peaks. Adorned with ornaments of gold and frequented by gods and gandharvas, this is unfathomable and unattainable to those who have committed many sins. Fearful beasts of prey roam its heights and divine herbs illuminate it. That great mountain arises high to cover the vaults of heaven. It cannot be approached through the imagination. It is bedecked with many trees and rivers and it echoes with the beautiful melodies of many birds. It has stood aloft for many eras. It was on this peak's bejewelled and beautiful summit that all the revered gods ascended. Those who had practised austerities and observed vows gathered and held consultations about how they might obtain the ambrosia. When all the gods thought and consulted each other, the god Narayana{11} spoke to Brahma. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The pot of curdled milk{12} must be churned by the gods and the demons together. When that is done, ambrosia and all the herbs and all the jewels will emerge. O gods! Therefore, churn the ocean and you will get the ambrosia.”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

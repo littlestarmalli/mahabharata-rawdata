@@ -1,0 +1,216 @@
+{
+  "chapter": 1395,
+  "local": 67,
+  "shlokas": 38,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “You have spoken about the four ashramas and also about the four varnas. O grandfather! Tell me about the tasks a kingdom should perform.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You have spoken about the four ashramas and also about the four varnas. O grandfather! Tell me about the tasks a kingdom should perform.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “The most important task for a kingdom is the consecration of a king. A kingdom without an Indra is weak and is overwhelmed by bandits. There is no dharma in a kingdom that does not have a king. Everyone devours each other. In every way, shame on a state without a king! The learned texts say that Indra is crowned in the form of a king. Those who desire prosperity should revere the king, like Indra. The Vedas say that one should not dwell in a kingdom without a king. In a kingdom without a king, oblations are not carried by the ﬁre. If a more powerful person desires the kingdom and attacks the kingdom without a king, or if the king has been slain, it is good advice to welcome and honour the invader. There is nothing more evil than to be without a king. If a powerful one is enraged, everything will be destroyed. However, if he looks on everything equally, all will be well. A cow that is difﬁcult to milk confronts hardship repeatedly. However, one that is easy to milk never faces a difﬁculty. If one bends down, one is not scorched and tormented. A tree that bends down on its own is not afﬂicted. Because of these analogies, those who are patient bow down before stronger ones. Bowing down before a stronger person is like bowing down before Indra. Those who desire prosperity must always get a king. If there is no king, there is nothing to be gained from possessing riches and nothing to be gained from possessing wives. If there is no king, a wicked person cheerfully steals the property of others. However, when others steal what belongs to him, he wishes for a king. Even the wicked can never obtain peace then. Two steal what belongs to one and many others steal what belongs to two. One who is not a slave is made to become a slave. Women are forcibly abducted. It is because of these reasons that the gods arranged for the protection of subjects. Without a king in this world, no one would wield the rod of chastisement on earth. Like ﬁsh on a stake, the stronger would oppress the weaker side. We have heard that subjects without a king have been destroyed in the past. They will devour each other, like ﬁsh in the water, preying on weaker ones. We have heard that people got together and arrived at an agreement. ‘There are men who are harsh in speech. They wield rods. They abduct the wives of others. They take what belongs to others and act in similar ways. We must discard these.’ In particular, they wished to assure all the varnas and treat all of them equally. But having arrived at this agreement, they did not abide by it. Afﬂicted by misery, all of them assembled and went to the grandfather then. ‘O illustrious one! Without a lord, we are being destroyed. Appoint a lord for us. He will be one who will protect us and all of us will honour him.’ He appointed Manu, but Manu did not delight them.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The most important task for a kingdom is the consecration of a king. A kingdom without an Indra is weak and is overwhelmed by bandits. There is no dharma in a kingdom that does not have a king. Everyone devours each other. In every way, shame on a state without a king! The learned texts say that Indra is crowned in the form of a king. Those who desire prosperity should revere the king, like Indra. The Vedas say that one should not dwell in a kingdom without a king. In a kingdom without a king, oblations are not carried by the ﬁre. If a more powerful person desires the kingdom and attacks the kingdom without a king, or if the king has been slain, it is good advice to welcome and honour the invader. There is nothing more evil than to be without a king. If a powerful one is enraged, everything will be destroyed. However, if he looks on everything equally, all will be well. A cow that is difﬁcult to milk confronts hardship repeatedly. However, one that is easy to milk never faces a difﬁculty. If one bends down, one is not scorched and tormented. A tree that bends down on its own is not afﬂicted. Because of these analogies, those who are patient bow down before stronger ones. Bowing down before a stronger person is like bowing down before Indra. Those who desire prosperity must always get a king. If there is no king, there is nothing to be gained from possessing riches and nothing to be gained from possessing wives. If there is no king, a wicked person cheerfully steals the property of others. However, when others steal what belongs to him, he wishes for a king. Even the wicked can never obtain peace then. Two steal what belongs to one and many others steal what belongs to two. One who is not a slave is made to become a slave. Women are forcibly abducted. It is because of these reasons that the gods arranged for the protection of subjects. Without a king in this world, no one would wield the rod of chastisement on earth. Like ﬁsh on a stake, the stronger would oppress the weaker side. We have heard that subjects without a king have been destroyed in the past. They will devour each other, like ﬁsh in the water, preying on weaker ones. We have heard that people got together and arrived at an agreement. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There are men who are harsh in speech. They wield rods. They abduct the wives of others. They take what belongs to others and act in similar ways. We must discard these.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " In particular, they wished to assure all the varnas and treat all of them equally. But having arrived at this agreement, they did not abide by it. Afﬂicted by misery, all of them assembled and went to the grandfather then. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Without a lord, we are being destroyed. Appoint a lord for us. He will be one who will protect us and all of us will honour him.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He appointed Manu, but Manu did not delight them.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Manu said, ‘I am scared of performing cruel deeds and ruling a kingdom is an exceedingly difﬁcult task. In particular, men are always engaged in false conduct.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Manu said, ",
+          "speaker": "@bhishma",
+          "introduces": "@manu",
+          "introduces_label": "Manu",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am scared of performing cruel deeds and ruling a kingdom is an exceedingly difﬁcult task. In particular, men are always engaged in false conduct.’",
+          "speaker": "@manu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “The subjects replied, ‘Do not be frightened. Those deeds will go away{673}. We will give you one-ﬁftieth of our animals and gold and one-tenth of our grain and thereby increase your treasury. The men who are foremost in wielding weapons and arrows will follow you as their chief, like the gods behind the great Indra. O king! Strength will be engendered in you and you will become unassailable and powerful. You will then happily support all of us, like Kubera did the nairittas{674}. The subjects will be protected well by the king and follow their own dharma. One-fourth of that dharma will belong to you. You will easily obtain power through this great dharma. O king! In every way, we promise this to you, like the gods to Shatakratu. Swiftly depart for victory and scorch like the one with the rays{675}. Dispel the pride of our enemies. Dharma always triumphs.’ Surrounded by a large army, that greatly energetic one advanced. He was born in an extremely great lineage and seemed to blaze in his energy. On beholding his greatness, like the gods before the great Indra, everyone was ﬁlled with fright. They made up their minds to stick to their own dharma. He roamed the earth, like Parjanya showering down rain. He paciﬁed all the wicked ones and employed them in their own tasks. In this way, men on earth who desire prosperity must ﬁrst arrange for a king. This is for the sake of the welfare of the subjects. They must always bow down before him with devotion, like disciples before a preceptor. In the presence of the king, the subjects must be like the gods before the one with a thousand eyes{676}. When a person is revered by his own people, the enemy also respects him a lot. When a person is disrespected by his own people, the enemy disregards him. When a king is vanquished by the enemy, this brings unhappiness to everyone. That is the reason a king is given umbrellas, conveyances, garments, ornaments, food, drinks, houses, seats, beds and all the required implements. He must protect his own self and become unassailable. He must smile before speaking. When he is addressed by men, he must reply in pleasant tones. He must be grateful and ﬁrm in his devotion. He must be prepared to share things. He must conquer his senses. When glanced at, he must be mild, direct and attractive in looking back.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The subjects replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_subjects",
+          "introduces_label": "The subjects",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do not be frightened. Those deeds will go away{673}. We will give you one-ﬁftieth of our animals and gold and one-tenth of our grain and thereby increase your treasury. The men who are foremost in wielding weapons and arrows will follow you as their chief, like the gods behind the great Indra. O king! Strength will be engendered in you and you will become unassailable and powerful. You will then happily support all of us, like Kubera did the nairittas{674}. The subjects will be protected well by the king and follow their own dharma. One-fourth of that dharma will belong to you. You will easily obtain power through this great dharma. O king! In every way, we promise this to you, like the gods to Shatakratu. Swiftly depart for victory and scorch like the one with the rays{675}. Dispel the pride of our enemies. Dharma always triumphs.’",
+          "speaker": "the_subjects",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Surrounded by a large army, that greatly energetic one advanced. He was born in an extremely great lineage and seemed to blaze in his energy. On beholding his greatness, like the gods before the great Indra, everyone was ﬁlled with fright. They made up their minds to stick to their own dharma. He roamed the earth, like Parjanya showering down rain. He paciﬁed all the wicked ones and employed them in their own tasks. In this way, men on earth who desire prosperity must ﬁrst arrange for a king. This is for the sake of the welfare of the subjects. They must always bow down before him with devotion, like disciples before a preceptor. In the presence of the king, the subjects must be like the gods before the one with a thousand eyes{676}. When a person is revered by his own people, the enemy also respects him a lot. When a person is disrespected by his own people, the enemy disregards him. When a king is vanquished by the enemy, this brings unhappiness to everyone. That is the reason a king is given umbrellas, conveyances, garments, ornaments, food, drinks, houses, seats, beds and all the required implements. He must protect his own self and become unassailable. He must smile before speaking. When he is addressed by men, he must reply in pleasant tones. He must be grateful and ﬁrm in his devotion. He must be prepared to share things. He must conquer his senses. When glanced at, he must be mild, direct and attractive in looking back.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

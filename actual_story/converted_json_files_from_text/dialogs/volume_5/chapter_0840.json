@@ -1,0 +1,294 @@
+{
+  "chapter": 840,
+  "local": 177,
+  "shlokas": 24,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “O lord! Having been thus asked to kill Bhishma, Rama spoke to the weeping maiden, who kept urging him repeatedly. ‘O descendant of Kashi! O one who is beautiful in complexion! I do not voluntarily take up weapons, except for the sake of those who are learned about the brahman{24}. What else can I do for you? O princess! Both Bhishma and Shalva will listen to my words and obey my instructions. O one with the unblemished limbs! I can do that. Do not grieve. O beautiful one! But I cannot take up weapons in any way, unless I am instructed to do so by brahmanas. That is my resolution.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! Having been thus asked to kill Bhishma, Rama spoke to the weeping maiden, who kept urging him repeatedly. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O descendant of Kashi! O one who is beautiful in complexion! I do not voluntarily take up weapons, except for the sake of those who are learned about the brahman{24}. What else can I do for you? O princess! Both Bhishma and Shalva will listen to my words and obey my instructions. O one with the unblemished limbs! I can do that. Do not grieve. O beautiful one! But I cannot take up weapons in any way, unless I am instructed to do so by brahmanas. That is my resolution.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Amba replied, ‘O illustrious one! Dispel the grief that Bhishma has unleashed on me. O lord! Without any delay, kill him.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Amba replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@amba",
+          "introduces_label": "Amba",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Dispel the grief that Bhishma has unleashed on me. O lord! Without any delay, kill him.’",
+          "speaker": "@amba",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Rama said, ‘O daughter of Kashi! If you speak the word, no matter how revered he is, Bhishma will follow my instructions and lower his head at your feet.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Rama said, ",
+          "speaker": "@bhishma",
+          "introduces": "@parashurama",
+          "introduces_label": "Rama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O daughter of Kashi! If you speak the word, no matter how revered he is, Bhishma will follow my instructions and lower his head at your feet.’",
+          "speaker": "@parashurama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Amba replied, ‘O Rama! If you wish to do that which brings me pleasure, kill Bhishma in battle. Since you have made your promise, it is proper that you should make that pledge come true.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Amba replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@amba",
+          "introduces_label": "Amba",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Rama! If you wish to do that which brings me pleasure, kill Bhishma in battle. Since you have made your promise, it is proper that you should make that pledge come true.’",
+          "speaker": "@amba",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhisma said, “O king! While Rama and Amba were arguing in this way, Akritavrana spoke these words to Jamadagni's son. ‘O mighty-armed one! You should not give up the maiden who has sought refuge with you. O Rama! Kill Bhishma, who roars like an asura, in battle. O Rama! O mighty sage! If Bhishma challenges you in battle, he will either be vanquished, or he will act in accordance with your words. O descendant of the Bhrigu lineage! The task of this maiden will then be done. O brave one! O lord! The words that you have spoken will come true. O Rama! O great sage! Once upon a time, you took a pledge. O Bhargava! You promised the brahmanas that if a brahmana, a kshatriya, a vaishya or a shudra came to hate brahmanas, you would kill him in battle. O one who provides refuge! Even for the sake of your own life, you said you were incapable of forsaking a terriﬁed person who seeks refuge with you, even if all the kshatriyas assemble against you in battle. O Bhargava! You said you would slay such insolent ones. O Rama! Bhishma, the extender of the Kuru lineage, is triumphant. O descendant of the Bhrigu lineage! Confront him in a battle and ﬁght with him.’ ‘“Rama replied, ‘O supreme among rishis! I remember the promise I made in earlier times. I will do what can be achieved through conciliation. O brahmana! The task that this maiden from Kashi has set her mind on is great. I will take this maiden and myself go to Bhishma. Insolent in war, if he does not act in accordance with my words, it is my certain resolution that I will kill that insolent person. The arrows that I unleash do not remain in bodies{25}. You learnt that earlier, in the battle with the kshatriyas.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhisma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhisma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! While Rama and Amba were arguing in this way, Akritavrana spoke these words to Jamadagni's son. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O mighty-armed one! You should not give up the maiden who has sought refuge with you. O Rama! Kill Bhishma, who roars like an asura, in battle. O Rama! O mighty sage! If Bhishma challenges you in battle, he will either be vanquished, or he will act in accordance with your words. O descendant of the Bhrigu lineage! The task of this maiden will then be done. O brave one! O lord! The words that you have spoken will come true. O Rama! O great sage! Once upon a time, you took a pledge. O Bhargava! You promised the brahmanas that if a brahmana, a kshatriya, a vaishya or a shudra came to hate brahmanas, you would kill him in battle. O one who provides refuge! Even for the sake of your own life, you said you were incapable of forsaking a terriﬁed person who seeks refuge with you, even if all the kshatriyas assemble against you in battle. O Bhargava! You said you would slay such insolent ones. O Rama! Bhishma, the extender of the Kuru lineage, is triumphant. O descendant of the Bhrigu lineage! Confront him in a battle and ﬁght with him.’",
+          "speaker": "@amba",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘",
+          "speaker": "@amba",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Rama replied, ",
+          "speaker": "@amba",
+          "introduces": "@parashurama",
+          "introduces_label": "Rama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 5,
+          "text": "‘O supreme among rishis! I remember the promise I made in earlier times. I will do what can be achieved through conciliation. O brahmana! The task that this maiden from Kashi has set her mind on is great. I will take this maiden and myself go to Bhishma. Insolent in war, if he does not act in accordance with my words, it is my certain resolution that I will kill that insolent person. The arrows that I unleash do not remain in bodies{25}. You learnt that earlier, in the battle with the kshatriyas.’",
+          "speaker": "@parashurama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "”",
+          "speaker": "@amba",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘Bhishma said, “Having spoken in this way, the immensely intelligent Rama arose, together with those who knew about the brahman, having made up his mind to leave. The ascetics spent the night there. They offered oblations into the ﬁre. They prayed and meditated. Then they departed, desiring to kill me. O great king! O descendant of the Bharata lineage! With those bulls among brahmanas and with the maiden, Rama went to Kurukshetra. Having reached the Sarasvati, those great-souled ascetics, with the foremost among the Bhrigus at the forefront, began to dwell there.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having spoken in this way, the immensely intelligent Rama arose, together with those who knew about the brahman, having made up his mind to leave. The ascetics spent the night there. They offered oblations into the ﬁre. They prayed and meditated. Then they departed, desiring to kill me. O great king! O descendant of the Bharata lineage! With those bulls among brahmanas and with the maiden, Rama went to Kurukshetra. Having reached the Sarasvati, those great-souled ascetics, with the foremost among the Bhrigus at the forefront, began to dwell there.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

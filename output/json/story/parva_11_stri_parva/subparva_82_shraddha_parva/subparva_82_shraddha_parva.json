@@ -1,0 +1,20 @@
+{
+  "name": "Shraddha Parva",
+  "subparva_number": 82,
+  "source_volume": 8,
+  "file_path": "output/volumes/volume_8_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 44
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "chapters": {
+    "1327": {
+      "chapter_number": 1327,
+      "global_number": 1327,
+      "local_number": 26,
+      "num_shlokas": 44,
+      "file": "subparva_82_shraddha_parva/chapter_1327.json"
+    }
+  }
+}

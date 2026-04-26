@@ -1,0 +1,98 @@
+{
+  "chapter_number": 350,
+  "global_number": 350,
+  "local_number": 53,
+  "num_shlokas": 21,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Brihadashva said, “She bowed to the gods and smilingly told Nala, ‘O king! What can I do for you? Tell me with love and respect. I, and whatever riches I possess, are all yours. O lord! Show me love with respect. O king! I have been tormented by the words of the swan. O brave one! It is for your sake that I have assembled the kings here. O one who shows respect! I love you. If you reject me, for your sake, I will have to ﬁnd refuge with poison, ﬁre, water or the rope{86}.’ Thus addressed by the daughter of Vidarbha, Nala replied, ‘How do you desire a man when the lords of the worlds are here? I am not equal to the dust on the feet of those great-souled lords, the creators of the worlds. Turn your mind towards them. A mortal one who causes displeasure to the gods wishes for death. O beautiful and unblemished one! Therefore, save me by choosing from the supreme among the gods.’ Then the sweetsmiling Damayanti, whose voice was choked with tears, replied to King Nala in soft words, ‘O lord of men! I see a way, a way that will bring no sin. O king! Then no evil will be attached to you. O best of men! You and all the gods, with Indra at the forefront, must come together to where my svayamvara takes place. O lord of men! O tiger among men! There, in the presence of the lords of the world, I will choose you and no sin will be attached to you.’ O lord of the earth! Thus addressed by the daughter of Vidarbha, King Nala returned to where the gods had assembled.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Brihadashva said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@brihadashva",
+          "text": "“She bowed to the gods and smilingly told Nala, ‘O king! What can I do for you? Tell me with love and respect. I, and whatever riches I possess, are all yours. O lord! Show me love with respect. O king! I have been tormented by the words of the swan. O brave one! It is for your sake that I have assembled the kings here. O one who shows respect! I love you. If you reject me, for your sake, I will have to ﬁnd refuge with poison, ﬁre, water or the rope{86}.’ Thus addressed by the daughter of Vidarbha, Nala replied, ‘How do you desire a man when the lords of the worlds are here? I am not equal to the dust on the feet of those great-souled lords, the creators of the worlds. Turn your mind towards them. A mortal one who causes displeasure to the gods wishes for death. O beautiful and unblemished one! Therefore, save me by choosing from the supreme among the gods.’ Then the sweetsmiling Damayanti, whose voice was choked with tears, replied to King Nala in soft words, ‘O lord of men! I see a way, a way that will bring no sin. O king! Then no evil will be attached to you. O best of men! You and all the gods, with Indra at the forefront, must come together to where my svayamvara takes place. O lord of men! O tiger among men! There, in the presence of the lords of the world, I will choose you and no sin will be attached to you.’ O lord of the earth! Thus addressed by the daughter of Vidarbha, King Nala returned to where the gods had assembled.",
+          "color": "#4ED953",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“The lords of the worlds, together with their lord{87}, saw him return. On seeing him, they asked him about everything that had happened. The gods asked, ‘O king! Did you see the sweet-smiling Damayanti? O king! O unblemished one! Tell us everything that she said.’ Nala replied, ‘As instructed by you, I entered Damayanti’s palace. It had large and excellent rooms and was surrounded by elderly guards with staffs. When I entered, because of your energy, no man saw me, except for the daughter of the king. I saw her friends and they saw me too. O lords of the gods! All of them were astounded on seeing me. I told the one with the beautiful face everything about you. O supreme among the gods! But she has set her heart on me and will choose me. The lady said, “O best of men! Let all the gods come with you to my svayamvara. O supreme among men! O mighty-armed one! I will then choose you in their presence and no sin will be attached to you.” O lords of the thirty{88}! I have related to you exactly what occurred there. But it is for you to decide what should be done.’”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@brihadashva",
+          "text": "‘",
+          "color": "#4ED953",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@brihadashva",
+          "text": "“The lords of the worlds, together with their lord{87}, saw him return. On seeing him, they asked him about everything that had happened. The gods asked, ‘O king! Did you see the sweet-smiling Damayanti? O king! O unblemished one! Tell us everything that she said.’ Nala replied, ‘As instructed by you, I entered Damayanti’s palace. It had large and excellent rooms and was surrounded by elderly guards with staffs. When I entered, because of your energy, no man saw me, except for the daughter of the king. I saw her friends and they saw me too. O lords of the gods! All of them were astounded on seeing me. I told the one with the beautiful face everything about you.",
+          "color": "#4ED953",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "attribution",
+          "speaker": "@brihadashva",
+          "text": "O supreme among the gods! But she has set her heart on me and will choose me. The lady said",
+          "color": "#4ED953",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@o_supreme_among_the",
+          "text": "“O best of men! Let all the gods come with you to my svayamvara. O supreme among men! O mighty-armed one! I will then choose you in their presence and no sin will be attached to you.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@brihadashva",
+          "text": "O lords of the thirty{88}! I have related to you exactly what occurred there. But it is for you to decide what should be done.’”",
+          "color": "#4ED953",
+          "opacity": 1.0,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@brihadashva",
+          "text": "’",
+          "color": "#4ED953",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    }
+  }
+}

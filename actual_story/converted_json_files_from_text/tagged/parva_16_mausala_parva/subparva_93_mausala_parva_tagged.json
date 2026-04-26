@@ -1,0 +1,1230 @@
+{
+  "name": "Mausala Parva",
+  "subparva_number": 93,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 273
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1979": {
+      "global_number": 1979,
+      "local_number": 1,
+      "num_shlokas": 11,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When thirty-six years had passed, Yudhishthira, descendant of the Kuru lineage, saw contrary portents. Rough and violent winds began to blow, showering stones. Birds began to circle around on the left{1}. The giant rivers retraced their courses. The directions were covered in mist. From the sky, meteors showered down on the ground, with blazing coals. O king! The solar disc was covered in dust. When it arose, the sun always seemed to be without any rays and headless torsos could be seen in it. The sun and the moon were seen to be enveloped in terrible circles. These had three colours, black and rough at the extremities and with red and hues like ash elsewhere. There were many other omens, signifying fear and terror. O king! These could be seen continuously and caused anxiety in the minds. After some time, Yudhishthira, king of the Kurus, heard of the carnage that had occurred among the Vrishnis because of the clubs. Pandava heard that only Vasudeva and Rama{2} had escaped. He summoned his brothers, to discuss what should be done. Having heard that the Vrishnis had been destroyed because of the force of the brahmana’s staff{3}, the Pandavas were distressed and consulted each other. The brave ones could not believe the death of Vasudeva, the wielder of the Sharnga bow{4}. It was like the drying up of the ocean. Hearing about the incident with the clubs, they were overcome by sorrow and grief. Distressed and devoid of resolution, the Pandavas sat down.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When thirty-six years had passed, Yudhishthira, descendant of the Kuru lineage, saw contrary portents. Rough and violent winds began to blow, showering stones. Birds began to circle around on the left{1}. The giant rivers retraced their courses. The directions were covered in mist. From the sky, meteors showered down on the ground, with blazing coals. O king! The solar disc was covered in dust. When it arose, the sun always seemed to be without any rays and headless torsos could be seen in it. The sun and the moon were seen to be enveloped in terrible circles. These had three colours, black and rough at the extremities and with red and hues like ash elsewhere. There were many other omens, signifying fear and terror. O king! These could be seen continuously and caused anxiety in the minds. After some time, Yudhishthira, king of the Kurus, heard of the carnage that had occurred among the Vrishnis because of the clubs. Pandava heard that only Vasudeva and Rama{2} had escaped. He summoned his brothers, to discuss what should be done. Having heard that the Vrishnis had been destroyed because of the force of the brahmana’s staff{3}, the Pandavas were distressed and consulted each other. The brave ones could not believe the death of Vasudeva, the wielder of the Sharnga bow{4}. It was like the drying up of the ocean. Hearing about the incident with the clubs, they were overcome by sorrow and grief. Distressed and devoid of resolution, the Pandavas sat down.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1980": {
+      "global_number": 1980,
+      "local_number": 2,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘O illustrious one! While Vasudeva looked on, how were the Andhakas, the Vrishnis and the maharatha Bhojas destroyed?’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O illustrious one! While Vasudeva looked on, how were the Andhakas, the Vrishnis and the maharatha Bhojas destroyed?’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana replied, ‘After thirty-six years passed, there was a great destruction of the Vrishnis. Goaded by destiny, they killed each other with clubs.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana replied,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After thirty-six years passed, there was a great destruction of the Vrishnis. Goaded by destiny, they killed each other with clubs.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Janamejaya asked, ‘Who cursed the brave Vrishnis, Andhakas and Bhojas and caused their destruction? O best of brahmanas! Tell me in detail.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Who cursed the brave Vrishnis, Andhakas and Bhojas and caused their destruction? O best of brahmanas! Tell me in detail.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘One day, those brave ones, Sarana and the others{5}, saw Vishvamitra, Kanva and Narada, store of austerities, when they came to Dvaraka. They placed Samba ahead of them and dressed him up as a woman. Goaded by the rod of destiny, they approached them and said, “This is the wife of the inﬁnitely energetic Babhru and desires a son. O rishis! O virtuous ones! Do you know how she can give birth?” O king! Speaking in this way, they sought to deceive those brahmanas. O lord of men! Listen to what those sages said in reply. “Vasudeva’s son, Samba, will give birth to a terrible and iron club for the destruction of the Vrishnis and the Andhakas. You are evil in conduct, cruel and insolent. With the exception of Rama and Janardana, you will exterminate your entire lineage. The one with the plough as his weapon{6} will go to the ocean and cast aside his handsome body there. When the great-souled Krishna is lying down on the ground, Jara will pierce him.” They spoke in this way to the evil-souled ones who had tried to deceive them. The eyes of the sages were red with rage and they glanced towards each other. Having said this, the sages went off to see Keshava.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘One day, those brave ones, Sarana and the others{5}, saw Vishvamitra, Kanva and Narada, store of austerities, when they came to Dvaraka. They placed Samba ahead of them and dressed him up as a woman.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Goaded by the rod of destiny, they approached them and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@by_the_rod",
+              "text": "“This is the wife of the inﬁnitely energetic Babhru and desires a son. O rishis! O virtuous ones! Do you know how she can give birth?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! Speaking in this way, they sought to deceive those brahmanas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "O lord of men! Listen to what those sages said in reply",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@o_lord_of_men",
+              "text": "“Vasudeva’s son, Samba, will give birth to a terrible and iron club for the destruction of the Vrishnis and the Andhakas. You are evil in conduct, cruel and insolent. With the exception of Rama and Janardana, you will exterminate your entire lineage. The one with the plough as his weapon{6} will go to the ocean and cast aside his handsome body there. When the great-souled Krishna is lying down on the ground, Jara will pierce him.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "They spoke in this way to the evil-souled ones who had tried to deceive them. The eyes of the sages were red with rage and they glanced towards each other. Having said this, the sages went off to see Keshava.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Madhusudana told the Vrishnis what he had heard. The intelligent one knew about the end and told them that it would indeed happen in this way. Having told them this, Hrishikesha again entered his own house. The lord of the universe did not desire that the end should come about in any other way. Next day, Samba gave birth to a club. This was for the destruction of the Vrishnis and the Andhakas and looked like Yama’s giant messenger{7}. Because of the terrible curse, he gave birth to this and this was reported to the king{8}. The king was distressed and instructed that this should be crushed into tiny fragments. On the instructions of the king, men ﬂung these into the ocean. Ahuka’s instructions were proclaimed throughout the city. “From today, for all the residents of the city, in the houses of the Vrishnis and the Andhakas, there will be no drinking of liquor. If there is any man who does not listen to this and prepares liquor, he will himself be impaled alive on a stake and so will his relatives.” Out of fear for the king, everyone followed this rule. The men obeyed the commands of the great-souled king.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Madhusudana told the Vrishnis what he had heard. The intelligent one knew about the end and told them that it would indeed happen in this way. Having told them this, Hrishikesha again entered his own house. The lord of the universe did not desire that the end should come about in any other way. Next day, Samba gave birth to a club. This was for the destruction of the Vrishnis and the Andhakas and looked like Yama’s giant messenger{7}. Because of the terrible curse, he gave birth to this and this was reported to the king{8}. The king was distressed and instructed that this should be crushed into tiny fragments. On the instructions of the king, men ﬂung these into the ocean. Ahuka’s instructions were proclaimed throughout the city.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“From today, for all the residents of the city, in the houses of the Vrishnis and the Andhakas, there will be no drinking of liquor. If there is any man who does not listen to this and prepares liquor, he will himself be impaled alive on a stake and so will his relatives.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Out of fear for the king, everyone followed this rule. The men obeyed the commands of the great-souled king.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1981": {
+      "global_number": 1981,
+      "local_number": 3,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The Vrishnis and the Andhakas tried in this way. But Death always wandered around, in all their homes. His embodied form was that of a ﬁerce and malformed man, dark and tawny, and with a shaved head. Sometimes, the Vrishnis saw him looking into their houses. At other times, they couldn’t see him. Day by day, ﬁerce and terrible winds began to blow and there were many other evil portents for the destruction of the Vrishnis and the Andhakas and these made the body hair stand up. Rats covered the roads and the pots{9} were shattered. Sarika birds shrieked outside their houses and even inside the homes of the Vrishnis. Whether it was night or whether it was day, those sounds did not cease. The cranes made sounds like owls. O descendant of the Bharata lineage! The goats made sounds like jackals. Pigeons wandered around in the houses of the Vrishnis and the Andhakas. Goaded by destiny, there were other birds, pale in complexion and red of feet. Asses were born from cows and elephants from donkeys. Cats were born from bitches and mice from mongooses. When they committed wicked deeds, the Vrishnis no longer repented. They hated and disrespected brahmanas, ancestors, gods and seniors. Rama and Janardana were alone the exceptions. Wives deceived their husbands and husbands cheated their wives. When a ﬁre was lit, the ﬂames circled to the left. Sometimes ﬂames ﬂared out and these were separately blue and red. When the sun was setting or rising, those wicked men always saw that it was surrounded by headless torsos. O descendant of the Bharata lineage! O lord of men! When clean food was cooked in the kitchen, at the time of eating, it was seen to be full of worms. When great-souled ones meditated and chanted, instead of those sounds, the sounds of running feet could be heard, though no one was seen. The nakshatras repeatedly clashed against each other. No one could any longer see his own planet{10}. When Panchajanya{11} was blown in the houses of the Vrishnis and the Andhakas, in every direction, instead of its sound, one could hear the terrible sounds of donkeys braying. ‘On seeing this Hrishikesha realized that the time of catastrophe had arrived. He saw that the thirteenth lunar tithi had merged into the night of the new moon and said, “Rahu has devoured the fourteenth and ﬁfteenth lunar tithis. This happened at the time of the Bharata war and has again occurred for our destruction.” Remembering that time, Janardana thought. The slayer of Keshi reﬂected{12}, “Thirty-six years have passed since the time when Gandhari was tormented by sorrow on account of her sons and the slaying of her relatives. She was afﬂicted and the time has arrived. On an earlier occasion, when the battle formations were arrayed, Yudhishthira saw similar extremely terrible portents and spoke about them. That kind of time has arrived.” Thinking in this way, Vasudeva wished to make this come true{13}. The scorcher of enemies instructed that they should leave for a visit to a tirtha. On Keshava’s instructions, the men issued such a proclamation. The bulls among men prepared to visit a tirtha on the shores of the ocean.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The Vrishnis and the Andhakas tried in this way. But Death always wandered around, in all their homes. His embodied form was that of a ﬁerce and malformed man, dark and tawny, and with a shaved head. Sometimes, the Vrishnis saw him looking into their houses. At other times, they couldn’t see him. Day by day, ﬁerce and terrible winds began to blow and there were many other evil portents for the destruction of the Vrishnis and the Andhakas and these made the body hair stand up. Rats covered the roads and the pots{9} were shattered. Sarika birds shrieked outside their houses and even inside the homes of the Vrishnis. Whether it was night or whether it was day, those sounds did not cease. The cranes made sounds like owls. O descendant of the Bharata lineage! The goats made sounds like jackals. Pigeons wandered around in the houses of the Vrishnis and the Andhakas. Goaded by destiny, there were other birds, pale in complexion and red of feet. Asses were born from cows and elephants from donkeys. Cats were born from bitches and mice from mongooses. When they committed wicked deeds, the Vrishnis no longer repented. They hated and disrespected brahmanas, ancestors, gods and seniors. Rama and Janardana were alone the exceptions. Wives deceived their husbands and husbands cheated their wives. When a ﬁre was lit, the ﬂames circled to the left. Sometimes ﬂames ﬂared out and these were separately blue and red. When the sun was setting or rising, those wicked men always saw that it was surrounded by headless torsos. O descendant of the Bharata lineage! O lord of men! When clean food was cooked in the kitchen, at the time of eating, it was seen to be full of worms. When great-souled ones meditated and chanted, instead of those sounds, the sounds of running feet could be heard, though no one was seen. The nakshatras repeatedly clashed against each other. No one could any longer see his own planet{10}. When Panchajanya{11} was blown in the houses of the Vrishnis and the Andhakas, in every direction, instead of its sound, one could hear the terrible sounds of donkeys braying. ‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing this Hrishikesha realized that the time of catastrophe had arrived. He saw that the thirteenth lunar tithi had merged into the night of the new moon and said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Rahu has devoured the fourteenth and ﬁfteenth lunar tithis. This happened at the time of the Bharata war and has again occurred for our destruction.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Remembering that time, Janardana thought. The slayer of Keshi reﬂected{12},",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Thirty-six years have passed since the time when Gandhari was tormented by sorrow on account of her sons and the slaying of her relatives. She was afﬂicted and the time has arrived. On an earlier occasion, when the battle formations were arrayed, Yudhishthira saw similar extremely terrible portents and spoke about them. That kind of time has arrived.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thinking in this way, Vasudeva wished to make this come true{13}. The scorcher of enemies instructed that they should leave for a visit to a tirtha. On Keshava’s instructions, the men issued such a proclamation. The bulls among men prepared to visit a tirtha on the shores of the ocean.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1982": {
+      "global_number": 1982,
+      "local_number": 4,
+      "num_shlokas": 46,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘In their sleep during the night, the women saw a dark lady with white teeth enter Dvaraka and run around there, laughing and plundering. Extremely terrible rakshasas were seen to steal ornaments, umbrellas, standards and armour. Krishna’s chakra had been given to him by Agni{14}. Its handle was made out of iron and it was as ﬁrm as the vajra. While the Vrishnis looked on, it disappeared into the sky. His chariot was divine and was like the sun in complexion. While Daruka{15} looked on, the four horses, supreme among horses and as swift as thought, dragged it away along the turbulent surface of the ocean. Rama and Janardana’s great standards had a palm tree and Suparna respectively and were greatly honoured by them{16}. They were taken away by apsaras who, day and night, asked the maharatha Andhakas and Vrishnis to go on a visit to a place of pilgrimage. With the women from the inner quarters, those bulls among men desired to set out on a visit to a tirtha. The Andhakas and the Vrishnis prepared food, drink, many kinds of liquor and large quantities of meat. They were addicted to liquor. Those handsome and ﬁercely energetic ones emerged from the city on vehicles, horses and elephants. With their wives and with large quantities of food and drink, the Yadavas went to Prabhasa and began to dwell in that region, just as they had done at home.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘In their sleep during the night, the women saw a dark lady with white teeth enter Dvaraka and run around there, laughing and plundering. Extremely terrible rakshasas were seen to steal ornaments, umbrellas, standards and armour. Krishna’s chakra had been given to him by Agni{14}. Its handle was made out of iron and it was as ﬁrm as the vajra. While the Vrishnis looked on, it disappeared into the sky. His chariot was divine and was like the sun in complexion. While Daruka{15} looked on, the four horses, supreme among horses and as swift as thought, dragged it away along the turbulent surface of the ocean. Rama and Janardana’s great standards had a palm tree and Suparna respectively and were greatly honoured by them{16}. They were taken away by apsaras who, day and night, asked the maharatha Andhakas and Vrishnis to go on a visit to a place of pilgrimage. With the women from the inner quarters, those bulls among men desired to set out on a visit to a tirtha. The Andhakas and the Vrishnis prepared food, drink, many kinds of liquor and large quantities of meat. They were addicted to liquor. Those handsome and ﬁercely energetic ones emerged from the city on vehicles, horses and elephants. With their wives and with large quantities of food and drink, the Yadavas went to Prabhasa and began to dwell in that region, just as they had done at home.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The brave Uddhava{17} was accomplished in matters of artha and knew about yoga. While they dwelt on the shores of the ocean, he came and sought permission{18} to depart. Hari knew that the Vrishnis were about to be destroyed and did not wish to restrain him. He joined his hands in salutation and greeted the great-souled one who was about to leave. The time had come for the maharatha Vrishnis and Andhakas. They saw Uddhava leave, enveloping heaven and earth in his energy. Food had been cooked for the great-souled brahmanas. They mixed this with the scent of liquor and gave it away to monkeys. Those ﬁercely energetic ones then started a great festivity of drinking in Prabhasa. There were hundreds of trumpets and there were actors and dancers. In Krishna’s presence, Rama, Kritavarma, Yuyudhana{19}, Gada and Babhru started to drink. In the midst of the assembly, Yuyudhana became intoxicated. He disrespected Kritavarma and said, “Is there anyone who thinks himself to be a kshatriya who will kill those who are asleep and are therefore almost as if dead? O Hardikya! The Yadavas will not tolerate what you have done.” When Yuyudhana said this, Pradyumna, foremost among warriors, praised these words and dishonoured Kritavarma. Kritavarma became extremely enraged. He stretched out his left hand in contempt and replied, “When Bhurishrava was in a state of praya in the battle, you severed his arm. How could a brave person have brought him down and slain him in such a cruel fashion{20}?” Hearing these words, Keshava, the destroyer of enemy heroes, cast an angry and oblique glance of anger{21}. Satyaki reminded Madhusudana about the Syamantaka gem that used to be with Satrajit{22}. Hearing this, Satyabhama was enraged. In her rage, she approached Janardana and sat on his lap. In his rage, Satyaki arose and spoke these words. “I truthfully take a pledge this one will go where the ﬁve sons of Droupadi, Dhrishtadyumna and Shikhandi have gone. While they were asleep, this evilsouled one killed them in their sleep. This wicked Kritavarma was aided by Drona’s son. O slender-waisted one! His lifespan and fame have come to an end.” Speaking in this way, he angrily picked up a sword and though he was near Keshava, attacked him{23} and angrily severed his head. Once Yuyudhana had killed him, he attacked the others in all directions and began to kill them, though Hrishikesha sought to restrain him.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The brave Uddhava{17} was accomplished in matters of artha and knew about yoga. While they dwelt on the shores of the ocean, he came and sought permission{18} to depart. Hari knew that the Vrishnis were about to be destroyed and did not wish to restrain him. He joined his hands in salutation and greeted the great-souled one who was about to leave. The time had come for the maharatha Vrishnis and Andhakas. They saw Uddhava leave, enveloping heaven and earth in his energy. Food had been cooked for the great-souled brahmanas. They mixed this with the scent of liquor and gave it away to monkeys. Those ﬁercely energetic ones then started a great festivity of drinking in Prabhasa. There were hundreds of trumpets and there were actors and dancers. In Krishna’s presence, Rama, Kritavarma, Yuyudhana{19}, Gada and Babhru started to drink. In the midst of the assembly,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yuyudhana became intoxicated. He disrespected Kritavarma and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yuyudhana_became_intoxicated",
+              "text": "“Is there anyone who thinks himself to be a kshatriya who will kill those who are asleep and are therefore almost as if dead? O Hardikya! The Yadavas will not tolerate what you have done.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When Yuyudhana said this, Pradyumna, foremost among warriors, praised these words and dishonoured Kritavarma.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kritavarma became extremely enraged. He stretched out his left hand in contempt and replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kritavarma_became_extremely_enraged",
+              "text": "“When Bhurishrava was in a state of praya in the battle, you severed his arm. How could a brave person have brought him down and slain him in such a cruel fashion{20}?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words, Keshava, the destroyer of enemy heroes, cast an angry and oblique glance of anger{21}. Satyaki reminded Madhusudana about the Syamantaka gem that used to be with Satrajit{22}. Hearing this, Satyabhama was enraged. In her rage, she approached Janardana and sat on his lap. In his rage,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Satyaki arose and spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@satyaki_arose_and",
+              "text": "“I truthfully take a pledge this one will go where the ﬁve sons of Droupadi, Dhrishtadyumna and Shikhandi have gone. While they were asleep, this evilsouled one killed them in their sleep. This wicked Kritavarma was aided by Drona’s son. O slender-waisted one! His lifespan and fame have come to an end.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Speaking in this way, he angrily picked up a sword and though he was near Keshava, attacked him{23} and angrily severed his head. Once Yuyudhana had killed him, he attacked the others in all directions and began to kill them, though Hrishikesha sought to restrain him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘O great king! All of them were goaded by destiny. The Bhojas and the Andhakas united and surrounded Shini’s descendant{24}. Janardana saw them descend, angrily and forcefully. But knowing that the time had come, the greatly energetic one was not enraged. They were driven by intolerance and were intoxicated by the liquor. They began to strike Yuyudhana with the vessels from which they had been eating. Seeing that Shini’s descendant was being struck, Rukmini’s son{25} became angry. He rushed forward to free Satyaki, Shini’s descendant, who was engaged with the Bhojas and the Andhakas. However, while Krishna looked on, those two were slain by the many. On seeing that Shini’s descendant and his own son had been killed, Keshava, the descendant of the Yadu lineage, angrily picked up a clump of eraka grass in his hand. This turned into a terrible club that was as ﬁrm as the vajra. With this, Krishna slew all those who were in front of him. Goaded by time, in that tumult, the Andhakas, the Bhojas, the Shinis and the Vrishnis slew each other with clubs. O king! O lord! Whenever anyone plucked out a clump of eraka grass, this was seen to turn into something like the vajra. The grass was seen to turn into clubs there. O lord of the earth! Know that all this happened because of the brahmana’s staff. O king! Whenever a blade of grass was hurled, it was seen to become a ﬁrm club that was like the vajra and became something that could pierce even impenetrable objects. O descendant of the Bharata lineage! Son killed father and father killed son. They were intoxicated. They descended on each other and crushed each other. The Kukuras and the Andhakas were like insects falling into a ﬁre. While they were being killed, they didn’t entertain any thoughts of running away. Knowing that the time of destruction had come, the mighty-armed Madhusudana stood there, looking on and with the club upraised. Madhava saw that Samba had been killed and so had Charudeshna. O descendant of the Bharata lineage! With Pradyumna and Aniruddha also killed, he became angry. Seeing that Gada was lying down, he became extremely wrathful. The wielder of Sharnga, chakra and the club slew all those who were left. When they were killed, the greatly energetic Babhru, the destroyer of enemy cities, and Daruka spoke to Dasharha. Listen. “O illustrious one! All of them have been killed by you. Let us follow Rama’s footsteps and go where he has gone.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O great king! All of them were goaded by destiny. The Bhojas and the Andhakas united and surrounded Shini’s descendant{24}. Janardana saw them descend, angrily and forcefully. But knowing that the time had come, the greatly energetic one was not enraged. They were driven by intolerance and were intoxicated by the liquor. They began to strike Yuyudhana with the vessels from which they had been eating. Seeing that Shini’s descendant was being struck, Rukmini’s son{25} became angry. He rushed forward to free Satyaki, Shini’s descendant, who was engaged with the Bhojas and the Andhakas. However, while Krishna looked on, those two were slain by the many. On seeing that Shini’s descendant and his own son had been killed, Keshava, the descendant of the Yadu lineage, angrily picked up a clump of eraka grass in his hand. This turned into a terrible club that was as ﬁrm as the vajra. With this, Krishna slew all those who were in front of him. Goaded by time, in that tumult, the Andhakas, the Bhojas, the Shinis and the Vrishnis slew each other with clubs. O king! O lord! Whenever anyone plucked out a clump of eraka grass, this was seen to turn into something like the vajra. The grass was seen to turn into clubs there. O lord of the earth! Know that all this happened because of the brahmana’s staff. O king! Whenever a blade of grass was hurled, it was seen to become a ﬁrm club that was like the vajra and became something that could pierce even impenetrable objects. O descendant of the Bharata lineage! Son killed father and father killed son. They were intoxicated. They descended on each other and crushed each other. The Kukuras and the Andhakas were like insects falling into a ﬁre. While they were being killed, they didn’t entertain any thoughts of running away. Knowing that the time of destruction had come, the mighty-armed Madhusudana stood there, looking on and with the club upraised. Madhava saw that Samba had been killed and so had Charudeshna. O descendant of the Bharata lineage! With Pradyumna and Aniruddha also killed, he became angry. Seeing that Gada was lying down, he became extremely wrathful. The wielder of Sharnga, chakra and the club slew all those who were left. When they were killed, the greatly energetic Babhru, the destroyer of enemy cities,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "and Daruka spoke to Dasharha. Listen",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@daruka",
+              "text": "“O illustrious one! All of them have been killed by you. Let us follow Rama’s footsteps and go where he has gone.”",
+              "color": "#D9684E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1983": {
+      "global_number": 1983,
+      "local_number": 5,
+      "num_shlokas": 25,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Daruka, Keshava and Babhru left and followed Rama’s footsteps. They saw the inﬁnitely valorous Rama seated in a desolate spot, at the foot of a tree. Krishna approached the great one and gave Daruka the following instruction. “Swiftly go to the Kurus and tell Partha about this great destruction of the Yadus. On hearing about how the Yadavas have died because of the curse of brahmanas, let Arjuna come here quickly.” Thus addressed, Daruka, who was senseless in grief, left on a chariot for the Kurus. After Daruka left, Keshava saw that Babhru was still near him and spoke these words. “Go quickly and protect the women. Greedy for riches, let the bandits not cause any violence to them.” He was still intoxicated with liquor and distressed because of the slaughter of his relatives. However, instructed by Keshava, he departed. Babhru had gone only a short distance away from Keshava. He has also been covered in the curse of the brahmanas. Suddenly and swiftly, a club released from a hunter’s hand arrived and slew him. On seeing that Babhru was now dead, Krishna spoke these words to his elder brother. “O Rama! Wait here for me, until I have handed over the care of the women to our kin.” Janardana entered the city of Dvaravati and spoke these words to his father. “Wait for Dhananjaya’s arrival and protect all these women. Rama is waiting for me on the outskirts of the forest. I have to go to him now. I foresaw this slaughter of the Yadus even before I foresaw that of the kings and the bulls among the Kuru lineage. Without the Yadus, I am incapable of looking at this city of the Yadavas. Listen to me. I will go to the forest and practise austerities, together with Rama.” Having said this, Krishna touched his feet with his head and quickly departed.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Daruka, Keshava and Babhru left and followed Rama’s footsteps. They saw the inﬁnitely valorous Rama seated in a desolate spot, at the foot of a tree. Krishna approached the great one and gave Daruka the following instruction.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Swiftly go to the Kurus and tell Partha about this great destruction of the Yadus. On hearing about how the Yadavas have died because of the curse of brahmanas, let Arjuna come here quickly.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed, Daruka, who was senseless in grief, left on a chariot for the Kurus. After Daruka left,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Keshava saw that Babhru was still near him and spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@keshava_saw_that_babhru",
+              "text": "“Go quickly and protect the women. Greedy for riches, let the bandits not cause any violence to them.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "He was still intoxicated with liquor and distressed because of the slaughter of his relatives. However, instructed by Keshava, he departed. Babhru had gone only a short distance away from Keshava. He has also been covered in the curse of the brahmanas. Suddenly and swiftly, a club released from a hunter’s hand arrived and slew him. On seeing that Babhru was now dead,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Krishna spoke these words to his elder brother",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O Rama! Wait here for me, until I have handed over the care of the women to our kin.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Janardana entered the city of Dvaravati and spoke these words to his father",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@janardana_entered_the_city",
+              "text": "“Wait for Dhananjaya’s arrival and protect all these women. Rama is waiting for me on the outskirts of the forest. I have to go to him now. I foresaw this slaughter of the Yadus even before I foresaw that of the kings and the bulls among the Kuru lineage. Without the Yadus, I am incapable of looking at this city of the Yadavas. Listen to me. I will go to the forest and practise austerities, together with Rama.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, Krishna touched his feet with his head and quickly departed.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Loud sounds of lamentation arose from the women and the children who were in the city. Hearing the sounds of the weeping women, Keshava returned and said, “Savyasachi will arrive in the city. That foremost among men will free you from your grief.” Keshava went and saw Rama in that desolate spot in the forest. He saw him immersed in yoga and a giant serpent was emerging from his mouth. Its complexion was white and that great being headed towards the great ocean. It possessed one thousand heads, was as large as a mountain and was an inhabitant of Bhogavati{26}. Its face was red and it freed itself from the former body. It moved towards the ocean. Divine serpents and sacred rivers were there to receive it. O king! Karkotaka, Vasuki, Prithushrava, Varuna, Kunjara, Mishri, Shankha, Kumuda, Pundarika, the great-souled naga Dhritarashtra, Hrada, Kratha, Shitikantha, Agrateja, the nagas Chakramanda and Atishanda, Durmukha and Ambarisha, the best among nagas and King Varuna himself came forward to welcome and honour it{27}. They worshipped it with padya, arghya and other rites.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Loud sounds of lamentation arose from the women and the children who were in the city. Hearing the sounds of the weeping women,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Keshava returned and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@keshava_returned_and",
+              "text": "“Savyasachi will arrive in the city. That foremost among men will free you from your grief.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Keshava went and saw Rama in that desolate spot in the forest. He saw him immersed in yoga and a giant serpent was emerging from his mouth. Its complexion was white and that great being headed towards the great ocean. It possessed one thousand heads, was as large as a mountain and was an inhabitant of Bhogavati{26}. Its face was red and it freed itself from the former body. It moved towards the ocean. Divine serpents and sacred rivers were there to receive it. O king! Karkotaka, Vasuki, Prithushrava, Varuna, Kunjara, Mishri, Shankha, Kumuda, Pundarika, the great-souled naga Dhritarashtra, Hrada, Kratha, Shitikantha, Agrateja, the nagas Chakramanda and Atishanda, Durmukha and Ambarisha, the best among nagas and King Varuna himself came forward to welcome and honour it{27}. They worshipped it with padya, arghya and other rites.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Vasudeva possessed divine sight. When his brother had departed, he knew that everyone was gone. For some time, he wandered around in that desolate forest, thinking. The greatly energetic one then sat down on the ground. He thought about all the words that the excellent Gandhari had spoken to him earlier. Krishna also remembered what Durvasa had said when his body had been smeared with payasam{28}. The great one thought about the destruction of the Andhakas and the Vrishnis and the destruction of the Kurus. Having decided that the time had come, he restrained his senses. He restrained his senses and his speech. Krishna lay down, immersed in great yoga. A ﬁerce hunter named Jara arrived at that spot, searching for deer{29}. The hunter saw Keshava lying down in yoga and took him to be a deer. With an arrow, Jara swiftly struck him on the sole of the foot. He then quickly advanced, desiring to seize what he had struck. The hunter saw a man immersed in yoga, with many arms and attired in yellow garments. He thought he had committed a grave sin and severely distressed, touched his feet with his head. The greatsouled one comforted him. Enveloping heaven and earth in his prosperity, he rose upwards. He reached heaven and was welcomed by Vasava, the Ashvins, Rudra, the Adityas, the Vasus, the Vishvadevas, the sages, the siddhas, the foremost among gandharvas and the apsaras. O king! Then, the ﬁercely energetic, powerful, undecaying, greatsouled and illustrious Narayana went to his own region, which is impossible to fathom. O king! Krishna met the gods, the rishis and the charanas. The best among gandharvas and apsaras and the siddhas and the sadhyas bowed down and worshipped him. O king! The gods, the best among sages and their eloquent followers worshipped the lord of everything. The gandharvas served and praised him. Delighted, Puruhuta{30} also honoured him.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Vasudeva possessed divine sight. When his brother had departed, he knew that everyone was gone. For some time, he wandered around in that desolate forest, thinking. The greatly energetic one then sat down on the ground. He thought about all the words that the excellent Gandhari had spoken to him earlier. Krishna also remembered what Durvasa had said when his body had been smeared with payasam{28}. The great one thought about the destruction of the Andhakas and the Vrishnis and the destruction of the Kurus. Having decided that the time had come, he restrained his senses. He restrained his senses and his speech. Krishna lay down, immersed in great yoga. A ﬁerce hunter named Jara arrived at that spot, searching for deer{29}. The hunter saw Keshava lying down in yoga and took him to be a deer. With an arrow, Jara swiftly struck him on the sole of the foot. He then quickly advanced, desiring to seize what he had struck. The hunter saw a man immersed in yoga, with many arms and attired in yellow garments. He thought he had committed a grave sin and severely distressed, touched his feet with his head. The greatsouled one comforted him. Enveloping heaven and earth in his prosperity, he rose upwards. He reached heaven and was welcomed by Vasava, the Ashvins, Rudra, the Adityas, the Vasus, the Vishvadevas, the sages, the siddhas, the foremost among gandharvas and the apsaras. O king! Then, the ﬁercely energetic, powerful, undecaying, greatsouled and illustrious Narayana went to his own region, which is impossible to fathom. O king! Krishna met the gods, the rishis and the charanas. The best among gandharvas and apsaras and the siddhas and the sadhyas bowed down and worshipped him. O king! The gods, the best among sages and their eloquent followers worshipped the lord of everything. The gandharvas served and praised him. Delighted, Puruhuta{30} also honoured him.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1984": {
+      "global_number": 1984,
+      "local_number": 6,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Daruka went to the Kurus and met the maharatha Parthas. He told them how the Vrishnis had destroyed each other with clubs. On hearing that the Varshneyas, the Bhojas, the Kukuras and the Andhakas had been destroyed, the Pandavas were tormented by grief and their minds were terriﬁed. Arjuna, Keshava’s beloved friend, took their leave and went to see his maternal uncle, saying, “Nothing remains.” With Daruka, the lord went to the abode of the Vrishnis. The brave one saw Dvaraka, which looked like a woman with her husband dead. Earlier, the protector of the world used to be the protector of those women. Partha saw them shrieking there, without a protector and bereft of protection. There were sixteen thousand of Vasudeva’s wives. When they saw Arjuna arrive, they began to wail loudly. On seeing them, Kouravya Arjuna’s eyes became full of tears. They were without Krishna and without their sons and he was incapable of looking at them. The Vrishnis and the Andhakas were like water{31}. The horses were ﬁsh and the chariots were rafts. The sounding of musical instruments and the clatter of chariots were like the roar of the currents. The houses were tirthas and giant crocodiles. The jewels were accumulations of moss. The ﬁrm fortiﬁcations were like garlands. The roads were like ﬂowing whirlpools in the water. The crossroads were large lakes. In the river of Dvaraka, Rama and Krishna were giant crocodiles. Devoured by the noose of destiny, that river was now terrible, ﬂowing towards Vaitarani{32}. The intelligent Arjuna saw that it was now without the bulls among the Vrishnis. It was without prosperity and cheerless, like a lotus during the winter. Partha saw Dvaraka and Krishna’s wives. He wailed loudly, eyes overﬂowing with tears, and fell down on the ground, senseless. O lord of the earth! Satya{33}, Satrajit’s daughter, and Rukmini also wept and fell down, alongside Dhananjaya. They raised him and made him sit on a golden seat. They surrounded the great-souled and spoke words of praise about Govinda. They spoke to Pandava, who comforted the women and then left, wishing to meet his maternal uncle.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Daruka went to the Kurus and met the maharatha Parthas. He told them how the Vrishnis had destroyed each other with clubs. On hearing that the Varshneyas, the Bhojas, the Kukuras and the Andhakas had been destroyed, the Pandavas were tormented by grief and their minds were terriﬁed. Arjuna, Keshava’s beloved friend, took their leave and went to see his maternal uncle, saying,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Nothing remains.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "With Daruka, the lord went to the abode of the Vrishnis. The brave one saw Dvaraka, which looked like a woman with her husband dead. Earlier, the protector of the world used to be the protector of those women. Partha saw them shrieking there, without a protector and bereft of protection. There were sixteen thousand of Vasudeva’s wives. When they saw Arjuna arrive, they began to wail loudly. On seeing them, Kouravya Arjuna’s eyes became full of tears. They were without Krishna and without their sons and he was incapable of looking at them. The Vrishnis and the Andhakas were like water{31}. The horses were ﬁsh and the chariots were rafts. The sounding of musical instruments and the clatter of chariots were like the roar of the currents. The houses were tirthas and giant crocodiles. The jewels were accumulations of moss. The ﬁrm fortiﬁcations were like garlands. The roads were like ﬂowing whirlpools in the water. The crossroads were large lakes. In the river of Dvaraka, Rama and Krishna were giant crocodiles. Devoured by the noose of destiny, that river was now terrible, ﬂowing towards Vaitarani{32}. The intelligent Arjuna saw that it was now without the bulls among the Vrishnis. It was without prosperity and cheerless, like a lotus during the winter. Partha saw Dvaraka and Krishna’s wives. He wailed loudly, eyes overﬂowing with tears, and fell down on the ground, senseless. O lord of the earth! Satya{33}, Satrajit’s daughter, and Rukmini also wept and fell down, alongside Dhananjaya. They raised him and made him sit on a golden seat. They surrounded the great-souled and spoke words of praise about Govinda. They spoke to Pandava, who comforted the women and then left, wishing to meet his maternal uncle.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1985": {
+      "global_number": 1985,
+      "local_number": 7,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The brave and great-souled Anakadundubhi{34} was lying down. The bull among the Kurus saw him, tormented by grief over his son. O descendant of the Bharata lineage! Partha’s chest was broad and his arms were mighty. With his eyes overﬂowing with tears and with his voice afﬂicted with grief, he seized his feet. The mighty-armed and aged one embraced Arjuna with his arms. Remembering his sons, his brother’s sons, and all his sons' sons, daughters' sons and friends, he was extremely distracted and wept. ‘Vasudeva said, “O Arjuna! There were hundreds of times when they conquered kings and daityas. O Arjuna! Though I am alive, I do not see them. Death will come to me with great difﬁculty. Those two{35} were your disciples. O Arjuna! You always loved them and showed them a great deal of respect. O Partha! It is because of their sins that the Vrishnis have faced destruction. Among the best of the Vrishnis, those two were held to be atirathas. In speaking about Pradyumna and Yuyudhana, you used to boast. O tiger among Kurus! In addition to Krishna, they were always like my sons. O Dhananjaya! Those two are the main reason behind the destruction of the Vrishnis. O Arjuna! However, I do not censure Shini’s descendant or Hardikya, or for that matter, Akrura or Rukmini’s son. The curse was the true reason. The lord of the universe used his valour to defeat Keshi and Kamsa. O Partha! He beheaded the lord of Chedi{36}, who was proud of his valour. Madhusudana defeated the nishada Ekalavya, Kalingas, Magadhas, Gandharas, the king of Kashi, kings from the desert regions and kings from the east, the south and the mountainous regions. Why did he disregard what was going to happen? On seeing his sons, grandsons, brothers and friends slain and lying down, he told me, ‘O bull among men! The time for the end of our lineage has arrived. Bibhatsu will come to this city of Dvaravati. Tell him about the great carnages that has happened among the Vrishnis. O lord! When that greatly energetic one hears about the destruction of the Yadus, without thinking about it, he will swiftly arrive here. Know that I am Arjuna and Arjuna is me. O Madhava! Know that you must do whatever he asks you to. Pandava will know what the occasion demands for the women and the children. Bibhatsu will also perform your funeral rites. When Dhananjaya has left, this city, with its walls and mansions, will instantly be swallowed up by the ocean. I will go to some sacred spot and resort to the rituals. With the intelligent Rama, I will wait for the right time.’ Hrishikesha, whose valour is unimaginable, told me this. The lord then left me with the children and went to whichever direction he desired. I have thought about those two great-souled brothers{37} and about the terrible destruction of the kin. Afﬂicted by grief, I have not eaten. O Pandava! I will not eat. Nor will I live. It is through good fortune that I have met you. O Partha! Do everything that Krishna spoke about. O Partha! This kingdom, these women and these jewels are yours. O slayer of enemies! I wish to cast aside my breath of life.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The brave and great-souled Anakadundubhi{34} was lying down. The bull among the Kurus saw him, tormented by grief over his son. O descendant of the Bharata lineage! Partha’s chest was broad and his arms were mighty. With his eyes overﬂowing with tears and with his voice afﬂicted with grief, he seized his feet. The mighty-armed and aged one embraced Arjuna with his arms. Remembering his sons, his brother’s sons, and all his sons'",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "sons, daughters",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "' sons and friends, he was extremely distracted and wept. ‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O Arjuna! There were hundreds of times when they conquered kings and daityas. O Arjuna! Though I am alive, I do not see them. Death will come to me with great difﬁculty. Those two{35} were your disciples. O Arjuna! You always loved them and showed them a great deal of respect. O Partha! It is because of their sins that the Vrishnis have faced destruction. Among the best of the Vrishnis, those two were held to be atirathas. In speaking about Pradyumna and Yuyudhana, you used to boast. O tiger among Kurus! In addition to Krishna, they were always like my sons. O Dhananjaya! Those two are the main reason behind the destruction of the Vrishnis. O Arjuna! However, I do not censure Shini’s descendant or Hardikya, or for that matter, Akrura or Rukmini’s son. The curse was the true reason. The lord of the universe used his valour to defeat Keshi and Kamsa. O Partha! He beheaded the lord of Chedi{36}, who was proud of his valour. Madhusudana defeated the nishada Ekalavya, Kalingas, Magadhas, Gandharas, the king of Kashi, kings from the desert regions and kings from the east, the south and the mountainous regions. Why did he disregard what was going to happen? On seeing his sons, grandsons, brothers and friends slain and lying down, he told me, ‘O bull among men! The time for the end of our lineage has arrived. Bibhatsu will come to this city of Dvaravati. Tell him about the great carnages that has happened among the Vrishnis. O lord! When that greatly energetic one hears about the destruction of the Yadus, without thinking about it, he will swiftly arrive here. Know that I am Arjuna and Arjuna is me. O Madhava! Know that you must do whatever he asks you to. Pandava will know what the occasion demands for the women and the children. Bibhatsu will also perform your funeral rites. When Dhananjaya has left, this city, with its walls and mansions, will instantly be swallowed up by the ocean. I will go to some sacred spot and resort to the rituals. With the intelligent Rama, I will wait for the right time.’ Hrishikesha, whose valour is unimaginable, told me this. The lord then left me with the children and went to whichever direction he desired. I have thought about those two great-souled brothers{37} and about the terrible destruction of the kin. Afﬂicted by grief, I have not eaten. O Pandava! I will not eat. Nor will I live. It is through good fortune that I have met you. O Partha! Do everything that Krishna spoke about. O Partha! This kingdom, these women and these jewels are yours. O slayer of enemies! I wish to cast aside my breath of life.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1986": {
+      "global_number": 1986,
+      "local_number": 8,
+      "num_shlokas": 74,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Bibhatsu, the scorcher of enemies, was thus addressed by his maternal uncle. He was cheerless and distressed in his mind and replied to Vasudeva, “O maternal uncle! O lord! Without the foremost among the Vrishnis and the Madhus, I am incapable of looking at the earth for a long period of time. The king{38}, Bhimasena, Pandava Sahadeva, Nakula and Yajnaseni as the sixth, hold the same kind of view. It is certain that the time has also come for the king to depart. O supreme among those who know about time! Know that the time has also arrived for you. O scorcher of enemies! By all means possible, I will ﬁrst take the women, the children and the aged among the Vrishnis to Indraprastha.” Having said this, Dhananjaya spoke these words to Daruka. “I wish to quickly see the advisers and the brave ones among the Vrishnis.” Having said this, the brave maharatha Arjuna, who was sorrowing, entered the assembly hall of the Yadavas, known as Sudharma. When he arrived there, all the ordinary people, the brahmanas and the citizens, surrounded him there. All of them were distressed in their minds and were almost unconscious. Partha was himself distressed and spoke these words. “I will myself take the Vrishni and Andhaka people to Shakraprastha{39}. Everything in this city will be ﬂooded by the ocean. Arrange vehicles and all kinds of jewels. This Vajra{40} will be the king in Shakraprastha. Seven days from now, we will depart when the sparkling sun rises. Make arrangements without delay and let all of us dwell outside{41}.” Thus addressed by Partha of the unblemished deeds, the citizens anxiously made arrangements for saving themselves. Partha spent that night in Keshava’s house. He was suddenly overwhelmed by great grief and confusion. When it was next morning, the powerful Shouri Vasudeva united himself in great energy and left for the supreme destination. A great sound was heard in Vasudeva’s house. The women shrieked terribly and wept. All of them had dishevelled hair and they cast aside their ornaments and garlands. The women beat on their breasts with their hands and lamented piteously. Devaki, Bhadra, Rohini and Madira, supreme among women, seated themselves with their husband{42}. O descendant of the Bharata lineage! Shouri’s body was covered with many garlands. Partha arranged for it to be drawn out of the city, on a large vehicle dragged by men. O bull among men! All the citizens and residents of Dvaraka were ﬁlled with grief and sorrow and followed it. The umbrella of a horse sacriﬁce{43} was held aloft, ahead of the vehicle. The ofﬁciating priests advanced, with kindled ﬁres. The ornamented wives followed the brave one. They were surrounded by thousands of women and thousands of daughters-in-law. There was a spot that the great-souled one had loved while he was alive. It was resolved that the funeral rites for the father would be performed there. The funeral pyre of the brave one from the Shura lineage was ignited by his son{44}. The four beautiful women also ascended the ﬁre, with the body of the husband who had departed. The four women also followed him. The descendant of the Pandu lineage ignited it, with sandalwood and other diverse kinds of fragrant wood. A loud sound arose from the kindling and the ﬁre. There was the sound of chants from Sama hymns and men weeping. The brave children from the Vrishni lineage, with Vajra as the foremost and all the women offered water to the great-souled one. Phalguna arranged for dharma where there was no longer any dharma possible{45}. O bull among the Bharata lineage! He then went to the place where the Vrishnis had been destroyed. On seeing that they had been brought down in the carnage, he was extremely miserable. However, Kourvaya did everything that was appropriate for the occasion. All the rites were performed according to seniority, for all those who had been slain through the curse of the brahmanas and the generation of the clubs. He searched out the bodies of both Rama and Vasudeva{46} and had them cremated by men who were accomplished in such tasks. Following the ordinances, Pandava performed the funeral rites.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Bibhatsu, the scorcher of enemies,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "was thus addressed by his maternal uncle. He was cheerless and distressed in his mind and replied to Vasudeva",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@was_thus_addressed_by",
+              "text": "“O maternal uncle! O lord! Without the foremost among the Vrishnis and the Madhus, I am incapable of looking at the earth for a long period of time. The king{38}, Bhimasena, Pandava Sahadeva, Nakula and Yajnaseni as the sixth, hold the same kind of view. It is certain that the time has also come for the king to depart. O supreme among those who know about time! Know that the time has also arrived for you. O scorcher of enemies! By all means possible, I will ﬁrst take the women, the children and the aged among the Vrishnis to Indraprastha.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhananjaya spoke these words to Daruka",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“I wish to quickly see the advisers and the brave ones among the Vrishnis.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, the brave maharatha Arjuna, who was sorrowing, entered the assembly hall of the Yadavas, known as Sudharma. When he arrived there, all the ordinary people, the brahmanas and the citizens, surrounded him there. All",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "of them were distressed in their minds and were almost unconscious. Partha was himself distressed and spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@of_them_were_distressed",
+              "text": "“I will myself take the Vrishni and Andhaka people to Shakraprastha{39}. Everything in this city will be ﬂooded by the ocean. Arrange vehicles and all kinds of jewels. This Vajra{40} will be the king in Shakraprastha. Seven days from now, we will depart when the sparkling sun rises. Make arrangements without delay and let all of us dwell outside{41}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed by Partha of the unblemished deeds, the citizens anxiously made arrangements for saving themselves. Partha spent that night in Keshava’s house. He was suddenly overwhelmed by great grief and confusion. When it was next morning, the powerful Shouri Vasudeva united himself in great energy and left for the supreme destination. A great sound was heard in Vasudeva’s house. The women shrieked terribly and wept. All of them had dishevelled hair and they cast aside their ornaments and garlands. The women beat on their breasts with their hands and lamented piteously. Devaki, Bhadra, Rohini and Madira, supreme among women, seated themselves with their husband{42}. O descendant of the Bharata lineage! Shouri’s body was covered with many garlands. Partha arranged for it to be drawn out of the city, on a large vehicle dragged by men. O bull among men! All the citizens and residents of Dvaraka were ﬁlled with grief and sorrow and followed it. The umbrella of a horse sacriﬁce{43} was held aloft, ahead of the vehicle. The ofﬁciating priests advanced, with kindled ﬁres. The ornamented wives followed the brave one. They were surrounded by thousands of women and thousands of daughters-in-law. There was a spot that the great-souled one had loved while he was alive. It was resolved that the funeral rites for the father would be performed there. The funeral pyre of the brave one from the Shura lineage was ignited by his son{44}. The four beautiful women also ascended the ﬁre, with the body of the husband who had departed. The four women also followed him. The descendant of the Pandu lineage ignited it, with sandalwood and other diverse kinds of fragrant wood. A loud sound arose from the kindling and the ﬁre. There was the sound of chants from Sama hymns and men weeping. The brave children from the Vrishni lineage, with Vajra as the foremost and all the women offered water to the great-souled one. Phalguna arranged for dharma where there was no longer any dharma possible{45}. O bull among the Bharata lineage! He then went to the place where the Vrishnis had been destroyed. On seeing that they had been brought down in the carnage, he was extremely miserable. However, Kourvaya did everything that was appropriate for the occasion. All the rites were performed according to seniority, for all those who had been slain through the curse of the brahmanas and the generation of the clubs. He searched out the bodies of both Rama and Vasudeva{46} and had them cremated by men who were accomplished in such tasks. Following the ordinances, Pandava performed the funeral rites.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘On the seventh day, he mounted a chariot and swiftly departed. There were other chariots yoked to horses and vehicles drawn by bulls, mules and camels. The wives of the brave Vrishnis followed on these, afﬂicted by grief and weeping. They followed the great-souled Dhananjaya, Pandu’s son. On Partha’s instructions, the servants of the Andhakas and the Vrishnis, horse riders and chariot riders surrounded the women, the aged, the young and the citizens, who were without any brave ones to defend them, and advanced. Elephant riders advanced on elephants that were as large as mountains. There were foot soldiers for protection. They also raised their weapons and advanced. All the sons of the Andhakas and the Vrishnis followed Partha. There were prosperous brahmanas, kshatriyas, vaishyas and shudras. Ahead of them were Vasudeva’s sixteen thousand wives, his great riches and the intelligent Krishna’s grandson, Vajra. Bhoja, Vrishni and Andhaka women also advanced, with their husbands killed. There were thousands of them, indeed tens of millions. That group of Vrishnis was like an ocean. Partha, foremost among warriors, great in his knowledge of dharma and the conqueror of enemy cities, escorted it. After the people departed, the ocean, the abode of makaras, ﬂooded Dvaraka, which was still full of jewels, with its waters. The people who were residents of Dvaraka looked at this extraordinary sight. They said that this was nothing but destiny and advanced faster and faster.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On the seventh day, he mounted a chariot and swiftly departed. There were other chariots yoked to horses and vehicles drawn by bulls, mules and camels. The wives of the brave Vrishnis followed on these, afﬂicted by grief and weeping. They followed the great-souled Dhananjaya, Pandu’s son. On Partha’s instructions, the servants of the Andhakas and the Vrishnis, horse riders and chariot riders surrounded the women, the aged, the young and the citizens, who were without any brave ones to defend them, and advanced. Elephant riders advanced on elephants that were as large as mountains. There were foot soldiers for protection. They also raised their weapons and advanced. All the sons of the Andhakas and the Vrishnis followed Partha. There were prosperous brahmanas, kshatriyas, vaishyas and shudras. Ahead of them were Vasudeva’s sixteen thousand wives, his great riches and the intelligent Krishna’s grandson, Vajra. Bhoja, Vrishni and Andhaka women also advanced, with their husbands killed. There were thousands of them, indeed tens of millions. That group of Vrishnis was like an ocean. Partha, foremost among warriors, great in his knowledge of dharma and the conqueror of enemy cities, escorted it. After the people departed, the ocean, the abode of makaras, ﬂooded Dvaraka, which was still full of jewels, with its waters. The people who were residents of Dvaraka looked at this extraordinary sight. They said that this was nothing but destiny and advanced faster and faster.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Dhananjaya made the Vrishni women rest in beautiful groves, mountains and near rivers. The intelligent one arrived at the prosperous land of the ﬁve rivers. The lord arranged for them to dwell there, in a region that was full of cattle, other animals and grain. O descendant of the Bharata lineage! Some bandits saw that the husbands of these women had been killed and that they were being led by Partha alone. They became greedy. Greed robbed those evildoers of their senses. Those abhiras{47} saw the opportunity to do something wicked and consulted each other. “Arjuna is the only warrior. There are the aged and the young. The husbands have been killed. The other warriors are without energy and are passing through our territory.” Thousands of bandits descended and began to strike them with sticks. Desiring to steal the property, those people attacked the Vrishnis. As if goaded by the progress of time and desiring the riches, they attacked. With his followers, Kounteya swiftly returned. The mightyarmed Arjuna laughed and said, “O wicked ones who do not know about dharma! If you wish to be safe and do not wish to die, retreat. Otherwise, you will have to sorrow when my arrows mangle your bodies and you are killed by me.” When the brave one spoke in this way, they paid no attention to his words. Arjuna repeatedly tried to restrain the foolish ones who had attacked.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Dhananjaya made the Vrishni women rest in beautiful groves, mountains and near rivers. The intelligent one arrived at the prosperous land of the ﬁve rivers. The lord arranged for them to dwell there, in a region that was full of cattle, other animals and grain. O descendant of the Bharata lineage! Some bandits saw that the husbands of these women had been killed and that they were being led by Partha alone. They became greedy. Greed robbed those evildoers of their senses. Those abhiras{47} saw the opportunity to do something wicked and consulted each other.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Arjuna is the only warrior. There are the aged and the young. The husbands have been killed. The other warriors are without energy and are passing through our territory.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thousands of bandits descended and began to strike them with sticks. Desiring to steal the property, those people attacked the Vrishnis. As if goaded by the progress of time and desiring the riches, they attacked. With his followers,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kounteya swiftly returned. The mightyarmed Arjuna laughed and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kounteya_swiftly_returned",
+              "text": "“O wicked ones who do not know about dharma! If you wish to be safe and do not wish to die, retreat. Otherwise, you will have to sorrow when my arrows mangle your bodies and you are killed by me.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When the brave one spoke in this way, they paid no attention to his words. Arjuna repeatedly tried to restrain the foolish ones who had attacked.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Arjuna then tried to string the giant, undecaying and divine bow, Gandiva. To be able to string it, he had to make a great deal of effort. While that tumultuous engagement was going on, he struggled and ﬁnally strung it. He then thought of his weapons, but couldn’t remember them. In the engagement, he witnessed this great calamity of the strength of his arms having disappeared. The great and divine weapons no longer manifested themselves and he was ashamed. All the Vrishni warriors, those who were ﬁghting on elephants, horses and chariots, were unable to prevent those men from stealing their possessions. As they attacked from different directions, they abducted many women. Though Partha made great efforts, he couldn’t protect the people. While all the warriors looked on, in every direction, the best of women were seized. There were other women who voluntarily went with the robbers. Supported by the servants of the Vrishnis, the lord Partha Dhananjaya, forcefully shot arrows from Gandiva and struck the bandits. O king! However, in a short while, his arrows were exhausted. Earlier, his quivers used to be inexhaustible. But now, the arrows were exhausted. Seeing that his arrows were exhausted, he was ﬁlled with sorrow and grief. The son of Paka’s chastiser used the ends of the bow to kill bandits. O Janamejaya! However, in every direction, while Partha looked on, the mlechchhas seized the best of the Vrishni and Andhaka women. The lord Dhananjaya thought that this could be nothing other than destiny. He was full of sorrow and grief and sighed deeply. The weapons had disappeared and the valour of his arms had been destroyed. The bow was no longer under his control and his arrows had been exhausted. Partha was cheerless and thought.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna then tried to string the giant, undecaying and divine bow, Gandiva. To be able to string it, he had to make a great deal of effort. While that tumultuous engagement was going on, he struggled and ﬁnally strung it. He then thought of his weapons, but couldn’t remember them. In the engagement, he witnessed this great calamity of the strength of his arms having disappeared. The great and divine weapons no longer manifested themselves and he was ashamed. All the Vrishni warriors, those who were ﬁghting on elephants, horses and chariots, were unable to prevent those men from stealing their possessions. As they attacked from different directions, they abducted many women. Though Partha made great efforts, he couldn’t protect the people. While all the warriors looked on, in every direction, the best of women were seized. There were other women who voluntarily went with the robbers. Supported by the servants of the Vrishnis, the lord Partha Dhananjaya, forcefully shot arrows from Gandiva and struck the bandits. O king! However, in a short while, his arrows were exhausted. Earlier, his quivers used to be inexhaustible. But now, the arrows were exhausted. Seeing that his arrows were exhausted, he was ﬁlled with sorrow and grief. The son of Paka’s chastiser used the ends of the bow to kill bandits. O Janamejaya! However, in every direction, while Partha looked on, the mlechchhas seized the best of the Vrishni and Andhaka women. The lord Dhananjaya thought that this could be nothing other than destiny. He was full of sorrow and grief and sighed deeply. The weapons had disappeared and the valour of his arms had been destroyed. The bow was no longer under his control and his arrows had been exhausted. Partha was cheerless and thought.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘O king! He started to retreat and said, “This is nothing but destiny.” The immensely intelligent one collected the remaining wives and the remaining jewels and went to Kurukshetra. Kouravya Dhananjaya arranged for the wives of the Vrishnis, with the remaining possessions, to reside there. There was a city named Martikavat. Partha, supreme among men, instated Hardikya’s son{48} there and left the remaining wives of the king of Bhoja there. Pandava collected all the other old, young and women, those who were without brave ones to protect them, and made them reside in Shakraprastha. The one with dharma in his soul honoured the aged and the young and made the beloved son of Satyaki Yuyudhana reside along the banks of the Sarasvati. The slayer of enemy heroes gave the kingdom of Indraprastha to Vajra. Though Vajra tried to restrain them, Akrura’s wives left for the forest. O king! Rukmini Gandhari{49}, Shaibya Haimavati and the queen Jambavati entered the ﬁre. O king! Satyabhama and the other queens, honoured by Krishna, made up their minds to perform austerities and entered the forest. There were the men who had resided in Dvaravati and had followed Partha. Jaya divided them into different groups and handed them over to Vajra. The time having arrived, his eyes overﬂowing with tears, Arjuna did all this. O king! He then went and visited Krishna Dvaipayana in his hermitage.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "O king! He started to retreat and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@o_king",
+              "text": "“This is nothing but destiny.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The immensely intelligent one collected the remaining wives and the remaining jewels and went to Kurukshetra. Kouravya Dhananjaya arranged for the wives of the Vrishnis, with the remaining possessions, to reside there. There was a city named Martikavat. Partha, supreme among men, instated Hardikya’s son{48} there and left the remaining wives of the king of Bhoja there. Pandava collected all the other old, young and women, those who were without brave ones to protect them, and made them reside in Shakraprastha. The one with dharma in his soul honoured the aged and the young and made the beloved son of Satyaki Yuyudhana reside along the banks of the Sarasvati. The slayer of enemy heroes gave the kingdom of Indraprastha to Vajra. Though Vajra tried to restrain them, Akrura’s wives left for the forest. O king! Rukmini Gandhari{49}, Shaibya Haimavati and the queen Jambavati entered the ﬁre. O king! Satyabhama and the other queens, honoured by Krishna, made up their minds to perform austerities and entered the forest. There were the men who had resided in Dvaravati and had followed Partha. Jaya divided them into different groups and handed them over to Vajra. The time having arrived, his eyes overﬂowing with tears, Arjuna did all this. O king! He then went and visited Krishna Dvaipayana in his hermitage.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1987": {
+      "global_number": 1987,
+      "local_number": 9,
+      "num_shlokas": 38,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O king! Arjuna, truthful in his speech, entered the hermitage. He saw the sage who was Satyavati’s son seated alone. Knowing about dharma, he approached the one whose vows were great. As is proper, he reported, “My name is Arjuna” and waited. The sage who was Satyavati’s son spoke words of welcome. Cheerfully, the great sage asked him to sit. He could see that Partha’s mind was cheerless and that he was sighing repeatedly. Seeing that he was overcome with sorrow, Vyasa asked, “Have you been stained in any way? Have you been struck? Have you stolen a brahmana’s possessions? Have you been defeated in a battle? It can be discerned that your prosperity has vanished. O bull among the Bharata lineage! I do not know what has transpired. O Partha! I deserve to hear it. You should quickly tell me what has happened.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Arjuna, truthful in his speech, entered the hermitage. He saw the sage who was Satyavati’s son seated alone. Knowing about dharma, he approached the one whose vows were great. As is proper, he reported,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“My name is Arjuna”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "and waited. The sage who was Satyavati’s son spoke words of welcome. Cheerfully, the great sage asked him to sit. He could see that Partha’s mind was cheerless and that he was sighing repeatedly. Seeing that he was overcome with sorrow,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“Have you been stained in any way? Have you been struck? Have you stolen a brahmana’s possessions? Have you been defeated in a battle? It can be discerned that your prosperity has vanished. O bull among the Bharata lineage! I do not know what has transpired. O Partha! I deserve to hear it. You should quickly tell me what has happened.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Arjuna replied, “His complexion was like that of a cloud. He was handsome and large, with eyes like lotus petals. That Krishna, with Rama, has given up his body and has gone to heaven. Because of a curse imposed by brahmanas, the brave ones among the Vrishnis have destroyed themselves with clubs. There was an encounter in Prabhasa that led to the death of brave ones and it made the body hair stand up. O brahmana! They were brave. They were great-souled. They were proud as lions and extremely strong. The Bhojas, the Vrishnis and the Andhakas have killed each other in a clash. Their arms were like clubs and they could withstand clubs, maces and spears. Behold the progress of time. They have been slain by eraka grass. There were ﬁve hundred thousand ones, with the strength of arms. They attacked each other and have been killed. Because of the destruction of those inﬁnitely energetic ones, I am repeatedly suffering. I keep thinking of the Yadus and the illustrious Krishna. It{50} is like the drying up of the ocean, the moving of the mountains, the falling down of the sky or the cooling down of a ﬁre. I think that the death of the wielder of the Sharnga bow cannot be believed. Without Krishna, I do not wish to remain in this world any more. O store of austerities! Listen to something else that is even more painful. When I repeatedly think about this, my mind is shattered. O brahmana! In the region of the ﬁve rivers, while I looked on, thousands of Vrishni women were abducted by abhiras. Though I picked up my bow, I found that I was unable to string it. The valour in my arms is no longer like that in former times. O great sage! All my diverse kinds of weapons have been destroyed. In a short while, all my arrows were exhausted. That man’s soul was immeasurable. He was the wielder of the conch shell, the chakra and the club. He was four-armed and attired in yellow garments. He was dark and his eyes were as large as the petals of lotuses. Earlier, the extremely radiant one used to be ahead of me, on my chariot, when I burnt down the enemy soldiers. I am unable to see him now. He was the one who ﬁrst burnt down the enemy soldiers with his energy. With the arrows released from Gandiva, I brought them down later. O excellent one! Since I am unable to see him, I am distressed and my mind is whirling. I am depressed and cannot ﬁnd any peace. Without the brave Janardana, I am not interested in remaining alive. When I heard that Vishnu had departed, the directions disappeared before me. My kin and my valour have been destroyed. I am like one empty and am running around. O excellent one! You should instruct me about what is best for me.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“His complexion was like that of a cloud. He was handsome and large, with eyes like lotus petals. That Krishna, with Rama, has given up his body and has gone to heaven. Because of a curse imposed by brahmanas, the brave ones among the Vrishnis have destroyed themselves with clubs. There was an encounter in Prabhasa that led to the death of brave ones and it made the body hair stand up. O brahmana! They were brave. They were great-souled. They were proud as lions and extremely strong. The Bhojas, the Vrishnis and the Andhakas have killed each other in a clash. Their arms were like clubs and they could withstand clubs, maces and spears. Behold the progress of time. They have been slain by eraka grass. There were ﬁve hundred thousand ones, with the strength of arms. They attacked each other and have been killed. Because of the destruction of those inﬁnitely energetic ones, I am repeatedly suffering. I keep thinking of the Yadus and the illustrious Krishna. It{50} is like the drying up of the ocean, the moving of the mountains, the falling down of the sky or the cooling down of a ﬁre. I think that the death of the wielder of the Sharnga bow cannot be believed. Without Krishna, I do not wish to remain in this world any more. O store of austerities! Listen to something else that is even more painful. When I repeatedly think about this, my mind is shattered. O brahmana! In the region of the ﬁve rivers, while I looked on, thousands of Vrishni women were abducted by abhiras. Though I picked up my bow, I found that I was unable to string it. The valour in my arms is no longer like that in former times. O great sage! All my diverse kinds of weapons have been destroyed. In a short while, all my arrows were exhausted. That man’s soul was immeasurable. He was the wielder of the conch shell, the chakra and the club. He was four-armed and attired in yellow garments. He was dark and his eyes were as large as the petals of lotuses. Earlier, the extremely radiant one used to be ahead of me, on my chariot, when I burnt down the enemy soldiers. I am unable to see him now. He was the one who ﬁrst burnt down the enemy soldiers with his energy. With the arrows released from Gandiva, I brought them down later. O excellent one! Since I am unable to see him, I am distressed and my mind is whirling. I am depressed and cannot ﬁnd any peace. Without the brave Janardana, I am not interested in remaining alive. When I heard that Vishnu had departed, the directions disappeared before me. My kin and my valour have been destroyed. I am like one empty and am running around. O excellent one! You should instruct me about what is best for me.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Vyasa replied, “The maharatha Vrishnis and Andhakas were consumed because of the curse of brahmanas. O tiger among Kurus! They have been destroyed and you should not grieve about this. Know that this was bound to happen. This was the destiny of those great-souled ones. That is the reason why, despite being able to counter it, Krishna ignored it. Krishna is capable of countering everything in the three worlds, mobile and immobile, not to speak of a curse imposed by learned ones. The wielder of the chakra and the club used to advance in front of your chariot. He was affectionate towards you. He is the ancient rishi, the four-armed Vasudeva. The one with the large eyes desired to reduce the burden of the earth. Having freed the entire universe, he went to his own supreme destination. O bull among men! O mighty-armed one! With you as his aide and with the help of Bhima and the twins, he accomplished a great task for the gods. O bull among the Kurus! I think that you have been extremely successful. Know that the time for your departure has arrived. In my view, that is the best thing for you. O descendant of the Bharata lineage! Strength, intelligence, energy and power remain for as long as the time of adversity does not come. O Dhananjaya! Time is the root of everything. It is the seed of the universe. As it wishes, time also draws everything back again. A person who was strong can subsequently become weak. One can possess prosperity, or one can be commanded by others. Having accomplished their tasks, your weapons have now returned to wherever they came from. If time should so ordain, they will arrive in your hands again. O descendant of the Bharata lineage! The time has come for you to attain the greatest end. O bull among the Bharata lineage! I think that this will bring supreme beneﬁt for you.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“The maharatha Vrishnis and Andhakas were consumed because of the curse of brahmanas. O tiger among Kurus! They have been destroyed and you should not grieve about this. Know that this was bound to happen. This was the destiny of those great-souled ones. That is the reason why, despite being able to counter it, Krishna ignored it. Krishna is capable of countering everything in the three worlds, mobile and immobile, not to speak of a curse imposed by learned ones. The wielder of the chakra and the club used to advance in front of your chariot. He was affectionate towards you. He is the ancient rishi, the four-armed Vasudeva. The one with the large eyes desired to reduce the burden of the earth. Having freed the entire universe, he went to his own supreme destination. O bull among men! O mighty-armed one! With you as his aide and with the help of Bhima and the twins, he accomplished a great task for the gods. O bull among the Kurus! I think that you have been extremely successful. Know that the time for your departure has arrived. In my view, that is the best thing for you. O descendant of the Bharata lineage! Strength, intelligence, energy and power remain for as long as the time of adversity does not come. O Dhananjaya! Time is the root of everything. It is the seed of the universe. As it wishes, time also draws everything back again. A person who was strong can subsequently become weak. One can possess prosperity, or one can be commanded by others. Having accomplished their tasks, your weapons have now returned to wherever they came from. If time should so ordain, they will arrive in your hands again. O descendant of the Bharata lineage! The time has come for you to attain the greatest end. O bull among the Bharata lineage! I think that this will bring supreme beneﬁt for you.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana continued, ‘Having heard these words of the inﬁnitely energetic Vyasa, Partha took his leave and went to the city of Nagasahvya. The brave one entered the city and met Yudhishthira. Concerning the Vrishnis and the Andhakas, he told him everything that had happened.’ This ends Mousala Parva.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana continued,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having heard these words of the inﬁnitely energetic Vyasa, Partha took his leave and went to the city of Nagasahvya. The brave one entered the city and met Yudhishthira. Concerning the Vrishnis and the Andhakas, he told him everything that had happened.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "This ends Mousala Parva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

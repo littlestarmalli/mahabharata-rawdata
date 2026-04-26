@@ -1,0 +1,67 @@
+{
+  "chapter": 311,
+  "local": 14,
+  "shlokas": 17,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Vasudeva said, “O lord of the earth{50}! O king! Had I been present in Dvaraka earlier, this misfortune would not have befallen you. O invincible one! Even if I had not been invited to the gambling match by the Kouravas, by Ambika's son{51} and by King Duryodhana, I would have gone and prevented the gambling by pointing out the many evils that result. I would have brought in Bhishma, Drona, Kripa and Bahlika. For your sake, I would have told the king who is Vichitravirya's son{52}, ‘O Kourava! O Indra among kings! O lord! Make your sons desist from this gambling.’ I would have pointed out the evils through which you have been removed from your seat and through which, in earlier times, Virasena's son was deprived of his kingdom{53}. O lord of the earth! Whatever has not been eaten up{54} is destroyed through gambling. I would have described how the addiction to gambling lasts continuously. Women, gambling, hunting and drinking are four things that arise out of desire. O king! It has been said that these lead to loss of prosperity. Those who are learned in the sacred texts hold that while this is true of all of them, it can be especially seen in the case of gambling. On a single day, one may lose all one's property. Misery is certain. Wealth that has not been enjoyed is lost. Only harsh words are left. O Kouravya{55}! I would have recounted these and other bitter topics. O mighty-armed one! I would have spoken to Ambika's son about these effects of gambling. O descendant of the Kuru lineage{56}! If my words had been accepted by him, the dharma of the Kurus would have remained undisturbed. O Indra among kings! O best of the Bharata lineage! If he had not accepted my soft words, which are like medicine{57}, I would have restrained him through force. In similar fashion, I would have destroyed all the courtiers and gamblers, ill-wishers masquerading as well-wishers. O Kouravya! It was my absence from Anarta{58} that led to all your misfortunes from gambling. O Pandu's son! O best of the Kurus! When I reached Dvaraka, I learnt everything about your misfortunes from Yuyudhana{59}. O Indra among kings! As soon as I heard this, my mind was ﬁlled with great anxiety. O lord of the earth! I have swiftly come here, in a desire to see you. O bull among the Bharata lineage! All of us are beset with great difﬁculties, since we ﬁnd you and your brothers immersed in this misfortune.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vasudeva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth{50}! O king! Had I been present in Dvaraka earlier, this misfortune would not have befallen you. O invincible one! Even if I had not been invited to the gambling match by the Kouravas, by Ambika's son{51} and by King Duryodhana, I would have gone and prevented the gambling by pointing out the many evils that result. I would have brought in Bhishma, Drona, Kripa and Bahlika. For your sake, I would have told the king who is Vichitravirya's son{52}, ",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Kourava! O Indra among kings! O lord! Make your sons desist from this gambling.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " I would have pointed out the evils through which you have been removed from your seat and through which, in earlier times, Virasena's son was deprived of his kingdom{53}. O lord of the earth! Whatever has not been eaten up{54} is destroyed through gambling. I would have described how the addiction to gambling lasts continuously. Women, gambling, hunting and drinking are four things that arise out of desire. O king! It has been said that these lead to loss of prosperity. Those who are learned in the sacred texts hold that while this is true of all of them, it can be especially seen in the case of gambling. On a single day, one may lose all one's property. Misery is certain. Wealth that has not been enjoyed is lost. Only harsh words are left. O Kouravya{55}! I would have recounted these and other bitter topics. O mighty-armed one! I would have spoken to Ambika's son about these effects of gambling. O descendant of the Kuru lineage{56}! If my words had been accepted by him, the dharma of the Kurus would have remained undisturbed. O Indra among kings! O best of the Bharata lineage! If he had not accepted my soft words, which are like medicine{57}, I would have restrained him through force. In similar fashion, I would have destroyed all the courtiers and gamblers, ill-wishers masquerading as well-wishers. O Kouravya! It was my absence from Anarta{58} that led to all your misfortunes from gambling. O Pandu's son! O best of the Kurus! When I reached Dvaraka, I learnt everything about your misfortunes from Yuyudhana{59}. O Indra among kings! As soon as I heard this, my mind was ﬁlled with great anxiety. O lord of the earth! I have swiftly come here, in a desire to see you. O bull among the Bharata lineage! All of us are beset with great difﬁculties, since we ﬁnd you and your brothers immersed in this misfortune.”",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

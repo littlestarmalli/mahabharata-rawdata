@@ -1,0 +1,107 @@
+{
+  "name": "Swayamvara Parva",
+  "subparva_number": 12,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 12,
+    "num_shlokas": 263
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "174": {
+      "chapter_number": 174,
+      "global_number": 174,
+      "local_number": 174,
+      "num_shlokas": 12,
+      "file": "subparva_12_swayamvara_parva/chapter_174_tagged.json"
+    },
+    "175": {
+      "chapter_number": 175,
+      "global_number": 175,
+      "local_number": 175,
+      "num_shlokas": 20,
+      "file": "subparva_12_swayamvara_parva/chapter_175_tagged.json"
+    },
+    "176": {
+      "chapter_number": 176,
+      "global_number": 176,
+      "local_number": 176,
+      "num_shlokas": 36,
+      "file": "subparva_12_swayamvara_parva/chapter_176_tagged.json"
+    },
+    "177": {
+      "chapter_number": 177,
+      "global_number": 177,
+      "local_number": 177,
+      "num_shlokas": 22,
+      "file": "subparva_12_swayamvara_parva/chapter_177_tagged.json"
+    },
+    "178": {
+      "chapter_number": 178,
+      "global_number": 178,
+      "local_number": 178,
+      "num_shlokas": 18,
+      "file": "subparva_12_swayamvara_parva/chapter_178_tagged.json"
+    },
+    "179": {
+      "chapter_number": 179,
+      "global_number": 179,
+      "local_number": 179,
+      "num_shlokas": 23,
+      "file": "subparva_12_swayamvara_parva/chapter_179_tagged.json"
+    },
+    "180": {
+      "chapter_number": 180,
+      "global_number": 180,
+      "local_number": 180,
+      "num_shlokas": 22,
+      "file": "subparva_12_swayamvara_parva/chapter_180_tagged.json"
+    },
+    "181": {
+      "chapter_number": 181,
+      "global_number": 181,
+      "local_number": 181,
+      "num_shlokas": 40,
+      "file": "subparva_12_swayamvara_parva/chapter_181_tagged.json"
+    },
+    "182": {
+      "chapter_number": 182,
+      "global_number": 182,
+      "local_number": 182,
+      "num_shlokas": 15,
+      "file": "subparva_12_swayamvara_parva/chapter_182_tagged.json"
+    },
+    "183": {
+      "chapter_number": 183,
+      "global_number": 183,
+      "local_number": 183,
+      "num_shlokas": 9,
+      "file": "subparva_12_swayamvara_parva/chapter_183_tagged.json"
+    },
+    "184": {
+      "chapter_number": 184,
+      "global_number": 184,
+      "local_number": 184,
+      "num_shlokas": 18,
+      "file": "subparva_12_swayamvara_parva/chapter_184_tagged.json"
+    },
+    "185": {
+      "chapter_number": 185,
+      "global_number": 185,
+      "local_number": 185,
+      "num_shlokas": 28,
+      "file": "subparva_12_swayamvara_parva/chapter_185_tagged.json"
+    }
+  }
+}

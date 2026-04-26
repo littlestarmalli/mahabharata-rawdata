@@ -1,0 +1,397 @@
+{
+  "chapter": 1889,
+  "local": 54,
+  "shlokas": 35,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Utanka said, “O Janardana! I know that you are the creator of the universe. There is no doubt that I know this because of your favours. O Achyuta! My mind is full of extremely calm sentiments. O scorcher of enemies! Know that my anger has ebbed away. O Janardana! If I truly deserve any favours from you, then show me a favour. I wish to see your divine form. Reveal it to me.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Utanka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@utanka",
+          "introduces_label": "Utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Janardana! I know that you are the creator of the universe. There is no doubt that I know this because of your favours. O Achyuta! My mind is full of extremely calm sentiments. O scorcher of enemies! Know that my anger has ebbed away. O Janardana! If I truly deserve any favours from you, then show me a favour. I wish to see your divine form. Reveal it to me.”",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘Pleased with him, he showed him the eternal Vaishnava form that the intelligent Dhananjaya had seen{226}. He saw the great-souled one's universal form, with giant arms. Having seen that universal form, the brahmana was ﬁlled with wonder.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Pleased with him, he showed him the eternal Vaishnava form that the intelligent Dhananjaya had seen{226}. He saw the great-souled one's universal form, with giant arms. Having seen that universal form, the brahmana was ﬁlled with wonder.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Utanka said, “With a form like this, you are the creator of the universe and I bow down before you. Your feet cover the earth and your head envelopes the ﬁrmament. The space between the ﬁrmament and the earth is covered by your stomach. O Achyuta! All the directions are covered by your arms. O god! Withdraw your supreme and indestructible form again. I wish to see your own eternal form again{227}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Utanka said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@utanka",
+          "introduces_label": "Utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“With a form like this, you are the creator of the universe and I bow down before you. Your feet cover the earth and your head envelopes the ﬁrmament. The space between the ﬁrmament and the earth is covered by your stomach. O Achyuta! All the directions are covered by your arms. O god! Withdraw your supreme and indestructible form again. I wish to see your own eternal form again{227}.”",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘O Janamejaya! Govinda was pleased and spoke to him. He told Utanka, “Ask for a boon,” who replied, “O immensely radiant one! O Krishna! This is boon enough that I have seen this splendid form of yours.” However Krishna again said, “Do not think about this. This must be done, since the sight of me cannot be in vain.” Utanka replied, “O lord! If you think this is needed, then it must be done. In the desert, it is extremely difﬁcult to get water and I desire that there should be water, whenever I wish for it.” At this, the lord withdrew his energy and spoke to Utanka. “Whenever you desire water, think of me.” Having said this, he proceeded towards Dvaraka.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Janamejaya! Govinda was pleased and spoke to him. He told Utanka, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Ask for a boon,”",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " who replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "who",
+          "introduces_label": "who",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O immensely radiant one! O Krishna! This is boon enough that I have seen this splendid form of yours.”",
+          "speaker": "who",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " However Krishna again said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Do not think about this. This must be done, since the sight of me cannot be in vain.”",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Utanka replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@utanka",
+          "introduces_label": "Utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! If you think this is needed, then it must be done. In the desert, it is extremely difﬁcult to get water and I desire that there should be water, whenever I wish for it.”",
+          "speaker": "@utanka",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At this, the lord withdrew his energy and spoke to Utanka. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Whenever you desire water, think of me.”",
+          "speaker": "@utanka",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having said this, he proceeded towards Dvaraka.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On one occasion, the illustrious Utanka desired water. Wandering around in the desert, he was thirsty. Therefore, he remembered Achyuta. At this, the intelligent one saw a hunter in the desert{228}. He was naked and was covered in mud. He was surrounded by a pack of dogs. He was ﬁerce. A sword was girded to his waist and he wielded bow and arrows. O supreme among brahmanas! He{229} saw large quantities of water issuing from his genitals. When he remembered Krishna, the hunter smiled at him and said, “O Utanka! O extender of the Bhrigu lineage! Accept this water from me. On seeing that you have been overcome by thirst, I have been overcome with great compassion for you.” Having been thus addressed, the sage did not wish to accept this water. The intelligent and eloquent one started to reprimand Achyuta. The hunter repeatedly urged him to drink. He was determined not to drink and his inner soul was agitated by rage. O great king! Refused by the great-souled one, the hunter vanished, with the dogs. On seeing this, Utanka's mind was overcome with shame. He thought that Krishna, the slayer of enemies, had tempted him in this way. After this, the mighty-armed one{230} arrived along the same road, wielding a conch shell, a chakra and a club. Utanka said, “O Purushottama! You should not have offered water of this kind to me. O lord! I am the foremost of brahmanas and this was a hunter's urine.” Thus addressed, the intelligent and immensely wise Janardana spoke these gentle words of assurance to Utanka. “I gave it to you in the form in which it should have been given. However, when I offered it to you, you did not understand. For your sake, I spoke to Purandara, the wielder of the vajra. I told him, ‘O lord! Offer Utanka amrita in the form of water.’ O descendant of the Bhrigu lineage! Indra of the gods replied, ‘It is not proper that a mortal person should walk the path of the immortals. Grant some other boon and honour him.’ I again asked Shachi's consort to offer amrita. However, seeking my favours, Indra of the gods again said, ‘O immensely radiant one! If amrita has to be indeed offered to the greatsouled Bhargava, I will assume the form of a hunter and offer it to him. If Bhargava accepts the amrita from me, I will give it to him. O lord! However, if Bhargava refuses the amrita, I will go away and not grant it to Bhargava.’ In that form, Vasava concluded an agreement with me. He presented himself before you, but you refused the amrita he offered you. The illustrious and great one was in the form of a chandala and you committed a sin. But to satisfy your wish, I will again do what I can. I will make you successful and invincible through the water. O brahmana! Whenever you face a desire for water, clouds full of water will appear in this desert. O descendant of the Bhrigu lineage! They will give you tasty water. Those clouds will be known as Utanka clouds and will become famous.” Thus addressed by Krishna, the brahmana was delighted. O descendant of the Bharata lineage! Even today, Utanka clouds shower down in the desert.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On one occasion, the illustrious Utanka desired water. Wandering around in the desert, he was thirsty. Therefore, he remembered Achyuta. At this, the intelligent one saw a hunter in the desert{228}. He was naked and was covered in mud. He was surrounded by a pack of dogs. He was ﬁerce. A sword was girded to his waist and he wielded bow and arrows. O supreme among brahmanas! He{229} saw large quantities of water issuing from his genitals. When he remembered Krishna, the hunter smiled at him and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Utanka! O extender of the Bhrigu lineage! Accept this water from me. On seeing that you have been overcome by thirst, I have been overcome with great compassion for you.”",
+          "speaker": "@utanka",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed, the sage did not wish to accept this water. The intelligent and eloquent one started to reprimand Achyuta. The hunter repeatedly urged him to drink. He was determined not to drink and his inner soul was agitated by rage. O great king! Refused by the great-souled one, the hunter vanished, with the dogs. On seeing this, Utanka's mind was overcome with shame. He thought that Krishna, the slayer of enemies, had tempted him in this way. After this, the mighty-armed one{230} arrived along the same road, wielding a conch shell, a chakra and a club. Utanka said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@utanka",
+          "introduces_label": "Utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Purushottama! You should not have offered water of this kind to me. O lord! I am the foremost of brahmanas and this was a hunter's urine.”",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed, the intelligent and immensely wise Janardana spoke these gentle words of assurance to Utanka. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I gave it to you in the form in which it should have been given. However, when I offered it to you, you did not understand. For your sake, I spoke to Purandara, the wielder of the vajra. I told him, ",
+          "speaker": "@utanka",
+          "introduces": "unknown",
+          "introduces_label": "I",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! Offer Utanka amrita in the form of water.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bhrigu lineage! Indra of the gods replied, ",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is not proper that a mortal person should walk the path of the immortals. Grant some other boon and honour him.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " I again asked Shachi's consort to offer amrita. However, seeking my favours, Indra of the gods again said, ",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O immensely radiant one! If amrita has to be indeed offered to the greatsouled Bhargava, I will assume the form of a hunter and offer it to him. If Bhargava accepts the amrita from me, I will give it to him. O lord! However, if Bhargava refuses the amrita, I will go away and not grant it to Bhargava.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " In that form, Vasava concluded an agreement with me. He presented himself before you, but you refused the amrita he offered you. The illustrious and great one was in the form of a chandala and you committed a sin. But to satisfy your wish, I will again do what I can. I will make you successful and invincible through the water. O brahmana! Whenever you face a desire for water, clouds full of water will appear in this desert. O descendant of the Bhrigu lineage! They will give you tasty water. Those clouds will be known as Utanka clouds and will become famous.”",
+          "speaker": "@utanka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed by Krishna, the brahmana was delighted. O descendant of the Bharata lineage! Even today, Utanka clouds shower down in the desert.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "chapter": 1717,
+  "local": 36,
+  "shlokas": 19,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “O Yudhishthira! In this connection, an ancient history is recounted, about a conversation between Shakra and Shambara. Listen. Shakra assumed the disguise of an ascetic with matted hair, smeared with dust all over his body. In that distorted form, he presented himself before Shambara and asked, ‘O Shambara! What is the conduct through which you have come to be regarded as the foremost one among your relatives? I am asking you. Tell me that.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhishthira! In this connection, an ancient history is recounted, about a conversation between Shakra and Shambara. Listen. Shakra assumed the disguise of an ascetic with matted hair, smeared with dust all over his body. In that distorted form, he presented himself before Shambara and asked, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shambara! What is the conduct through which you have come to be regarded as the foremost one among your relatives? I am asking you. Tell me that.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shambara replied, ‘I never censure brahmanas and Brahma, the grandfather. When brahmanas recite from the sacred texts, I cheerfully honour them. I do not ignore what I have heard, nor do I ever ﬁnd fault with it. Having grasped the feet of those intelligent ones, I worship and then question them. Since they are always assured by me, they speak to me trustfully. Even if they are distracted, I am attentive. When they are asleep, I am awake. Without any malice, I follow the path indicated by the sacred texts. Like bees use honey in a hive, these brahmanas sprinkle me with knowledge from the sacred texts. I satisfy them and use my intelligence to accept whatever they say. Meditating with my soul, I always think of myself as inferior. I am like one who is licking the juices at the tip of their tongues. That is how I am established amidst my kin, like the moon among nakshatras. The sacred texts that emanate from the mouths of brahmanas are like amrita on earth. If one acts in accordance with this, one obtains supreme beneﬁt. Thus, in ancient times, my father was delighted and amazed to see that this was being used in a battle between the gods and the asuras in ancient times{1266}. On witnessing the greatness of the great-souled brahmanas, my father asked the moon, “How do they become successful?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shambara replied, ",
+          "speaker": "@bhishma",
+          "introduces": "shambara",
+          "introduces_label": "Shambara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I never censure brahmanas and Brahma, the grandfather. When brahmanas recite from the sacred texts, I cheerfully honour them. I do not ignore what I have heard, nor do I ever ﬁnd fault with it. Having grasped the feet of those intelligent ones, I worship and then question them. Since they are always assured by me, they speak to me trustfully. Even if they are distracted, I am attentive. When they are asleep, I am awake. Without any malice, I follow the path indicated by the sacred texts. Like bees use honey in a hive, these brahmanas sprinkle me with knowledge from the sacred texts. I satisfy them and use my intelligence to accept whatever they say. Meditating with my soul, I always think of myself as inferior. I am like one who is licking the juices at the tip of their tongues. That is how I am established amidst my kin, like the moon among nakshatras. The sacred texts that emanate from the mouths of brahmanas are like amrita on earth. If one acts in accordance with this, one obtains supreme beneﬁt. Thus, in ancient times, my father was delighted and amazed to see that this was being used in a battle between the gods and the asuras in ancient times{1266}. On witnessing the greatness of the great-souled brahmanas, my father asked the moon, ",
+          "speaker": "shambara",
+          "introduces": "my_father",
+          "introduces_label": "my father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“How do they become successful?”",
+          "speaker": "my_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘“‘Soma said, “All the brahmanas become successful through their austerities. Their strength always lies in speech, just as that of kings lies in the valour of their arms. For brahmanas, words are weapons. Wherever he dwells, he should study. If he lives in a place that is extremely difﬁcult to reside in, he must tend to the ﬁre. He must be without anger and without pride. He must be an ascetic who looks upon everything equally. If he is born in a superior lineage, he must dwell in his father's house and study all the Vedas. He must not boast about this learning. Know that this is the sign of an ordinary person. Just as a snake is swallowed up by a hole in the ground, a king who is unwilling to ﬁght and a brahmana who does not dwell far away{1267} are both swallowed. Great insolence destroys prosperity for men who are limited in intelligence. A maiden who conceives is tainted and this is also true of a brahmana who resides at home.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘Soma said, ",
+          "speaker": "shambara",
+          "introduces": "@soma",
+          "introduces_label": "Soma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“All the brahmanas become successful through their austerities. Their strength always lies in speech, just as that of kings lies in the valour of their arms. For brahmanas, words are weapons. Wherever he dwells, he should study. If he lives in a place that is extremely difﬁcult to reside in, he must tend to the ﬁre. He must be without anger and without pride. He must be an ascetic who looks upon everything equally. If he is born in a superior lineage, he must dwell in his father's house and study all the Vedas. He must not boast about this learning. Know that this is the sign of an ordinary person. Just as a snake is swallowed up by a hole in the ground, a king who is unwilling to ﬁght and a brahmana who does not dwell far away{1267} are both swallowed. Great insolence destroys prosperity for men who are limited in intelligence. A maiden who conceives is tainted and this is also true of a brahmana who resides at home.”",
+          "speaker": "@soma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "shambara",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shambara continued, ‘My father heard these extraordinary instructions from Soma. He followed the great vow of worshipping brahmanas and so do I.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shambara continued, ",
+          "speaker": "@bhishma",
+          "introduces": "shambara",
+          "introduces_label": "Shambara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘My father heard these extraordinary instructions from Soma. He followed the great vow of worshipping brahmanas and so do I.’",
+          "speaker": "shambara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “On hearing the words that had emanated from the mouth of the Indra among the danavas, Shakra worshipped brahmanas and became the great Indra.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On hearing the words that had emanated from the mouth of the Indra among the danavas, Shakra worshipped brahmanas and became the great Indra.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

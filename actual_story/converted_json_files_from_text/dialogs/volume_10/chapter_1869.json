@@ -1,0 +1,252 @@
+{
+  "chapter": 1869,
+  "local": 34,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“The brahmani replied, ‘A person who is limited in his intelligence or has not cleansed his soul is incapable of comprehending this. My intelligence is extremely ﬁckle, limited and diffused. Tell me a means whereby I can obtain intelligence. I wish to learn from you the source from which this knowledge emanates.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmani replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmani",
+          "introduces_label": "The brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A person who is limited in his intelligence or has not cleansed his soul is incapable of comprehending this. My intelligence is extremely ﬁckle, limited and diffused. Tell me a means whereby I can obtain intelligence. I wish to learn from you the source from which this knowledge emanates.’",
+          "speaker": "the_brahmani",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana said, ‘Knowledge of the brahman is the lower arani and the preceptor is the upper arani{126}. Austerities and the sacred texts provide the friction and this leads to the ﬁre of knowledge being generated.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Knowledge of the brahman is the lower arani and the preceptor is the upper arani{126}. Austerities and the sacred texts provide the friction and this leads to the ﬁre of knowledge being generated.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmani asked, ‘Kshetrajna is said to be a sign of the brahman. What are its signs? How is one capable of grasping it?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmani asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmani",
+          "introduces_label": "The brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Kshetrajna is said to be a sign of the brahman. What are its signs? How is one capable of grasping it?’",
+          "speaker": "the_brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana said, ‘He{127} is without signs and without qualities. There is nothing that is his origin. I will tell you about the methods whereby he can be grasped, or not be grasped. I will instruct you about a proper method, like the one that is seen in bees{128}. The signs are that intelligence must determine action and knowledge must determine intelligence. In instructions about moksha, it is not said that this must be done, or that must not be done. Through hearing and sight, intelligence is generated in the atman{129}. As long as one is capable of doing this, one must contemplate hundreds and thousands of manifest and unmanifest forms. There are many kinds of yoga and all of these directly provide the means. Through practice, one obtains the supreme, beyond which, nothing exists.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He{127} is without signs and without qualities. There is nothing that is his origin. I will tell you about the methods whereby he can be grasped, or not be grasped. I will instruct you about a proper method, like the one that is seen in bees{128}. The signs are that intelligence must determine action and knowledge must determine intelligence. In instructions about moksha, it is not said that this must be done, or that must not be done. Through hearing and sight, intelligence is generated in the atman{129}. As long as one is capable of doing this, one must contemplate hundreds and thousands of manifest and unmanifest forms. There are many kinds of yoga and all of these directly provide the means. Through practice, one obtains the supreme, beyond which, nothing exists.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vasudeva said, “At this, the brahmani's intelligence became such that the kshetrajna was destroyed{130}. Having obtained what is beyond kshetrajna, it became other than the kshetrajna.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vasudeva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“At this, the brahmani's intelligence became such that the kshetrajna was destroyed{130}. Having obtained what is beyond kshetrajna, it became other than the kshetrajna.”",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Arjuna asked, “O Krishna! Where is that brahmani and where is that bull among brahmanas? They obtained success. O undecaying one! Tell me about them.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Krishna! Where is that brahmani and where is that bull among brahmanas? They obtained success. O undecaying one! Tell me about them.”",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vasudeva replied, “Know that my mind is that brahmana. Know that my intelligence is that brahmani. O Dhananjaya! The one who has been spoken of as kshetrajna is I.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vasudeva replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Know that my mind is that brahmana. Know that my intelligence is that brahmani. O Dhananjaya! The one who has been spoken of as kshetrajna is I.”",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

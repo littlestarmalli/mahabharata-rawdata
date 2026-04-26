@@ -1,0 +1,132 @@
+{
+  "chapter": 1674,
+  "local": 346,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “O best among men! The serpents were distressed when the ascetic brahmana began to dwell there, without any food. All the serpent's relatives, including his brother, son and wife, assembled and went to where the brahmana was. They saw him in a lonely spot along the riverbank, controlled in his vows. Without any food, the brahmana was seated, devoted to meditation. All of them approached the brahmana and worshipped him properly. The relatives wished to extend hospitality and spoke these words. ‘O one rich in austerities! Since you arrived here, this is the sixth day. O one who is devoted to dharma! But you do not desire any food. We have come and have presented ourselves before you. All of us belong to the household and it is our duty to extend hospitality to a guest. O supreme among brahmanas! O brahmana! You should take whatever food you wish to have—roots, fruits, leaves or water. As a virtuous person, you are dwelling in the forest, without any food. All of us, old and young, are afﬂicted and face a conﬂict of dharma. None of us has killed a foetus. None of us is one from whom food cannot be received. None of us utters a falsehood. There is no one in our family who eats before serving to gods, guests and relatives.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best among men! The serpents were distressed when the ascetic brahmana began to dwell there, without any food. All the serpent's relatives, including his brother, son and wife, assembled and went to where the brahmana was. They saw him in a lonely spot along the riverbank, controlled in his vows. Without any food, the brahmana was seated, devoted to meditation. All of them approached the brahmana and worshipped him properly. The relatives wished to extend hospitality and spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one rich in austerities! Since you arrived here, this is the sixth day. O one who is devoted to dharma! But you do not desire any food. We have come and have presented ourselves before you. All of us belong to the household and it is our duty to extend hospitality to a guest. O supreme among brahmanas! O brahmana! You should take whatever food you wish to have—roots, fruits, leaves or water. As a virtuous person, you are dwelling in the forest, without any food. All of us, old and young, are afﬂicted and face a conﬂict of dharma. None of us has killed a foetus. None of us is one from whom food cannot be received. None of us utters a falsehood. There is no one in our family who eats before serving to gods, guests and relatives.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘Because of your entreaty, it is almost as if I have eaten. Eight nights are still left for the serpent to return. If the serpent does not return after eight nights are over, then I will indeed eat. But until then, I have this vow, for the serpent's sake. You should not be tormented on this account. Go wherever you have come from. My vow is for him and you should not do anything that causes it to be violated.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Because of your entreaty, it is almost as if I have eaten. Eight nights are still left for the serpent to return. If the serpent does not return after eight nights are over, then I will indeed eat. But until then, I have this vow, for the serpent's sake. You should not be tormented on this account. Go wherever you have come from. My vow is for him and you should not do anything that causes it to be violated.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “The serpents then took leave of the brahmana. O bull among men! Having accomplished their objective, they returned to their own houses.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The serpents then took leave of the brahmana. O bull among men! Having accomplished their objective, they returned to their own houses.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

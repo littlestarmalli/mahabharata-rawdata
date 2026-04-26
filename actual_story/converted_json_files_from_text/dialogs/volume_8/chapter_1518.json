@@ -1,0 +1,143 @@
+{
+  "chapter": 1518,
+  "local": 190,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “You have spoken about the supreme ends that japakas obtain. Is this the only end, or is there any other possibility?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You have spoken about the supreme ends that japakas obtain. Is this the only end, or is there any other possibility?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O king! O lord! Listen attentively to the end attained by japakas. O bull among men! They may also descend into many kinds of hell{153}. If there is a japaka who does not initially follow what has already been stated, or if he cannot complete those rites, he goes to hell. If there is a japaka who shows disrespect, is not satisﬁed and grieves, there is no doubt that such a person goes to hell. All those who suffer from ego go to hell. A man who insults others will also go to hell. Those who are confused and perform japa with the objective of obtaining fruits, are also those who desire hell. Those japakas who conduct themselves in the pursuit of riches{154} are also destined for hell and there is no emancipation for them. Those who are confused and perform japa because of attachments descend into a state where they obtain those attachments{155}. If a person is evil-minded and his mind is not stable in wisdom, then his end is also unstable and he goes to hell. There may be a japaka who is foolish and is not accomplished in his wisdom. In his delusion, he goes to hell and having gone there, he has to sorrow. If there is a japaka who performs japa with a ﬁrm mind, but fails to complete it, he too goes to hell.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O lord! Listen attentively to the end attained by japakas. O bull among men! They may also descend into many kinds of hell{153}. If there is a japaka who does not initially follow what has already been stated, or if he cannot complete those rites, he goes to hell. If there is a japaka who shows disrespect, is not satisﬁed and grieves, there is no doubt that such a person goes to hell. All those who suffer from ego go to hell. A man who insults others will also go to hell. Those who are confused and perform japa with the objective of obtaining fruits, are also those who desire hell. Those japakas who conduct themselves in the pursuit of riches{154} are also destined for hell and there is no emancipation for them. Those who are confused and perform japa because of attachments descend into a state where they obtain those attachments{155}. If a person is evil-minded and his mind is not stable in wisdom, then his end is also unstable and he goes to hell. There may be a japaka who is foolish and is not accomplished in his wisdom. In his delusion, he goes to hell and having gone there, he has to sorrow. If there is a japaka who performs japa with a ﬁrm mind, but fails to complete it, he too goes to hell.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “If a japaka has no speciﬁc objective and bases himself on the supreme and unmanifest brahman, why does he have to take birth in a body?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If a japaka has no speciﬁc objective and bases himself on the supreme and unmanifest brahman, why does he have to take birth in a body?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “It is because of the lack of wisdom that one has to go to many different kinds of hell. Japakas are praised. But they have taints in their atmans.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is because of the lack of wisdom that one has to go to many different kinds of hell. Japakas are praised. But they have taints in their atmans.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

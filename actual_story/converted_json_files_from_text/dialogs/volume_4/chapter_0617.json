@@ -1,0 +1,442 @@
+{
+  "chapter": 617,
+  "local": 21,
+  "shlokas": 67,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhimasena said, “O fortunate one! O timid one! I will do what you have said. I will kill Kichaka today, together with all his relatives. O Yajnaseni! O one with the beautiful smiles! Discard your sorrow and grief. Tomorrow evening, set up a tryst with him. The king of the Matsyas has built a dancing hall. Maidens dance there during the day and retire to their houses at night. O timid one! There is a divan there. It has been constructed well, with sturdy legs. There, I will show him his grandfathers who have died earlier. When you converse with him, make sure that no one sees you. O fortunate one! But act so that he goes there.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhimasena said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhima",
+          "introduces_label": "Bhimasena",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O fortunate one! O timid one! I will do what you have said. I will kill Kichaka today, together with all his relatives. O Yajnaseni! O one with the beautiful smiles! Discard your sorrow and grief. Tomorrow evening, set up a tryst with him. The king of the Matsyas has built a dancing hall. Maidens dance there during the day and retire to their houses at night. O timid one! There is a divan there. It has been constructed well, with sturdy legs. There, I will show him his grandfathers who have died earlier. When you converse with him, make sure that no one sees you. O fortunate one! But act so that he goes there.”",
+          "speaker": "@bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having thus talked and shed tears of sorrow, but bearing up their spirits, they waited for the night to be over. When the night had passed and it was dawn, Kichaka arose. He went to the royal palace and told Droupadi, “I kicked you with my foot in the assembly hall, in the king's sight. When someone stronger than you molested you, you could ﬁnd no protector. It is said that Virata is the king of the Matsyas only in name. As a general of the army, I am the real king of the Matsyas. O timid one! Be happy and I will become your servant. O one with the beautiful hips! I will instantly give you one hundred nishkas. I will also give you one hundred servant maids and another one hundred servants. I will give you chariots drawn by she-mules. O timid one! Let us be united.” Droupadi replied, “O Kichaka! I will agree. But you must accept a condition ﬁrst. None of your friends or brothers must know that you have gone to unite with me. I am scared that the illustrious gandharvas may get to know. If you promise this, then I will come under your control.” Kichaka said, “O one with the beautiful hips! I will do exactly as you have said. O fortunate one! I will go alone to your secluded house to unite with you. O one whose thighs are like plantain trees{38}! I am crazy with desire for you. The gandharvas, as dazzling as the sun, will not be able to see you there.” Droupadi replied, “There is a dancing hall that the king of the Matsyas has built, maidens dance there during the day and retire to their houses at night. Go there when it is dark and the gandharvas will not get to know. There is no doubt that we will then not be detected in sin.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having thus talked and shed tears of sorrow, but bearing up their spirits, they waited for the night to be over. When the night had passed and it was dawn, Kichaka arose. He went to the royal palace and told Droupadi, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I kicked you with my foot in the assembly hall, in the king's sight. When someone stronger than you molested you, you could ﬁnd no protector. It is said that Virata is the king of the Matsyas only in name. As a general of the army, I am the real king of the Matsyas. O timid one! Be happy and I will become your servant. O one with the beautiful hips! I will instantly give you one hundred nishkas. I will also give you one hundred servant maids and another one hundred servants. I will give you chariots drawn by she-mules. O timid one! Let us be united.”",
+          "speaker": "@bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Droupadi replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@draupadi",
+          "introduces_label": "Droupadi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kichaka! I will agree. But you must accept a condition ﬁrst. None of your friends or brothers must know that you have gone to unite with me. I am scared that the illustrious gandharvas may get to know. If you promise this, then I will come under your control.”",
+          "speaker": "@draupadi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kichaka said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@kichaka",
+          "introduces_label": "Kichaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O one with the beautiful hips! I will do exactly as you have said. O fortunate one! I will go alone to your secluded house to unite with you. O one whose thighs are like plantain trees{38}! I am crazy with desire for you. The gandharvas, as dazzling as the sun, will not be able to see you there.”",
+          "speaker": "@kichaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Droupadi replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@draupadi",
+          "introduces_label": "Droupadi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“There is a dancing hall that the king of the Matsyas has built, maidens dance there during the day and retire to their houses at night. Go there when it is dark and the gandharvas will not get to know. There is no doubt that we will then not be detected in sin.”",
+          "speaker": "@draupadi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O king! Thinking of the conversation that she had had with Kichaka, the remaining half of the day seemed to be like an entire month. Kichaka went home, extremely delighted. The fool did not know that his death had arrived in the form of a sairandhri. He was fond of fragrances, ornaments and garlands. Intoxicated with love, he decorated himself with these. While he was doing these tasks, time seemed to be inordinately long. He thought about the one with the long eyes. Though he would soon be freed of all his prosperity, he seemed to increase in prosperity, like the wick of a burning lamp that is about to be extinguished. Kichaka was intoxicated with desire and completely trustful. He thought about the union and did not notice that the day was passing.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Thinking of the conversation that she had had with Kichaka, the remaining half of the day seemed to be like an entire month. Kichaka went home, extremely delighted. The fool did not know that his death had arrived in the form of a sairandhri. He was fond of fragrances, ornaments and garlands. Intoxicated with love, he decorated himself with these. While he was doing these tasks, time seemed to be inordinately long. He thought about the one with the long eyes. Though he would soon be freed of all his prosperity, he seemed to increase in prosperity, like the wick of a burning lamp that is about to be extinguished. Kichaka was intoxicated with desire and completely trustful. He thought about the union and did not notice that the day was passing.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Then Droupadi went to Bhima in the kitchen. The fortunate one seated herself next to Kouravya, her husband. The one with the beautiful hair spoke. “O scorcher of enemies! As you had said, I have ﬁxed an assignation with Kichaka in the dancing hall. In the night, Kichaka will come to the deserted dancing hall alone. O mighty-armed one! Kill Kichaka. O Kounteya! Kichaka, the son of a suta, is intoxicated with insolence. O Pandava! When he goes to the dancing hall, rob him of his life. Because of his pride, the son of a suta looks down on the gandharvas. You are supreme among warriors. Uproot him, like an elephant does a stalk. O descendant of the Bharata lineage! Wipe away my tears of misery. O fortunate one! Salvage your own honour and that of your lineage.” Bhimasena replied, “O one with the beautiful thighs! You are welcome. You have brought me pleasant news. O beautiful one! I will do that, without anyone else's aid. O beautiful one! The news of your assignation with Kichaka has brought me the same delight that I felt on killing Hidimba{39}. By my brothers and by dharma, I am truthfully pledging that I will kill Kichaka, the way the lord of the gods slew Vritra{40}. Whether in private, or in public, I will bring down Kichaka. It is certain that if the Matsyas get in the way, I will kill them too. I will then kill Duryodhana and regain the earth. Let Kunti's son, Yudhishthira, worship the Matsyas, if he so desires.” Droupadi said, “O lord! O brave one! If you do not wish to deviate from the pledge you have taken on my account, bring down Kichaka in secret.” Bhimasena replied, “O timid one! I will do exactly as you have said. O unblemished one! Today, I will remain invisible in the darkness. The evil-souled Kichaka craves for what cannot be obtained. I will crush his head, like an elephant does a bilva fruit{41}.” Bhima went there ﬁrst, hidden in the night, and seated himself, waiting for Kichaka, like an invisible lion waiting for deer.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then Droupadi went to Bhima in the kitchen. The fortunate one seated herself next to Kouravya, her husband. The one with the beautiful hair spoke. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O scorcher of enemies! As you had said, I have ﬁxed an assignation with Kichaka in the dancing hall. In the night, Kichaka will come to the deserted dancing hall alone. O mighty-armed one! Kill Kichaka. O Kounteya! Kichaka, the son of a suta, is intoxicated with insolence. O Pandava! When he goes to the dancing hall, rob him of his life. Because of his pride, the son of a suta looks down on the gandharvas. You are supreme among warriors. Uproot him, like an elephant does a stalk. O descendant of the Bharata lineage! Wipe away my tears of misery. O fortunate one! Salvage your own honour and that of your lineage.”",
+          "speaker": "@draupadi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhimasena replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhimasena",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O one with the beautiful thighs! You are welcome. You have brought me pleasant news. O beautiful one! I will do that, without anyone else's aid. O beautiful one! The news of your assignation with Kichaka has brought me the same delight that I felt on killing Hidimba{39}. By my brothers and by dharma, I am truthfully pledging that I will kill Kichaka, the way the lord of the gods slew Vritra{40}. Whether in private, or in public, I will bring down Kichaka. It is certain that if the Matsyas get in the way, I will kill them too. I will then kill Duryodhana and regain the earth. Let Kunti's son, Yudhishthira, worship the Matsyas, if he so desires.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Droupadi said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@draupadi",
+          "introduces_label": "Droupadi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! O brave one! If you do not wish to deviate from the pledge you have taken on my account, bring down Kichaka in secret.”",
+          "speaker": "@draupadi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhimasena replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhimasena",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O timid one! I will do exactly as you have said. O unblemished one! Today, I will remain invisible in the darkness. The evil-souled Kichaka craves for what cannot be obtained. I will crush his head, like an elephant does a bilva fruit{41}.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima went there ﬁrst, hidden in the night, and seated himself, waiting for Kichaka, like an invisible lion waiting for deer.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Kichaka adorned himself according to what pleased him. At the appointed hour, he arrived in the dancing hall, hoping to unite with Panchali. That room was enveloped in great darkness. Thinking this to be a sign, he entered. The inﬁnitely energetic Bhima had already arrived there earlier and was stationed alone. The extremely evil-minded one went up to him, reclining on the divan and blazing in anger because of the molestation caused to Krishna, like death. Kichaka was intoxicated with lust and approached him. His heart ﬁlled with delight, he smilingly told him, “I have brought you a lot of riches of different kinds. All of this is for you and I have arrived quickly. The women who are in my household have suddenly begun to praise me, saying that there is no other man who is as well dressed and handsome as I am.” Bhimasena replied, “It is my good fortune that you are so handsome and it is good fortune that you are praising yourself. I do not think that you have ever been caressed the way you are going to be caressed now.” Having said this, the mighty-armed Kounteya Bhima, terrible in valour, leapt up and laughed at that worst of men. Bhima seized him by the hair, adorned with garlands and fragrances.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Kichaka adorned himself according to what pleased him. At the appointed hour, he arrived in the dancing hall, hoping to unite with Panchali. That room was enveloped in great darkness. Thinking this to be a sign, he entered. The inﬁnitely energetic Bhima had already arrived there earlier and was stationed alone. The extremely evil-minded one went up to him, reclining on the divan and blazing in anger because of the molestation caused to Krishna, like death. Kichaka was intoxicated with lust and approached him. His heart ﬁlled with delight, he smilingly told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "he_smilingly",
+          "introduces_label": "he smilingly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have brought you a lot of riches of different kinds. All of this is for you and I have arrived quickly. The women who are in my household have suddenly begun to praise me, saying that there is no other man who is as well dressed and handsome as I am.”",
+          "speaker": "he_smilingly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhimasena replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhimasena",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is my good fortune that you are so handsome and it is good fortune that you are praising yourself. I do not think that you have ever been caressed the way you are going to be caressed now.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having said this, the mighty-armed Kounteya Bhima, terrible in valour, leapt up and laughed at that worst of men. Bhima seized him by the hair, adorned with garlands and fragrances.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Thus grasped forcibly by the hair, that supreme among strong ones freed his hair with his strength and grasped Pandava by the arms. A wrestling match started between those angry lions among men, like two powerful bull-elephants ﬁghting over a she-elephant during the spring season. Though he was angry, Bhima reeled when the powerful Kichaka struck him and brought him down to the ground, on his knees. Having been thrown down on the ground by the powerful Kichaka, Bhima swiftly arose like a serpent that has been struck with a staff. The suta and Pandava were both insolent and proud of their strength. The strong ones grappled in the dead of the night in that deserted place. That best of houses trembled repeatedly, when those strong and enraged ones roared at each other. Bhima struck the powerful one on the breast with the palm of his hand. But Kichaka, tormented by anger, did not budge by even a single step. For some time, the suta, oppressed by Bhima's strength, bore the force, impossible to bear on earth. But then his strength began to fade. On knowing that he was weakening, the immensely strong Bhimasena grasped him to his chest with force and pressed until he lost his senses. Vrikodara, supreme among victorious ones, was driven by wrath and was panting. He grasped Kichaka painfully by the hair. The immensely strong Bhima began to roar, like a tiger hungry for meat that has grasped a large deer. He forced his feet, his hands, his hand, his neck and all his limbs into his trunk, just as the wielder of the Pinaka once did with an animal{42}.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus grasped forcibly by the hair, that supreme among strong ones freed his hair with his strength and grasped Pandava by the arms. A wrestling match started between those angry lions among men, like two powerful bull-elephants ﬁghting over a she-elephant during the spring season. Though he was angry, Bhima reeled when the powerful Kichaka struck him and brought him down to the ground, on his knees. Having been thrown down on the ground by the powerful Kichaka, Bhima swiftly arose like a serpent that has been struck with a staff. The suta and Pandava were both insolent and proud of their strength. The strong ones grappled in the dead of the night in that deserted place. That best of houses trembled repeatedly, when those strong and enraged ones roared at each other. Bhima struck the powerful one on the breast with the palm of his hand. But Kichaka, tormented by anger, did not budge by even a single step. For some time, the suta, oppressed by Bhima's strength, bore the force, impossible to bear on earth. But then his strength began to fade. On knowing that he was weakening, the immensely strong Bhimasena grasped him to his chest with force and pressed until he lost his senses. Vrikodara, supreme among victorious ones, was driven by wrath and was panting. He grasped Kichaka painfully by the hair. The immensely strong Bhima began to roar, like a tiger hungry for meat that has grasped a large deer. He forced his feet, his hands, his hand, his neck and all his limbs into his trunk, just as the wielder of the Pinaka once did with an animal{42}.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Thus all the limbs were rendered into a mound of ﬂesh. The immensely strong Bhimasena then showed this to Krishna. The greatly energetic one, descendant of the Pandu lineage, told Droupadi, “O Panchali! Behold! This is what has happened to the one driven by lust.” Having thus killed Kichaka, his anger vanished and he was paciﬁed. He took his leave of Krishna Droupadi and quickly returned to the kitchen. Having ensured that Kichaka was slain, Droupadi, supreme among women, was delighted and all her miseries disappeared. She told the guards of the assembly hall, “Kichaka has been killed by my gandharva husbands. He lusted after another one's wife. Come and see.” On hearing her words, the guards of the dancing hall swiftly arrived in thousands, holding torches. Entering the house, they saw that Kichaka had been killed. They saw him lifeless, splattered with blood. “Where is the neck? Where are the feet? Where are the hands? Where is the head?” Having thus wondered, they decided that he had been killed by a gandharva.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus all the limbs were rendered into a mound of ﬂesh. The immensely strong Bhimasena then showed this to Krishna. The greatly energetic one, descendant of the Pandu lineage, told Droupadi, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Panchali! Behold! This is what has happened to the one driven by lust.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having thus killed Kichaka, his anger vanished and he was paciﬁed. He took his leave of Krishna Droupadi and quickly returned to the kitchen. Having ensured that Kichaka was slain, Droupadi, supreme among women, was delighted and all her miseries disappeared. She told the guards of the assembly hall, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Kichaka has been killed by my gandharva husbands. He lusted after another one's wife. Come and see.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing her words, the guards of the dancing hall swiftly arrived in thousands, holding torches. Entering the house, they saw that Kichaka had been killed. They saw him lifeless, splattered with blood. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Where is the neck? Where are the feet? Where are the hands? Where is the head?”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having thus wondered, they decided that he had been killed by a gandharva.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

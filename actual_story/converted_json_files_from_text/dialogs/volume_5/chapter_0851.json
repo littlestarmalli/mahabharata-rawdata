@@ -1,0 +1,171 @@
+{
+  "chapter": 851,
+  "local": 188,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “All the ascetics saw that she was ﬁrm in her resolution to perform austerities. O son{72}! They tried to stop her and asked, ‘What do you wish to accomplish?’ The rishis were aged in their austerities and the maiden replied to them, ‘I have been abandoned by Bhishma and have been dislodged from the dharma I would have obtained through a husband. O ones rich in austerities! I have consecrated myself for his death and not for the sake of any world{73}. I have resolved that I will achieve peace only through Bhishma's death. It is because of his deeds that I have obtained this eternal and inﬁnite misery. I have been deprived of the world of a husband. I am neither a woman, nor a man. O ones rich in austerities! I will not desist until I have slain Gangeya in battle. This is the resolution in my heart and I am engaged for this purpose. I am disgusted with my state as a woman and I have made up my mind to become a man. I wish to exact vengeance on Bhishma. I should not be dissuaded again.’ The god who wields the trident, Uma's consort, manifested himself. In the midst of the maharshis, he showed his own form to the beautiful one. He satisﬁed her with a boon and she asked for my defeat. The god replied to the intelligent one, ‘You will kill him.’ At this, the maiden spoke to Rudra. ‘O god! How can a woman like me be victorious in battle? O Uma's consort! Since I am a woman, my mind is deep{74}. O lord of beings! You have promised Bhishma's defeat. O one with the bull on the banner{75}! Act so that your promise comes true, so that I can kill Bhishma, Shantanu's son, in battle.’ The Mahadeva, with the bull on his banner, spoke truthfully to the maiden. ‘O fortunate one! I do not utter false words. What I have said will come true. You will attain manhood and will kill Bhishma in battle. When you enter another body, you will remember everything. You will be born as a maharatha in Drupada's lineage. You will be an extremely honoured warrior who is swift in the use of weapons. O fortunate one! Everything will be exactly as I have said it will be. You will become a man after some time has passed.’ Having thus spoken, Mahadeva Kapardi Vrishadhvaja{76} disappeared, while all the brahmanas looked on. In the sight of those maharshis, the unblemished one, the one with the beautiful complexion, gathered wood from the forest. She constructed an extremely large funeral pyre and set ﬁre to it. O great king! When the ﬁre was blazing, with rage igniting her senses, she said, ‘This is for Bhishma's destruction.’ O king! On the banks of the Yamuna, the eldest daughter of Kashi entered the ﬁre.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All the ascetics saw that she was ﬁrm in her resolution to perform austerities. O son{72}! They tried to stop her and asked, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What do you wish to accomplish?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The rishis were aged in their austerities and the maiden replied to them, ",
+          "speaker": "@bhishma",
+          "introduces": "the_rishis_were_aged_in_their_austerities_and_the_maiden",
+          "introduces_label": "The rishis were aged in their austerities and the maiden",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have been abandoned by Bhishma and have been dislodged from the dharma I would have obtained through a husband. O ones rich in austerities! I have consecrated myself for his death and not for the sake of any world{73}. I have resolved that I will achieve peace only through Bhishma's death. It is because of his deeds that I have obtained this eternal and inﬁnite misery. I have been deprived of the world of a husband. I am neither a woman, nor a man. O ones rich in austerities! I will not desist until I have slain Gangeya in battle. This is the resolution in my heart and I am engaged for this purpose. I am disgusted with my state as a woman and I have made up my mind to become a man. I wish to exact vengeance on Bhishma. I should not be dissuaded again.’",
+          "speaker": "the_rishis_were_aged_in_their_austerities_and_the_maiden",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The god who wields the trident, Uma's consort, manifested himself. In the midst of the maharshis, he showed his own form to the beautiful one. He satisﬁed her with a boon and she asked for my defeat. The god replied to the intelligent one, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You will kill him.’",
+          "speaker": "the_rishis_were_aged_in_their_austerities_and_the_maiden",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At this, the maiden spoke to Rudra. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O god! How can a woman like me be victorious in battle? O Uma's consort! Since I am a woman, my mind is deep{74}. O lord of beings! You have promised Bhishma's defeat. O one with the bull on the banner{75}! Act so that your promise comes true, so that I can kill Bhishma, Shantanu's son, in battle.’",
+          "speaker": "the_rishis_were_aged_in_their_austerities_and_the_maiden",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The Mahadeva, with the bull on his banner, spoke truthfully to the maiden. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! I do not utter false words. What I have said will come true. You will attain manhood and will kill Bhishma in battle. When you enter another body, you will remember everything. You will be born as a maharatha in Drupada's lineage. You will be an extremely honoured warrior who is swift in the use of weapons. O fortunate one! Everything will be exactly as I have said it will be. You will become a man after some time has passed.’",
+          "speaker": "the_rishis_were_aged_in_their_austerities_and_the_maiden",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having thus spoken, Mahadeva Kapardi Vrishadhvaja{76} disappeared, while all the brahmanas looked on. In the sight of those maharshis, the unblemished one, the one with the beautiful complexion, gathered wood from the forest. She constructed an extremely large funeral pyre and set ﬁre to it. O great king! When the ﬁre was blazing, with rage igniting her senses, she said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "she",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is for Bhishma's destruction.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! On the banks of the Yamuna, the eldest daughter of Kashi entered the ﬁre.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

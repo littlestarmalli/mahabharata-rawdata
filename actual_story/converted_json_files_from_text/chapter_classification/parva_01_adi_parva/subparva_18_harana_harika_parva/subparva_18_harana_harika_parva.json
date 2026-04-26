@@ -1,0 +1,20 @@
+{
+  "name": "Harana-harika Parva",
+  "subparva_number": 18,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 82
+  },
+  "note": "The word harana means abduction. It also means gifts. Harika means conveying or giving. So this parva is about Subhadra�s abduction and the giving of gifts that followed.",
+  "chapters": {
+    "213": {
+      "chapter_number": 213,
+      "global_number": 213,
+      "local_number": 213,
+      "num_shlokas": 82,
+      "file": "subparva_18_harana_harika_parva/chapter_213.json"
+    }
+  }
+}

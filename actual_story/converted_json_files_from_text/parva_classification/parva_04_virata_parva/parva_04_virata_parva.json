@@ -1,0 +1,55 @@
+{
+  "name": "Virata Parva",
+  "parva_number": 4,
+  "details": {
+    "num_subparvas": 4,
+    "num_chapters": 67,
+    "num_shlokas": 1823
+  },
+  "subparvas": {
+    "45": {
+      "subparva_number": 45,
+      "name": "Vairata Parva",
+      "source_volume": 4,
+      "details": {
+        "num_chapters": 12,
+        "num_shlokas": 282
+      },
+      "note": "This section is named after Virata. Virata is the proper name, whereas Vairata is the adjective. In Section 44 (Volume 3), at the end of Aranyaka (Vana) Parva, a brahmana�s kindling was robbed by a deer and the Pandavas pursued the deer. This section takes off from there. The Pandavas decide to spend the thirteenth year in disguise in King Virata�s kingdom. In individual disguises, the Pandavas and Droupadi arrive in King Vira-ta�s court and are accepted by him. Yudhishthira becomes Kanka, Bhima becomes Ballava, Arjuna becomes Brihannada, Nakula becomes Granthika, Sahadeva becomes Tantipala and Droupadi becomes Sairandhri.",
+      "file": "parva_04_virata_parva/subparva_45_vairata_parva/subparva_45_vairata_parva.json"
+    },
+    "46": {
+      "subparva_number": 46,
+      "name": "Kichaka-vadha Parva",
+      "source_volume": 4,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 353
+      },
+      "note": "Vadha means to kill and is also the act of slaying. Kichaka is Virata�s general and Sudeshna�s brother and lusts after Droupadi. Kichaka is killed by Bhima, which explains the name of this section.",
+      "file": "parva_04_virata_parva/subparva_46_kichaka_vadha_parva/subparva_46_kichaka_vadha_parva.json"
+    },
+    "47": {
+      "subparva_number": 47,
+      "name": "Go-Grahana Parva",
+      "source_volume": 4,
+      "details": {
+        "num_chapters": 39,
+        "num_shlokas": 1009
+      },
+      "note": "Go means cattle and grahana means to seize. So this section is about seizing cattle. With Kichaka�s death, Virata is weakened and the Kouravas and Trigartas invade Matsya to rob Virata of his cattle. Virata is defeated by Susharma, the king of the Trigartas. However, the four Pandavas (Yudhishthira, Bhima, Nakula, Sahadeva) defeat Susharma and free Virata. Meanwhile, the Kurus rob Virata�s kingdom of sixty thousand cattle. However, they are defeated by Arjuna, with Uttara as a charioteer. The Kurus return and the cattle are regained.",
+      "file": "parva_04_virata_parva/subparva_47_go_grahana_parva/subparva_47_go_grahana_parva.json"
+    },
+    "48": {
+      "subparva_number": 48,
+      "name": "Vaivahika Parva",
+      "source_volume": 4,
+      "details": {
+        "num_chapters": 5,
+        "num_shlokas": 179
+      },
+      "note": "Vivaha means wedding and this parva is about Droupadi�s marriage.",
+      "file": "parva_04_virata_parva/subparva_48_vaivahika_parva/subparva_48_vaivahika_parva.json"
+    }
+  }
+}

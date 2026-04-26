@@ -1,0 +1,295 @@
+{
+  "chapter": 1135,
+  "local": 158,
+  "shlokas": 62,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said “O son{17}! What Karna, Duryodhana and the others, Shakuni Soubala and especially you have done, is greatly injurious. You have always known that the spear could only kill a single person in the battle. It was incapable of being countered even by the gods, with Vasava. Why did Karna not use it in the battle earlier? O Sanjaya! Why did he not release it at Devaki's son or Phalguna?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son{17}! What Karna, Duryodhana and the others, Shakuni Soubala and especially you have done, is greatly injurious. You have always known that the spear could only kill a single person in the battle. It was incapable of being countered even by the gods, with Vasava. Why did Karna not use it in the battle earlier? O Sanjaya! Why did he not release it at Devaki's son or Phalguna?”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O lord of the earth! O best of those in the Kuru lineage! Returning from the battle, all of us used to converse about this in the night. We always said, ‘O Karna! O Karna! When it is morning tomorrow, hurl the spear at Keshava or Arjuna.’ O king! This was destiny. When it became morning, the intelligence of Karna and the other warriors was destroyed. I think that destiny is supreme. Though he had it in his hands, in the battle, Karna did not use it to kill Partha or Krishna, the son of Devaki. That spear was in his hand, arising like the night of destruction. However, his intelligence was destroyed by destiny and Karna did not release it. O lord! He was confounded by the delusion of destiny and did not use it to kill Krishna, the son of Devaki, or Partha, the equal of Shakra.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth! O best of those in the Kuru lineage! Returning from the battle, all of us used to converse about this in the night. We always said, ",
+          "speaker": "@sanjaya",
+          "introduces": "we_always",
+          "introduces_label": "We always",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Karna! O Karna! When it is morning tomorrow, hurl the spear at Keshava or Arjuna.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! This was destiny. When it became morning, the intelligence of Karna and the other warriors was destroyed. I think that destiny is supreme. Though he had it in his hands, in the battle, Karna did not use it to kill Partha or Krishna, the son of Devaki. That spear was in his hand, arising like the night of destruction. However, his intelligence was destroyed by destiny and Karna did not release it. O lord! He was confounded by the delusion of destiny and did not use it to kill Krishna, the son of Devaki, or Partha, the equal of Shakra.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra said, “You have been slain through destiny and through Keshava's intelligence. What was given by Vasava has gone, wasted on Ghatotkacha, who was like a blade of grass. Because of this undesirable act, Karna, my sons and all the other kings have been conveyed to Vaivasvata's eternal abode. Tell me about how the battle continued thereafter between the Kurus and the Pandavas, after Hidimba's son had been killed. How did those strikers attack Drona's battle formation? What did the Srinjayas and the Panchalas do in the battle? After the death of Somadatta's son and Saindhava, Drona must have become intolerant and prepared to give up his own life. He must have immersed himself in the army. He must have been like a yawning tiger or Death with a gaping mouth. As Drona advanced, how did the Pandus and Srinjayas counter him? O son! What did Drona's son, Karna and Kripa do in that battle? With Duryodhana at the forefront, how did they protect the preceptor? Savyasachi and Vrikodara wished to kill Bharadvaja's son in that battle. How did those on my side envelop them with arrows? O Sanjaya! Tell me that. After the death of the king of Sindhu and after the death of Ghatotkacha, they must have been intolerant and extremely angry. How did the battle rage during the night?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You have been slain through destiny and through Keshava's intelligence. What was given by Vasava has gone, wasted on Ghatotkacha, who was like a blade of grass. Because of this undesirable act, Karna, my sons and all the other kings have been conveyed to Vaivasvata's eternal abode. Tell me about how the battle continued thereafter between the Kurus and the Pandavas, after Hidimba's son had been killed. How did those strikers attack Drona's battle formation? What did the Srinjayas and the Panchalas do in the battle? After the death of Somadatta's son and Saindhava, Drona must have become intolerant and prepared to give up his own life. He must have immersed himself in the army. He must have been like a yawning tiger or Death with a gaping mouth. As Drona advanced, how did the Pandus and Srinjayas counter him? O son! What did Drona's son, Karna and Kripa do in that battle? With Duryodhana at the forefront, how did they protect the preceptor? Savyasachi and Vrikodara wished to kill Bharadvaja's son in that battle. How did those on my side envelop them with arrows? O Sanjaya! Tell me that. After the death of the king of Sindhu and after the death of Ghatotkacha, they must have been intolerant and extremely angry. How did the battle rage during the night?”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O king! When the rakshasa Ghatokacha was killed by Karna in the night, the warriors on your side were delighted and roared. They descended with great force and began to slaughter the soldiers{18}. The night was dark and the king{19} was overcome by supreme misery. The mighty-armed one, the scorcher of enemies, spoke to Bhimasena. ‘O mighty-armed one! Check the army of Dhritarashtra's son. With the death of Hidimba's son, I have become overcome by great confusion.’ Having been instructed, Bhima sat down on his own chariot. The king's face was full of tears and he sighed repeatedly. On witnessing Karna's valour, he was overcome by great lassitude. On seeing that he was distressed, Krishna spoke these words to him. ‘O Kounteya! Do not be miserable. This is not deserving of you. O foremost among the Bharata lineage! Like an ordinary man, you should not yield to impotence. O king! Arise and ﬁght. O lord! Bear the heavy burden. If you yield to impotence, there will be an uncertainty about victory.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! When the rakshasa Ghatokacha was killed by Karna in the night, the warriors on your side were delighted and roared. They descended with great force and began to slaughter the soldiers{18}. The night was dark and the king{19} was overcome by supreme misery. The mighty-armed one, the scorcher of enemies, spoke to Bhimasena. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O mighty-armed one! Check the army of Dhritarashtra's son. With the death of Hidimba's son, I have become overcome by great confusion.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been instructed, Bhima sat down on his own chariot. The king's face was full of tears and he sighed repeatedly. On witnessing Karna's valour, he was overcome by great lassitude. On seeing that he was distressed, Krishna spoke these words to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Kounteya! Do not be miserable. This is not deserving of you. O foremost among the Bharata lineage! Like an ordinary man, you should not yield to impotence. O king! Arise and ﬁght. O lord! Bear the heavy burden. If you yield to impotence, there will be an uncertainty about victory.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On hearing Krishna's words, Dharmaraja Yudhisthira wiped his eyes with his hands and spoke these words to Krishna. ‘O mighty-armed one! You know that dharma is the supreme objective. The fruits of killing a brahmana devolve on those who do not acknowledge a service. O Janardana! When we were in the forest, Hidimba's greatsouled son, though he was but a child, performed many services for us. O Krishna! On learning that Pandava, the one with the white horses, had left in search of weapons, the great archer{20} had come to me in Kamyaka. He lived with us, until Dhananjaya returned. When we journeyed to Gandhamadana, he saved us from many hardships. When Panchali was exhausted, the great-souled one carried her on his back{21}. O lord! For my sake, the greatsouled one performed diverse difﬁcult deeds in the battle. O Janardana! I bear a natural affection towards Sahadeva. But my affection towards Ghatotkacha, Indra among the rakshasas, is twice that. O mighty-armed one! He was devoted to me. I loved him and he loved me. O Varshneya! Because of that, I am tormented by sorrow and overcome with lassitude. O Varshneya! Behold. The soldiers are being driven away by the Kouravas. Behold! Maharatha Drona and Karna are making great efforts in the battle. Behold! In the night, the Pandava soldiers are being crushed. It is as if two crazy elephants are demolishing a large forest of reeds. O Madhava! The Kouravas are showing no regard for the strength of Bhimasena's arms, or the colourful weapons and valour that Partha possesses. On seeing that the rakshasa has been killed in the encounter, Drona, Karna and King Suyodhana are roaring with delight in the battle. O Janardana! When we are alive, and so are you, how could Hidimba's son have encountered his death in the clash with the son of a suta? O Krishna! While all of us looked on, and so did Savyasachi, he{22} blunted us and killed Bhimasena's son, the immensely strong rakshasa. O Krishna! When Abhimanyu was killed in the battle by the evil-souled sons of Dhritarashtra, maharatha Savyasachi wasn't present there. The evilsouled Saindhava barred all of us. Drona and his son became the instruments of that act. The preceptor himself told Karna about the means whereby he{23} might be killed. When he was ﬁghting with the sword, it was he{24} who severed that sword into two. When he was ﬁghting, Kritavarma cruelly and violently killed his horses and his two parshni charioteers. The other great archers brought down Subhadra's son in the battle. O Krishna! O best of the Yadava lineage! It was only for a small reason that the wielder of Gandiva killed Saindhava{25}. This did not bring me pleasure. If Pandava wished to kill the enemy in accordance with what was fair, in my view, he should have killed Drona and Karna ﬁrst. O bull among the Bharata lineage! Those two are the source of our hardships. Having resorted to those two, Suyodhana has been conﬁdent against the enemy in the battle. When Drona and the son of a suta, with his followers, should have been killed, the mighty-armed one killed Saindhava, whose connection was distant. It is certainly my task to chastise the son of a suta. O brave one! Therefore, I will myself kill Karna now. The mighty-armed Bhimasena is engaged with Drona's formation.’ Having said this, Yudhishthira advanced, quickly and violently. He stretched his great bow and blew ﬁercely on his conch shell.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On hearing Krishna's words, Dharmaraja Yudhisthira wiped his eyes with his hands and spoke these words to Krishna. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O mighty-armed one! You know that dharma is the supreme objective. The fruits of killing a brahmana devolve on those who do not acknowledge a service. O Janardana! When we were in the forest, Hidimba's greatsouled son, though he was but a child, performed many services for us. O Krishna! On learning that Pandava, the one with the white horses, had left in search of weapons, the great archer{20} had come to me in Kamyaka. He lived with us, until Dhananjaya returned. When we journeyed to Gandhamadana, he saved us from many hardships. When Panchali was exhausted, the great-souled one carried her on his back{21}. O lord! For my sake, the greatsouled one performed diverse difﬁcult deeds in the battle. O Janardana! I bear a natural affection towards Sahadeva. But my affection towards Ghatotkacha, Indra among the rakshasas, is twice that. O mighty-armed one! He was devoted to me. I loved him and he loved me. O Varshneya! Because of that, I am tormented by sorrow and overcome with lassitude. O Varshneya! Behold. The soldiers are being driven away by the Kouravas. Behold! Maharatha Drona and Karna are making great efforts in the battle. Behold! In the night, the Pandava soldiers are being crushed. It is as if two crazy elephants are demolishing a large forest of reeds. O Madhava! The Kouravas are showing no regard for the strength of Bhimasena's arms, or the colourful weapons and valour that Partha possesses. On seeing that the rakshasa has been killed in the encounter, Drona, Karna and King Suyodhana are roaring with delight in the battle. O Janardana! When we are alive, and so are you, how could Hidimba's son have encountered his death in the clash with the son of a suta? O Krishna! While all of us looked on, and so did Savyasachi, he{22} blunted us and killed Bhimasena's son, the immensely strong rakshasa. O Krishna! When Abhimanyu was killed in the battle by the evil-souled sons of Dhritarashtra, maharatha Savyasachi wasn't present there. The evilsouled Saindhava barred all of us. Drona and his son became the instruments of that act. The preceptor himself told Karna about the means whereby he{23} might be killed. When he was ﬁghting with the sword, it was he{24} who severed that sword into two. When he was ﬁghting, Kritavarma cruelly and violently killed his horses and his two parshni charioteers. The other great archers brought down Subhadra's son in the battle. O Krishna! O best of the Yadava lineage! It was only for a small reason that the wielder of Gandiva killed Saindhava{25}. This did not bring me pleasure. If Pandava wished to kill the enemy in accordance with what was fair, in my view, he should have killed Drona and Karna ﬁrst. O bull among the Bharata lineage! Those two are the source of our hardships. Having resorted to those two, Suyodhana has been conﬁdent against the enemy in the battle. When Drona and the son of a suta, with his followers, should have been killed, the mighty-armed one killed Saindhava, whose connection was distant. It is certainly my task to chastise the son of a suta. O brave one! Therefore, I will myself kill Karna now. The mighty-armed Bhimasena is engaged with Drona's formation.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, Yudhishthira advanced, quickly and violently. He stretched his great bow and blew ﬁercely on his conch shell.",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shikhandi quickly followed the king from the rear. He was surrounded by one thousand chariots, three hundred elephants, ﬁve thousand horses and three thousand Prabhadrakas. Drums were beaten and the armoured ones blew on their conch shells. The Panchalas and Pandavas advanced, with Yudhishthira at the forefront. The mightyarmed Vasudeva spoke to Dhananjaya. ‘Yudhishthira is overcome with anger and is swiftly advancing. He wishes to kill the son of a suta. One should not depend on him for this.’ Having said this, Hrishikesha swiftly urged the steeds. The king was already far ahead and Janardana followed him. He{26} was advancing swiftly, wishing to kill the son of a suta. His resolution was determined by sorrow and he was tormented, as if by a ﬁre. On seeing that Yudhishthira, Dharma's son, was advancing, Vyasa approached and said, ‘Though he has clashed against Karna in the battle, it is through good fortune that Phalguna is still alive. He preserved the spear, wishing to kill Savyasachi. O bull among the Bharata lineage! It is good fortune that Jishnu did not engage in a duel with him. Rivalling each other, they would have released all their divine weapons. O Yudhishtira! When his weapons were destroyed in the battle, the son of a suta would certainly have used the spear given by Vasava. O supreme among the Bharata lineage! That would have led to a terrible calamity. O one who grants honours! It is good fortune that the rakshasa has been killed in the battle by the son of a suta. The rakshasa was killed by destiny. What was given by Vasava was only an instrument. O best of the Bharata lineage! Do not be angry. You should not have any sorrow in your mind. O son{27}! It is for your sake that the rakshasa has been killed in the battle. O Yudhishthira! This is the end of all beings. O king! O descendant of the Bharata lineage! With your brothers and with all the great-souled kings, ﬁght against the Kouravas in the battle. On the ﬁfth day from now, the earth will be yours{28}. O tiger among men! Always think of dharma. O Pandava! Always practise non-violence, austerities, generosity, forgiveness and truth with supreme cheerfulness. Where there is dharma, victory exists there.’ Having said this to Pandava, Vyasa disappeared from the spot.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shikhandi quickly followed the king from the rear. He was surrounded by one thousand chariots, three hundred elephants, ﬁve thousand horses and three thousand Prabhadrakas. Drums were beaten and the armoured ones blew on their conch shells. The Panchalas and Pandavas advanced, with Yudhishthira at the forefront. The mightyarmed Vasudeva spoke to Dhananjaya. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Yudhishthira is overcome with anger and is swiftly advancing. He wishes to kill the son of a suta. One should not depend on him for this.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, Hrishikesha swiftly urged the steeds. The king was already far ahead and Janardana followed him. He{26} was advancing swiftly, wishing to kill the son of a suta. His resolution was determined by sorrow and he was tormented, as if by a ﬁre. On seeing that Yudhishthira, Dharma's son, was advancing, Vyasa approached and said, ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Though he has clashed against Karna in the battle, it is through good fortune that Phalguna is still alive. He preserved the spear, wishing to kill Savyasachi. O bull among the Bharata lineage! It is good fortune that Jishnu did not engage in a duel with him. Rivalling each other, they would have released all their divine weapons. O Yudhishtira! When his weapons were destroyed in the battle, the son of a suta would certainly have used the spear given by Vasava. O supreme among the Bharata lineage! That would have led to a terrible calamity. O one who grants honours! It is good fortune that the rakshasa has been killed in the battle by the son of a suta. The rakshasa was killed by destiny. What was given by Vasava was only an instrument. O best of the Bharata lineage! Do not be angry. You should not have any sorrow in your mind. O son{27}! It is for your sake that the rakshasa has been killed in the battle. O Yudhishthira! This is the end of all beings. O king! O descendant of the Bharata lineage! With your brothers and with all the great-souled kings, ﬁght against the Kouravas in the battle. On the ﬁfth day from now, the earth will be yours{28}. O tiger among men! Always think of dharma. O Pandava! Always practise non-violence, austerities, generosity, forgiveness and truth with supreme cheerfulness. Where there is dharma, victory exists there.’",
+          "speaker": "we_always",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this to Pandava, Vyasa disappeared from the spot.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

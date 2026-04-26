@@ -1,0 +1,67 @@
+{
+  "chapter": 1191,
+  "local": 41,
+  "shlokas": 7,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “Krishna was advancing quickly and again spoke softly to Partha. ‘O Kouravya! Behold. The kings are advancing towards Pandava{526}. Behold Karna in this great arena, blazing like a ﬁre. This Bhima is a great archer and has returned to ﬁght again. With Dhrishtadyumna at the forefront, the others have also returned and are following him—with the Panchalas, the Srinjayas and the Pandavas leading the way. The large army of the enemy is being shattered by the returning Parthas. O Arjuna! The Kouravas who were running away have been held together by Karna. His force is like that of Yama and his valour is Shakra's equal. O Kouravya! Drona's son, supreme among the wielders of weapons, is advancing there. In the battle, maharatha Dhrishtadyumna is advancing against him.’ In this way, the invincible Vasudeva described it to Kiriti. O king! Then, an extremely great and extremely ﬁerce battle commenced. As the clash started, roars like lion's were heard. O king! Both sets of soldiers preferred death to retreat.” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Krishna was advancing quickly and again spoke softly to Partha. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Kouravya! Behold. The kings are advancing towards Pandava{526}. Behold Karna in this great arena, blazing like a ﬁre. This Bhima is a great archer and has returned to ﬁght again. With Dhrishtadyumna at the forefront, the others have also returned and are following him—with the Panchalas, the Srinjayas and the Pandavas leading the way. The large army of the enemy is being shattered by the returning Parthas. O Arjuna! The Kouravas who were running away have been held together by Karna. His force is like that of Yama and his valour is Shakra's equal. O Kouravya! Drona's son, supreme among the wielders of weapons, is advancing there. In the battle, maharatha Dhrishtadyumna is advancing against him.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " In this way, the invincible Vasudeva described it to Kiriti. O king! Then, an extremely great and extremely ﬁerce battle commenced. As the clash started, roars like lion's were heard. O king! Both sets of soldiers preferred death to retreat.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

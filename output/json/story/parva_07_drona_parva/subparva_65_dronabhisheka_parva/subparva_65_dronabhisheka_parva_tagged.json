@@ -1,0 +1,128 @@
+{
+  "name": "Dronabhisheka Parva",
+  "subparva_number": 65,
+  "source_volume": 5,
+  "details": {
+    "num_chapters": 15,
+    "num_shlokas": 634
+  },
+  "note": "Abhishekha means instatement or consecration and the parva is named after Drona�s consecration as the supreme commander. After the con-secration, this section also describes the eleventh day of the battle. Drona promises to capture Yudhishthira alive. Despite a lot of fighting, nothing of great significance occurs on the eleventh day, though Drona kills some Panchala warriors. CHAPTER 978(1) Janamejaya asked, 'Devavrata was unmatched in spirit, energy, strength, bravery and valour. On hearing that he had been killed1 by Shikhandi of Panchala, what did King Dhritarashtra, with his senses overcome by sorrow, do? O brahmana rishi! His valiant father was slain. O illustrious one! His son wished to obtain the kingdom after van-quishing the great archers, the Pandavas, with rathas like Bhishma and Drona. O illustrious one! When the supreme among archers was killed, what did Kouravya2 do? O supreme among brahmanas! Tell me all this.� Vaishampayana replied, 'Hearing that his father had been killed, Dhritarashtra, the lord of men, could find no peace. Kouravya3 was overcome by anxiety and sorrow. The king continually re?ected on his misery. Gavalgana�s son,4 pure in soul, again came before him. It was night and Sanjaya had returned to the city of Nagasahrya from the camp. O great king! On hearing that Bhishma had been killed, Ambika�s son was extremely distressed. Wish-ing for the victory of his sons, Dhritarashtra lamented in woe and asked�",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "978": {
+      "chapter_number": 978,
+      "global_number": 978,
+      "local_number": 1,
+      "num_shlokas": 49,
+      "file": "subparva_65_dronabhisheka_parva/chapter_978_tagged.json"
+    },
+    "979": {
+      "chapter_number": 979,
+      "global_number": 979,
+      "local_number": 2,
+      "num_shlokas": 37,
+      "file": "subparva_65_dronabhisheka_parva/chapter_979_tagged.json"
+    },
+    "980": {
+      "chapter_number": 980,
+      "global_number": 980,
+      "local_number": 3,
+      "num_shlokas": 23,
+      "file": "subparva_65_dronabhisheka_parva/chapter_980_tagged.json"
+    },
+    "981": {
+      "chapter_number": 981,
+      "global_number": 981,
+      "local_number": 4,
+      "num_shlokas": 15,
+      "file": "subparva_65_dronabhisheka_parva/chapter_981_tagged.json"
+    },
+    "982": {
+      "chapter_number": 982,
+      "global_number": 982,
+      "local_number": 5,
+      "num_shlokas": 40,
+      "file": "subparva_65_dronabhisheka_parva/chapter_982_tagged.json"
+    },
+    "983": {
+      "chapter_number": 983,
+      "global_number": 983,
+      "local_number": 6,
+      "num_shlokas": 43,
+      "file": "subparva_65_dronabhisheka_parva/chapter_983_tagged.json"
+    },
+    "984": {
+      "chapter_number": 984,
+      "global_number": 984,
+      "local_number": 7,
+      "num_shlokas": 36,
+      "file": "subparva_65_dronabhisheka_parva/chapter_984_tagged.json"
+    },
+    "985": {
+      "chapter_number": 985,
+      "global_number": 985,
+      "local_number": 8,
+      "num_shlokas": 39,
+      "file": "subparva_65_dronabhisheka_parva/chapter_985_tagged.json"
+    },
+    "986": {
+      "chapter_number": 986,
+      "global_number": 986,
+      "local_number": 9,
+      "num_shlokas": 73,
+      "file": "subparva_65_dronabhisheka_parva/chapter_986_tagged.json"
+    },
+    "987": {
+      "chapter_number": 987,
+      "global_number": 987,
+      "local_number": 10,
+      "num_shlokas": 51,
+      "file": "subparva_65_dronabhisheka_parva/chapter_987_tagged.json"
+    },
+    "988": {
+      "chapter_number": 988,
+      "global_number": 988,
+      "local_number": 11,
+      "num_shlokas": 31,
+      "file": "subparva_65_dronabhisheka_parva/chapter_988_tagged.json"
+    },
+    "989": {
+      "chapter_number": 989,
+      "global_number": 989,
+      "local_number": 12,
+      "num_shlokas": 28,
+      "file": "subparva_65_dronabhisheka_parva/chapter_989_tagged.json"
+    },
+    "990": {
+      "chapter_number": 990,
+      "global_number": 990,
+      "local_number": 13,
+      "num_shlokas": 80,
+      "file": "subparva_65_dronabhisheka_parva/chapter_990_tagged.json"
+    },
+    "991": {
+      "chapter_number": 991,
+      "global_number": 991,
+      "local_number": 14,
+      "num_shlokas": 37,
+      "file": "subparva_65_dronabhisheka_parva/chapter_991_tagged.json"
+    },
+    "992": {
+      "chapter_number": 992,
+      "global_number": 992,
+      "local_number": 15,
+      "num_shlokas": 52,
+      "file": "subparva_65_dronabhisheka_parva/chapter_992_tagged.json"
+    }
+  }
+}

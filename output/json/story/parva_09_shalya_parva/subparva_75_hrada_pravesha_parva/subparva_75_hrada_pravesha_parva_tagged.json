@@ -1,0 +1,107 @@
+{
+  "name": "Hrada-pravesha Parva",
+  "subparva_number": 75,
+  "source_volume": 7,
+  "details": {
+    "num_chapters": 12,
+    "num_shlokas": 664
+  },
+  "note": "",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1236": {
+      "chapter_number": 1236,
+      "global_number": 1236,
+      "local_number": 17,
+      "num_shlokas": 39,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1236_tagged.json"
+    },
+    "1237": {
+      "chapter_number": 1237,
+      "global_number": 1237,
+      "local_number": 18,
+      "num_shlokas": 65,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1237_tagged.json"
+    },
+    "1238": {
+      "chapter_number": 1238,
+      "global_number": 1238,
+      "local_number": 19,
+      "num_shlokas": 26,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1238_tagged.json"
+    },
+    "1239": {
+      "chapter_number": 1239,
+      "global_number": 1239,
+      "local_number": 20,
+      "num_shlokas": 36,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1239_tagged.json"
+    },
+    "1240": {
+      "chapter_number": 1240,
+      "global_number": 1240,
+      "local_number": 21,
+      "num_shlokas": 44,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1240_tagged.json"
+    },
+    "1241": {
+      "chapter_number": 1241,
+      "global_number": 1241,
+      "local_number": 22,
+      "num_shlokas": 88,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1241_tagged.json"
+    },
+    "1242": {
+      "chapter_number": 1242,
+      "global_number": 1242,
+      "local_number": 23,
+      "num_shlokas": 64,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1242_tagged.json"
+    },
+    "1243": {
+      "chapter_number": 1243,
+      "global_number": 1243,
+      "local_number": 24,
+      "num_shlokas": 56,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1243_tagged.json"
+    },
+    "1244": {
+      "chapter_number": 1244,
+      "global_number": 1244,
+      "local_number": 25,
+      "num_shlokas": 37,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1244_tagged.json"
+    },
+    "1245": {
+      "chapter_number": 1245,
+      "global_number": 1245,
+      "local_number": 26,
+      "num_shlokas": 54,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1245_tagged.json"
+    },
+    "1246": {
+      "chapter_number": 1246,
+      "global_number": 1246,
+      "local_number": 27,
+      "num_shlokas": 63,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1246_tagged.json"
+    },
+    "1247": {
+      "chapter_number": 1247,
+      "global_number": 1247,
+      "local_number": 28,
+      "num_shlokas": 92,
+      "file": "subparva_75_hrada_pravesha_parva/chapter_1247_tagged.json"
+    }
+  }
+}

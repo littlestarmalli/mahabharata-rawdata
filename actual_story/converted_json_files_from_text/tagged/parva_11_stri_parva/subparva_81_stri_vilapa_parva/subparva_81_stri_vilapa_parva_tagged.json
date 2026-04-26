@@ -1,0 +1,142 @@
+{
+  "name": "Stri-vilapa Parva",
+  "subparva_number": 81,
+  "source_volume": 8,
+  "details": {
+    "num_chapters": 17,
+    "num_shlokas": 468
+  },
+  "note": "Stri Parva is a parva concerning women. This parva is so named because it is about the grief of the women and the funeral ceremonies performed by the women and the survivors. In the 18-parva classification, Stri Parva is the eleventh. In the 100-parva classification, Stri Parva constitutes Sections 80 to 83. Stri Parva has twenty-seven chapters. In the numbering of the chap-ters in Stri Parva, the first number is a consecutive one, starting with the be-ginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within the parva. Vishoka means the end of sorrow, or to be freed from sorrow. This parva is named after Vidura�s attempt to dispel Dhritarashtra�s sorrow.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1310": {
+      "chapter_number": 1310,
+      "global_number": 1310,
+      "local_number": 9,
+      "num_shlokas": 21,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1310_tagged.json"
+    },
+    "1311": {
+      "chapter_number": 1311,
+      "global_number": 1311,
+      "local_number": 10,
+      "num_shlokas": 23,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1311_tagged.json"
+    },
+    "1312": {
+      "chapter_number": 1312,
+      "global_number": 1312,
+      "local_number": 11,
+      "num_shlokas": 30,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1312_tagged.json"
+    },
+    "1313": {
+      "chapter_number": 1313,
+      "global_number": 1313,
+      "local_number": 12,
+      "num_shlokas": 15,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1313_tagged.json"
+    },
+    "1314": {
+      "chapter_number": 1314,
+      "global_number": 1314,
+      "local_number": 13,
+      "num_shlokas": 19,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1314_tagged.json"
+    },
+    "1315": {
+      "chapter_number": 1315,
+      "global_number": 1315,
+      "local_number": 14,
+      "num_shlokas": 22,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1315_tagged.json"
+    },
+    "1316": {
+      "chapter_number": 1316,
+      "global_number": 1316,
+      "local_number": 15,
+      "num_shlokas": 20,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1316_tagged.json"
+    },
+    "1317": {
+      "chapter_number": 1317,
+      "global_number": 1317,
+      "local_number": 16,
+      "num_shlokas": 59,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1317_tagged.json"
+    },
+    "1318": {
+      "chapter_number": 1318,
+      "global_number": 1318,
+      "local_number": 17,
+      "num_shlokas": 30,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1318_tagged.json"
+    },
+    "1319": {
+      "chapter_number": 1319,
+      "global_number": 1319,
+      "local_number": 18,
+      "num_shlokas": 28,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1319_tagged.json"
+    },
+    "1320": {
+      "chapter_number": 1320,
+      "global_number": 1320,
+      "local_number": 19,
+      "num_shlokas": 21,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1320_tagged.json"
+    },
+    "1321": {
+      "chapter_number": 1321,
+      "global_number": 1321,
+      "local_number": 20,
+      "num_shlokas": 32,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1321_tagged.json"
+    },
+    "1322": {
+      "chapter_number": 1322,
+      "global_number": 1322,
+      "local_number": 21,
+      "num_shlokas": 14,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1322_tagged.json"
+    },
+    "1323": {
+      "chapter_number": 1323,
+      "global_number": 1323,
+      "local_number": 22,
+      "num_shlokas": 18,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1323_tagged.json"
+    },
+    "1324": {
+      "chapter_number": 1324,
+      "global_number": 1324,
+      "local_number": 23,
+      "num_shlokas": 42,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1324_tagged.json"
+    },
+    "1325": {
+      "chapter_number": 1325,
+      "global_number": 1325,
+      "local_number": 24,
+      "num_shlokas": 28,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1325_tagged.json"
+    },
+    "1326": {
+      "chapter_number": 1326,
+      "global_number": 1326,
+      "local_number": 25,
+      "num_shlokas": 46,
+      "file": "subparva_81_stri_vilapa_parva/chapter_1326_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "chapter": 583,
+  "local": 286,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Karna said, “O illustrious one! O lord of the cows! O one with the extremely ﬁerce rays! You know that there is no other god to whom I am as devoted as to you. O lord of the cows! My affection towards you has always been greater than that towards my wife, my sons, my own self and my well-wishers. O one who spreads light! You know that there is no doubt that great-souled ones desire to return the love and devotion of their devotees and worshippers. Since your illustrious self knows that Karna loves you like no other god in heaven, you have spoken about my welfare. I repeatedly bow my head before you and seek your favours again and again. O one with the sharp rays! I am telling you this. Please pardon me. I am not frightened of death as much as I am of falsehood. Especially for all the brahmanas and all the righteous ones, I am ready to give up my life, without any hesitation. O god! O one who spreads light! In so far as the words about Pandava Phalguna are concerned, remove all torment and misery from your mind. Concerning Arjuna and me, I will vanquish Arjuna in battle. O god! You know about the great strength of weapons I have obtained from Jamadagni's son{11} and from the great-souled Drona. O foremost among the gods! Grant me permission to observe my vow. If the wielder of the vajra comes and begs for my own life, I will give it to him.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Karna said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! O lord of the cows! O one with the extremely ﬁerce rays! You know that there is no other god to whom I am as devoted as to you. O lord of the cows! My affection towards you has always been greater than that towards my wife, my sons, my own self and my well-wishers. O one who spreads light! You know that there is no doubt that great-souled ones desire to return the love and devotion of their devotees and worshippers. Since your illustrious self knows that Karna loves you like no other god in heaven, you have spoken about my welfare. I repeatedly bow my head before you and seek your favours again and again. O one with the sharp rays! I am telling you this. Please pardon me. I am not frightened of death as much as I am of falsehood. Especially for all the brahmanas and all the righteous ones, I am ready to give up my life, without any hesitation. O god! O one who spreads light! In so far as the words about Pandava Phalguna are concerned, remove all torment and misery from your mind. Concerning Arjuna and me, I will vanquish Arjuna in battle. O god! You know about the great strength of weapons I have obtained from Jamadagni's son{11} and from the great-souled Drona. O foremost among the gods! Grant me permission to observe my vow. If the wielder of the vajra comes and begs for my own life, I will give it to him.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Surya replied, “O son! O immensely strong one! If you wish to give your beautiful earrings to the wielder of the vajra, you should speak to him so that your victory is ensured. Because of your rule, you will have to give your earrings to Shatakratu. But as long as the earrings adorn you, you cannot be slain by any beings. O son! Therefore, the slayer of the danavas{12} wishes to ensure your destruction at the hands of Arjuna in battle and seeks to rob your earrings. With good and true words, you should propitiate Purandara, lord of the gods, who never deviates from his objective, again and again and tell him, ‘O one with the thousand eyes! I will give you my earrings and my excellent armour if you give me an invincible spear{13} that will destroy all my enemies.’ O Karna! It is only under this rule that you should give Shakra your earrings. With the spear, you will be able to kill your enemies in battle. O mighty-armed one! The spear of the king of the gods is such that, without killing hundreds and thousands of enemies, it does not return to the hand.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Surya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@surya",
+          "introduces_label": "Surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! O immensely strong one! If you wish to give your beautiful earrings to the wielder of the vajra, you should speak to him so that your victory is ensured. Because of your rule, you will have to give your earrings to Shatakratu. But as long as the earrings adorn you, you cannot be slain by any beings. O son! Therefore, the slayer of the danavas{12} wishes to ensure your destruction at the hands of Arjuna in battle and seeks to rob your earrings. With good and true words, you should propitiate Purandara, lord of the gods, who never deviates from his objective, again and again and tell him, ",
+          "speaker": "@surya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the thousand eyes! I will give you my earrings and my excellent armour if you give me an invincible spear{13} that will destroy all my enemies.’",
+          "speaker": "@surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Karna! It is only under this rule that you should give Shakra your earrings. With the spear, you will be able to kill your enemies in battle. O mighty-armed one! The spear of the king of the gods is such that, without killing hundreds and thousands of enemies, it does not return to the hand.”",
+          "speaker": "@surya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Saying this, the one with the thousand rays suddenly disappeared. After he had meditated, Karna told Surya about his dream{14}. Vrisha{15} then recounted to him everything in detail, all that he had witnessed and the conversation that had taken place between them in the night. On hearing this, the illustrious god Surya Bhanu, the destroyer of Svarbhanu, smiled and told Karna that this was all true. On knowing this to be true, Radheya, the destroyer of enemy warriors, waited for Vasava's arrival, hoping to obtain the spear.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Saying this, the one with the thousand rays suddenly disappeared. After he had meditated, Karna told Surya about his dream{14}. Vrisha{15} then recounted to him everything in detail, all that he had witnessed and the conversation that had taken place between them in the night. On hearing this, the illustrious god Surya Bhanu, the destroyer of Svarbhanu, smiled and told Karna that this was all true. On knowing this to be true, Radheya, the destroyer of enemy warriors, waited for Vasava's arrival, hoping to obtain the spear.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

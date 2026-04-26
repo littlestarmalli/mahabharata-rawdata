@@ -1,0 +1,278 @@
+{
+  "chapter": 444,
+  "local": 147,
+  "shlokas": 41,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On hearing these words of the intelligent Indra among monkeys, Bhimasena, the destroyer of enemies, said, “Who are you? Why have you assumed the form of an ape? It is a kshatriya, right after the brahmana varna, who is asking you. I am a Kourava and have been born in the lunar dynasty. Kunti bore me in her womb. I am a Pandava and am Vayu's son. I am known by the name of Bhimasena.” On hearing these words of Bhimasena, Hanuman, Vayu's son, smiled and told Vayu's son{682}. “I am a monkey. I will yield you the path, as you wish. Do not continue on this path. Else, you will meet with destruction.” Bhima replied, “O monkey! I am not asking you about destruction, or about anything else. Arise and grant me right of way. Otherwise, you will confront destruction from me.” Hanuman said, “I am ill and therefore, do not have the strength to get up. If you are determined to go, then jump over me.” Bhima replied, “The paramatman without qualities{683} pervades your body and can be known only through knowledge. I cannot insult Him{684} by jumping over you. Through my studies, I know Him and all beings result from Him. Had that not been the case, I would have jumped over you and this mountain, just as Hanuman leapt over the ocean.” Hanuman asked, “Who is the one named Hanuman who leapt over the ocean? O best of the Kuru lineage! I am asking you. Tell me if you can.” Bhima answered, “He is my brother and is renowned because of his qualities. He has intelligence, power and strength. That handsome bull among the monkeys is extremely famous in the Ramayana. For the sake of Rama's consort, this Indra among the apes leapt over the ocean that was one hundred yojanas wide in a single leap. That greatly valorous one is my brother. I am his equal in energy, strength and prowess and can chastise you in battle. Arise and grant me right of way. Otherwise, witness my manliness today. Do what I am asking you to, and do not go to Yama's abode.” Knowing him to be strong and insolent because of the strength of his arms, Hanuman laughed at him in his heart.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On hearing these words of the intelligent Indra among monkeys, Bhimasena, the destroyer of enemies, said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who are you? Why have you assumed the form of an ape? It is a kshatriya, right after the brahmana varna, who is asking you. I am a Kourava and have been born in the lunar dynasty. Kunti bore me in her womb. I am a Pandava and am Vayu's son. I am known by the name of Bhimasena.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing these words of Bhimasena, Hanuman, Vayu's son, smiled and told Vayu's son{682}. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am a monkey. I will yield you the path, as you wish. Do not continue on this path. Else, you will meet with destruction.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O monkey! I am not asking you about destruction, or about anything else. Arise and grant me right of way. Otherwise, you will confront destruction from me.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Hanuman said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@hanuman",
+          "introduces_label": "Hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am ill and therefore, do not have the strength to get up. If you are determined to go, then jump over me.”",
+          "speaker": "@hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The paramatman without qualities{683} pervades your body and can be known only through knowledge. I cannot insult Him{684} by jumping over you. Through my studies, I know Him and all beings result from Him. Had that not been the case, I would have jumped over you and this mountain, just as Hanuman leapt over the ocean.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Hanuman asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@hanuman",
+          "introduces_label": "Hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who is the one named Hanuman who leapt over the ocean? O best of the Kuru lineage! I am asking you. Tell me if you can.”",
+          "speaker": "@hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima answered, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“He is my brother and is renowned because of his qualities. He has intelligence, power and strength. That handsome bull among the monkeys is extremely famous in the Ramayana. For the sake of Rama's consort, this Indra among the apes leapt over the ocean that was one hundred yojanas wide in a single leap. That greatly valorous one is my brother. I am his equal in energy, strength and prowess and can chastise you in battle. Arise and grant me right of way. Otherwise, witness my manliness today. Do what I am asking you to, and do not go to Yama's abode.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Knowing him to be strong and insolent because of the strength of his arms, Hanuman laughed at him in his heart.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘He spoke these words. “O unblemished one! Show me your favours. Because of old age, I do not have the strength to get up. Exhibit compassion towards me. Pass by moving my tail aside.” With a contemptuous smile, Bhima grasped the giant ape's tail with his left hand, but he was not able to move it. Then he tugged at the tail, raised erect like Indra's weapon{685}, with both his hands. But even with both arms, the immensely strong Bhima was unable to move it. His eyebrows contracted. His eyes were dilated. His face became wrinkled with frowns. His body began to sweat. But Bhima could not dislodge it. However much he tried, he was not able to raise the handsome tail. With a face lowered in shame, Bhima stood by the monkey's side. Kounteya bowed down and joining his hands in salutation, spoke these words. “O tiger among monkeys! Please show me your favours and pardon my harsh words. Whether you are a siddha, a god, a gandharva or guhyaka, please tell me who you are. I am asking you and wish to know. Who are you in the form of an ape?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘He spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O unblemished one! Show me your favours. Because of old age, I do not have the strength to get up. Exhibit compassion towards me. Pass by moving my tail aside.”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " With a contemptuous smile, Bhima grasped the giant ape's tail with his left hand, but he was not able to move it. Then he tugged at the tail, raised erect like Indra's weapon{685}, with both his hands. But even with both arms, the immensely strong Bhima was unable to move it. His eyebrows contracted. His eyes were dilated. His face became wrinkled with frowns. His body began to sweat. But Bhima could not dislodge it. However much he tried, he was not able to raise the handsome tail. With a face lowered in shame, Bhima stood by the monkey's side. Kounteya bowed down and joining his hands in salutation, spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O tiger among monkeys! Please show me your favours and pardon my harsh words. Whether you are a siddha, a god, a gandharva or guhyaka, please tell me who you are. I am asking you and wish to know. Who are you in the form of an ape?”",
+          "speaker": "@bhima",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Hanuman said, “O destroyer of enemies! Since you are curious to know everything about me, I will tell you everything in detail. O descendant of the Pandava lineage! Listen. I was born in Kesari's ﬁeld{686} from Vayu, who gives life to the universe. O one with the lotus eyes! I am the monkey named Hanuman. All the chiefs of the monkeys waited upon the two kings of the apes, Sugriva the son of the sun, and Vali the son of Indra. I was a friend to the immensely brave Sugriva, the destroyer of enemies, like wind to the ﬁre. For some reason, Sugriva was driven out by his brother{687} and lived with me, for a long time, in Rishyamukha. At that time, the immensely strong hero Dasharathi{688} Rama, who was Vishnu in human form, roamed on this earth. In order to please his father, that greatest of archers resorted to Dandakaranya, with his wife, with his younger brother and with his bow. Ravana abducted his wife forcibly from Janasthana, having deceived the immensely wise Raghava in the form of a deer{689}. Having lost his wife, together with his brother, Raghava searched for the path she had taken and met Sugriva, bull among monkeys, on the peak of a mountain. The great-souled Raghava became his friend. Having killed Vali, he instated Sugriva in the kingdom. He{690} sent monkeys to search for Sita. We and crores of monkeys left in one direction and a vulture gave us news about Sita{691}. To complete the task given by Rama, the performer of unblemished deeds, I swiftly jumped over the ocean that extended for one hundred yojanas. I saw the goddess in Ravana's abode and after having told her my name, returned. Then brave Rama killed all the rakshasas. He regained his wife, who had been lost like the knowledge of the Vedas. When the brave Rama was instated{692}, I asked him that as long as the deeds of that enemy-destroying hero were recounted on earth, I should be alive that long. He agreed. Rama ruled over his kingdom for eleven thousand years and then went to heaven. O unblemished one! O son{693}! Since then, apsaras and gandharvas sing of the deeds of that great hero and bring me pleasure here. O descendant of the Kuru lineage! This road is inaccessible to mortals. That is the reason I have restrained you from travelling along this road, frequented by the gods. O descendant of the Bharata lineage! I do not wish you to be oppressed or cursed. This is the celestial path of the gods and humans cannot travel along it. But the lake that you came in search of, is not far away.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Hanuman said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@hanuman",
+          "introduces_label": "Hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O destroyer of enemies! Since you are curious to know everything about me, I will tell you everything in detail. O descendant of the Pandava lineage! Listen. I was born in Kesari's ﬁeld{686} from Vayu, who gives life to the universe. O one with the lotus eyes! I am the monkey named Hanuman. All the chiefs of the monkeys waited upon the two kings of the apes, Sugriva the son of the sun, and Vali the son of Indra. I was a friend to the immensely brave Sugriva, the destroyer of enemies, like wind to the ﬁre. For some reason, Sugriva was driven out by his brother{687} and lived with me, for a long time, in Rishyamukha. At that time, the immensely strong hero Dasharathi{688} Rama, who was Vishnu in human form, roamed on this earth. In order to please his father, that greatest of archers resorted to Dandakaranya, with his wife, with his younger brother and with his bow. Ravana abducted his wife forcibly from Janasthana, having deceived the immensely wise Raghava in the form of a deer{689}. Having lost his wife, together with his brother, Raghava searched for the path she had taken and met Sugriva, bull among monkeys, on the peak of a mountain. The great-souled Raghava became his friend. Having killed Vali, he instated Sugriva in the kingdom. He{690} sent monkeys to search for Sita. We and crores of monkeys left in one direction and a vulture gave us news about Sita{691}. To complete the task given by Rama, the performer of unblemished deeds, I swiftly jumped over the ocean that extended for one hundred yojanas. I saw the goddess in Ravana's abode and after having told her my name, returned. Then brave Rama killed all the rakshasas. He regained his wife, who had been lost like the knowledge of the Vedas. When the brave Rama was instated{692}, I asked him that as long as the deeds of that enemy-destroying hero were recounted on earth, I should be alive that long. He agreed. Rama ruled over his kingdom for eleven thousand years and then went to heaven. O unblemished one! O son{693}! Since then, apsaras and gandharvas sing of the deeds of that great hero and bring me pleasure here. O descendant of the Kuru lineage! This road is inaccessible to mortals. That is the reason I have restrained you from travelling along this road, frequented by the gods. O descendant of the Bharata lineage! I do not wish you to be oppressed or cursed. This is the celestial path of the gods and humans cannot travel along it. But the lake that you came in search of, is not far away.”",
+          "speaker": "@hanuman",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

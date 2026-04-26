@@ -1,0 +1,107 @@
+{
+  "chapter_number": 156,
+  "global_number": 156,
+  "local_number": 156,
+  "num_shlokas": 11,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘On hearing this, Kunti’s sons seemed to be pierced with spears. All those maharathas lost their mental peace. On seeing that her sons were confused and not in control of their senses, the truthful Kunti spoke to Yudhishthira.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘On hearing this, Kunti’s sons seemed to be pierced with spears. All those maharathas lost their mental peace. On seeing that her sons were confused and not in control of their senses, the truthful Kunti spoke to Yudhishthira.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Kunti said, “We have lived in this Brahmana’s house for many nights. O Yudhishthira! We have lived in this beautiful city and have received alms. O chastiser of enemies! We have seen again and again all the beautiful forests and woods. Seeing them again will not give us any pleasure. O brave descendant of Kuru! Alms will not be as easily available. O fortunate one! If you wish, let us go to Panchala. O son! We have not seen it before and it must be beautiful. O destroyer of enemies! It has been heard that alms are easily obtained in Panchala and that King Yajnasena himself is devoted to Brahmanas. It is my view that one should not live in the same place for a long time. O son! Therefore, if you also think the same, let us go there.” Yudhishthira said, “Your views are for our welfare and we should act in that way. But I don’t know if my younger brothers will wish to go.” Then Kunti spoke to Bhimasena, Arjuna and the twins about going there, and all of them agreed.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Kunti said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@kunti",
+          "text": "“We have lived in this Brahmana’s house for many nights. O Yudhishthira! We have lived in this beautiful city and have received alms. O chastiser of enemies! We have seen again and again all the beautiful forests and woods. Seeing them again will not give us any pleasure. O brave descendant of Kuru! Alms will not be as easily available. O fortunate one! If you wish, let us go to Panchala. O son! We have not seen it before and it must be beautiful. O destroyer of enemies! It has been heard that alms are easily obtained in Panchala and that King Yajnasena himself is devoted to Brahmanas. It is my view that one should not live in the same place for a long time. O son! Therefore, if you also think the same, let us go there.”",
+          "color": "#E9C46A",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“Your views are for our welfare and we should act in that way. But I don’t know if my younger brothers will wish to go.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Then Kunti spoke to Bhimasena, Arjuna and the twins about going there, and all of them agreed.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘O king! Kunti and her sons saluted the Brahmana and left for the beautiful city of the great-hearted Drupada.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘O king! Kunti and her sons saluted the Brahmana and left for the beautiful city of the great-hearted Drupada.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

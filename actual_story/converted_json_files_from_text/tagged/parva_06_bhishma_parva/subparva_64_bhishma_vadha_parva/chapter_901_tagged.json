@@ -1,0 +1,922 @@
+{
+  "chapter_number": 901,
+  "global_number": 901,
+  "local_number": 41,
+  "num_shlokas": 104,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Sanjaya said, “At that, on seeing Dhananjaya take up Gandiva and his arrows again, the maharathas{1} let out a tremendous roar. The brave Pandavas and Somakas and their followers were delighted and blew on conch shells that had been generated from the ocean. Drums, peshis{2}, krakachas{3} and trumpets made from the horns of cows were sounded together and there was a tumultuous sound. O lord of men! Gods, together with gandharvas, ancestors, siddhas and masses of charanas came to witness. The immensely fortunate rishis arrived, with Shatakratu at the forefront, desiring to see that great slaughter. O king! On seeing that the two armies, resembling two oceans, were ready to ﬁght and were repeatedly moving, the brave Yudhishthira removed his armour and cast aside his supreme weapons. He swiftly descended from his chariot. Dharmaraja Yudhishthira joined his hands in salutation and advanced on foot, glancing towards the grandfather{4}. Restrained in speech, he advanced towards the east, where the enemy forces were stationed. On seeing him advance, Dhananjaya, Kunti’s son, also swiftly descended from his chariot and followed him, together with his brothers. The illustrious Vasudeva also followed him at the rear. Extremely anxious, the foremost kings{5} also advanced.",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "‘",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@author",
+          "text": "Sanjaya said",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“At that, on seeing Dhananjaya take up Gandiva and his arrows again, the maharathas{1} let out a tremendous roar. The brave Pandavas and Somakas and their followers were delighted and blew on conch shells that had been generated from the ocean. Drums, peshis{2}, krakachas{3} and trumpets made from the horns of cows were sounded together and there was a tumultuous sound. O lord of men! Gods, together with gandharvas, ancestors, siddhas and masses of charanas came to witness. The immensely fortunate rishis arrived, with Shatakratu at the forefront, desiring to see that great slaughter. O king! On seeing that the two armies, resembling two oceans, were ready to ﬁght and were repeatedly moving, the brave Yudhishthira removed his armour and cast aside his supreme weapons. He swiftly descended from his chariot. Dharmaraja Yudhishthira joined his hands in salutation and advanced on foot, glancing towards the grandfather{4}. Restrained in speech, he advanced towards the east, where the enemy forces were stationed. On seeing him advance, Dhananjaya, Kunti’s son, also swiftly descended from his chariot and followed him, together with his brothers. The illustrious Vasudeva also followed him at the rear. Extremely anxious, the foremost kings{5} also advanced.",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“Arjuna said, ‘O king! What are you doing? Why have you abandoned your brothers and are advancing on foot towards the east, where the enemy forces are stationed?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Arjuna said, ‘O king! What are you doing? Why have you abandoned your brothers and are advancing on foot towards the east, where the enemy forces are stationed?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“Bhimasena said, ‘O Indra among kings! Where are you going, having thrown your armour and weapons away? O lord of the earth! You have abandoned your brothers and are going towards the armoured enemy soldiers.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Bhimasena said, ‘O Indra among kings! Where are you going, having thrown your armour and weapons away? O lord of the earth! You have abandoned your brothers and are going towards the armoured enemy soldiers.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘“Nakula said, ‘O descendant of the Bharata lineage! You are my eldest brother. On seeing you advance in this fashion, my heart is terriﬁed. Tell us where you are going.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Nakula said, ‘O descendant of the Bharata lineage! You are my eldest brother. On seeing you advance in this fashion, my heart is terriﬁed. Tell us where you are going.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 5
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘“Sahadeva said, ‘O king! A terrible fear confronts us in this battle, in the form of those whom we have to ﬁght. Why are you advancing towards the enemy?’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Sahadeva said, ‘O king! A terrible fear confronts us in this battle, in the form of those whom we have to ﬁght. Why are you advancing towards the enemy?’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 6
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘Sanjaya said, “O descendant of the Kuru lineage! Though he was addressed in this way by his brothers, Yudhishthira did not utter a single word, but continued to advance. The immensely wise and great-minded Vasudeva smiled and told them, ‘I know his intentions. He will ﬁght with the enemy kings only after he has shown his respects to Bhishma, Drona, Goutama{6}, Shalya and all the other seniors. It has been heard in the accounts of earlier eras, that he who shows his respects towards his seniors and revered relatives in accordance with the sacred texts, and then ﬁghts with them, is certain to be victorious in battle. That is my view.’ While Krishna was speaking, a great sound of lamentation arose in the army of Dhritarashtra’s son, but the other one{7} remained silent. On seeing Yudhishthira from a distance, Dhritarashtra’s son’s soldiers conversed among themselves. ‘This one is a disgrace to his lineage. The king has been frightened and is advancing towards Bhishma. Yudhishthira, together with his brothers, will seek shelter. When Dhananjaya, Pandava Vrikodara, Nakula and Sahadeva are protectors, why is the Pandava{8} frightened? Though he is famous on earth, he cannot have been born in a lineage of kshatriyas. His heart is frightened and he is dispirited at the prospect of battle.’ Then all the soldiers praised the Kouravas. They were delighted in their minds and waved their garments around. O lord of the earth! All the warriors censured Yudhishthira and his brothers, together with Keshava. The Kourava soldiers cried ‘Shame!’ to Yudhishthira. O lord of the earth! Then they again became completely silent. What would the king say? What would Bhishma speak in reply? What about Bhima, who prided himself in battle? What about Krishna and Arjuna? What would they say? O king! Both armies were extremely curious on account of Yudhishthira. Surrounded by his brothers, he{9} penetrated the enemy army, full of arrows and lances, and swiftly advanced towards Bhishma. Bhishma, Shantanu’s son, was ready for battle. The Pandava king grasped his feet with both his hands and spoke these words.",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“O descendant of the Kuru lineage! Though he was addressed in this way by his brothers, Yudhishthira did not utter a single word, but continued to advance. The immensely wise and great-minded Vasudeva smiled and told them, ‘I know his intentions. He will ﬁght with the enemy kings only after he has shown his respects to Bhishma, Drona, Goutama{6}, Shalya and all the other seniors. It has been heard in the accounts of earlier eras, that he who shows his respects towards his seniors and revered relatives in accordance with the sacred texts, and then ﬁghts with them, is certain to be victorious in battle. That is my view.’ While Krishna was speaking, a great sound of lamentation arose in the army of Dhritarashtra’s son, but the other one{7} remained silent. On seeing Yudhishthira from a distance, Dhritarashtra’s son’s soldiers conversed among themselves. ‘This one is a disgrace to his lineage. The king has been frightened and is advancing towards Bhishma. Yudhishthira, together with his brothers, will seek shelter. When Dhananjaya, Pandava Vrikodara, Nakula and Sahadeva are protectors, why is the Pandava{8} frightened? Though he is famous on earth, he cannot have been born in a lineage of kshatriyas. His heart is frightened and he is dispirited at the prospect of battle.’ Then all the soldiers praised the Kouravas. They were delighted in their minds and waved their garments around. O lord of the earth! All the warriors censured Yudhishthira and his brothers, together with Keshava. The Kourava soldiers cried ‘Shame!’ to Yudhishthira. O lord of the earth! Then they again became completely silent. What would the king say? What would Bhishma speak in reply? What about Bhima, who prided himself in battle? What about Krishna and Arjuna? What would they say? O king! Both armies were extremely curious on account of Yudhishthira. Surrounded by his brothers, he{9} penetrated the enemy army, full of arrows and lances, and swiftly advanced towards Bhishma. Bhishma, Shantanu’s son, was ready for battle. The Pandava king grasped his feet with both his hands and spoke these words.",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 6
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘“Yudhishthira said, ‘O invincible one! O father{10}! We are inviting you to ﬁght with us. O father! Grant us the permission. Give us the blessings.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O invincible one! O father{10}! We are inviting you to ﬁght with us. O father! Grant us the permission. Give us the blessings.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 7
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘“Bhishma replied, ‘O lord of the earth! O great king! O descendant of the Bharata lineage! If you had not come to me before this battle, I would have cursed you so that you might be defeated. O son! O Pandava! I am pleased with you. Fight and be victorious. Whatever else you might desire, obtain all that in this battle. O Partha! Ask for a boon. What is it that you desire? May it be such that you do not face defeat. A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O descendant of the Kuru lineage! That is the reason the words spoken by me are those of a eunuch{11}. The Kouravyas have robbed me through wealth. Other than battle, what else do you wish for?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Bhishma replied, ‘O lord of the earth! O great king! O descendant of the Bharata lineage! If you had not come to me before this battle, I would have cursed you so that you might be defeated. O son! O Pandava! I am pleased with you. Fight and be victorious. Whatever else you might desire, obtain all that in this battle. O Partha! Ask for a boon. What is it that you desire? May it be such that you do not face defeat. A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O descendant of the Kuru lineage! That is the reason the words spoken by me are those of a eunuch{11}. The Kouravyas have robbed me through wealth. Other than battle, what else do you wish for?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 8
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘“Yudhishthira said, ‘O immensely wise one! Your counsel has always been directed towards my welfare. Fight on the side of the Kouravas. That has always been the boon I have asked.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 8
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O immensely wise one! Your counsel has always been directed towards my welfare. Fight on the side of the Kouravas. That has always been the boon I have asked.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 9
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘“Bhishma replied, ‘O king! O descendant of the Kuru lineage! How can I help you? What shall I do? I will ﬁght on the side of the enemy. What else do you have to say?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 9
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Bhishma replied, ‘O king! O descendant of the Kuru lineage! How can I help you? What shall I do? I will ﬁght on the side of the enemy. What else do you have to say?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 10
+        }
+      ]
+    },
+    "11": {
+      "raw": "‘“Yudhishthira said, ‘You are invincible. How will we be able to vanquish you in battle? If you wish to provide counsel for our welfare and you ﬁnd this to be desirable, tell me this.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 10
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘You are invincible. How will we be able to vanquish you in battle? If you wish to provide counsel for our welfare and you ﬁnd this to be desirable, tell me this.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 11
+        }
+      ]
+    },
+    "12": {
+      "raw": "‘“Bhishma replied, ‘O Kounteya! Even if it were to be Shatakratu himself, as long as I ﬁght in battle, I do not see any man who can vanquish me.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 11
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Bhishma replied, ‘O Kounteya! Even if it were to be Shatakratu himself, as long as I ﬁght in battle, I do not see any man who can vanquish me.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 12
+        }
+      ]
+    },
+    "13": {
+      "raw": "‘“Yudhishthira said, ‘O grandfather! I bow down before you. I am asking you to tell me about a means of victory. How can an enemy kill you in battle?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 12
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O grandfather! I bow down before you. I am asking you to tell me about a means of victory. How can an enemy kill you in battle?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 13
+        }
+      ]
+    },
+    "14": {
+      "raw": "‘“Bhishma replied, ‘O son! I do not see anyone who can defeat me in battle. The time for my death has not arrived. Come to me again later{12}.’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 13
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Bhishma replied, ‘O son! I do not see anyone who can defeat me in battle. The time for my death has not arrived. Come to me again later{12}.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 14
+        }
+      ]
+    },
+    "15": {
+      "raw": "‘Sanjaya said, “O descendant of the Kuru lineage! With his head lowered in homage, Yudhishthira accepted Bhishma’s words and again showed him homage. In the midst of his brothers and while all the soldiers looked on, the mighty-armed one then advanced towards the preceptor’s chariot. Having honoured Drona, he circumambulated him. The king spoke beneﬁcial words to the invincible one. ‘O illustrious one{13}! I am requesting you. How can I ﬁght without incurring a sin? O brahmana! With your permission, how can I triumph over all the enemies?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 13
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 13
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“O descendant of the Kuru lineage! With his head lowered in homage, Yudhishthira accepted Bhishma’s words and again showed him homage. In the midst of his brothers and while all the soldiers looked on, the mighty-armed one then advanced towards the preceptor’s chariot. Having honoured Drona, he circumambulated him. The king spoke beneﬁcial words to the invincible one. ‘O illustrious one{13}! I am requesting you. How can I ﬁght without incurring a sin? O brahmana! With your permission, how can I triumph over all the enemies?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 14
+        }
+      ]
+    },
+    "16": {
+      "raw": "‘“Drona replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your complete defeat. O Yudhishthira! O unblemished one! I have now been honoured by you and am satisﬁed. I grant you permission. Fight and be victorious. I will also do what you desire. Tell me what your wishes are. O great king! This being the case, other than the battle, what else do you want? A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. That is the reason I am tied like a eunuch{14}. Other than battle, what else do you want? I will ﬁght for the sake of the Kouravas. But my prayers will be for your triumph.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 14
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Drona replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your complete defeat. O Yudhishthira! O unblemished one! I have now been honoured by you and am satisﬁed. I grant you permission. Fight and be victorious. I will also do what you desire. Tell me what your wishes are. O great king! This being the case, other than the battle, what else do you want? A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. That is the reason I am tied like a eunuch{14}. Other than battle, what else do you want? I will ﬁght for the sake of the Kouravas. But my prayers will be for your triumph.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 15
+        }
+      ]
+    },
+    "17": {
+      "raw": "‘“Yudhishthira said, ‘O brahmana! Pray for my victory and counsel me about what is good for me. Fight for the sake of the Kouravas. That is the boon I ask of you.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 15
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O brahmana! Pray for my victory and counsel me about what is good for me. Fight for the sake of the Kouravas. That is the boon I ask of you.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 16
+        }
+      ]
+    },
+    "18": {
+      "raw": "‘“Drona replied, ‘O king! When you have Hari as an adviser, your victory is certain. I wish that you are able to vanquish your foes in battle. Where there is dharma, Krishna is there. Where there is Krishna, victory is there. O Kounteya! Go and ﬁght. Ask me. What will I tell you?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 16
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Drona replied, ‘O king! When you have Hari as an adviser, your victory is certain. I wish that you are able to vanquish your foes in battle. Where there is dharma, Krishna is there. Where there is Krishna, victory is there. O Kounteya! Go and ﬁght. Ask me. What will I tell you?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 17
+        }
+      ]
+    },
+    "19": {
+      "raw": "‘“Yudhishthira said, ‘O foremost among brahmanas! Listen to what I am asking and telling you. You have never been defeated. How can we vanquish you in battle?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 17
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O foremost among brahmanas! Listen to what I am asking and telling you. You have never been defeated. How can we vanquish you in battle?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 18
+        }
+      ]
+    },
+    "20": {
+      "raw": "‘“Drona replied, ‘As long as I am ﬁghting in battle, you cannot be victorious. O king! Together with your brothers, try to kill me quickly.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 18
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Drona replied, ‘As long as I am ﬁghting in battle, you cannot be victorious. O king! Together with your brothers, try to kill me quickly.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 19
+        }
+      ]
+    },
+    "21": {
+      "raw": "‘“Yudhishthira said, ‘O mighty-armed one! Tell us the means whereby you can be killed. O preceptor! I am bowing down before you. I am showing you homage and asking you.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 19
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O mighty-armed one! Tell us the means whereby you can be killed. O preceptor! I am bowing down before you. I am showing you homage and asking you.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 20
+        }
+      ]
+    },
+    "22": {
+      "raw": "‘“Drona replied, ‘O son{15}! As long as I am stationed in battle, when I am angrily ﬁghting and am incessantly showering arrows, I do not see the enemy who can kill me. O king! Except when I am ready for death and have withdrawn myself from weapons and my senses, no warrior can kill me in battle. I tell you that this is true. I also tell you truthfully that if I hear extremely unpleasant news from a man whose words should be respected, I will abandon my weapons in battle.’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 20
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Drona replied, ‘O son{15}! As long as I am stationed in battle, when I am angrily ﬁghting and am incessantly showering arrows, I do not see the enemy who can kill me. O king! Except when I am ready for death and have withdrawn myself from weapons and my senses, no warrior can kill me in battle. I tell you that this is true. I also tell you truthfully that if I hear extremely unpleasant news from a man whose words should be respected, I will abandon my weapons in battle.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 21
+        }
+      ]
+    },
+    "23": {
+      "raw": "‘Sanjaya said, “O great king! Having heard these words from Bharadvaja’s wise son{16}, he took the preceptor’s permission and went towards Sharadvat’s son{17}. Having honoured Kripa and circumambulated him, the king, skilled in the use of words, spoke these words to the one who was foremost among unassailable ones. ‘O preceptor{18}! I seek your permission to ﬁght with you, without incurring any sin. O unblemished one! If I obtain your permission, I will defeat all enemies.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 20
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 20
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“O great king! Having heard these words from Bharadvaja’s wise son{16}, he took the preceptor’s permission and went towards Sharadvat’s son{17}. Having honoured Kripa and circumambulated him, the king, skilled in the use of words, spoke these words to the one who was foremost among unassailable ones. ‘O preceptor{18}! I seek your permission to ﬁght with you, without incurring any sin. O unblemished one! If I obtain your permission, I will defeat all enemies.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 21
+        }
+      ]
+    },
+    "24": {
+      "raw": "‘“Kripa replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your complete defeat. A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O great king! It is my view that I must ﬁght for their sake. That is the reason I am tied like a eunuch{19}. Other than battle, what else do you want?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 21
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Kripa replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your complete defeat. A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O great king! It is my view that I must ﬁght for their sake. That is the reason I am tied like a eunuch{19}. Other than battle, what else do you want?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 22
+        }
+      ]
+    },
+    "25": {
+      "raw": "‘“Yudhishthira said, ‘O preceptor! Listen to my words. Alas! I have to ask you this.’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 22
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O preceptor! Listen to my words. Alas! I have to ask you this.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 23
+        }
+      ]
+    },
+    "26": {
+      "raw": "‘Sanjaya said, “Having spoken these words, the king was dejected, and bereft of his senses, fell silent. But having divined what he wished to say, Goutama replied{20}. ‘O lord of the earth! I am incapable of being slain. Fight and be victorious. O lord of men! I am pleased that you have come. I will arise every day and pray for your victory. I am telling you this truthfully.’ O great king! Having heard these words of Goutama, the king took Kripa’s permission and went to where the king of Madra was. Having honoured Shalya, he circumambulated him. The king spoke these beneﬁcial words to the invincible one. ‘O revered one{21}! I seek your permission to ﬁght with you, without incurring any sin. O great king! If I obtain your permission, I will defeat the enemies.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 22
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 22
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Having spoken these words, the king was dejected, and bereft of his senses, fell silent. But having divined what he wished to say, Goutama replied{20}. ‘O lord of the earth! I am incapable of being slain. Fight and be victorious. O lord of men! I am pleased that you have come. I will arise every day and pray for your victory. I am telling you this truthfully.’ O great king! Having heard these words of Goutama, the king took Kripa’s permission and went to where the king of Madra was. Having honoured Shalya, he circumambulated him. The king spoke these beneﬁcial words to the invincible one. ‘O revered one{21}! I seek your permission to ﬁght with you, without incurring any sin. O great king! If I obtain your permission, I will defeat the enemies.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 23
+        }
+      ]
+    },
+    "27": {
+      "raw": "‘“Shalya replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your defeat in battle. I am pleased with the honour you have shown me. Let it be as you desire. I grant you permission. Fight and be victorious. O brave one! Tell me anything else that you want. What can I give you? A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O nephew{22}! I will do what you wish for and act according to your desires. I am speaking to you like a eunuch{23}. Other than battle, what else do you want?’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 23
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Shalya replied, ‘O great king! Having decided to ﬁght, if you had not come to me, I would have cursed you for your defeat in battle. I am pleased with the honour you have shown me. Let it be as you desire. I grant you permission. Fight and be victorious. O brave one! Tell me anything else that you want. What can I give you? A man is the servant of wealth. But wealth is never anyone’s servant. O great king! This is the truth. I am tied to the Kouravas because of wealth. O nephew{22}! I will do what you wish for and act according to your desires. I am speaking to you like a eunuch{23}. Other than battle, what else do you want?’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 24
+        }
+      ]
+    },
+    "28": {
+      "raw": "‘“Yudhishthira said, ‘O great king! Always counsel me about my supreme welfare. If you desire, ﬁght for the enemy’s cause. That is the boon I desire.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 24
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘O great king! Always counsel me about my supreme welfare. If you desire, ﬁght for the enemy’s cause. That is the boon I desire.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 25
+        }
+      ]
+    },
+    "29": {
+      "raw": "‘“Shalya replied, ‘O supreme among kings! In the present case, tell me what I can do to help. I wish to ﬁght in the enemy’s cause. I am tied to the Kouravas because of wealth.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 25
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Shalya replied, ‘O supreme among kings! In the present case, tell me what I can do to help. I wish to ﬁght in the enemy’s cause. I am tied to the Kouravas because of wealth.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 26
+        }
+      ]
+    },
+    "30": {
+      "raw": "‘“Yudhishthira said, ‘This was truly the boon I had asked for when the preparations were being made. When the son of the suta ﬁghts, you should act so as to diminish his energy.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 26
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira said, ‘This was truly the boon I had asked for when the preparations were being made. When the son of the suta ﬁghts, you should act so as to diminish his energy.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 27
+        }
+      ]
+    },
+    "31": {
+      "raw": "‘“Shalya replied, ‘O son of Kunti! This desire of yours will be satisﬁed. Go and ﬁght as you please. I will try for your victory.’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 27
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Shalya replied, ‘O son of Kunti! This desire of yours will be satisﬁed. Go and ﬁght as you please. I will try for your victory.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 28
+        }
+      ]
+    },
+    "32": {
+      "raw": "‘Sanjaya said, “Having taken leave of his maternal uncle, the lord of Madra, Kounteya, surrounded by his brothers, emerged from that large army. In that ﬁeld of battle, Vasudeva went to Radheya{24}. For the sake of the Pandavas, Gada’s elder brother spoke to him{25}. ‘O Karna! I have heard that out of enmity towards Bhishma, you will not ﬁght. O Radheya! Until Bhishma has been killed, come over to our side. O Radheya! If you perceive both sides to be equal, after Bhishma has been killed, go and ﬁght again and help Dhritarashtra’s son.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 27
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 27
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Having taken leave of his maternal uncle, the lord of Madra, Kounteya, surrounded by his brothers, emerged from that large army. In that ﬁeld of battle, Vasudeva went to Radheya{24}. For the sake of the Pandavas, Gada’s elder brother spoke to him{25}. ‘O Karna! I have heard that out of enmity towards Bhishma, you will not ﬁght. O Radheya! Until Bhishma has been killed, come over to our side. O Radheya! If you perceive both sides to be equal, after Bhishma has been killed, go and ﬁght again and help Dhritarashtra’s son.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 28
+        }
+      ]
+    },
+    "33": {
+      "raw": "‘“Karna replied, ‘O Keshava! I will not do anything that causes displeasure to Dhritarashtra’s son. Know that I am engaged in Duryodhana’s welfare and have given up my life for him.’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 28
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Karna replied, ‘O Keshava! I will not do anything that causes displeasure to Dhritarashtra’s son. Know that I am engaged in Duryodhana’s welfare and have given up my life for him.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 29
+        }
+      ]
+    },
+    "34": {
+      "raw": "‘Sanjaya said, “O descendant of the Bharata lineage! Having heard these words, Krishna refrained. He then returned to the Pandavas, who had Yudhishthira in the forefront. In the midst of the soldiers, the eldest Pandava loudly said, ‘He who chooses us, will be regarded by us as an aide.’ Yuyutsu{26} glanced towards them and with a delighted mind, spoke to Dharmaraja Yudhishthira, Kunti’s son. ‘O great king! O unblemished one! If you accept me, in this battle, I will ﬁght for your cause and against the sons of Dhritarashtra.’ Yudhishthira replied, ‘Come. All of us will ﬁght with your ignorant brothers. O Yuyutsu! O mighty-armed one! Vasudeva and all of us accept that you will ﬁght in our cause. O prince! O immensely radiant one! It seems that you will be the sole strand and the only one to offer funeral cakes{27} in Dhritarashtra’s lineage. Accept us. We accept you. Dhritarashtra’s evilminded and intolerant son will cease to exist.’ Your son Yuyutsu then abandoned the Kouravyas. Accompanied by the sound of drums, he went to the army of the sons of Pandu. Together with his younger brothers, King Yudhishthira happily donned his armour again, as resplendent as gold. All those bulls among men ascended their chariots. They arranged themselves in battle formations, as they had earlier. They instructed that hundreds of drums and smaller drums{28} be played. In different ways, those bulls among men roared like lions. On seeing the Pandavas, tigers among men, stationed on their chariots, all the kings, together with Dhrishtadyumna, were delighted and roared again. They had witnessed the magnanimity of the sons of Pandu, who honoured those who should be shown honour. All the lords of the earth applauded this. The kings spoke about the friendship, compassion and kindness those great-souled ones displayed towards their relatives, on the appropriate occasions. ‘Excellent’, ‘superb’—these words of praise were heard everywhere. There were auspicious chants about their deeds, attracting the mind and the heart{29}. All the mlecchas and aryas who were there, and saw or heard about the conduct of the sons of Pandu, wept, their voices choking with tears. The spirited ones instructed hundreds of giant drums, pushkaras and conch shells, as white as milk, to be sounded.”’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 28
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 28
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“O descendant of the Bharata lineage! Having heard these words, Krishna refrained. He then returned to the Pandavas, who had Yudhishthira in the forefront. In the midst of the soldiers, the eldest Pandava loudly said, ‘He who chooses us, will be regarded by us as an aide.’ Yuyutsu{26} glanced towards them and with a delighted mind, spoke to Dharmaraja Yudhishthira, Kunti’s son. ‘O great king! O unblemished one! If you accept me, in this battle, I will ﬁght for your cause and against the sons of Dhritarashtra.’ Yudhishthira replied, ‘Come. All of us will ﬁght with your ignorant brothers. O Yuyutsu! O mighty-armed one! Vasudeva and all of us accept that you will ﬁght in our cause. O prince! O immensely radiant one! It seems that you will be the sole strand and the only one to offer funeral cakes{27} in Dhritarashtra’s lineage. Accept us. We accept you. Dhritarashtra’s evilminded and intolerant son will cease to exist.’ Your son Yuyutsu then abandoned the Kouravyas. Accompanied by the sound of drums, he went to the army of the sons of Pandu. Together with his younger brothers, King Yudhishthira happily donned his armour again, as resplendent as gold. All those bulls among men ascended their chariots. They arranged themselves in battle formations, as they had earlier. They instructed that hundreds of drums and smaller drums{28} be played. In different ways, those bulls among men roared like lions. On seeing the Pandavas, tigers among men, stationed on their chariots, all the kings, together with Dhrishtadyumna, were delighted and roared again. They had witnessed the magnanimity of the sons of Pandu, who honoured those who should be shown honour. All the lords of the earth applauded this. The kings spoke about the friendship, compassion and kindness those great-souled ones displayed towards their relatives, on the appropriate occasions. ‘Excellent’, ‘superb’—these words of praise were heard everywhere. There were auspicious chants about their deeds, attracting the mind and the heart{29}. All the mlecchas and aryas who were there, and saw or heard about the conduct of the sons of Pandu, wept, their voices choking with tears. The spirited ones instructed hundreds of giant drums, pushkaras and conch shells, as white as milk, to be sounded.”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 29
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 28
+        }
+      ]
+    }
+  }
+}

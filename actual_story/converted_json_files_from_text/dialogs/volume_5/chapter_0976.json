@@ -1,0 +1,241 @@
+{
+  "chapter": 976,
+  "local": 116,
+  "shlokas": 51,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “O great king! After night had passed, all the kings, the Pandavas and the sons of Dhritarashtra, approached the grandfather. The brave one, supreme among the Kurus, was lying down on a bed meant for heroes. The kshatriyas showed their obeisance to the bull among the kshatriyas. There were maidens everywhere, with powdered sandalwood, fried paddy and garlands. There were women, children and aged ones, and others who had gathered as spectators. They approached Shantanu's son, who was like the dispeller of darkness{465}. There were trumpets, courtesans, harlots, male dancers, female dancers and minor dancers. They approached the aged grandfather of the Kurus. The ﬁghting ceased. The armour was cast aside. The Kurus and the Pandavas discarded their weapons. They approached the invincible Devavrata, the destroyer of enemies. They greeted each other affectionately, according to age, as they used to do in earlier times{466}. With the hundreds of kings assembled there, Bhishma looked resplendent. The descendant of the Bharata lineage was as radiant as a circle of gods in the ﬁrmament. The kings who honoured the grandfather were as brilliant as the gods worshipping the grandfather{467}, the lord of the gods.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! After night had passed, all the kings, the Pandavas and the sons of Dhritarashtra, approached the grandfather. The brave one, supreme among the Kurus, was lying down on a bed meant for heroes. The kshatriyas showed their obeisance to the bull among the kshatriyas. There were maidens everywhere, with powdered sandalwood, fried paddy and garlands. There were women, children and aged ones, and others who had gathered as spectators. They approached Shantanu's son, who was like the dispeller of darkness{465}. There were trumpets, courtesans, harlots, male dancers, female dancers and minor dancers. They approached the aged grandfather of the Kurus. The ﬁghting ceased. The armour was cast aside. The Kurus and the Pandavas discarded their weapons. They approached the invincible Devavrata, the destroyer of enemies. They greeted each other affectionately, according to age, as they used to do in earlier times{466}. With the hundreds of kings assembled there, Bhishma looked resplendent. The descendant of the Bharata lineage was as radiant as a circle of gods in the ﬁrmament. The kings who honoured the grandfather were as brilliant as the gods worshipping the grandfather{467}, the lord of the gods.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O bull among the Bharata lineage! Bhishma bore his pain with fortitude. He was scorched by the arrows. But he spoke to the kings with a cheerful mind and addressed them. ‘My body is tormented with these arrows. I am losing my senses because of the arrows. I wish to have a drink.’ O king! All the kshatriyas brought him excellent water pots ﬁlled with cold water.’ On seeing that these had been brought, Bhishma, Shantanu's son, replied, ‘O son{468}! I am incapable of using objects of human pleasure now. I am lying on a bed of arrows, away from human enjoyment. I am established here, waiting for the moon and the sun to return along their paths.’ Having spoken in this way, Shantanu's son rebuked all those kings. O descendant of the Bharata lineage! He addressed the mightyarmed Dhananjaya. The mighty-armed one approached and paid his respects to the grandfather. He stood there, hands joined in salutation, and asked, ‘What will I do?’ O king! On seeing Pandava Dhananjaya standing there in obeisance, Bhishma, with dharma in his soul, affectionately addressed him. ‘My body is burning. I am covered with these great arrows. My inner organs are in pain and my mouth is dry. O Arjuna! You can use your bow to give me water for my body. O great archer! You alone are capable of giving me water in accordance with what is proper.’ Having been thus addressed, the valiant Arjuna mounted his chariot. He grasped Gandiva with force and stretched the bow. The sound of the palm against the string of the bow was like the clap of thunder. On hearing this, all the beings and all the kings were frightened. On his chariot, the supreme of rathas circumambulated the supine one, who was the best of the Bharatas and supreme among those who wielded all weapons. The immensely illustrious one invoked and afﬁxed a ﬂaming arrow. While all the worlds looked on, he applied the parjanya weapon. Partha pierced the earth to Bhishma's right side. A clear and pure stream of water arose. It was cool and like amrita. It possessed a divine fragrance. With that cool stream of water, Partha satisﬁed Bhishma, the bull among the Kurus, whose valour and deeds were divine. Partha was like Shakra in his deeds. At this deed of his, all of the lords of the earth were struck with great wonder. On beholding Bibhatsu's superhuman and extraordinary deed, all the Kurus trembled, like cows stricken by the cold. All the kings waved their upper garments in wonder. A tremendous sound of conch shells and the beating of drums was heard everywhere.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O bull among the Bharata lineage! Bhishma bore his pain with fortitude. He was scorched by the arrows. But he spoke to the kings with a cheerful mind and addressed them. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘My body is tormented with these arrows. I am losing my senses because of the arrows. I wish to have a drink.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! All the kshatriyas brought him excellent water pots ﬁlled with cold water.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On seeing that these had been brought, Bhishma, Shantanu's son, replied, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘O son{468}! I am incapable of using objects of human pleasure now. I am lying on a bed of arrows, away from human enjoyment. I am established here, waiting for the moon and the sun to return along their paths.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having spoken in this way, Shantanu's son rebuked all those kings. O descendant of the Bharata lineage! He addressed the mightyarmed Dhananjaya. The mighty-armed one approached and paid his respects to the grandfather. He stood there, hands joined in salutation, and asked, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘What will I do?’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! On seeing Pandava Dhananjaya standing there in obeisance, Bhishma, with dharma in his soul, affectionately addressed him. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘My body is burning. I am covered with these great arrows. My inner organs are in pain and my mouth is dry. O Arjuna! You can use your bow to give me water for my body. O great archer! You alone are capable of giving me water in accordance with what is proper.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed, the valiant Arjuna mounted his chariot. He grasped Gandiva with force and stretched the bow. The sound of the palm against the string of the bow was like the clap of thunder. On hearing this, all the beings and all the kings were frightened. On his chariot, the supreme of rathas circumambulated the supine one, who was the best of the Bharatas and supreme among those who wielded all weapons. The immensely illustrious one invoked and afﬁxed a ﬂaming arrow. While all the worlds looked on, he applied the parjanya weapon. Partha pierced the earth to Bhishma's right side. A clear and pure stream of water arose. It was cool and like amrita. It possessed a divine fragrance. With that cool stream of water, Partha satisﬁed Bhishma, the bull among the Kurus, whose valour and deeds were divine. Partha was like Shakra in his deeds. At this deed of his, all of the lords of the earth were struck with great wonder. On beholding Bibhatsu's superhuman and extraordinary deed, all the Kurus trembled, like cows stricken by the cold. All the kings waved their upper garments in wonder. A tremendous sound of conch shells and the beating of drums was heard everywhere.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘“O king! In the presence of all the kings, Shantanu's son was satisﬁed. He honoured Bibhatsu and spoke to him. ‘O mighty-armed one! O descendant of the Kuru lineage! You have done something wonderful. O inﬁnitely radiant one! Narada spoke of you as an ancient rishi. With Vasudeva as your aide, you will perform great deeds that even Indra of the gods, with the other gods, will not attempt. O Partha! Those who are aware know that you will bring about the destruction of all the kshatriyas. Among all the brave men on earth, you alone are the one who can wield the bow. You are the best among men on earth, like Garuda among the birds, like the ocean is the best among all stores of water, like the cow is the best among all quadrupeds, like the sun is supreme among those with energy, Himalaya is foremost among all mountains, the brahmana is best among all classes and you are the foremost among all archers. Dhritarashtra's son paid no heed to the words repeatedly spoken by me and those uttered by Vidura, Drona, Rama{469}, Janardana and Sanjaya. He is beyond all intelligence. Duryodhana is like one who is bereft of his senses. He paid no attention to my words. He will soon be overwhelmed by Bhima's strength and weapons and will be killed.’ On hearing these words, Duryodhana, the Indra among the Kouravas, became distressed.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O king! In the presence of all the kings, Shantanu's son was satisﬁed. He honoured Bibhatsu and spoke to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O mighty-armed one! O descendant of the Kuru lineage! You have done something wonderful. O inﬁnitely radiant one! Narada spoke of you as an ancient rishi. With Vasudeva as your aide, you will perform great deeds that even Indra of the gods, with the other gods, will not attempt. O Partha! Those who are aware know that you will bring about the destruction of all the kshatriyas. Among all the brave men on earth, you alone are the one who can wield the bow. You are the best among men on earth, like Garuda among the birds, like the ocean is the best among all stores of water, like the cow is the best among all quadrupeds, like the sun is supreme among those with energy, Himalaya is foremost among all mountains, the brahmana is best among all classes and you are the foremost among all archers. Dhritarashtra's son paid no heed to the words repeatedly spoken by me and those uttered by Vidura, Drona, Rama{469}, Janardana and Sanjaya. He is beyond all intelligence. Duryodhana is like one who is bereft of his senses. He paid no attention to my words. He will soon be overwhelmed by Bhima's strength and weapons and will be killed.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words, Duryodhana, the Indra among the Kouravas, became distressed.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shantanu's son glanced at him and said, ‘O king! Transcend your anger and listen to my words. O Duryodhana! You have seen how the intelligent Partha created a stream of water that is cool and bears the fragrance of amrita. There is no one else in this world capable of accomplishing this feat. Agneya, Varuna, Soumya, Vayavya, Vaishnava, Aindra, Pashupata, Brahma, Parameshtha, Prajapatya, Dhatu, Tvashtu, Savitu{470} and all the other divine weapons—among all the men on earth, Dhananjaya alone is the one who knows them. So does Krishna, Devaki's son. But no one else knows them. O son{471}! It is impossible to vanquish Pandava in battle. The deeds of the great-souled one are superhuman. He is spirited in battle. The brave one is the ornament of any battle. He is accomplished in battle. O king! O son! Make efforts towards peace. O son! As long as the mighty-armed Krishna controls himself in this assembly of Kurus, make efforts towards peace with the brave Parthas. O son! As long as your army is not destroyed through straight-tufted arrows shot by Arjuna, make efforts to bring about peace. O king! As long as your brothers and the remnants of these many kings remain stationed in battle, endeavour to bring about peace. O son! As long as your army is not consumed by the blazing anger in Yudhishthira's eyes, endeavour to bring about peace. O great king! O son! As long as Nakula, Sahadeva and Pandava Bhimasena do not destroy your entire army, it will please me if there is fraternal feeling between you and the Pandavas. O son! Let this feud end with my death. Have peace with the Pandavas. O unblemished one! Let these words spoken by me be acceptable to you. I think that this will be good for you and for the lineage. Abandon your anger and let there be peace with the Parthas. What Phalguna has already done is sufﬁcient. Let Bhishma's death lead to affection. O king! Be paciﬁed and let the remaining ones be alive. Give the Pandavas half of the kingdom. Let Dharmaraja go to Indraprastha. O Indra among the Kouravas! Do not kill your friends and be censured by the kings. Do not be famous for your evil deeds. With my end, let there be peace among the subjects. Let the kings depart cheerfully. O king! Let father and son, maternal uncle and nephew and brother and brother be happily united. If you do not accept my words, because you are overcome by delusion and because your intelligence is clouded, at the appropriate time, you will be destroyed and will remember all of Bhishma's words. I tell you truthfully that you will bear a great burden.’ Having spoken these affectionate words to Bharata in the hearing of those kings, the son of the one who goes to the ocean became silent. His inner organs were in pain because of the stakes. Nevertheless, he overcame his pain and controlled his soul.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shantanu's son glanced at him and said, ",
+          "speaker": "@sanjaya",
+          "introduces": "shantanu's_son_glanced_at_him",
+          "introduces_label": "Shantanu's son glanced at him",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Transcend your anger and listen to my words. O Duryodhana! You have seen how the intelligent Partha created a stream of water that is cool and bears the fragrance of amrita. There is no one else in this world capable of accomplishing this feat. Agneya, Varuna, Soumya, Vayavya, Vaishnava, Aindra, Pashupata, Brahma, Parameshtha, Prajapatya, Dhatu, Tvashtu, Savitu{470} and all the other divine weapons—among all the men on earth, Dhananjaya alone is the one who knows them. So does Krishna, Devaki's son. But no one else knows them. O son{471}! It is impossible to vanquish Pandava in battle. The deeds of the great-souled one are superhuman. He is spirited in battle. The brave one is the ornament of any battle. He is accomplished in battle. O king! O son! Make efforts towards peace. O son! As long as the mighty-armed Krishna controls himself in this assembly of Kurus, make efforts towards peace with the brave Parthas. O son! As long as your army is not destroyed through straight-tufted arrows shot by Arjuna, make efforts to bring about peace. O king! As long as your brothers and the remnants of these many kings remain stationed in battle, endeavour to bring about peace. O son! As long as your army is not consumed by the blazing anger in Yudhishthira's eyes, endeavour to bring about peace. O great king! O son! As long as Nakula, Sahadeva and Pandava Bhimasena do not destroy your entire army, it will please me if there is fraternal feeling between you and the Pandavas. O son! Let this feud end with my death. Have peace with the Pandavas. O unblemished one! Let these words spoken by me be acceptable to you. I think that this will be good for you and for the lineage. Abandon your anger and let there be peace with the Parthas. What Phalguna has already done is sufﬁcient. Let Bhishma's death lead to affection. O king! Be paciﬁed and let the remaining ones be alive. Give the Pandavas half of the kingdom. Let Dharmaraja go to Indraprastha. O Indra among the Kouravas! Do not kill your friends and be censured by the kings. Do not be famous for your evil deeds. With my end, let there be peace among the subjects. Let the kings depart cheerfully. O king! Let father and son, maternal uncle and nephew and brother and brother be happily united. If you do not accept my words, because you are overcome by delusion and because your intelligence is clouded, at the appropriate time, you will be destroyed and will remember all of Bhishma's words. I tell you truthfully that you will bear a great burden.’",
+          "speaker": "shantanu's_son_glanced_at_him",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having spoken these affectionate words to Bharata in the hearing of those kings, the son of the one who goes to the ocean became silent. His inner organs were in pain because of the stakes. Nevertheless, he overcame his pain and controlled his soul.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

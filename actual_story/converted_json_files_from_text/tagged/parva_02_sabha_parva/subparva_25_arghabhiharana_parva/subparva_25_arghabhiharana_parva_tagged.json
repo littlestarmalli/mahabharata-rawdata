@@ -1,0 +1,51 @@
+{
+  "name": "Arghabhiharana Parva",
+  "subparva_number": 25,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 99
+  },
+  "note": "Argha (or arghya) is an offering made as a sign of veneration. Abhiharana is the act of fetching or taking. So arghabhiharana parva is about the offering of a gift, as a sign of respect, and the consequent dispute.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "258": {
+      "chapter_number": 258,
+      "global_number": 258,
+      "local_number": 33,
+      "num_shlokas": 32,
+      "file": "subparva_25_arghabhiharana_parva/chapter_258_tagged.json"
+    },
+    "259": {
+      "chapter_number": 259,
+      "global_number": 259,
+      "local_number": 34,
+      "num_shlokas": 23,
+      "file": "subparva_25_arghabhiharana_parva/chapter_259_tagged.json"
+    },
+    "260": {
+      "chapter_number": 260,
+      "global_number": 260,
+      "local_number": 35,
+      "num_shlokas": 29,
+      "file": "subparva_25_arghabhiharana_parva/chapter_260_tagged.json"
+    },
+    "261": {
+      "chapter_number": 261,
+      "global_number": 261,
+      "local_number": 36,
+      "num_shlokas": 15,
+      "file": "subparva_25_arghabhiharana_parva/chapter_261_tagged.json"
+    }
+  }
+}

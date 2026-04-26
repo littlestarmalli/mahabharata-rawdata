@@ -1,0 +1,140 @@
+{
+  "chapter": 18,
+  "local": 18,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘I have told you the story of how the ambrosia was churned out from the ocean. From that, the handsome horse{34} emerged, unparalleled in strength. When Kadru saw this horse, she asked Vinata, “My dear, what is the colour of Ucchaihshrava? Tell me right away.” Vinata replied, “Blessed one, the king of horses is white. What colour do you think it is? Tell me what you think and we will have a wager.” Kadru said, “O lady of the sweet smiles! I think the horse has a black tail. O beautiful one! Let us have a wager that she whose words are false will become the other one's slave.” Thus, having laid a wager that one would be the slave of the other, they returned to their home, resolving to examine the horse the next day.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘I have told you the story of how the ambrosia was churned out from the ocean. From that, the handsome horse{34} emerged, unparalleled in strength. When Kadru saw this horse, she asked Vinata, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“My dear, what is the colour of Ucchaihshrava? Tell me right away.”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Vinata replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vinata",
+          "introduces_label": "Vinata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Blessed one, the king of horses is white. What colour do you think it is? Tell me what you think and we will have a wager.”",
+          "speaker": "@vinata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kadru said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kadru",
+          "introduces_label": "Kadru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lady of the sweet smiles! I think the horse has a black tail. O beautiful one! Let us have a wager that she whose words are false will become the other one's slave.”",
+          "speaker": "@kadru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus, having laid a wager that one would be the slave of the other, they returned to their home, resolving to examine the horse the next day.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Wishing to deceive, Kadru asked her 1000 sons to become like hair as black as collyrium and speedily cover the horse's tail, so that she did not become a slave. When they refused to do what they had been asked, she cursed the snakes and said, “In the snake-sacriﬁce of the royal and wise sage Janamejaya, of the Pandava lineage{35}, the ﬁre will consume all of you.” The grandfather{36} himself heard this extremely cruel curse uttered by Kadru, and driven by destiny, bearing in mind the welfare of all creatures, since the snakes had greatly multiplied, he{37} and the other gods approved the curse. The snakes had virulent poison, excessive strength and were mighty in prowess. They had a tendency to bite. For the welfare of all creatures, to counter their virulent poison, he bestowed on the great-souled Kashyapa the knowledge of neutralizing poison.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Wishing to deceive, Kadru asked her 1000 sons to become like hair as black as collyrium and speedily cover the horse's tail, so that she did not become a slave. When they refused to do what they had been asked, she cursed the snakes and said, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In the snake-sacriﬁce of the royal and wise sage Janamejaya, of the Pandava lineage{35}, the ﬁre will consume all of you.”",
+          "speaker": "@kadru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The grandfather{36} himself heard this extremely cruel curse uttered by Kadru, and driven by destiny, bearing in mind the welfare of all creatures, since the snakes had greatly multiplied, he{37} and the other gods approved the curse. The snakes had virulent poison, excessive strength and were mighty in prowess. They had a tendency to bite. For the welfare of all creatures, to counter their virulent poison, he bestowed on the great-souled Kashyapa the knowledge of neutralizing poison.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1864 @@
+{
+  "name": "Kundala-aharana Parva",
+  "subparva_number": 43,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 294
+  },
+  "note": "Kundala is an earring and Karna was naturally born with kundalas. Aharana means seizing or taking. Pritha (Kunti) serves Durvasa and ob-tains a boon. Through this, she invokes Surya and Karna is born. When she abandons Karna, he is adopted and raised by a charioteer. Karna is born with natural armour and earrings that make him invincible. Tndra asks for these, and in return, gives Karna an invincible spear.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "581": {
+      "global_number": 581,
+      "local_number": 284,
+      "num_shlokas": 39,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘O great brahmana! When Lomasha conveyed Indra’s message to Pandu’s son, Yudhishthira, he spoke these words. “When Savyasachi has gone from here{1}, I will remove the terrible fear that you do not talk about.” O foremost among learned ones! What was that great fear concerning Karna? Why did the great-souled one{2} not talk about it to anyone?’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya asked,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘O great brahmana!",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "When Lomasha conveyed Indra’s message to Pandu’s son, Yudhishthira, he spoke these words",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@lomasha_conveyed_indra",
+              "text": "“When Savyasachi has gone from here{1}, I will remove the terrible fear that you do not talk about.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "O foremost among learned ones! What was that great fear concerning Karna? Why did the great-souled one{2} not talk about it to anyone?’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O tiger among kings! Since you have asked, I will tell you about it. O best of the Bharata lineage! Listen to my words. When twelve years were over and the thirteenth year had started, Shakra wished to ensure the welfare of the Pandavas and went begging to Karna. O great king! But learning about the intentions of the great Indra concerning the earrings, Vibhavasu Surya went to Karna{3}. The brave and truthful one, devoted to brahmanas, was lying down on an expensive bed that was covered with admirable spreads. O Indra among kings! The one with the rays showed himself in the night, at the end of a dream. O descendant of the Bharata lineage! He was driven by great compassion and love for his son. Through his powers of yoga, Surya assumed the form of a handsome brahmana, learned in the Vedas. For the sake of Karna’s welfare, he spoke these comforting words to him. “O Karna! O son! O foremost among those who speak the truth! Listen to my words. O mighty-armed one! Out of affection towards you, I will now speak words that are for your welfare. O Karna! To ensure the welfare of the Pandavas, Shakra will approach you in the form of a brahmana, so that he can take away your earrings. It is known in the entire world that your conduct is such that when righteous ones beg you for something, you give and do not wish anything in return. O son! You give to brahmanas whatever riches and other things they ask for. You do not refuse. Knowing this to be the case, the chastiser of Paka{4} will arrive himself. He will beg you for your earrings and armour{5}. When he asks for the earrings, you must not give them to him. Entreat him as best as you can, because that will ensure your supreme welfare. O son! When he talks to you about the earrings, you must again and again refuse him by citing many different kinds of reasons. Offer him other riches. Appease Purandara, who desires the earrings, through gems, women, objects of desire, riches of different kinds and by citing examples. O Karna! If you give away the beautiful earrings that you were naturally born with, your life will be shortened and you will come under the power of death. O one who is reverent! Arrayed in your armour and earrings, you cannot be slain by your enemies in battle. Remember these words. These two treasures arose from amrita. O Karna! If you desire to live, they must therefore be carefully protected by you.” Karna asked, “Who are you, who have shown yourself to me as my supreme well-wisher? O illustrious one! If you wish, tell me who you are, dressed in the attire of a brahmana.” The brahmana said, “O son! I am the one with the thousand rays. I have given you this advice as your well-wisher. Act in accordance with my words. That will be supremely beneﬁcial for you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O tiger among kings! Since you have asked, I will tell you about it. O best of the Bharata lineage! Listen to my words. When twelve years were over and the thirteenth year had started, Shakra wished to ensure the welfare of the Pandavas and went begging to Karna. O great king! But learning about the intentions of the great Indra concerning the earrings, Vibhavasu Surya went to Karna{3}. The brave and truthful one, devoted to brahmanas, was lying down on an expensive bed that was covered with admirable spreads. O Indra among kings! The one with the rays showed himself in the night, at the end of a dream. O descendant of the Bharata lineage! He was driven by great compassion and love for his son. Through his powers of yoga, Surya assumed the form of a handsome brahmana, learned in the Vedas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "For the sake of Karna’s welfare, he spoke these comforting words to him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@for_the_sake_of",
+              "text": "“O Karna! O son! O foremost among those who speak the truth! Listen to my words. O mighty-armed one! Out of affection towards you, I will now speak words that are for your welfare. O Karna! To ensure the welfare of the Pandavas, Shakra will approach you in the form of a brahmana, so that he can take away your earrings. It is known in the entire world that your conduct is such that when righteous ones beg you for something, you give and do not wish anything in return. O son! You give to brahmanas whatever riches and other things they ask for. You do not refuse. Knowing this to be the case, the chastiser of Paka{4} will arrive himself. He will beg you for your earrings and armour{5}. When he asks for the earrings, you must not give them to him. Entreat him as best as you can, because that will ensure your supreme welfare. O son! When he talks to you about the earrings, you must again and again refuse him by citing many different kinds of reasons. Offer him other riches. Appease Purandara, who desires the earrings, through gems, women, objects of desire, riches of different kinds and by citing examples. O Karna! If you give away the beautiful earrings that you were naturally born with, your life will be shortened and you will come under the power of death. O one who is reverent! Arrayed in your armour and earrings, you cannot be slain by your enemies in battle. Remember these words. These two treasures arose from amrita. O Karna! If you desire to live, they must therefore be carefully protected by you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“Who are you, who have shown yourself to me as my supreme well-wisher? O illustrious one! If you wish, tell me who you are, dressed in the attire of a brahmana.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The brahmana said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_brahmana",
+              "text": "“O son! I am the one with the thousand rays. I have given you this advice as your well-wisher. Act in accordance with my words. That will be supremely beneﬁcial for you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Karna said, “It is certainly in my best interests that the illustrious lord of the cows{6} is speaking to me today for my welfare. Listen to my words. O granter of boons! I am propitiating you and am speaking these words to you out of affection. If I am dear to you, you should not restrain me from observing this vow. O Vibhavasu! The entire world knows about this vow of mine. It is certain that I will give my life away to the foremost among brahmanas. O supreme among those who travel the skies! O foremost among the gods! If Shakra comes to me in the disguise of a brahmana and begs my excellent earrings and armour for the welfare of the sons of Pandu, I will give them to him. Then my deeds, famous in the three worlds, will not be destroyed. For those like us, ill fame, even if it saves one’s life, is not appropriate. A glorious death that is approved of by the world is appropriate. Therefore, I will give the earrings, together with the armour, to Indra. If the slayer of Bala and Vritra{7} comes to me and begs for the earrings to ensure the welfare of the sons of Pandu, it will extend my fame in the world and increase his ill fame. O radiant one! Even at the expense of my life, I desire for fame in this world. The famous one attains heaven. The one with ill fame is destroyed. Like a mother, fame ensures the life of a man in this world. Even if the body is alive, ill fame destroys life. O Vibhavasu! O lord of the world! The creator himself has recited an ancient shloka about how fame is life itself. ‘In the next world, fame ensures the supreme objective for a man. In this world, pure fame extends a man’s life.’ By giving away these objects that are natural to my body, I will obtain eternal fame, by giving them as gifts to brahmanas in accordance with the prescribed rites. By offering my body in battle, by performing this difﬁcult deed and by vanquishing my enemies, I will obtain nothing but fame. O destroyer of Svarbhanu{8}! By offering protection to those who are terriﬁed in battle and seek to save their lives, by freeing the aged, the young and brahmanas from great danger, I will obtain supreme fame in this world. Know that my vow is to protect fame, even at the expense of my life. O god! By giving this supreme gift to Maghavan, in the disguise of a brahmana, I will traverse along the supreme path in this world.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“It is certainly in my best interests that the illustrious lord of the cows{6} is speaking to me today for my welfare. Listen to my words. O granter of boons! I am propitiating you and am speaking these words to you out of affection. If I am dear to you, you should not restrain me from observing this vow. O Vibhavasu! The entire world knows about this vow of mine. It is certain that I will give my life away to the foremost among brahmanas. O supreme among those who travel the skies! O foremost among the gods! If Shakra comes to me in the disguise of a brahmana and begs my excellent earrings and armour for the welfare of the sons of Pandu, I will give them to him. Then my deeds, famous in the three worlds, will not be destroyed. For those like us, ill fame, even if it saves one’s life, is not appropriate. A glorious death that is approved of by the world is appropriate. Therefore, I will give the earrings, together with the armour, to Indra. If the slayer of Bala and Vritra{7} comes to me and begs for the earrings to ensure the welfare of the sons of Pandu, it will extend my fame in the world and increase his ill fame. O radiant one! Even at the expense of my life, I desire for fame in this world. The famous one attains heaven. The one with ill fame is destroyed. Like a mother, fame ensures the life of a man in this world. Even if the body is alive, ill fame destroys life. O Vibhavasu! O lord of the world! The creator himself has recited an ancient shloka about how fame is life itself. ‘In the next world, fame ensures the supreme objective for a man. In this world, pure fame extends a man’s life.’ By giving away these objects that are natural to my body, I will obtain eternal fame, by giving them as gifts to brahmanas in accordance with the prescribed rites. By offering my body in battle, by performing this difﬁcult deed and by vanquishing my enemies, I will obtain nothing but fame. O destroyer of Svarbhanu{8}! By offering protection to those who are terriﬁed in battle and seek to save their lives, by freeing the aged, the young and brahmanas from great danger, I will obtain supreme fame in this world. Know that my vow is to protect fame, even at the expense of my life. O god! By giving this supreme gift to Maghavan, in the disguise of a brahmana, I will traverse along the supreme path in this world.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "582": {
+      "global_number": 582,
+      "local_number": 285,
+      "num_shlokas": 17,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Surya said, “O Karna! Do not act against your own interests, or those of your well-wishers, sons, wives, mother and father. O supreme among those who live! Seek to obtain fame in this world and continued fame in heaven without sacriﬁcing your life. There is no doubt that the eternal fame that you wish for, will disappear, if it is at the cost of your own life. O bull among men! In this world, as long as one is alive, one can perform tasks for the father, the mother, the sons and other relatives. O tiger among men! Learn from me that kings perform virile deeds the same way. O immensely radiant one! Men have fame when they are alive. When the body has been reduced to ashes, what use does fame serve one who is dead? It is not the dead, but living ones that know fame. The fame of a dead human is like a garland on one who has lost his life. It is because you are devoted to me that I am telling you this for the sake of your own welfare. This is for the reason that all my devotees should be protected by me. O mighty-armed one! I know that this one here is my greatest devotee and is devoted towards me. Therefore, act in accordance with my words. There is something supreme in you, created by a god. It is because of this that I am addressing you in this way and act without hesitation. O bull among men! This is a secret even to the gods and you cannot know this. Therefore, I cannot recount this secret to you. In due course of time, you will know it. O Radheya{9}! I am telling you this again. Listen to my words. When the wielder of the vajra begs for the earrings, you should not give them to him. O immensely radiant one! With your beautiful earrings, you will be as resplendent as the azure moon in the sky, in the midst of the two Vishakhas{10}. Know that fame is useful to a man as long as he is alive. O son! Therefore, you should refuse Purandara when he comes for the earrings. O unblemished one! You will be able to repulse the desire of the king of the gods for the earrings with many kinds of words and by citing reasons again and again. O Karna! Use sweetly adorned words to repulse Purandara’s design, reinforced by intelligent arguments. O tiger among men! You are Savyasachi’s challenger. And Savyasachi, brave in battle, is your challenger. As long as you possess the beautiful earrings, Arjuna cannot vanquish you in battle, even if Indra himself becomes his arrows. O Karna! Therefore, if you desire to defeat Arjuna in combat, do not give your beautiful earrings to Shakra.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“O Karna! Do not act against your own interests, or those of your well-wishers, sons, wives, mother and father. O supreme among those who live! Seek to obtain fame in this world and continued fame in heaven without sacriﬁcing your life. There is no doubt that the eternal fame that you wish for, will disappear, if it is at the cost of your own life. O bull among men! In this world, as long as one is alive, one can perform tasks for the father, the mother, the sons and other relatives. O tiger among men! Learn from me that kings perform virile deeds the same way. O immensely radiant one! Men have fame when they are alive. When the body has been reduced to ashes, what use does fame serve one who is dead? It is not the dead, but living ones that know fame. The fame of a dead human is like a garland on one who has lost his life. It is because you are devoted to me that I am telling you this for the sake of your own welfare. This is for the reason that all my devotees should be protected by me. O mighty-armed one! I know that this one here is my greatest devotee and is devoted towards me. Therefore, act in accordance with my words. There is something supreme in you, created by a god. It is because of this that I am addressing you in this way and act without hesitation. O bull among men! This is a secret even to the gods and you cannot know this. Therefore, I cannot recount this secret to you. In due course of time, you will know it. O Radheya{9}! I am telling you this again. Listen to my words. When the wielder of the vajra begs for the earrings, you should not give them to him. O immensely radiant one! With your beautiful earrings, you will be as resplendent as the azure moon in the sky, in the midst of the two Vishakhas{10}. Know that fame is useful to a man as long as he is alive. O son! Therefore, you should refuse Purandara when he comes for the earrings. O unblemished one! You will be able to repulse the desire of the king of the gods for the earrings with many kinds of words and by citing reasons again and again. O Karna! Use sweetly adorned words to repulse Purandara’s design, reinforced by intelligent arguments. O tiger among men! You are Savyasachi’s challenger. And Savyasachi, brave in battle, is your challenger. As long as you possess the beautiful earrings, Arjuna cannot vanquish you in battle, even if Indra himself becomes his arrows. O Karna! Therefore, if you desire to defeat Arjuna in combat, do not give your beautiful earrings to Shakra.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "583": {
+      "global_number": 583,
+      "local_number": 286,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Karna said, “O illustrious one! O lord of the cows! O one with the extremely ﬁerce rays! You know that there is no other god to whom I am as devoted as to you. O lord of the cows! My affection towards you has always been greater than that towards my wife, my sons, my own self and my well-wishers. O one who spreads light! You know that there is no doubt that great-souled ones desire to return the love and devotion of their devotees and worshippers. Since your illustrious self knows that Karna loves you like no other god in heaven, you have spoken about my welfare. I repeatedly bow my head before you and seek your favours again and again. O one with the sharp rays! I am telling you this. Please pardon me. I am not frightened of death as much as I am of falsehood. Especially for all the brahmanas and all the righteous ones, I am ready to give up my life, without any hesitation. O god! O one who spreads light! In so far as the words about Pandava Phalguna are concerned, remove all torment and misery from your mind. Concerning Arjuna and me, I will vanquish Arjuna in battle. O god! You know about the great strength of weapons I have obtained from Jamadagni’s son{11} and from the great-souled Drona. O foremost among the gods! Grant me permission to observe my vow. If the wielder of the vajra comes and begs for my own life, I will give it to him.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O illustrious one! O lord of the cows! O one with the extremely ﬁerce rays! You know that there is no other god to whom I am as devoted as to you. O lord of the cows! My affection towards you has always been greater than that towards my wife, my sons, my own self and my well-wishers. O one who spreads light! You know that there is no doubt that great-souled ones desire to return the love and devotion of their devotees and worshippers. Since your illustrious self knows that Karna loves you like no other god in heaven, you have spoken about my welfare. I repeatedly bow my head before you and seek your favours again and again. O one with the sharp rays! I am telling you this. Please pardon me. I am not frightened of death as much as I am of falsehood. Especially for all the brahmanas and all the righteous ones, I am ready to give up my life, without any hesitation. O god! O one who spreads light! In so far as the words about Pandava Phalguna are concerned, remove all torment and misery from your mind. Concerning Arjuna and me, I will vanquish Arjuna in battle. O god! You know about the great strength of weapons I have obtained from Jamadagni’s son{11} and from the great-souled Drona. O foremost among the gods! Grant me permission to observe my vow. If the wielder of the vajra comes and begs for my own life, I will give it to him.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Surya replied, “O son! O immensely strong one! If you wish to give your beautiful earrings to the wielder of the vajra, you should speak to him so that your victory is ensured. Because of your rule, you will have to give your earrings to Shatakratu. But as long as the earrings adorn you, you cannot be slain by any beings. O son! Therefore, the slayer of the danavas{12} wishes to ensure your destruction at the hands of Arjuna in battle and seeks to rob your earrings. With good and true words, you should propitiate Purandara, lord of the gods, who never deviates from his objective, again and again and tell him, ‘O one with the thousand eyes! I will give you my earrings and my excellent armour if you give me an invincible spear{13} that will destroy all my enemies.’ O Karna! It is only under this rule that you should give Shakra your earrings. With the spear, you will be able to kill your enemies in battle. O mighty-armed one! The spear of the king of the gods is such that, without killing hundreds and thousands of enemies, it does not return to the hand.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“O son! O immensely strong one! If you wish to give your beautiful earrings to the wielder of the vajra, you should speak to him so that your victory is ensured. Because of your rule, you will have to give your earrings to Shatakratu. But as long as the earrings adorn you, you cannot be slain by any beings. O son! Therefore, the slayer of the danavas{12} wishes to ensure your destruction at the hands of Arjuna in battle and seeks to rob your earrings. With good and true words, you should propitiate Purandara, lord of the gods, who never deviates from his objective, again and again and tell him, ‘O one with the thousand eyes! I will give you my earrings and my excellent armour if you give me an invincible spear{13} that will destroy all my enemies.’ O Karna! It is only under this rule that you should give Shakra your earrings. With the spear, you will be able to kill your enemies in battle. O mighty-armed one! The spear of the king of the gods is such that, without killing hundreds and thousands of enemies, it does not return to the hand.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘Saying this, the one with the thousand rays suddenly disappeared. After he had meditated, Karna told Surya about his dream{14}. Vrisha{15} then recounted to him everything in detail, all that he had witnessed and the conversation that had taken place between them in the night. On hearing this, the illustrious god Surya Bhanu, the destroyer of Svarbhanu, smiled and told Karna that this was all true. On knowing this to be true, Radheya, the destroyer of enemy warriors, waited for Vasava’s arrival, hoping to obtain the spear.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Saying this, the one with the thousand rays suddenly disappeared. After he had meditated, Karna told Surya about his dream{14}. Vrisha{15} then recounted to him everything in detail, all that he had witnessed and the conversation that had taken place between them in the night. On hearing this, the illustrious god Surya Bhanu, the destroyer of Svarbhanu, smiled and told Karna that this was all true. On knowing this to be true, Radheya, the destroyer of enemy warriors, waited for Vasava’s arrival, hoping to obtain the spear.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "584": {
+      "global_number": 584,
+      "local_number": 287,
+      "num_shlokas": 29,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘What was the secret that the one with the strong rays did not tell Karna? What were the earrings like? What was the armour like? O excellent one! Where did the earrings and the armour come from? O one rich in austerities! I wish to hear all this. Tell me.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘What was the secret that the one with the strong rays did not tell Karna? What were the earrings like? What was the armour like? O excellent one! Where did the earrings and the armour come from? O one rich in austerities! I wish to hear all this. Tell me.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O king! I will tell you about Vibhavasu’s secret, about what the earrings were like and about what the armour was like. O king! In earlier times, a brahmana presented himself before Kuntibhoja{16}. He was terrible in energy and extremely tall. He had a beard and matted hair and held a staff in his hand. He was agreeable to look at and his limbs were ﬂawless. He seemed to be ablaze in his energy. His complexion was the colour of honey and he was sweet in his speech. He adorned himself with austerities and studying.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! I will tell you about Vibhavasu’s secret, about what the earrings were like and about what the armour was like. O king! In earlier times, a brahmana presented himself before Kuntibhoja{16}. He was terrible in energy and extremely tall. He had a beard and matted hair and held a staff in his hand. He was agreeable to look at and his limbs were ﬂawless. He seemed to be ablaze in his energy. His complexion was the colour of honey and he was sweet in his speech. He adorned himself with austerities and studying.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The immensely ascetic one told King Kuntibhoja, “Without being refused, I wish to beg for a meal in your house. O unblemished one! If you so desire, I will dwell in your house, provided that you or your followers do not cross me in any way. I will come and go as I desire. O king! No one should insult me about my bed or my seat.” Kuntibhoja replied to him in pleasant words. “It shall be that way, and more than that.” He told him again, “O great brahmana! My daughter, by the name of Pritha, is famous. That beautiful one has good conduct and is virtuous. She is self-controlled and honourable. She will wait on you and worship you, without showing you disrespect. You will be satisﬁed with her conduct and virtue.” Having spoken in this way and having worshipped the brahmana in accordance with the prescribed rites, he spoke to his daughter Pritha, whose eyes were wide with wonder when she arrived. “O daughter! This immensely fortunate brahmana wishes to reside here. I have promised him that he can live in my house. O daughter! I have conﬁdently told him that you know how to satisfy a brahmana. Act in a way so that my words are not falsiﬁed. The illustrious brahmana is an ascetic and is devoted to studying. Whatever the immensely ascetic one asks for, should be given without any hesitation. Brahmanas are supreme energy. Brahmanas are supreme austerities. It is because of the worship of brahmanas that the sun shines in the sky. Disrespecting those who deserve to be honoured, the great asura Vatapi and Talajangha were killed through the curse of a brahmana{17}. O daughter! A great burden is being placed on you. With self-control, always seek to satisfy the brahmana. O one who increases my joy! I know that from childhood, you have been attentive to brahmanas, all the elders, all the servants, friends, kin, mothers and me myself, in the appropriate way and with due honour. O one with the ﬂawless limbs! There is no one among the subjects, in the city, in the inner quarters or among the servants, who is dissatisﬁed with you. I therefore think that you can handle this brahmana, who is prone to anger. O Pritha! You became my daughter in your childhood. You were born in the lineage of the Vrishnis and are Shura’s beloved daughter. Earlier, when you were still a child, your father affectionately handed you over to me{18}. You are Vasudeva’s sister and the foremost among my daughters. You became my daughter because he{19} promised his ﬁrstborn child to me. You were born in such a lineage and raised in such a lineage. You have moved from one kind of happiness to another kind of happiness. You are like a lotus that has moved from one pond to another. O beautiful one! Those who are born in low lineages, even if they are kept under check when they are children, often become deviants later. O Pritha! You have been born in the lineage of a king and possess extraordinary beauty. O beautiful one! You have all the qualities. O beautiful one! Discard your pride, insolence and vanity. O Pritha! Worship the brahmana, the granter of boons. That will ensure your welfare. O fortunate one! O unblemished one! Through this, you are certain to obtain good fortune. But if you anger the foremost among brahmanas, he will burn down my entire lineage.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The immensely ascetic one told King Kuntibhoja",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_immensely_ascetic_one",
+              "text": "“Without being refused, I wish to beg for a meal in your house. O unblemished one! If you so desire, I will dwell in your house, provided that you or your followers do not cross me in any way. I will come and go as I desire. O king! No one should insult me about my bed or my seat.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kuntibhoja replied to him in pleasant words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kuntibhoja",
+              "text": "“It shall be that way, and more than that.”",
+              "color": "#D9664E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "He told him again,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O great brahmana! My daughter, by the name of Pritha, is famous. That beautiful one has good conduct and is virtuous. She is self-controlled and honourable. She will wait on you and worship you, without showing you disrespect. You will be satisﬁed with her conduct and virtue.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spoken in this way and having worshipped the brahmana in accordance with the prescribed rites, he spoke to his daughter Pritha, whose eyes were wide with wonder when she arrived.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O daughter! This immensely fortunate brahmana wishes to reside here. I have promised him that he can live in my house. O daughter! I have conﬁdently told him that you know how to satisfy a brahmana. Act in a way so that my words are not falsiﬁed. The illustrious brahmana is an ascetic and is devoted to studying. Whatever the immensely ascetic one asks for, should be given without any hesitation. Brahmanas are supreme energy. Brahmanas are supreme austerities. It is because of the worship of brahmanas that the sun shines in the sky. Disrespecting those who deserve to be honoured, the great asura Vatapi and Talajangha were killed through the curse of a brahmana{17}. O daughter! A great burden is being placed on you. With self-control, always seek to satisfy the brahmana. O one who increases my joy! I know that from childhood, you have been attentive to brahmanas, all the elders, all the servants, friends, kin, mothers and me myself, in the appropriate way and with due honour. O one with the ﬂawless limbs! There is no one among the subjects, in the city, in the inner quarters or among the servants, who is dissatisﬁed with you. I therefore think that you can handle this brahmana, who is prone to anger. O Pritha! You became my daughter in your childhood. You were born in the lineage of the Vrishnis and are Shura’s beloved daughter. Earlier, when you were still a child, your father affectionately handed you over to me{18}. You are Vasudeva’s sister and the foremost among my daughters. You became my daughter because he{19} promised his ﬁrstborn child to me. You were born in such a lineage and raised in such a lineage. You have moved from one kind of happiness to another kind of happiness. You are like a lotus that has moved from one pond to another. O beautiful one! Those who are born in low lineages, even if they are kept under check when they are children, often become deviants later. O Pritha! You have been born in the lineage of a king and possess extraordinary beauty. O beautiful one! You have all the qualities. O beautiful one! Discard your pride, insolence and vanity. O Pritha! Worship the brahmana, the granter of boons. That will ensure your welfare. O fortunate one! O unblemished one! Through this, you are certain to obtain good fortune. But if you anger the foremost among brahmanas, he will burn down my entire lineage.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "585": {
+      "global_number": 585,
+      "local_number": 288,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Kunti said, “O king! I will restrain myself and honour and worship the brahmana, just as you have promised. O Indra among kings! I do not lie. It is my nature to worship brahmanas. The performance of a pleasant task for you is my supreme bliss. Whether the illustrious one arrives in the evening, the morning, at night or in the middle of the night, he will not be angry with me. O Indra among kings! O supreme among men! The worship of brahmanas is for my own gain. I will follow your instructions and do that which ensures welfare. O Indra among kings! Be assured that the foremost among brahmanas will not be slighted while he resides in your house. I am telling you this truthfully. O unblemished one! I will pay particular attention towards what is pleasing to the brahmana and ensures your welfare. O king! Therefore, banish all fever from your mind. O lord of the earth! The brahmanas are immensely fortunate. When worshipped, they are capable of saving. When it is the opposite, they can kill. I have this knowledge and I will satisfy the foremost among brahmanas. O king! You will not suffer grief from that excellent of brahmanas on my account. O Indra among kings! When brahmanas are disrespected, they can cause the downfall of kings, like Chyavana, because of Sukanya’s deeds in earlier times{20}. O Indra among men! Just as you have instructed and told the brahmana, I will serve that best of brahmanas with all restraint.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O king! I will restrain myself and honour and worship the brahmana, just as you have promised. O Indra among kings! I do not lie. It is my nature to worship brahmanas. The performance of a pleasant task for you is my supreme bliss. Whether the illustrious one arrives in the evening, the morning, at night or in the middle of the night, he will not be angry with me. O Indra among kings! O supreme among men! The worship of brahmanas is for my own gain. I will follow your instructions and do that which ensures welfare. O Indra among kings! Be assured that the foremost among brahmanas will not be slighted while he resides in your house. I am telling you this truthfully. O unblemished one! I will pay particular attention towards what is pleasing to the brahmana and ensures your welfare. O king! Therefore, banish all fever from your mind. O lord of the earth! The brahmanas are immensely fortunate. When worshipped, they are capable of saving. When it is the opposite, they can kill. I have this knowledge and I will satisfy the foremost among brahmanas. O king! You will not suffer grief from that excellent of brahmanas on my account. O Indra among kings! When brahmanas are disrespected, they can cause the downfall of kings, like Chyavana, because of Sukanya’s deeds in earlier times{20}. O Indra among men! Just as you have instructed and told the brahmana, I will serve that best of brahmanas with all restraint.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The king said, “O fortunate one! O daughter! For my sake, for my welfare, for the welfare of the lineage and for your own sake, you must act in this way, without any hesitation.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The king said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king",
+              "text": "“O fortunate one! O daughter! For my sake, for my welfare, for the welfare of the lineage and for your own sake, you must act in this way, without any hesitation.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘Having said this, the immensely famous Kuntibhoja, devoted towards his children, handed over his daughter Pritha to the brahmana, saying, “O brahmana! This is my young daughter. She has been brought up in comfort. Do not take it to heart if she commits an act that is wrong. Immensely fortunate brahmanas are usually not angry towards the aged, the young and ascetics, even if the transgression is regular. Brahmanas should forgive even a great transgression. O foremost among brahmanas! Therefore, accept the homage that she renders to the best of her ability.” The brahmana said that it would be this way. In a happy frame of mind, the king gave him a house that was as white as a swan or a beam of the moon. He arranged for a radiant seat in the place where the ﬁre was maintained. He also gave him food and every other object. The princess cast aside her laziness and pride. With great effort, she devoted herself to worshipping and serving the brahmana. Pritha concentrated on puriﬁcation and went to the brahmana. She served and satisﬁed him in the appropriate way, as if he were a god.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having said this, the immensely famous Kuntibhoja, devoted towards his children, handed over his daughter Pritha to the brahmana, saying,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O brahmana! This is my young daughter. She has been brought up in comfort. Do not take it to heart if she commits an act that is wrong. Immensely fortunate brahmanas are usually not angry towards the aged, the young and ascetics, even if the transgression is regular. Brahmanas should forgive even a great transgression. O foremost among brahmanas! Therefore, accept the homage that she renders to the best of her ability.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The brahmana said that it would be this way. In a happy frame of mind, the king gave him a house that was as white as a swan or a beam of the moon. He arranged for a radiant seat in the place where the ﬁre was maintained. He also gave him food and every other object. The princess cast aside her laziness and pride. With great effort, she devoted herself to worshipping and serving the brahmana. Pritha concentrated on puriﬁcation and went to the brahmana. She served and satisﬁed him in the appropriate way, as if he were a god.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "586": {
+      "global_number": 586,
+      "local_number": 289,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O great king! The maiden, good in her vows, tended to the brahmana, rigid in his vows. She satisﬁed him, with a pure mind. O Indra among kings! The foremost among brahmanas sometimes said that he would return in the morning, but would return in the evening or at night. But at all hours, and always, the maiden worshipped him with food and shelter and gave him more and more. Day by day, her hospitality about food, other objects, beds and seats, increased and never decreased. O king! Even if the brahmana censured her, found fault with her or spoke unpleasant words, Pritha never did anything that displeased him. On several occasions, the brahmana returned when the time had passed, or did not return at all. He asked her to serve food when it was difﬁcult to obtain. But she always said that everything was ready and served him. She was self-restrained, like a disciple, a son or a sister. O Indra among kings! That unblemished gem of a maiden created affection in that foremost among brahmanas, tending to his wishes. The supreme among brahmanas was satisﬁed with her character and conduct and with her many supreme efforts, she continued to serve him. O descendant of the Bharata lineage! Her father used to ask her in the morning and the evening. “O daughter! Is the brahmana satisﬁed with your service?” The famous one would reply that he was supremely satisﬁed. The great-souled Kuntibhoja felt great joy.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O great king! The maiden, good in her vows, tended to the brahmana, rigid in his vows. She satisﬁed him, with a pure mind. O Indra among kings! The foremost among brahmanas sometimes said that he would return in the morning, but would return in the evening or at night. But at all hours, and always, the maiden worshipped him with food and shelter and gave him more and more. Day by day, her hospitality about food, other objects, beds and seats, increased and never decreased. O king! Even if the brahmana censured her, found fault with her or spoke unpleasant words, Pritha never did anything that displeased him. On several occasions, the brahmana returned when the time had passed, or did not return at all. He asked her to serve food when it was difﬁcult to obtain. But she always said that everything was ready and served him. She was self-restrained, like a disciple, a son or a sister. O Indra among kings! That unblemished gem of a maiden created affection in that foremost among brahmanas, tending to his wishes. The supreme among brahmanas was satisﬁed with her character and conduct and with her many supreme efforts, she continued to serve him. O descendant of the Bharata lineage! Her father used to ask her in the morning and the evening.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O daughter! Is the brahmana satisﬁed with your service?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The famous one would reply that he was supremely satisﬁed. The great-souled Kuntibhoja felt great joy.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘When one year had passed, the foremost among those who meditate had detected no misdeeds on Pritha’s part and had become her well-wisher. Delighted, the brahmana told her, “O fortunate one! O beautiful one! I am completely satisﬁed with your service. O fortunate one! Ask for a boon that is difﬁcult for humans to obtain, so that you are able to surpass all women in your fame.” Kunti replied, “O foremost among those who are learned in the Vedas! All my desires have already been satisﬁed, since you and my father are pleased with me. O brahmana! What purpose will boons serve me?” The brahmana said, “O fortunate one! O one with the sweet smiles! If you do not wish for a boon from me, accept this mantra. Through it, you can summon the gods. O fortunate one! Whichever god you invoke through this mantra will be under your control. Whether willing or unwilling, the god will be under your control, paciﬁed by the mantra, and will be like your servant.” O king! The unblemished one wasn’t capable of refusing a second time. She was scared that the foremost among brahmanas might curse her. O king! The brahmana instructed the one with the ﬂawless limbs about the sequence of mantras, located towards the beginning of the sacred Atharva texts{21}. O Indra among kings! Having thus bestowed it, he told Kuntibhoja, “O king! I have lived happily in your house, satisﬁed by your daughter. She has always pleased me and honoured me. It is over.” Having said this, he disappeared. The king was overcome with wonder at seeing the brahmana vanish on the spot. He honoured Pritha.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When one year had passed, the foremost among those who meditate had detected no misdeeds on Pritha’s part and had become her well-wisher. Delighted,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the brahmana told her",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_brahmana",
+              "text": "“O fortunate one! O beautiful one! I am completely satisﬁed with your service. O fortunate one! Ask for a boon that is difﬁcult for humans to obtain, so that you are able to surpass all women in your fame.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O foremost among those who are learned in the Vedas! All my desires have already been satisﬁed, since you and my father are pleased with me. O brahmana! What purpose will boons serve me?”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The brahmana said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_brahmana",
+              "text": "“O fortunate one! O one with the sweet smiles! If you do not wish for a boon from me, accept this mantra. Through it, you can summon the gods. O fortunate one! Whichever god you invoke through this mantra will be under your control. Whether willing or unwilling, the god will be under your control, paciﬁed by the mantra, and will be like your servant.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! The unblemished one wasn’t capable of refusing a second time. She was scared that the foremost among brahmanas might curse her. O king! The brahmana instructed the one with the ﬂawless limbs about the sequence of mantras, located towards the beginning of the sacred Atharva texts{21}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "O Indra among kings! Having thus bestowed it, he told Kuntibhoja",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@o_indra_among_kings",
+              "text": "“O king! I have lived happily in your house, satisﬁed by your daughter. She has always pleased me and honoured me. It is over.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, he disappeared. The king was overcome with wonder at seeing the brahmana vanish on the spot. He honoured Pritha.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "587": {
+      "global_number": 587,
+      "local_number": 290,
+      "num_shlokas": 26,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When that foremost among brahmanas had departed and some time had passed, the maiden began to think about the strength and weakness of that sequence of mantras. “What is this sequence of mantras that the great-souled one has given me? I will soon ﬁnd out its strength.” While thinking in this fashion, the young girl noticed that with puberty, her menses had arrived and she was ashamed. Pritha saw that the one with the thousand rays was blazing. On seeing the beauty of Bhanu in the morning, she was not satisﬁed. She became gifted with divine eyesight and she saw the god whose form was celestial, clad in armour and adorned with earrings. O lord of men! She became curious about the mantra. The beautiful one invoked the god. Having performed pranayama, she summoned the sun-god. O king! The sun-god swiftly appeared before her. His complexion was as yellow as honey. He was mighty-armed. His neck was like a conch shell. He seemed to be smiling. He wore bracelets on his upper arms and a diadem. He seemed to set the directions on ﬁre. Resorting to yoga, he divided himself into two. While one heated from the sky, the other arrived before Kunti and spoke to her in sweet words. “O fortunate one! I have appeared here because I am under your control, thanks to the strength of the mantra. O queen! Now that I am under your control, what do you wish me to do? I will do whatever you ask me to.” Kunti replied, “O illustrious one! Return to the place you arrived from. O illustrious one! I summoned you out of curiosity. Please be gracious.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When that foremost among brahmanas had departed and some time had passed, the maiden began to think about the strength and weakness of that sequence of mantras.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“What is this sequence of mantras that the great-souled one has given me? I will soon ﬁnd out its strength.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "While thinking in this fashion, the young girl noticed that with puberty, her menses had arrived and she was ashamed. Pritha saw that the one with the thousand rays was blazing. On seeing the beauty of Bhanu in the morning, she was not satisﬁed. She became gifted with divine eyesight and she saw the god whose form was celestial, clad in armour and adorned with earrings. O lord of men! She became curious about the mantra. The beautiful one invoked the god. Having performed pranayama, she summoned the sun-god. O king! The sun-god swiftly appeared before her. His complexion was as yellow as honey. He was mighty-armed. His neck was like a conch shell. He seemed to be smiling. He wore bracelets on his upper arms and a diadem. He seemed to set the directions on ﬁre. Resorting to yoga, he divided himself into two. While one heated from the sky,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the other arrived before Kunti and spoke to her in sweet words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_other_arrived_before_kunti",
+              "text": "“O fortunate one! I have appeared here because I am under your control, thanks to the strength of the mantra. O queen! Now that I am under your control, what do you wish me to do? I will do whatever you ask me to.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O illustrious one! Return to the place you arrived from. O illustrious one! I summoned you out of curiosity. Please be gracious.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The sun said, “O slender-waisted one! I will go as you have asked me to. But having invoked a god, it is not proper to send him away in vain. O extremely fortunate one! Your desire is to have a son through Surya. He will be unrivalled in this world in valour and he will wear armour and earrings. O one whose gait is like that of an elephant! Give yourself to me. O beautiful one! I will beget a son, like the one that you desire. O fortunate one! O sweet-smiling one! I will depart after having united with you. Else, I will leave in anger and will curse that brahmana{22} and your father. There is no doubt that I will consume them because of what you have done. Though he does not know about this offence, your father is stupid. That brahmana gave you this mantra without knowing about your character and conduct and I will impose extreme humility on him. O beautiful one! All the gods in heaven, with Purandara at the forefront, have seen how you have deceived me and seem to be smiling. Behold those masses of gods through your divine eyesight. I gave that to you earlier, so that you could see me.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The sun said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sun",
+              "text": "“O slender-waisted one! I will go as you have asked me to. But having invoked a god, it is not proper to send him away in vain. O extremely fortunate one! Your desire is to have a son through Surya. He will be unrivalled in this world in valour and he will wear armour and earrings. O one whose gait is like that of an elephant! Give yourself to me. O beautiful one! I will beget a son, like the one that you desire. O fortunate one! O sweet-smiling one! I will depart after having united with you. Else, I will leave in anger and will curse that brahmana{22} and your father. There is no doubt that I will consume them because of what you have done. Though he does not know about this offence, your father is stupid. That brahmana gave you this mantra without knowing about your character and conduct and I will impose extreme humility on him. O beautiful one! All the gods in heaven, with Purandara at the forefront, have seen how you have deceived me and seem to be smiling. Behold those masses of gods through your divine eyesight. I gave that to you earlier, so that you could see me.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘The princess then saw the thirty gods, all stationed in the sky in their respective places, as resplendent and beautiful as the great and dazzling Aditya. On seeing them, the maiden was overcome with shame. Terriﬁed, the goddess spoke these words to Surya. “O lord of the cows! Leave in your vimana. I am a maiden and this conduct of yours is causing me unhappiness. My father, my mother and other elders are the only ones who have the power to give the body away. In this world, preserving the body is honoured as the greatest dharma of women. O Vibhavasu! I summoned you to learn about the strength of the mantra. O lord! I have done this out of childish folly. Please pardon me.” Surya replied, “It is because you are a child that I am requesting you. Others do not obtain this from me. O Kunti! O maiden! Give yourself to me. O timid one! You will then obtain peace. You have invoked me and I cannot depart in vain. O one with the unblemished limbs! If I go away, the world will laugh at me. O beautiful one! All the gods will speak about me in jest. Therefore, unite with me and obtain a son who will be like me. O beautiful one! There is no doubt that he will be special in all the worlds.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The princess then saw the thirty gods, all stationed in the sky in their respective places, as resplendent and beautiful as the great and dazzling Aditya. On seeing them, the maiden was overcome with shame. Terriﬁed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the goddess spoke these words to Surya",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_goddess",
+              "text": "“O lord of the cows! Leave in your vimana. I am a maiden and this conduct of yours is causing me unhappiness. My father, my mother and other elders are the only ones who have the power to give the body away. In this world, preserving the body is honoured as the greatest dharma of women. O Vibhavasu! I summoned you to learn about the strength of the mantra. O lord! I have done this out of childish folly. Please pardon me.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“It is because you are a child that I am requesting you. Others do not obtain this from me. O Kunti! O maiden! Give yourself to me. O timid one! You will then obtain peace. You have invoked me and I cannot depart in vain. O one with the unblemished limbs! If I go away, the world will laugh at me. O beautiful one! All the gods will speak about me in jest. Therefore, unite with me and obtain a son who will be like me. O beautiful one! There is no doubt that he will be special in all the worlds.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "588": {
+      "global_number": 588,
+      "local_number": 291,
+      "num_shlokas": 28,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The intelligent maiden spoke many sweet words and entreated the one with the thousand rays, but did not succeed. O king! When the maiden could not dissuade the dispeller of darkness, she was afraid of the curse and thought for a long period of time. “My father is innocent. How can I prevent the angry Vibhavasu from cursing him and that brahmana because of what I have done? Though energy and austerities destroy sin, those who are young can be deluded and should not draw near them. Because of my folly, I am now extremely terriﬁed and have been grasped by the arm. How can I perform the task of giving myself up on my own?” Terriﬁed of the curse, she thought about this in many ways. Though she kept smiling repeatedly, her limbs were suffering from delusion. O supreme among kings! She was frightened of the curse and for her relatives. O lord of the earth! Confounded by shame, she spoke these words to the god. Kunti said, “O god! My father is alive, and so are my mother and other relatives. Since they are alive, this violation of the rules should not happen. O god! If I unite with you, disregarding the rules, because of my deeds, the fame of this lineage will be destroyed in this world. O foremost among those who provide heat! But if you think that this is in accordance with dharma, I will comply with your desire, without being given away by my relatives. O irresistible one! I will remain virtuous even after giving myself to you. Dharma, fame, deeds and the lives of beings are manifest in you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The intelligent maiden spoke many sweet words and entreated the one with the thousand rays, but did not succeed. O king! When the maiden could not dissuade the dispeller of darkness, she was afraid of the curse and thought for a long period of time.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“My father is innocent. How can I prevent the angry Vibhavasu from cursing him and that brahmana because of what I have done? Though energy and austerities destroy sin, those who are young can be deluded and should not draw near them. Because of my folly, I am now extremely terriﬁed and have been grasped by the arm. How can I perform the task of giving myself up on my own?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Terriﬁed of the curse, she thought about this in many ways. Though she kept smiling repeatedly, her limbs were suffering from delusion. O supreme among kings! She was frightened of the curse and for her relatives. O lord of the earth! Confounded by shame, she spoke these words to the god.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O god! My father is alive, and so are my mother and other relatives. Since they are alive, this violation of the rules should not happen. O god! If I unite with you, disregarding the rules, because of my deeds, the fame of this lineage will be destroyed in this world. O foremost among those who provide heat! But if you think that this is in accordance with dharma, I will comply with your desire, without being given away by my relatives. O irresistible one! I will remain virtuous even after giving myself to you. Dharma, fame, deeds and the lives of beings are manifest in you.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Surya said, “O one with the beautiful smiles! O one with the beautiful hips! O fortunate one! Your father, your mother and your elders are not capable of bestowing you. Listen to my words. O beautiful one! O one with the beautiful complexion! O one with the beautiful buttocks! A completely free girl is known as kanya in this world, from the root kan, because she can desire everyone{23}. O beautiful one! You will not commit any adharma. How can I, with the welfare of the world in mind, commit adharma? O one with the beautiful complexion! It is natural in this world that all women and men should be without restraints{24}. Anything that is against this is a distortion. Having united with me, you will again become a virgin. You will have a mighty-armed and immensely famous son.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“O one with the beautiful smiles! O one with the beautiful hips! O fortunate one! Your father, your mother and your elders are not capable of bestowing you. Listen to my words. O beautiful one! O one with the beautiful complexion! O one with the beautiful buttocks! A completely free girl is known as kanya in this world, from the root kan, because she can desire everyone{23}. O beautiful one! You will not commit any adharma. How can I, with the welfare of the world in mind, commit adharma? O one with the beautiful complexion! It is natural in this world that all women and men should be without restraints{24}. Anything that is against this is a distortion. Having united with me, you will again become a virgin. You will have a mighty-armed and immensely famous son.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Kunti said, “O dispeller of everything that is dark! If I obtain a son through you, may he have earrings and armour. May he be mighty-armed, brave and immensely strong.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O dispeller of everything that is dark! If I obtain a son through you, may he have earrings and armour. May he be mighty-armed, brave and immensely strong.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Surya replied, “He will be mighty-armed and possess earrings. O fortunate one! He will be clad in divine armour and both{25} of these will originate in amrita.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“He will be mighty-armed and possess earrings. O fortunate one! He will be clad in divine armour and both{25} of these will originate in amrita.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Kunti said, “If my son’s earrings and the excellent armour are created out of amrita, as you have said, you may beget him on me. O god! O illustrious one! Then I will unite with you. May he have valour, beauty and energy and be united with dharma, like you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“If my son’s earrings and the excellent armour are created out of amrita, as you have said, you may beget him on me. O god! O illustrious one! Then I will unite with you. May he have valour, beauty and energy and be united with dharma, like you.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Surya replied, “O queen! O one who has been excited! O timid one! Aditi{26} herself gave me these earrings. I will give them to him, together with this excellent armour.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Surya replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@surya",
+              "text": "“O queen! O one who has been excited! O timid one! Aditi{26} herself gave me these earrings. I will give them to him, together with this excellent armour.”",
+              "color": "#D95C4E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Pritha said, “O illustrious god! O god! O lord of the cows! If my son is going to be as you have said, I will happily unite with you.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Pritha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O illustrious god! O god! O lord of the cows! If my son is going to be as you have said, I will happily unite with you.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "8": {
+          "raw": "Vaishampayana said, ‘Having told Kunti that it would be this way, the traveller in the sky and the enemy of Svarbhanu, used the self he had created through yoga to enter her and touched her on the navel{27}. The maiden was overwhelmed with Surya’s energy. The goddess fell down on her bed, bereft of her senses. Surya said, “O one with the beautiful buttocks! I have now ﬁnished. You will give birth to a son who will be the foremost among all wielders of weapons, but you will become a virgin.” O Indra among kings! Overcome with shame, the maiden requested Surya that it might be this way and the one who was rich in resplendence disappeared. Thus the daughter of the king of Kunti{28} was promised and bashfully asked for the sun-god. She fell down on that auspicious bed, overcome with confusion, like a broken creeper. Having confounded her with his ﬁerce rays and having inserted himself in her through yoga, Bhanu did not taint her. The young maiden again recovered her senses.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having told Kunti that it would be this way, the traveller in the sky and the enemy of Svarbhanu, used the self he had created through yoga to enter her and touched her on the navel{27}. The maiden was overwhelmed with Surya’s energy. The goddess fell down on her bed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "bereft of her senses. Surya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bereft_of_her_senses",
+              "text": "“O one with the beautiful buttocks! I have now ﬁnished. You will give birth to a son who will be the foremost among all wielders of weapons, but you will become a virgin.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O Indra among kings! Overcome with shame, the maiden requested Surya that it might be this way and the one who was rich in resplendence disappeared. Thus the daughter of the king of Kunti{28} was promised and bashfully asked for the sun-god. She fell down on that auspicious bed, overcome with confusion, like a broken creeper. Having confounded her with his ﬁerce rays and having inserted himself in her through yoga, Bhanu did not taint her. The young maiden again recovered her senses.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "589": {
+      "global_number": 589,
+      "local_number": 292,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O lord of the earth! In shuklapaksha of the tenth month, like the lord of the stars{29} in the sky, a child was conceived in Pritha’s womb. The maiden with the beautiful buttocks was concerned that her relatives would censure her if they got to know about the conception. But people did not get to know. The young maiden lived in the inner quarters and was skilled at protecting herself. No one other than her nurse got to know. In due course of time, through the favours of the god, the maiden, who was excellent in her complexion, gave birth to a son. He was as radiant as the immortals. He was attired in armour and was adorned in golden and brilliant earrings. His eyes were tawny and he had the shoulders of a bull, like his father. As soon as the son was born, the beautiful one consulted the nurse. She placed the child in a basket that was prepared well on all sides. It was comfortable and soft, with covers, and lined with beeswax{30}. With tears in her eyes, she set it aﬂoat on the waters of the river Ashva. O Indra among kings! Though she knew that it was improper for an unmarried maiden to have a child, out of affection for her son, she lamented piteously. She cast away the basket in the waters of the river Ashva.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O lord of the earth! In shuklapaksha of the tenth month, like the lord of the stars{29} in the sky, a child was conceived in Pritha’s womb. The maiden with the beautiful buttocks was concerned that her relatives would censure her if they got to know about the conception. But people did not get to know. The young maiden lived in the inner quarters and was skilled at protecting herself. No one other than her nurse got to know. In due course of time, through the favours of the god, the maiden, who was excellent in her complexion, gave birth to a son. He was as radiant as the immortals. He was attired in armour and was adorned in golden and brilliant earrings. His eyes were tawny and he had the shoulders of a bull, like his father. As soon as the son was born, the beautiful one consulted the nurse. She placed the child in a basket that was prepared well on all sides. It was comfortable and soft, with covers, and lined with beeswax{30}. With tears in her eyes, she set it aﬂoat on the waters of the river Ashva. O Indra among kings! Though she knew that it was improper for an unmarried maiden to have a child, out of affection for her son, she lamented piteously. She cast away the basket in the waters of the river Ashva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having done this, Kunti wept and spoke these words. Listen to them. “O son! May you be safe from all the beings in the sky, the earth and heaven and from those that roam the water. May your paths be auspicious and may you be free from obstructions. O son! May those who meet you have no enmity in their minds. May King Varuna, lord of the waters, protect you in the water. May the wind-god, who travels everywhere, protect you in the sky. May your father, foremost among those who provide heat, protect you everywhere. O son! Driven by destiny, he is the one who has given you to me. The Adityas, Vasus, Rudras, Sadhyas, Vishvadevas, the Maruts, together with Indra, the directions and the lords of the directions and all the gods must protect you, in terrain that is smooth and rough. Even if you are in a different region, I will get to know you through your armour. O son! Your father, the god Bhanu Vibhavasu is fortunate. Through his divine eyesight, he will see you ﬂowing down the river. Blessed is the woman who will adopt you as her son. You are the son of a god and when you are thirsty, you will drink milk at her breast. What kind of a dream must the woman, who will adopt you, have had? You are like Aditya in your radiance. You are clad in divine armour. You are adorned in divine earrings. Your eyes are long and wide, like a lotus. Your palms are coppery red, like a lotus. You have a beautiful forehead and beautiful hair. O son! Fortunate are the ones who will see you crawling around on the ground, uttering inarticulate words and covered in dust. O son! Fortunate are those who will see you become a youth, like a lion with a mane, in the forests of the Himalayas.” O king! Thus did Pritha piteously lament, in many ways, as she consigned the basket to the waters of the river Ashva, in the company of her nurse and at night. Overcome with grief for her son, the lotus-eyed one wept. Pritha yearned to see her son. She cast away the basket and returned again to the palace, overcome with grief, but frightened that her father might get to know.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having done this,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti wept and spoke these words. Listen to them",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti_wept_and",
+              "text": "“O son! May you be safe from all the beings in the sky, the earth and heaven and from those that roam the water. May your paths be auspicious and may you be free from obstructions. O son! May those who meet you have no enmity in their minds. May King Varuna, lord of the waters, protect you in the water. May the wind-god, who travels everywhere, protect you in the sky. May your father, foremost among those who provide heat, protect you everywhere. O son! Driven by destiny, he is the one who has given you to me. The Adityas, Vasus, Rudras, Sadhyas, Vishvadevas, the Maruts, together with Indra, the directions and the lords of the directions and all the gods must protect you, in terrain that is smooth and rough. Even if you are in a different region, I will get to know you through your armour. O son! Your father, the god Bhanu Vibhavasu is fortunate. Through his divine eyesight, he will see you ﬂowing down the river. Blessed is the woman who will adopt you as her son. You are the son of a god and when you are thirsty, you will drink milk at her breast. What kind of a dream must the woman, who will adopt you, have had? You are like Aditya in your radiance. You are clad in divine armour. You are adorned in divine earrings. Your eyes are long and wide, like a lotus. Your palms are coppery red, like a lotus. You have a beautiful forehead and beautiful hair. O son! Fortunate are the ones who will see you crawling around on the ground, uttering inarticulate words and covered in dust. O son! Fortunate are those who will see you become a youth, like a lion with a mane, in the forests of the Himalayas.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! Thus did Pritha piteously lament, in many ways, as she consigned the basket to the waters of the river Ashva, in the company of her nurse and at night. Overcome with grief for her son, the lotus-eyed one wept. Pritha yearned to see her son. She cast away the basket and returned again to the palace, overcome with grief, but frightened that her father might get to know.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The basket ﬂowed from the river Ashva to the river Charmanvati, from Charmanvati to Yamuna and from there, it went to Ganga. The waves of the Ganga bore the son and the basket to the city of Champa, the habitation of charioteers. With divine armour and earrings that were created from amrita, the son was protected by the gods, because of what had been ordained by destiny.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The basket ﬂowed from the river Ashva to the river Charmanvati, from Charmanvati to Yamuna and from there, it went to Ganga. The waves of the Ganga bore the son and the basket to the city of Champa, the habitation of charioteers. With divine armour and earrings that were created from amrita, the son was protected by the gods, because of what had been ordained by destiny.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "590": {
+      "global_number": 590,
+      "local_number": 293,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Dhritarashtra had a friend and he was a suta named Adhiratha. At that time, he went to the Jahnavi{31}, together with his wife. O king! His wife was unrivalled on earth in her beauty. The immensely fortunate one was named Radha and she had no son, though she had undertaken special efforts to obtain offspring. She saw the basket ﬂoating along, as it willed. It was protected well and was beautiful with ribbons and a handle. The waves of the Jahnavi carried it near her. Driven by curiosity, the beautiful one grasped it. Then she told suta Adhiratha about this. He took the basket out of the water and used instruments to pry it open. Then he saw the boy there. With golden armour, he was as radiant as the morning sun. He had a beautiful face, adorned with radiant earrings. The suta, together with his wife, gazed, their eyes wide with wonder. He then took the boy onto his lap and spoke these words to his wife. “O timid one! O beautiful one! Since I have been born, I have not witnessed such a wonder. I think that a son of the gods has come to us. Since I have no offspring, I am certain that the gods have given me a son.” O lord of the earth! Speaking thus, he handed over the son to Radha. Radha then accepted that divine-looking son in accordance with the prescribed rites. This son of a god was beautiful and as splendid as the cup of a lotus.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Dhritarashtra had a friend and he was a suta named Adhiratha. At that time, he went to the Jahnavi{31}, together with his wife. O king! His wife was unrivalled on earth in her beauty. The immensely fortunate one was named Radha and she had no son, though she had undertaken special efforts to obtain offspring. She saw the basket ﬂoating along, as it willed. It was protected well and was beautiful with ribbons and a handle. The waves of the Jahnavi carried it near her. Driven by curiosity, the beautiful one grasped it. Then she told suta Adhiratha about this. He took the basket out of the water and used instruments to pry it open. Then he saw the boy there. With golden armour, he was as radiant as the morning sun. He had a beautiful face, adorned with radiant earrings. The suta, together with his wife, gazed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "their eyes wide with wonder. He then took the boy onto his lap and spoke these words to his wife",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@eyes_wide_with",
+              "text": "“O timid one! O beautiful one! Since I have been born, I have not witnessed such a wonder. I think that a son of the gods has come to us. Since I have no offspring, I am certain that the gods have given me a son.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O lord of the earth! Speaking thus, he handed over the son to Radha. Radha then accepted that divine-looking son in accordance with the prescribed rites. This son of a god was beautiful and as splendid as the cup of a lotus.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘She reared him appropriately and he grew up. He was brave. Since that time, she also gave birth to other sons. The boy was clad in expensive armour and wore golden earrings. On seeing this, the brahmanas gave him the name of Vasushena{32}. Thus the inﬁnitely valorous one came to be the son of a suta and was known by the name of Vasushena. The lord was also known as Vrisha. The suta’s eldest son grew up to be powerful in his limbs. Through a spy, Pritha got to know that he was clad in celestial armour. In due course, when suta Adhiratha saw that his son had grown up, he sent him to the city of Varanasahrya{33}. There, he went to Drona to learn about weapons. The brave one became Duryodhana’s friend. Having obtained the four kinds of weapons from Drona, Kripa and Rama, he became famous in the world as a great archer{34}. Having allied himself with Dhritarashtra’s son, he was engaged in enmity towards the Parthas. He always desired to ﬁght with the great-souled Phalguna{35}. O lord of the earth! Ever since they ﬁrst saw each other, he competed with Arjuna and Arjuna competed with Karna. On seeing that he possessed earrings and was clad in armour, Yudhishthira thought that he was invincible in battle and was miserable. O Indra among kings! At noon, Karna used to worship the radiant sun, standing in the water and with his hands joined in salutation. Brahmanas who desired riches approached him then. At that time, there was nothing that he would refuse to brahmanas. Indra assumed the form of a brahmana and approached, saying, “Give me.” “You are welcome,” replied Radheya.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "She reared him appropriately and he grew up. He was brave. Since that time, she also gave birth to other sons. The boy was clad in expensive armour and wore golden earrings. On seeing this, the brahmanas gave him the name of Vasushena{32}. Thus the inﬁnitely valorous one came to be the son of a suta and was known by the name of Vasushena. The lord was also known as Vrisha. The suta’s eldest son grew up to be powerful in his limbs. Through a spy, Pritha got to know that he was clad in celestial armour. In due course, when suta Adhiratha saw that his son had grown up, he sent him to the city of Varanasahrya{33}. There, he went to Drona to learn about weapons. The brave one became Duryodhana’s friend. Having obtained the four kinds of weapons from Drona, Kripa and Rama, he became famous in the world as a great archer{34}. Having allied himself with Dhritarashtra’s son, he was engaged in enmity towards the Parthas. He always desired to ﬁght with the great-souled Phalguna{35}. O lord of the earth! Ever since they ﬁrst saw each other, he competed with Arjuna and Arjuna competed with Karna. On seeing that he possessed earrings and was clad in armour, Yudhishthira thought that he was invincible in battle and was miserable. O Indra among kings! At noon, Karna used to worship the radiant sun, standing in the water and with his hands joined in salutation. Brahmanas who desired riches approached him then. At that time, there was nothing that he would refuse to brahmanas. Indra assumed the form of a brahmana and approached, saying,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Give me.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“You are welcome,”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "replied Radheya.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "591": {
+      "global_number": 591,
+      "local_number": 294,
+      "num_shlokas": 43,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On seeing the king of the gods disguised as a brahmana, Vrisha welcomed him, though he did not know what his intentions were. Adhiratha’s son asked the brahmana, “Beautiful maidens with golden throats or villages full of many enclosures of cattle—what will I give you?” The brahmana replied, “I do not wish for beautiful women with golden throats, or any other objects that heighten pleasure. Give these to those who desire them. O unblemished one! I desire your natural armour and earrings. If you are true to your vows, slice these off and give them to me. O scorcher of enemies! I desire that you give these to me swiftly. I think that this gain is superior to all the other gains.” Karna said, “O brahmana! I will give you habitable land, women, cows and rice for many years, but not my armour, together with the earrings.” O best of the Bharata lineage! Thus did Karna entreat the brahmana, with many different kinds of words. But he did not desire any other boon. When that supreme among brahmanas wished for no other boon, Radheya laughed and spoke to him again. “O brahmana! My natural armour and earrings have been created from amrita. Because of them, I cannot be slain in all the worlds. I will not part with them. O bull among brahmanas! Take this extensive kingdom on earth, peaceful and without any thorns. Accept them in a happy frame of mind. O supreme among brahmanas! Without my earrings and natural armour, I will become vulnerable before my enemies.” When the illustrious chastiser of Paka did not ask for any other boon, Karna laughed and again addressed these words to him. “O lord! O lord of the gods! I know who you are. O Shakra! It is not proper for me to give you a boon that will be in vain. You are the lord of the gods himself and it is you who should give me a boon, since you are the lord of all other beings and the creator of all beings. O god! If I give you my earrings and armour, I will be liable to be killed. O Shakra! You will become an object of ridicule. O Shakra! Therefore, take my earrings and supreme armour, if you so wish. But take them in exchange. Otherwise, I will not give them.” Shakra replied, “Ravi{36} had earlier got to know about my intended arrival. There is no doubt that he has told you everything. O son! O Karna! Therefore, ask for what you want. With the exception of my vajra, you can ask for whatever else you wish.” At that, Karna happily approached Vasava.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On seeing the king of the gods disguised as a brahmana, Vrisha welcomed him,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "though he did not know what his intentions were. Adhiratha’s son asked the brahmana",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@though_he_did_not",
+              "text": "“Beautiful maidens with golden throats or villages full of many enclosures of cattle—what will I give you?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The brahmana replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_brahmana",
+              "text": "“I do not wish for beautiful women with golden throats, or any other objects that heighten pleasure. Give these to those who desire them. O unblemished one! I desire your natural armour and earrings. If you are true to your vows, slice these off and give them to me. O scorcher of enemies! I desire that you give these to me swiftly. I think that this gain is superior to all the other gains.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O brahmana! I will give you habitable land, women, cows and rice for many years, but not my armour, together with the earrings.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O best of the Bharata lineage! Thus did Karna entreat the brahmana, with many different kinds of words. But he did not desire any other boon. When that supreme among brahmanas wished for no other boon,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Radheya laughed and spoke to him again",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@radheya_laughed_and",
+              "text": "“O brahmana! My natural armour and earrings have been created from amrita. Because of them, I cannot be slain in all the worlds. I will not part with them. O bull among brahmanas! Take this extensive kingdom on earth, peaceful and without any thorns. Accept them in a happy frame of mind. O supreme among brahmanas! Without my earrings and natural armour, I will become vulnerable before my enemies.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When the illustrious chastiser of Paka did not ask for any other boon,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna laughed and again addressed these words to him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna_laughed_and_again",
+              "text": "“O lord! O lord of the gods! I know who you are. O Shakra! It is not proper for me to give you a boon that will be in vain. You are the lord of the gods himself and it is you who should give me a boon, since you are the lord of all other beings and the creator of all beings. O god! If I give you my earrings and armour, I will be liable to be killed. O Shakra! You will become an object of ridicule. O Shakra! Therefore, take my earrings and supreme armour, if you so wish. But take them in exchange. Otherwise, I will not give them.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Shakra replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“Ravi{36} had earlier got to know about my intended arrival. There is no doubt that he has told you everything. O son! O Karna! Therefore, ask for what you want. With the exception of my vajra, you can ask for whatever else you wish.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At that, Karna happily approached Vasava.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Content in his mind, he asked for the invincible shakti. Karna said, “O Vasava! In exchange for my armour and earrings, give me the invincible shakti that kills large numbers of enemies on the ﬁeld of battle.” O protector of the earth! For an instant, Vasava thought about this in his mind. With the spear in mind, he then spoke these words to Karna. “Give me the earrings and the armour from your body. O Karna! Take the shakti from me, but on one condition. When I am ﬁghting with the daityas, this invincible shakti is released from my hand and having killed hundreds of enemies, returns again to my hand. O son of a suta! But in your hands, it will kill one powerful enemy who roars and blazes. Then, it will return to my hand.” Karna replied, “I wish to kill only one enemy{37} in a great battle. He roars and blazes and is the source of fear for me.” Indra said, “You kill one roaring and powerful enemy in battle. But the one you seek to kill is protected by a great-souled one who is known as the unvanquished boar{38}, Hari and the inconceivable Narayana by those who are learned in the Vedas.” Karna replied, “O illustrious one! Nevertheless, give me the invincible shakti, capable of slaying one brave person, so that I can kill the powerful one. I will slice off the earrings and armour and give them to you. But after this, let my wounded limbs not look loathsome.” Indra said, “O Karna! You will never look loathsome. You do not utter a falsehood and your body will not be scarred. O supreme among eloquent ones! O Karna! You will again possess the complexion and energy of your father. Your complexion will again become like his. But if you unleash this invincible weapon in a ﬁt of fury, when you possess other weapons, there is no doubt that it will descend on you.” Karna replied, “O Shakra! As you have told me, I will release Vasava’s weapon only when I confront supreme danger. I promise you this truthfully.” O lord of the earth! He then accepted the ﬂaming shakti.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Content in his mind, he asked for the invincible shakti.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O Vasava! In exchange for my armour and earrings, give me the invincible shakti that kills large numbers of enemies on the ﬁeld of battle.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O protector of the earth! For an instant, Vasava thought about this in his mind.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "With the spear in mind, he then spoke these words to Karna",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@with_the_spear_in",
+              "text": "“Give me the earrings and the armour from your body. O Karna! Take the shakti from me, but on one condition. When I am ﬁghting with the daityas, this invincible shakti is released from my hand and having killed hundreds of enemies, returns again to my hand. O son of a suta! But in your hands, it will kill one powerful enemy who roars and blazes. Then, it will return to my hand.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“I wish to kill only one enemy{37} in a great battle. He roars and blazes and is the source of fear for me.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“You kill one roaring and powerful enemy in battle. But the one you seek to kill is protected by a great-souled one who is known as the unvanquished boar{38}, Hari and the inconceivable Narayana by those who are learned in the Vedas.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O illustrious one! Nevertheless, give me the invincible shakti, capable of slaying one brave person, so that I can kill the powerful one. I will slice off the earrings and armour and give them to you. But after this, let my wounded limbs not look loathsome.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Indra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@indra",
+              "text": "“O Karna! You will never look loathsome. You do not utter a falsehood and your body will not be scarred. O supreme among eloquent ones! O Karna! You will again possess the complexion and energy of your father. Your complexion will again become like his. But if you unleash this invincible weapon in a ﬁt of fury, when you possess other weapons, there is no doubt that it will descend on you.”",
+              "color": "#FFD60A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O Shakra! As you have told me, I will release Vasava’s weapon only when I confront supreme danger. I promise you this truthfully.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O lord of the earth! He then accepted the ﬂaming shakti.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘He grasped his sharp sword and began to cut up his entire body. On seeing Karna cut up his own body, the gods, humans, danavas and masses of siddhas began to roar, because despite the pain, there were no distortions on his face. Celestial drums were sounded and divine ﬂowers were showered down from above, at the sight of Karna, the brave man, smiling repeatedly as he cut up his own body with the sword. Having sliced off the divine armour from his body, while it was still wet, he gave it to Vasava. Then he sliced off and gave the earrings. Because of this deed, Karna came to be known as Vaikartana{39}. Shakra smiled at his deception, thinking that he had accomplished the objective of the Pandavas, and subsequently, soared up to heaven. However, he ensured Karna obtained fame in the world. Having heard that Karna had been deceived, all the sons of Dhritarashtra were miserable and their insolence was shattered. But on learning about the state that the son of the suta had been reduced to, the Parthas were happy in the forest.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘He grasped his sharp sword and began to cut up his entire body. On seeing Karna cut up his own body, the gods, humans, danavas and masses of siddhas began to roar, because despite the pain, there were no distortions on his face. Celestial drums were sounded and divine ﬂowers were showered down from above, at the sight of Karna, the brave man, smiling repeatedly as he cut up his own body with the sword. Having sliced off the divine armour from his body, while it was still wet, he gave it to Vasava. Then he sliced off and gave the earrings. Because of this deed, Karna came to be known as Vaikartana{39}. Shakra smiled at his deception, thinking that he had accomplished the objective of the Pandavas, and subsequently, soared up to heaven. However, he ensured Karna obtained fame in the world. Having heard that Karna had been deceived, all the sons of Dhritarashtra were miserable and their insolence was shattered. But on learning about the state that the son of the suta had been reduced to, the Parthas were happy in the forest.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Janamejaya asked, ‘Where did the brave Pandavas reside? How did they learn about these glad tidings? What did they do when the twelve years had passed? O illustrious one! Tell me everything about all this.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Where did the brave Pandavas reside? How did they learn about these glad tidings? What did they do when the twelve years had passed? O illustrious one! Tell me everything about all this.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "Vaishampayana said, ‘Having defeated Saindhava{40} and got Krishna back and having heard the ancient and detailed accounts about gods and rishis from Markandeya, they left Kamyaka hermitage with the brahmanas. With all their chariots, servants, cooks and supervisors of the kitchen, the brave ones among men went to the sacred Dvaitavana, after having completed their entire dreadful stay in the forest.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having defeated Saindhava{40} and got Krishna back and having heard the ancient and detailed accounts about gods and rishis from Markandeya, they left Kamyaka hermitage with the brahmanas. With all their chariots, servants, cooks and supervisors of the kitchen, the brave ones among men went to the sacred Dvaitavana, after having completed their entire dreadful stay in the forest.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

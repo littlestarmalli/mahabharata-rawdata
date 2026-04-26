@@ -1,0 +1,202 @@
+{
+  "name": "Bhagavad Gita Parva",
+  "subparva_number": 63,
+  "source_volume": 5,
+  "file_path": "output/volumes/volume_5_chapters.txt",
+  "details": {
+    "num_chapters": 27,
+    "num_shlokas": 994
+  },
+  "note": "This section is so named because it includes the Song Celestial or the Bhagavad Gita, the teachings of Krishna to Arjuna. The section begins with the dramatic news that Bhishma has been killed. When Sanjaya tells Dhritarashtra this, Dhritarashtra (and the reader) is astounded, wishing to know how this came to be. After a description of the arrangements for war, the rest of this section is the Bhagavad Gita. CHAPTER 874(14) Vaishampayana said, 'Sanjaya, Gavalgana�s son, was wise. He could see everything, the past, the present and the future. In great distress, he suddenly rushed from the field of battle to where Dhritarashtra was immersed in thought and told him that Bhishma, the intermediate one of the Bharata lineage, had been killed. 1 �O bull among the Bharata lineage! I am Sanjaya and I bow down before you. Shantanu�s son, Bhishma, the grandfather of the Bharatas, has been slain. He was foremost among all warriors. He was the resort of all archers. That grandfather of the Kurus is now lying down on a bed of arrows. Depending on his valour, your son embarked on that game of dice. O king! That Bhishma is now lying down, having been killed on the field of battle by Shikhandi. On a single chariot, that maharatha had earlier defeated all the lords of the earth in a great battle in Kashi. 2 Descended from the Vasus, he fought with Rama, Jamadagni�s son, in a battle. Jamadagni�s son could not kill him. But he has now been slain by Shikhandi. He was like the great Indra in his valour and like the Himalayas in his steadfastness. He was like the ocean in his gravity and like the earth in his patience. Arrows were like his teeth. The bow was his mouth. The sword was his tongue. He was invincible. He was a lion among men. Today, your father 3 has been brought down by the one from Panchala. 4 On seeing him ready for battle, the large army of the Pandavas trembled in fear, like a herd of cattle on seeing a lion. He protected your army and formations for ten nights. He performed extremely difficult deeds and has now departed, like the setting sun. Like Shakra, 5 he calmly showered thousands of arrows. For ten days, every day, he killed ten thousand warriors in battle. Like a tree struck by the wind, he has been killed and is lying down on the ground. O king! O descendant of the Bharata lineage! He did not deserve this and this is because of your evil counsel.�� CHAPTER 875(15)",
+  "chapters": {
+    "874": {
+      "chapter_number": 874,
+      "global_number": 874,
+      "local_number": 14,
+      "num_shlokas": 13,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_874.json"
+    },
+    "875": {
+      "chapter_number": 875,
+      "global_number": 875,
+      "local_number": 15,
+      "num_shlokas": 75,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_875.json"
+    },
+    "876": {
+      "chapter_number": 876,
+      "global_number": 876,
+      "local_number": 16,
+      "num_shlokas": 46,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_876.json"
+    },
+    "877": {
+      "chapter_number": 877,
+      "global_number": 877,
+      "local_number": 17,
+      "num_shlokas": 39,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_877.json"
+    },
+    "878": {
+      "chapter_number": 878,
+      "global_number": 878,
+      "local_number": 18,
+      "num_shlokas": 18,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_878.json"
+    },
+    "879": {
+      "chapter_number": 879,
+      "global_number": 879,
+      "local_number": 19,
+      "num_shlokas": 44,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_879.json"
+    },
+    "880": {
+      "chapter_number": 880,
+      "global_number": 880,
+      "local_number": 20,
+      "num_shlokas": 20,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_880.json"
+    },
+    "881": {
+      "chapter_number": 881,
+      "global_number": 881,
+      "local_number": 21,
+      "num_shlokas": 17,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_881.json"
+    },
+    "882": {
+      "chapter_number": 882,
+      "global_number": 882,
+      "local_number": 22,
+      "num_shlokas": 22,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_882.json"
+    },
+    "883": {
+      "chapter_number": 883,
+      "global_number": 883,
+      "local_number": 23,
+      "num_shlokas": 47,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_883.json"
+    },
+    "884": {
+      "chapter_number": 884,
+      "global_number": 884,
+      "local_number": 24,
+      "num_shlokas": 72,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_884.json"
+    },
+    "885": {
+      "chapter_number": 885,
+      "global_number": 885,
+      "local_number": 25,
+      "num_shlokas": 43,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_885.json"
+    },
+    "886": {
+      "chapter_number": 886,
+      "global_number": 886,
+      "local_number": 26,
+      "num_shlokas": 42,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_886.json"
+    },
+    "887": {
+      "chapter_number": 887,
+      "global_number": 887,
+      "local_number": 27,
+      "num_shlokas": 29,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_887.json"
+    },
+    "888": {
+      "chapter_number": 888,
+      "global_number": 888,
+      "local_number": 28,
+      "num_shlokas": 47,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_888.json"
+    },
+    "889": {
+      "chapter_number": 889,
+      "global_number": 889,
+      "local_number": 29,
+      "num_shlokas": 30,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_889.json"
+    },
+    "890": {
+      "chapter_number": 890,
+      "global_number": 890,
+      "local_number": 30,
+      "num_shlokas": 28,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_890.json"
+    },
+    "891": {
+      "chapter_number": 891,
+      "global_number": 891,
+      "local_number": 31,
+      "num_shlokas": 34,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_891.json"
+    },
+    "892": {
+      "chapter_number": 892,
+      "global_number": 892,
+      "local_number": 32,
+      "num_shlokas": 42,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_892.json"
+    },
+    "893": {
+      "chapter_number": 893,
+      "global_number": 893,
+      "local_number": 33,
+      "num_shlokas": 55,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_893.json"
+    },
+    "894": {
+      "chapter_number": 894,
+      "global_number": 894,
+      "local_number": 34,
+      "num_shlokas": 20,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_894.json"
+    },
+    "895": {
+      "chapter_number": 895,
+      "global_number": 895,
+      "local_number": 35,
+      "num_shlokas": 34,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_895.json"
+    },
+    "896": {
+      "chapter_number": 896,
+      "global_number": 896,
+      "local_number": 36,
+      "num_shlokas": 27,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_896.json"
+    },
+    "897": {
+      "chapter_number": 897,
+      "global_number": 897,
+      "local_number": 37,
+      "num_shlokas": 20,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_897.json"
+    },
+    "898": {
+      "chapter_number": 898,
+      "global_number": 898,
+      "local_number": 38,
+      "num_shlokas": 24,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_898.json"
+    },
+    "899": {
+      "chapter_number": 899,
+      "global_number": 899,
+      "local_number": 39,
+      "num_shlokas": 28,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_899.json"
+    },
+    "900": {
+      "chapter_number": 900,
+      "global_number": 900,
+      "local_number": 40,
+      "num_shlokas": 78,
+      "file": "subparva_63_bhagavad_gita_parva/chapter_900.json"
+    }
+  }
+}

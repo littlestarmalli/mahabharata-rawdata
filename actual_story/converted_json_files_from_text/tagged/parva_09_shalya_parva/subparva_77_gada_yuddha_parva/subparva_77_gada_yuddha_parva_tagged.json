@@ -1,0 +1,100 @@
+{
+  "name": "Gada-yuddha Parva",
+  "subparva_number": 77,
+  "source_volume": 7,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 546
+  },
+  "note": "Yuddha means battle or fight and the section is named after a fight between Bhima and the yakshas. In this section, the Pandavas visit the sage Vrishaparva on Mount Gandhamadana and then travel to the hermitage of the sage Arshtishena, where they dwell, waiting for Arjuna�s return. Reminiscent of Section 33, Droupadi sends Bhima to search for celestial ?owers. Bhima fights with yakshas and rakshasas and kills the rakshasa Maniman. The Pandavas meet Kubera and Tndra. Arjuna returns and recounts his adventures, repeating much of what has al-ready been said in Sections 37 and 32 (Volume 7). These parts of Section 35 are not only repetitive, and sometimes inconsistent, they don�t quite seem to belong. The only new information is about Arjuna�s fight with the nivatakavacha demons and the demons who inhabited Hiranyapura.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1273": {
+      "chapter_number": 1273,
+      "global_number": 1273,
+      "local_number": 54,
+      "num_shlokas": 44,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1273_tagged.json"
+    },
+    "1274": {
+      "chapter_number": 1274,
+      "global_number": 1274,
+      "local_number": 55,
+      "num_shlokas": 44,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1274_tagged.json"
+    },
+    "1275": {
+      "chapter_number": 1275,
+      "global_number": 1275,
+      "local_number": 56,
+      "num_shlokas": 67,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1275_tagged.json"
+    },
+    "1276": {
+      "chapter_number": 1276,
+      "global_number": 1276,
+      "local_number": 57,
+      "num_shlokas": 59,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1276_tagged.json"
+    },
+    "1277": {
+      "chapter_number": 1277,
+      "global_number": 1277,
+      "local_number": 58,
+      "num_shlokas": 24,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1277_tagged.json"
+    },
+    "1278": {
+      "chapter_number": 1278,
+      "global_number": 1278,
+      "local_number": 59,
+      "num_shlokas": 44,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1278_tagged.json"
+    },
+    "1279": {
+      "chapter_number": 1279,
+      "global_number": 1279,
+      "local_number": 60,
+      "num_shlokas": 65,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1279_tagged.json"
+    },
+    "1280": {
+      "chapter_number": 1280,
+      "global_number": 1280,
+      "local_number": 61,
+      "num_shlokas": 40,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1280_tagged.json"
+    },
+    "1281": {
+      "chapter_number": 1281,
+      "global_number": 1281,
+      "local_number": 62,
+      "num_shlokas": 73,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1281_tagged.json"
+    },
+    "1282": {
+      "chapter_number": 1282,
+      "global_number": 1282,
+      "local_number": 63,
+      "num_shlokas": 43,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1282_tagged.json"
+    },
+    "1283": {
+      "chapter_number": 1283,
+      "global_number": 1283,
+      "local_number": 64,
+      "num_shlokas": 43,
+      "file": "subparva_77_gada_yuddha_parva/chapter_1283_tagged.json"
+    }
+  }
+}

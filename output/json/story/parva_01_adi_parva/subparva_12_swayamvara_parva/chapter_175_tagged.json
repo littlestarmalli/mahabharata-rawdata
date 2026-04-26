@@ -1,0 +1,131 @@
+{
+  "chapter_number": 175,
+  "global_number": 175,
+  "local_number": 175,
+  "num_shlokas": 20,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Then those tigers among men, the ﬁve Pandava brothers, set out to see Droupadi and the great and divine festival. Those tigers among men, the scorchers of enemies, and their mother saw many Brahmanas who were headed in the same direction. O king! Those Brahmanas asked the Pandavas, who were travelling as brahmacharis, “Where are you going? Where have you come from?” Yudhishthira said, “O revered ones who have seen the gods! Know that we are brothers who have come from Ekachakra and are travelling with our mother.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Then those tigers among men, the ﬁve Pandava brothers, set out to see Droupadi and the great and divine festival. Those tigers among men, the scorchers of enemies, and their mother saw many Brahmanas who were headed in the same direction. O king! Those Brahmanas asked the Pandavas, who were travelling as brahmacharis,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Where are you going? Where have you come from?”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O revered ones who have seen the gods! Know that we are brothers who have come from Ekachakra and are travelling with our mother.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The Brahmanas said, “Then you should now go to the house of Drupada of Panchala. A large svayamvara ceremony will be held there, with a lot of riches. We are going there ourselves. Let us go together. A great ceremony, with wonderful events, will take place there. The great-souled Yajnasena Drupada obtained a daughter from the middle of the sacriﬁcial altar and her eyes are like lotus petals, with unblemished features and beauty, youth and intelligence. She is the sister of the powerful Dhrishtadyumna, Drona’s enemy. He arose from the blazing ﬁre, as resplendent as the ﬁre, with mighty arms, natural armour, sword and bow and arrows. His sister is the slenderwaisted Droupadi whose form is ﬂawless. Her body emits the fragrance of a blue lotus from a distance of one krosha. Yajnasena’s daughter will choose a husband at the svayamvara. We are going there to see her and witness the divine and great festival. Kings and princes from different regions will be present there—performers of sacriﬁces at which large quantities of alms are offered, those devoted to studying, pure, great-souled, those devoted to their vows, young, handsome, maharathas and those skilled in the use of weapons. Desiring victory{1}, those kings of men will give away a lot of riches, cows, foodgrains and other objects of pleasure. Accepting whatever they offer and witnessing the svayamvara and all the festivities, we will then go wherever we wish. Actors, bards, dancers, raconteurs, panegyrists and powerful wrestlers will assemble from many countries. O great-souled ones! After witnessing those wonderful sights and accepting what is offered, you can also return with us. You are handsome. You look like gods. On seeing you, Krishna{2} may decide that one of you is the best and choose you. This brother of yours is handsome of appearance and has powerful arms. He may win those wrestling bouts and obtain great riches.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The Brahmanas said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_brahmanas",
+          "text": "“Then you should now go to the house of Drupada of Panchala. A large svayamvara ceremony will be held there, with a lot of riches. We are going there ourselves. Let us go together. A great ceremony, with wonderful events, will take place there. The great-souled Yajnasena Drupada obtained a daughter from the middle of the sacriﬁcial altar and her eyes are like lotus petals, with unblemished features and beauty, youth and intelligence. She is the sister of the powerful Dhrishtadyumna, Drona’s enemy. He arose from the blazing ﬁre, as resplendent as the ﬁre, with mighty arms, natural armour, sword and bow and arrows. His sister is the slenderwaisted Droupadi whose form is ﬂawless. Her body emits the fragrance of a blue lotus from a distance of one krosha. Yajnasena’s daughter will choose a husband at the svayamvara. We are going there to see her and witness the divine and great festival. Kings and princes from different regions will be present there—performers of sacriﬁces at which large quantities of alms are offered, those devoted to studying, pure, great-souled, those devoted to their vows, young, handsome, maharathas and those skilled in the use of weapons. Desiring victory{1}, those kings of men will give away a lot of riches, cows, foodgrains and other objects of pleasure. Accepting whatever they offer and witnessing the svayamvara and all the festivities, we will then go wherever we wish. Actors, bards, dancers, raconteurs, panegyrists and powerful wrestlers will assemble from many countries. O great-souled ones! After witnessing those wonderful sights and accepting what is offered, you can also return with us. You are handsome. You look like gods. On seeing you, Krishna{2} may decide that one of you is the best and choose you. This brother of yours is handsome of appearance and has powerful arms. He may win those wrestling bouts and obtain great riches.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Yudhishthira said, “We will go with you to witness that supreme, great and divine festival, the lady’s svayamvara.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“We will go with you to witness that supreme, great and divine festival, the lady’s svayamvara.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

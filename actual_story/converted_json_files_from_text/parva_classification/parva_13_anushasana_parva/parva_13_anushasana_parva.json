@@ -1,0 +1,33 @@
+{
+  "name": "Anushasana Parva",
+  "parva_number": 13,
+  "details": {
+    "num_subparvas": 2,
+    "num_chapters": 154,
+    "num_shlokas": 6534
+  },
+  "subparvas": {
+    "87": {
+      "subparva_number": 87,
+      "name": "Dana Dharma Parva",
+      "source_volume": 9,
+      "details": {
+        "num_chapters": 152,
+        "num_shlokas": 6450
+      },
+      "note": "Dana means gifts, donations, giving things away in charity. So this section is about the dharma to be followed in dana.",
+      "file": "parva_13_anushasana_parva/subparva_87_dana_dharma_parva/subparva_87_dana_dharma_parva.json"
+    },
+    "88": {
+      "subparva_number": 88,
+      "name": "Bhishma-Svargarohana Parva",
+      "source_volume": 10,
+      "details": {
+        "num_chapters": 2,
+        "num_shlokas": 84
+      },
+      "note": "Svarga means heaven and arohana means ascent. Thus, this parva is about Bhishma�s death and ascent to heaven.",
+      "file": "parva_13_anushasana_parva/subparva_88_bhishma_svargarohana_parva/subparva_88_bhishma_svargarohana_parva.json"
+    }
+  }
+}

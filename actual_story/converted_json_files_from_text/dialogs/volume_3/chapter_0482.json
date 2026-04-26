@@ -1,0 +1,317 @@
+{
+  "chapter": 482,
+  "local": 185,
+  "shlokas": 54,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Then the Pandava{60} again spoke to Markandeya. “Tell me about the account of Vaivasvata Manu.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then the Pandava{60} again spoke to Markandeya. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Tell me about the account of Vaivasvata Manu.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Markandeya replied, “O king! O tiger among men! Vivasvat{61} had a son. He was a maharshi and was extremely powerful. He had radiance equal to that of Prajapati. Manu surpassed his father and grandfather in vigour, energy, success and speciﬁcally, austerities. This lord of men practised terrible and great austerities, with his arms raised and standing on one foot, in Vishala Badari{62}. His head faced down and he did not blink. Firmly, he tormented himself with these terrible austerities for ten thousand years. Once, he was engaged in these austerities, clad in wet bark and with matted hair. A ﬁsh came up to him on the banks of the Virini{63} and spoke to him. ‘O illustrious one! I am a small ﬁsh and am frightened of the larger ones. You are good in your vows. Therefore, save me from those ﬁsh, especially because it is the rule among ﬁsh that large ﬁsh prey on smaller ones. This has always been decreed to be our conduct from time immemorial. Therefore, save me from this great sea of terror in which I am immersed. If you save me, I will return the deed.’ On hearing these words of the ﬁsh, Manu was overcome with compassion. He grasped the ﬁsh in his hands. The ﬁsh had a body that shone like the moon's rays. Vaivasvata Manu took it out of the river and placed it in a small water pot. O king! Thus tended to well, the ﬁsh grew up and Manu speciﬁcally looked after it like a son. After a long period of time, the ﬁsh became so large that there was no longer any room for it in the water pot. When the ﬁsh saw Manu, it again told him, ‘O illustrious one! Find a different place for me to live in.’ Then the illustrious Manu took it out of the water pot. Manu took the ﬁsh to a large pond and threw it in. O destroyer of enemy cities! Thus thrown by Manu, the ﬁsh began to grow, for many years. The pond was two yojanas long and one yojana wide. O lotus-eyed one! O lord of the earth! O Kounteya! The ﬁsh could no longer move in that pond. On seeing Manu, the ﬁsh again said, ‘O illustrious one! O righteous one! O father{64}! Please take me to the Ganga, the wife of the ocean. I will live there, or wherever else you desire.’ On hearing these words of the ﬁsh, Manu, the self-controlled lord, took it to the river Ganga and placed it there with his own hands.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O tiger among men! Vivasvat{61} had a son. He was a maharshi and was extremely powerful. He had radiance equal to that of Prajapati. Manu surpassed his father and grandfather in vigour, energy, success and speciﬁcally, austerities. This lord of men practised terrible and great austerities, with his arms raised and standing on one foot, in Vishala Badari{62}. His head faced down and he did not blink. Firmly, he tormented himself with these terrible austerities for ten thousand years. Once, he was engaged in these austerities, clad in wet bark and with matted hair. A ﬁsh came up to him on the banks of the Virini{63} and spoke to him. ",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! I am a small ﬁsh and am frightened of the larger ones. You are good in your vows. Therefore, save me from those ﬁsh, especially because it is the rule among ﬁsh that large ﬁsh prey on smaller ones. This has always been decreed to be our conduct from time immemorial. Therefore, save me from this great sea of terror in which I am immersed. If you save me, I will return the deed.’",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words of the ﬁsh, Manu was overcome with compassion. He grasped the ﬁsh in his hands. The ﬁsh had a body that shone like the moon's rays. Vaivasvata Manu took it out of the river and placed it in a small water pot. O king! Thus tended to well, the ﬁsh grew up and Manu speciﬁcally looked after it like a son. After a long period of time, the ﬁsh became so large that there was no longer any room for it in the water pot. When the ﬁsh saw Manu, it again told him, ",
+          "speaker": "@markandeya",
+          "introduces": "unknown",
+          "introduces_label": "it",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Find a different place for me to live in.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the illustrious Manu took it out of the water pot. Manu took the ﬁsh to a large pond and threw it in. O destroyer of enemy cities! Thus thrown by Manu, the ﬁsh began to grow, for many years. The pond was two yojanas long and one yojana wide. O lotus-eyed one! O lord of the earth! O Kounteya! The ﬁsh could no longer move in that pond. On seeing Manu, the ﬁsh again said, ",
+          "speaker": "@markandeya",
+          "introduces": "the_ﬁsh",
+          "introduces_label": "the ﬁsh",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! O righteous one! O father{64}! Please take me to the Ganga, the wife of the ocean. I will live there, or wherever else you desire.’",
+          "speaker": "the_ﬁsh",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words of the ﬁsh, Manu, the self-controlled lord, took it to the river Ganga and placed it there with his own hands.",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O chastiser of enemies! The ﬁsh began to grow there for some time. On seeing Manu again, the ﬁsh spoke these words. ‘O lord! Because of my large size, I cannot move around in the Ganga. O illustrious one! Therefore, show me your favours and quickly take me to the ocean.’ O Partha! Manu then himself took the ﬁsh out of the waters of the Ganga. He took it to the ocean and placed it there. Despite the ﬁsh's great size, Manu could carry it easily. Its touch and smell were also pleasant. When the ﬁsh was thrown into the ocean by Manu, it seemed to smile and uttered these words. ‘O lord! You have always protected me with great care. Now hear from me about the task you should perform when the time is right. O illustrious one! O immensely fortunate one! The destruction of everything on this earth, mobile and immobile, is near. The time for purging this world has arrived. Therefore, listen to what will bring your greatest welfare. The fear of destruction is nigh for everything that moves, stands, stirs and does not stir. That terrible time of destruction has arrived. You must therefore build a strong and sturdy boat and tether a rope to it. O great sage! You must then ascend it with the saptarshis. Take with you all the seeds that I have mentioned to you earlier. Ascend on the boat and preserve them separately. O one who is beloved of the sages! Wait for me on the boat. O ascetic! I will come to you and you will know me from my horn. I will now depart. Act according to my instructions. O lord! Do not be anxious.’ He replied to the ﬁsh in these words, ‘O lord! I will act accordingly.’ Then they took leave of each other and went where they wished.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O chastiser of enemies! The ﬁsh began to grow there for some time. On seeing Manu again, the ﬁsh spoke these words. ",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! Because of my large size, I cannot move around in the Ganga. O illustrious one! Therefore, show me your favours and quickly take me to the ocean.’",
+          "speaker": "the_ﬁsh",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Partha! Manu then himself took the ﬁsh out of the waters of the Ganga. He took it to the ocean and placed it there. Despite the ﬁsh's great size, Manu could carry it easily. Its touch and smell were also pleasant. When the ﬁsh was thrown into the ocean by Manu, it seemed to smile and uttered these words. ",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! You have always protected me with great care. Now hear from me about the task you should perform when the time is right. O illustrious one! O immensely fortunate one! The destruction of everything on this earth, mobile and immobile, is near. The time for purging this world has arrived. Therefore, listen to what will bring your greatest welfare. The fear of destruction is nigh for everything that moves, stands, stirs and does not stir. That terrible time of destruction has arrived. You must therefore build a strong and sturdy boat and tether a rope to it. O great sage! You must then ascend it with the saptarshis. Take with you all the seeds that I have mentioned to you earlier. Ascend on the boat and preserve them separately. O one who is beloved of the sages! Wait for me on the boat. O ascetic! I will come to you and you will know me from my horn. I will now depart. Act according to my instructions. O lord! Do not be anxious.’",
+          "speaker": "the_ﬁsh",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He replied to the ﬁsh in these words, ",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! I will act accordingly.’",
+          "speaker": "the_ﬁsh",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then they took leave of each other and went where they wished.",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O great king! O brave one! O destroyer of enemies! As he had been instructed by the ﬁsh, Manu collected all the seeds. He built an excellent boat and sailed on the waves of the ocean. O lord of the earth! O destroyer of enemy cities! Manu thought about the ﬁsh. Knowing about his thoughts, the ﬁsh arrived. O supreme among the Bharata lineage! It had a horn. O Indra of Indras among men! When Manu saw the ﬁsh in the waters of the ocean, with the form of a large mountain, with a horn as it had said, he tied a noose around the rope and fastened it to the ﬁsh's head. O tiger among men! O destroyer of enemy cities! Tethered to the noose in the rope, with great speed, the ﬁsh tugged the boat into the waters of the ocean. O lord of men! The boat was tossed around in the ocean. It danced around on the roaring waves, like a drunken woman. On that great ocean, the boat was battered around by great waves. O destroyer of enemy cities! It was whirled around. The earth could not be seen, nor the directions. Everything was enveloped. O bull among men! There was water everywhere, including the sky and heaven. O bull among the Bharata lineage! The world was covered by this turbulence. Everything was invisible, except for the seven rishis, Manu and the ﬁsh. O king! In this way, for a large number of years, the ﬁsh unceasingly pulled the boat on that ﬂood of water. O bull among men! O descendant of the Kuru lineage! The ﬁsh then pulled the boat to the highest peak of the Himalayas. In a smiling and soft tone, it told the rishis, ‘Immediately tie the boat to this peak of the Himalayas.’ O bull among the Bharata lineage! On hearing the words of the ﬁsh, they quickly moored the boat there, to the peak of the Himalayas. O Kounteya! O bull among the Bharata lineage! Know that since that day, the highest peak of the Himalayas has been known as 'Nau-bandhana{65}'.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O great king! O brave one! O destroyer of enemies! As he had been instructed by the ﬁsh, Manu collected all the seeds. He built an excellent boat and sailed on the waves of the ocean. O lord of the earth! O destroyer of enemy cities! Manu thought about the ﬁsh. Knowing about his thoughts, the ﬁsh arrived. O supreme among the Bharata lineage! It had a horn. O Indra of Indras among men! When Manu saw the ﬁsh in the waters of the ocean, with the form of a large mountain, with a horn as it had said, he tied a noose around the rope and fastened it to the ﬁsh's head. O tiger among men! O destroyer of enemy cities! Tethered to the noose in the rope, with great speed, the ﬁsh tugged the boat into the waters of the ocean. O lord of men! The boat was tossed around in the ocean. It danced around on the roaring waves, like a drunken woman. On that great ocean, the boat was battered around by great waves. O destroyer of enemy cities! It was whirled around. The earth could not be seen, nor the directions. Everything was enveloped. O bull among men! There was water everywhere, including the sky and heaven. O bull among the Bharata lineage! The world was covered by this turbulence. Everything was invisible, except for the seven rishis, Manu and the ﬁsh. O king! In this way, for a large number of years, the ﬁsh unceasingly pulled the boat on that ﬂood of water. O bull among men! O descendant of the Kuru lineage! The ﬁsh then pulled the boat to the highest peak of the Himalayas. In a smiling and soft tone, it told the rishis, ",
+          "speaker": "@markandeya",
+          "introduces": "unknown",
+          "introduces_label": "it",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Immediately tie the boat to this peak of the Himalayas.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O bull among the Bharata lineage! On hearing the words of the ﬁsh, they quickly moored the boat there, to the peak of the Himalayas. O Kounteya! O bull among the Bharata lineage! Know that since that day, the highest peak of the Himalayas has been known as 'Nau-bandhana{65}'.",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Then, without any hesitation, it spoke to the rishis who were assembled there. ‘I am Prajapati Brahma. There is no one superior to me. I have saved you from this fear in the form of a ﬁsh. Manu will create all beings—gods, asuras and men, all the worlds, everything that moves and everything that does not move. Through terrible austerities and my favours, he will possess these powers of creating classes of beings and will not suffer from delusion.’ Having spoken these words, the ﬁsh instantly disappeared. Vaivasvata Manu himself desired to create all beings. In the process of creating classes of beings, he was overtaken by delusion and performed great austerities. O bull among the Bharata lineage! Through these great austerities, Manu was himself able to create all beings, exactly. I have recounted for you the ancient account known by the name of the ﬁsh. This famous account is the cleanser of all sins. A man who listens to Manu's account every day, is happy, is successful in all objectives and goes to the world of heaven.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Then, without any hesitation, it spoke to the rishis who were assembled there. ",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Prajapati Brahma. There is no one superior to me. I have saved you from this fear in the form of a ﬁsh. Manu will create all beings—gods, asuras and men, all the worlds, everything that moves and everything that does not move. Through terrible austerities and my favours, he will possess these powers of creating classes of beings and will not suffer from delusion.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having spoken these words, the ﬁsh instantly disappeared. Vaivasvata Manu himself desired to create all beings. In the process of creating classes of beings, he was overtaken by delusion and performed great austerities. O bull among the Bharata lineage! Through these great austerities, Manu was himself able to create all beings, exactly. I have recounted for you the ancient account known by the name of the ﬁsh. This famous account is the cleanser of all sins. A man who listens to Manu's account every day, is happy, is successful in all objectives and goes to the world of heaven.”",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

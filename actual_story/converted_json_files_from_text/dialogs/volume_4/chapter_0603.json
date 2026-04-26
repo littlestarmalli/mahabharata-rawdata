@@ -1,0 +1,142 @@
+{
+  "chapter": 603,
+  "local": 7,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘After that, another one arrived. He was terrible in strength and his beauty was resplendent. His gait was as easy as that of a valorous lion. He held a spoon and a ladle in his hands. He also had an unsheathed black and iron sword that was devoid of any blemishes. He was in the form of a cook, but his radiance was supreme. He was like the sun illuminating the world. He was attired in extremely dark garments and was like the king of the mountains{53}. He approached the king of Matsya and stood there. On seeing the supreme one arrive, the king spoke to the assembled citizens. “Who is this handsome and young one whom we see? He is like a bull among men. His shoulders are as large as that of a lion. I have not seen a man like him before. He is like the sun. Though I have been reﬂecting, I am unable to determine correctly the intentions of this bull among men.” Pandava then approached Virata. The great-minded one spoke in words that seemed to be despondent. “O Indra among men! I am a cook named Ballava. Appoint me and I will cook you supreme dishes.” Virata replied, “You are one who offers honour. I do not believe that you are a cook. You seem to be the equal of the thousand-eyed one{54}, in your radiance, your beauty and your valour. O son{55}! You are radiant and supreme among men.” Bhima said, “O Indra among men! I am a cook and your servant. I only know the best of dishes. O king! In earlier times, King Yudhishthira used to taste all of them. There is no one who is equal to me in strength. O king! I have always been skilled at wrestling. O unblemished one! I will bring you pleasure by ﬁghting with elephants and lions.” Virata replied, “I grant you the boon that you will be employed in the kitchen. You will work there, since you have said that you possess those skills. However, I do not think that this work is appropriate for you. You deserve the entire earth, girded by the ocean. But let it be the way you desire. You will be appointed the chief chef in the kitchen, heading the men who have been appointed there earlier by me.” Thus Bhima was instated in the kitchen. He became a great favourite of King Virata's. O king! While he lived there, no one, not even the servants, got to know who he was.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After that, another one arrived. He was terrible in strength and his beauty was resplendent. His gait was as easy as that of a valorous lion. He held a spoon and a ladle in his hands. He also had an unsheathed black and iron sword that was devoid of any blemishes. He was in the form of a cook, but his radiance was supreme. He was like the sun illuminating the world. He was attired in extremely dark garments and was like the king of the mountains{53}. He approached the king of Matsya and stood there. On seeing the supreme one arrive, the king spoke to the assembled citizens. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who is this handsome and young one whom we see? He is like a bull among men. His shoulders are as large as that of a lion. I have not seen a man like him before. He is like the sun. Though I have been reﬂecting, I am unable to determine correctly the intentions of this bull among men.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Pandava then approached Virata. The great-minded one spoke in words that seemed to be despondent. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among men! I am a cook named Ballava. Appoint me and I will cook you supreme dishes.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Virata replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@virata",
+          "introduces_label": "Virata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You are one who offers honour. I do not believe that you are a cook. You seem to be the equal of the thousand-eyed one{54}, in your radiance, your beauty and your valour. O son{55}! You are radiant and supreme among men.”",
+          "speaker": "@virata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among men! I am a cook and your servant. I only know the best of dishes. O king! In earlier times, King Yudhishthira used to taste all of them. There is no one who is equal to me in strength. O king! I have always been skilled at wrestling. O unblemished one! I will bring you pleasure by ﬁghting with elephants and lions.”",
+          "speaker": "@bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Virata replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@virata",
+          "introduces_label": "Virata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I grant you the boon that you will be employed in the kitchen. You will work there, since you have said that you possess those skills. However, I do not think that this work is appropriate for you. You deserve the entire earth, girded by the ocean. But let it be the way you desire. You will be appointed the chief chef in the kitchen, heading the men who have been appointed there earlier by me.”",
+          "speaker": "@virata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus Bhima was instated in the kitchen. He became a great favourite of King Virata's. O king! While he lived there, no one, not even the servants, got to know who he was.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

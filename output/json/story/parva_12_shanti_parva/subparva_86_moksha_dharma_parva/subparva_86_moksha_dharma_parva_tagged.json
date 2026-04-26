@@ -1,0 +1,1325 @@
+{
+  "name": "Moksha Dharma Parva",
+  "subparva_number": 86,
+  "source_volume": 8,
+  "details": {
+    "num_chapters": 186,
+    "num_shlokas": 6754
+  },
+  "note": "Moksha means liberation, as opposed to the pursuit of dharma, artha and kama.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1496": {
+      "chapter_number": 1496,
+      "global_number": 1496,
+      "local_number": 168,
+      "num_shlokas": 53,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1496_tagged.json"
+    },
+    "1497": {
+      "chapter_number": 1497,
+      "global_number": 1497,
+      "local_number": 169,
+      "num_shlokas": 37,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1497_tagged.json"
+    },
+    "1498": {
+      "chapter_number": 1498,
+      "global_number": 1498,
+      "local_number": 170,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1498_tagged.json"
+    },
+    "1499": {
+      "chapter_number": 1499,
+      "global_number": 1499,
+      "local_number": 171,
+      "num_shlokas": 61,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1499_tagged.json"
+    },
+    "1500": {
+      "chapter_number": 1500,
+      "global_number": 1500,
+      "local_number": 172,
+      "num_shlokas": 37,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1500_tagged.json"
+    },
+    "1501": {
+      "chapter_number": 1501,
+      "global_number": 1501,
+      "local_number": 173,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1501_tagged.json"
+    },
+    "1502": {
+      "chapter_number": 1502,
+      "global_number": 1502,
+      "local_number": 174,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1502_tagged.json"
+    },
+    "1503": {
+      "chapter_number": 1503,
+      "global_number": 1503,
+      "local_number": 175,
+      "num_shlokas": 37,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1503_tagged.json"
+    },
+    "1504": {
+      "chapter_number": 1504,
+      "global_number": 1504,
+      "local_number": 176,
+      "num_shlokas": 17,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1504_tagged.json"
+    },
+    "1505": {
+      "chapter_number": 1505,
+      "global_number": 1505,
+      "local_number": 177,
+      "num_shlokas": 39,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1505_tagged.json"
+    },
+    "1506": {
+      "chapter_number": 1506,
+      "global_number": 1506,
+      "local_number": 178,
+      "num_shlokas": 17,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1506_tagged.json"
+    },
+    "1507": {
+      "chapter_number": 1507,
+      "global_number": 1507,
+      "local_number": 179,
+      "num_shlokas": 15,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1507_tagged.json"
+    },
+    "1508": {
+      "chapter_number": 1508,
+      "global_number": 1508,
+      "local_number": 180,
+      "num_shlokas": 30,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1508_tagged.json"
+    },
+    "1509": {
+      "chapter_number": 1509,
+      "global_number": 1509,
+      "local_number": 181,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1509_tagged.json"
+    },
+    "1510": {
+      "chapter_number": 1510,
+      "global_number": 1510,
+      "local_number": 182,
+      "num_shlokas": 17,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1510_tagged.json"
+    },
+    "1511": {
+      "chapter_number": 1511,
+      "global_number": 1511,
+      "local_number": 183,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1511_tagged.json"
+    },
+    "1512": {
+      "chapter_number": 1512,
+      "global_number": 1512,
+      "local_number": 184,
+      "num_shlokas": 18,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1512_tagged.json"
+    },
+    "1513": {
+      "chapter_number": 1513,
+      "global_number": 1513,
+      "local_number": 185,
+      "num_shlokas": 27,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1513_tagged.json"
+    },
+    "1514": {
+      "chapter_number": 1514,
+      "global_number": 1514,
+      "local_number": 186,
+      "num_shlokas": 32,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1514_tagged.json"
+    },
+    "1515": {
+      "chapter_number": 1515,
+      "global_number": 1515,
+      "local_number": 187,
+      "num_shlokas": 60,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1515_tagged.json"
+    },
+    "1516": {
+      "chapter_number": 1516,
+      "global_number": 1516,
+      "local_number": 188,
+      "num_shlokas": 22,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1516_tagged.json"
+    },
+    "1517": {
+      "chapter_number": 1517,
+      "global_number": 1517,
+      "local_number": 189,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1517_tagged.json"
+    },
+    "1518": {
+      "chapter_number": 1518,
+      "global_number": 1518,
+      "local_number": 190,
+      "num_shlokas": 13,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1518_tagged.json"
+    },
+    "1519": {
+      "chapter_number": 1519,
+      "global_number": 1519,
+      "local_number": 191,
+      "num_shlokas": 11,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1519_tagged.json"
+    },
+    "1520": {
+      "chapter_number": 1520,
+      "global_number": 1520,
+      "local_number": 192,
+      "num_shlokas": 127,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1520_tagged.json"
+    },
+    "1521": {
+      "chapter_number": 1521,
+      "global_number": 1521,
+      "local_number": 193,
+      "num_shlokas": 32,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1521_tagged.json"
+    },
+    "1522": {
+      "chapter_number": 1522,
+      "global_number": 1522,
+      "local_number": 194,
+      "num_shlokas": 24,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1522_tagged.json"
+    },
+    "1523": {
+      "chapter_number": 1523,
+      "global_number": 1523,
+      "local_number": 195,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1523_tagged.json"
+    },
+    "1524": {
+      "chapter_number": 1524,
+      "global_number": 1524,
+      "local_number": 196,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1524_tagged.json"
+    },
+    "1525": {
+      "chapter_number": 1525,
+      "global_number": 1525,
+      "local_number": 197,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1525_tagged.json"
+    },
+    "1526": {
+      "chapter_number": 1526,
+      "global_number": 1526,
+      "local_number": 198,
+      "num_shlokas": 18,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1526_tagged.json"
+    },
+    "1527": {
+      "chapter_number": 1527,
+      "global_number": 1527,
+      "local_number": 199,
+      "num_shlokas": 32,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1527_tagged.json"
+    },
+    "1528": {
+      "chapter_number": 1528,
+      "global_number": 1528,
+      "local_number": 200,
+      "num_shlokas": 46,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1528_tagged.json"
+    },
+    "1529": {
+      "chapter_number": 1529,
+      "global_number": 1529,
+      "local_number": 201,
+      "num_shlokas": 35,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1529_tagged.json"
+    },
+    "1530": {
+      "chapter_number": 1530,
+      "global_number": 1530,
+      "local_number": 202,
+      "num_shlokas": 33,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1530_tagged.json"
+    },
+    "1531": {
+      "chapter_number": 1531,
+      "global_number": 1531,
+      "local_number": 203,
+      "num_shlokas": 43,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1531_tagged.json"
+    },
+    "1532": {
+      "chapter_number": 1532,
+      "global_number": 1532,
+      "local_number": 204,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1532_tagged.json"
+    },
+    "1533": {
+      "chapter_number": 1533,
+      "global_number": 1533,
+      "local_number": 205,
+      "num_shlokas": 33,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1533_tagged.json"
+    },
+    "1534": {
+      "chapter_number": 1534,
+      "global_number": 1534,
+      "local_number": 206,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1534_tagged.json"
+    },
+    "1535": {
+      "chapter_number": 1535,
+      "global_number": 1535,
+      "local_number": 207,
+      "num_shlokas": 29,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1535_tagged.json"
+    },
+    "1536": {
+      "chapter_number": 1536,
+      "global_number": 1536,
+      "local_number": 208,
+      "num_shlokas": 26,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1536_tagged.json"
+    },
+    "1537": {
+      "chapter_number": 1537,
+      "global_number": 1537,
+      "local_number": 209,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1537_tagged.json"
+    },
+    "1538": {
+      "chapter_number": 1538,
+      "global_number": 1538,
+      "local_number": 210,
+      "num_shlokas": 36,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1538_tagged.json"
+    },
+    "1539": {
+      "chapter_number": 1539,
+      "global_number": 1539,
+      "local_number": 211,
+      "num_shlokas": 48,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1539_tagged.json"
+    },
+    "1540": {
+      "chapter_number": 1540,
+      "global_number": 1540,
+      "local_number": 212,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1540_tagged.json"
+    },
+    "1541": {
+      "chapter_number": 1541,
+      "global_number": 1541,
+      "local_number": 213,
+      "num_shlokas": 18,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1541_tagged.json"
+    },
+    "1542": {
+      "chapter_number": 1542,
+      "global_number": 1542,
+      "local_number": 214,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1542_tagged.json"
+    },
+    "1543": {
+      "chapter_number": 1543,
+      "global_number": 1543,
+      "local_number": 215,
+      "num_shlokas": 37,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1543_tagged.json"
+    },
+    "1544": {
+      "chapter_number": 1544,
+      "global_number": 1544,
+      "local_number": 216,
+      "num_shlokas": 28,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1544_tagged.json"
+    },
+    "1545": {
+      "chapter_number": 1545,
+      "global_number": 1545,
+      "local_number": 217,
+      "num_shlokas": 59,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1545_tagged.json"
+    },
+    "1546": {
+      "chapter_number": 1546,
+      "global_number": 1546,
+      "local_number": 218,
+      "num_shlokas": 38,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1546_tagged.json"
+    },
+    "1547": {
+      "chapter_number": 1547,
+      "global_number": 1547,
+      "local_number": 219,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1547_tagged.json"
+    },
+    "1548": {
+      "chapter_number": 1548,
+      "global_number": 1548,
+      "local_number": 220,
+      "num_shlokas": 118,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1548_tagged.json"
+    },
+    "1549": {
+      "chapter_number": 1549,
+      "global_number": 1549,
+      "local_number": 221,
+      "num_shlokas": 94,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1549_tagged.json"
+    },
+    "1550": {
+      "chapter_number": 1550,
+      "global_number": 1550,
+      "local_number": 222,
+      "num_shlokas": 24,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1550_tagged.json"
+    },
+    "1551": {
+      "chapter_number": 1551,
+      "global_number": 1551,
+      "local_number": 223,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1551_tagged.json"
+    },
+    "1552": {
+      "chapter_number": 1552,
+      "global_number": 1552,
+      "local_number": 224,
+      "num_shlokas": 75,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1552_tagged.json"
+    },
+    "1553": {
+      "chapter_number": 1553,
+      "global_number": 1553,
+      "local_number": 225,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1553_tagged.json"
+    },
+    "1554": {
+      "chapter_number": 1554,
+      "global_number": 1554,
+      "local_number": 226,
+      "num_shlokas": 38,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1554_tagged.json"
+    },
+    "1555": {
+      "chapter_number": 1555,
+      "global_number": 1555,
+      "local_number": 227,
+      "num_shlokas": 31,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1555_tagged.json"
+    },
+    "1556": {
+      "chapter_number": 1556,
+      "global_number": 1556,
+      "local_number": 228,
+      "num_shlokas": 38,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1556_tagged.json"
+    },
+    "1557": {
+      "chapter_number": 1557,
+      "global_number": 1557,
+      "local_number": 229,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1557_tagged.json"
+    },
+    "1558": {
+      "chapter_number": 1558,
+      "global_number": 1558,
+      "local_number": 230,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1558_tagged.json"
+    },
+    "1559": {
+      "chapter_number": 1559,
+      "global_number": 1559,
+      "local_number": 231,
+      "num_shlokas": 34,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1559_tagged.json"
+    },
+    "1560": {
+      "chapter_number": 1560,
+      "global_number": 1560,
+      "local_number": 232,
+      "num_shlokas": 34,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1560_tagged.json"
+    },
+    "1561": {
+      "chapter_number": 1561,
+      "global_number": 1561,
+      "local_number": 233,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1561_tagged.json"
+    },
+    "1562": {
+      "chapter_number": 1562,
+      "global_number": 1562,
+      "local_number": 234,
+      "num_shlokas": 29,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1562_tagged.json"
+    },
+    "1563": {
+      "chapter_number": 1563,
+      "global_number": 1563,
+      "local_number": 235,
+      "num_shlokas": 27,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1563_tagged.json"
+    },
+    "1564": {
+      "chapter_number": 1564,
+      "global_number": 1564,
+      "local_number": 236,
+      "num_shlokas": 30,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1564_tagged.json"
+    },
+    "1565": {
+      "chapter_number": 1565,
+      "global_number": 1565,
+      "local_number": 237,
+      "num_shlokas": 36,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1565_tagged.json"
+    },
+    "1566": {
+      "chapter_number": 1566,
+      "global_number": 1566,
+      "local_number": 238,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1566_tagged.json"
+    },
+    "1567": {
+      "chapter_number": 1567,
+      "global_number": 1567,
+      "local_number": 239,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1567_tagged.json"
+    },
+    "1568": {
+      "chapter_number": 1568,
+      "global_number": 1568,
+      "local_number": 240,
+      "num_shlokas": 22,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1568_tagged.json"
+    },
+    "1569": {
+      "chapter_number": 1569,
+      "global_number": 1569,
+      "local_number": 241,
+      "num_shlokas": 14,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1569_tagged.json"
+    },
+    "1570": {
+      "chapter_number": 1570,
+      "global_number": 1570,
+      "local_number": 242,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1570_tagged.json"
+    },
+    "1571": {
+      "chapter_number": 1571,
+      "global_number": 1571,
+      "local_number": 243,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1571_tagged.json"
+    },
+    "1572": {
+      "chapter_number": 1572,
+      "global_number": 1572,
+      "local_number": 244,
+      "num_shlokas": 12,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1572_tagged.json"
+    },
+    "1573": {
+      "chapter_number": 1573,
+      "global_number": 1573,
+      "local_number": 245,
+      "num_shlokas": 14,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1573_tagged.json"
+    },
+    "1574": {
+      "chapter_number": 1574,
+      "global_number": 1574,
+      "local_number": 246,
+      "num_shlokas": 15,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1574_tagged.json"
+    },
+    "1575": {
+      "chapter_number": 1575,
+      "global_number": 1575,
+      "local_number": 247,
+      "num_shlokas": 13,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1575_tagged.json"
+    },
+    "1576": {
+      "chapter_number": 1576,
+      "global_number": 1576,
+      "local_number": 248,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1576_tagged.json"
+    },
+    "1577": {
+      "chapter_number": 1577,
+      "global_number": 1577,
+      "local_number": 249,
+      "num_shlokas": 22,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1577_tagged.json"
+    },
+    "1578": {
+      "chapter_number": 1578,
+      "global_number": 1578,
+      "local_number": 250,
+      "num_shlokas": 41,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1578_tagged.json"
+    },
+    "1579": {
+      "chapter_number": 1579,
+      "global_number": 1579,
+      "local_number": 251,
+      "num_shlokas": 26,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1579_tagged.json"
+    },
+    "1580": {
+      "chapter_number": 1580,
+      "global_number": 1580,
+      "local_number": 252,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1580_tagged.json"
+    },
+    "1581": {
+      "chapter_number": 1581,
+      "global_number": 1581,
+      "local_number": 253,
+      "num_shlokas": 51,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1581_tagged.json"
+    },
+    "1582": {
+      "chapter_number": 1582,
+      "global_number": 1582,
+      "local_number": 254,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1582_tagged.json"
+    },
+    "1583": {
+      "chapter_number": 1583,
+      "global_number": 1583,
+      "local_number": 255,
+      "num_shlokas": 41,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1583_tagged.json"
+    },
+    "1584": {
+      "chapter_number": 1584,
+      "global_number": 1584,
+      "local_number": 256,
+      "num_shlokas": 22,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1584_tagged.json"
+    },
+    "1585": {
+      "chapter_number": 1585,
+      "global_number": 1585,
+      "local_number": 257,
+      "num_shlokas": 13,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1585_tagged.json"
+    },
+    "1586": {
+      "chapter_number": 1586,
+      "global_number": 1586,
+      "local_number": 258,
+      "num_shlokas": 75,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1586_tagged.json"
+    },
+    "1587": {
+      "chapter_number": 1587,
+      "global_number": 1587,
+      "local_number": 259,
+      "num_shlokas": 35,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1587_tagged.json"
+    },
+    "1588": {
+      "chapter_number": 1588,
+      "global_number": 1588,
+      "local_number": 260,
+      "num_shlokas": 39,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1588_tagged.json"
+    },
+    "1589": {
+      "chapter_number": 1589,
+      "global_number": 1589,
+      "local_number": 261,
+      "num_shlokas": 61,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1589_tagged.json"
+    },
+    "1590": {
+      "chapter_number": 1590,
+      "global_number": 1590,
+      "local_number": 262,
+      "num_shlokas": 45,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1590_tagged.json"
+    },
+    "1591": {
+      "chapter_number": 1591,
+      "global_number": 1591,
+      "local_number": 263,
+      "num_shlokas": 55,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1591_tagged.json"
+    },
+    "1592": {
+      "chapter_number": 1592,
+      "global_number": 1592,
+      "local_number": 264,
+      "num_shlokas": 19,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1592_tagged.json"
+    },
+    "1593": {
+      "chapter_number": 1593,
+      "global_number": 1593,
+      "local_number": 265,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1593_tagged.json"
+    },
+    "1594": {
+      "chapter_number": 1594,
+      "global_number": 1594,
+      "local_number": 266,
+      "num_shlokas": 19,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1594_tagged.json"
+    },
+    "1595": {
+      "chapter_number": 1595,
+      "global_number": 1595,
+      "local_number": 267,
+      "num_shlokas": 38,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1595_tagged.json"
+    },
+    "1596": {
+      "chapter_number": 1596,
+      "global_number": 1596,
+      "local_number": 268,
+      "num_shlokas": 14,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1596_tagged.json"
+    },
+    "1597": {
+      "chapter_number": 1597,
+      "global_number": 1597,
+      "local_number": 269,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1597_tagged.json"
+    },
+    "1598": {
+      "chapter_number": 1598,
+      "global_number": 1598,
+      "local_number": 270,
+      "num_shlokas": 34,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1598_tagged.json"
+    },
+    "1599": {
+      "chapter_number": 1599,
+      "global_number": 1599,
+      "local_number": 271,
+      "num_shlokas": 69,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1599_tagged.json"
+    },
+    "1600": {
+      "chapter_number": 1600,
+      "global_number": 1600,
+      "local_number": 272,
+      "num_shlokas": 44,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1600_tagged.json"
+    },
+    "1601": {
+      "chapter_number": 1601,
+      "global_number": 1601,
+      "local_number": 273,
+      "num_shlokas": 63,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1601_tagged.json"
+    },
+    "1602": {
+      "chapter_number": 1602,
+      "global_number": 1602,
+      "local_number": 274,
+      "num_shlokas": 60,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1602_tagged.json"
+    },
+    "1603": {
+      "chapter_number": 1603,
+      "global_number": 1603,
+      "local_number": 275,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1603_tagged.json"
+    },
+    "1604": {
+      "chapter_number": 1604,
+      "global_number": 1604,
+      "local_number": 276,
+      "num_shlokas": 58,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1604_tagged.json"
+    },
+    "1605": {
+      "chapter_number": 1605,
+      "global_number": 1605,
+      "local_number": 277,
+      "num_shlokas": 47,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1605_tagged.json"
+    },
+    "1606": {
+      "chapter_number": 1606,
+      "global_number": 1606,
+      "local_number": 278,
+      "num_shlokas": 38,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1606_tagged.json"
+    },
+    "1607": {
+      "chapter_number": 1607,
+      "global_number": 1607,
+      "local_number": 279,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1607_tagged.json"
+    },
+    "1608": {
+      "chapter_number": 1608,
+      "global_number": 1608,
+      "local_number": 280,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1608_tagged.json"
+    },
+    "1609": {
+      "chapter_number": 1609,
+      "global_number": 1609,
+      "local_number": 281,
+      "num_shlokas": 23,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1609_tagged.json"
+    },
+    "1610": {
+      "chapter_number": 1610,
+      "global_number": 1610,
+      "local_number": 282,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1610_tagged.json"
+    },
+    "1611": {
+      "chapter_number": 1611,
+      "global_number": 1611,
+      "local_number": 283,
+      "num_shlokas": 30,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1611_tagged.json"
+    },
+    "1612": {
+      "chapter_number": 1612,
+      "global_number": 1612,
+      "local_number": 284,
+      "num_shlokas": 39,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1612_tagged.json"
+    },
+    "1613": {
+      "chapter_number": 1613,
+      "global_number": 1613,
+      "local_number": 285,
+      "num_shlokas": 39,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1613_tagged.json"
+    },
+    "1614": {
+      "chapter_number": 1614,
+      "global_number": 1614,
+      "local_number": 286,
+      "num_shlokas": 41,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1614_tagged.json"
+    },
+    "1615": {
+      "chapter_number": 1615,
+      "global_number": 1615,
+      "local_number": 287,
+      "num_shlokas": 45,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1615_tagged.json"
+    },
+    "1616": {
+      "chapter_number": 1616,
+      "global_number": 1616,
+      "local_number": 288,
+      "num_shlokas": 45,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1616_tagged.json"
+    },
+    "1617": {
+      "chapter_number": 1617,
+      "global_number": 1617,
+      "local_number": 289,
+      "num_shlokas": 62,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1617_tagged.json"
+    },
+    "1618": {
+      "chapter_number": 1618,
+      "global_number": 1618,
+      "local_number": 290,
+      "num_shlokas": 110,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1618_tagged.json"
+    },
+    "1619": {
+      "chapter_number": 1619,
+      "global_number": 1619,
+      "local_number": 291,
+      "num_shlokas": 48,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1619_tagged.json"
+    },
+    "1620": {
+      "chapter_number": 1620,
+      "global_number": 1620,
+      "local_number": 292,
+      "num_shlokas": 48,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1620_tagged.json"
+    },
+    "1621": {
+      "chapter_number": 1621,
+      "global_number": 1621,
+      "local_number": 293,
+      "num_shlokas": 50,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1621_tagged.json"
+    },
+    "1622": {
+      "chapter_number": 1622,
+      "global_number": 1622,
+      "local_number": 294,
+      "num_shlokas": 49,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1622_tagged.json"
+    },
+    "1623": {
+      "chapter_number": 1623,
+      "global_number": 1623,
+      "local_number": 295,
+      "num_shlokas": 46,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1623_tagged.json"
+    },
+    "1624": {
+      "chapter_number": 1624,
+      "global_number": 1624,
+      "local_number": 296,
+      "num_shlokas": 50,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1624_tagged.json"
+    },
+    "1625": {
+      "chapter_number": 1625,
+      "global_number": 1625,
+      "local_number": 297,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1625_tagged.json"
+    },
+    "1626": {
+      "chapter_number": 1626,
+      "global_number": 1626,
+      "local_number": 298,
+      "num_shlokas": 26,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1626_tagged.json"
+    },
+    "1627": {
+      "chapter_number": 1627,
+      "global_number": 1627,
+      "local_number": 299,
+      "num_shlokas": 18,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1627_tagged.json"
+    },
+    "1628": {
+      "chapter_number": 1628,
+      "global_number": 1628,
+      "local_number": 300,
+      "num_shlokas": 17,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1628_tagged.json"
+    },
+    "1629": {
+      "chapter_number": 1629,
+      "global_number": 1629,
+      "local_number": 301,
+      "num_shlokas": 27,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1629_tagged.json"
+    },
+    "1630": {
+      "chapter_number": 1630,
+      "global_number": 1630,
+      "local_number": 302,
+      "num_shlokas": 18,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1630_tagged.json"
+    },
+    "1631": {
+      "chapter_number": 1631,
+      "global_number": 1631,
+      "local_number": 303,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1631_tagged.json"
+    },
+    "1632": {
+      "chapter_number": 1632,
+      "global_number": 1632,
+      "local_number": 304,
+      "num_shlokas": 27,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1632_tagged.json"
+    },
+    "1633": {
+      "chapter_number": 1633,
+      "global_number": 1633,
+      "local_number": 305,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1633_tagged.json"
+    },
+    "1634": {
+      "chapter_number": 1634,
+      "global_number": 1634,
+      "local_number": 306,
+      "num_shlokas": 108,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1634_tagged.json"
+    },
+    "1635": {
+      "chapter_number": 1635,
+      "global_number": 1635,
+      "local_number": 307,
+      "num_shlokas": 14,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1635_tagged.json"
+    },
+    "1636": {
+      "chapter_number": 1636,
+      "global_number": 1636,
+      "local_number": 308,
+      "num_shlokas": 191,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1636_tagged.json"
+    },
+    "1637": {
+      "chapter_number": 1637,
+      "global_number": 1637,
+      "local_number": 309,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1637_tagged.json"
+    },
+    "1638": {
+      "chapter_number": 1638,
+      "global_number": 1638,
+      "local_number": 310,
+      "num_shlokas": 29,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1638_tagged.json"
+    },
+    "1639": {
+      "chapter_number": 1639,
+      "global_number": 1639,
+      "local_number": 311,
+      "num_shlokas": 27,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1639_tagged.json"
+    },
+    "1640": {
+      "chapter_number": 1640,
+      "global_number": 1640,
+      "local_number": 312,
+      "num_shlokas": 46,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1640_tagged.json"
+    },
+    "1641": {
+      "chapter_number": 1641,
+      "global_number": 1641,
+      "local_number": 313,
+      "num_shlokas": 51,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1641_tagged.json"
+    },
+    "1642": {
+      "chapter_number": 1642,
+      "global_number": 1642,
+      "local_number": 314,
+      "num_shlokas": 49,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1642_tagged.json"
+    },
+    "1643": {
+      "chapter_number": 1643,
+      "global_number": 1643,
+      "local_number": 315,
+      "num_shlokas": 57,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1643_tagged.json"
+    },
+    "1644": {
+      "chapter_number": 1644,
+      "global_number": 1644,
+      "local_number": 316,
+      "num_shlokas": 59,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1644_tagged.json"
+    },
+    "1645": {
+      "chapter_number": 1645,
+      "global_number": 1645,
+      "local_number": 317,
+      "num_shlokas": 30,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1645_tagged.json"
+    },
+    "1646": {
+      "chapter_number": 1646,
+      "global_number": 1646,
+      "local_number": 318,
+      "num_shlokas": 63,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1646_tagged.json"
+    },
+    "1647": {
+      "chapter_number": 1647,
+      "global_number": 1647,
+      "local_number": 319,
+      "num_shlokas": 29,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1647_tagged.json"
+    },
+    "1648": {
+      "chapter_number": 1648,
+      "global_number": 1648,
+      "local_number": 320,
+      "num_shlokas": 41,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1648_tagged.json"
+    },
+    "1649": {
+      "chapter_number": 1649,
+      "global_number": 1649,
+      "local_number": 321,
+      "num_shlokas": 43,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1649_tagged.json"
+    },
+    "1650": {
+      "chapter_number": 1650,
+      "global_number": 1650,
+      "local_number": 322,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1650_tagged.json"
+    },
+    "1651": {
+      "chapter_number": 1651,
+      "global_number": 1651,
+      "local_number": 323,
+      "num_shlokas": 57,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1651_tagged.json"
+    },
+    "1652": {
+      "chapter_number": 1652,
+      "global_number": 1652,
+      "local_number": 324,
+      "num_shlokas": 39,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1652_tagged.json"
+    },
+    "1653": {
+      "chapter_number": 1653,
+      "global_number": 1653,
+      "local_number": 325,
+      "num_shlokas": 4,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1653_tagged.json"
+    },
+    "1654": {
+      "chapter_number": 1654,
+      "global_number": 1654,
+      "local_number": 326,
+      "num_shlokas": 124,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1654_tagged.json"
+    },
+    "1655": {
+      "chapter_number": 1655,
+      "global_number": 1655,
+      "local_number": 327,
+      "num_shlokas": 107,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1655_tagged.json"
+    },
+    "1656": {
+      "chapter_number": 1656,
+      "global_number": 1656,
+      "local_number": 328,
+      "num_shlokas": 53,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1656_tagged.json"
+    },
+    "1657": {
+      "chapter_number": 1657,
+      "global_number": 1657,
+      "local_number": 329,
+      "num_shlokas": 50,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1657_tagged.json"
+    },
+    "1658": {
+      "chapter_number": 1658,
+      "global_number": 1658,
+      "local_number": 330,
+      "num_shlokas": 71,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1658_tagged.json"
+    },
+    "1659": {
+      "chapter_number": 1659,
+      "global_number": 1659,
+      "local_number": 331,
+      "num_shlokas": 52,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1659_tagged.json"
+    },
+    "1660": {
+      "chapter_number": 1660,
+      "global_number": 1660,
+      "local_number": 332,
+      "num_shlokas": 26,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1660_tagged.json"
+    },
+    "1661": {
+      "chapter_number": 1661,
+      "global_number": 1661,
+      "local_number": 333,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1661_tagged.json"
+    },
+    "1662": {
+      "chapter_number": 1662,
+      "global_number": 1662,
+      "local_number": 334,
+      "num_shlokas": 17,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1662_tagged.json"
+    },
+    "1663": {
+      "chapter_number": 1663,
+      "global_number": 1663,
+      "local_number": 335,
+      "num_shlokas": 89,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1663_tagged.json"
+    },
+    "1664": {
+      "chapter_number": 1664,
+      "global_number": 1664,
+      "local_number": 336,
+      "num_shlokas": 82,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1664_tagged.json"
+    },
+    "1665": {
+      "chapter_number": 1665,
+      "global_number": 1665,
+      "local_number": 337,
+      "num_shlokas": 69,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1665_tagged.json"
+    },
+    "1666": {
+      "chapter_number": 1666,
+      "global_number": 1666,
+      "local_number": 338,
+      "num_shlokas": 25,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1666_tagged.json"
+    },
+    "1667": {
+      "chapter_number": 1667,
+      "global_number": 1667,
+      "local_number": 339,
+      "num_shlokas": 21,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1667_tagged.json"
+    },
+    "1668": {
+      "chapter_number": 1668,
+      "global_number": 1668,
+      "local_number": 340,
+      "num_shlokas": 11,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1668_tagged.json"
+    },
+    "1669": {
+      "chapter_number": 1669,
+      "global_number": 1669,
+      "local_number": 341,
+      "num_shlokas": 9,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1669_tagged.json"
+    },
+    "1670": {
+      "chapter_number": 1670,
+      "global_number": 1670,
+      "local_number": 342,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1670_tagged.json"
+    },
+    "1671": {
+      "chapter_number": 1671,
+      "global_number": 1671,
+      "local_number": 343,
+      "num_shlokas": 11,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1671_tagged.json"
+    },
+    "1672": {
+      "chapter_number": 1672,
+      "global_number": 1672,
+      "local_number": 344,
+      "num_shlokas": 10,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1672_tagged.json"
+    },
+    "1673": {
+      "chapter_number": 1673,
+      "global_number": 1673,
+      "local_number": 345,
+      "num_shlokas": 13,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1673_tagged.json"
+    },
+    "1674": {
+      "chapter_number": 1674,
+      "global_number": 1674,
+      "local_number": 346,
+      "num_shlokas": 13,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1674_tagged.json"
+    },
+    "1675": {
+      "chapter_number": 1675,
+      "global_number": 1675,
+      "local_number": 347,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1675_tagged.json"
+    },
+    "1676": {
+      "chapter_number": 1676,
+      "global_number": 1676,
+      "local_number": 348,
+      "num_shlokas": 20,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1676_tagged.json"
+    },
+    "1677": {
+      "chapter_number": 1677,
+      "global_number": 1677,
+      "local_number": 349,
+      "num_shlokas": 16,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1677_tagged.json"
+    },
+    "1678": {
+      "chapter_number": 1678,
+      "global_number": 1678,
+      "local_number": 350,
+      "num_shlokas": 15,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1678_tagged.json"
+    },
+    "1679": {
+      "chapter_number": 1679,
+      "global_number": 1679,
+      "local_number": 351,
+      "num_shlokas": 6,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1679_tagged.json"
+    },
+    "1680": {
+      "chapter_number": 1680,
+      "global_number": 1680,
+      "local_number": 352,
+      "num_shlokas": 10,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1680_tagged.json"
+    },
+    "1681": {
+      "chapter_number": 1681,
+      "global_number": 1681,
+      "local_number": 353,
+      "num_shlokas": 9,
+      "file": "subparva_86_moksha_dharma_parva/chapter_1681_tagged.json"
+    }
+  }
+}

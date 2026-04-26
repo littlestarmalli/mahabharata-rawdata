@@ -1,0 +1,90 @@
+{
+  "name": "Kichaka-vadha Parva",
+  "subparva_number": 46,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 353
+  },
+  "note": "Vadha means to kill and is also the act of slaying. Kichaka is Virata�s general and Sudeshna�s brother and lusts after Droupadi. Kichaka is killed by Bhima, which explains the name of this section.",
+  "chapters": {
+    "609": {
+      "chapter_number": 609,
+      "global_number": 609,
+      "local_number": 13,
+      "num_shlokas": 21,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_609.json"
+    },
+    "610": {
+      "chapter_number": 610,
+      "global_number": 610,
+      "local_number": 14,
+      "num_shlokas": 21,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_610.json"
+    },
+    "611": {
+      "chapter_number": 611,
+      "global_number": 611,
+      "local_number": 15,
+      "num_shlokas": 41,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_611.json"
+    },
+    "612": {
+      "chapter_number": 612,
+      "global_number": 612,
+      "local_number": 16,
+      "num_shlokas": 16,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_612.json"
+    },
+    "613": {
+      "chapter_number": 613,
+      "global_number": 613,
+      "local_number": 17,
+      "num_shlokas": 29,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_613.json"
+    },
+    "614": {
+      "chapter_number": 614,
+      "global_number": 614,
+      "local_number": 18,
+      "num_shlokas": 36,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_614.json"
+    },
+    "615": {
+      "chapter_number": 615,
+      "global_number": 615,
+      "local_number": 19,
+      "num_shlokas": 30,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_615.json"
+    },
+    "616": {
+      "chapter_number": 616,
+      "global_number": 616,
+      "local_number": 20,
+      "num_shlokas": 34,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_616.json"
+    },
+    "617": {
+      "chapter_number": 617,
+      "global_number": 617,
+      "local_number": 21,
+      "num_shlokas": 67,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_617.json"
+    },
+    "618": {
+      "chapter_number": 618,
+      "global_number": 618,
+      "local_number": 22,
+      "num_shlokas": 30,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_618.json"
+    },
+    "619": {
+      "chapter_number": 619,
+      "global_number": 619,
+      "local_number": 23,
+      "num_shlokas": 28,
+      "file": "subparva_46_kichaka_vadha_parva/chapter_619.json"
+    }
+  }
+}

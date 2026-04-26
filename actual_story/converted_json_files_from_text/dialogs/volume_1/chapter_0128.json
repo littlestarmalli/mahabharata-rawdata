@@ -1,0 +1,158 @@
+{
+  "chapter": 128,
+  "local": 128,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O ruler of the earth! One day, Drona the preceptor assembled his pupils together and asked all of them for his fee{31}. “Capture Drupada, the king of Panchala, in a raid and bring him here to me. O fortunate ones! That will be my greatest dakshina.” Agreeing, all of them armed themselves with weapons and quickly climbed into their chariots and set out, accompanied by Drona, in order to pay the preceptor's fee. Those bulls among men destroyed Panchala and went to the capital of the immensely powerful Drupada and attacked it. O bull of the Bharata lineage! Thus capturing Yajnasena Drupada and his advisers in battle, they brought him to Drona.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O ruler of the earth! One day, Drona the preceptor assembled his pupils together and asked all of them for his fee{31}. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Capture Drupada, the king of Panchala, in a raid and bring him here to me. O fortunate ones! That will be my greatest dakshina.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Agreeing, all of them armed themselves with weapons and quickly climbed into their chariots and set out, accompanied by Drona, in order to pay the preceptor's fee. Those bulls among men destroyed Panchala and went to the capital of the immensely powerful Drupada and attacked it. O bull of the Bharata lineage! Thus capturing Yajnasena Drupada and his advisers in battle, they brought him to Drona.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Seeing him{32} humiliated and robbed of his riches and under his complete control, Drona remembered his earlier enmity with Drupada and said, “I have laid waste your kingdom and your capital. Now that you have received your life at an enemy's hand, do you wish to revive our old friendship?” Having said this, he smiled a little, arrived at a decision and continued, “O king! Do not fear for your life. We Brahmanas always forgive. O bull among the Kshatriyas! From the days when we were boys and played in the hermitage, my love and affection for you have increased. O bull among men! I ask for your friendship once again. O king! As a boon, I am granting you half of your kingdom. O Yajnasena! How can one who is not a king be a friend to one who is a king? Therefore, I am retaining half of your kingdom. You will be the king of the region that is to the south of the Bhagirathi and I will be the king on the northern side. O Panchala! If you so desire, from now on, know me as your friend.” Drupada replied, “O Brahmana! O great-souled and brave one! This is not surprising. I am pleased to be your friend and I wish to give you pleasure eternally.” O descendant of the Bharata lineage! At these words, Drona set him free. He honoured him with a happy heart and returned half his kingdom.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Seeing him{32} humiliated and robbed of his riches and under his complete control, Drona remembered his earlier enmity with Drupada and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have laid waste your kingdom and your capital. Now that you have received your life at an enemy's hand, do you wish to revive our old friendship?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having said this, he smiled a little, arrived at a decision and continued, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Do not fear for your life. We Brahmanas always forgive. O bull among the Kshatriyas! From the days when we were boys and played in the hermitage, my love and affection for you have increased. O bull among men! I ask for your friendship once again. O king! As a boon, I am granting you half of your kingdom. O Yajnasena! How can one who is not a king be a friend to one who is a king? Therefore, I am retaining half of your kingdom. You will be the king of the region that is to the south of the Bhagirathi and I will be the king on the northern side. O Panchala! If you so desire, from now on, know me as your friend.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Drupada replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drupada",
+          "introduces_label": "Drupada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brahmana! O great-souled and brave one! This is not surprising. I am pleased to be your friend and I wish to give you pleasure eternally.”",
+          "speaker": "@drupada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O descendant of the Bharata lineage! At these words, Drona set him free. He honoured him with a happy heart and returned half his kingdom.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Heartbroken, Drupada lived in a capital named Kampilya, in the region known as Makandi, on the banks of the Ganga, with its towns and countryside. He ruled over the southern part of Panchala, up to the banks of the river Charmanvati. Thinking about his enmity with Drona, he could ﬁnd no peace. He did not see any way of vanquishing Drona with Kshatriya power and he knew himself to be inferior to the strength of Brahmana power. Therefore, he bore his grievance, waiting for the birth of a son. O king! Drona lived in Ahichhatra, which had towns and a countryside, and was won in battle by Partha and handed over to him.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Heartbroken, Drupada lived in a capital named Kampilya, in the region known as Makandi, on the banks of the Ganga, with its towns and countryside. He ruled over the southern part of Panchala, up to the banks of the river Charmanvati. Thinking about his enmity with Drona, he could ﬁnd no peace. He did not see any way of vanquishing Drona with Kshatriya power and he knew himself to be inferior to the strength of Brahmana power. Therefore, he bore his grievance, waiting for the birth of a son. O king! Drona lived in Ahichhatra, which had towns and a countryside, and was won in battle by Partha and handed over to him.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

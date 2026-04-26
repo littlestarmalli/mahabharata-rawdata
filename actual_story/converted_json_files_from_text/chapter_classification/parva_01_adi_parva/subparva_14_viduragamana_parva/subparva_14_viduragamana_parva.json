@@ -1,0 +1,62 @@
+{
+  "name": "Viduragamana Parva",
+  "subparva_number": 14,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 7,
+    "num_shlokas": 174
+  },
+  "note": "Agamana means arrival or coming and this parva is about Vidura�s arrival.",
+  "chapters": {
+    "192": {
+      "chapter_number": 192,
+      "global_number": 192,
+      "local_number": 192,
+      "num_shlokas": 29,
+      "file": "subparva_14_viduragamana_parva/chapter_192.json"
+    },
+    "193": {
+      "chapter_number": 193,
+      "global_number": 193,
+      "local_number": 193,
+      "num_shlokas": 19,
+      "file": "subparva_14_viduragamana_parva/chapter_193.json"
+    },
+    "194": {
+      "chapter_number": 194,
+      "global_number": 194,
+      "local_number": 194,
+      "num_shlokas": 25,
+      "file": "subparva_14_viduragamana_parva/chapter_194.json"
+    },
+    "195": {
+      "chapter_number": 195,
+      "global_number": 195,
+      "local_number": 195,
+      "num_shlokas": 19,
+      "file": "subparva_14_viduragamana_parva/chapter_195.json"
+    },
+    "196": {
+      "chapter_number": 196,
+      "global_number": 196,
+      "local_number": 196,
+      "num_shlokas": 28,
+      "file": "subparva_14_viduragamana_parva/chapter_196.json"
+    },
+    "197": {
+      "chapter_number": 197,
+      "global_number": 197,
+      "local_number": 197,
+      "num_shlokas": 29,
+      "file": "subparva_14_viduragamana_parva/chapter_197.json"
+    },
+    "198": {
+      "chapter_number": 198,
+      "global_number": 198,
+      "local_number": 198,
+      "num_shlokas": 25,
+      "file": "subparva_14_viduragamana_parva/chapter_198.json"
+    }
+  }
+}

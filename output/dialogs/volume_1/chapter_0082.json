@@ -1,0 +1,88 @@
+{
+  "chapter": 82,
+  "local": 82,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When that lord of kings lived in heaven among the gods, the thirty gods, the saddhyas, the maruts and the vasus paid him homage. The performer of sacred deeds often went from the world of the gods to Brahma's world. It has been said that the lord of the earth lived there for a very long time.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When that lord of kings lived in heaven among the gods, the thirty gods, the saddhyas, the maruts and the vasus paid him homage. The performer of sacred deeds often went from the world of the gods to Brahma's world. It has been said that the lord of the earth lived there for a very long time.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘One day, Yayati, supreme among kings, went to Shakra and in the course of the conversation Shakra asked the lord of the earth, “O king! What did you tell Puru when he accepted your old age and roamed the earth and when you gave him the kingdom? Tell me truly.” Yayati replied, “I told him that he would be the king of the earth in the central region, between the rivers Ganga and Yamuna. His brothers would rule over the other regions. I told him that men who possess no anger are superior to those who have anger, men with forgiveness are superior to those who do not forgive, that men are superior to animals and the learned to the ignorant. If abused, one should not abuse back in turn. If not suppressed, anger burns one's good deeds. One should not cause pain to others through cruel words. One should not cause fear to those who are worse off. One should not utter words that hurt and cause pain to others, taking one to hell. One who wounds another through the thorn of harsh, sharp and abrasive speech is deserted by Lakshmi and bears evil in his mouth. A righteous man should always be worshipped in the front. A righteous man should protect one's back. One should always disregard the cruel words of wicked ones. Cruel words issue from the mouth like arrows and cause hurt, night and day. When they descend, they strike the innermost parts and learned ones never release them on others. In the three worlds, there is nothing that paciﬁes as much as compassion, friendship towards beings, charity and sweet words. Therefore, one should always use words that pacify and never those that are harsh. One should honour those deserving of respect, always give, and never ask.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘One day, Yayati, supreme among kings, went to Shakra and in the course of the conversation Shakra asked the lord of the earth, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! What did you tell Puru when he accepted your old age and roamed the earth and when you gave him the kingdom? Tell me truly.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yayati replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I told him that he would be the king of the earth in the central region, between the rivers Ganga and Yamuna. His brothers would rule over the other regions. I told him that men who possess no anger are superior to those who have anger, men with forgiveness are superior to those who do not forgive, that men are superior to animals and the learned to the ignorant. If abused, one should not abuse back in turn. If not suppressed, anger burns one's good deeds. One should not cause pain to others through cruel words. One should not cause fear to those who are worse off. One should not utter words that hurt and cause pain to others, taking one to hell. One who wounds another through the thorn of harsh, sharp and abrasive speech is deserted by Lakshmi and bears evil in his mouth. A righteous man should always be worshipped in the front. A righteous man should protect one's back. One should always disregard the cruel words of wicked ones. Cruel words issue from the mouth like arrows and cause hurt, night and day. When they descend, they strike the innermost parts and learned ones never release them on others. In the three worlds, there is nothing that paciﬁes as much as compassion, friendship towards beings, charity and sweet words. Therefore, one should always use words that pacify and never those that are harsh. One should honour those deserving of respect, always give, and never ask.’",
+          "speaker": "@yayati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

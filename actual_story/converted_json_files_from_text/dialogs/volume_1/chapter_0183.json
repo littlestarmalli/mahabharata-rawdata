@@ -1,0 +1,118 @@
+{
+  "chapter": 183,
+  "local": 183,
+  "shlokas": 9,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Hearing the words of their eldest brother, all of Pandu's sons, of inﬁnite energy, were pleased and began to think about the purport of those words. Suspecting them to be the foremost of the Kurus, the chief of the Vrishnis{43} and Rohini's son{44} then came to the potter's house, where those foremost among men were living. Krishna and Rohini's son saw Ajatashatru{45}, with long and thick arms, seated there. In a circle around him sat the others, like blazing ﬁres. Vasudeva went to Kunti's son, foremost among those who follow dharma. He touched with his hands the feet of King Ajamidha{46} Yudhishthira and said, “I am Krishna.” Rohini's son went to Yudhishthira and did the same. Seeing them, the descendants of Kuru were greatly delighted. O chief of the Bharata lineage! The chiefs of the Yadu lineage then touched the feet of their father's sister{47}.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Hearing the words of their eldest brother, all of Pandu's sons, of inﬁnite energy, were pleased and began to think about the purport of those words. Suspecting them to be the foremost of the Kurus, the chief of the Vrishnis{43} and Rohini's son{44} then came to the potter's house, where those foremost among men were living. Krishna and Rohini's son saw Ajatashatru{45}, with long and thick arms, seated there. In a circle around him sat the others, like blazing ﬁres. Vasudeva went to Kunti's son, foremost among those who follow dharma. He touched with his hands the feet of King Ajamidha{46} Yudhishthira and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am Krishna.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Rohini's son went to Yudhishthira and did the same. Seeing them, the descendants of Kuru were greatly delighted. O chief of the Bharata lineage! The chiefs of the Yadu lineage then touched the feet of their father's sister{47}.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Seeing Krishna, Ajatashatru, chief among the Kurus, asked him about his welfare and said, “O Vasudeva! When we are living here in disguise, how did you manage to track us down?” Vasudeva smiled and replied, “O king! Even when ﬁre is covered, it comes out. Who but the Pandavas can display such valour among men? O destroyers of enemies! It was through good fortune that you escaped from that ﬁre. It was through good fortune that Dhritarashtra's evil son and his advisers did not succeed in their desires. Be blessed. Prosper, the way a ﬁre hidden in a cave gradually expands and spreads. Permit us to return to camp. Otherwise, the kings may discover you.” Then, taking permission from the Pandavas, the eternally radiant one quickly went away, accompanied by Baladeva.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Seeing Krishna, Ajatashatru, chief among the Kurus, asked him about his welfare and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Vasudeva! When we are living here in disguise, how did you manage to track us down?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Vasudeva smiled and replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "vasudeva_smiled",
+          "introduces_label": "Vasudeva smiled",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Even when ﬁre is covered, it comes out. Who but the Pandavas can display such valour among men? O destroyers of enemies! It was through good fortune that you escaped from that ﬁre. It was through good fortune that Dhritarashtra's evil son and his advisers did not succeed in their desires. Be blessed. Prosper, the way a ﬁre hidden in a cave gradually expands and spreads. Permit us to return to camp. Otherwise, the kings may discover you.”",
+          "speaker": "vasudeva_smiled",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then, taking permission from the Pandavas, the eternally radiant one quickly went away, accompanied by Baladeva.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

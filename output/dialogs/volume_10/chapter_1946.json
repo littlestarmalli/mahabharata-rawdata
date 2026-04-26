@@ -1,0 +1,96 @@
+{
+  "chapter": 1946,
+  "local": 15,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Thus addressed by the aged Kouravya king, the inhabitants of the city and the countryside were almost senseless. The king saw that they were standing in silence, their voices choked with tears. King Dhritarashtra again spoke to them. “O excellent ones! I am aged. My sons have been slain. I am lamenting in many ways. I am distressed. With my lawful wife, who knows about dharma, I have obtained the permission of my father, Krishna Dvaipayana to go to the forest. The king, who knows about dharma, has also agreed. O unblemished ones! With my head bowed down, I am again beseeching you, along with Gandhari. You should grant us permission.” O king! Hearing the piteous words of the king of the Kurus, all those who had assembled from Kurujangala wept. They covered their faces with their hands and their upper garments. Tormented by grief, like fathers and mothers{40}, they wept for a while. At the prospect of Dhritarashtra's departure, their hearts were empty. Because of the misery they bore, it was as if they had lost their senses, at the prospect of being separated from the king of the Kurus. But they made a great deal of effort and controlled it. They spoke softly to each other. O king! All of them then got together, chose a brahmana, and charged him with the task of conveying their own words to the king. He was aged, revered and accomplished about artha. O king! He was learned about many hymns. His name was Samba and he sought to speak.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus addressed by the aged Kouravya king, the inhabitants of the city and the countryside were almost senseless. The king saw that they were standing in silence, their voices choked with tears. King Dhritarashtra again spoke to them. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O excellent ones! I am aged. My sons have been slain. I am lamenting in many ways. I am distressed. With my lawful wife, who knows about dharma, I have obtained the permission of my father, Krishna Dvaipayana to go to the forest. The king, who knows about dharma, has also agreed. O unblemished ones! With my head bowed down, I am again beseeching you, along with Gandhari. You should grant us permission.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! Hearing the piteous words of the king of the Kurus, all those who had assembled from Kurujangala wept. They covered their faces with their hands and their upper garments. Tormented by grief, like fathers and mothers{40}, they wept for a while. At the prospect of Dhritarashtra's departure, their hearts were empty. Because of the misery they bore, it was as if they had lost their senses, at the prospect of being separated from the king of the Kurus. But they made a great deal of effort and controlled it. They spoke softly to each other. O king! All of them then got together, chose a brahmana, and charged him with the task of conveying their own words to the king. He was aged, revered and accomplished about artha. O king! He was learned about many hymns. His name was Samba and he sought to speak.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The brahmana was intelligent and eloquent. He took the permission of the great king and the entire assembly and spoke to the king. “O king! These people have entrusted their words to me. O brave one! O lord of men! I am telling you those words. Listen. O Indra among kings! O lord! Everything that you have said is true. There is no falsehood in your words. We wish each other well. In this royal lineage, there has been no king who has not protected the subjects or has not been loved by the subjects. You have protected us like a father and like a brother. O king! Nor has Duryodhana done anything that is improper. O great king! Act in accordance with what the sage who is Satyavati's son, who knows about dharma, has said. He is our supreme preceptor. Abandoned by you, we will soon be overcome with sorrow and grief. O king! We will be without your hundreds of qualities. O king! We were protected by Shantanu, King Chitrangada and by your father, Bhishma, whose valour was deep. With the help of your intelligence, King Pandu also protected us in that way. In that fashion, King Duryodhana also protected us well. O king! Your son has not committed the slightest bit of falsehood. We trusted that king as if he was our own father. You know that perfectly well. O king! Protected by Kunti's intelligent son and sustained by his fortitude, we have enjoyed happiness for thousands of years{41}. Your lineage has come down from ancient rajarshis and has Kuru, Samvarana, the intelligent Bharata and others{42}. The one with dharma in his soul{43} followed good conduct and gave away large quantities of donations. O great king! One cannot speak about the slightest bit of deviation in him. Protected and nurtured by you, we have always lived in great happiness. There has not been the slightest bit of falsehood in you and your son. You have spoken about Duryodhana's role in the destruction of the kin. O descendant of the Kuru lineage! In that connection, this is what I have to convey to you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The brahmana was intelligent and eloquent. He took the permission of the great king and the entire assembly and spoke to the king. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! These people have entrusted their words to me. O brave one! O lord of men! I am telling you those words. Listen. O Indra among kings! O lord! Everything that you have said is true. There is no falsehood in your words. We wish each other well. In this royal lineage, there has been no king who has not protected the subjects or has not been loved by the subjects. You have protected us like a father and like a brother. O king! Nor has Duryodhana done anything that is improper. O great king! Act in accordance with what the sage who is Satyavati's son, who knows about dharma, has said. He is our supreme preceptor. Abandoned by you, we will soon be overcome with sorrow and grief. O king! We will be without your hundreds of qualities. O king! We were protected by Shantanu, King Chitrangada and by your father, Bhishma, whose valour was deep. With the help of your intelligence, King Pandu also protected us in that way. In that fashion, King Duryodhana also protected us well. O king! Your son has not committed the slightest bit of falsehood. We trusted that king as if he was our own father. You know that perfectly well. O king! Protected by Kunti's intelligent son and sustained by his fortitude, we have enjoyed happiness for thousands of years{41}. Your lineage has come down from ancient rajarshis and has Kuru, Samvarana, the intelligent Bharata and others{42}. The one with dharma in his soul{43} followed good conduct and gave away large quantities of donations. O great king! One cannot speak about the slightest bit of deviation in him. Protected and nurtured by you, we have always lived in great happiness. There has not been the slightest bit of falsehood in you and your son. You have spoken about Duryodhana's role in the destruction of the kin. O descendant of the Kuru lineage! In that connection, this is what I have to convey to you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

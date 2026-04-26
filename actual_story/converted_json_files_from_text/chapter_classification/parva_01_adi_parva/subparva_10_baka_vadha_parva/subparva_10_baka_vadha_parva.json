@@ -1,0 +1,69 @@
+{
+  "name": "Baka-vadha Parva",
+  "subparva_number": 10,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 8,
+    "num_shlokas": 206
+  },
+  "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+  "chapters": {
+    "145": {
+      "chapter_number": 145,
+      "global_number": 145,
+      "local_number": 145,
+      "num_shlokas": 40,
+      "file": "subparva_10_baka_vadha_parva/chapter_145.json"
+    },
+    "146": {
+      "chapter_number": 146,
+      "global_number": 146,
+      "local_number": 146,
+      "num_shlokas": 36,
+      "file": "subparva_10_baka_vadha_parva/chapter_146.json"
+    },
+    "147": {
+      "chapter_number": 147,
+      "global_number": 147,
+      "local_number": 147,
+      "num_shlokas": 24,
+      "file": "subparva_10_baka_vadha_parva/chapter_147.json"
+    },
+    "148": {
+      "chapter_number": 148,
+      "global_number": 148,
+      "local_number": 148,
+      "num_shlokas": 16,
+      "file": "subparva_10_baka_vadha_parva/chapter_148.json"
+    },
+    "149": {
+      "chapter_number": 149,
+      "global_number": 149,
+      "local_number": 149,
+      "num_shlokas": 20,
+      "file": "subparva_10_baka_vadha_parva/chapter_149.json"
+    },
+    "150": {
+      "chapter_number": 150,
+      "global_number": 150,
+      "local_number": 150,
+      "num_shlokas": 27,
+      "file": "subparva_10_baka_vadha_parva/chapter_150.json"
+    },
+    "151": {
+      "chapter_number": 151,
+      "global_number": 151,
+      "local_number": 151,
+      "num_shlokas": 24,
+      "file": "subparva_10_baka_vadha_parva/chapter_151.json"
+    },
+    "152": {
+      "chapter_number": 152,
+      "global_number": 152,
+      "local_number": 152,
+      "num_shlokas": 19,
+      "file": "subparva_10_baka_vadha_parva/chapter_152.json"
+    }
+  }
+}

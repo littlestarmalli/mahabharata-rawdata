@@ -1,0 +1,65 @@
+{
+  "chapter": 344,
+  "local": 47,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya said, ‘O sage! After having sent the brave Pandavas into exile, all these lamentations of King Dhritarashtra served no purpose. Why did the king agree with his son Duryodhana, whose intelligence is limited, and anger Pandu's sons, the maharathas? What did Pandu's sons eat when they lived in the forest? Tell me whether it was collected from the forest or cultivated.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O sage! After having sent the brave Pandavas into exile, all these lamentations of King Dhritarashtra served no purpose. Why did the king agree with his son Duryodhana, whose intelligence is limited, and anger Pandu's sons, the maharathas? What did Pandu's sons eat when they lived in the forest? Tell me whether it was collected from the forest or cultivated.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘Those bulls among men ate what was obtained from the forest and animals brought down with pure arrows, after having ﬁrst offered it to the brahmanas. O king! When those great archers and warriors dwelt in the forest, brahmanas with ﬁre{50}, and those without ﬁre, followed them there. There were ten thousand great-souled snataka brahmanas who knew about the means of salvation. Yudhishthira sustained them there. After killing ruru deer, black antelopes and other sacriﬁcial forest-dwelling animals with his bows, he offered them to brahmanas in accordance with the rituals. Not a single ill-complexioned or diseased person could be seen there. Nor was there anyone who was thin, weak, miserable or frightened. Dharmaraja Yudhishthira, supreme among the Kouravas, maintained them like his beloved sons, relatives or brothers from the same womb. Like a mother, the illustrious Droupadi ﬁrst served her husbands, then all the brahmanas, and then ate whatever food remained. For the sake of the meat of the deer, they wielded their bows and always made that race decay{51}—the king{52} towards the east, Bhimasena towards the south, the twins towards the west and also towards the north. Thus did they live in Kamyaka and ﬁve years passed. They were without Arjuna and were anxious about him. They engaged themselves in studying, meditating and sacriﬁcing.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those bulls among men ate what was obtained from the forest and animals brought down with pure arrows, after having ﬁrst offered it to the brahmanas. O king! When those great archers and warriors dwelt in the forest, brahmanas with ﬁre{50}, and those without ﬁre, followed them there. There were ten thousand great-souled snataka brahmanas who knew about the means of salvation. Yudhishthira sustained them there. After killing ruru deer, black antelopes and other sacriﬁcial forest-dwelling animals with his bows, he offered them to brahmanas in accordance with the rituals. Not a single ill-complexioned or diseased person could be seen there. Nor was there anyone who was thin, weak, miserable or frightened. Dharmaraja Yudhishthira, supreme among the Kouravas, maintained them like his beloved sons, relatives or brothers from the same womb. Like a mother, the illustrious Droupadi ﬁrst served her husbands, then all the brahmanas, and then ate whatever food remained. For the sake of the meat of the deer, they wielded their bows and always made that race decay{51}—the king{52} towards the east, Bhimasena towards the south, the twins towards the west and also towards the north. Thus did they live in Kamyaka and ﬁve years passed. They were without Arjuna and were anxious about him. They engaged themselves in studying, meditating and sacriﬁcing.’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

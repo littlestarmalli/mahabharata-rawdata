@@ -1,0 +1,65 @@
+{
+  "name": "Shishupala-vadha Parva",
+  "subparva_number": 26,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 191
+  },
+  "note": "Since vadha means killing this section is about the killing of Shishupala.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "262": {
+      "chapter_number": 262,
+      "global_number": 262,
+      "local_number": 37,
+      "num_shlokas": 15,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_262_tagged.json"
+    },
+    "263": {
+      "chapter_number": 263,
+      "global_number": 263,
+      "local_number": 38,
+      "num_shlokas": 40,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_263_tagged.json"
+    },
+    "264": {
+      "chapter_number": 264,
+      "global_number": 264,
+      "local_number": 39,
+      "num_shlokas": 20,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_264_tagged.json"
+    },
+    "265": {
+      "chapter_number": 265,
+      "global_number": 265,
+      "local_number": 40,
+      "num_shlokas": 23,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_265_tagged.json"
+    },
+    "266": {
+      "chapter_number": 266,
+      "global_number": 266,
+      "local_number": 41,
+      "num_shlokas": 33,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_266_tagged.json"
+    },
+    "267": {
+      "chapter_number": 267,
+      "global_number": 267,
+      "local_number": 42,
+      "num_shlokas": 60,
+      "file": "subparva_26_shishupala_vadha_parva/chapter_267_tagged.json"
+    }
+  }
+}

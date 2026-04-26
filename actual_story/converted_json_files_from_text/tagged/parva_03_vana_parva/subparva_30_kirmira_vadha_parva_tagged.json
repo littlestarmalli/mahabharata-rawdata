@@ -1,0 +1,279 @@
+{
+  "name": "Kirmira-vadha Parva",
+  "subparva_number": 30,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 0
+  },
+  "note": "Kirmira was a rakshasa mentioned in the last section and as already explained the word vadha means killing. So this section is about the killing of Kirmira.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "309": {
+      "global_number": 309,
+      "local_number": 12,
+      "num_shlokas": null,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra asked, “O Kshatta! I wish to hear about the killing of Kirmira. Tell me about the encounter between the rakshasa and Bhimasena.”",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Dhritarashtra asked",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O Kshatta! I wish to hear about the killing of Kirmira. Tell me about the encounter between the rakshasa and Bhimasena.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “Hear about this superhuman deed of Bhima’s. Earlier, I have repeatedly heard about this in my conversation with them{1}. O Indra among kings! Having been vanquished in the game with dice, the Pandavas left this place. Having travelled for three days and three nights, they arrived at the forest known as Kamyaka. O king! In the dead of the night, when the midnight hour had passed, man-eating rakshasas, whose deeds are terrible, begin to roam around. Therefore, out of fear for the maneaters, we had heard that ascetics, cowherds and others who go to the forest, always maintain a distance from the forest at that time.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Vidura replied",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“Hear about this superhuman deed of Bhima’s. Earlier, I have repeatedly heard about this in my conversation with them{1}. O Indra among kings! Having been vanquished in the game with dice, the Pandavas left this place. Having travelled for three days and three nights, they arrived at the forest known as Kamyaka. O king! In the dead of the night, when the midnight hour had passed, man-eating rakshasas, whose deeds are terrible, begin to roam around. Therefore, out of fear for the maneaters, we had heard that ascetics, cowherds and others who go to the forest, always maintain a distance from the forest at that time.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“O descendant of the Bharata lineage! It was at that time that they entered and saw a rakshasa obstructing their path. His eyes blazed and he was terrible. He held a blazing brand. With outstretched arms and a fearful face, he stood and obstructed the path along which the extenders of the Kuru lineage were travelling. Eight of his teeth jutted out. His eyes were copper-red. The hair on his head blazed and stood up erect. He looked like a monsoon cloud, tinged with the rays of the sun and lightning and adorned with a ﬂock of cranes{2}. He let out a mighty roar and created the maya used by rakshasas. When he let loose his giant roar, it was like the roar of clouds ﬁlled with rain. Frightened by this roar, the birds ﬂed in all directions. They cried out in fear and so did the animals that lived on the ground and in the water. As a result of deer, elephants, buffaloes and bears ﬂeeing in all directions, it seemed as if the entire forest was running away from the roar. As a result of the wind generated by his thighs, many creepers laden with copper-red blossoms seemed to embrace the tall trees. At that time, a terrible wind began to blow and because of the dust, the sky lost the bear{3}. Like a great enemy that causes inﬁnite grief to the ﬁve senses, he was still unknown to the ﬁve sons of Pandu. From a distance he saw the Pandavas, attired in black deerskins. Like the Mount Mainaka, he obstructed their entry into the forest.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“O descendant of the Bharata lineage! It was at that time that they entered and saw a rakshasa obstructing their path. His eyes blazed and he was terrible. He held a blazing brand. With outstretched arms and a fearful face, he stood and obstructed the path along which the extenders of the Kuru lineage were travelling. Eight of his teeth jutted out. His eyes were copper-red. The hair on his head blazed and stood up erect. He looked like a monsoon cloud, tinged with the rays of the sun and lightning and adorned with a ﬂock of cranes{2}. He let out a mighty roar and created the maya used by rakshasas. When he let loose his giant roar, it was like the roar of clouds ﬁlled with rain. Frightened by this roar, the birds ﬂed in all directions. They cried out in fear and so did the animals that lived on the ground and in the water. As a result of deer, elephants, buffaloes and bears ﬂeeing in all directions, it seemed as if the entire forest was running away from the roar. As a result of the wind generated by his thighs, many creepers laden with copper-red blossoms seemed to embrace the tall trees. At that time, a terrible wind began to blow and because of the dust, the sky lost the bear{3}. Like a great enemy that causes inﬁnite grief to the ﬁve senses, he was still unknown to the ﬁve sons of Pandu. From a distance he saw the Pandavas, attired in black deerskins. Like the Mount Mainaka, he obstructed their entry into the forest.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“On approaching near, the lotus-eyed Krishna{4} was terriﬁed and closed her eyes in fear at the sight of something never seen before. She was the one whose hair had been dishevelled by Duhshasana’s hand. She now stood there, like a river that had overrun its banks between ﬁve mountains. On seeing her lose her senses, the ﬁve Pandavas grasped her, like the ﬁve senses are attached to objects of pleasure. In the sight of the ﬁve sons of Pandu, the valorous Dhoumya accurately used many types of mantras to destroy the maya, terrible of form, created by the rakshasa. On seeing his maya destroyed, the immensely strong one widened his eyes in anger. The cruel one, who could assume any form at will, appeared like Yama himself.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“On approaching near, the lotus-eyed Krishna{4} was terriﬁed and closed her eyes in fear at the sight of something never seen before. She was the one whose hair had been dishevelled by Duhshasana’s hand. She now stood there, like a river that had overrun its banks between ﬁve mountains. On seeing her lose her senses, the ﬁve Pandavas grasped her, like the ﬁve senses are attached to objects of pleasure. In the sight of the ﬁve sons of Pandu, the valorous Dhoumya accurately used many types of mantras to destroy the maya, terrible of form, created by the rakshasa. On seeing his maya destroyed, the immensely strong one widened his eyes in anger. The cruel one, who could assume any form at will, appeared like Yama himself.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘“Then the greatly wise King Yudhishthira spoke to him, ‘Who are you and whom do you belong to? Tell us what we can do for you.’ The rakshasa replied to Dharmaraja Yudhishthira, ‘I am Baka’s brother and I am known by the name of Kirmira. Without any worries, I live in this deserted Kamyaka forest. I always defeat men in battle and then eat them up. Who are you who have appeared before me as food? Without any worries, I will defeat all of you in battle and then eat you up.’ O descendant of the Bharata lineage! On hearing the words of the evil-hearted one, Yudhishthira told him everything about his name and lineage. ‘You may have heard about me. I am Pandu’s son, Dharmaraja. I am with all my brothers, Bhimasena, Arjuna and the others. I have been robbed of my kingdom and now wish to live in this forest. It is for this reason that I have come to this terrible forest that is your territory.’ Kirmira said, ‘This is my good fortune. Today, after a long time, the gods have granted me the wish that I have had. With my weapons always raised, I have roamed the earth with the intention of killing Bhimasena. But I could not ﬁnd him. Through good fortune, I have come upon my brother’s killer, fulﬁlling a long-cherished desire. O king! It was he who, in the disguise of a brahmana, killed my beloved brother Baka in Vetrakriyagriha{5}. Bhima has no strength in his chest. Therefore, he resorted to the strength of skills. My friend Hidimba used to live in the forest. He was earlier killed by this evil-hearted one and he then abducted his{6} sister. That fool has now come to me in this deep forest in the middle of the night, at a time when we roam around. Today, I will wreak the vengeance that I have sought for a long time. I will make large offerings of blood to Baka. Today, I will free myself of the debts I owe to my brother and to my friend. I will obtain supreme peace by removing this thorn of the rakshasas. O Yudhishthira! If Bhimasena was earlier freed from Baka, I will today devour him before your eyes. His life is long. But today, I will kill Vrikodara. I will eat him up and digest him, the way Agastya did the great asura{7}.’ Having been thus addressed, Yudhishthira, devoted to the truth and with dharma in his soul, angrily censured the rakshasa, saying that this could not happen.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“Then the greatly wise King Yudhishthira spoke to him, ‘Who are you and whom do you belong to? Tell us what we can do for you.’ The rakshasa replied to Dharmaraja Yudhishthira, ‘I am Baka’s brother and I am known by the name of Kirmira. Without any worries, I live in this deserted Kamyaka forest. I always defeat men in battle and then eat them up. Who are you who have appeared before me as food? Without any worries, I will defeat all of you in battle and then eat you up.’ O descendant of the Bharata lineage! On hearing the words of the evil-hearted one, Yudhishthira told him everything about his name and lineage. ‘You may have heard about me. I am Pandu’s son, Dharmaraja. I am with all my brothers, Bhimasena, Arjuna and the others. I have been robbed of my kingdom and now wish to live in this forest. It is for this reason that I have come to this terrible forest that is your territory.’ Kirmira said, ‘This is my good fortune. Today, after a long time, the gods have granted me the wish that I have had. With my weapons always raised, I have roamed the earth with the intention of killing Bhimasena. But I could not ﬁnd him. Through good fortune, I have come upon my brother’s killer, fulﬁlling a long-cherished desire. O king! It was he who, in the disguise of a brahmana, killed my beloved brother Baka in Vetrakriyagriha{5}. Bhima has no strength in his chest. Therefore, he resorted to the strength of skills. My friend Hidimba used to live in the forest. He was earlier killed by this evil-hearted one and he then abducted his{6} sister. That fool has now come to me in this deep forest in the middle of the night, at a time when we roam around. Today, I will wreak the vengeance that I have sought for a long time. I will make large offerings of blood to Baka. Today, I will free myself of the debts I owe to my brother and to my friend. I will obtain supreme peace by removing this thorn of the rakshasas. O Yudhishthira! If Bhimasena was earlier freed from Baka, I will today devour him before your eyes. His life is long. But today, I will kill Vrikodara. I will eat him up and digest him, the way Agastya did the great asura{7}.’ Having been thus addressed, Yudhishthira, devoted to the truth and with dharma in his soul, angrily censured the rakshasa, saying that this could not happen.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘“Thereupon, the mighty-armed Bhima swiftly uprooted a tree. It was ten vyamas{8} long. He then stripped it of its leaves. In an instant, the victorious Arjuna strung the Gandiva, with a force like that of the vajra. O descendant of the Bharata lineage! Restraining Jishnu, Bhima rushed at the terrible-looking rakshasa, uttering the words, ‘Stay! Stay!’ Having uttered these words, the angry Pandava{9} tightened the cloth around his waist. The strong one rubbed one hand against the other and bit his lips. With the tree as a weapon, Bhima dashed forward with great force. Like Maghavan{10} hurling his thunder, he brought it down, like Yama’s staff, on his{11} head. But in that battle, the rakshasa could be seen, completely unmoved. Like ﬂaming thunder, he hurled his blazing brand. But Bhima, supreme among warriors, kicked the brand back at the rakshasa with his left foot. Kirmira then suddenly uprooted a tree and rushed at the Pandava in battle, like Dandapani{12}. A battle began with trees, such that all the trees were destroyed. This was like the ancient battle between the brothers Vali and Sugriva, in their desire for the fortune{13}. Like lotuses hurled at rutting elephants, the ends of the fallen trees splintered into many fragments. In that great forest, many trees were crushed like reeds and lay scattered like rags. O lord of the earth! That ﬁght with the trees between the chief of the rakshasas and the supreme among men lasted but an instant. Then, as Bhima stood ready to ﬁght, the angry rakshasa hurled a rock and Bhimasena staggered. When he was numbed by the force of the rock, the rakshasa rushed at him, like Svarbhanu{14} dashing at the sun and dispersing the rays with his arms. They then grappled with each other and dragged each other in different ways. They seemed to be like two ﬁghting bulls. The ﬁght between them was great, violent and terrible, like that between two proud tigers armed with fangs and claws.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“Thereupon, the mighty-armed Bhima swiftly uprooted a tree. It was ten vyamas{8} long. He then stripped it of its leaves. In an instant, the victorious Arjuna strung the Gandiva, with a force like that of the vajra. O descendant of the Bharata lineage! Restraining Jishnu, Bhima rushed at the terrible-looking rakshasa, uttering the words, ‘Stay! Stay!’ Having uttered these words, the angry Pandava{9} tightened the cloth around his waist. The strong one rubbed one hand against the other and bit his lips. With the tree as a weapon, Bhima dashed forward with great force. Like Maghavan{10} hurling his thunder, he brought it down, like Yama’s staff, on his{11} head. But in that battle, the rakshasa could be seen, completely unmoved. Like ﬂaming thunder, he hurled his blazing brand. But Bhima, supreme among warriors, kicked the brand back at the rakshasa with his left foot. Kirmira then suddenly uprooted a tree and rushed at the Pandava in battle, like Dandapani{12}. A battle began with trees, such that all the trees were destroyed. This was like the ancient battle between the brothers Vali and Sugriva, in their desire for the fortune{13}. Like lotuses hurled at rutting elephants, the ends of the fallen trees splintered into many fragments. In that great forest, many trees were crushed like reeds and lay scattered like rags. O lord of the earth! That ﬁght with the trees between the chief of the rakshasas and the supreme among men lasted but an instant. Then, as Bhima stood ready to ﬁght, the angry rakshasa hurled a rock and Bhimasena staggered. When he was numbed by the force of the rock, the rakshasa rushed at him, like Svarbhanu{14} dashing at the sun and dispersing the rays with his arms. They then grappled with each other and dragged each other in different ways. They seemed to be like two ﬁghting bulls. The ﬁght between them was great, violent and terrible, like that between two proud tigers armed with fangs and claws.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘“Vrikodara was proud of the strength of his arms. He saw Krishna’s eyes look towards him and remembered Duryodhana’s oppression. His vigour increased. Intolerantly, he grabbed him in his arms, like an elephant whose rutting glands having burst, falls upon another elephant. In turn, the mighty rakshasa also grasped him. But Bhimasena, supremely strong among the strong ones, violently threw him down. As those two mighty warriors tried to crush each other with their arms in that battle, a terrible sound was heard, like that made by shattering bamboo. Then Vrikodara forcibly threw him down. Grabbing him by the waist, he shook him, like a violent wind shakes a tree. Having been thus seized by the mighty Bhima in battle, he weakened. But though he trembled and panted, he still dragged the Pandava. Noticing that he was exhausted, Vrikodara entwined him in his arms, like an animal is tied with ropes. Uttering a loud roar, like that of a broken war drum, the strong one whirled him around repeatedly, until his body was swollen and unconscious. Knowing that the rakshasa was exhausted, Pandu’s son swiftly grasped him in his arms and then killed him like an animal. Vrikodara placed his knee on the evil rakshasa’s hips and placing his hands on his throat, began to press down. Then, when his entire body was numb and his wide-open eyes were glazed, he hurled him on the ground and said, ‘O evil one! You will no longer have to shed tears over Hidimba and Baka. You too have proceeded to Yama’s abode.’ Having said this, that supreme warrior among men looked at the rakshasa, his eyes wide with rage. He discarded the swollen body that no longer had life and was empty of mind with its garments and ornaments strewn about.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "“Vrikodara was proud of the strength of his arms. He saw Krishna’s eyes look towards him and remembered Duryodhana’s oppression. His vigour increased. Intolerantly, he grabbed him in his arms, like an elephant whose rutting glands having burst, falls upon another elephant. In turn, the mighty rakshasa also grasped him. But Bhimasena, supremely strong among the strong ones, violently threw him down. As those two mighty warriors tried to crush each other with their arms in that battle, a terrible sound was heard, like that made by shattering bamboo. Then Vrikodara forcibly threw him down. Grabbing him by the waist, he shook him, like a violent wind shakes a tree. Having been thus seized by the mighty Bhima in battle, he weakened. But though he trembled and panted, he still dragged the Pandava. Noticing that he was exhausted, Vrikodara entwined him in his arms, like an animal is tied with ropes. Uttering a loud roar, like that of a broken war drum, the strong one whirled him around repeatedly, until his body was swollen and unconscious. Knowing that the rakshasa was exhausted, Pandu’s son swiftly grasped him in his arms and then killed him like an animal. Vrikodara placed his knee on the evil rakshasa’s hips and placing his hands on his throat, began to press down. Then, when his entire body was numb and his wide-open eyes were glazed, he hurled him on the ground and said, ‘O evil one! You will no longer have to shed tears over Hidimba and Baka. You too have proceeded to Yama’s abode.’ Having said this, that supreme warrior among men looked at the rakshasa, his eyes wide with rage. He discarded the swollen body that no longer had life and was empty of mind with its garments and ornaments strewn about.",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 6
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘“When the one with the form of a cloud was slain, those sons of the Indra among men{15} placed Krishna at the forefront. They praised Bhima for his many qualities and in a happy frame of mind, set out for the forest of Dvaita{16}. O lord of men! O Kourava! Thus it was that, on Dharmaraja’s instructions, Kirmira was killed in battle by Bhimasena. Having freed the forest of its thorn, the undefeated king{17}, knowledgeable in dharma, lived there with Droupadi and made it his home. Consoling Droupadi, all those bulls of the Bharata lineage affectionately praised Vrikodara, with happiness in their minds. After the rakshasa had been destroyed through the strength of Bhima’s arms, those warriors entered the peaceful forest that had been freed of its thorn. Passing along that road, I myself saw the evil-hearted and fearful body strewn in that great forest, killed through Bhima’s strength. O descendant of the Bharata lineage! From the brahmanas who had assembled there, I heard the account of Bhima’s exploit.”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "‘",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 6
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“When the one with the form of a cloud was slain, those sons of the Indra among men{15} placed Krishna at the forefront. They praised Bhima for his many qualities and in a happy frame of mind, set out for the forest of Dvaita{16}. O lord of men! O Kourava! Thus it was that, on Dharmaraja’s instructions, Kirmira was killed in battle by Bhimasena. Having freed the forest of its thorn, the undefeated king{17}, knowledgeable in dharma, lived there with Droupadi and made it his home. Consoling Droupadi, all those bulls of the Bharata lineage affectionately praised Vrikodara, with happiness in their minds. After the rakshasa had been destroyed through the strength of Bhima’s arms, those warriors entered the peaceful forest that had been freed of its thorn. Passing along that road, I myself saw the evil-hearted and fearful body strewn in that great forest, killed through Bhima’s strength. O descendant of the Bharata lineage! From the brahmanas who had assembled there, I heard the account of Bhima’s exploit.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 7
+            },
+            {
+              "type": "narration",
+              "speaker": "@vidura",
+              "text": "’",
+              "color": "#52796F",
+              "opacity": 0.4,
+              "depth": 6
+            }
+          ]
+        },
+        "9": {
+          "raw": "Vaishampayana said, ‘Having heard this account about the killing of that supreme rakshasa, Kirmira, in battle, the king{18} seemed thoughtful and sighed, as if in sorrow.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having heard this account about the killing of that supreme rakshasa, Kirmira, in battle, the king{18} seemed thoughtful and sighed, as if in sorrow.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

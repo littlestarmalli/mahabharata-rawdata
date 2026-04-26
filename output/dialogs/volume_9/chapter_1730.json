@@ -1,0 +1,399 @@
+{
+  "chapter": 1730,
+  "local": 49,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O foremost among the Kuru lineage! Tell us about the different kinds of sons who are born in separate varnas. What kinds of sons are these? Who are they? Whose sons are they? We have heard that there have been many disagreements about these sons. O king! We are confused about this. You should sever our doubts.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O foremost among the Kuru lineage! Tell us about the different kinds of sons who are born in separate varnas. What kinds of sons are these? Who are they? Whose sons are they? We have heard that there have been many disagreements about these sons. O king! We are confused about this. You should sever our doubts.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “Know that an anantaraja son is like one's own self{1322}. Know that a son who has been obtained through niyukta is called prasritaja{1323}. When a husband unites with his wife, despite knowing that she has gone astray, the son obtained in this fashion is known as vadhyuda. There are six kinds of sons known as apadhvamsaja and also the one known as kanina{1324}. O descendant of the Bharata lineage! Know that these are the kinds that have been mentioned.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Know that an anantaraja son is like one's own self{1322}. Know that a son who has been obtained through niyukta is called prasritaja{1323}. When a husband unites with his wife, despite knowing that she has gone astray, the son obtained in this fashion is known as vadhyuda. There are six kinds of sons known as apadhvamsaja and also the one known as kanina{1324}. O descendant of the Bharata lineage! Know that these are the kinds that have been mentioned.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “Who are the six kinds of sons known as apadhvamsaja? Who is the one known as an apasada?. You should explain the truth about all this to me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who are the six kinds of sons known as apadhvamsaja? Who is the one known as an apasada?. You should explain the truth about all this to me.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O Yudhishthira! O descendant of the Bharata lineage! The sons that a brahmana obtains through the three lower varnas, the sons that a king obtains through the two lower varnas and the sons that a vaishya obtains through the lower varna are understood to be apadhvamsajas. Now hear about apasadas. Chandala, vratya and vena—these are seen to be the three kinds of apasadas and are respectively born through a shudra father and a brahmana, kshatriya or vaishya mother. A vaishya father is seen to have magadha or vamaka sons, depending respectively on whether the mother is a brahmana or a kshatriya. When a kshatriya father is seen to have a son through a brahmana mother, the offspring is known as suta. These are said to be apasadas. O lord of men! One is incapable of falsely asserting that these kinds of sons aren't really sons.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhishthira! O descendant of the Bharata lineage! The sons that a brahmana obtains through the three lower varnas, the sons that a king obtains through the two lower varnas and the sons that a vaishya obtains through the lower varna are understood to be apadhvamsajas. Now hear about apasadas. Chandala, vratya and vena—these are seen to be the three kinds of apasadas and are respectively born through a shudra father and a brahmana, kshatriya or vaishya mother. A vaishya father is seen to have magadha or vamaka sons, depending respectively on whether the mother is a brahmana or a kshatriya. When a kshatriya father is seen to have a son through a brahmana mother, the offspring is known as suta. These are said to be apasadas. O lord of men! One is incapable of falsely asserting that these kinds of sons aren't really sons.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “Some say that the son is kshetraja. Others say that he is shukraja{1325}. Are both of these the same? Whom does the son belong to? O grandfather! Tell me this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Some say that the son is kshetraja. Others say that he is shukraja{1325}. Are both of these the same? Whom does the son belong to? O grandfather! Tell me this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “The son is said to be both shukraja{1326} and kshetraja. Listen to me. The sole exception to this principle is adhyuda{1327}.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The son is said to be both shukraja{1326} and kshetraja. Listen to me. The sole exception to this principle is adhyuda{1327}.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “We know that the son is shukraja. How can the son become kshetraja? We know about the one called adhyuda. However, in a violation of an agreement, why does the father abandon him?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“We know that the son is shukraja. How can the son become kshetraja? We know about the one called adhyuda. However, in a violation of an agreement, why does the father abandon him?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “He may have obtained another son, or there may be some other reason. In any event, ownership does not come from the seed, but from the ﬁeld. O lord of the earth! The ﬁeld is the proof. When a person desires to marry for the sake of a son and has a son, that son is his own. O bull among the Bharata lineage! But in other cases{1328}, the son is said to be kshetraja. The son cannot conceal his biological traits. They can be discerned{1329}. The son is sometimes known as the son of the father who has given him birth, or the one who has reared him. O Yudhishthira! Therefore, neither the seed, nor the ﬁeld, is the complete proof.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“He may have obtained another son, or there may be some other reason. In any event, ownership does not come from the seed, but from the ﬁeld. O lord of the earth! The ﬁeld is the proof. When a person desires to marry for the sake of a son and has a son, that son is his own. O bull among the Bharata lineage! But in other cases{1328}, the son is said to be kshetraja. The son cannot conceal his biological traits. They can be discerned{1329}. The son is sometimes known as the son of the father who has given him birth, or the one who has reared him. O Yudhishthira! Therefore, neither the seed, nor the ﬁeld, is the complete proof.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “When is a son regarded as that of the biological father and when is he regarded as the son of the one who has reared him? O descendant of the Bharata lineage! When is the seed, or the ﬁeld, taken to be the proof?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When is a son regarded as that of the biological father and when is he regarded as the son of the one who has reared him? O descendant of the Bharata lineage! When is the seed, or the ﬁeld, taken to be the proof?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “A son may be found abandoned on the road by the mother and the father. Unable to ﬁnd the mother and the father, someone may rear him. In this case, since he is no one's son, he becomes the son of the person who has reared him. Just as a son obtains the varna of the person who has given him birth, this son obtains the varna of the person who has reared him.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“A son may be found abandoned on the road by the mother and the father. Unable to ﬁnd the mother and the father, someone may rear him. In this case, since he is no one's son, he becomes the son of the person who has reared him. Just as a son obtains the varna of the person who has given him birth, this son obtains the varna of the person who has reared him.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “How are the sacraments{1330} of such a person performed? Who undertakes them? What kind of girl should he be married to? O grandfather! Tell me this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“How are the sacraments{1330} of such a person performed? Who undertakes them? What kind of girl should he be married to? O grandfather! Tell me this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “The person who rears him should himself perform the sacraments. Having been abandoned by the mother and the father, it is his varna that the son has adopted. O undecaying one! The sacraments should be performed in accordance with the foster-father's gotra and varna. O Yudhishthira! The maiden bestowed on him should thus be of the same varna. Such sacraments are performed without knowing the biological mother's gotra and varna. Kanina and adhyuda are known to be tainted sons. Despite this, it has been determined that sacraments should be performed for them. Brahmanas and others should use the same kinds of sacraments for kshetrajas, apasadas and adhyudas as they would for themselves. The sacred texts of dharma have determined injunctions for the different varnas. I have recounted all of this. What else do you wish to hear?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The person who rears him should himself perform the sacraments. Having been abandoned by the mother and the father, it is his varna that the son has adopted. O undecaying one! The sacraments should be performed in accordance with the foster-father's gotra and varna. O Yudhishthira! The maiden bestowed on him should thus be of the same varna. Such sacraments are performed without knowing the biological mother's gotra and varna. Kanina and adhyuda are known to be tainted sons. Despite this, it has been determined that sacraments should be performed for them. Brahmanas and others should use the same kinds of sacraments for kshetrajas, apasadas and adhyudas as they would for themselves. The sacred texts of dharma have determined injunctions for the different varnas. I have recounted all of this. What else do you wish to hear?”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

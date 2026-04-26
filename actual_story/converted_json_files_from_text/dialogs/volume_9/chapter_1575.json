@@ -1,0 +1,119 @@
+{
+  "chapter": 1575,
+  "local": 247,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “O son! Listen once again to an enumeration of the qualities in beings. O unblemished one! These are praiseworthy words, uttered from Dvaipayana's mouth. The words spoken by the illustrious one are like a blazing ﬁre, with ﬂames that have no smoke. O son! I am recounting these examples to you yet again. The earth has qualities of stability, gravity, hardness, productiveness, smell, heaviness, capacity, accumulation, establishment and fortitude. The water has qualities of being cool, juices, moisture, liquidity, softness, tranquility, taste, ﬂowing and wetness in earthy objects. The qualities of ﬁre are difﬁculty of resisting, energy, heat, capacity to cook, radiance, puriﬁcation, affection, lightness, sharpness and the ability to rise upwards, as the tenth. The qualities of the wind are control, touch, the location of speech, independence, strength, speed, confusion, effort and the performance of tasks. The qualities of space are sound, expanse, ability to pervade, the lack of a foundation, the lack of a refuge, not being manifest, not being transformed, the ability of not being resisted and the ability to cause transformations in beings. Created by the ﬁve elements, it is said to possess ﬁfty qualities{469}. Fickleness, argumentation, expression, detachment, imagination, forgiveness, propensity towards good, propensity towards evil and lack of readiness—these are the nine qualities of the mind. Thinking good and evil, enterprise, concentration, doubt and observation—these are the ﬁve qualities of intelligence.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! Listen once again to an enumeration of the qualities in beings. O unblemished one! These are praiseworthy words, uttered from Dvaipayana's mouth. The words spoken by the illustrious one are like a blazing ﬁre, with ﬂames that have no smoke. O son! I am recounting these examples to you yet again. The earth has qualities of stability, gravity, hardness, productiveness, smell, heaviness, capacity, accumulation, establishment and fortitude. The water has qualities of being cool, juices, moisture, liquidity, softness, tranquility, taste, ﬂowing and wetness in earthy objects. The qualities of ﬁre are difﬁculty of resisting, energy, heat, capacity to cook, radiance, puriﬁcation, affection, lightness, sharpness and the ability to rise upwards, as the tenth. The qualities of the wind are control, touch, the location of speech, independence, strength, speed, confusion, effort and the performance of tasks. The qualities of space are sound, expanse, ability to pervade, the lack of a foundation, the lack of a refuge, not being manifest, not being transformed, the ability of not being resisted and the ability to cause transformations in beings. Created by the ﬁve elements, it is said to possess ﬁfty qualities{469}. Fickleness, argumentation, expression, detachment, imagination, forgiveness, propensity towards good, propensity towards evil and lack of readiness—these are the nine qualities of the mind. Thinking good and evil, enterprise, concentration, doubt and observation—these are the ﬁve qualities of intelligence.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “How can intelligence have ﬁve qualities? How can the senses possess qualities? O grandfather! Tell me everything about this subtle knowledge.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“How can intelligence have ﬁve qualities? How can the senses possess qualities? O grandfather! Tell me everything about this subtle knowledge.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “There are said to be sixty qualities in beings{470}. Beings are always attached to those qualities. Beings, and what they are attached to, have been created by Akshara. O son! That is what has always been spoken about in this world. O son! Everything present in this world is said to have been thought in his mind and created. That is the truth about the origin of all beings and about the origin and destruction of beings. Therefore, obtain tranquility in your intelligence.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“There are said to be sixty qualities in beings{470}. Beings are always attached to those qualities. Beings, and what they are attached to, have been created by Akshara. O son! That is what has always been spoken about in this world. O son! Everything present in this world is said to have been thought in his mind and created. That is the truth about the origin of all beings and about the origin and destruction of beings. Therefore, obtain tranquility in your intelligence.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

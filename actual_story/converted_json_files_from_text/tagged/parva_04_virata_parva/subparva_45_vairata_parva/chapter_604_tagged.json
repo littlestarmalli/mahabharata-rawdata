@@ -1,0 +1,311 @@
+{
+  "chapter_number": 604,
+  "global_number": 604,
+  "local_number": 8,
+  "num_shlokas": 33,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Then the unblemished Krishna braided her hair, with curls at the tips. The mild and darkeyed one hid it on the right side and donned a garment that was long, dark and extremely dirty. She thus assumed the garb of a sairandhri and began to roam around, as if she was in great trouble. On seeing her wandering around, men and women rushed to her and asked, “Who are you and what do you desire?” O Indra among kings! She then told them, “I am a sairandhri. I have come here, wishing to work for anyone who will feed me.” On seeing her beauty, her attire and the gentleness of her speech, they did not believe that she was a maidservant who had come in search of food.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Then the unblemished Krishna braided her hair, with curls at the tips. The mild and darkeyed one hid it on the right side and donned a garment that was long, dark and extremely dirty. She thus assumed the garb of a sairandhri and began to roam around, as if she was in great trouble. On seeing her wandering around,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "men and women rushed to her and asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@men_and_women_rushed",
+          "text": "“Who are you and what do you desire?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "O Indra among kings! She then told them",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@o_indra_among_kings",
+          "text": "“I am a sairandhri. I have come here, wishing to work for anyone who will feed me.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On seeing her beauty, her attire and the gentleness of her speech, they did not believe that she was a maidservant who had come in search of food.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Virata’s wife was the daughter of Kekaya and was greatly honoured. She looked down from the palace and beheld Drupada’s daughter. On seeing her in that state, without a protector and clad in a single piece of garment, she summoned her and said, “O fortunate one! Who are you and what do you wish to do?” O Indra among kings! She told her{56}, “I am a sairandhri and I have arrived here in search of work. I will work for anyone who feeds me.” Sudeshna{57} replied, “O beautiful one! Those you speak of{58} do not possess the beauty you have. Those like you have many and varied servant maids and servants. Your ankles are concealed. Your thighs are ﬁrm. You are deep in three places{59} and high in six{60}. You are red in the ﬁve places that should be red{61}. Your voice is as slow as that of a swan. You have beautiful hair and beautiful breasts. You are dark{62}. Your buttocks and breasts are full. You are endowed with all the qualities, like a mare from Kashmira. Your eyelashes curl gracefully. Your lips are like bimbas{63}. You are slender at the waist. Your neck is lined like a conch shell. Your veins are hidden. Your face is like the full moon. O fortunate one! Tell me truthfully who you are. You cannot be a servant maid. Are you a yakshi, a goddess, a gandharvi or an apsara{64}—Alambusha, Mishrakeshi, Pundarika, Malini, Indrani, Varuni, or the consort of Tvashtra, Dhata or Prajapati{65}? These goddesses are famous among the gods. Which of these are you?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Virata’s wife was the daughter of Kekaya and was greatly honoured. She looked down from the palace and beheld Drupada’s daughter. On seeing her in that state,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "without a protector and clad in a single piece of garment, she summoned her and said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@without_a_protector_and",
+          "text": "“O fortunate one! Who are you and what do you wish to do?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "O Indra among kings! She told her{56}",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@o_indra_among_kings",
+          "text": "“I am a sairandhri and I have arrived here in search of work. I will work for anyone who feeds me.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sudeshna{57} replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@sudeshna",
+          "text": "“O beautiful one! Those you speak of{58} do not possess the beauty you have. Those like you have many and varied servant maids and servants. Your ankles are concealed. Your thighs are ﬁrm. You are deep in three places{59} and high in six{60}. You are red in the ﬁve places that should be red{61}. Your voice is as slow as that of a swan. You have beautiful hair and beautiful breasts. You are dark{62}. Your buttocks and breasts are full. You are endowed with all the qualities, like a mare from Kashmira. Your eyelashes curl gracefully. Your lips are like bimbas{63}. You are slender at the waist. Your neck is lined like a conch shell. Your veins are hidden. Your face is like the full moon. O fortunate one! Tell me truthfully who you are. You cannot be a servant maid. Are you a yakshi, a goddess, a gandharvi or an apsara{64}—Alambusha, Mishrakeshi, Pundarika, Malini, Indrani, Varuni, or the consort of Tvashtra, Dhata or Prajapati{65}? These goddesses are famous among the gods. Which of these are you?”",
+          "color": "#4E9CD9",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Droupadi replied, “I am not a goddess, or a gandharvi, or an asuri, or a rakshasi. I tell you truthfully that I am a sairandhri. I know how to dress hair and am skilful at grinding unguents. I can weave extremely beautiful and colourful garlands. I served Satyabhama, Krishna’s beloved queen and Krishna{66}, the wife of the Pandus and the solitary beauty in the Kuru lineage. I go wherever I can obtain a good life. I am happy as long as I can obtain excellent garments. The goddess herself used to call me by the name of Malini{67}. O goddess! O Sudeshna! I have arrived thus in your house.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Droupadi replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@draupadi",
+          "text": "“I am not a goddess, or a gandharvi, or an asuri, or a rakshasi. I tell you truthfully that I am a sairandhri. I know how to dress hair and am skilful at grinding unguents. I can weave extremely beautiful and colourful garlands. I served Satyabhama, Krishna’s beloved queen and Krishna{66}, the wife of the Pandus and the solitary beauty in the Kuru lineage. I go wherever I can obtain a good life. I am happy as long as I can obtain excellent garments. The goddess herself used to call me by the name of Malini{67}. O goddess! O Sudeshna! I have arrived thus in your house.”",
+          "color": "#E84393",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Sudeshna said, “There is no doubt that I can place you on my head, as long as the king does not desire you with all his heart and go to you. Behold! The ladies of the royal lineage and those who live in my abode are gazing at you with attachment. What man will you not infatuate? Behold! Even the trees that are established in my abode are bending down over you. What man will you not infatuate? When King Virata sees your superhuman beauty, with the beautiful buttocks and the beautiful hips, he will forsake me and go to you with all his heart. Your limbs are ﬂawless. Your eyes are soft and long. O one with the beautiful smiles! On looking at you, any man who sees you will become attached and be overcome with desire. You are unblemished in all your limbs and he will come under the sway of the god of love. A she-crab conceives and brings about her own death{68}. O one with the beautiful smiles! I think that if I grant you residence, I will bring about my own destruction.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sudeshna said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@sudeshna",
+          "text": "“There is no doubt that I can place you on my head, as long as the king does not desire you with all his heart and go to you. Behold! The ladies of the royal lineage and those who live in my abode are gazing at you with attachment. What man will you not infatuate? Behold! Even the trees that are established in my abode are bending down over you. What man will you not infatuate? When King Virata sees your superhuman beauty, with the beautiful buttocks and the beautiful hips, he will forsake me and go to you with all his heart. Your limbs are ﬂawless. Your eyes are soft and long. O one with the beautiful smiles! On looking at you, any man who sees you will become attached and be overcome with desire. You are unblemished in all your limbs and he will come under the sway of the god of love. A she-crab conceives and brings about her own death{68}. O one with the beautiful smiles! I think that if I grant you residence, I will bring about my own destruction.”",
+          "color": "#4E9CD9",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Droupadi replied, “O beautiful one! Neither Virata, nor anyone else, can ever obtain me. I have ﬁve young gandharvas{69} as my husbands. They are the sons of a gandharva king who is extremely powerful. They always protect me. Any conduct that brings me grief ensures destruction. My gandharva husbands allow me to live in a house where I am not served any leftover food and where I am not asked to wash anyone’s feet. If any man desires me, like any other common woman, before the night is over, he will enter another body{70}. O beautiful one! No one is capable of making me stray. Those powerful gandharvas always protect me from unhappiness.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Droupadi replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@draupadi",
+          "text": "“O beautiful one! Neither Virata, nor anyone else, can ever obtain me. I have ﬁve young gandharvas{69} as my husbands. They are the sons of a gandharva king who is extremely powerful. They always protect me. Any conduct that brings me grief ensures destruction. My gandharva husbands allow me to live in a house where I am not served any leftover food and where I am not asked to wash anyone’s feet. If any man desires me, like any other common woman, before the night is over, he will enter another body{70}. O beautiful one! No one is capable of making me stray. Those powerful gandharvas always protect me from unhappiness.”",
+          "color": "#E84393",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘Sudeshna said, “O beloved one! I will then offer you residence, according to your desires. You will not wash the feet of others. Nor will you ever eat leftover food.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sudeshna said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@sudeshna",
+          "text": "“O beloved one! I will then offer you residence, according to your desires. You will not wash the feet of others. Nor will you ever eat leftover food.”",
+          "color": "#4E9CD9",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "7": {
+      "raw": "Vaishampayana said, ‘Krishna was thus comforted by Virata’s wife. O Janamejaya! No one there got to know who she actually was.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Krishna was thus comforted by Virata’s wife. O Janamejaya! No one there got to know who she actually was.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

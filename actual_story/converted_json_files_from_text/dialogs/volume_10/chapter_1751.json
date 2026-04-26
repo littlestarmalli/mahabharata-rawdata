@@ -1,0 +1,430 @@
+{
+  "chapter": 1751,
+  "local": 70,
+  "shlokas": 56,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "“Yudhishthira said, “O unblemished one! O mighty-armed one! Tell me in detail about the fruits that can be obtained from donating cattle. I am not satisﬁed with what you have said.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 1,
+          "text": "“Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O unblemished one! O mighty-armed one! Tell me in detail about the fruits that can be obtained from donating cattle. I am not satisﬁed with what you have said.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "\""
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is recounted about the words the rishi Uddalaki and Nachiketa spoke to each other. Having initiated himself for a rite, the rishi Uddalaki told his son, Nachiketa, ‘Serve me.’ When those rituals were completed, the maharshi again told his son, ‘I have been engaged with my ablutions and have focused on studying. Since my mind was on those, I have forgotten to bring the ﬁrewood, the darbha grass and the pot full of water that I had collected. They are on the banks of the river. Go and bring them.’ However, having gone there, he saw that all these had been washed away by the force of the river's current. The sage went and told his father, ‘I did not see them there.’ At that time, the sage Uddalaki was overcome by hunger, thirst and exhaustion. The immensely ascetic one cursed his son, ‘You will see Yama.’ Struck by the vajra of his father's words, he joined his hands in salutation and asked for paciﬁcation. However, he lost his life and fell down on the ground. His father saw that Nachiketa had fallen down and became senseless with grief. He exclaimed, ‘What have I done?’ He also fell down on the ground. He was overcome with supreme grief at his son having been killed through his own acts. The day passed and the terrible night arrived. O extender of the Kuru lineage! Nachiketa lay down on a mat of kusha grass. As his father's tears fell on him, he began to move, like crops reviving when they are showered with rain. His body was smeared with divine fragrances and he was still weak, as if he had woken up from sleep. His father praised this phenomenon of his son reviving and asked, ‘O son! Have you conquered the worlds through your auspicious deeds? It is good fortune that I have got you back. Your body isn't human any longer.’ The great-souled one had directly witnessed everything and was thus asked by his father.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted about the words the rishi Uddalaki and Nachiketa spoke to each other. Having initiated himself for a rite, the rishi Uddalaki told his son, Nachiketa, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Serve me.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When those rituals were completed, the maharshi again told his son, ",
+          "speaker": "@bhishma",
+          "introduces": "the_maharshi",
+          "introduces_label": "the maharshi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have been engaged with my ablutions and have focused on studying. Since my mind was on those, I have forgotten to bring the ﬁrewood, the darbha grass and the pot full of water that I had collected. They are on the banks of the river. Go and bring them.’",
+          "speaker": "the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " However, having gone there, he saw that all these had been washed away by the force of the river's current. The sage went and told his father, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I did not see them there.’",
+          "speaker": "the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At that time, the sage Uddalaki was overcome by hunger, thirst and exhaustion. The immensely ascetic one cursed his son, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You will see Yama.’",
+          "speaker": "the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Struck by the vajra of his father's words, he joined his hands in salutation and asked for paciﬁcation. However, he lost his life and fell down on the ground. His father saw that Nachiketa had fallen down and became senseless with grief. He exclaimed, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What have I done?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He also fell down on the ground. He was overcome with supreme grief at his son having been killed through his own acts. The day passed and the terrible night arrived. O extender of the Kuru lineage! Nachiketa lay down on a mat of kusha grass. As his father's tears fell on him, he began to move, like crops reviving when they are showered with rain. His body was smeared with divine fragrances and he was still weak, as if he had woken up from sleep. His father praised this phenomenon of his son reviving and asked, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! Have you conquered the worlds through your auspicious deeds? It is good fortune that I have got you back. Your body isn't human any longer.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The great-souled one had directly witnessed everything and was thus asked by his father.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“In the midst of the maharshis, he clearly told his father what had happened. ‘Following your instructions, I quickly went to Vaivasvata's abode. It was large, beautiful and resplendent. I saw a multi-storeyed assembly hall that was golden and one thousand yojanas{63} wide. As soon as he saw me advance towards him, Vaivasvata instructed that a house and a seat should be given to me. He offered arghya 64 and the other signs of welcome. For your sake, he honoured me. I was thus surrounded and honoured by his attendants. I gently spoke these words. “O Dharmaraja! I have come to your dominion. Grant me the worlds that have been earmarked for me.” Yama told me, “O amiable one! You are not dead. Your ascetic father told you to see Yama. He is like a blazing ﬁre in his energy. O brahmana! I am incapable of rendering his words false. O son{65}! I have seen you now. Return. The one who created your body is sorrowing. What can I give you? What does your mind desire? You are my beloved guest. I will grant the boon you desire.” Thus addressed, I replied, “I have obtained your dominion and it is extremely difﬁcult to return from here. If you think that I am deserving of a boon, I wish to see the prosperous worlds meant for those who perform auspicious deeds.” The god asked me to ascend a vehicle. It was yoked to horses and was extremely radiant, like the sun. O Indra among brahmanas! He showed me all the worlds meant for the performers of auspicious deeds. There, I saw the dazzling residences meant for those who have cleansed their souls. They had different foundations and forms. They were full of many kinds of jewels. They sparkled like the lunar disc. They were decorated with nets of bells. There were hundreds that had many ﬂoors and there were lakes and groves inside them. They dazzled like lapis lazuli and were decorated with silver and gold. Everything there, mobile and immobile, possessed the complexion of the rising sun. There were mountains of objects to eat and swallow. There were garments and beds. In those residences, there were trees that granted all the objects of desire. Everywhere, there were rivers, roads, assembly halls, lakes and tanks. Thousands of vehicles were yoked and they thundered. There were rivers that ﬂowed with milk. There were mountains of ghee. The water sparkled. With Vaivasvata's permission, I saw many such countries that I had never seen before. Having seen all this, I addressed the ancient and powerful Dharmaraja. “These rivers have eternal ﬂows of milk and ghee. Whose food have these been decreed as?” Yama replied, “Know that these objects of food are for the virtuous ones who donate milk. There are other eternal and pervasive worlds, bereft of all misery, for the virtuous ones who are devoted to donating cows. The gifting of cows alone is not praised. There are ordinances about the time and the recipient. O brahmana! One should give after knowing these. Know that if a cow is kept inside a place where it suffers from the ﬁre or the sun, this leads to hardship{66}. If a brahmana is ﬁrm in studying, is extremely ascetic and is devoted to sacriﬁces, he is a worthy recipient. Cows which have been rescued from a situation of distress and have thereafter been nourished, are especially praised. One should fast for three nights and sleep on the ground. After that, contented, one should give cows away. Cows should cheerfully be given away, with their calves, with all the other accompaniments. They should be ones that yield good calves. Having given them, for three days, the donor should only subsist on the milk of cows. One must donate a cow after following good vows. A brass vessel must be given for milking. It should be one that has easy birth and should also be one that does not run away. In that event, the donor enjoys the world of heaven for as many years as there are hair on the cow's body. A bull must be controllable and capable of bearing a burden. It must be strong and young. It must be large, brave and of noble birth. A donor who gives to a brahmana in this way, enjoys the worlds, like the donor of a cow. A forgiving and grateful person who has no means of subsistence and depends on cows for a living is said to be a worthy recipient. The donation of a cow is praised when there is fear about means of subsistence, for some great purpose, for the sake of agriculture, or for the sake of a sacriﬁce. The gift of a beloved cow is especially praised when it is for the preceptor or when it is for the sake of nurturing a child. The time and the place are important. Cows that are given should have been born internally{67}, purchased, obtained as a price for learning, obtained in exchange for other animals, conquered{68} or obtained in marriage.” Hearing Vaivasvata's words, I spoke to him again. “If people do not own cattle, how can they go to worlds that are meant for the donors of cattle?” At this, the intelligent Yama replied, “By donating cattle, one goes to the supreme destination. In the absence of cattle, one can go to the regions where donors of cattle go, by giving what is regarded as equivalent to cows. In the absence of cows, one can carefully observe vows and create a cow made out of ghee. That ﬂow of ghee is like a milk-yielding cow with a calf. In the absence of ghee, one can carefully observe vows and donate sesamum. Like a cow, that will save from all kinds of hardship and one will ﬁnd delight, as with a river of milk. In the absence of sesamum, one can carefully observe vows and donate water. That will be like a ﬂowing river of cool water and will satisfy all the objects of desire.” These were the instructions that Dharmaraja gave me then. O undecaying one! On seeing all this, I was ﬁlled with supreme delight. I will now report something that you will ﬁnd agreeable. There is a great sacriﬁce that only requires a little bit of wealth. O father! It has been obtained by me and it will ﬂow from me. It can also be observed by those who follow the ordinances of the Vedas. The curse that you imposed on me was actually a favour. Through that, I was able to see Yama. I witnessed the great gains that can be reaped through donations. Without any doubt, I will practise dana dharma. O brahmana rishi! This is what Dharmaraja repeatedly told me, cheerfully. “O son! A person who always donates, should specially gift cows. Be pure in pursuing this artha and do not ignore your own dharma. Depending on the time and the place, donate to a worthy recipient. Therefore, always donate cows. You should not entertain any doubts about this. In ancient times, there were those who were tranquil in their souls. They remained on the path of donations and always gave gifts. They were scared of engaging in terrible austerities. Hence, to the best of their capacities, they practised donations. In due course of time, they abandoned all malice. They puriﬁed their souls. They were faithful and good in conduct. Those performers of auspicious deeds tormented themselves through donations and obtained blazing worlds in the vault of heaven. Lawfully obtained objects must be given to brahmanas, after examining whether the recipient is worthy. They should be given on kamyashtami{69}. After donating, for ten days, one should subsist on cow's milk, cow dung and cow's urine. The donor of a bull follows the vows of the Vedas. The donor of a couple of bulls becomes skilled in knowledge of the Vedas. By giving a vehicle yoked to cattle, one obtains the merit of bathing in tirthas. By giving a kapila cow, one is cleansed of all sins. If the owner of a kapila obtained through legitimate means gives it away, he is puriﬁed of all sins. There is nothing that is superior to the milk of cows. It is said that greatness is obtained from donating cows. Through their milk, cows hold up the world. Cows produce the food that sustains the worlds. Knowing about what cattle do, if a person oppresses them, he is evil in his consciousness and goes to hell. If a person donates one thousand cows, one hundred, ﬁfty or even ten, or even if one gives a single cow that properly gives birth to calves, to a virtuous brahmana, that cow becomes like a river that is full of sacred tirthas, yielding beneﬁts. In prosperity, nourishment and protecting the worlds, cows are like the rays of the sun that descend on earth. The word is the same for both{70}. The donor of a cow enjoys extensive offspring. Therefore, a cow shines like the sun. In donating cows, for a disciple, the preceptor is the best recipient. He is the eloquent and controlled speaker who grants heaven. The knowledge of the ordinances is extremely great dharma. This is the ﬁrst ordinance and all other ordinances result from this{71}. Thus, legitimately earned objects must be given to brahmanas, after ascertaining the worthiness of the recipient. When praising, the immortals, men and we say, ‘May the auspiciousness of your deeds extend.’” O maharshi! This is what Dharmaraja told me. I bowed my head down before the one who has dharma in his soul. O illustrious one! Having taken Vaivasvata's permission, I have returned here, at your feet.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“In the midst of the maharshis, he clearly told his father what had happened. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Following your instructions, I quickly went to Vaivasvata's abode. It was large, beautiful and resplendent. I saw a multi-storeyed assembly hall that was golden and one thousand yojanas{63} wide. As soon as he saw me advance towards him, Vaivasvata instructed that a house and a seat should be given to me. He offered arghya 64 and the other signs of welcome. For your sake, he honoured me. I was thus surrounded and honoured by his attendants. I gently spoke these words. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O Dharmaraja! I have come to your dominion. Grant me the worlds that have been earmarked for me.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Yama told me, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O amiable one! You are not dead. Your ascetic father told you to see Yama. He is like a blazing ﬁre in his energy. O brahmana! I am incapable of rendering his words false. O son{65}! I have seen you now. Return. The one who created your body is sorrowing. What can I give you? What does your mind desire? You are my beloved guest. I will grant the boon you desire.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Thus addressed, I replied, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "I",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I have obtained your dominion and it is extremely difﬁcult to return from here. If you think that I am deserving of a boon, I wish to see the prosperous worlds meant for those who perform auspicious deeds.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " The god asked me to ascend a vehicle. It was yoked to horses and was extremely radiant, like the sun. O Indra among brahmanas! He showed me all the worlds meant for the performers of auspicious deeds. There, I saw the dazzling residences meant for those who have cleansed their souls. They had different foundations and forms. They were full of many kinds of jewels. They sparkled like the lunar disc. They were decorated with nets of bells. There were hundreds that had many ﬂoors and there were lakes and groves inside them. They dazzled like lapis lazuli and were decorated with silver and gold. Everything there, mobile and immobile, possessed the complexion of the rising sun. There were mountains of objects to eat and swallow. There were garments and beds. In those residences, there were trees that granted all the objects of desire. Everywhere, there were rivers, roads, assembly halls, lakes and tanks. Thousands of vehicles were yoked and they thundered. There were rivers that ﬂowed with milk. There were mountains of ghee. The water sparkled. With Vaivasvata's permission, I saw many such countries that I had never seen before. Having seen all this, I addressed the ancient and powerful Dharmaraja. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“These rivers have eternal ﬂows of milk and ghee. Whose food have these been decreed as?”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Yama replied, ",
+          "speaker": "unknown",
+          "introduces": "@yama",
+          "introduces_label": "Yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Know that these objects of food are for the virtuous ones who donate milk. There are other eternal and pervasive worlds, bereft of all misery, for the virtuous ones who are devoted to donating cows. The gifting of cows alone is not praised. There are ordinances about the time and the recipient. O brahmana! One should give after knowing these. Know that if a cow is kept inside a place where it suffers from the ﬁre or the sun, this leads to hardship{66}. If a brahmana is ﬁrm in studying, is extremely ascetic and is devoted to sacriﬁces, he is a worthy recipient. Cows which have been rescued from a situation of distress and have thereafter been nourished, are especially praised. One should fast for three nights and sleep on the ground. After that, contented, one should give cows away. Cows should cheerfully be given away, with their calves, with all the other accompaniments. They should be ones that yield good calves. Having given them, for three days, the donor should only subsist on the milk of cows. One must donate a cow after following good vows. A brass vessel must be given for milking. It should be one that has easy birth and should also be one that does not run away. In that event, the donor enjoys the world of heaven for as many years as there are hair on the cow's body. A bull must be controllable and capable of bearing a burden. It must be strong and young. It must be large, brave and of noble birth. A donor who gives to a brahmana in this way, enjoys the worlds, like the donor of a cow. A forgiving and grateful person who has no means of subsistence and depends on cows for a living is said to be a worthy recipient. The donation of a cow is praised when there is fear about means of subsistence, for some great purpose, for the sake of agriculture, or for the sake of a sacriﬁce. The gift of a beloved cow is especially praised when it is for the preceptor or when it is for the sake of nurturing a child. The time and the place are important. Cows that are given should have been born internally{67}, purchased, obtained as a price for learning, obtained in exchange for other animals, conquered{68} or obtained in marriage.”",
+          "speaker": "@yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Hearing Vaivasvata's words, I spoke to him again. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“If people do not own cattle, how can they go to worlds that are meant for the donors of cattle?”",
+          "speaker": "@yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " At this, the intelligent Yama replied, ",
+          "speaker": "unknown",
+          "introduces": "the_intelligent_yama",
+          "introduces_label": "the intelligent Yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“By donating cattle, one goes to the supreme destination. In the absence of cattle, one can go to the regions where donors of cattle go, by giving what is regarded as equivalent to cows. In the absence of cows, one can carefully observe vows and create a cow made out of ghee. That ﬂow of ghee is like a milk-yielding cow with a calf. In the absence of ghee, one can carefully observe vows and donate sesamum. Like a cow, that will save from all kinds of hardship and one will ﬁnd delight, as with a river of milk. In the absence of sesamum, one can carefully observe vows and donate water. That will be like a ﬂowing river of cool water and will satisfy all the objects of desire.”",
+          "speaker": "the_intelligent_yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " These were the instructions that Dharmaraja gave me then. O undecaying one! On seeing all this, I was ﬁlled with supreme delight. I will now report something that you will ﬁnd agreeable. There is a great sacriﬁce that only requires a little bit of wealth. O father! It has been obtained by me and it will ﬂow from me. It can also be observed by those who follow the ordinances of the Vedas. The curse that you imposed on me was actually a favour. Through that, I was able to see Yama. I witnessed the great gains that can be reaped through donations. Without any doubt, I will practise dana dharma. O brahmana rishi! This is what Dharmaraja repeatedly told me, cheerfully. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O son! A person who always donates, should specially gift cows. Be pure in pursuing this artha and do not ignore your own dharma. Depending on the time and the place, donate to a worthy recipient. Therefore, always donate cows. You should not entertain any doubts about this. In ancient times, there were those who were tranquil in their souls. They remained on the path of donations and always gave gifts. They were scared of engaging in terrible austerities. Hence, to the best of their capacities, they practised donations. In due course of time, they abandoned all malice. They puriﬁed their souls. They were faithful and good in conduct. Those performers of auspicious deeds tormented themselves through donations and obtained blazing worlds in the vault of heaven. Lawfully obtained objects must be given to brahmanas, after examining whether the recipient is worthy. They should be given on kamyashtami{69}. After donating, for ten days, one should subsist on cow's milk, cow dung and cow's urine. The donor of a bull follows the vows of the Vedas. The donor of a couple of bulls becomes skilled in knowledge of the Vedas. By giving a vehicle yoked to cattle, one obtains the merit of bathing in tirthas. By giving a kapila cow, one is cleansed of all sins. If the owner of a kapila obtained through legitimate means gives it away, he is puriﬁed of all sins. There is nothing that is superior to the milk of cows. It is said that greatness is obtained from donating cows. Through their milk, cows hold up the world. Cows produce the food that sustains the worlds. Knowing about what cattle do, if a person oppresses them, he is evil in his consciousness and goes to hell. If a person donates one thousand cows, one hundred, ﬁfty or even ten, or even if one gives a single cow that properly gives birth to calves, to a virtuous brahmana, that cow becomes like a river that is full of sacred tirthas, yielding beneﬁts. In prosperity, nourishment and protecting the worlds, cows are like the rays of the sun that descend on earth. The word is the same for both{70}. The donor of a cow enjoys extensive offspring. Therefore, a cow shines like the sun. In donating cows, for a disciple, the preceptor is the best recipient. He is the eloquent and controlled speaker who grants heaven. The knowledge of the ordinances is extremely great dharma. This is the ﬁrst ordinance and all other ordinances result from this{71}. Thus, legitimately earned objects must be given to brahmanas, after ascertaining the worthiness of the recipient. When praising, the immortals, men and we say, ",
+          "speaker": "the_intelligent_yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 5,
+          "text": "‘May the auspiciousness of your deeds extend.’",
+          "speaker": "the_intelligent_yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "”",
+          "speaker": "the_intelligent_yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O maharshi! This is what Dharmaraja told me. I bowed my head down before the one who has dharma in his soul. O illustrious one! Having taken Vaivasvata's permission, I have returned here, at your feet.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

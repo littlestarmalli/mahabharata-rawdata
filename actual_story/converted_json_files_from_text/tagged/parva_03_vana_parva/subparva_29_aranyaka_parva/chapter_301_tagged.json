@@ -1,0 +1,82 @@
+{
+  "chapter_number": 301,
+  "global_number": 301,
+  "local_number": 4,
+  "num_shlokas": 10,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘At that{43}, Divakara was pleased and showed himself to the Pandava in his own body. He was radiant and blazed like the ﬁre. “O king! You will get everything that you wish for. I will provide you food for the twelve years. There will be no shortage of the four kinds of food in your kitchen—fruit, roots, meat and vegetables. There will be no shortage of many riches too.” Having said this, he vanished{44}.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘At that{43}, Divakara was pleased and showed himself to the Pandava in his own body. He was radiant and blazed like the ﬁre.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“O king! You will get everything that you wish for. I will provide you food for the twelve years. There will be no shortage of the four kinds of food in your kitchen—fruit, roots, meat and vegetables. There will be no shortage of many riches too.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having said this, he vanished{44}.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Having obtained this boon, Kounteya, knowledgeable in the ways of dharma, arose from the water{45}. The one without decay grasped Dhoumya’s feet and embraced his brothers. He went and met Droupadi. While she watched, the lord Pandava cooked the food in the kitchen. However, once cooked, the four kinds of forest fare{46} increased and became inexhaustible. With that, he fed the brahmanas. When the brahmanas had been fed and his younger brothers had also eaten, Yudhishthira later ate the remainder and this came to be known as vighasa{47}. After feeding Yudhishthira, Parshati{48} ate the remnants. The lord{49}, who was as radiant as Divakara himself, thus obtained a boon from Divakara and gave the brahmanas all that they desired. On the appointed tithis and nakshatras, with his priest at the forefront, he performed sacriﬁces in accordance with the mantras and the rituals. Thereupon, with their departure blessed, the Pandavas, with Dhoumya and surrounded by a mass of brahmanas, left for the forest of Kamyaka.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having obtained this boon, Kounteya, knowledgeable in the ways of dharma, arose from the water{45}. The one without decay grasped Dhoumya’s feet and embraced his brothers. He went and met Droupadi. While she watched, the lord Pandava cooked the food in the kitchen. However, once cooked, the four kinds of forest fare{46} increased and became inexhaustible. With that, he fed the brahmanas. When the brahmanas had been fed and his younger brothers had also eaten, Yudhishthira later ate the remainder and this came to be known as vighasa{47}. After feeding Yudhishthira, Parshati{48} ate the remnants. The lord{49}, who was as radiant as Divakara himself, thus obtained a boon from Divakara and gave the brahmanas all that they desired. On the appointed tithis and nakshatras, with his priest at the forefront, he performed sacriﬁces in accordance with the mantras and the rituals. Thereupon, with their departure blessed, the Pandavas, with Dhoumya and surrounded by a mass of brahmanas, left for the forest of Kamyaka.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

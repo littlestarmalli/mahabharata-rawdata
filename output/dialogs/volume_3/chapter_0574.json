@@ -1,0 +1,259 @@
+{
+  "chapter": 574,
+  "local": 277,
+  "shlokas": 41,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O great sage! I do not grieve for myself, or for my brothers, or for the loss of the kingdom, but for Drupada's daughter. When we were oppressed by those evil-souled ones at the game of dice, we were saved by Krishna. But she was again forcibly abducted from the forest by Jayadratha. Have you ever seen, or heard of, a woman as immensely fortunate and as devoted to her husbands as Drupada's daughter?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great sage! I do not grieve for myself, or for my brothers, or for the loss of the kingdom, but for Drupada's daughter. When we were oppressed by those evil-souled ones at the game of dice, we were saved by Krishna. But she was again forcibly abducted from the forest by Jayadratha. Have you ever seen, or heard of, a woman as immensely fortunate and as devoted to her husbands as Drupada's daughter?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Markandeya said, “O king! O Yudhishthira! Hear about the great fortune of a lady born in a high lineage. The princess Savitri obtained everything. There was a king in the land of Madra. He had dharma in his soul and was extremely devoted to dharma. The great-souled one was devoted to brahmanas, was united with the truth and had conquered his senses. That king had the name of Ashvapati. He performed sacriﬁces, was generous in giving and was skilled. He was the beloved of the citizens and the inhabitants of the countryside. He was engaged in the welfare of all beings. He was forgiving and truthful and had conquered his senses. He had no offspring. Because he was advancing in years, he was concerned. In order to obtain offspring, he resorted to severe rites. When it was time to eat, he restricted his food. He became a brahmachari and conquered his senses. O supreme among kings! He offered a hundred thousand oblations to Savitri{159}. He ate in limited quantities and skipped every sixth meal. He lived with these rules for eighteen years. When eighteen years were over, Savitri was pleased. O king! She arose from the agnihotra{160}, and with great delight, showed herself to the king. The one who grants boons then spoke these words to the king. ‘O king! I am satisﬁed with your brahmacharya, purity, self-control, rituals and your wholehearted devotion. O Ashvapati! O king of Madra! Ask for whatever boon you desire. But do not make the mistake of disregarding dharma.’ Ashvapati replied, ‘I am desirous of dharma and have observed these rites because I desire offspring. O goddess! May I have many sons who extend my lineage. O goddess! If you are pleased with me, then I ask for this boon. The brahmanas have told me that obtaining offspring is the supreme dharma.’ Savitri said, ‘O king! Knowing of your intentions in advance, I have already spoken about your objective of obtaining sons to the grandfather{161}. O pleasant one! Through the favours granted to you on earth by the self-creating one, an energetic daughter will soon be born to you. You need not make any reply to this{162}. I am delighted and am telling you this on behalf of the grandfather.’ The king acknowledged Savitri's words and requested that, through her favours, this might occur soon. When Savitri had disappeared, the king returned to his own house. He lived happily in his kingdom and protected the subjects according to dharma.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O Yudhishthira! Hear about the great fortune of a lady born in a high lineage. The princess Savitri obtained everything. There was a king in the land of Madra. He had dharma in his soul and was extremely devoted to dharma. The great-souled one was devoted to brahmanas, was united with the truth and had conquered his senses. That king had the name of Ashvapati. He performed sacriﬁces, was generous in giving and was skilled. He was the beloved of the citizens and the inhabitants of the countryside. He was engaged in the welfare of all beings. He was forgiving and truthful and had conquered his senses. He had no offspring. Because he was advancing in years, he was concerned. In order to obtain offspring, he resorted to severe rites. When it was time to eat, he restricted his food. He became a brahmachari and conquered his senses. O supreme among kings! He offered a hundred thousand oblations to Savitri{159}. He ate in limited quantities and skipped every sixth meal. He lived with these rules for eighteen years. When eighteen years were over, Savitri was pleased. O king! She arose from the agnihotra{160}, and with great delight, showed herself to the king. The one who grants boons then spoke these words to the king. ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I am satisﬁed with your brahmacharya, purity, self-control, rituals and your wholehearted devotion. O Ashvapati! O king of Madra! Ask for whatever boon you desire. But do not make the mistake of disregarding dharma.’",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Ashvapati replied, ",
+          "speaker": "@markandeya",
+          "introduces": "@ashvapati",
+          "introduces_label": "Ashvapati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am desirous of dharma and have observed these rites because I desire offspring. O goddess! May I have many sons who extend my lineage. O goddess! If you are pleased with me, then I ask for this boon. The brahmanas have told me that obtaining offspring is the supreme dharma.’",
+          "speaker": "@ashvapati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Savitri said, ",
+          "speaker": "@markandeya",
+          "introduces": "@savitri",
+          "introduces_label": "Savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Knowing of your intentions in advance, I have already spoken about your objective of obtaining sons to the grandfather{161}. O pleasant one! Through the favours granted to you on earth by the self-creating one, an energetic daughter will soon be born to you. You need not make any reply to this{162}. I am delighted and am telling you this on behalf of the grandfather.’",
+          "speaker": "@savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king acknowledged Savitri's words and requested that, through her favours, this might occur soon. When Savitri had disappeared, the king returned to his own house. He lived happily in his kingdom and protected the subjects according to dharma.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Some time passed. The king, who was regulated in his vows, impregnated the womb of his eldest queen, who was devoted to dharma. O bull among the Bharata lineage! The embryo in the womb of the princess of Malava grew{163}, like the lord of the stars{164} in the sky during shuklapaksha. At the right time, she gave birth to a daughter who had eyes like a lotus. The king happily performed the rites for her. Because she had been given by Savitri when oblations with savitri{165} had been rendered, the brahmanas and her father gave her the name of Savitri. The king's daughter grew, like Shri{166} personiﬁed. In due course of time, the girl became a maiden. Her waist was slender and her hips were broad. She was like a golden image. On seeing her, people thought that they had obtained a celestial maiden. Her eyes were like the petals of a lotus, blazing in their energy. On seeing that energy, no one dared to marry her. On an auspicious day, having washed her hair and having fasted, she approached the gods and offered oblations into the ﬁre, according to the prescribed rites and accompanied with recitations by brahmanas. When this was over, the goddess who was like Shri in her form, took the remaining ﬂowers and went to her great-souled father. Bowing at her father's feet, she ﬁrst offered the remnants to him. Then, joining her hands in salutation, the one with the beautiful hips stood by the side of the king. On seeing that his daughter had grown up and looked like a goddess, the king was unhappy that no one had wished to marry her yet.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Some time passed. The king, who was regulated in his vows, impregnated the womb of his eldest queen, who was devoted to dharma. O bull among the Bharata lineage! The embryo in the womb of the princess of Malava grew{163}, like the lord of the stars{164} in the sky during shuklapaksha. At the right time, she gave birth to a daughter who had eyes like a lotus. The king happily performed the rites for her. Because she had been given by Savitri when oblations with savitri{165} had been rendered, the brahmanas and her father gave her the name of Savitri. The king's daughter grew, like Shri{166} personiﬁed. In due course of time, the girl became a maiden. Her waist was slender and her hips were broad. She was like a golden image. On seeing her, people thought that they had obtained a celestial maiden. Her eyes were like the petals of a lotus, blazing in their energy. On seeing that energy, no one dared to marry her. On an auspicious day, having washed her hair and having fasted, she approached the gods and offered oblations into the ﬁre, according to the prescribed rites and accompanied with recitations by brahmanas. When this was over, the goddess who was like Shri in her form, took the remaining ﬂowers and went to her great-souled father. Bowing at her father's feet, she ﬁrst offered the remnants to him. Then, joining her hands in salutation, the one with the beautiful hips stood by the side of the king. On seeing that his daughter had grown up and looked like a goddess, the king was unhappy that no one had wished to marry her yet.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king said, ‘O daughter! The time to give you away has arrived. But no one is asking me. Therefore, you yourself look for a husband, with qualities that are like your own. If you desire a man, tell me about him. Marry whom you wish. After deliberations, I will give you away. O fortunate one! I have heard what brahmanas have recited from the sacred texts. Listen to these words, as I recount them. “A father who does not give his daughter away is condemned. A husband who does not cohabit at the right time is condemned. A son, who does not protect his mother when her husband is dead, is condemned.” On hearing my words, swiftly go and look for a husband. Act in a way so that we are not condemned by the gods.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king said, ",
+          "speaker": "@markandeya",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O daughter! The time to give you away has arrived. But no one is asking me. Therefore, you yourself look for a husband, with qualities that are like your own. If you desire a man, tell me about him. Marry whom you wish. After deliberations, I will give you away. O fortunate one! I have heard what brahmanas have recited from the sacred texts. Listen to these words, as I recount them. ",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“A father who does not give his daughter away is condemned. A husband who does not cohabit at the right time is condemned. A son, who does not protect his mother when her husband is dead, is condemned.”",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " On hearing my words, swiftly go and look for a husband. Act in a way so that we are not condemned by the gods.’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Markandeya said, “Thus addressing his daughter, he assigned aged ministers to her, for the arrangements, and asked her to go. Having learnt of her father's instructions, the intelligent one bowed bashfully at her father's feet and departed without any hesitation. She was seated on a golden chariot and was surrounded by the aged advisers. She went to the beautiful hermitages of the rajarshis. She showed her homage at the feet of the revered elders who were there. O son! She visited all the forests, one after another. At all the tirthas, the king's daughter gave away riches to the foremost among brahmanas and went from one region to another.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Thus addressing his daughter, he assigned aged ministers to her, for the arrangements, and asked her to go. Having learnt of her father's instructions, the intelligent one bowed bashfully at her father's feet and departed without any hesitation. She was seated on a golden chariot and was surrounded by the aged advisers. She went to the beautiful hermitages of the rajarshis. She showed her homage at the feet of the revered elders who were there. O son! She visited all the forests, one after another. At all the tirthas, the king's daughter gave away riches to the foremost among brahmanas and went from one region to another.”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

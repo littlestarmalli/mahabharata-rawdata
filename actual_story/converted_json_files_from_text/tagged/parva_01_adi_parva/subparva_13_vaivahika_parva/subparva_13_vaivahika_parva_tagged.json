@@ -1,0 +1,65 @@
+{
+  "name": "Vaivahika Parva",
+  "subparva_number": 13,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 155
+  },
+  "note": "Vivaha means wedding and this parva is about Droupadi�s marriage.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "186": {
+      "chapter_number": 186,
+      "global_number": 186,
+      "local_number": 186,
+      "num_shlokas": 15,
+      "file": "subparva_13_vaivahika_parva/chapter_186_tagged.json"
+    },
+    "187": {
+      "chapter_number": 187,
+      "global_number": 187,
+      "local_number": 187,
+      "num_shlokas": 32,
+      "file": "subparva_13_vaivahika_parva/chapter_187_tagged.json"
+    },
+    "188": {
+      "chapter_number": 188,
+      "global_number": 188,
+      "local_number": 188,
+      "num_shlokas": 22,
+      "file": "subparva_13_vaivahika_parva/chapter_188_tagged.json"
+    },
+    "189": {
+      "chapter_number": 189,
+      "global_number": 189,
+      "local_number": 189,
+      "num_shlokas": 49,
+      "file": "subparva_13_vaivahika_parva/chapter_189_tagged.json"
+    },
+    "190": {
+      "chapter_number": 190,
+      "global_number": 190,
+      "local_number": 190,
+      "num_shlokas": 18,
+      "file": "subparva_13_vaivahika_parva/chapter_190_tagged.json"
+    },
+    "191": {
+      "chapter_number": 191,
+      "global_number": 191,
+      "local_number": 191,
+      "num_shlokas": 19,
+      "file": "subparva_13_vaivahika_parva/chapter_191_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "chapter_number": 195,
+  "global_number": 195,
+  "local_number": 195,
+  "num_shlokas": 19,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Bhishma said, “I will never agree to a war with Pandu’s sons. There is no doubt that Pandu was as dear to me as Dhritarashtra is. To me, the sons of Gandhari are like the sons of Kunti. O Dhritarashtra! They must be protected as much by me as by you. O descendant of the Bharata lineage! Like they are to me and the king{29}, they should be the same way to Duryodhana and the other sons of Kuru. Therefore, I can never favour a war with them. Have a treaty with those warriors and give them land. For those best of the Kurus{30}, there is no doubt that this is the kingdom of their fathers and grandfathers. O Duryodhana! Just as you consider this kingdom to be your parental property, the Pandavas also see it as their paternal property. If the Pandavas, who practise austerities, cannot get this kingdom, how can it be yours or of anyone from the Bharata lineage? O bull among the Bharatas! If you think that you have acquired this kingdom through what is right, I think that they rightfully think that they obtained the kingdom before you. O tiger among men! Peacefully give them half of the kingdom. That will be the best for everyone. If you act in any other way, no good will come out of it. There is no doubt that you will be covered in dishonour.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“I will never agree to a war with Pandu’s sons. There is no doubt that Pandu was as dear to me as Dhritarashtra is. To me, the sons of Gandhari are like the sons of Kunti. O Dhritarashtra! They must be protected as much by me as by you. O descendant of the Bharata lineage! Like they are to me and the king{29}, they should be the same way to Duryodhana and the other sons of Kuru. Therefore, I can never favour a war with them. Have a treaty with those warriors and give them land. For those best of the Kurus{30}, there is no doubt that this is the kingdom of their fathers and grandfathers. O Duryodhana! Just as you consider this kingdom to be your parental property, the Pandavas also see it as their paternal property. If the Pandavas, who practise austerities, cannot get this kingdom, how can it be yours or of anyone from the Bharata lineage? O bull among the Bharatas! If you think that you have acquired this kingdom through what is right, I think that they rightfully think that they obtained the kingdom before you. O tiger among men! Peacefully give them half of the kingdom. That will be the best for everyone. If you act in any other way, no good will come out of it. There is no doubt that you will be covered in dishonour.",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“Try to preserve your good reputation. A good reputation is the source of supreme strength. It is said that a man who has lost his reputation, lives in vain. O son of Gandhari! O descendant of Kuru! As long as a man’s good reputation lasts, he does not die. He is destroyed when his good reputation is lost. Therefore, follow the dharma that is worthy of the Kuru lineage. O one with mighty arms! Act as your ancestors have acted before you. It is fortunate that those warriors are alive. It is fortunate that Pritha is alive. It is fortunate that the evil Purochana himself perished, without being successful. O son of Gandhari! From the time I heard what had happened to the sons of Kunti, I was not able to look at any living being. O tiger among men! People do not think Purochana as guilty as they think you. O king! Therefore, the escape of the Pandavas from that destruction and their reappearance is something that should be wished for. O descendant of the Kuru lineage! Know that as long as those warriors are alive, the wielder of the vajra{31} himself cannot deprive them of their paternal property, because they are established in dharma and are united. They have been deprived of an equal share in the kingdom through adharma. If you wish to act in accordance with dharma, if you wish to do that which pleases me, if you wish to do that which is good, give them half.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Try to preserve your good reputation. A good reputation is the source of supreme strength. It is said that a man who has lost his reputation, lives in vain. O son of Gandhari! O descendant of Kuru! As long as a man’s good reputation lasts, he does not die. He is destroyed when his good reputation is lost. Therefore, follow the dharma that is worthy of the Kuru lineage. O one with mighty arms! Act as your ancestors have acted before you. It is fortunate that those warriors are alive. It is fortunate that Pritha is alive. It is fortunate that the evil Purochana himself perished, without being successful. O son of Gandhari! From the time I heard what had happened to the sons of Kunti, I was not able to look at any living being. O tiger among men! People do not think Purochana as guilty as they think you. O king! Therefore, the escape of the Pandavas from that destruction and their reappearance is something that should be wished for. O descendant of the Kuru lineage! Know that as long as those warriors are alive, the wielder of the vajra{31} himself cannot deprive them of their paternal property, because they are established in dharma and are united. They have been deprived of an equal share in the kingdom through adharma. If you wish to act in accordance with dharma, if you wish to do that which pleases me, if you wish to do that which is good, give them half.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    }
+  }
+}

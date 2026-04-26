@@ -1,0 +1,147 @@
+{
+  "chapter_number": 174,
+  "global_number": 174,
+  "local_number": 174,
+  "num_shlokas": 12,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Arjuna said, “O gandharva! You know everything. Tell us who, learned in the Vedas, is ﬁt to be appointed our priest.” The gandharva said, “There is a tirtha in this forest known as Utkochaka. Devala’s younger brother Dhoumya is engaged in practising austerities there. If you wish, you can appoint him as your priest.”’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "‘",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@author",
+          "text": "Arjuna said",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@arjuna",
+          "text": "“O gandharva! You know everything. Tell us who, learned in the Vedas, is ﬁt to be appointed our priest.”",
+          "color": "#5BA4CF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@author",
+          "text": "The gandharva said",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_gandharva",
+          "text": "“There is a tirtha in this forest known as Utkochaka. Devala’s younger brother Dhoumya is engaged in practising austerities there. If you wish, you can appoint him as your priest.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "’",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "Vaishampayana said, ‘Then Arjuna happily gave the gandharva his agneya weapon, in accordance with the prescribed rituals. He said, “O best of the gandharvas! Keep the horses for the moment. We shall take them from you when we need them. Be blessed.” Then the gandharva and the Pandavas respectfully saluted each other and left the beautiful banks of the Bhagirathi, to go wherever they wished.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Then Arjuna happily gave the gandharva his agneya weapon,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "in accordance with the prescribed rituals. He said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@in_accordance_with_the",
+          "text": "“O best of the gandharvas! Keep the horses for the moment. We shall take them from you when we need them. Be blessed.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Then the gandharva and the Pandavas respectfully saluted each other and left the beautiful banks of the Bhagirathi, to go wherever they wished.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘O descendant of the Bharata lineage! The Pandavas went to Utkochaka tirtha and Dhoumya’s hermitage. They instated Dhoumya as their priest. Dhoumya, foremost among those who know all the Vedas, received them with water to wash their feet and with offerings of fruits and roots from the forest. He agreed to be their priest. Having obtained the Brahmana at their forefront, the Pandavas were hopeful of obtaining riches and the kingdom and of winning Panchali in the svayamvara. With their mother constituting the sixth person of the group, those bulls of the Bharata lineage considered themselves well protected, now that they had a preceptor. For the noble preceptor knew the subtle nuances of the Vedas well. He made the virtuous sons of Pritha his disciples in learning all the knowledge. Seeing that those warriors were already endowed with intelligence, valour, strength and perseverance equal to that of the gods, he decided that they were already restored to their kingdom through their own virtues. He blessed them. Those kings among men decided to go with him to the svayamvara in Panchala.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O descendant of the Bharata lineage! The Pandavas went to Utkochaka tirtha and Dhoumya’s hermitage. They instated Dhoumya as their priest. Dhoumya, foremost among those who know all the Vedas, received them with water to wash their feet and with offerings of fruits and roots from the forest. He agreed to be their priest. Having obtained the Brahmana at their forefront, the Pandavas were hopeful of obtaining riches and the kingdom and of winning Panchali in the svayamvara. With their mother constituting the sixth person of the group, those bulls of the Bharata lineage considered themselves well protected, now that they had a preceptor. For the noble preceptor knew the subtle nuances of the Vedas well. He made the virtuous sons of Pritha his disciples in learning all the knowledge. Seeing that those warriors were already endowed with intelligence, valour, strength and perseverance equal to that of the gods, he decided that they were already restored to their kingdom through their own virtues. He blessed them. Those kings among men decided to go with him to the svayamvara in Panchala.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

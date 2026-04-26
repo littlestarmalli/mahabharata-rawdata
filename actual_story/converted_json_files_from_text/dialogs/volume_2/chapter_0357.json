@@ -1,0 +1,230 @@
+{
+  "chapter": 357,
+  "local": 60,
+  "shlokas": 38,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Brihadashva said, “When King Nala had departed, Damayanti awoke, having overcome her fatigue. The one with the beautiful hips was terriﬁed in that deserted forest. She could not see her husband and was immersed in sorrow and misery.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Brihadashva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihadashva",
+          "introduces_label": "Brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When King Nala had departed, Damayanti awoke, having overcome her fatigue. The one with the beautiful hips was terriﬁed in that deserted forest. She could not see her husband and was immersed in sorrow and misery.",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Frightened because of Nishadha, she cried out aloud, ‘O great king! O protector! O great king! O lord! Why did you forsake me? I am dead! I am destroyed! I am terriﬁed in this deserted forest. O great king! You have always been knowledgeable in dharma. You have always spoken the truth. How could you have uttered a falsehood? While I was asleep, how could you have forsaken me in this forest? Why have you departed, abandoning a wife who was obedient and devoted to you, especially when she has caused you no harm? You have been wronged by your enemies. O lord of men! In earlier times, you had uttered some words in the presence of the lords of the worlds. How can you possibly make them come true? O bull among men! There has been enough of this jest. Let it not go any further. O invincible one! I am terriﬁed. O lord! Show yourself to me. O king! I have seen you! I have seen you! O Nishadha! Stay there! I have seen you hidden behind the creepers. Why don't you reply to me? O Indra among kings! You are cruel! O king! You see me lamenting in this state, but do not come and comfort me in your arms. I am not sorrowing because of my own self, or because of anything else. O king! I am sorrowing because you will have to be alone. O king! In the evening, you will be thirsty, hungry and exhausted from labour. You will be under a tree and how will you exist without seeing me?’ Thus she was immersed in terrible grief and blazing in her anger. Weeping and miserable, she dashed here and there. In one instant, the lady would stand up. In another instant, she would fall down unconscious. In one instant, she was frightened. In another instant, she wept loudly. Bhima's faithful daughter was tormented by terrible grief. She was distraught and sighed again and again. Then she spoke in a tearful voice, ‘Nishadha is suffering because of the curse of some being and may he also be miserable in grief. Whatever sorrow befalls us, may his sorrow be greater. May the evil-minded one who has done this evil to Nala meet with greater sorrow. May he live a life that is full of unhappiness.’ Thus did the wife of the great-souled king lament. She searched for her husband in that forest frequented by wild beasts. Bhima's daughter was like one maddened. She lamented and ran here and there, crying ‘Alas! O king!’ She dashed like one who had lost her senses.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Frightened because of Nishadha, she cried out aloud, ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great king! O protector! O great king! O lord! Why did you forsake me? I am dead! I am destroyed! I am terriﬁed in this deserted forest. O great king! You have always been knowledgeable in dharma. You have always spoken the truth. How could you have uttered a falsehood? While I was asleep, how could you have forsaken me in this forest? Why have you departed, abandoning a wife who was obedient and devoted to you, especially when she has caused you no harm? You have been wronged by your enemies. O lord of men! In earlier times, you had uttered some words in the presence of the lords of the worlds. How can you possibly make them come true? O bull among men! There has been enough of this jest. Let it not go any further. O invincible one! I am terriﬁed. O lord! Show yourself to me. O king! I have seen you! I have seen you! O Nishadha! Stay there! I have seen you hidden behind the creepers. Why don't you reply to me? O Indra among kings! You are cruel! O king! You see me lamenting in this state, but do not come and comfort me in your arms. I am not sorrowing because of my own self, or because of anything else. O king! I am sorrowing because you will have to be alone. O king! In the evening, you will be thirsty, hungry and exhausted from labour. You will be under a tree and how will you exist without seeing me?’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus she was immersed in terrible grief and blazing in her anger. Weeping and miserable, she dashed here and there. In one instant, the lady would stand up. In another instant, she would fall down unconscious. In one instant, she was frightened. In another instant, she wept loudly. Bhima's faithful daughter was tormented by terrible grief. She was distraught and sighed again and again. Then she spoke in a tearful voice, ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Nishadha is suffering because of the curse of some being and may he also be miserable in grief. Whatever sorrow befalls us, may his sorrow be greater. May the evil-minded one who has done this evil to Nala meet with greater sorrow. May he live a life that is full of unhappiness.’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus did the wife of the great-souled king lament. She searched for her husband in that forest frequented by wild beasts. Bhima's daughter was like one maddened. She lamented and ran here and there, crying ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Alas! O king!’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " She dashed like one who had lost her senses.",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“She repeatedly sorrowed and lamented in piteous tones, like a female osprey, and dried up{120}. Suddenly, Bhima's daughter came upon a boa constrictor{121}. As she came near, the giant one, who was hungry, grasped her. As she was being devoured by the serpent{122}, she was overcome by grief. She wasn't sorrowful because of her own self, but sorrowed more about Nishadha. ‘O protector! I am being devoured in this deserted forest by this serpent, like one unprotected. Why don't you rush here? O Nishadha! How will you live when my memories come back to you? You will be freed from evil. You will again obtain your senses, your intelligence and your riches. O Nishadha! O tiger among kings! O giver of respect! When you are tired and hungry and exhausted, who will reduce your fatigue?’ At that time, a hunter of animals was roaming in the deep forest. He heard the sound of her cries and swiftly came to where she was. He saw the long-eyed one there, being devoured by the serpent. The hunter of animals swiftly came to her aid. With a sharp weapon, he severed the serpent's head. The one who lived off hunting slashed at the serpent until it was motionless. O descendant of the Bharata lineage! The hunter freed her and cleaned her with water. He comforted her and asked her if she had eaten some food. ‘O one with the eyes of a deer! Whom do you belong to? Why have you come to this forest? O beautiful one! How is it that you have encountered this great difﬁculty?’ O lord of the earth! O descendant of the Bharata lineage! On his asking, Damayanti told him everything, exactly as it had occurred.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“She repeatedly sorrowed and lamented in piteous tones, like a female osprey, and dried up{120}. Suddenly, Bhima's daughter came upon a boa constrictor{121}. As she came near, the giant one, who was hungry, grasped her. As she was being devoured by the serpent{122}, she was overcome by grief. She wasn't sorrowful because of her own self, but sorrowed more about Nishadha. ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O protector! I am being devoured in this deserted forest by this serpent, like one unprotected. Why don't you rush here? O Nishadha! How will you live when my memories come back to you? You will be freed from evil. You will again obtain your senses, your intelligence and your riches. O Nishadha! O tiger among kings! O giver of respect! When you are tired and hungry and exhausted, who will reduce your fatigue?’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At that time, a hunter of animals was roaming in the deep forest. He heard the sound of her cries and swiftly came to where she was. He saw the long-eyed one there, being devoured by the serpent. The hunter of animals swiftly came to her aid. With a sharp weapon, he severed the serpent's head. The one who lived off hunting slashed at the serpent until it was motionless. O descendant of the Bharata lineage! The hunter freed her and cleaned her with water. He comforted her and asked her if she had eaten some food. ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the eyes of a deer! Whom do you belong to? Why have you come to this forest? O beautiful one! How is it that you have encountered this great difﬁculty?’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O lord of the earth! O descendant of the Bharata lineage! On his asking, Damayanti told him everything, exactly as it had occurred.",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The hunter of animals saw that she was covered with only half a garment. Her breasts and hips were heavy. Her limbs were unblemished and delicate. Her face was like the full moon. The lashes of her eyes were curved and her speech was sweet. On seeing this, he was overcome by desire. In this state, the hunter{123} spoke to her in soft and gentle words. But the beautiful one saw that he was comforting her out of desire. Damayanti was devoted to her husband. On realizing the wishes of the evil one, she was consumed by a terrible rage and seemed to blaze in anger. The evil-minded and mean one was about to violate her out of desire, but saw that the inviolate one seemed to be like the ﬂame of a blazing ﬁre. Deprived of her husband and her kingdom, the miserable Damayanti cursed in her anger, since the time of using words had passed. ‘If I have never thought of anyone other than Nishadha, then let this mean one, who makes a living out of animals, fall down dead.’ As soon as she had uttered these words, the one who made a living out of animals fell down lifeless on the ground, like a tree consumed by ﬁre.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The hunter of animals saw that she was covered with only half a garment. Her breasts and hips were heavy. Her limbs were unblemished and delicate. Her face was like the full moon. The lashes of her eyes were curved and her speech was sweet. On seeing this, he was overcome by desire. In this state, the hunter{123} spoke to her in soft and gentle words. But the beautiful one saw that he was comforting her out of desire. Damayanti was devoted to her husband. On realizing the wishes of the evil one, she was consumed by a terrible rage and seemed to blaze in anger. The evil-minded and mean one was about to violate her out of desire, but saw that the inviolate one seemed to be like the ﬂame of a blazing ﬁre. Deprived of her husband and her kingdom, the miserable Damayanti cursed in her anger, since the time of using words had passed. ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If I have never thought of anyone other than Nishadha, then let this mean one, who makes a living out of animals, fall down dead.’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " As soon as she had uttered these words, the one who made a living out of animals fell down lifeless on the ground, like a tree consumed by ﬁre.”",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

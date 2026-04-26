@@ -1,0 +1,662 @@
+{
+  "chapter": 123,
+  "local": 123,
+  "shlokas": 78,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Arjuna took a great deal of care in worshipping his preceptor and showed the greatest devotion in learning the art of weapons. He became a great favourite of Drona's. Drona summoned the cook and told him secretly, “Never give Arjuna any food when it is dark.” One day, when Arjuna was eating, a wind arose and blew out the lamp and its light. Arjuna continued to eat in the dark, his hand moving to his mouth from force of habit. The Pandava then began to practise in the night. O descendant of the Bharata lineage! Drona heard the twang of his bowstring and came to him and embraced him. He said, “I promise you that I will do my utmost to ensure that you are the best archer in this world and there is no one equal to you.” Then Drona taught Arjuna the art of ﬁghting from horses, elephants, chariots and on the ground. Drona taught the Pandava how to ﬁght in narrow conﬁnes{345} with clubs, swords, spears, javelins and lances. On witnessing his skills, thousands of kings and princes assembled to learn the science of Dhanur Veda.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna took a great deal of care in worshipping his preceptor and showed the greatest devotion in learning the art of weapons. He became a great favourite of Drona's. Drona summoned the cook and told him secretly, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Never give Arjuna any food when it is dark.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " One day, when Arjuna was eating, a wind arose and blew out the lamp and its light. Arjuna continued to eat in the dark, his hand moving to his mouth from force of habit. The Pandava then began to practise in the night. O descendant of the Bharata lineage! Drona heard the twang of his bowstring and came to him and embraced him. He said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I promise you that I will do my utmost to ensure that you are the best archer in this world and there is no one equal to you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then Drona taught Arjuna the art of ﬁghting from horses, elephants, chariots and on the ground. Drona taught the Pandava how to ﬁght in narrow conﬁnes{345} with clubs, swords, spears, javelins and lances. On witnessing his skills, thousands of kings and princes assembled to learn the science of Dhanur Veda.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O king! Ekalavya was the son of Hiranyadhanu, the king of the nishadas. He came to Drona. However, since he was the son of a nishada{346}, Drona, who was learned in dharma, thought about it and refused to accept him as a student of archery, out of consideration for the others. That conqueror of enemies touched Drona's feet with his head. He went to the forest and used clay to make Drona's image. He began to worship and treat this as his preceptor, devoting his mind to learning archery in accordance with the proper disciplines. As a consequence of his exceptional faith and supreme devotion, he acquired great dexterity in ﬁxing an arrow to the string of the bow, aiming and then releasing it. One day, with Drona's permission, all the Kurus and the Pandavas, conquerors of their enemies, went out on their chariots for a hunt. O king! A servant followed the Pandavas, carrying the required objects with him and he had a dog with him. They wandered around in the forest, their hearts set on what they wished to do. The dog also wandered off in the forest, got lost and came upon the nishada. On seeing the dark nishada in the forest, his body covered with dirt and clad in a dark deerskin, the dog began to bark. When it kept on barking, he displayed great dexterity. In one instant, he shot seven arrows into its mouth. The dog dashed back to the Pandavas, its mouth full of arrows. On seeing this, the brave Pandavas were extremely surprised. At this supreme and dextrous feat of shooting blind,347they praised the person who had done this, but were also ashamed of their own skills. O king! The Pandavas went out to search for the forest-dweller who had done this and found him, tirelessly shooting arrows. They did not know him and his appearance wasn't handsome. They asked him, “Who are you and whose son are you?” Ekalavya replied, “Know me to be the son of Hiranyadhanu, the king of the nishadas. I am Drona's student and I am trying to become skilled in Dhanur Veda.” The Pandavas ascertained the details of everything that had happened.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Ekalavya was the son of Hiranyadhanu, the king of the nishadas. He came to Drona. However, since he was the son of a nishada{346}, Drona, who was learned in dharma, thought about it and refused to accept him as a student of archery, out of consideration for the others. That conqueror of enemies touched Drona's feet with his head. He went to the forest and used clay to make Drona's image. He began to worship and treat this as his preceptor, devoting his mind to learning archery in accordance with the proper disciplines. As a consequence of his exceptional faith and supreme devotion, he acquired great dexterity in ﬁxing an arrow to the string of the bow, aiming and then releasing it. One day, with Drona's permission, all the Kurus and the Pandavas, conquerors of their enemies, went out on their chariots for a hunt. O king! A servant followed the Pandavas, carrying the required objects with him and he had a dog with him. They wandered around in the forest, their hearts set on what they wished to do. The dog also wandered off in the forest, got lost and came upon the nishada. On seeing the dark nishada in the forest, his body covered with dirt and clad in a dark deerskin, the dog began to bark. When it kept on barking, he displayed great dexterity. In one instant, he shot seven arrows into its mouth. The dog dashed back to the Pandavas, its mouth full of arrows. On seeing this, the brave Pandavas were extremely surprised. At this supreme and dextrous feat of shooting blind,347they praised the person who had done this, but were also ashamed of their own skills. O king! The Pandavas went out to search for the forest-dweller who had done this and found him, tirelessly shooting arrows. They did not know him and his appearance wasn't handsome. They asked him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who are you and whose son are you?”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Ekalavya replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@ekalavya",
+          "introduces_label": "Ekalavya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Know me to be the son of Hiranyadhanu, the king of the nishadas. I am Drona's student and I am trying to become skilled in Dhanur Veda.”",
+          "speaker": "@ekalavya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The Pandavas ascertained the details of everything that had happened.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On return, they told Drona the entire story. O king! Kounteya Arjuna kept thinking about Ekalavya. He went to Drona and affectionately told him, “In your affection, you embraced me and told me that no pupil of yours would ever be my equal. How is it that you have another valorous pupil in this world, the son of the nishada king, who is better than everyone else?” Thereupon, Drona thought for a moment and arrived at a decision. He took Savyasachi{348} with him and went to the nishada. He found Ekalavya, his body covered with ﬁlth. His hair was matted and he was attired in rags. However, with a bow in his hand, he was ceaselessly shooting arrows. On seeing Drona approach, Ekalavya went up to him. He prostrated himself on the ground and touched his feet with his head. After worshipping Drona in the prescribed way, the nishada's son told him that he was his student and stood before him with joined hands. At this, Drona told Ekalavya, “If you are my student, give me my fee.” On hearing this, Ekalavya happily asked, “O illustrious one! What can I give you? Command me. O you who know the brahman! There is nothing that cannot be given to the preceptor.” Drona said, “Give me your right thumb as a fee.” On hearing Drona's terrible words, Ekalavya kept his promise. Always devoted to the truth, he cheerfully cut off his own right thumb, with happiness on his face and peace in his heart, and gave it to Drona. O lord of men! After that, when he pulled the bowstring with his other ﬁngers, the nishada found that he was no longer as swift as earlier. Arjuna was pleased and his fever went away. Drona's words, that no one would be able to surpass Arjuna, came true.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On return, they told Drona the entire story. O king! Kounteya Arjuna kept thinking about Ekalavya. He went to Drona and affectionately told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "affectionately",
+          "introduces_label": "affectionately",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In your affection, you embraced me and told me that no pupil of yours would ever be my equal. How is it that you have another valorous pupil in this world, the son of the nishada king, who is better than everyone else?”",
+          "speaker": "affectionately",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thereupon, Drona thought for a moment and arrived at a decision. He took Savyasachi{348} with him and went to the nishada. He found Ekalavya, his body covered with ﬁlth. His hair was matted and he was attired in rags. However, with a bow in his hand, he was ceaselessly shooting arrows. On seeing Drona approach, Ekalavya went up to him. He prostrated himself on the ground and touched his feet with his head. After worshipping Drona in the prescribed way, the nishada's son told him that he was his student and stood before him with joined hands. At this, Drona told Ekalavya, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If you are my student, give me my fee.”",
+          "speaker": "affectionately",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing this, Ekalavya happily asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "ekalavya_happily",
+          "introduces_label": "Ekalavya happily",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! What can I give you? Command me. O you who know the brahman! There is nothing that cannot be given to the preceptor.”",
+          "speaker": "ekalavya_happily",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Drona said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Give me your right thumb as a fee.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing Drona's terrible words, Ekalavya kept his promise. Always devoted to the truth, he cheerfully cut off his own right thumb, with happiness on his face and peace in his heart, and gave it to Drona. O lord of men! After that, when he pulled the bowstring with his other ﬁngers, the nishada found that he was no longer as swift as earlier. Arjuna was pleased and his fever went away. Drona's words, that no one would be able to surpass Arjuna, came true.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Among all the Kurus who were Drona's students, two became particularly skilled in ﬁghting with clubs—Duryodhana and Bhima. Ashvatthama excelled in the use of all secret weapons. The twins were better than all other men in the use of the sword. Yudhishthira was supreme in ﬁghting with chariots. However, Dhananjaya{349} was the best in ﬁghting with every weapon. The Pandava was famous on earth, right up to the frontiers of the ocean, for his intelligence, perseverance, strength and enterprise in all weapons. He was thus the foremost among all warriors. Arjuna was special, not just in his knowledge of weapons, but also in his devotion to his preceptor, though the instructions were the same for everyone. Alone among all the princes, Arjuna became an atiratha{350}. O lord of men! Dhritarashtra's evil-souled sons could not stand Bhimasena's great strength and Arjuna's great skill and hated them.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Among all the Kurus who were Drona's students, two became particularly skilled in ﬁghting with clubs—Duryodhana and Bhima. Ashvatthama excelled in the use of all secret weapons. The twins were better than all other men in the use of the sword. Yudhishthira was supreme in ﬁghting with chariots. However, Dhananjaya{349} was the best in ﬁghting with every weapon. The Pandava was famous on earth, right up to the frontiers of the ocean, for his intelligence, perseverance, strength and enterprise in all weapons. He was thus the foremost among all warriors. Arjuna was special, not just in his knowledge of weapons, but also in his devotion to his preceptor, though the instructions were the same for everyone. Alone among all the princes, Arjuna became an atiratha{350}. O lord of men! Dhritarashtra's evil-souled sons could not stand Bhimasena's great strength and Arjuna's great skill and hated them.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O bull among men! When they became skilled in all knowledge, in a desire to examine their skill with weapons, Drona assembled them together. He got an artisan to construct an artiﬁcial bird and placed it on top of a tree. The princes could hardly see it and it was to be used as a target. Drona said, “Quickly pick up your bows, all of you. Fix arrows to the string of the bow, stand here and aim at that bird in the tree. O sons! When I give you permission, one after another, slice off the bird's head.” The greatest of Angirasa's descendants ﬁrst addressed Yudhishthira. “O invincible one! Aim with your arrow and let it go, as soon as I have asked you to.” Yudhishthira ﬁrst picked up a bow that made a loud noise. Then, as instructed by his preceptor, he stood, aiming at the bird. The descendant of the Kuru lineage stood there, with his bow stretched. O, bull among the Kuru lineage! After a short time, Drona asked, “O prince! Can you see that bird on the top of the tree?” “I can see it,” Yudhishthira replied to his preceptor. After some time, Drona again asked, “Can you see the tree? Can you see me? Can you see your brothers?” In reply to each question, Kounteya{351} answered, one after the other: “I can see the large tree. I can see you. I can see the bird.” Drona was displeased at these words and reproachfully told him, “This is not for you. You will not be able to hit the target.” Then the immensely illustrious one placed Duryodhana in the same position and Dhritarashtra's other sons, one after another, so as to test them. Bhima and the other students and the kings who had come from other countries were also asked. All of them said that they could see everything and were scolded.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O bull among men! When they became skilled in all knowledge, in a desire to examine their skill with weapons, Drona assembled them together. He got an artisan to construct an artiﬁcial bird and placed it on top of a tree. The princes could hardly see it and it was to be used as a target. Drona said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Quickly pick up your bows, all of you. Fix arrows to the string of the bow, stand here and aim at that bird in the tree. O sons! When I give you permission, one after another, slice off the bird's head.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The greatest of Angirasa's descendants ﬁrst addressed Yudhishthira. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O invincible one! Aim with your arrow and let it go, as soon as I have asked you to.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira ﬁrst picked up a bow that made a loud noise. Then, as instructed by his preceptor, he stood, aiming at the bird. The descendant of the Kuru lineage stood there, with his bow stretched. O, bull among the Kuru lineage! After a short time, Drona asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O prince! Can you see that bird on the top of the tree?”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I can see it,”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira replied to his preceptor. After some time, Drona again asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Can you see the tree? Can you see me? Can you see your brothers?”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " In reply to each question, Kounteya{351} answered, one after the other: ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I can see the large tree. I can see you. I can see the bird.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Drona was displeased at these words and reproachfully told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "drona_was_displeased_at_these_words_and_reproachfully",
+          "introduces_label": "Drona was displeased at these words and reproachfully",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This is not for you. You will not be able to hit the target.”",
+          "speaker": "drona_was_displeased_at_these_words_and_reproachfully",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then the immensely illustrious one placed Duryodhana in the same position and Dhritarashtra's other sons, one after another, so as to test them. Bhima and the other students and the kings who had come from other countries were also asked. All of them said that they could see everything and were scolded.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Smilingly, Drona then summoned Dhananjaya. “This target is for you to shoot down. Listen. As soon as I ask you to, you must shoot. O son! Stand here for a moment, with your bow taut.” Thus addressed, Savyasachi drew his bow into a semicircle, aimed at the target and stood there, as his preceptor had instructed. After a while, Drona asked him in the same way. “O Arjuna! Do you see the bird seated there? Do you see the tree? Do you see me?” Arjuna replied, “I can only see the bird. I cannot see the tree. Nor can I see you.” Pleased, the invincible Drona waited again for a moment. Then he again addressed the Pandava, bull among warriors. “If you can see the bird, describe it to me.” Arjuna replied, “I can only see the bird's head. I cannot see its body.” At Arjuna's words, Drona was delighted and his hair stood up. He told Partha, “Shoot,” and he let the arrow go. The Pandava sliced off the head of the bird on the tree with his sharp arrow and brought it down on the ground. When Phalguna{352} succeeded in this task, Drona embraced him and deduced that Drupada and his relatives had already been vanquished in battle.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Smilingly, Drona then summoned Dhananjaya. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This target is for you to shoot down. Listen. As soon as I ask you to, you must shoot. O son! Stand here for a moment, with your bow taut.”",
+          "speaker": "drona_was_displeased_at_these_words_and_reproachfully",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed, Savyasachi drew his bow into a semicircle, aimed at the target and stood there, as his preceptor had instructed. After a while, Drona asked him in the same way. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Arjuna! Do you see the bird seated there? Do you see the tree? Do you see me?”",
+          "speaker": "drona_was_displeased_at_these_words_and_reproachfully",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I can only see the bird. I cannot see the tree. Nor can I see you.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Pleased, the invincible Drona waited again for a moment. Then he again addressed the Pandava, bull among warriors. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If you can see the bird, describe it to me.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I can only see the bird's head. I cannot see its body.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At Arjuna's words, Drona was delighted and his hair stood up. He told Partha, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Shoot,”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " and he let the arrow go. The Pandava sliced off the head of the bird on the tree with his sharp arrow and brought it down on the ground. When Phalguna{352} succeeded in this task, Drona embraced him and deduced that Drupada and his relatives had already been vanquished in battle.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O bull among the Bharata lineage! A few days later, the best of those of the Angirasa lineage went with his students to the Ganga to bathe. When Drona entered the water, a powerful crocodile grabbed him by the thigh, as if sent by destiny itself. Though quite capable of saving himself, Drona told his students, “Kill the crocodile and quickly save me.” Even before he had ﬁnished speaking, Bibhatsu{353} let loose ﬁve sharp arrows that killed the crocodile under the water. The others were still standing around, looking confused. On seeing the Pandava's swiftness in action, Drona was extremely pleased and decided that he was the best of his students. The crocodile was chopped into many pieces through Partha's arrows. It let go of the great-souled one's thigh and returned to the ﬁve elements. Bharadvaja's son told the great-souled maharatha, “O mighty-armed one! Receive this invincible and supreme weapon, named brahmashira, with the knowledge of releasing it and withdrawing it. You must never use it against human beings. If it is used against an enemy whose energy is inferior, it will burn up the entire universe. O son! It is said that there is nothing superior to this weapon in the three worlds. Therefore, preserve it carefully and listen to my words. O brave one! If a superhuman enemy ever ﬁghts with you, use this weapon to kill him in battle.” With joined hands, Bibhatsu promised that he would do as he had been asked and received the supreme weapon. His preceptor again told him, “No man in the world will be a greater archer than you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O bull among the Bharata lineage! A few days later, the best of those of the Angirasa lineage went with his students to the Ganga to bathe. When Drona entered the water, a powerful crocodile grabbed him by the thigh, as if sent by destiny itself. Though quite capable of saving himself, Drona told his students, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Kill the crocodile and quickly save me.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Even before he had ﬁnished speaking, Bibhatsu{353} let loose ﬁve sharp arrows that killed the crocodile under the water. The others were still standing around, looking confused. On seeing the Pandava's swiftness in action, Drona was extremely pleased and decided that he was the best of his students. The crocodile was chopped into many pieces through Partha's arrows. It let go of the great-souled one's thigh and returned to the ﬁve elements. Bharadvaja's son told the great-souled maharatha, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O mighty-armed one! Receive this invincible and supreme weapon, named brahmashira, with the knowledge of releasing it and withdrawing it. You must never use it against human beings. If it is used against an enemy whose energy is inferior, it will burn up the entire universe. O son! It is said that there is nothing superior to this weapon in the three worlds. Therefore, preserve it carefully and listen to my words. O brave one! If a superhuman enemy ever ﬁghts with you, use this weapon to kill him in battle.”",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " With joined hands, Bibhatsu promised that he would do as he had been asked and received the supreme weapon. His preceptor again told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "his_preceptor",
+          "introduces_label": "His preceptor",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“No man in the world will be a greater archer than you.”",
+          "speaker": "his_preceptor",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

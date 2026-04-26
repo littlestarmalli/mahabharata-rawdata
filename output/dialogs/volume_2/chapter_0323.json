@@ -1,0 +1,100 @@
+{
+  "chapter": 323,
+  "local": 26,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Those sons of Indras among men were used to pleasures. But they had now attained misfortune and reached the forest. Like Indras, they began to sport themselves in that sacred place, along the banks of the Sarasvati, with shala forests. In the forest, the king, who was a bull among Kurus, satisﬁed all the ascetics, sages and the best of brahmanas who were with him, by offering them the best of roots and fruit. When the Pandavas lived in that great forest, Dhoumya, their immensely energetic priest, who was like a father to the Kurus, performed sacriﬁces for the gods and the ancestors. Having lost their kingdom, the illustrious Pandavas lived there. While they lived there, the ancient rishi Markandeya, terrible and resplendent in his energy, arrived in their hermitage as a guest. When he saw all of them, Krishna Droupadi, Bhima and Arjuna in the middle of the ascetics, the great-souled one, inﬁnite in his energy, remembered Rama and seemed to smile.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those sons of Indras among men were used to pleasures. But they had now attained misfortune and reached the forest. Like Indras, they began to sport themselves in that sacred place, along the banks of the Sarasvati, with shala forests. In the forest, the king, who was a bull among Kurus, satisﬁed all the ascetics, sages and the best of brahmanas who were with him, by offering them the best of roots and fruit. When the Pandavas lived in that great forest, Dhoumya, their immensely energetic priest, who was like a father to the Kurus, performed sacriﬁces for the gods and the ancestors. Having lost their kingdom, the illustrious Pandavas lived there. While they lived there, the ancient rishi Markandeya, terrible and resplendent in his energy, arrived in their hermitage as a guest. When he saw all of them, Krishna Droupadi, Bhima and Arjuna in the middle of the ascetics, the great-souled one, inﬁnite in his energy, remembered Rama and seemed to smile.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dharmaraja was miserable and said, “All these ascetics are ashamed. While all these ascetics are looking on, why do you look at me and smile, as if you are amused?” Markandeya replied, “O son! I am not delighted. Nor am I smiling. Happy pride has not possessed me. But on witnessing your misfortunes today, I have been reminded of Dasharatha's son, Rama, who was devoted to the truth. With Lakshmana, that king also lived in the forest on the instructions of his father. O Partha! In ancient times, I saw him once on Mount Rishyamukha, while he was wandering around with his bow. That great-souled one was the equal of the one with a thousand eyes{165}, the one who defeated Maya and killed Namuchi. The unblemished Dasharathi{166} lived in the forest on his father's instructions, so as to maintain his own dharma. He was like Shakra in his power, a great-hearted one who was invincible in battle. He gave up his comforts and roamed around in the forest. Therefore, thinking that one is powerful, one should never follow that which is not dharma. Nabhaga, Bhagiratha and other kings have conquered this earth, right up to the boundaries of the ocean. O son! They won the worlds by observing the truth. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O supreme among men! When he gave up his kingdom and his riches, the truth-abiding and virtuous king of Kashi and Karusha was called a mad dog{167}. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Partha! O best of men! In ancient times, the righteous saptarshis who blaze in the sky observed the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Indra among men! O supreme among men! Look! Even tusked and powerful elephants, as large as mountain peaks, base themselves in accordance with the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Indra among men! Look! All beings conduct themselves in their own species in accordance with the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Partha! You have surpassed all beings in truth, devotion to dharma, appropriate conduct and humility. Your fame and energy are as radiant as that of the sun which gives out rays. O lord of the earth! O great-minded one! After having spent a difﬁcult time in the forest in accordance with your promise, you will again obtain blazing prosperity from the Kouravas through your own energy.” Having spoken these words to him and his well-wishers in the midst of all those ascetics, the maharshi took his leave of Dhoumya and the Parthas and left from there, in a northward direction.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dharmaraja was miserable and said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "dharmaraja_was_miserable",
+          "introduces_label": "Dharmaraja was miserable",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All these ascetics are ashamed. While all these ascetics are looking on, why do you look at me and smile, as if you are amused?”",
+          "speaker": "dharmaraja_was_miserable",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Markandeya replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! I am not delighted. Nor am I smiling. Happy pride has not possessed me. But on witnessing your misfortunes today, I have been reminded of Dasharatha's son, Rama, who was devoted to the truth. With Lakshmana, that king also lived in the forest on the instructions of his father. O Partha! In ancient times, I saw him once on Mount Rishyamukha, while he was wandering around with his bow. That great-souled one was the equal of the one with a thousand eyes{165}, the one who defeated Maya and killed Namuchi. The unblemished Dasharathi{166} lived in the forest on his father's instructions, so as to maintain his own dharma. He was like Shakra in his power, a great-hearted one who was invincible in battle. He gave up his comforts and roamed around in the forest. Therefore, thinking that one is powerful, one should never follow that which is not dharma. Nabhaga, Bhagiratha and other kings have conquered this earth, right up to the boundaries of the ocean. O son! They won the worlds by observing the truth. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O supreme among men! When he gave up his kingdom and his riches, the truth-abiding and virtuous king of Kashi and Karusha was called a mad dog{167}. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Partha! O best of men! In ancient times, the righteous saptarshis who blaze in the sky observed the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Indra among men! O supreme among men! Look! Even tusked and powerful elephants, as large as mountain peaks, base themselves in accordance with the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Indra among men! Look! All beings conduct themselves in their own species in accordance with the ordinances decreed by the creator. Therefore, thinking that one is powerful, one should never follow that which is not dharma. O Partha! You have surpassed all beings in truth, devotion to dharma, appropriate conduct and humility. Your fame and energy are as radiant as that of the sun which gives out rays. O lord of the earth! O great-minded one! After having spent a difﬁcult time in the forest in accordance with your promise, you will again obtain blazing prosperity from the Kouravas through your own energy.”",
+          "speaker": "@markandeya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having spoken these words to him and his well-wishers in the midst of all those ascetics, the maharshi took his leave of Dhoumya and the Parthas and left from there, in a northward direction.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

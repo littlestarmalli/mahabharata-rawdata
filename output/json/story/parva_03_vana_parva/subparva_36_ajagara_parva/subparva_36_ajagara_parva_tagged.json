@@ -1,0 +1,65 @@
+{
+  "name": "Ajagara Parva",
+  "subparva_number": 36,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 201
+  },
+  "note": "Ajagara means a boa constrictor, literally something that swallows a goat (aja). The Pandavas retrace their steps to Vrishaparva�s hermitage and Badari and then go to visit King Subahu. From there, they go to the origins of the Yamuna and Dvaitavana, on the banks of the Sarasvati. Bhima is then grasped by Nahusha in the form of a boa and this is why this section is called Ajagara Parva. The highlight of this section is a dialogue between Yudhishthira and Nahusha, in the form of a boa.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "470": {
+      "chapter_number": 470,
+      "global_number": 470,
+      "local_number": 173,
+      "num_shlokas": 22,
+      "file": "subparva_36_ajagara_parva/chapter_470_tagged.json"
+    },
+    "471": {
+      "chapter_number": 471,
+      "global_number": 471,
+      "local_number": 174,
+      "num_shlokas": 24,
+      "file": "subparva_36_ajagara_parva/chapter_471_tagged.json"
+    },
+    "472": {
+      "chapter_number": 472,
+      "global_number": 472,
+      "local_number": 175,
+      "num_shlokas": 21,
+      "file": "subparva_36_ajagara_parva/chapter_472_tagged.json"
+    },
+    "473": {
+      "chapter_number": 473,
+      "global_number": 473,
+      "local_number": 176,
+      "num_shlokas": 51,
+      "file": "subparva_36_ajagara_parva/chapter_473_tagged.json"
+    },
+    "474": {
+      "chapter_number": 474,
+      "global_number": 474,
+      "local_number": 177,
+      "num_shlokas": 33,
+      "file": "subparva_36_ajagara_parva/chapter_474_tagged.json"
+    },
+    "475": {
+      "chapter_number": 475,
+      "global_number": 475,
+      "local_number": 178,
+      "num_shlokas": 50,
+      "file": "subparva_36_ajagara_parva/chapter_475_tagged.json"
+    }
+  }
+}

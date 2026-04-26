@@ -1,0 +1,139 @@
+{
+  "name": "Yaksha-yuddha Parva",
+  "subparva_number": 35,
+  "source_volume": 3,
+  "file_path": "output/volumes/volume_3_chapters.txt",
+  "details": {
+    "num_chapters": 18,
+    "num_shlokas": 727
+  },
+  "note": "Yuddha means battle or fight and the section is named after a fight between Bhima and the yakshas. In this section, the Pandavas visit the sage Vrishaparva on Mount Gandhamadana and then travel to the hermitage of the sage Arshtishena, where they dwell, waiting for Arjuna�s return. Reminiscent of Section 33, Droupadi sends Bhima to search for celestial ?owers. Bhima fights with yakshas and rakshasas and kills the rakshasa Maniman. The Pandavas meet Kubera and Tndra. Arjuna returns and recounts his adventures, repeating much of what has al-ready been said in Sections 37 and 32 (Volume 7). These parts of Section 35 are not only repetitive, and sometimes inconsistent, they don�t quite seem to belong. The only new information is about Arjuna�s fight with the nivatakavacha demons and the demons who inhabited Hiranyapura.",
+  "chapters": {
+    "452": {
+      "chapter_number": 452,
+      "global_number": 452,
+      "local_number": 155,
+      "num_shlokas": 90,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_452.json"
+    },
+    "453": {
+      "chapter_number": 453,
+      "global_number": 453,
+      "local_number": 156,
+      "num_shlokas": 31,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_453.json"
+    },
+    "454": {
+      "chapter_number": 454,
+      "global_number": 454,
+      "local_number": 157,
+      "num_shlokas": 70,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_454.json"
+    },
+    "455": {
+      "chapter_number": 455,
+      "global_number": 455,
+      "local_number": 158,
+      "num_shlokas": 59,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_455.json"
+    },
+    "456": {
+      "chapter_number": 456,
+      "global_number": 456,
+      "local_number": 159,
+      "num_shlokas": 35,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_456.json"
+    },
+    "457": {
+      "chapter_number": 457,
+      "global_number": 457,
+      "local_number": 160,
+      "num_shlokas": 37,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_457.json"
+    },
+    "458": {
+      "chapter_number": 458,
+      "global_number": 458,
+      "local_number": 161,
+      "num_shlokas": 29,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_458.json"
+    },
+    "459": {
+      "chapter_number": 459,
+      "global_number": 459,
+      "local_number": 162,
+      "num_shlokas": 16,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_459.json"
+    },
+    "460": {
+      "chapter_number": 460,
+      "global_number": 460,
+      "local_number": 163,
+      "num_shlokas": 53,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_460.json"
+    },
+    "461": {
+      "chapter_number": 461,
+      "global_number": 461,
+      "local_number": 164,
+      "num_shlokas": 58,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_461.json"
+    },
+    "462": {
+      "chapter_number": 462,
+      "global_number": 462,
+      "local_number": 165,
+      "num_shlokas": 23,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_462.json"
+    },
+    "463": {
+      "chapter_number": 463,
+      "global_number": 463,
+      "local_number": 166,
+      "num_shlokas": 23,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_463.json"
+    },
+    "464": {
+      "chapter_number": 464,
+      "global_number": 464,
+      "local_number": 167,
+      "num_shlokas": 28,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_464.json"
+    },
+    "465": {
+      "chapter_number": 465,
+      "global_number": 465,
+      "local_number": 168,
+      "num_shlokas": 30,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_465.json"
+    },
+    "466": {
+      "chapter_number": 466,
+      "global_number": 466,
+      "local_number": 169,
+      "num_shlokas": 35,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_466.json"
+    },
+    "467": {
+      "chapter_number": 467,
+      "global_number": 467,
+      "local_number": 170,
+      "num_shlokas": 69,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_467.json"
+    },
+    "468": {
+      "chapter_number": 468,
+      "global_number": 468,
+      "local_number": 171,
+      "num_shlokas": 17,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_468.json"
+    },
+    "469": {
+      "chapter_number": 469,
+      "global_number": 469,
+      "local_number": 172,
+      "num_shlokas": 24,
+      "file": "subparva_35_yaksha_yuddha_parva/chapter_469.json"
+    }
+  }
+}

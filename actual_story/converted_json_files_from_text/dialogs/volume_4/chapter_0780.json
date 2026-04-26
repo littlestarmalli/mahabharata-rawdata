@@ -1,0 +1,226 @@
+{
+  "chapter": 780,
+  "local": 117,
+  "shlokas": 23,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Narada said, “Vinata's son laughed and told Galava, ‘O brahmana! It is through good fortune that I see that you have been successful.’ On hearing these words spoken by Vinata's son, Galava told him that one-fourth of his task still remained to be accomplished. Suparna, supreme among birds, told Galava, ‘You should not make any more efforts on this task. You will not be successful. O Galava! In earlier times, in Kanyakubja, Richika tried to obtain Gadhi's daughter, Satyavati, as his wife, and was told, “O illustrious one! Give me one thousand horses that have the complexion of the moon and possess one black ear each{220}.” Richika agreed and went to Varuna's abode. He obtained the horses at Ashvatirtha{221} and gave them to the king{222}. The king gave them away to brahmanas at a pundarika sacriﬁce. Many kings bought these from them, two hundred each. O supreme among brahmanas! While they were being led across the Vitasta, the remaining four hundred were killed{223}. O Galava! That being the case, no more can be obtained. O one with dharma in your soul! O bull among the brahmanas! Instead of the two hundred, give Vishvamitra this maiden, together with the six hundred you possess. O bull among brahmanas! You will then transcend your confusion and be successful.’ Galava agreed to this. Taking the maiden with him, and together with Suparna, he went to Vishvamitra.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Narada said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Vinata's son laughed and told Galava, ",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! It is through good fortune that I see that you have been successful.’",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words spoken by Vinata's son, Galava told him that one-fourth of his task still remained to be accomplished. Suparna, supreme among birds, told Galava, ",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You should not make any more efforts on this task. You will not be successful. O Galava! In earlier times, in Kanyakubja, Richika tried to obtain Gadhi's daughter, Satyavati, as his wife, and was told, ",
+          "speaker": "@narada",
+          "introduces": "was",
+          "introduces_label": "was",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O illustrious one! Give me one thousand horses that have the complexion of the moon and possess one black ear each{220}.”",
+          "speaker": "was",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Richika agreed and went to Varuna's abode. He obtained the horses at Ashvatirtha{221} and gave them to the king{222}. The king gave them away to brahmanas at a pundarika sacriﬁce. Many kings bought these from them, two hundred each. O supreme among brahmanas! While they were being led across the Vitasta, the remaining four hundred were killed{223}. O Galava! That being the case, no more can be obtained. O one with dharma in your soul! O bull among the brahmanas! Instead of the two hundred, give Vishvamitra this maiden, together with the six hundred you possess. O bull among brahmanas! You will then transcend your confusion and be successful.’",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Galava agreed to this. Taking the maiden with him, and together with Suparna, he went to Vishvamitra.",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Galava said, ‘Accept six hundred horses of the kind that you desired. Accept this maiden instead of the two hundred. She has born three sons, devoted to dharma, to rajarshis. O supreme among men! You will give birth to a fourth. Then you will obtain all eight hundred horses in their entirety. After having freed myself of my debt, I will happily perform austerities.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Galava said, ",
+          "speaker": "@narada",
+          "introduces": "@galava",
+          "introduces_label": "Galava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Accept six hundred horses of the kind that you desired. Accept this maiden instead of the two hundred. She has born three sons, devoted to dharma, to rajarshis. O supreme among men! You will give birth to a fourth. Then you will obtain all eight hundred horses in their entirety. After having freed myself of my debt, I will happily perform austerities.’",
+          "speaker": "@galava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Narada said, “Vishvamitra saw Galava and the bird and the maiden with the beautiful thighs and said, ‘O Galava! Why did you not give her to me earlier? Then all the four sons would have been mine and would have extended the lineage. I will accept this maiden to have one son through her. Let all the horses remain in my hermitage.’ The immensely radiant Vishvamitra then pleasured with her. Madhavi gave birth to a son named Ashtaka. As soon as the son was born, the immensely radiant Vishvamitra instructed him about dharma and artha and gave him the horses. Ashtaka went to the city that was as radiant as a city of the moon. Having returned the maiden to his disciple{224}, Koushika{225} left for the forest. Galava, together with Suparna, was delighted in his mind that the dakshina had been paid and told the maiden, ‘You have given birth to one son who will be the lord of generosity, another who will be a warrior, yet another who will be devoted to truth and dharma, and another who will perform sacriﬁces. O one with the beautiful thighs! Therefore, depart. You have saved your father through sons. O one with the beautiful waist! You have saved four kings{226} and me.’ Galava also gave permission to Suparna, the destroyer of serpents, to leave. Returning the maiden to her father, he left for the forest.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Narada said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Vishvamitra saw Galava and the bird and the maiden with the beautiful thighs and said, ",
+          "speaker": "@narada",
+          "introduces": "vishvamitra_saw_galava_and_the_bird_and_the_maiden_with_the_beautiful_thighs",
+          "introduces_label": "Vishvamitra saw Galava and the bird and the maiden with the beautiful thighs",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Galava! Why did you not give her to me earlier? Then all the four sons would have been mine and would have extended the lineage. I will accept this maiden to have one son through her. Let all the horses remain in my hermitage.’",
+          "speaker": "vishvamitra_saw_galava_and_the_bird_and_the_maiden_with_the_beautiful_thighs",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The immensely radiant Vishvamitra then pleasured with her. Madhavi gave birth to a son named Ashtaka. As soon as the son was born, the immensely radiant Vishvamitra instructed him about dharma and artha and gave him the horses. Ashtaka went to the city that was as radiant as a city of the moon. Having returned the maiden to his disciple{224}, Koushika{225} left for the forest. Galava, together with Suparna, was delighted in his mind that the dakshina had been paid and told the maiden, ",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have given birth to one son who will be the lord of generosity, another who will be a warrior, yet another who will be devoted to truth and dharma, and another who will perform sacriﬁces. O one with the beautiful thighs! Therefore, depart. You have saved your father through sons. O one with the beautiful waist! You have saved four kings{226} and me.’",
+          "speaker": "vishvamitra_saw_galava_and_the_bird_and_the_maiden_with_the_beautiful_thighs",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Galava also gave permission to Suparna, the destroyer of serpents, to leave. Returning the maiden to her father, he left for the forest.”",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

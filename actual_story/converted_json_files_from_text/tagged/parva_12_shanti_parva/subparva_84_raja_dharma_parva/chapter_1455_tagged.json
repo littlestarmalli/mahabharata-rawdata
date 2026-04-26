@@ -1,0 +1,82 @@
+{
+  "chapter_number": 1455,
+  "global_number": 1455,
+  "local_number": 127,
+  "num_shlokas": 10,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Yudhishthira said, “As you have spoken, I have not obtained enough of this amrita. O grandfather! Therefore, speak to me again about dharma.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“As you have spoken, I have not obtained enough of this amrita. O grandfather! Therefore, speak to me again about dharma.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Bhishma replied, “On this, an ancient history is recounted about a conversation between Goutama and the great-souled Yama. Goutama’s great hermitage was on Mount Pariyatra and Goutama dwelt there for some time. Listen to this. Goutama tormented himself through austerities for sixty thousand years. The cleansed and ascetic sage performed severe austerities. O tiger among men! Yama, the guardian of the world, went to him there. As sage Goutama performed those excellent austerities, he looked at the rishi. Because of his energy, the brahmana rishi realized that Yama had arrived. The one who was rich in austerities joined his hands in salutation and advanced towards him. Dharmaraja{1099} looked towards that bull among men and bowed down before him. Dharma asked him, ‘What can I do for you?’ Goutama asked, ‘How can one free oneself of the debts due to the mother and the father? How can a man quickly obtain the auspicious worlds, which are so difﬁcult to obtain?’ Yama replied, ‘Austerities, purity, constant devotion to truth and dharma, constant worship of the mother and the father are the tasks one should be attached to. One must perform many horse sacriﬁces, with dakshina for the ofﬁciating priests. A man will then obtain worlds that are extraordinary to behold.’”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“On this, an ancient history is recounted about a conversation between Goutama and the great-souled Yama. Goutama’s great hermitage was on Mount Pariyatra and Goutama dwelt there for some time. Listen to this. Goutama tormented himself through austerities for sixty thousand years. The cleansed and ascetic sage performed severe austerities. O tiger among men! Yama, the guardian of the world, went to him there. As sage Goutama performed those excellent austerities, he looked at the rishi. Because of his energy, the brahmana rishi realized that Yama had arrived. The one who was rich in austerities joined his hands in salutation and advanced towards him. Dharmaraja{1099} looked towards that bull among men and bowed down before him. Dharma asked him, ‘What can I do for you?’ Goutama asked, ‘How can one free oneself of the debts due to the mother and the father? How can a man quickly obtain the auspicious worlds, which are so difﬁcult to obtain?’ Yama replied, ‘Austerities, purity, constant devotion to truth and dharma, constant worship of the mother and the father are the tasks one should be attached to. One must perform many horse sacriﬁces, with dakshina for the ofﬁciating priests. A man will then obtain worlds that are extraordinary to behold.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "chapter": 49,
+  "local": 49,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘At that, the snake woman Jaratkaru called her son and told him what Vasuki, king of the nagas, had told her. “O son! The time has come for attaining the objective for which my brother had given me to your father. Therefore, do what is necessary.” Astika said, “Why were you given by my uncle to my father? Tell me in detail, so that I can do what is necessary.” Jaratkaru, the sister of the king of snakes, wished to bring about the welfare of her relatives.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At that, the snake woman Jaratkaru called her son and told him what Vasuki, king of the nagas, had told her. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! The time has come for attaining the objective for which my brother had given me to your father. Therefore, do what is necessary.”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Astika said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@astika",
+          "introduces_label": "Astika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Why were you given by my uncle to my father? Tell me in detail, so that I can do what is necessary.”",
+          "speaker": "@astika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Jaratkaru, the sister of the king of snakes, wished to bring about the welfare of her relatives.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘She resolutely told him, “It is said that the mother of all snakes is Kadru. Hear how she came to curse her sons in anger. She said, ‘O sons! You have refused to change the colour of Ucchaihshrava, the king of horses, despite my asking and because of the wager, have made me a slave to Vinata. Therefore, the god of ﬁre will burn you in Janamejaya's sacriﬁce. Thus being reduced to the ﬁve elements{154}, you will go to the land of the dead.’ The great god, grandfather of all the worlds, himself heard this curse being uttered and approved. O son! On hearing this curse and the words of the grandfather, Vasuki sought refuge with the gods after the churning of the ocean was over. Once they had obtained their objective and got the supreme amrita, the gods went to Prajapati{155} with their brother{156} leading the way. All the gods and King Vasuki sought to placate the grandfather so that the curse might have no effect. The gods said, ‘O lord! Vasuki, the king of snakes, feels sorry for his relatives. How can his mother's curse be rendered ineffective?’ Brahma replied, ‘Jaratkaru will marry a wife named Jaratkaru. The Brahmana who will be born will save the snakes from the curse.’ O god-like son! When Vasuki, the lord of the snakes, heard this, he gave me to your great-souled father, long before this incident{157}. You were born from me and your father. That time has now come and you should save us from the fear. You should save me and my brother from the ﬁre, so that the reason for which I was given to your wise father is not rendered futile. O son! What do you think?” On hearing his mother's words, Astika then agreed.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘She resolutely told him, ",
+          "speaker": "@ugrasrava",
+          "introduces": "she_resolutely",
+          "introduces_label": "She resolutely",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is said that the mother of all snakes is Kadru. Hear how she came to curse her sons in anger. She said, ",
+          "speaker": "she_resolutely",
+          "introduces": "unknown",
+          "introduces_label": "She",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O sons! You have refused to change the colour of Ucchaihshrava, the king of horses, despite my asking and because of the wager, have made me a slave to Vinata. Therefore, the god of ﬁre will burn you in Janamejaya's sacriﬁce. Thus being reduced to the ﬁve elements{154}, you will go to the land of the dead.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The great god, grandfather of all the worlds, himself heard this curse being uttered and approved. O son! On hearing this curse and the words of the grandfather, Vasuki sought refuge with the gods after the churning of the ocean was over. Once they had obtained their objective and got the supreme amrita, the gods went to Prajapati{155} with their brother{156} leading the way. All the gods and King Vasuki sought to placate the grandfather so that the curse might have no effect. The gods said, ",
+          "speaker": "she_resolutely",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! Vasuki, the king of snakes, feels sorry for his relatives. How can his mother's curse be rendered ineffective?’",
+          "speaker": "the_gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Brahma replied, ",
+          "speaker": "she_resolutely",
+          "introduces": "@brahma",
+          "introduces_label": "Brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Jaratkaru will marry a wife named Jaratkaru. The Brahmana who will be born will save the snakes from the curse.’",
+          "speaker": "@brahma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O god-like son! When Vasuki, the lord of the snakes, heard this, he gave me to your great-souled father, long before this incident{157}. You were born from me and your father. That time has now come and you should save us from the fear. You should save me and my brother from the ﬁre, so that the reason for which I was given to your wise father is not rendered futile. O son! What do you think?”",
+          "speaker": "she_resolutely",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing his mother's words, Astika then agreed.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘He addressed the suffering Vasuki and brought fresh life into him. “O Vasuki! O supreme among snakes! I will save you. I truly tell you that I shall free you from this curse. O snake! Be reassured and banish all fear. O tranquil one! I shall endeavour to bring about your welfare. No one can say that my tongue has ever uttered a lie, even in jest, not to speak of serious occasions. O uncle! I will go to Janamejaya, supreme among kings, now instated in the sacriﬁce. I shall please him with words that bring him good fortune{158}. O supreme one! The king will then restrain himself from the sacriﬁce. O king of snakes! O one with great intelligence! Believe all that I say. Believe that what I have resolved is always fulﬁlled.” Vasuki replied, “O Astika! My head is whirling and my heart is splintering. I cannot see the directions and I am oppressed because of the curse{159} of a Brahmana.” Astika said, “O supreme among snakes! You should not suffer any more. I shall destroy the fear that comes to you from the blazing ﬁre and the curse of the Brahmana, which has energy like the terrible ﬁre at the time of destruction. You need not fear any more.” Then, after having removed the terrible fever from Vasuki's mind and taking it on his own limbs, Astika, supreme among Brahmanas, swiftly went to where Janamejaya's sacriﬁce, adorned with all the qualities, was being held.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘He addressed the suffering Vasuki and brought fresh life into him. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Vasuki! O supreme among snakes! I will save you. I truly tell you that I shall free you from this curse. O snake! Be reassured and banish all fear. O tranquil one! I shall endeavour to bring about your welfare. No one can say that my tongue has ever uttered a lie, even in jest, not to speak of serious occasions. O uncle! I will go to Janamejaya, supreme among kings, now instated in the sacriﬁce. I shall please him with words that bring him good fortune{158}. O supreme one! The king will then restrain himself from the sacriﬁce. O king of snakes! O one with great intelligence! Believe all that I say. Believe that what I have resolved is always fulﬁlled.”",
+          "speaker": "she_resolutely",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Vasuki replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vasuki",
+          "introduces_label": "Vasuki",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Astika! My head is whirling and my heart is splintering. I cannot see the directions and I am oppressed because of the curse{159} of a Brahmana.”",
+          "speaker": "@vasuki",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Astika said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@astika",
+          "introduces_label": "Astika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among snakes! You should not suffer any more. I shall destroy the fear that comes to you from the blazing ﬁre and the curse of the Brahmana, which has energy like the terrible ﬁre at the time of destruction. You need not fear any more.”",
+          "speaker": "@astika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then, after having removed the terrible fever from Vasuki's mind and taking it on his own limbs, Astika, supreme among Brahmanas, swiftly went to where Janamejaya's sacriﬁce, adorned with all the qualities, was being held.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having gone there, Astika saw the splendid grounds that had been laid out for the sacriﬁce, populated with numerous sadasyas, as radiant as the sun and the ﬁre. But the gatekeepers refused to allow entry to that best of Brahmanas. To gain entry, the best of Brahmanas praised the sacriﬁce.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having gone there, Astika saw the splendid grounds that had been laid out for the sacriﬁce, populated with numerous sadasyas, as radiant as the sun and the ﬁre. But the gatekeepers refused to allow entry to that best of Brahmanas. To gain entry, the best of Brahmanas praised the sacriﬁce.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

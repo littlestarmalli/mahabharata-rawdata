@@ -1,0 +1,218 @@
+{
+  "chapter": 72,
+  "local": 72,
+  "shlokas": 23,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When the period of his vow was over and he had obtained his preceptor's permission, Kacha prepared to leave for the land of the thirty gods.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the period of his vow was over and he had obtained his preceptor's permission, Kacha prepared to leave for the land of the thirty gods.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Devayani told him, “O grandson of rishi Angirasa! You are dazzling in your conduct, birth, learning, austerities and self-control. Just as the immensely famous rishi Angirasa is honoured by my father, so must I worship and honour Brihaspati. O one blessed with the power of austerities! Know this and hear what I have to say. You are aware of my behaviour while the rigid observance of your vow was going on. You have now achieved your learning. I love you and you should love me in return. Accept my hand in accordance with the proper rites and mantras.” Kacha replied, “O unblemished lady! You are an object of my honour and worship, as your illustrious father is. You are an object of greater reverence to me. You are dearer to the great-souled Bhargava{144} than his own life. O fortunate one! You are my preceptor's daughter and, in accordance with dharma, I must always worship you. Just as your father Shukra, my preceptor, is always honoured by me, so must I always honour you. O Devayani! You should therefore not speak to me in this way.” Devayani replied, “O supreme among Brahmanas! You are not my father's son. You are only the son of his preceptor's son{145}. Therefore, you are an object of my honour and worship. O Kacha! You must remember the love I showed you when the asuras killed you again and again, and even now. O you who know dharma! Remembering my friendship, love and devotion towards you, you should not forsake me when I love you and have not shown any guilt.” Kacha replied, “You are pure in our vows. But you are now asking me to be engaged in a task that is not recommended. O lovely one with the beautiful brows! You are greater to me than my preceptor. Be gracious. O lady with the large eyes! O lady with a face like the moon! O fortunate one! You have dwelt in Kavya's loins and I have dwelt in the same place. O one with the fair face! According to dharma, you are my sister. O fortunate one! Do not say that. I have lived here happily and I hold no bad feelings. I ask your permission to leave. Bless me on my way. Remember me in your conversations as someone who has never transgressed dharma. Always serve my preceptor with single-minded alertness.” Devayani said, “O Kacha! If you spurn me for the sake of dharma, artha or kama, despite my asking, your knowledge will never achieve success.” Kacha replied, “You are my preceptor's daughter and there is no sin in refusing you. Nor has my preceptor given me instructions about this. Curse me if you so wish. O Devayani! I have told you the dharma the sages have decreed. I deserve no curse. Nevertheless, you have cursed me, not out of dharma, but out of desire. Therefore, your desire will never be satisﬁed. No rishi's son will ever accept your hand. You have said that my knowledge will never bear fruit. So be it. But it will bear fruit for the one I teach it to.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Devayani told him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@devayani",
+          "introduces_label": "Devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandson of rishi Angirasa! You are dazzling in your conduct, birth, learning, austerities and self-control. Just as the immensely famous rishi Angirasa is honoured by my father, so must I worship and honour Brihaspati. O one blessed with the power of austerities! Know this and hear what I have to say. You are aware of my behaviour while the rigid observance of your vow was going on. You have now achieved your learning. I love you and you should love me in return. Accept my hand in accordance with the proper rites and mantras.”",
+          "speaker": "@devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kacha replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "kacha",
+          "introduces_label": "Kacha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O unblemished lady! You are an object of my honour and worship, as your illustrious father is. You are an object of greater reverence to me. You are dearer to the great-souled Bhargava{144} than his own life. O fortunate one! You are my preceptor's daughter and, in accordance with dharma, I must always worship you. Just as your father Shukra, my preceptor, is always honoured by me, so must I always honour you. O Devayani! You should therefore not speak to me in this way.”",
+          "speaker": "kacha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Devayani replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@devayani",
+          "introduces_label": "Devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among Brahmanas! You are not my father's son. You are only the son of his preceptor's son{145}. Therefore, you are an object of my honour and worship. O Kacha! You must remember the love I showed you when the asuras killed you again and again, and even now. O you who know dharma! Remembering my friendship, love and devotion towards you, you should not forsake me when I love you and have not shown any guilt.”",
+          "speaker": "@devayani",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kacha replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "kacha",
+          "introduces_label": "Kacha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You are pure in our vows. But you are now asking me to be engaged in a task that is not recommended. O lovely one with the beautiful brows! You are greater to me than my preceptor. Be gracious. O lady with the large eyes! O lady with a face like the moon! O fortunate one! You have dwelt in Kavya's loins and I have dwelt in the same place. O one with the fair face! According to dharma, you are my sister. O fortunate one! Do not say that. I have lived here happily and I hold no bad feelings. I ask your permission to leave. Bless me on my way. Remember me in your conversations as someone who has never transgressed dharma. Always serve my preceptor with single-minded alertness.”",
+          "speaker": "kacha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Devayani said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@devayani",
+          "introduces_label": "Devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kacha! If you spurn me for the sake of dharma, artha or kama, despite my asking, your knowledge will never achieve success.”",
+          "speaker": "@devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kacha replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "kacha",
+          "introduces_label": "Kacha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You are my preceptor's daughter and there is no sin in refusing you. Nor has my preceptor given me instructions about this. Curse me if you so wish. O Devayani! I have told you the dharma the sages have decreed. I deserve no curse. Nevertheless, you have cursed me, not out of dharma, but out of desire. Therefore, your desire will never be satisﬁed. No rishi's son will ever accept your hand. You have said that my knowledge will never bear fruit. So be it. But it will bear fruit for the one I teach it to.”",
+          "speaker": "kacha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having said this to Devayani, Kacha, the best among Brahmanas, supreme among Brahmanas, quickly left for the abode of the thirty gods. On seeing him arrive, the gods, with Indra at their head, were delighted. They paid homage to Brihaspati and told Kacha, “You have performed a supreme and extraordinary act for our welfare and your fame will never diminish. You will have a share in our sacriﬁcial offerings.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having said this to Devayani, Kacha, the best among Brahmanas, supreme among Brahmanas, quickly left for the abode of the thirty gods. On seeing him arrive, the gods, with Indra at their head, were delighted. They paid homage to Brihaspati and told Kacha, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You have performed a supreme and extraordinary act for our welfare and your fame will never diminish. You will have a share in our sacriﬁcial offerings.”",
+          "speaker": "kacha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

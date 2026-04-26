@@ -1,0 +1,715 @@
+{
+  "chapter": 1732,
+  "local": 51,
+  "shlokas": 48,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Hearing this, with his advisers and his priest, Nahusha swiftly arrived at the spot where Chyavana was. As is proper, the king puriﬁed himself, joined his hands in salutation and presented himself before the great-souled Chyavana. O lord of the earth! The king's priest worshipped the one who was truthful in his vows, immensely fortunate and the equal of a god.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Hearing this, with his advisers and his priest, Nahusha swiftly arrived at the spot where Chyavana was. As is proper, the king puriﬁed himself, joined his hands in salutation and presented himself before the great-souled Chyavana. O lord of the earth! The king's priest worshipped the one who was truthful in his vows, immensely fortunate and the equal of a god.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘You should tell me in detail what agreeable task I can perform for you. O illustrious one! I will do everything for you, even if it is something that is extremely difﬁcult to accomplish.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You should tell me in detail what agreeable task I can perform for you. O illustrious one! I will do everything for you, even if it is something that is extremely difﬁcult to accomplish.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘These kaivartas earn a living through ﬁsh and have made great efforts. Pay them a price for selling me and the ﬁsh.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘These kaivartas earn a living through ﬁsh and have made great efforts. Pay them a price for selling me and the ﬁsh.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘Let the priest give one thousand coins to the nishadas as a price for purchasing such an illustrious one as the descendant of the Bhrigu lineage.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let the priest give one thousand coins to the nishadas as a price for purchasing such an illustrious one as the descendant of the Bhrigu lineage.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘O king! I am worth more than one thousand coins. What do you think? Use your own intelligence to determine the appropriate price that should be given.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I am worth more than one thousand coins. What do you think? Use your own intelligence to determine the appropriate price that should be given.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘Let one hundred thousand coins quickly be given to the nishadas. Perhaps that is the appropriate price for you. What do you think?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let one hundred thousand coins quickly be given to the nishadas. Perhaps that is the appropriate price for you. What do you think?’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘O bull among kings! I should not be purchased with one hundred thousand coins. Give an appropriate price. Think. Consult your ministers and decide.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O bull among kings! I should not be purchased with one hundred thousand coins. Give an appropriate price. Think. Consult your ministers and decide.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘Let the priest give one crore coins to the nishadas. If you do not agree to this, let more be given to them.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let the priest give one crore coins to the nishadas. If you do not agree to this, let more be given to them.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘O king! O immensely radiant one! I do not deserve to be purchased with one crore coins, or even more. Give an appropriate price. Think. Consult with the brahmanas and decide.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! O immensely radiant one! I do not deserve to be purchased with one crore coins, or even more. Give an appropriate price. Think. Consult with the brahmanas and decide.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘Let one half of my kingdom, or all of it, be given to the nishadas. I think that this should be a right price. O brahmana! Do you think differently?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let one half of my kingdom, or all of it, be given to the nishadas. I think that this should be a right price. O brahmana! Do you think differently?’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘O king! I do not deserve to be purchased with one half of the kingdom, or with all of it. Give an appropriate price. Think. Consult with the rishis and decide.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I do not deserve to be purchased with one half of the kingdom, or with all of it. Give an appropriate price. Think. Consult with the rishis and decide.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Hearing the maharshi's words, Nahusha was afﬂicted by grief. He began to think, consulting his ministers and his priest. At that time, a forest dweller who survived on roots and fruits arrived before Nahusha. He was a sage, but had been born from a cow. The supreme among brahmanas addressed the king. ‘I will ensure that the brahmana is satisﬁed. I do not utter a lie, even in jest. How can it be otherwise? Without any doubts, you should do exactly what I tell you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Hearing the maharshi's words, Nahusha was afﬂicted by grief. He began to think, consulting his ministers and his priest. At that time, a forest dweller who survived on roots and fruits arrived before Nahusha. He was a sage, but had been born from a cow. The supreme among brahmanas addressed the king. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will ensure that the brahmana is satisﬁed. I do not utter a lie, even in jest. How can it be otherwise? Without any doubts, you should do exactly what I tell you.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Nahusha said, ‘O illustrious one! Tell me a price that is appropriate for the maharshi descended from the Bhrigu lineage. Save me, my kingdom and my lineage. If the illustrious one is angry, he can destroy the three worlds, not to speak of someone like me, who is devoid of austerities and only possesses the valour of his arms. With my advisers and my ofﬁciating priest, I have now been submerged in fathomless waters. O maharshi! Become my boat and determine the price.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Nahusha said, ",
+          "speaker": "@bhishma",
+          "introduces": "@nahusha",
+          "introduces_label": "Nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Tell me a price that is appropriate for the maharshi descended from the Bhrigu lineage. Save me, my kingdom and my lineage. If the illustrious one is angry, he can destroy the three worlds, not to speak of someone like me, who is devoid of austerities and only possesses the valour of his arms. With my advisers and my ofﬁciating priest, I have now been submerged in fathomless waters. O maharshi! Become my boat and determine the price.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Hearing Nahusha's words, the powerful one who had been born from a cow spoke, thereby delighting all the advisers and the king. ‘O great king! Brahmanas are supreme among varnas and there can be no price for them. O lord of the earth! However, cows are also priceless. Suggest a cow as a price.’ O king! Hearing the maharshi's words, Nahusha, and his advisers and his priest, were ﬁlled with great delight. They went to Chyavana, the descendant of the Bhrigu lineage, who was devoted to his vows. Wishing to satisfy him, the king spoke these words. ‘Arise. O brahmana rishi! Get up. O Bhargava! I have purchased you with a cow. O supreme among those who uphold dharma! I think that this is your price.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Hearing Nahusha's words, the powerful one who had been born from a cow spoke, thereby delighting all the advisers and the king. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great king! Brahmanas are supreme among varnas and there can be no price for them. O lord of the earth! However, cows are also priceless. Suggest a cow as a price.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! Hearing the maharshi's words, Nahusha, and his advisers and his priest, were ﬁlled with great delight. They went to Chyavana, the descendant of the Bhrigu lineage, who was devoted to his vows. Wishing to satisfy him, the king spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Arise. O brahmana rishi! Get up. O Bhargava! I have purchased you with a cow. O supreme among those who uphold dharma! I think that this is your price.’",
+          "speaker": "@nahusha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘O Indra among kings! I am getting up. O unblemished one! You have indeed purchased me properly. O one without decay! I do not see any riches that are equal to a cow. O king! O brave one! Talking about, hearing about, giving and seeing cattle is praised. This is auspicious and cleanses all sins. Cows are always the foundation of prosperity. There are no sins in cattle. Cows are like food and represent the supreme oblation that can be offered to gods. Cows are always established in sounds of “svaha” and “vashatkara”. Cows are the ones who convey sacriﬁces. They are the mouth of a sacriﬁce. The undecaying and divine milk is borne by them and ﬂows from them. It is like amrita. They are stores of amrita and are honoured by all the worlds. In energy and form, cows are like a ﬁre on earth. Cows represent great energy and bring happiness to beings. When they are in a cow pen and can breathe without fear, that country is resplendent and sins are not attracted to it. Cows represent the ladder to heaven. Cows are worshipped in heaven. Cows are like goddesses that yield every object of desire. It is said that there is nothing superior to a cow. O bull among kings! I have thus recounted the greatness of cattle. I can only state some of the qualities and am not capable of repeating them in their entirety.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra among kings! I am getting up. O unblemished one! You have indeed purchased me properly. O one without decay! I do not see any riches that are equal to a cow. O king! O brave one! Talking about, hearing about, giving and seeing cattle is praised. This is auspicious and cleanses all sins. Cows are always the foundation of prosperity. There are no sins in cattle. Cows are like food and represent the supreme oblation that can be offered to gods. Cows are always established in sounds of ",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“svaha”",
+          "speaker": "@chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " and ",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“vashatkara”",
+          "speaker": "@chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": ". Cows are the ones who convey sacriﬁces. They are the mouth of a sacriﬁce. The undecaying and divine milk is borne by them and ﬂows from them. It is like amrita. They are stores of amrita and are honoured by all the worlds. In energy and form, cows are like a ﬁre on earth. Cows represent great energy and bring happiness to beings. When they are in a cow pen and can breathe without fear, that country is resplendent and sins are not attracted to it. Cows represent the ladder to heaven. Cows are worshipped in heaven. Cows are like goddesses that yield every object of desire. It is said that there is nothing superior to a cow. O bull among kings! I have thus recounted the greatness of cattle. I can only state some of the qualities and am not capable of repeating them in their entirety.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The nishadas said, ‘O sage! You have seen us and have spoken to us. O lord! The virtuous say that seven steps taken together lead to friendship. Show us your favours. The ﬁre consumes all the oblations that are offered into it. O one with dharma in one's soul! In that way, you are a man who is as powerful as the ﬁre. O learned one! We are bowing down before you. Show us your favours. To show us your grace, take this cow back from us.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The nishadas said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_nishadas",
+          "introduces_label": "The nishadas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O sage! You have seen us and have spoken to us. O lord! The virtuous say that seven steps taken together lead to friendship. Show us your favours. The ﬁre consumes all the oblations that are offered into it. O one with dharma in one's soul! In that way, you are a man who is as powerful as the ﬁre. O learned one! We are bowing down before you. Show us your favours. To show us your grace, take this cow back from us.’",
+          "speaker": "the_nishadas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Chyavana replied, ‘The sight of a sage is like virulent poison and can burn down a niggardly person from his roots, just as a ﬁre consumes dead wood. O kaivartas! I have accepted the cow. You have been freed from all sin. Swiftly go to heaven, with all the ﬁsh that have been caught in the net.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Chyavana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The sight of a sage is like virulent poison and can burn down a niggardly person from his roots, just as a ﬁre consumes dead wood. O kaivartas! I have accepted the cow. You have been freed from all sin. Swiftly go to heaven, with all the ﬁsh that have been caught in the net.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Because of the favours of the maharshi with the cleansed soul and because of his words, the nishadas and the ﬁsh went to heaven. O bull among the Bharata lineage! On seeing the ﬁshermen ascend to heaven with the ﬁsh, King Nahusha was amazed. The sage born from the cow and Chyavana, extender of the Bhrigu lineage, delighted the king by giving him comparable boons, until he said enough. O supreme among the Bharata lineage! The immensely valorous King Nahusha, lord of the earth, was supremely delighted. The king was Indra's equal and following dharma, received these. In great joy, he honoured the rishis back. Having completed his vow, Chyavana returned to his hermitage. The immensely energetic sage, descended from a cow, also returned to his hermitage. O lord of men! With the ﬁsh, the nishadas went to heaven. Having received the boons, Nahusha went to his own city. O son! O Yudhishthira! I have thus told you what you had asked me about, the affection that results from sight and from dwelling together. It is also the determination of dharma that cows are extremely fortunate. O brave one! What will I speak about next? What does your heart want to know?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Because of the favours of the maharshi with the cleansed soul and because of his words, the nishadas and the ﬁsh went to heaven. O bull among the Bharata lineage! On seeing the ﬁshermen ascend to heaven with the ﬁsh, King Nahusha was amazed. The sage born from the cow and Chyavana, extender of the Bhrigu lineage, delighted the king by giving him comparable boons, until he said enough. O supreme among the Bharata lineage! The immensely valorous King Nahusha, lord of the earth, was supremely delighted. The king was Indra's equal and following dharma, received these. In great joy, he honoured the rishis back. Having completed his vow, Chyavana returned to his hermitage. The immensely energetic sage, descended from a cow, also returned to his hermitage. O lord of men! With the ﬁsh, the nishadas went to heaven. Having received the boons, Nahusha went to his own city. O son! O Yudhishthira! I have thus told you what you had asked me about, the affection that results from sight and from dwelling together. It is also the determination of dharma that cows are extremely fortunate. O brave one! What will I speak about next? What does your heart want to know?”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

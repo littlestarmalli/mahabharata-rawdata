@@ -1,0 +1,41 @@
+{
+  "name": "Bhishma-Abhishechana Parva",
+  "subparva_number": 57,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 122
+  },
+  "note": "Vadha means the act of killing. This section is so named because it is about the killing of Bhishma. The first ten days of the battle have Bhish-ma as the commander-in-chief. This section thus describes the first ten days of the battle. On the first day, Virata�s son, Uttara, is killed. The second day has the Pandavas victorious, the highlight being Bhima�s destruction of the Kalingas. There is a ding-dong battle on the third day, with Bhishma triumphant initially (which is when Krishna decides to take up arms), followed by Arjuna�s victory. The Pandavas triumph on the fourth day and fourteen of Duryodhana�s brothers are killed by Bhima. While there is a lot of fighting on the fifth day, the highlight is Bhurishrava�s killing of ten of Satyaki�s sons. On balance, the Pandava side is more successful on the sixth day. While there is a great deal of fighting, there is nothing that merits a special mention on the seventh day. On the eighth day, Bhima kills eight of Duryodhana�s brothers. Tra-vat, Arjuna�s son, kills several of Shakuni�s brothers and is himself killed by the rakshasa Alambusa. Bhima again kills nine of Duryodhana�s brothers. On the ninth day, the Pandavas eventually get the worst of it. Krishna decides to kill Bhishma and is restrained by Arjuna. The Pan-davas consult Bhishma about how he may be killed and are advised to use Shikhandi. The tenth day is marked by Bhishma�s downfall. CHAPTER 901(41)",
+  "chapters": {
+    "816": {
+      "chapter_number": 816,
+      "global_number": 816,
+      "local_number": 153,
+      "num_shlokas": 35,
+      "file": "subparva_57_bhishma_abhishechana_parva/chapter_816.json"
+    },
+    "817": {
+      "chapter_number": 817,
+      "global_number": 817,
+      "local_number": 154,
+      "num_shlokas": 34,
+      "file": "subparva_57_bhishma_abhishechana_parva/chapter_817.json"
+    },
+    "818": {
+      "chapter_number": 818,
+      "global_number": 818,
+      "local_number": 155,
+      "num_shlokas": 38,
+      "file": "subparva_57_bhishma_abhishechana_parva/chapter_818.json"
+    },
+    "819": {
+      "chapter_number": 819,
+      "global_number": 819,
+      "local_number": 156,
+      "num_shlokas": 15,
+      "file": "subparva_57_bhishma_abhishechana_parva/chapter_819.json"
+    }
+  }
+}

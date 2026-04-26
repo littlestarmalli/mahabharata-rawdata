@@ -1,0 +1,140 @@
+{
+  "chapter": 658,
+  "local": 62,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having defeated the Kurus in battle, the one with the eyes of a bull{207} gathered and brought back Virata's great riches. When the sons of Dhritarashtra had all been shattered and had left, many Kuru soldiers emerged from the dense woods. Their hearts trembled in fright and they appeared, here and there. They could be seen standing there, their hair dishevelled and with their hands joined in salutation. They were hungry and thirsty and exhausted and in an alien land, they were not in their senses. They bowed down in homage before Partha and asked, “What will we do?” Arjuna replied, “O fortunate ones! Be safe. There is no reason for you to be scared. I assure you that I have no desire to kill those who are miserable.” On hearing these words of assurance, the assembled warriors praised him and wished for a long life, deeds and fame for him. Shattered and vanquished, the Kurus returned.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having defeated the Kurus in battle, the one with the eyes of a bull{207} gathered and brought back Virata's great riches. When the sons of Dhritarashtra had all been shattered and had left, many Kuru soldiers emerged from the dense woods. Their hearts trembled in fright and they appeared, here and there. They could be seen standing there, their hair dishevelled and with their hands joined in salutation. They were hungry and thirsty and exhausted and in an alien land, they were not in their senses. They bowed down in homage before Partha and asked, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What will we do?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O fortunate ones! Be safe. There is no reason for you to be scared. I assure you that I have no desire to kill those who are miserable.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing these words of assurance, the assembled warriors praised him and wished for a long life, deeds and fame for him. Shattered and vanquished, the Kurus returned.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On the road back, Phalguna spoke these words. “O brave prince! O mighty-armed one! Wait until all the cattle and all the cowherds have been collected. We will return to the city of Virata in the afternoon, after the horses have rested, have had their drink and have been tended to. The cowherds should now be swiftly dispatched by you. Let them go to the city with the good news that announces your victory{208}.” Uttara quickly told the messengers, “On Arjuna's instructions, go and proclaim my victory.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On the road back, Phalguna spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O brave prince! O mighty-armed one! Wait until all the cattle and all the cowherds have been collected. We will return to the city of Virata in the afternoon, after the horses have rested, have had their drink and have been tended to. The cowherds should now be swiftly dispatched by you. Let them go to the city with the good news that announces your victory{208}.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Uttara quickly told the messengers, ",
+          "speaker": "@vaishampayana",
+          "introduces": "uttara_quickly",
+          "introduces_label": "Uttara quickly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On Arjuna's instructions, go and proclaim my victory.”",
+          "speaker": "uttara_quickly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

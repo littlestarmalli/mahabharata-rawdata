@@ -1,0 +1,67 @@
+{
+  "chapter": 1462,
+  "local": 134,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Those who are learned about the ancient accounts chant a verse that was sung by Brahma himself. This is a path through which a king can generate his treasury. ‘The wealth of those who perform sacriﬁces, have good conduct and are noble should not be taken, as it belongs to the gods{27}. A kshatriya should take from bandits and from those who do not perform rites.’ O descendant of the Bharata lineage! These subjects are for kshatriyas, who must protect them and also receive from them. The wealth belongs to kshatriyas and not to anyone else. The wealth must be used for the sake of the army, or for the purpose of performing sacriﬁces. Herbs that are inedible are severed and used to cook stuff that is edible{28}. People who are learned in the Vedas say that wealth that is not used as offerings for the gods, the ancestors and mortals comes to no useful end. O king! A lord of the earth who follows dharma should take these riches away. O king! When it is like that{29}, it does not please the worlds and is not treasure. It must be taken away from the wicked and given to the virtuous. If someone makes himself into a bridge between the two, I think that person knows dharma. Some people say that here and there, herbs and animals may originate from injurious sources, but can nevertheless be used for sacriﬁces. Those who do not perform the rites of sacriﬁces are like ﬂies that bite and like aggressive ants. That is what dharma pronounces. Dust and ulapa grass{30} can rise from the ground. Dharma is like that, subtle and subtler.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Those who are learned about the ancient accounts chant a verse that was sung by Brahma himself. This is a path through which a king can generate his treasury. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The wealth of those who perform sacriﬁces, have good conduct and are noble should not be taken, as it belongs to the gods{27}. A kshatriya should take from bandits and from those who do not perform rites.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bharata lineage! These subjects are for kshatriyas, who must protect them and also receive from them. The wealth belongs to kshatriyas and not to anyone else. The wealth must be used for the sake of the army, or for the purpose of performing sacriﬁces. Herbs that are inedible are severed and used to cook stuff that is edible{28}. People who are learned in the Vedas say that wealth that is not used as offerings for the gods, the ancestors and mortals comes to no useful end. O king! A lord of the earth who follows dharma should take these riches away. O king! When it is like that{29}, it does not please the worlds and is not treasure. It must be taken away from the wicked and given to the virtuous. If someone makes himself into a bridge between the two, I think that person knows dharma. Some people say that here and there, herbs and animals may originate from injurious sources, but can nevertheless be used for sacriﬁces. Those who do not perform the rites of sacriﬁces are like ﬂies that bite and like aggressive ants. That is what dharma pronounces. Dust and ulapa grass{30} can rise from the ground. Dharma is like that, subtle and subtler.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

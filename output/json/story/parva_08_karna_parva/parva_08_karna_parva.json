@@ -1,0 +1,22 @@
+{
+  "name": "Karna Parva",
+  "parva_number": 8,
+  "details": {
+    "num_subparvas": 1,
+    "num_chapters": 69,
+    "num_shlokas": 3870
+  },
+  "subparvas": {
+    "73": {
+      "subparva_number": 73,
+      "name": "Karna-vadha Parva",
+      "source_volume": 7,
+      "details": {
+        "num_chapters": 69,
+        "num_shlokas": 3870
+      },
+      "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+      "file": "parva_08_karna_parva/subparva_73_karna_vadha_parva/subparva_73_karna_vadha_parva.json"
+    }
+  }
+}

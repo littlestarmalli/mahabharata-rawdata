@@ -1,0 +1,156 @@
+{
+  "chapter": 131,
+  "local": 131,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Then King Duryodhana and his brothers slowly began to win people over to their side by bestowing honour and riches on them. One day, on Dhritarashtra's instructions, some skilled ministers began to describe the beautiful city of Varanavata. “Pashupati's{40} festival will be held in the beautiful city of Varanavata. A large number of people have assembled there. That marvellous place will be adorned with all the gems.” On Dhritarashtra's bidding, these were the words they uttered. O king! When they heard these stories about the beautiful city of Varanavata, Pandu's sons wished to go there.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then King Duryodhana and his brothers slowly began to win people over to their side by bestowing honour and riches on them. One day, on Dhritarashtra's instructions, some skilled ministers began to describe the beautiful city of Varanavata. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Pashupati's{40} festival will be held in the beautiful city of Varanavata. A large number of people have assembled there. That marvellous place will be adorned with all the gems.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On Dhritarashtra's bidding, these were the words they uttered. O king! When they heard these stories about the beautiful city of Varanavata, Pandu's sons wished to go there.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘When the king realized that the Pandavas were curious, Ambika's son{41} told the Pandavas, “My men always and repeatedly describe to me the city of Varanavata, the most charming in the world. O sons! If you wish to witness the festival in the city of Varanavata, go there with your attendants and soldiers and enjoy yourselves like the gods. Give jewels to all the Brahmanas and the singers. Enjoy yourselves like radiant gods who possess all they desire. Spend as much time as you want there and when you have enjoyed yourselves completely, happily return to Hastinapura.” Realizing that this was Dhritarashtra's own wish and he himself had no allies, Yudhisthira agreed.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the king realized that the Pandavas were curious, Ambika's son{41} told the Pandavas, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“My men always and repeatedly describe to me the city of Varanavata, the most charming in the world. O sons! If you wish to witness the festival in the city of Varanavata, go there with your attendants and soldiers and enjoy yourselves like the gods. Give jewels to all the Brahmanas and the singers. Enjoy yourselves like radiant gods who possess all they desire. Spend as much time as you want there and when you have enjoyed yourselves completely, happily return to Hastinapura.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Realizing that this was Dhritarashtra's own wish and he himself had no allies, Yudhisthira agreed.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Addressing Shantanu's son, Bhishma, the immensely wise Vidura, Drona, the Bahlika Somadatta, the Kouravas, Kripa, the preceptor's son{42} and the illustrious Gandhari, Yudhisthira said, softly and meekly, “On Dhritarashtra's command, we are going with our friends to the lovely and populated city of Varanavata. Bless us with happy hearts, so that those sacred blessings ensure our prosperity and protect us from sin.” Having heard these words of Pandu's son, all the Kouravas blessed the Pandavas with happy hearts. “O sons of Pandu! Let all the beings along your journey bring you fortune. Let not the slightest touch of evil touch you.” Then, after having received blessings and after having performed all the rites for obtaining the kingdom, the Pandavas left for Varanavata.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Addressing Shantanu's son, Bhishma, the immensely wise Vidura, Drona, the Bahlika Somadatta, the Kouravas, Kripa, the preceptor's son{42} and the illustrious Gandhari, Yudhisthira said, softly and meekly, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On Dhritarashtra's command, we are going with our friends to the lovely and populated city of Varanavata. Bless us with happy hearts, so that those sacred blessings ensure our prosperity and protect us from sin.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having heard these words of Pandu's son, all the Kouravas blessed the Pandavas with happy hearts. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O sons of Pandu! Let all the beings along your journey bring you fortune. Let not the slightest touch of evil touch you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then, after having received blessings and after having performed all the rites for obtaining the kingdom, the Pandavas left for Varanavata.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

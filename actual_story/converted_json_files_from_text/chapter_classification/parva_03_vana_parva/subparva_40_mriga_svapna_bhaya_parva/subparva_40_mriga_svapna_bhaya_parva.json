@@ -1,0 +1,20 @@
+{
+  "name": "Mriga-Svapna-Bhaya Parva",
+  "subparva_number": 40,
+  "source_volume": 3,
+  "file_path": "output/volumes/volume_3_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 0
+  },
+  "note": "Mriga means deer. Deer appear to Yudhishthira in a dream (svapna) and tell him about their fears (bhaya), requesting the Pan-davas to relocate from Dvaitavana.",
+  "chapters": {
+    "541": {
+      "chapter_number": 541,
+      "global_number": 541,
+      "local_number": 244,
+      "num_shlokas": null,
+      "file": "subparva_40_mriga_svapna_bhaya_parva/chapter_541.json"
+    }
+  }
+}

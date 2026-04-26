@@ -1,0 +1,1341 @@
+{
+  "name": "Ajagara Parva",
+  "subparva_number": 36,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 201
+  },
+  "note": "Ajagara means a boa constrictor, literally something that swallows a goat (aja). The Pandavas retrace their steps to Vrishaparva�s hermitage and Badari and then go to visit King Subahu. From there, they go to the origins of the Yamuna and Dvaitavana, on the banks of the Sarasvati. Bhima is then grasped by Nahusha in the form of a boa and this is why this section is called Ajagara Parva. The highlight of this section is a dialogue between Yudhishthira and Nahusha, in the form of a boa.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "470": {
+      "global_number": 470,
+      "local_number": 173,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘When that great charioteer, skilled in weapons, returned from the abode of Vritra’s slayer, what did the Parthas accomplish next, now that they had been rejoined by the brave Dhananjaya?’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya asked,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘When that great charioteer, skilled in weapons, returned from the abode of Vritra’s slayer, what did the Parthas accomplish next, now that they had been rejoined by the brave Dhananjaya?’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘Those Indras among men lived in that forest. The brave ones sported there on that beautiful mountain, the lovely pleasure ground of the lord of riches, with Arjuna, equal to Indra himself. On seeing those unmatched houses and pleasure grounds covered with many trees, Kiriti{1}, Indra among men, always immersed in his weapons and with the bow in his hand, roamed around a lot. Through the favours of King Vaishravana, those sons of a king had found an abode and no longer desired what beings want{2}. That time was a blessing for them. They were united with Partha and lived for four years there and these years they spent there seemed like a single night. With the earlier six, it was now ten years that the Pandavas had peacefully dwelt in the forest.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Those Indras among men lived in that forest. The brave ones sported there on that beautiful mountain, the lovely pleasure ground of the lord of riches, with Arjuna, equal to Indra himself. On seeing those unmatched houses and pleasure grounds covered with many trees, Kiriti{1}, Indra among men, always immersed in his weapons and with the bow in his hand, roamed around a lot. Through the favours of King Vaishravana, those sons of a king had found an abode and no longer desired what beings want{2}. That time was a blessing for them. They were united with Partha and lived for four years there and these years they spent there seemed like a single night. With the earlier six, it was now ten years that the Pandavas had peacefully dwelt in the forest.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Once, Vayu’s intrepid son was seated near the king, together with Jishnu and the twins, the equals of the king of the gods{3}. In private, he gently spoke these beneﬁcial words. “O king of the Kurus! In order to ensure that your oath remained true and to do that which would make you happy, we followed you into the forest and did not kill Suyodhana, together with his followers. We have lived here for eleven years. We are deserving of happiness, but Suyodhana has grasped that happiness. We should now deceive that scoundrel, lacking in intelligence and conduct. Let us happily resort to a life that will be incognito{4}. O king! On your instructions, we lived without anxiety and spent this time roaming in the forest. He will be deluded because we have lived nearby and will not get to know if we move to a distant region. Having spent one year in hiding, we will easily uproot that worst of men. O Indra among kings! On that scoundrel among men, Suyodhana, surrounded by all his followers, we will reap the enmity, with all its fruits and ﬂowers. O Dharmaraja! Accept the world as your own. O god among men! Kill this grief. We are capable of roaming this mountain that is like heaven. O descendant of the Bharata lineage! Your fragrant deeds may be destroyed in this world of the mobile and the immobile. But by regaining the kingdom of the bulls among the Kurus, you are capable of performing great deeds and great rituals. O Indra among men! You are always capable of obtaining whatever you want from Kubera. O descendant of the Bharata lineage! Set your heart on the slaying of those who hate you and on punishing them, because they have oppressed you. O king! The wielder of the vajra is himself incapable of withstanding your terrible energy. O Dharmaraja! Nor will any pain be caused to you even if you confront all the gods. The one with Suparna on his banner and Shini’s grandson are both engaged in that which ensures your welfare{5}. O god among kings! The foremost among the Shinis, the equal of Krishna in strength, is engaged likewise{6}. Krishna, together with the Yadavas, is engaged in that which will ensure your welfare. O god among men! So are these brave and skilled twins. Our prime objective is an increase in your inﬂuence. Encountering the enemies, we will pacify them.” On ascertaining what was in their mind, the great-souled son of Dharma circumambulated Vaishravana’s abode{7}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Once, Vayu’s intrepid son was seated near the king, together with Jishnu and the twins, the equals of the king of the gods{3}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "In private, he gently spoke these beneﬁcial words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@in_private",
+              "text": "“O king of the Kurus! In order to ensure that your oath remained true and to do that which would make you happy, we followed you into the forest and did not kill Suyodhana, together with his followers. We have lived here for eleven years. We are deserving of happiness, but Suyodhana has grasped that happiness. We should now deceive that scoundrel, lacking in intelligence and conduct. Let us happily resort to a life that will be incognito{4}. O king! On your instructions, we lived without anxiety and spent this time roaming in the forest. He will be deluded because we have lived nearby and will not get to know if we move to a distant region. Having spent one year in hiding, we will easily uproot that worst of men. O Indra among kings! On that scoundrel among men, Suyodhana, surrounded by all his followers, we will reap the enmity, with all its fruits and ﬂowers. O Dharmaraja! Accept the world as your own. O god among men! Kill this grief. We are capable of roaming this mountain that is like heaven. O descendant of the Bharata lineage! Your fragrant deeds may be destroyed in this world of the mobile and the immobile. But by regaining the kingdom of the bulls among the Kurus, you are capable of performing great deeds and great rituals. O Indra among men! You are always capable of obtaining whatever you want from Kubera. O descendant of the Bharata lineage! Set your heart on the slaying of those who hate you and on punishing them, because they have oppressed you. O king! The wielder of the vajra is himself incapable of withstanding your terrible energy. O Dharmaraja! Nor will any pain be caused to you even if you confront all the gods. The one with Suparna on his banner and Shini’s grandson are both engaged in that which ensures your welfare{5}. O god among kings! The foremost among the Shinis, the equal of Krishna in strength, is engaged likewise{6}. Krishna, together with the Yadavas, is engaged in that which will ensure your welfare. O god among men! So are these brave and skilled twins. Our prime objective is an increase in your inﬂuence. Encountering the enemies, we will pacify them.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On ascertaining what was in their mind, the great-souled son of Dharma circumambulated Vaishravana’s abode{7}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘The energetic one was knowledgeable about dharma and artha. Dharmaraja bid adieu to the houses, the rivers, the lakes and all the rakshasas. He glanced down at the path through which he had ascended and looked again at the mountain and said, “O Indra among mountains! When my deeds are done, when my well-wishers and I have triumphed over the enemies and have won the kingdom, I will behold you again, for performing austerities with a restrained soul.” Surrounded by all his brothers and the brahmanas, the lord of the Kurus was again carried along a similar path, with all the others, by Ghatotkacha—over mountains and waterfalls. On seeing them ready to leave, the maharshi{8} cheerfully instructed them, like a father to his sons. Together with Lomasha, they happily went to the sacred abode of the dwellers of heaven. Similarly instructed by Arshtishena, the Parthas, foremost among men, went and saw the beautiful tirthas, hermitages and many other great ponds.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The energetic one was knowledgeable about dharma and artha. Dharmaraja bid adieu to the houses, the rivers, the lakes and all the rakshasas. He glanced down at the path through which he had ascended and looked again at the mountain and said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Indra among mountains! When my deeds are done, when my well-wishers and I have triumphed over the enemies and have won the kingdom, I will behold you again, for performing austerities with a restrained soul.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Surrounded by all his brothers and the brahmanas, the lord of the Kurus was again carried along a similar path, with all the others, by Ghatotkacha—over mountains and waterfalls. On seeing them ready to leave, the maharshi{8} cheerfully instructed them, like a father to his sons. Together with Lomasha, they happily went to the sacred abode of the dwellers of heaven. Similarly instructed by Arshtishena, the Parthas, foremost among men, went and saw the beautiful tirthas, hermitages and many other great ponds.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "471": {
+      "global_number": 471,
+      "local_number": 174,
+      "num_shlokas": 24,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘That supreme of mountains had cascading waterfalls and was full of kinnaras, birds and cardinal elephants{9}. The bulls among the Bharatas had lived happily there and found no pleasure in leaving it. But when the bulls among the Bharatas once again beheld Kailasa, Kubera’s beloved mountain that looked like an ocean of clouds, they found great joy. The brave ones saw passes in the mountains, pens for cattle in the mountains, crevasses in the mountains and many sharp falls, with plains and lowlands here and there. There were other large forests, inhabited by many animals and deer. Armed with bows and swords, those foremost among men conﬁdently went further. There were beautiful groves, rivers and ponds and caverns and recesses in the mighty mountains. By day and by night, those bulls among men always found places to rest there. After resting in this difﬁcult terrain and traversing Kailasa, whose form is unthinkable, they reached Vrishaparva’s supreme and beautiful hermitage. On meeting them, King Vrishaparva heartily welcomed them. Overcoming all confusion, they gave Vrishaparva a complete account of their safe stay{10}. They happily spent a night in that sacred hermitage, favoured by gods and maharshis. The brave ones then went to the giant Badari and happily dwelt there again. Then those greatsouled ones, foremost among men, arrived at Narayana’s region. They saw Kubera’s lotus pond, favoured by gods and siddhas, and became devoid of grief. Pandu’s sons, foremost among all men, saw those lotuses and became devoid of grief. They pleasured there, just as brahmana rishis enjoy themselves when they live in Nandana.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘That supreme of mountains had cascading waterfalls and was full of kinnaras, birds and cardinal elephants{9}. The bulls among the Bharatas had lived happily there and found no pleasure in leaving it. But when the bulls among the Bharatas once again beheld Kailasa, Kubera’s beloved mountain that looked like an ocean of clouds, they found great joy. The brave ones saw passes in the mountains, pens for cattle in the mountains, crevasses in the mountains and many sharp falls, with plains and lowlands here and there. There were other large forests, inhabited by many animals and deer. Armed with bows and swords, those foremost among men conﬁdently went further. There were beautiful groves, rivers and ponds and caverns and recesses in the mighty mountains. By day and by night, those bulls among men always found places to rest there. After resting in this difﬁcult terrain and traversing Kailasa, whose form is unthinkable, they reached Vrishaparva’s supreme and beautiful hermitage. On meeting them, King Vrishaparva heartily welcomed them. Overcoming all confusion, they gave Vrishaparva a complete account of their safe stay{10}. They happily spent a night in that sacred hermitage, favoured by gods and maharshis. The brave ones then went to the giant Badari and happily dwelt there again. Then those greatsouled ones, foremost among men, arrived at Narayana’s region. They saw Kubera’s lotus pond, favoured by gods and siddhas, and became devoid of grief. Pandu’s sons, foremost among all men, saw those lotuses and became devoid of grief. They pleasured there, just as brahmana rishis enjoy themselves when they live in Nandana.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having spent a happy month in Badari, in due course, they went to the land of Subahu, the king of the kiratas, following the route that other brave ones had traversed earlier. They passed the lands of chinas{11}, tukharas{12}, daradas{13}, darvas{14} and kunindas{15} full of many jewels. The brave ones crossed the difﬁcult terrain of the Himalaya region and saw Subahu’s city. When he heard that all the sons and grandsons of kings had arrived, King Subahu was delighted and came out to welcome them. The bulls of the Kuru lineage greeted him in return. They met Subahu with all the charioteers headed by Vishoka, with Indrasena, with the servants, with the cooks and with their supervisors{16}. They stayed there happily for a night. Retaining all the charioteers and the chariots, they dismissed Ghatotkacha and his followers. They continued towards Yamuna, the king of mountains{17}. That mountain is full of springs. Its red and pale slopes are covered with a mantle of snow. The foremost among men reached the sacriﬁcial pole Vishakha and lived there{18}. The great forest was like Chaitraratha{19} and was infested by boars, many animals and birds. Those foremost among hunters safely spent another year in that forest. In a cavern in that mountain, Vrikodara came upon an extremely strong serpent. It was oppressed by hunger and had the terrible form of death itself. Thereupon, his soul was pained through depression and delusion. But Yudhishthira, supreme among those who uphold dharma and whose energy is inﬁnite, freed Vrikodara in an island there, when all his limbs had been grasped by the grasper{20}. The twelfth year had arrived and the Kurus pleasantly spent the time in the forest. They lived in the forest that was like Chaitraratha. They were fortunate and radiant in their austerities. Then the foremost ones among those who are devoted to the knowledge of arms, went to the neighbourhood of the desert. They went to Sarasvati and found Lake Dvaitavana, wishing to live there. On seeing them come to Dvaitavana and settling down there, the residents of that region arrived. They were engaged in austerities and restrained, devoted to rituals and meditation. They came with grass, water, vessels, offerings and stones for grinding. Sarasvati’s banks were covered with many plakshas{21}, akshas{22}, rohitakas{23}, cane, snuhas{24}, badaris{25}, khadiras{26}, shirishas{27}, bilvas{28}, ingudas{29}, pilus{30}, shamis{31} and kariras{32}. This was a place loved by yakshas, gandharvas and maharshis. It was the sacriﬁcial ground of the gods themselves. Those sons of a god among men lived there happily, roaming delightedly along the banks of the Sarasvati.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spent a happy month in Badari, in due course, they went to the land of Subahu, the king of the kiratas, following the route that other brave ones had traversed earlier. They passed the lands of chinas{11}, tukharas{12}, daradas{13}, darvas{14} and kunindas{15} full of many jewels. The brave ones crossed the difﬁcult terrain of the Himalaya region and saw Subahu’s city. When he heard that all the sons and grandsons of kings had arrived, King Subahu was delighted and came out to welcome them. The bulls of the Kuru lineage greeted him in return. They met Subahu with all the charioteers headed by Vishoka, with Indrasena, with the servants, with the cooks and with their supervisors{16}. They stayed there happily for a night. Retaining all the charioteers and the chariots, they dismissed Ghatotkacha and his followers. They continued towards Yamuna, the king of mountains{17}. That mountain is full of springs. Its red and pale slopes are covered with a mantle of snow. The foremost among men reached the sacriﬁcial pole Vishakha and lived there{18}. The great forest was like Chaitraratha{19} and was infested by boars, many animals and birds. Those foremost among hunters safely spent another year in that forest. In a cavern in that mountain, Vrikodara came upon an extremely strong serpent. It was oppressed by hunger and had the terrible form of death itself. Thereupon, his soul was pained through depression and delusion. But Yudhishthira, supreme among those who uphold dharma and whose energy is inﬁnite, freed Vrikodara in an island there, when all his limbs had been grasped by the grasper{20}. The twelfth year had arrived and the Kurus pleasantly spent the time in the forest. They lived in the forest that was like Chaitraratha. They were fortunate and radiant in their austerities. Then the foremost ones among those who are devoted to the knowledge of arms, went to the neighbourhood of the desert. They went to Sarasvati and found Lake Dvaitavana, wishing to live there. On seeing them come to Dvaitavana and settling down there, the residents of that region arrived. They were engaged in austerities and restrained, devoted to rituals and meditation. They came with grass, water, vessels, offerings and stones for grinding. Sarasvati’s banks were covered with many plakshas{21}, akshas{22}, rohitakas{23}, cane, snuhas{24}, badaris{25}, khadiras{26}, shirishas{27}, bilvas{28}, ingudas{29}, pilus{30}, shamis{31} and kariras{32}. This was a place loved by yakshas, gandharvas and maharshis. It was the sacriﬁcial ground of the gods themselves. Those sons of a god among men lived there happily, roaming delightedly along the banks of the Sarasvati.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "472": {
+      "global_number": 472,
+      "local_number": 175,
+      "num_shlokas": 21,
+      "paragraphs": {
+        "1": {
+          "raw": "Janemejaya asked, ‘O sage! How can Bhima, whose prowess is terrible and who has the strength of ten thousand elephants, have been overcome by dreadful fear on account of an ajagara? The insolent one challenged the lord of riches, of the Pulastya lineage, in battle{33}. He encountered and killed the foremost among yakshas and rakshasas at the lotus pond. You said that the destroyer of enemies was overcome by distress and fear. I am curious and wish to hear this in detail.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janemejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O sage! How can Bhima, whose prowess is terrible and who has the strength of ten thousand elephants, have been overcome by dreadful fear on account of an ajagara? The insolent one challenged the lord of riches, of the Pulastya lineage, in battle{33}. He encountered and killed the foremost among yakshas and rakshasas at the lotus pond. You said that the destroyer of enemies was overcome by distress and fear. I am curious and wish to hear this in detail.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O king! Having left the hermitage of King Vrishaparva, those foremost among archers lived in the forest that possessed many wonders. On seeing that beautiful forest, frequented by gods and gandharvas, Vrikodara began to roam around as he wished, bow and sword in his hands. He saw the pure regions on the Himalaya mountains, visited by masses of apsaras and frequented by gods, rishis and siddhas. It resounded everywhere with the sounds of chakoras, chakravaka birds, jivas{34}, jivakas{35}, cuckoos and bhringarajas{36}. It was covered with trees that were always full of ﬂowers and fruit, tender because of the touch of snow. There was plenty of shade and it was pleasant to the mind and the eye. He saw mountainous streams tinged with the colour of lapis lazuli. The water was touched by snow and there were tens of thousands of geese and karandavas{37}. There were forests of devadaru trees{38} that seemed to act like a net for the clouds. These were mixed with yellow sandalwood and tall kaliyakas{39}. He went hunting on the ﬂat terrain of the desert. The immensely strong one shot the deer with arrows that were pure{40}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Having left the hermitage of King Vrishaparva, those foremost among archers lived in the forest that possessed many wonders. On seeing that beautiful forest, frequented by gods and gandharvas, Vrikodara began to roam around as he wished, bow and sword in his hands. He saw the pure regions on the Himalaya mountains, visited by masses of apsaras and frequented by gods, rishis and siddhas. It resounded everywhere with the sounds of chakoras, chakravaka birds, jivas{34}, jivakas{35}, cuckoos and bhringarajas{36}. It was covered with trees that were always full of ﬂowers and fruit, tender because of the touch of snow. There was plenty of shade and it was pleasant to the mind and the eye. He saw mountainous streams tinged with the colour of lapis lazuli. The water was touched by snow and there were tens of thousands of geese and karandavas{37}. There were forests of devadaru trees{38} that seemed to act like a net for the clouds. These were mixed with yellow sandalwood and tall kaliyakas{39}. He went hunting on the ﬂat terrain of the desert. The immensely strong one shot the deer with arrows that were pure{40}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then he saw a gigantic serpent that makes one’s body hair stand up. It had entered a mountainous cavern and had covered the entire cave with its body. Its coils were piled as high as a mountain. Its colour was yellow like turmeric and its colourful skin was speckled with circular marks like the sun and the moon. Its mouth was as wide as a cave and was adorned with four teeth. It constantly licked the corners of its mouth. Its eyes blazed and were copper-red in hue. Like destiny and like Yama, it struck terror in all beings. Through the moist hissing of its breath, it seemed to be reprimanding. The hungry boa suddenly grasped Bhimasena and forcefully seized him with both his arms. Because of the boon it had received, Bhimasena instantly lost his senses as soon as it touched him. The strength of Bhimasena’s arms might have been more than that of others and his strength might have been able to withstand ten thousand elephants. But the energetic one was completely overcome by the serpent. Bhima trembled slowly, but he was completely unable to move. He was equal to ten thousand elephants. He had the shoulders of a lion. His arms were strong. But grasped, he lost his mettle. He was deluded because of the grant of the boon. For some time, the brave one tried terribly hard to extricate himself. But he did not succeed at all.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then he saw a gigantic serpent that makes one’s body hair stand up. It had entered a mountainous cavern and had covered the entire cave with its body. Its coils were piled as high as a mountain. Its colour was yellow like turmeric and its colourful skin was speckled with circular marks like the sun and the moon. Its mouth was as wide as a cave and was adorned with four teeth. It constantly licked the corners of its mouth. Its eyes blazed and were copper-red in hue. Like destiny and like Yama, it struck terror in all beings. Through the moist hissing of its breath, it seemed to be reprimanding. The hungry boa suddenly grasped Bhimasena and forcefully seized him with both his arms. Because of the boon it had received, Bhimasena instantly lost his senses as soon as it touched him. The strength of Bhimasena’s arms might have been more than that of others and his strength might have been able to withstand ten thousand elephants. But the energetic one was completely overcome by the serpent. Bhima trembled slowly, but he was completely unable to move. He was equal to ten thousand elephants. He had the shoulders of a lion. His arms were strong. But grasped, he lost his mettle. He was deluded because of the grant of the boon. For some time, the brave one tried terribly hard to extricate himself. But he did not succeed at all.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "473": {
+      "global_number": 473,
+      "local_number": 176,
+      "num_shlokas": 51,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The energetic Bhimasena was thus overcome by the serpent. He began to think about the great and extraordinary valour of the serpent. He told the great serpent, “O serpent! If you so desire, please tell me. O best of serpents! Who are you and what will you do with me? I am Pandava Bhimasena, immediately younger to Dharmaraja. I possess the vigour equal to that of ten thousand elephants. How can I have been brought under your power? Many lions with manes, tigers, buffaloes and elephants have been encountered and slain by me in battle. O supreme among serpents! Danavas, pishachas and immensely strong rakshasas have not been able to withstand the force of my arms. Do you have the strength of knowledge or do you have the gift of a boon? In spite of my endeavours, you have been able to overpower me. O serpent! It is certain in my mind that the valour of men is useless, since you have been able to withstand my great strength.” When the brave Bhima, whose deeds are unsullied, was speaking in this way, the serpent encircled him in one gigantic coil.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The energetic Bhimasena was thus",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "overcome by the serpent. He began to think about the great and extraordinary valour of the serpent. He told the great serpent",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@overcome_by_the_serpent",
+              "text": "“O serpent! If you so desire, please tell me. O best of serpents! Who are you and what will you do with me? I am Pandava Bhimasena, immediately younger to Dharmaraja. I possess the vigour equal to that of ten thousand elephants. How can I have been brought under your power? Many lions with manes, tigers, buffaloes and elephants have been encountered and slain by me in battle. O supreme among serpents! Danavas, pishachas and immensely strong rakshasas have not been able to withstand the force of my arms. Do you have the strength of knowledge or do you have the gift of a boon? In spite of my endeavours, you have been able to overpower me. O serpent! It is certain in my mind that the valour of men is useless, since you have been able to withstand my great strength.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When the brave Bhima, whose deeds are unsullied, was speaking in this way, the serpent encircled him in one gigantic coil.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having thus overcome the mighty-armed one, but freeing his thick arms, the serpent said, “O mighty-armed one! I have been hungry for an extremely long time and it is fortunate that the gods and destiny have sent me my food. Life is dear to all beings that have bodies. O destroyer of enemies! O virtuous one! But I must certainly tell you the account now, how it was that I became a serpent. I attained this state because of the anger of the learned ones. Wishing to overcome the curse, I will tell you the serpent’s account. You must have heard of the rajarshi named Nahusha. He was your ancestor and that of your forefathers. He was Ayu’s son and the extender of that lineage. I am he. Because of the disrespect shown to brahmanas and because of Agastya’s curse, I have attained this state{41}. Look at what fate has wrought on me. You are my descendant and you are extremely handsome. Therefore, you should not be killed by me. But look at destiny. I will devour you today. O supreme among men! Once I have grasped a prey on the sixth day, whether it is an elephant or a buffalo, it can never free itself from me. O best of Kouravas! You have not only been grasped by a serpent that belongs to the inferior species. I have the gift of a boon. When I was swiftly falling from the vimana on which Shakra is seated, I asked the illustrious supreme sage{42} to free me from the curse. Flooded with compassion, the energetic one replied, ‘O king! You will be freed after some time has passed.’ Then I fell down on the ground, but did not lose my memory. Therefore, what has been determined in ancient times is ﬁxed in my mind and memory. The rishi told me, ‘He who replies accurately to your questions, will free you from your curse. O king! Once grasped by you, even if it is a being that is stronger and superior to you, it will immediately lose its mettle.’ Affectionate towards me and driven by compassion, those brahmanas then instantly disappeared{43}. O immensely radiant one! I thus assumed the form of a serpent. I live in this unholy hell, performing evil deeds, waiting for the appointed time.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having thus overcome the mighty-armed one, but freeing his thick arms,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the serpent said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O mighty-armed one! I have been hungry for an extremely long time and it is fortunate that the gods and destiny have sent me my food. Life is dear to all beings that have bodies. O destroyer of enemies! O virtuous one! But I must certainly tell you the account now, how it was that I became a serpent. I attained this state because of the anger of the learned ones. Wishing to overcome the curse, I will tell you the serpent’s account. You must have heard of the rajarshi named Nahusha. He was your ancestor and that of your forefathers. He was Ayu’s son and the extender of that lineage. I am he. Because of the disrespect shown to brahmanas and because of Agastya’s curse, I have attained this state{41}. Look at what fate has wrought on me. You are my descendant and you are extremely handsome. Therefore, you should not be killed by me. But look at destiny. I will devour you today. O supreme among men! Once I have grasped a prey on the sixth day, whether it is an elephant or a buffalo, it can never free itself from me. O best of Kouravas! You have not only been grasped by a serpent that belongs to the inferior species. I have the gift of a boon. When I was swiftly falling from the vimana on which Shakra is seated, I asked the illustrious supreme sage{42} to free me from the curse. Flooded with compassion, the energetic one replied, ‘O king! You will be freed after some time has passed.’ Then I fell down on the ground, but did not lose my memory. Therefore, what has been determined in ancient times is ﬁxed in my mind and memory. The rishi told me, ‘He who replies accurately to your questions, will free you from your curse. O king! Once grasped by you, even if it is a being that is stronger and superior to you, it will immediately lose its mettle.’ Affectionate towards me and driven by compassion, those brahmanas then instantly disappeared{43}. O immensely radiant one! I thus assumed the form of a serpent. I live in this unholy hell, performing evil deeds, waiting for the appointed time.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then the mighty-armed Bhimasena told the serpent, “O great serpent! I am not angry with you. Nor do I blame myself. Sometimes a man is capable of bringing happiness or unhappiness. At other times, he is incapable. One’s mind should not be worried at these comings and goings. How can one’s own exertions rise above destiny? I think that destiny is supreme and endeavours are meaningless. Behold. Because of adverse destiny, I have lost the strength of my arms. Without any immediate reason, I have been reduced to this state now. But today, I do not sorrow as much over my own destruction as I do over my brothers, who have been dislodged from their kingdom and have been exiled to this wilderness. The Himalayas are difﬁcult of access and are infested with yakshas and rakshasas. On seeing me thus, they will be confounded and will fall down. On hearing of my destruction, they will lose all enterprise. They follow dharma. It was I who drove them, because of my greed for the kingdom. Or perhaps the intelligent Arjuna, who knows all the weapons and is invincible to the gods, the gandharvas and the rakshasas, will be overcome by sorrow. The mighty-armed one, immensely strong, is capable, with his strength, of dislodging the king of the gods from his seat, not to speak of Dhritarashtra’s sons, deceitful in gambling, hated by all the worlds and addicted to insolence and avarice. I sorrow over my poor mother, so loving towards her sons. She always wished that we might attain a greatness superior to that of others. O serpent! At my destruction, she will be without a protector. All the desires that she had for me will become unsuccessful. The twins, Nakula and Sahadeva, followed their elder. They were always protected through the strength of my arms and were proud of their manliness. They will lose their enterprise. They will be dislodged from prowess and valour. At my destruction, they will be without protection. This is what I think.” In this way, Vrikodara lamented a lot. He was coiled by the serpent and could not move at all.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Then the mighty-armed Bhimasena told the serpent",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_mighty_armed_bhimasena",
+              "text": "“O great serpent! I am not angry with you. Nor do I blame myself. Sometimes a man is capable of bringing happiness or unhappiness. At other times, he is incapable. One’s mind should not be worried at these comings and goings. How can one’s own exertions rise above destiny? I think that destiny is supreme and endeavours are meaningless. Behold. Because of adverse destiny, I have lost the strength of my arms. Without any immediate reason, I have been reduced to this state now. But today, I do not sorrow as much over my own destruction as I do over my brothers, who have been dislodged from their kingdom and have been exiled to this wilderness. The Himalayas are difﬁcult of access and are infested with yakshas and rakshasas. On seeing me thus, they will be confounded and will fall down. On hearing of my destruction, they will lose all enterprise. They follow dharma. It was I who drove them, because of my greed for the kingdom. Or perhaps the intelligent Arjuna, who knows all the weapons and is invincible to the gods, the gandharvas and the rakshasas, will be overcome by sorrow. The mighty-armed one, immensely strong, is capable, with his strength, of dislodging the king of the gods from his seat, not to speak of Dhritarashtra’s sons, deceitful in gambling, hated by all the worlds and addicted to insolence and avarice. I sorrow over my poor mother, so loving towards her sons. She always wished that we might attain a greatness superior to that of others. O serpent! At my destruction, she will be without a protector. All the desires that she had for me will become unsuccessful. The twins, Nakula and Sahadeva, followed their elder. They were always protected through the strength of my arms and were proud of their manliness. They will lose their enterprise. They will be dislodged from prowess and valour. At my destruction, they will be without protection. This is what I think.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "In this way, Vrikodara lamented a lot. He was coiled by the serpent and could not move at all.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Kounteya Yudhishthira saw all the terrible omens and was disturbed in his mind. He thought about these evil portents. The sky to the south of the hermitage was ablaze{44}. A she-jackal stationed herself there and let out a terrible and dreadful howl. There was a dreadful-looking quail{45}, with one wing, one eye and one foot. It was seen to vomit blood, screeching harshly in the direction of the sun. A hot and rough wind began to blow, attracting gravel. All the animals and birds wailed towards the south. A black crow cawed from the back, “Go! Go!” His{46} right arm repeatedly trembled. There were tremors in his heart and in his left leg. Foretelling of evil, his left eye began to throb. O descendant of the Bharata lineage! Sensing great danger, the intelligent Dharmaraja asked Droupadi, “Where is Bhima?” Panchali answered that Vrikodara had been gone for a long time. Accompanied by Dhoumya, the mighty-armed king then left. He gave instructions to Dhananjaya to protect Droupadi. He instructed Nakula and Sahadeva to tend to the brahmanas. Then the lord followed Bhima’s footprints from the hermitage and saw the earth marked with the signs of his passage. As the brave one, with the speed of the wind, had rushed forward on his hunt, the wind created by his thighs had broken down and strewn trees along the path. Following these signs, he reached the mountainous cavern and saw his younger brother immobile there, in the grasp of that Indra among serpents.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Kounteya Yudhishthira saw all the terrible omens and was disturbed in his mind. He thought about these evil portents. The sky to the south of the hermitage was ablaze{44}. A she-jackal stationed herself there and let out a terrible and dreadful howl. There was a dreadful-looking quail{45}, with one wing, one eye and one foot. It was seen to vomit blood, screeching harshly in the direction of the sun. A hot and rough wind began to blow, attracting gravel. All the animals and birds wailed towards the south. A black crow cawed from the back,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Go! Go!”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "His{46} right arm repeatedly trembled. There were tremors in his heart and in his left leg. Foretelling of evil, his left eye began to throb. O descendant of the Bharata lineage! Sensing great danger,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the intelligent Dharmaraja asked Droupadi",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_intelligent_dharmaraja",
+              "text": "“Where is Bhima?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Panchali answered that Vrikodara had been gone for a long time. Accompanied by Dhoumya, the mighty-armed king then left. He gave instructions to Dhananjaya to protect Droupadi. He instructed Nakula and Sahadeva to tend to the brahmanas. Then the lord followed Bhima’s footprints from the hermitage and saw the earth marked with the signs of his passage. As the brave one, with the speed of the wind, had rushed forward on his hunt, the wind created by his thighs had broken down and strewn trees along the path. Following these signs, he reached the mountainous cavern and saw his younger brother immobile there, in the grasp of that Indra among serpents.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "474": {
+      "global_number": 474,
+      "local_number": 177,
+      "num_shlokas": 33,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On seeing his beloved brother encircled in the coils of the snake, the wise Yudhishthira approached and told the brave one, “O one whose mother is Kunti! How has this misfortune befallen you? Who is this supreme of serpents, with a body that is equal to a mountain?” On seeing his elder brother Dharmaraja, he{47} told his brother everything that had happened and how he had come to be grasped. Yudhishthira said, “O serpent! Yudhishthira is asking you. Tell the truth. Are you a god, a daitya or a serpent? O serpent! What must be done for you, or what must be told you, so as to please you? What food must be brought to you? What must be done to set him free?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On seeing his beloved brother encircled in the coils of the snake,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the wise Yudhishthira approached and told the brave one",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_wise_yudhishthira_approached_and",
+              "text": "“O one whose mother is Kunti! How has this misfortune befallen you? Who is this supreme of serpents, with a body that is equal to a mountain?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing his elder brother Dharmaraja, he{47}",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "told his brother everything that had happened and how he had come to be grasped. Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@told_his_brother_everything",
+              "text": "“O serpent! Yudhishthira is asking you. Tell the truth. Are you a god, a daitya or a serpent? O serpent! What must be done for you, or what must be told you, so as to please you? What food must be brought to you? What must be done to set him free?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The serpent replied, “O unblemished one! I was earlier a king named Nahusha, your ancestor. O lord of men! I was Ayu’s famous son and ﬁfth in the line from Soma{48}. Through sacriﬁces, austerities, studying, self-restraint and valour, I obtained unrivalled lordship of the three worlds. Having attained that prosperity, insolence overcame me. Thousands of brahmanas carried my palanquin. Intoxicated with my fortune, I insulted those brahmanas. O lord of the earth! I have been reduced to this state because of Agastya. O Pandava! O king! But because of the favours of the great-souled Agastya, I have not lost my wisdom even now. I have obtained your younger brother as my food at the sixth point in time{49}. I will not free him. Nor do I desire any other food. But if you answer the questions I ask you, I will later free your brother Vrikodara.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O unblemished one! I was earlier a king named Nahusha, your ancestor. O lord of men! I was Ayu’s famous son and ﬁfth in the line from Soma{48}. Through sacriﬁces, austerities, studying, self-restraint and valour, I obtained unrivalled lordship of the three worlds. Having attained that prosperity, insolence overcame me. Thousands of brahmanas carried my palanquin. Intoxicated with my fortune, I insulted those brahmanas. O lord of the earth! I have been reduced to this state because of Agastya. O Pandava! O king! But because of the favours of the great-souled Agastya, I have not lost my wisdom even now. I have obtained your younger brother as my food at the sixth point in time{49}. I will not free him. Nor do I desire any other food. But if you answer the questions I ask you, I will later free your brother Vrikodara.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Yudhishthira replied, “O serpent! Tell me whatever you like. O serpent! If I can, I will answer and please you. You are certainly aware of what only a brahmana can know. O king of the serpents! On hearing your words, I will reply.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O serpent! Tell me whatever you like. O serpent! If I can, I will answer and please you. You are certainly aware of what only a brahmana can know. O king of the serpents! On hearing your words, I will reply.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘The serpent asked, “O king! O Yudhishthira! Who is a brahmana and what should he know? From your words, I think that you are extremely wise.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O king! O Yudhishthira! Who is a brahmana and what should he know? From your words, I think that you are extremely wise.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Yudhishthira replied, “O Indra among serpents! It is said that a brahmana is one in whom truthfulness, charity, forgiveness, good conduct, lack of cruelty, self-control and compassion can be seen. O serpent! He obtains knowledge of the supreme brahman, which is beyond happiness and unhappiness, and on attaining which, there is no sorrow. What else will you say?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Indra among serpents! It is said that a brahmana is one in whom truthfulness, charity, forgiveness, good conduct, lack of cruelty, self-control and compassion can be seen. O serpent! He obtains knowledge of the supreme brahman, which is beyond happiness and unhappiness, and on attaining which, there is no sorrow. What else will you say?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘The serpent asked, “Truthfulness and knowledge of the brahman can be found in all the four varnas. O Yudhishthira! Truthfulness, charity, lack of anger, lack of cruelty, non-violence and compassion can also be found among shudras. O lord of men! You have said that the object of knowledge is beyond happiness and unhappiness. But there is nothing that is free from either. I do not think such a thing exists.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“Truthfulness and knowledge of the brahman can be found in all the four varnas. O Yudhishthira! Truthfulness, charity, lack of anger, lack of cruelty, non-violence and compassion can also be found among shudras. O lord of men! You have said that the object of knowledge is beyond happiness and unhappiness. But there is nothing that is free from either. I do not think such a thing exists.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Yudhishthira replied, “If these traits, not even found in a brahmana, are seen in a shudra, he is not a shudra. A brahmana in whom a brahmana’s traits are not found, is a shudra. O serpent! It is said that one in whom these traits are found is a brahmana. O serpent! One in whom these traits are not found, is marked as a shudra. Then again, you have said that the object of knowledge does not exist, because there is nothing that is free from both those sentiments{50}. O serpent! It is your view that nothing can exist without those two. There is a state between cold and heat that is neither cold nor heat. Like that, there is something in between that is neither happiness, nor unhappiness. That is my view. O serpent! What do you think?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“If these traits, not even found in a brahmana, are seen in a shudra, he is not a shudra. A brahmana in whom a brahmana’s traits are not found, is a shudra. O serpent! It is said that one in whom these traits are found is a brahmana. O serpent! One in whom these traits are not found, is marked as a shudra. Then again, you have said that the object of knowledge does not exist, because there is nothing that is free from both those sentiments{50}. O serpent! It is your view that nothing can exist without those two. There is a state between cold and heat that is neither cold nor heat. Like that, there is something in between that is neither happiness, nor unhappiness. That is my view. O serpent! What do you think?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘The serpent said, “O king! O one with a long life! If you assert that a brahmana is known by his conduct, birth has no meaning, as long as those characteristics can be seen.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O king! O one with a long life! If you assert that a brahmana is known by his conduct, birth has no meaning, as long as those characteristics can be seen.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘Yudhishthira replied, “O great serpent! O immensely wise one! I think that among men, birth is difﬁcult to determine, because of mixed birth among all the varnas. Men always beget children on women from all varnas. All men are equal in speech, intercourse, birth and death. The proof of this can be found in the words of the learned rishis, who have said ‘We sacriﬁce’ and so on, basing this entirely on conduct{51}. The birth rituals of a man are performed even before the navel chord has been severed. At that time, the mother is Savitri and the father is the preceptor{52}. Before initiation into knowledge of the Vedas, everyone is a shudra by conduct. When there is a difference of opinion on this, Svayambhuva Manu{53} has categorically stated, ‘The observance of rituals determines varna. If conduct cannot be seen, mixed races overwhelmingly dominate.’ O Indra among serpents! O great serpent! O supreme among serpents! I have earlier deﬁned as a brahmana one in whom the principles of good conduct are seen.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O great serpent! O immensely wise one! I think that among men, birth is difﬁcult to determine, because of mixed birth among all the varnas. Men always beget children on women from all varnas. All men are equal in speech, intercourse, birth and death. The proof of this can be found in the words of the learned rishis, who have said ‘We sacriﬁce’ and so on, basing this entirely on conduct{51}. The birth rituals of a man are performed even before the navel chord has been severed. At that time, the mother is Savitri and the father is the preceptor{52}. Before initiation into knowledge of the Vedas, everyone is a shudra by conduct. When there is a difference of opinion on this, Svayambhuva Manu{53} has categorically stated, ‘The observance of rituals determines varna. If conduct cannot be seen, mixed races overwhelmingly dominate.’ O Indra among serpents! O great serpent! O supreme among serpents! I have earlier deﬁned as a brahmana one in whom the principles of good conduct are seen.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "10": {
+          "raw": "‘The serpent said, “O Yudhishthira! I have listened to your words. You know what should be known. How can I now devour your brother Vrikodara?”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O Yudhishthira! I have listened to your words. You know what should be known. How can I now devour your brother Vrikodara?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "475": {
+      "global_number": 475,
+      "local_number": 178,
+      "num_shlokas": 50,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira asked, “In this world, there is no one as knowledgeable as you in the Vedas and the Vedangas{54}. Tell me. Which are the deeds through which one attains the supreme objective?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“In this world, there is no one as knowledgeable as you in the Vedas and the Vedangas{54}. Tell me. Which are the deeds through which one attains the supreme objective?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The serpent replied, “O descendant of the Bharata lineage! It is my view that one goes to heaven by giving to those who are worthy, speaking the truth and by always resorting to non-violence.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O descendant of the Bharata lineage! It is my view that one goes to heaven by giving to those who are worthy, speaking the truth and by always resorting to non-violence.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Yudhishthira asked, “O serpent! Between generosity and truthfulness, which is seen to be superior? Between non-violence and good conduct, which is superior and which is inferior?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O serpent! Between generosity and truthfulness, which is seen to be superior? Between non-violence and good conduct, which is superior and which is inferior?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘The serpent replied, “The superiority or inferiority of generosity versus truthfulness or non-violence vis-à-vis good conduct is determined by whether the effects of these deeds are more or less important. There are times when truthfulness is regarded as superior to generosity. O Indra among kings! There are times when generosity is regarded as superior to truthfulness. O mighty archer! O lord of the earth! In that way, there are occasions when non-violence is superior to kind words and other occasions when kind words are superior. O king! In this fashion, the superiority depends on the effects. If there is anything else that you are thinking of, tell me. I will explain.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“The superiority or inferiority of generosity versus truthfulness or non-violence vis-à-vis good conduct is determined by whether the effects of these deeds are more or less important. There are times when truthfulness is regarded as superior to generosity. O Indra among kings! There are times when generosity is regarded as superior to truthfulness. O mighty archer! O lord of the earth! In that way, there are occasions when non-violence is superior to kind words and other occasions when kind words are superior. O king! In this fashion, the superiority depends on the effects. If there is anything else that you are thinking of, tell me. I will explain.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Yudhishthira asked, “O serpent! What are the deeds through which one can attain heaven? What are seen to be the certain fruits of the disembodied soul? Explain these things to me.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O serpent! What are the deeds through which one can attain heaven? What are seen to be the certain fruits of the disembodied soul? Explain these things to me.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘The serpent replied, “O king! Depending on one’s own deeds, there are seen to be three end goals—human birth, residence in heaven and rebirth as inferior species. These are the three ends. Through continuous acts of charity and deeds based on reasons of non-violence, one attains heaven from this world of men. O Indra among kings! Through the reverse deeds, a man is born as inferior species. O son{55}! I will tell you about the speciﬁcs. A man who is addicted to desire and anger, and overcome by violence and avarice, is dislodged and is reborn as inferior species. It has separately been said that one who is born as inferior species, can be reborn as a human. Thus, cattle and horses are seen to have attained divine status. O son! Such is the goal of all animals, depending on one’s deeds. O king! The self should always be established in greatness. From one birth to another, the soul enjoys the fruits that come from a body, though it is distinct. This is the characteristic of all beings.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O king! Depending on one’s own deeds, there are seen to be three end goals—human birth, residence in heaven and rebirth as inferior species. These are the three ends. Through continuous acts of charity and deeds based on reasons of non-violence, one attains heaven from this world of men. O Indra among kings! Through the reverse deeds, a man is born as inferior species. O son{55}! I will tell you about the speciﬁcs. A man who is addicted to desire and anger, and overcome by violence and avarice, is dislodged and is reborn as inferior species. It has separately been said that one who is born as inferior species, can be reborn as a human. Thus, cattle and horses are seen to have attained divine status. O son! Such is the goal of all animals, depending on one’s deeds. O king! The self should always be established in greatness. From one birth to another, the soul enjoys the fruits that come from a body, though it is distinct. This is the characteristic of all beings.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Yudhishthira asked, “O serpent! Tell me exactly how the soul is established in a body and experiences sound, touch, colour, taste and smell. O immensely intelligent one! Do you also not separately experience these senses? O supreme among serpents! Tell me everything that I have asked.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O serpent! Tell me exactly how the soul is established in a body and experiences sound, touch, colour, taste and smell. O immensely intelligent one! Do you also not separately experience these senses? O supreme among serpents! Tell me everything that I have asked.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘The serpent replied, “O one with a long life! When the soul has resorted to a physical body and has established itself in control, it experiences each of those senses, depending on their characteristics. O bull among the Bharata lineage! Learn from me that knowledge, intelligence and the mind are faculties that determine a soul’s enjoyment of the senses. O son! Through the mind, the embodied being experiences one after another, from one object to another, the senses that ﬂow out of each of these objects. O tiger among men! The mind is thus the cause of all perceptions among animals. At the same time, it cannot experience multiple objects. O tiger among men! The soul is established between the eyebrows. It creates the intelligence about different kinds of objects. O tiger among kings! According to the wise, different kinds of experience ﬂow from this intelligence. These are the ways of an embodied soul.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O one with a long life! When the soul has resorted to a physical body and has established itself in control, it experiences each of those senses, depending on their characteristics. O bull among the Bharata lineage! Learn from me that knowledge, intelligence and the mind are faculties that determine a soul’s enjoyment of the senses. O son! Through the mind, the embodied being experiences one after another, from one object to another, the senses that ﬂow out of each of these objects. O tiger among men! The mind is thus the cause of all perceptions among animals. At the same time, it cannot experience multiple objects. O tiger among men! The soul is established between the eyebrows. It creates the intelligence about different kinds of objects. O tiger among kings! According to the wise, different kinds of experience ﬂow from this intelligence. These are the ways of an embodied soul.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘Yudhishthira asked, “Tell me. What are the speciﬁc characteristics that distinguish the mind and the intelligence? What is said to be the supreme deed for those who wish to know about the soul?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Tell me. What are the speciﬁc characteristics that distinguish the mind and the intelligence? What is said to be the supreme deed for those who wish to know about the soul?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "10": {
+          "raw": "‘The serpent replied, “O son! Through various distractions, the intelligence is said to follow the soul. Though consciousness is derived from it{56}, it is said to control the soul. Intelligence is not subject to the different qualities. But the mind has these qualities. O son! Thus have I distinguished between the mind and intelligence. But you yourself have knowledge about these matters. What do you think?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“O son! Through various distractions, the intelligence is said to follow the soul. Though consciousness is derived from it{56}, it is said to control the soul. Intelligence is not subject to the different qualities. But the mind has these qualities. O son! Thus have I distinguished between the mind and intelligence. But you yourself have knowledge about these matters. What do you think?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "11": {
+          "raw": "‘Yudhishthira said, “O best among those who are endowed with intelligence! Your intelligence is supreme. You know everything that there is to know. Why are you then asking me this question? You are omniscient. You dwelt in heaven. You were the performer of extraordinary deeds. I am confronted with great uncertainty. How did delusion overcome you?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O best among those who are endowed with intelligence! Your intelligence is supreme. You know everything that there is to know. Why are you then asking me this question? You are omniscient. You dwelt in heaven. You were the performer of extraordinary deeds. I am confronted with great uncertainty. How did delusion overcome you?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "12": {
+          "raw": "‘The serpent replied, “Even an extremely strong and brave man is deluded by prosperity. It is my view that all those who are immersed in happiness become confused in intelligence. O Yudhishthira! I became deluded because of my prosperity. I was intoxicated. Though enlightened, I descended into this state and am enlightening you now. O great king! O scorcher of enemies! You have performed a service towards me. Because of my conversation with a virtuous one{57}, I have been freed from the grievous curse. In earlier times, I used to roam around heaven in a celestial chariot. Intoxicated with my vanity, I thought of nothing else. Brahmarshis, gods, gandharvas, yakshas, rakshasas, serpents, kinnaras and all the residents of the three worlds had to pay me taxes. O lord of the earth! Such was the power of my glance, that whatever being my eyes happened to behold, the strength of my sight robbed him of his energy. Thousands of brahmarshis bore my palanquin. O king! This misconduct brought about my dislodging from prosperity. One day, when the sage Agastya was bearing me, my feet happened to touch him. In anger, destiny{58} then spoke these words, ‘May you be destroyed. Become a serpent.’ At that, I fell down from that supreme vimana. I lost all my ornaments. While I was falling down, with my face downwards, I saw that I had become a predatory serpent{59}. Then I asked that brahmana, ‘Please free me from this curse. O illustrious one! I have transgressed out of my folly. Please pardon me.’ As I was falling, he was overcome by compassion and told me, ‘O lord of men! Dharmaraja Yudhishthira will free you from this curse, once the fruits of your insolence and terrible strength have decayed. O great king! You will then attain supreme fruits.’ On witnessing the strength of his austerities, great wonder was born in me. That is the reason I asked you about the brahman and brahmanas. O king! Truthfulness, self-control, austerities, non-violence and constant benevolence are the means whereby men attain salvation, not through birth or lineage. Your immensely strong brother, Bhimasena, is safe and unhurt. O great king! May you be fortunate. I will return to heaven.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The serpent replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_serpent",
+              "text": "“Even an extremely strong and brave man is deluded by prosperity. It is my view that all those who are immersed in happiness become confused in intelligence. O Yudhishthira! I became deluded because of my prosperity. I was intoxicated. Though enlightened, I descended into this state and am enlightening you now. O great king! O scorcher of enemies! You have performed a service towards me. Because of my conversation with a virtuous one{57}, I have been freed from the grievous curse. In earlier times, I used to roam around heaven in a celestial chariot. Intoxicated with my vanity, I thought of nothing else. Brahmarshis, gods, gandharvas, yakshas, rakshasas, serpents, kinnaras and all the residents of the three worlds had to pay me taxes. O lord of the earth! Such was the power of my glance, that whatever being my eyes happened to behold, the strength of my sight robbed him of his energy. Thousands of brahmarshis bore my palanquin. O king! This misconduct brought about my dislodging from prosperity. One day, when the sage Agastya was bearing me, my feet happened to touch him. In anger, destiny{58} then spoke these words, ‘May you be destroyed. Become a serpent.’ At that, I fell down from that supreme vimana. I lost all my ornaments. While I was falling down, with my face downwards, I saw that I had become a predatory serpent{59}. Then I asked that brahmana, ‘Please free me from this curse. O illustrious one! I have transgressed out of my folly. Please pardon me.’ As I was falling, he was overcome by compassion and told me, ‘O lord of men! Dharmaraja Yudhishthira will free you from this curse, once the fruits of your insolence and terrible strength have decayed. O great king! You will then attain supreme fruits.’ On witnessing the strength of his austerities, great wonder was born in me. That is the reason I asked you about the brahman and brahmanas. O king! Truthfulness, self-control, austerities, non-violence and constant benevolence are the means whereby men attain salvation, not through birth or lineage. Your immensely strong brother, Bhimasena, is safe and unhurt. O great king! May you be fortunate. I will return to heaven.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "13": {
+          "raw": "Vaishampayana said, ‘Having said this, King Nahusha discarded the body of a boa. Assuming a celestial form, he returned to the world of the thirty gods. The fortunate, Yudhishthira, with dharma in his soul, returned to the hermitage with his brother Bhima, accompanied by Dhoumya. Dharmaraja Yudhishthira told the assembled brahmanas the details of everything that had happened. O king! On hearing this, the brahmanas, the other three brothers and the famous Droupadi were astounded. All the best of the brahmanas desired the welfare of the Pandavas. Censuring Bhima’s rashness, they told him not to act in this way. The Pandavas were extremely delighted at seeing the immensely strong Bhima freed from fear. They happily enjoyed themselves.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having said this, King Nahusha discarded the body of a boa. Assuming a celestial form, he returned to the world of the thirty gods. The fortunate, Yudhishthira, with dharma in his soul, returned to the hermitage with his brother Bhima, accompanied by Dhoumya. Dharmaraja Yudhishthira told the assembled brahmanas the details of everything that had happened. O king! On hearing this, the brahmanas, the other three brothers and the famous Droupadi were astounded. All the best of the brahmanas desired the welfare of the Pandavas. Censuring Bhima’s rashness, they told him not to act in this way. The Pandavas were extremely delighted at seeing the immensely strong Bhima freed from fear. They happily enjoyed themselves.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

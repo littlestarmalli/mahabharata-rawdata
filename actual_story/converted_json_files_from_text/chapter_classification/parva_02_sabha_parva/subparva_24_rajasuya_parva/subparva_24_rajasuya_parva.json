@@ -1,0 +1,34 @@
+{
+  "name": "Rajasuya Parva",
+  "subparva_number": 24,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 3,
+    "num_shlokas": 97
+  },
+  "note": "This section is about the rajasuya or royal sacrifice.",
+  "chapters": {
+    "255": {
+      "chapter_number": 255,
+      "global_number": 255,
+      "local_number": 30,
+      "num_shlokas": 54,
+      "file": "subparva_24_rajasuya_parva/chapter_255.json"
+    },
+    "256": {
+      "chapter_number": 256,
+      "global_number": 256,
+      "local_number": 31,
+      "num_shlokas": 25,
+      "file": "subparva_24_rajasuya_parva/chapter_256.json"
+    },
+    "257": {
+      "chapter_number": 257,
+      "global_number": 257,
+      "local_number": 32,
+      "num_shlokas": 18,
+      "file": "subparva_24_rajasuya_parva/chapter_257.json"
+    }
+  }
+}

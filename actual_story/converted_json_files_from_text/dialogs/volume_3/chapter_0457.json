@@ -1,0 +1,78 @@
+{
+  "chapter": 457,
+  "local": 160,
+  "shlokas": 37,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O destroyer of enemies! When the sun rose, having performed the rituals, Dhoumya came to the Pandavas with Arshtishena. Having bowed down at the feet of Arshtishena and Dhoumya, they worshipped all the brahmanas, hands joined in salutation.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O destroyer of enemies! When the sun rose, having performed the rituals, Dhoumya came to the Pandavas with Arshtishena. Having bowed down at the feet of Arshtishena and Dhoumya, they worshipped all the brahmanas, hands joined in salutation.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Then Dhoumya grasped Yudhishthira by the right hand. Looking towards the eastern direction, the maharshi said, “O great king! Mandara, the king of mountains, grandly covers the earth, right up to the frontiers of the ocean. O Pandava! This direction, adorned with mountains, forests and groves, is protected by Indra and Vaishravana. O son{131}! Learned rishis, knowledgeable in dharma have said that this is the abode of Mahendra and King Vaishravana. Beings worship the sun because it rises from there, as do rishis learned in dharma, siddhas, sadhyas and gods. King Yama, with dharma in his soul and the lord of all living beings, presides over the southern direction, the path followed by those who have died. This is sacred Samyamana, extraordinary to behold. Full of great prosperity, this is the abode of the king of the dead. O king! The learned ones call this king of the mountains Asta{132}. On attaining it, the sun is established in truth. Dwelling on this king of mountains and in the great ocean, King Varuna protects all beings. O immensely fortunate one! The great and famous Mount Meru is established in radiance in the northern direction and is the auspicious refuge of those who know the brahman. Brahma's sacriﬁcial site{133} is there and Prajapati{134}, the soul of all beings and the creator of everything that is mobile and immobile, resides there. The great and auspicious Meru, free from disease, is also the abode of Brahma's mental sons, the seventh being Daksha{135}. O son{136}! Every day, the seven devarshis, Vasishtha being the foremost, rise and set there{137}. Behold that auspicious region and the auspicious peak of Meru, where the grandfather{138} dwells with the gods, content in their souls. Beyond Brahma's abode, the supreme region of the supreme lord Narayana is resplendent. He is without beginning and without end. He is said to be the ﬁrst cause of all beings. He is the true origin of all nature. Even the gods cannot see that divine and auspicious region, full of energy, without great endeavour. O king! Because of its own radiance, brighter than the sun and the ﬁre, the region of the great-souled Vishnu is difﬁcult for the gods and the danavas to see. When they reach there, all the stars no longer shine. The lord whose soul is never subdued, outshines them through his own brilliance. Through their devotion, combined with supreme austerities and perfected with pious deeds, accomplished in yoga and devoid of darkness and delusion, greatsouled ascetics go there. O descendant of the Bharata lineage! Having gone there, they never return to this world{139}. O immensely fortunate Yudhishthira! This region is eternal. It has no deterioration and no decay. This is the lord's region. Bow down before it. The illustrious Aditya{140}, the dispeller of all darkness, attracts all the stars and circumambulates it{141}. On having reached Asta and passing through evening, the sun traverses a northern course. O Pandava! Always devoted to the welfare of all beings, the sun circles Meru and reappears in the east. In a similar way, the illustrious moon divides the months into many parvasandhis and travels with the stars. Thus continuously circling the great Meru, the nourisher of all beings{142} returns to Mandara. In a similar way, the sun, the one who dispels darkness with his rays, follows the same unobstructed route and nourishes the world. When he desires to create the winter season, he takes a southern course{143} and winter descends on all beings. Then, returning, he uses his own energy to sap up the energy of all beings, mobile and immobile. Because of perspiration, tiredness, lassitude and exhaustion, all men are affected, and so are other beings. They are always inclined towards sleep. Thus, the sun traverses a path that cannot be determined. The illustrious one creates rains, reviving all beings. O Partha! Having prospered all beings, mobile and immobile, with pleasant rains, winds and warmth, the immensely energetic one resumes his course. O Partha! Thus the sun continuously traverses his course, following the wheel of time and attracting all beings. O Pandava! His course is eternal. He never stands still. Taking energy from beings, he returns it again. O descendant of the Bharata lineage! He measures out the deeds of all beings. The eternal lord creates night and day, kala and kashtha{144}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then Dhoumya grasped Yudhishthira by the right hand. Looking towards the eastern direction, the maharshi said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_maharshi",
+          "introduces_label": "the maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! Mandara, the king of mountains, grandly covers the earth, right up to the frontiers of the ocean. O Pandava! This direction, adorned with mountains, forests and groves, is protected by Indra and Vaishravana. O son{131}! Learned rishis, knowledgeable in dharma have said that this is the abode of Mahendra and King Vaishravana. Beings worship the sun because it rises from there, as do rishis learned in dharma, siddhas, sadhyas and gods. King Yama, with dharma in his soul and the lord of all living beings, presides over the southern direction, the path followed by those who have died. This is sacred Samyamana, extraordinary to behold. Full of great prosperity, this is the abode of the king of the dead. O king! The learned ones call this king of the mountains Asta{132}. On attaining it, the sun is established in truth. Dwelling on this king of mountains and in the great ocean, King Varuna protects all beings. O immensely fortunate one! The great and famous Mount Meru is established in radiance in the northern direction and is the auspicious refuge of those who know the brahman. Brahma's sacriﬁcial site{133} is there and Prajapati{134}, the soul of all beings and the creator of everything that is mobile and immobile, resides there. The great and auspicious Meru, free from disease, is also the abode of Brahma's mental sons, the seventh being Daksha{135}. O son{136}! Every day, the seven devarshis, Vasishtha being the foremost, rise and set there{137}. Behold that auspicious region and the auspicious peak of Meru, where the grandfather{138} dwells with the gods, content in their souls. Beyond Brahma's abode, the supreme region of the supreme lord Narayana is resplendent. He is without beginning and without end. He is said to be the ﬁrst cause of all beings. He is the true origin of all nature. Even the gods cannot see that divine and auspicious region, full of energy, without great endeavour. O king! Because of its own radiance, brighter than the sun and the ﬁre, the region of the great-souled Vishnu is difﬁcult for the gods and the danavas to see. When they reach there, all the stars no longer shine. The lord whose soul is never subdued, outshines them through his own brilliance. Through their devotion, combined with supreme austerities and perfected with pious deeds, accomplished in yoga and devoid of darkness and delusion, greatsouled ascetics go there. O descendant of the Bharata lineage! Having gone there, they never return to this world{139}. O immensely fortunate Yudhishthira! This region is eternal. It has no deterioration and no decay. This is the lord's region. Bow down before it. The illustrious Aditya{140}, the dispeller of all darkness, attracts all the stars and circumambulates it{141}. On having reached Asta and passing through evening, the sun traverses a northern course. O Pandava! Always devoted to the welfare of all beings, the sun circles Meru and reappears in the east. In a similar way, the illustrious moon divides the months into many parvasandhis and travels with the stars. Thus continuously circling the great Meru, the nourisher of all beings{142} returns to Mandara. In a similar way, the sun, the one who dispels darkness with his rays, follows the same unobstructed route and nourishes the world. When he desires to create the winter season, he takes a southern course{143} and winter descends on all beings. Then, returning, he uses his own energy to sap up the energy of all beings, mobile and immobile. Because of perspiration, tiredness, lassitude and exhaustion, all men are affected, and so are other beings. They are always inclined towards sleep. Thus, the sun traverses a path that cannot be determined. The illustrious one creates rains, reviving all beings. O Partha! Having prospered all beings, mobile and immobile, with pleasant rains, winds and warmth, the immensely energetic one resumes his course. O Partha! Thus the sun continuously traverses his course, following the wheel of time and attracting all beings. O Pandava! His course is eternal. He never stands still. Taking energy from beings, he returns it again. O descendant of the Bharata lineage! He measures out the deeds of all beings. The eternal lord creates night and day, kala and kashtha{144}.”",
+          "speaker": "the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

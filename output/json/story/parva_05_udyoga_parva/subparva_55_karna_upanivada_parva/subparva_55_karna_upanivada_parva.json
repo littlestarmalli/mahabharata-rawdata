@@ -1,0 +1,90 @@
+{
+  "name": "Karna-Upanivada Parva",
+  "subparva_number": 55,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 351
+  },
+  "note": "Nivada is an invitation and upa has the connotation of secret. This section is in the nature of a secret invitation to Karna. Both Krishna and Kunti try to wean Karna away, but fail.",
+  "chapters": {
+    "801": {
+      "chapter_number": 801,
+      "global_number": 801,
+      "local_number": 138,
+      "num_shlokas": 28,
+      "file": "subparva_55_karna_upanivada_parva/chapter_801.json"
+    },
+    "802": {
+      "chapter_number": 802,
+      "global_number": 802,
+      "local_number": 139,
+      "num_shlokas": 57,
+      "file": "subparva_55_karna_upanivada_parva/chapter_802.json"
+    },
+    "803": {
+      "chapter_number": 803,
+      "global_number": 803,
+      "local_number": 140,
+      "num_shlokas": 20,
+      "file": "subparva_55_karna_upanivada_parva/chapter_803.json"
+    },
+    "804": {
+      "chapter_number": 804,
+      "global_number": 804,
+      "local_number": 141,
+      "num_shlokas": 49,
+      "file": "subparva_55_karna_upanivada_parva/chapter_804.json"
+    },
+    "805": {
+      "chapter_number": 805,
+      "global_number": 805,
+      "local_number": 142,
+      "num_shlokas": 30,
+      "file": "subparva_55_karna_upanivada_parva/chapter_805.json"
+    },
+    "806": {
+      "chapter_number": 806,
+      "global_number": 806,
+      "local_number": 143,
+      "num_shlokas": 12,
+      "file": "subparva_55_karna_upanivada_parva/chapter_806.json"
+    },
+    "807": {
+      "chapter_number": 807,
+      "global_number": 807,
+      "local_number": 144,
+      "num_shlokas": 26,
+      "file": "subparva_55_karna_upanivada_parva/chapter_807.json"
+    },
+    "808": {
+      "chapter_number": 808,
+      "global_number": 808,
+      "local_number": 145,
+      "num_shlokas": 40,
+      "file": "subparva_55_karna_upanivada_parva/chapter_808.json"
+    },
+    "809": {
+      "chapter_number": 809,
+      "global_number": 809,
+      "local_number": 146,
+      "num_shlokas": 35,
+      "file": "subparva_55_karna_upanivada_parva/chapter_809.json"
+    },
+    "810": {
+      "chapter_number": 810,
+      "global_number": 810,
+      "local_number": 147,
+      "num_shlokas": 35,
+      "file": "subparva_55_karna_upanivada_parva/chapter_810.json"
+    },
+    "811": {
+      "chapter_number": 811,
+      "global_number": 811,
+      "local_number": 148,
+      "num_shlokas": 19,
+      "file": "subparva_55_karna_upanivada_parva/chapter_811.json"
+    }
+  }
+}

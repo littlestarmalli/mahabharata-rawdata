@@ -1,0 +1,154 @@
+{
+  "chapter_number": 541,
+  "global_number": 541,
+  "local_number": 244,
+  "num_shlokas": null,
+  "paragraphs": {
+    "1": {
+      "raw": "Janamejaya asked, ‘After having freed Duryodhana, what did the immensely strong Pandavas do in that forest? You should tell me this.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "Janamejaya asked,",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "‘After having freed Duryodhana, what did the immensely strong Pandavas do in that forest? You should tell me this.’",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "Vaishampayana said, ‘One night, when Kounteya Yudhishthira was asleep in Dvaitavana, the deer showed themselves to him in a dream. Their voices were choked with tears. They trembled and stood before him, their feet joined in salutation. The Indra among kings told them, “Who are you and what do you wish for? Tell me what you desire.” Having been thus addressed by the famous Kounteya Pandava, the remaining deer{1} spoke to Yudhishthira. “O descendant of the Bharata lineage! We are the remnants of the deer in Dvaitavana. O great king! Find a residence somewhere else. Otherwise, all of us will be killed. All your brothers are brave and are skilled in the use of weapons. They have reduced the lineage of those that live in the forest, until only a few remain. O immensely intelligent one! A few of us have been left, as seed for the future. O Indra among kings! O Yudhishthira! Let us extend through your favours.” On seeing the trembling and frightened deer, with only a few remaining as seed, Dharmaraja Yudhishthira was extremely unhappy. The king was always engaged in the welfare of all beings. He told them, “It shall be as you say. I will do what you have asked me to.” He took an oath in this fashion. When night was over, the supreme among kings was ﬁlled with compassion towards the deer and spoke to his brothers. “The deer that still remain spoke to me in a dream last night. They said, ‘O fortunate one! Only a few of us remain as seed. You should show compassion towards us.’ They spoke the truth. We should show compassion towards those who live in the forest. We have lived on them for one year and eight months. Therefore, let us go towards the supreme and beautiful forest of Kamyaka, which is full of large numbers of deer. It is located at the head of the desert, near the famous lake of Trinabindu. Let us pleasantly pass the rest of our time there.” O king! The Pandavas, learned in dharma, swiftly left, together with the brahmanas who lived with them, and followed by Indrasena{2} and the other servants. They followed an excellent road that was full of superb grain and pure water. They soon saw the sacred hermitage of Kamyaka, populated by ascetics. O best of the Bharata lineage! Surrounded by the bulls among the brahmanas, the Kouravyas entered it, like virtuous ones entering heaven.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘One night, when Kounteya Yudhishthira was asleep in Dvaitavana, the deer showed themselves to him in a dream. Their voices were choked with tears. They trembled and stood before him,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "their feet joined in salutation. The Indra among kings told them",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@feet_joined_in",
+          "text": "“Who are you and what do you wish for? Tell me what you desire.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having been thus addressed by the famous Kounteya Pandava,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the remaining deer{1} spoke to Yudhishthira",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_remaining_deer",
+          "text": "“O descendant of the Bharata lineage! We are the remnants of the deer in Dvaitavana. O great king! Find a residence somewhere else. Otherwise, all of us will be killed. All your brothers are brave and are skilled in the use of weapons. They have reduced the lineage of those that live in the forest, until only a few remain. O immensely intelligent one! A few of us have been left, as seed for the future. O Indra among kings! O Yudhishthira! Let us extend through your favours.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On seeing the trembling and frightened deer, with only a few remaining as seed,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dharmaraja Yudhishthira was extremely unhappy. The king was always engaged in the welfare of all beings. He told them",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dharmaraja_yudhishthira_was_extremely",
+          "text": "“It shall be as you say. I will do what you have asked me to.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "He took an oath in this fashion. When night was over,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the supreme among kings was ﬁlled with compassion towards the deer and spoke to his brothers",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_supreme_among_kings_was",
+          "text": "“The deer that still remain spoke to me in a dream last night. They said, ‘O fortunate one! Only a few of us remain as seed. You should show compassion towards us.’ They spoke the truth. We should show compassion towards those who live in the forest. We have lived on them for one year and eight months. Therefore, let us go towards the supreme and beautiful forest of Kamyaka, which is full of large numbers of deer. It is located at the head of the desert, near the famous lake of Trinabindu. Let us pleasantly pass the rest of our time there.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O king! The Pandavas, learned in dharma, swiftly left, together with the brahmanas who lived with them, and followed by Indrasena{2} and the other servants. They followed an excellent road that was full of superb grain and pure water. They soon saw the sacred hermitage of Kamyaka, populated by ascetics. O best of the Bharata lineage! Surrounded by the bulls among the brahmanas, the Kouravyas entered it, like virtuous ones entering heaven.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

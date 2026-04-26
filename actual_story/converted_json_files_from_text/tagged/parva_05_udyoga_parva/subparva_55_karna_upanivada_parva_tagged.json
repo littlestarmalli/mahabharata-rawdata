@@ -1,0 +1,1235 @@
+{
+  "name": "Karna-Upanivada Parva",
+  "subparva_number": 55,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 351
+  },
+  "note": "Nivada is an invitation and upa has the connotation of secret. This section is in the nature of a secret invitation to Karna. Both Krishna and Kunti try to wean Karna away, but fail.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "801": {
+      "global_number": 801,
+      "local_number": 138,
+      "num_shlokas": 28,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra said, “O Sanjaya! Before Madhusudana left, surrounded by the princes and the advisers, he instructed Karna to ascend the chariot. What did the destroyer of enemy warriors tell Radheya on the chariot? What comforting words did Govinda tell the son of a suta? Krishna speaks in a voice that roars like a ﬂood or a cloud. O Sanjaya! Whether it was mildly, or whether it was sharply, what did he tell Karna?”",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Dhritarashtra said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O Sanjaya! Before Madhusudana left, surrounded by the princes and the advisers, he instructed Karna to ascend the chariot. What did the destroyer of enemy warriors tell Radheya on the chariot? What comforting words did Govinda tell the son of a suta? Krishna speaks in a voice that roars like a ﬂood or a cloud. O Sanjaya! Whether it was mildly, or whether it was sharply, what did he tell Karna?”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Sanjaya replied, “O descendant of the Bharata lineage! Listen to what Madhusudana, whose soul cannot be measured, told Radheya. I will recount the words in their entirety, both sharp and mild. They were pleasant and in conformity with dharma. They were truthful and beneﬁcial. They were acceptable to the heart.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Sanjaya replied",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "“O descendant of the Bharata lineage! Listen to what Madhusudana, whose soul cannot be measured, told Radheya. I will recount the words in their entirety, both sharp and mild. They were pleasant and in conformity with dharma. They were truthful and beneﬁcial. They were acceptable to the heart.",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“Vasudeva said, ‘O Radheya! You have served brahmanas who are learned in the Vedas. Free of jealousy and attentively, you have asked them about the truth. O Karna! You know the eternal teachings of the Vedas. You know about the sacred texts of dharma and their subtleties. People who know about the sacred texts say that a son who is born to a maiden before her marriage is as much of a son as one who is born from a father after marriage. O Karna! You have been born in this fashion{1}. According to dharma, you are Pandu’s son. According to the instructions of the sacred texts of dharma, come with me and you will become a king. The Parthas are on your father’s side and the Vrishnis are on your mother’s side. O bull among men! Know that both these sides are your own lineage. O son{2}! Come with me now and the Pandavas will recognize you as a Kounteya who has been born before Yudhishthira. The ﬁve Pandavas will grasp your feet as brothers, together with the ﬁve sons of Droupadi and Subhadra’s unvanquished son{3}. The kings and princes who have gathered together in the cause of the Pandavas and all the Andhakas and Vrishnis will grasp your feet. The kings, the wives of kings and the daughters of kings will bring gold, silver and earthen vessels, herbs, all kinds of seeds, all kinds of gems and creepers for your anointment{4}. At the sixth point in time{5}, Droupadi will have intercourse with you. Let the brahmanas who are acquainted with the four Vedas consecrate you today, assisted by the priest of the Pandavas{6}, the ﬁve Pandava brothers who are bulls among men, Droupadi’s ﬁve sons, the Panchalas and the Chedis. You will be seated on the skin of a tiger. I will myself instate you as king and the lord of the earth. Kunti’s son, King Yudhishthira, will be the heir apparent. Kunti’s son, Yudhishthira, rigid in his vows and with dharma in his soul, will ascend the chariot behind you and hold a white umbrella{7}. O Kounteya! The immensely strong Bhimasena will hold a giant white umbrella above your head when you are consecrated. Your chariot will have hundreds of bells that make a noise and will be strewn with the skins of tigers. It will be yoked to white horses and Arjuna will drive it. Abhimanyu, Nakula, Sahadeva and Droupadi’s ﬁve sons will always be stationed near, for your instructions. The Panchalas and maharatha Shikhandi will follow you. I will myself follow you and so will all the Andhakas, Vrishnis and Dasharhas. O lord of the earth! The Dasharhas will be part of your family. O mighty-armed one! Enjoy the kingdom, together with your Pandava brothers. Practise meditation. Offer oblations. Observe other auspicious signs. Let the Dravidas, together with the Kuntalas, follow you, with the Andhras, Talachakras, Chuchupas and Venupas. Let bards and minstrels sing your praises in many ways. Let the Pandavas proclaim Vasushena’s{8} triumph. O Kounteya! Surrounded by the Parthas, like the moon is by the nakshatras, rule over the kingdom and delight Kunti. Let your friends rejoice and let your enemies suffer. Today, let there be fraternity between you and your Pandava brothers.’”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "‘",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“Vasudeva said, ‘O Radheya! You have served brahmanas who are learned in the Vedas. Free of jealousy and attentively, you have asked them about the truth. O Karna! You know the eternal teachings of the Vedas. You know about the sacred texts of dharma and their subtleties. People who know about the sacred texts say that a son who is born to a maiden before her marriage is as much of a son as one who is born from a father after marriage. O Karna! You have been born in this fashion{1}. According to dharma, you are Pandu’s son. According to the instructions of the sacred texts of dharma, come with me and you will become a king. The Parthas are on your father’s side and the Vrishnis are on your mother’s side. O bull among men! Know that both these sides are your own lineage. O son{2}! Come with me now and the Pandavas will recognize you as a Kounteya who has been born before Yudhishthira. The ﬁve Pandavas will grasp your feet as brothers, together with the ﬁve sons of Droupadi and Subhadra’s unvanquished son{3}. The kings and princes who have gathered together in the cause of the Pandavas and all the Andhakas and Vrishnis will grasp your feet. The kings, the wives of kings and the daughters of kings will bring gold, silver and earthen vessels, herbs, all kinds of seeds, all kinds of gems and creepers for your anointment{4}. At the sixth point in time{5}, Droupadi will have intercourse with you. Let the brahmanas who are acquainted with the four Vedas consecrate you today, assisted by the priest of the Pandavas{6}, the ﬁve Pandava brothers who are bulls among men, Droupadi’s ﬁve sons, the Panchalas and the Chedis. You will be seated on the skin of a tiger. I will myself instate you as king and the lord of the earth. Kunti’s son, King Yudhishthira, will be the heir apparent. Kunti’s son, Yudhishthira, rigid in his vows and with dharma in his soul, will ascend the chariot behind you and hold a white umbrella{7}. O Kounteya! The immensely strong Bhimasena will hold a giant white umbrella above your head when you are consecrated. Your chariot will have hundreds of bells that make a noise and will be strewn with the skins of tigers. It will be yoked to white horses and Arjuna will drive it. Abhimanyu, Nakula, Sahadeva and Droupadi’s ﬁve sons will always be stationed near, for your instructions. The Panchalas and maharatha Shikhandi will follow you. I will myself follow you and so will all the Andhakas, Vrishnis and Dasharhas. O lord of the earth! The Dasharhas will be part of your family. O mighty-armed one! Enjoy the kingdom, together with your Pandava brothers. Practise meditation. Offer oblations. Observe other auspicious signs. Let the Dravidas, together with the Kuntalas, follow you, with the Andhras, Talachakras, Chuchupas and Venupas. Let bards and minstrels sing your praises in many ways. Let the Pandavas proclaim Vasushena’s{8} triumph. O Kounteya! Surrounded by the Parthas, like the moon is by the nakshatras, rule over the kingdom and delight Kunti. Let your friends rejoice and let your enemies suffer. Today, let there be fraternity between you and your Pandava brothers.’”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "’",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "802": {
+      "global_number": 802,
+      "local_number": 139,
+      "num_shlokas": 57,
+      "paragraphs": {
+        "1": {
+          "raw": "‘“Karna said, ‘O Keshava! I have no doubt that you are affectionately speaking to me as a well-wisher. O Varshneya! As a friend, you wish for my welfare. I also know everything about my being Pandu’s son under the norms of dharma. O Krishna! These are the instructions of the sacred texts of dharma, as you have interpreted them. O Janardana! As a maiden, she conceived me in her womb through the sun. Once I was born, she abandoned me on the instructions of the sun. O Krishna! I was born in this way, Pandu’s son under the norms of dharma. However, Kunti did not think of my welfare and cast me out as one undesired. As soon as he saw me, the suta Adhiratha took me home. O Madhusudana! Out of affection towards me, he gave me to Radha{9}. Out of affection towards me, milk ﬂowed from Radha’s breasts. O Madhava! She accepted my urine and my excrement. How can someone like me ignore the ancestral oblations that are due to her? I am learned in dharma. I have always devoted myself to listening to the sacred texts of dharma. Suta Adhiratha thinks of me as a son. Out of affection towards him, I have always thought of him as a father. O Madhava! O Janardana! Out of affection towards his son, he had my birth rites performed, in accordance with the prescriptions of the sacred texts. He got the brahmanas to name me Vasushena. O Keshava! When I attained youth, he had me married to wives. O Janardana! I have given birth to sons and grandsons through them. O Krishna! My heart is tied with bonds of affection to them. O Govinda! The entire earth, masses of gold, delight and fear cannot incite me to be false towards these. O Krishna! In Dhritarashtra’s lineage, I have obtained refuge with Duryodhana. I have enjoyed a kingdom for thirteen years, without any thorns. I have offered oblations and performed many sacriﬁces, but in the company of sutas. I have issued invitations and undertaken matrimonial alliances, but in the company of sutas. O Krishna! O Varshneya! On obtaining me on his side, Duryodhana has raised his weapons and is ready for war with the Pandavas. O Achyuta! Therefore, I have been conﬁdently chosen as the supreme warrior to counter Savyasachi in a duel with chariots. O Janardana! I cannot be false to Dhritarashtra’s intelligent son because of death, bondage, fear or greed. O Hrishikesha! If I do not ﬁght with Savyasachi now in a duel with chariots, that will bring ill fame to both me and Partha.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "“Karna said, ‘O Keshava! I have no doubt that you are affectionately speaking to me as a well-wisher. O Varshneya! As a friend, you wish for my welfare. I also know everything about my being Pandu’s son under the norms of dharma. O Krishna! These are the instructions of the sacred texts of dharma, as you have interpreted them. O Janardana! As a maiden, she conceived me in her womb through the sun. Once I was born, she abandoned me on the instructions of the sun. O Krishna! I was born in this way, Pandu’s son under the norms of dharma. However, Kunti did not think of my welfare and cast me out as one undesired. As soon as he saw me, the suta Adhiratha took me home. O Madhusudana! Out of affection towards me, he gave me to Radha{9}. Out of affection towards me, milk ﬂowed from Radha’s breasts. O Madhava! She accepted my urine and my excrement. How can someone like me ignore the ancestral oblations that are due to her? I am learned in dharma. I have always devoted myself to listening to the sacred texts of dharma. Suta Adhiratha thinks of me as a son. Out of affection towards him, I have always thought of him as a father. O Madhava! O Janardana! Out of affection towards his son, he had my birth rites performed, in accordance with the prescriptions of the sacred texts. He got the brahmanas to name me Vasushena. O Keshava! When I attained youth, he had me married to wives. O Janardana! I have given birth to sons and grandsons through them. O Krishna! My heart is tied with bonds of affection to them. O Govinda! The entire earth, masses of gold, delight and fear cannot incite me to be false towards these. O Krishna! In Dhritarashtra’s lineage, I have obtained refuge with Duryodhana. I have enjoyed a kingdom for thirteen years, without any thorns. I have offered oblations and performed many sacriﬁces, but in the company of sutas. I have issued invitations and undertaken matrimonial alliances, but in the company of sutas. O Krishna! O Varshneya! On obtaining me on his side, Duryodhana has raised his weapons and is ready for war with the Pandavas. O Achyuta! Therefore, I have been conﬁdently chosen as the supreme warrior to counter Savyasachi in a duel with chariots. O Janardana! I cannot be false to Dhritarashtra’s intelligent son because of death, bondage, fear or greed. O Hrishikesha! If I do not ﬁght with Savyasachi now in a duel with chariots, that will bring ill fame to both me and Partha.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“‘O Madhusudana! There is no doubt that you have spoken with my welfare in mind. There is no doubt that all the Pandavas will act in accordance with your instructions. O Purushottama! You should not reveal this conversation between us. O descendant of the Yadava lineage! I think that this will be in everyone’s interests. If the king who has dharma in his soul and is rigid in his vows{10} knows that I am Kunti’s ﬁrst son, he will not accept the kingdom. O Madhusudana! O destroyer of enemies! Even if I obtain this large and prosperous kingdom, I will hand it over to Duryodhana. Yudhishthira has dharma in his soul. He has Hrishikesha as a leader and Dhananjaya as a warrior. May he be the king forever. O Madhava! Maharatha Bhima, Nakula, Sahadeva, Droupadi’s sons, Uttamouja, Yudhamanyu, Satyadharma, Somaki, Chaidya, Chekitana, the unvanquished Shikhandi, the Kekaya brothers who have the complexions of ﬁreﬂies, maharatha Kuntibhoja who has the complexion of a rainbow{11}, Bhimasena’s maternal uncle, maharatha Senajit and Virata’s son Shankha are on his side. The earth and the kingdom will be his. O Janardana! You are his treasury. O Krishna! This large assemblage of kshatriyas has been brought together. This resplendent kingdom, famous among all the kings, has already been won{12}. O Varshneya! Dhirtarashtra’s son will undertake a sacriﬁce with weapons. O Janardana! You will be the one who will witness this sacriﬁce. O Krishna! When the sacriﬁce is performed, you will be the adhvaryu{13}. Bibhatsu, with the ape on his banner, will gird himself as the hotar. Gandiva will be the ladle. The valour of men will be the clariﬁed butter. Unleashed by Savyasachi, aindra, pashupata, brahma and sthunakarna{14} will be mantras. Matching his father in valour and even surpassing him, Subhadra’s son will be the gravastotra{15}. Yet again, the immensely strong Bhima, the tiger among men whose roars in the ﬁeld of battle destroy an army of elephants, will be the udgatar and prastota{16}. The eternal King Yudhishthira has dharma in his soul. He knows about incantations and oblations and about the brahman. O Madhusudana! The sound of the conchshells, drums and kettledrums, resounding like roaring lions, will be the subrahmanya{17}. Nakula and Sahadeva, Madri’s two illustrious and extremely valiant sons, will be the shamitars{18}. O Govinda! The chariots will have spotted ﬂagpoles and will be stocked with spotless spears. O Janardana! These will be the sacriﬁcial poles at the sacriﬁce. Shafted arrows, hollow arrows, iron arrows, arrows with heads like the teeth of calves and javelins will be the pots of soma. The bows will be the strainers{19}. The swords will be broken fragments from the jars. The heads will be the sacriﬁcial cakes. O Krishna! Blood will be the oblations offered at this sacriﬁce. Maces, lances and unblemished clubs will be the kindling. The pupils of Drona and Sharadvata Kripa will be the superintending priests{20}. The arrows unleashed by the wielder of the Gandiva, by maharathas and by Drona and Drona’s son, will be the ladles. Satyaki will be the pratiprasthanika{21}. Dhritarashtra will be the performer of the sacriﬁce and the great army will be the wife{22}. O mighty-armed one! When this atiratra{23} sacriﬁce is observed, the immensely strong Ghatotkacha will be the shamitar. O Krishna! Because he was born from a ﬁre, the powerful Dhrishtadyumna will be the dakshina at the sacriﬁce when oblations{24} are offered.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "“‘O Madhusudana! There is no doubt that you have spoken with my welfare in mind. There is no doubt that all the Pandavas will act in accordance with your instructions. O Purushottama! You should not reveal this conversation between us. O descendant of the Yadava lineage! I think that this will be in everyone’s interests. If the king who has dharma in his soul and is rigid in his vows{10} knows that I am Kunti’s ﬁrst son, he will not accept the kingdom. O Madhusudana! O destroyer of enemies! Even if I obtain this large and prosperous kingdom, I will hand it over to Duryodhana. Yudhishthira has dharma in his soul. He has Hrishikesha as a leader and Dhananjaya as a warrior. May he be the king forever. O Madhava! Maharatha Bhima, Nakula, Sahadeva, Droupadi’s sons, Uttamouja, Yudhamanyu, Satyadharma, Somaki, Chaidya, Chekitana, the unvanquished Shikhandi, the Kekaya brothers who have the complexions of ﬁreﬂies, maharatha Kuntibhoja who has the complexion of a rainbow{11}, Bhimasena’s maternal uncle, maharatha Senajit and Virata’s son Shankha are on his side. The earth and the kingdom will be his. O Janardana! You are his treasury. O Krishna! This large assemblage of kshatriyas has been brought together. This resplendent kingdom, famous among all the kings, has already been won{12}. O Varshneya! Dhirtarashtra’s son will undertake a sacriﬁce with weapons. O Janardana! You will be the one who will witness this sacriﬁce. O Krishna! When the sacriﬁce is performed, you will be the adhvaryu{13}. Bibhatsu, with the ape on his banner, will gird himself as the hotar. Gandiva will be the ladle. The valour of men will be the clariﬁed butter. Unleashed by Savyasachi, aindra, pashupata, brahma and sthunakarna{14} will be mantras. Matching his father in valour and even surpassing him, Subhadra’s son will be the gravastotra{15}. Yet again, the immensely strong Bhima, the tiger among men whose roars in the ﬁeld of battle destroy an army of elephants, will be the udgatar and prastota{16}. The eternal King Yudhishthira has dharma in his soul. He knows about incantations and oblations and about the brahman. O Madhusudana! The sound of the conchshells, drums and kettledrums, resounding like roaring lions, will be the subrahmanya{17}. Nakula and Sahadeva, Madri’s two illustrious and extremely valiant sons, will be the shamitars{18}. O Govinda! The chariots will have spotted ﬂagpoles and will be stocked with spotless spears. O Janardana! These will be the sacriﬁcial poles at the sacriﬁce. Shafted arrows, hollow arrows, iron arrows, arrows with heads like the teeth of calves and javelins will be the pots of soma. The bows will be the strainers{19}. The swords will be broken fragments from the jars. The heads will be the sacriﬁcial cakes. O Krishna! Blood will be the oblations offered at this sacriﬁce. Maces, lances and unblemished clubs will be the kindling. The pupils of Drona and Sharadvata Kripa will be the superintending priests{20}. The arrows unleashed by the wielder of the Gandiva, by maharathas and by Drona and Drona’s son, will be the ladles. Satyaki will be the pratiprasthanika{21}. Dhritarashtra will be the performer of the sacriﬁce and the great army will be the wife{22}. O mighty-armed one! When this atiratra{23} sacriﬁce is observed, the immensely strong Ghatotkacha will be the shamitar. O Krishna! Because he was born from a ﬁre, the powerful Dhrishtadyumna will be the dakshina at the sacriﬁce when oblations{24} are offered.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“‘O Krishna! I regret the harsh words I used against the Pandavas to please Dhritarashtra’s son. I am now tormented by that deed. O Krishna! When you see me killed by Savyasachi, that will be the punashchiti{25} of their sacriﬁce. When Pandava{26} roars loudly and drinks Duhshasana’s blood, that will be the drinking of soma. O Janardana! When the two from Panchala{27} bring down Drona and Bhishma, that will be the conclusion of the sacriﬁce. O Madhava! When the immensely strong Bhimasena kills Duryodhana, that will signify the end of Dhritarashtra’s sacriﬁce. O Keshava! Dhritarashtra’s daughters-in-law and granddaughters-in-law will gather together, their lords killed, their sons killed, their protectors killed. O Janardana! Together with Gandhari, they will weep at the sacriﬁcial site, frequented by dogs, vultures and ospreys. That will be like the bath after the sacriﬁce. O Madhusudana! O bull among kshatriyas! These kshatriyas are aged in learning and aged in years. Because of your doings, let them not have a fruitless death{28}. O Keshava! Let this entire circle of kshatriyas meet their death through weapons in Kurukshetra, the most sacred spot in the three worlds. O Pundarikaksha! O Varshneya! Therefore, channel your desires so that all the kshatriyas can ascend to heaven. O Janardana! As long as the mountains are there and as long as the rivers ﬂow, the eternal fame of this deed shall resound till then. The brahmanas will speak about the great battle of Bharata{29}. O Varshneya! In gatherings, they will proclaim the glory of the kshatriyas. O Keshava! Bring Kounteya here, to ﬁght with me. O scorcher of enemies! Always keep this conversation between us secret.’”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@author",
+              "text": "“‘O Krishna! I regret the harsh words I used against the Pandavas to please Dhritarashtra’s son. I am now tormented by that deed. O Krishna! When you see me killed by Savyasachi, that will be the punashchiti{25} of their sacriﬁce. When Pandava{26} roars loudly and drinks Duhshasana’s blood, that will be the drinking of soma. O Janardana! When the two from Panchala{27} bring down Drona and Bhishma, that will be the conclusion of the sacriﬁce. O Madhava! When the immensely strong Bhimasena kills Duryodhana, that will signify the end of Dhritarashtra’s sacriﬁce. O Keshava! Dhritarashtra’s daughters-in-law and granddaughters-in-law will gather together, their lords killed, their sons killed, their protectors killed. O Janardana! Together with Gandhari, they will weep at the sacriﬁcial site, frequented by dogs, vultures and ospreys. That will be like the bath after the sacriﬁce. O Madhusudana! O bull among kshatriyas! These kshatriyas are aged in learning and aged in years. Because of your doings, let them not have a fruitless death{28}. O Keshava! Let this entire circle of kshatriyas meet their death through weapons in Kurukshetra, the most sacred spot in the three worlds. O Pundarikaksha! O Varshneya! Therefore, channel your desires so that all the kshatriyas can ascend to heaven. O Janardana! As long as the mountains are there and as long as the rivers ﬂow, the eternal fame of this deed shall resound till then. The brahmanas will speak about the great battle of Bharata{29}. O Varshneya! In gatherings, they will proclaim the glory of the kshatriyas. O Keshava! Bring Kounteya here, to ﬁght with me. O scorcher of enemies! Always keep this conversation between us secret.’”",
+              "color": "#C8B8A2",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "803": {
+      "global_number": 803,
+      "local_number": 140,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Sanjaya said, “Having heard Karna’s words, Keshava, the destroyer of enemy warriors, smiled. He then laughed and spoke these words. ‘O Karna! Are you not tempted by the offer of a kingdom? Do you not desire to rule the earth that I will give to you? The victory of the Pandavas is certain. There is no scope for any doubt on that score. The triumphal banner of the Pandavas can be seen, with the terrible king of the apes perched at the top. It was constructed by Bhouvana with divine maya. It has been raised, as radiant as Indra’s banner. Many terrible and divine beings can be seen on it, evoking fear. It is not obstructed by mountains and forests. It has been raised up diagonally and is one yojana tall. O Karna! Dhananjaya’s radiant ﬂag has been raised and is equal to the ﬁre in its form. When you see the one with the white horses in battle, with Krishna as the charioteer, using the weapons of Indra, Agni and the Maruts and hear the roar of Gandiva, as forceful as thunder, there will no longer be treta, krita or dvapara. When you see Kunti’s son, Yudhishthira, in battle, protecting his great army with incantations and oblations, as unassailable as Aditya and tormenting the soldiers of the enemy, there will no longer be treta, krita or dvapara. When you see the immensely strong Bhimasena in the ﬁeld of battle, dancing in the battle and drinking Duhshasana’s blood, like a rutting elephant that has slain a challenging tusker, there will no longer be treta, krita or dvapara. When you see Madri’s maharatha sons in battle, routing the army of Dhritarashtra’s son like two elephants, shattering the chariots of enemy warriors and engaged in hurling weapons, there will no longer be treta, krita or dvapara. When you see Drona, Shantanu’s son and Kripa in battle, with King Suyodhana and Jayadratha of Sindhu ﬁercely dashing to attack and restrained by Savyasachi, there will no longer be treta, krita or dvapara. O Karna! Depart from here and tell Drona, Shantanu’s son and Kripa this. This is a pleasant month, with food and fuel easily obtained. The herbs and forests are ripe and prosperous now. The trees are full of fruit and with few ﬂies. There is no mud. The water is tasty. It is not warm, nor is it cold. The time is pleasant. It will be the new moon{30} seven days from now. Let the ﬁght begin on that day, because that is said to be Shakra’s day. Also tell all the kings who have assembled to do battle. “I will accomplish everything that you wish for.” The kings and the princes who are following Duryodhana will be killed through weapons and attain the supreme goal.’”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Sanjaya said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "“Having heard Karna’s words, Keshava, the destroyer of enemy warriors, smiled. He then laughed and spoke these words. ‘O Karna! Are you not tempted by the offer of a kingdom? Do you not desire to rule the earth that I will give to you? The victory of the Pandavas is certain. There is no scope for any doubt on that score. The triumphal banner of the Pandavas can be seen, with the terrible king of the apes perched at the top. It was constructed by Bhouvana with divine maya. It has been raised, as radiant as Indra’s banner. Many terrible and divine beings can be seen on it, evoking fear. It is not obstructed by mountains and forests. It has been raised up diagonally and is one yojana tall. O Karna! Dhananjaya’s radiant ﬂag has been raised and is equal to the ﬁre in its form. When you see the one with the white horses in battle, with Krishna as the charioteer, using the weapons of Indra, Agni and the Maruts and hear the roar of Gandiva, as forceful as thunder, there will no longer be treta, krita or dvapara. When you see Kunti’s son, Yudhishthira, in battle, protecting his great army with incantations and oblations, as unassailable as Aditya and tormenting the soldiers of the enemy, there will no longer be treta, krita or dvapara. When you see the immensely strong Bhimasena in the ﬁeld of battle, dancing in the battle and drinking Duhshasana’s blood, like a rutting elephant that has slain a challenging tusker, there will no longer be treta, krita or dvapara. When you see Madri’s maharatha sons in battle, routing the army of Dhritarashtra’s son like two elephants, shattering the chariots of enemy warriors and engaged in hurling weapons, there will no longer be treta, krita or dvapara. When you see Drona, Shantanu’s son and Kripa in battle, with King Suyodhana and Jayadratha of Sindhu ﬁercely dashing to attack and restrained by Savyasachi, there will no longer be treta, krita or dvapara. O Karna! Depart from here and tell Drona, Shantanu’s son and Kripa this. This is a pleasant month, with food and fuel easily obtained. The herbs and forests are ripe and prosperous now. The trees are full of fruit and with few ﬂies. There is no mud. The water is tasty. It is not warm, nor is it cold. The time is pleasant. It will be the new moon{30} seven days from now. Let the ﬁght begin on that day, because that is said to be Shakra’s day. Also tell all the kings who have assembled to do battle.",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“I will accomplish everything that you wish for.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "The kings and the princes who are following Duryodhana will be killed through weapons and attain the supreme goal.’”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "804": {
+      "global_number": 804,
+      "local_number": 141,
+      "num_shlokas": 49,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Sanjaya said, “On hearing these auspicious and beneﬁcial words from Keshava, Karna honoured Krishna Madhusudana{31} and spoke these words. ‘O mighty-armed one! Knowing everything, why did you wish to confuse me? The destruction of the entire earth is imminent. Shakuni, Duhshasana and Dhritarashtra’s son, King Duryodhana, and I are responsible. O Krishna! There is no doubt that there will be a great and terrible war between the Pandavas and the Kurus, with the mud of blood. The kings and the princes who follow Duryodhana’s instructions will be burnt in the battle with the ﬂames of weapons and will go to Yama’s abode. O Madhusudana! Many terrible dreams are seen. There are fearful portents and extremely terrible omens. They signify the defeat of Dhritarashtra’s son and Yudhishthira’s victory. O Varshneya! There are many signs and they make the body hair stand up. The sharp and extremely radiant planet Shanaishchara{32} is oppressing the nakshatra Prajapatya{33}, implying greater suffering for all beings. O Madhusudana! Angaraka{34} is retrograde in Jyeshtha and is aspiring for Anuradha, as if seeking its friendship{35}. O Krishna! O Varshneya! A great calamity confronts the Kurus, in particular because the planet is oppressing Chitra{36}. The signs on the moon are distorted and Rahu is obstructing the sun. Meteors are showering down from heaven. There are storms and earthquakes. The elephants are trumpeting. O Madhava! The horses are shedding tears and no longer ﬁnd pleasure in fodder and water. O mighty-armed one! When such omens are seen, it is said that a great calamity is at hand and that it will be the terrible destruction of beings. O Keshava! It is seen that though horses, elephants and men are eating little, they are releasing large quantities of excrement. O Madhusudana! The learned ones have said that these are the signs of the defeat of the entire army of Dhritarashtra’s son. O Krishna! It is said that the mounts of the Pandavas are happy. The animals are circumambulating them from the right and that is a sign of their victory. O Keshava! But all the animals are circumambulating Dhritarashtra’s son from the left. Invisible voices can be heard and these are signs of his defeat. Peacocks, pushpashakunas{37}, swans, cranes, chatakas and masses of jivamjivakas{38} follow the Pandavas. Vultures, crows, badas{39}, hawks, yatudhanas, jackals and masses of ﬂies follow the Kouravas. There is no sound of drums in the army of Dhritarashtra’s son. But even when they are not struck, the drums of the Pandavas are making a sound. The wells in the army of Dhritarashtra’s son are making a sound like that of cows and bulls. That is a sign of his defeat. O Madhava! The gods are showering down ﬂesh and blood. A radiant city of the gandharvas has appeared. It has walls, moats, turrets and beautiful gates. At dawn and at dusk, a black mace can be seen to envelope the sun. This signiﬁes a great calamity. A jackal is howling terribly and that is a sign of his{40} defeat. Terrible birds with black necks hang around. Then they ﬂy away towards the dusk, a sign of his defeat. O Madhusudana! He ﬁrst hates the brahmanas, then his elders and his faithful servants. That is a sign of his defeat. The eastern direction is red. The southern direction has the complexion of weapons. O Madhusudana! The western direction looks like an unbaked vessel. O Madhava! For Dhritarashtra’s son, all the directions are on ﬁre. These signs that are seen presage a great calamity. O Achyuta! I had a dream in which I saw a palace with a thousand pillars. I saw Yudhishthira, together with his brothers, ascending this. All of them were seen to wear white headdresses and white garments. I saw all of them seated on beautiful seats. O Krishna! O Janardana! I saw you in that dream, draping the earth, strewn with blood, with entrails. The inﬁnitely energetic Yudhishthira ascended a heap of bones. He happily ate ghee mixed with payasa{41} from a golden vessel. I saw Yudhishthira swallow the earth, which you had given him. It is evident he will enjoy the earth. Vrikodara, terrible in his deeds, ascended a mountain. That tiger among men held a club in his hand and seemed to be eyeing the earth. This clearly shows that he will kill us in a great battle. O Hrishikesha! I know that where dharma exists, victory exists there. O Hrishikesha! Together with you, Dhananjaya held the Gandiva and mounted a white elephant{42}. He shone in supreme radiance. O Krishna! There is no doubt that you will slaughter all the kings, with Duryodhana in the forefront, in battle. Nakula, Sahadeva and maharatha Satyaki were adorned in white bracelets and necklaces and wore white garlands and garments. Those tigers among men ascended excellent vehicles that were drawn by men. Those three great ones had white umbrellas and garments. O Janardana! O Keshava! I saw three from the army of Dhritarashtra’s son too, wearing white headdresses. You know who they are—Ashvatthama, Kripa and Satvata Kritavarma. O Madhava! All the other kings were seen with red headdresses{43}. O mighty-armed one! O Janardana! Ascended on a vehicle drawn by camels, Bhishma and Drona, together with me and Dhritarashtra’s son, headed in the direction ruled by Agastya{44}. O Janardana! In a short while, we reached Yama’s abode. There is no doubt that I and the other kings, and the circle of kshatriyas, will enter Gandiva’s ﬁre.’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Sanjaya said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "“On hearing these auspicious and beneﬁcial words from Keshava, Karna honoured Krishna Madhusudana{31} and spoke these words. ‘O mighty-armed one! Knowing everything, why did you wish to confuse me? The destruction of the entire earth is imminent. Shakuni, Duhshasana and Dhritarashtra’s son, King Duryodhana, and I are responsible. O Krishna! There is no doubt that there will be a great and terrible war between the Pandavas and the Kurus, with the mud of blood. The kings and the princes who follow Duryodhana’s instructions will be burnt in the battle with the ﬂames of weapons and will go to Yama’s abode. O Madhusudana! Many terrible dreams are seen. There are fearful portents and extremely terrible omens. They signify the defeat of Dhritarashtra’s son and Yudhishthira’s victory. O Varshneya! There are many signs and they make the body hair stand up. The sharp and extremely radiant planet Shanaishchara{32} is oppressing the nakshatra Prajapatya{33}, implying greater suffering for all beings. O Madhusudana! Angaraka{34} is retrograde in Jyeshtha and is aspiring for Anuradha, as if seeking its friendship{35}. O Krishna! O Varshneya! A great calamity confronts the Kurus, in particular because the planet is oppressing Chitra{36}. The signs on the moon are distorted and Rahu is obstructing the sun. Meteors are showering down from heaven. There are storms and earthquakes. The elephants are trumpeting. O Madhava! The horses are shedding tears and no longer ﬁnd pleasure in fodder and water. O mighty-armed one! When such omens are seen, it is said that a great calamity is at hand and that it will be the terrible destruction of beings. O Keshava! It is seen that though horses, elephants and men are eating little, they are releasing large quantities of excrement. O Madhusudana! The learned ones have said that these are the signs of the defeat of the entire army of Dhritarashtra’s son. O Krishna! It is said that the mounts of the Pandavas are happy. The animals are circumambulating them from the right and that is a sign of their victory. O Keshava! But all the animals are circumambulating Dhritarashtra’s son from the left. Invisible voices can be heard and these are signs of his defeat. Peacocks, pushpashakunas{37}, swans, cranes, chatakas and masses of jivamjivakas{38} follow the Pandavas. Vultures, crows, badas{39}, hawks, yatudhanas, jackals and masses of ﬂies follow the Kouravas. There is no sound of drums in the army of Dhritarashtra’s son. But even when they are not struck, the drums of the Pandavas are making a sound. The wells in the army of Dhritarashtra’s son are making a sound like that of cows and bulls. That is a sign of his defeat. O Madhava! The gods are showering down ﬂesh and blood. A radiant city of the gandharvas has appeared. It has walls, moats, turrets and beautiful gates. At dawn and at dusk, a black mace can be seen to envelope the sun. This signiﬁes a great calamity. A jackal is howling terribly and that is a sign of his{40} defeat. Terrible birds with black necks hang around. Then they ﬂy away towards the dusk, a sign of his defeat. O Madhusudana! He ﬁrst hates the brahmanas, then his elders and his faithful servants. That is a sign of his defeat. The eastern direction is red. The southern direction has the complexion of weapons. O Madhusudana! The western direction looks like an unbaked vessel. O Madhava! For Dhritarashtra’s son, all the directions are on ﬁre. These signs that are seen presage a great calamity. O Achyuta! I had a dream in which I saw a palace with a thousand pillars. I saw Yudhishthira, together with his brothers, ascending this. All of them were seen to wear white headdresses and white garments. I saw all of them seated on beautiful seats. O Krishna! O Janardana! I saw you in that dream, draping the earth, strewn with blood, with entrails. The inﬁnitely energetic Yudhishthira ascended a heap of bones. He happily ate ghee mixed with payasa{41} from a golden vessel. I saw Yudhishthira swallow the earth, which you had given him. It is evident he will enjoy the earth. Vrikodara, terrible in his deeds, ascended a mountain. That tiger among men held a club in his hand and seemed to be eyeing the earth. This clearly shows that he will kill us in a great battle. O Hrishikesha! I know that where dharma exists, victory exists there. O Hrishikesha! Together with you, Dhananjaya held the Gandiva and mounted a white elephant{42}. He shone in supreme radiance. O Krishna! There is no doubt that you will slaughter all the kings, with Duryodhana in the forefront, in battle. Nakula, Sahadeva and maharatha Satyaki were adorned in white bracelets and necklaces and wore white garlands and garments. Those tigers among men ascended excellent vehicles that were drawn by men. Those three great ones had white umbrellas and garments. O Janardana! O Keshava! I saw three from the army of Dhritarashtra’s son too, wearing white headdresses. You know who they are—Ashvatthama, Kripa and Satvata Kritavarma. O Madhava! All the other kings were seen with red headdresses{43}. O mighty-armed one! O Janardana! Ascended on a vehicle drawn by camels, Bhishma and Drona, together with me and Dhritarashtra’s son, headed in the direction ruled by Agastya{44}. O Janardana! In a short while, we reached Yama’s abode. There is no doubt that I and the other kings, and the circle of kshatriyas, will enter Gandiva’s ﬁre.’",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“Krishna replied, ‘O Karna! The destruction of the earth is now near, since your heart does not ﬁnd my words to be acceptable. O son{45}! The destruction of all beings is imminent. That which is wrong appears to be right and is not removed from the heart.’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "‘",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "“Krishna replied, ‘O Karna! The destruction of the earth is now near, since your heart does not ﬁnd my words to be acceptable. O son{45}! The destruction of all beings is imminent. That which is wrong appears to be right and is not removed from the heart.’",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“Karna said, ‘O Krishna! O mighty-armed one! If we remain alive, we may perhaps see you again after this great battle, which will lead to the destruction of all the brave kshatriyas. O Krishna! Otherwise, we will certainly meet in heaven. O unblemished one! Now it seems that we will only meet there again.’”",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "‘",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“Karna said, ‘O Krishna! O mighty-armed one! If we remain alive, we may perhaps see you again after this great battle, which will lead to the destruction of all the brave kshatriyas. O Krishna! Otherwise, we will certainly meet in heaven. O unblemished one! Now it seems that we will only meet there again.’”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Sanjaya said, “Saying this, Karna embraced Madhava tightly. Having obtained Keshava’s permission, he descended from the chariot. Having ascended his own chariot, decorated with gold, Radheya returned with us{46}, dejected in his mind. Together with Satyaki, Keshava then left at a greater speed, repeatedly urging his charioteer, ‘Go! Go!’”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "‘",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "attribution",
+              "speaker": "@sanjaya",
+              "text": "Sanjaya said",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“Saying this, Karna embraced Madhava tightly. Having obtained Keshava’s permission, he descended from the chariot. Having ascended his own chariot, decorated with gold, Radheya returned with us{46}, dejected in his mind. Together with Satyaki, Keshava then left at a greater speed, repeatedly urging his charioteer, ‘Go! Go!’”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@sanjaya",
+              "text": "’",
+              "color": "#A8D5A2",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "805": {
+      "global_number": 805,
+      "local_number": 142,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Krishna’s entreaties having failed, he left the Kurus and went towards the Pandavas. Kshatta went to Pritha and in a soft and sorrowful tone, spoke these words. “O one whose sons are alive! You know that I am always inclined towards kindness. Though I have raised my voice, Suyodhana has not accepted my words. King Yudhishthira has the Chedis, Panchalas, Kekayas, Bhima, Arjuna, Krishna, Yuyudhana{47} and the twins on his side. Desiring dharma, he has camped in Upaplavya. Though he is strong, desiring friendship with his kin, he acts like one who is weak. King Dhritarashtra is aged in his years, but does not seek peace. Intoxicated by the insolence of his son, he is walking along the path of adharma. The dissension has arisen because of the evil intelligence of Jayadratha, Karna, Duhshasana and Soubala. Using adharma, in this fashion, they robbed the kingdom from one who follows dharma. But in this way, dharma’s consequences bind one down. Who will not suffer from fever when the Kurus forcibly oppress dharma in this way? Keshava has left without obtaining peace and the Pandavas will prepare for war. Thus, the bad policy followed by the Kurus will lead to the destruction of warriors. I think about this and cannot sleep, during the day and at night.” Kunti heard these words, spoken by one who desired welfare. She began to sigh in grief and her mind was also distressed.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Krishna’s entreaties having failed, he left the Kurus and went towards the Pandavas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kshatta went to Pritha and in a soft and sorrowful tone, spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kshatta_went_to_pritha",
+              "text": "“O one whose sons are alive! You know that I am always inclined towards kindness. Though I have raised my voice, Suyodhana has not accepted my words. King Yudhishthira has the Chedis, Panchalas, Kekayas, Bhima, Arjuna, Krishna, Yuyudhana{47} and the twins on his side. Desiring dharma, he has camped in Upaplavya. Though he is strong, desiring friendship with his kin, he acts like one who is weak. King Dhritarashtra is aged in his years, but does not seek peace. Intoxicated by the insolence of his son, he is walking along the path of adharma. The dissension has arisen because of the evil intelligence of Jayadratha, Karna, Duhshasana and Soubala. Using adharma, in this fashion, they robbed the kingdom from one who follows dharma. But in this way, dharma’s consequences bind one down. Who will not suffer from fever when the Kurus forcibly oppress dharma in this way? Keshava has left without obtaining peace and the Pandavas will prepare for war. Thus, the bad policy followed by the Kurus will lead to the destruction of warriors. I think about this and cannot sleep, during the day and at night.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Kunti heard these words, spoken by one who desired welfare. She began to sigh in grief and her mind was also distressed.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘She thought, “Shame on artha! It is because of this that there will be this great carnage of relatives. There can only be defeat in this war among friends. If the assembled Pandavas, Chedis, Panchalas and Yadavas ﬁght the Bharatas, what can be greater misery than that? I can see that there is a certain taint associated with war, but it is also there in the case of defeat in war. For those who are without riches, it is better to die. But there cannot be a victory in the destruction of relatives. The grandfather, Shantanu’s son, the preceptor who is foremost among warriors and Karna are with Dhritarashtra’s son and that increases my fears. The preceptor Drona will never willingly wish to ﬁght with his disciples. Why should the grandfather not be kindly disposed towards the Pandavas? This leaves only one{48} who unnecessarily follows the evil-minded son of Dhritarashtra. Because of his evil delusions, he has always hated the Pandavas. He is immensely strong in his resolution and he is also powerful. Karna has always been against the Pandavas and I am now tormented by that. Today, I hope to turn Karna’s mind towards the Pandavas. I will meet him, tell him the truth and seek to obtain his favours. Satisﬁed, the illustrious Durvasa granted me a boon. When I dwelt in the inner quarters of my father, King Kuntibhoja’s abode, I was honoured by the ability of summoning the gods. With a trembling heart, I thought about this in many ways, about the strength and weakness of the mantra and about the brahmana’s boon. Because of the nature of a woman, who also possessed childish sentiments, I thought about this repeatedly, though I was protected by a trusted nurse and surrounded by friends. How could I avoid taints and how could I preserve my father’s reputation? How could I do something good for myself, without committing a sin? Thinking about that brahmana and bowing down before him, I was overcome by curiosity and behaved like a child. Though I was still a maiden, I summoned the sun god to me. Though I was a virgin, I conceived him in my womb. He was protected like my son. Why should he not listen to my words, which will be beneﬁcial for the cause of his brothers?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "She thought,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Shame on artha! It is because of this that there will be this great carnage of relatives. There can only be defeat in this war among friends. If the assembled Pandavas, Chedis, Panchalas and Yadavas ﬁght the Bharatas, what can be greater misery than that? I can see that there is a certain taint associated with war, but it is also there in the case of defeat in war. For those who are without riches, it is better to die. But there cannot be a victory in the destruction of relatives. The grandfather, Shantanu’s son, the preceptor who is foremost among warriors and Karna are with Dhritarashtra’s son and that increases my fears. The preceptor Drona will never willingly wish to ﬁght with his disciples. Why should the grandfather not be kindly disposed towards the Pandavas? This leaves only one{48} who unnecessarily follows the evil-minded son of Dhritarashtra. Because of his evil delusions, he has always hated the Pandavas. He is immensely strong in his resolution and he is also powerful. Karna has always been against the Pandavas and I am now tormented by that. Today, I hope to turn Karna’s mind towards the Pandavas. I will meet him, tell him the truth and seek to obtain his favours. Satisﬁed, the illustrious Durvasa granted me a boon. When I dwelt in the inner quarters of my father, King Kuntibhoja’s abode, I was honoured by the ability of summoning the gods. With a trembling heart, I thought about this in many ways, about the strength and weakness of the mantra and about the brahmana’s boon. Because of the nature of a woman, who also possessed childish sentiments, I thought about this repeatedly, though I was protected by a trusted nurse and surrounded by friends. How could I avoid taints and how could I preserve my father’s reputation? How could I do something good for myself, without committing a sin? Thinking about that brahmana and bowing down before him, I was overcome by curiosity and behaved like a child. Though I was still a maiden, I summoned the sun god to me. Though I was a virgin, I conceived him in my womb. He was protected like my son. Why should he not listen to my words, which will be beneﬁcial for the cause of his brothers?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Thinking in this fashion, Kunti decided on an excellent course of action{49}. So as to bring success to her objective, she went towards the Bhagirathi. On the banks of the Ganga, Pritha heard the sounds of incantations, being recited by her compassionate and truthful son. He was facing the east, with his hands raised up. The ascetic lady waited behind him, until the meditations were over. She was the daughter of a Kourava and descended from the Vrishni lineage. She stood there, behind Karna’s upper garments{50}, oppressed by the sun, like a garland of lotuses that has dried. He was rigid in his vows and meditated until his back was heated by the sun. When he turned around, he saw Kunti and joined his hands in salutation. As was appropriate, the immensely energetic one, who was supreme among those who upheld dharma, honoured her.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Thinking in this fashion, Kunti decided on an excellent course of action{49}. So as to bring success to her objective, she went towards the Bhagirathi. On the banks of the Ganga, Pritha heard the sounds of incantations, being recited by her compassionate and truthful son. He was facing the east, with his hands raised up. The ascetic lady waited behind him, until the meditations were over. She was the daughter of a Kourava and descended from the Vrishni lineage. She stood there, behind Karna’s upper garments{50}, oppressed by the sun, like a garland of lotuses that has dried. He was rigid in his vows and meditated until his back was heated by the sun. When he turned around, he saw Kunti and joined his hands in salutation. As was appropriate, the immensely energetic one, who was supreme among those who upheld dharma, honoured her.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "806": {
+      "global_number": 806,
+      "local_number": 143,
+      "num_shlokas": 12,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Karna said, “I am Karna, the son of Radha and Adhiratha, and I salute you. Tell me. Why have you come here? What can I do for you?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“I am Karna, the son of Radha and Adhiratha, and I salute you. Tell me. Why have you come here? What can I do for you?”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Kunti replied, “You are the son of Kunti, not of Radha. And Adhiratha is not your father. O Karna! You have not been born in a lineage of sutas. Know these words of mine to be true. While I was still a maiden, I gave birth to you. In Kuntibhoja’s abode, you were the ﬁrst one I carried in my womb. O Partha! You are my son. The duty of the god Tapana Virochana{51} is to produce light. O Karna, supreme among those who wield weapons! He gave birth to you through me. You were born with earrings and armour. You were born as the son of a god, surrounded in radiance. You were born as my invincible son, in my father’s house. Because of your ignorance, you do not know your true brothers. Since you are my son, you should not serve the sons of Dhritarashtra. O son! It is the determination of dharma that the fruits of dharma accrue to men who satisfy their fathers, or their one-eyed mother{52}. Earlier, Arjuna earned prosperity for Yudhishthira and the sons of Dhritarashtra robbed it because of their greed. Separate yourself from them and enjoy it. Today, let the Kurus witness the fraternal union between Karna and Arjuna. Let those who are evil bow down. Let Karna and Arjuna be like Rama{53} and Janardana. If the two of you are united in your minds, what can you not achieve in this world? O Karna! Surrounded by your ﬁve brothers, you will shine, like Brahma surrounded by the Vedas and the ﬁve Vedangas{54}. You have all the qualities. You are the eldest and the best among all the relatives. The words ‘son of a suta’ will no longer be used for you. You will be a valiant Partha.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“You are the son of Kunti, not of Radha. And Adhiratha is not your father. O Karna! You have not been born in a lineage of sutas. Know these words of mine to be true. While I was still a maiden, I gave birth to you. In Kuntibhoja’s abode, you were the ﬁrst one I carried in my womb. O Partha! You are my son. The duty of the god Tapana Virochana{51} is to produce light. O Karna, supreme among those who wield weapons! He gave birth to you through me. You were born with earrings and armour. You were born as the son of a god, surrounded in radiance. You were born as my invincible son, in my father’s house. Because of your ignorance, you do not know your true brothers. Since you are my son, you should not serve the sons of Dhritarashtra. O son! It is the determination of dharma that the fruits of dharma accrue to men who satisfy their fathers, or their one-eyed mother{52}. Earlier, Arjuna earned prosperity for Yudhishthira and the sons of Dhritarashtra robbed it because of their greed. Separate yourself from them and enjoy it. Today, let the Kurus witness the fraternal union between Karna and Arjuna. Let those who are evil bow down. Let Karna and Arjuna be like Rama{53} and Janardana. If the two of you are united in your minds, what can you not achieve in this world? O Karna! Surrounded by your ﬁve brothers, you will shine, like Brahma surrounded by the Vedas and the ﬁve Vedangas{54}. You have all the qualities. You are the eldest and the best among all the relatives. The words ‘son of a suta’ will no longer be used for you. You will be a valiant Partha.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "807": {
+      "global_number": 807,
+      "local_number": 144,
+      "num_shlokas": 26,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Then Karna heard a voice that issued from the sun. It was spoken affectionately like a father and came from the sun god himself. “O Karna! Pritha has spoken the truth. Act in accordance with your mother’s words. O tiger among men! You will obtain the greatest beneﬁt, if you act entirely in accordance with her words.” Thus addressed by his mother, and by his father, the sun god himself, Karna’s resolution did not falter, because he was always established in the truth.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then Karna heard a voice that issued from the sun. It was spoken affectionately like a father and came from the sun god himself.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Karna! Pritha has spoken the truth. Act in accordance with your mother’s words. O tiger among men! You will obtain the greatest beneﬁt, if you act entirely in accordance with her words.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus addressed by his mother, and by his father, the sun god himself, Karna’s resolution did not falter, because he was always established in the truth.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Karna said, “O kshatriya lady! It is not that I disbelieve the words spoken by you, or contradict that acting in accordance with your words is the gate to dharma. But your action towards me was extremely evil. By casting me out, you have destroyed the fame and renown that I could have possessed. I have been born a kshatriya, but I did not obtain the rites that were due to a kshatriya. All this was because of you. What wicked enemy could have done anything worse? You showed me no compassion at the time when it was required. You deprived me of my rites. But you are now asking me to act. Earlier, you have never sought my welfare as a mother. However, desiring your own welfare alone, you have now come to me and are addressing me. Who does not suffer when Dhananjaya is aided by Krishna? If I now go over to the Parthas, who will not think that I am frightened? I have not been known as their brother before. This has been revealed at the time of the battle. If I go to the Pandavas, who will speak of me as a kshatriya? The sons of Dhritarashtra have given me a share in every object of desire. They have honoured me and given me every kind of happiness. How can I act counter to that now? They have always served me and have always bowed down before me, like the Vasus before Vasava. They now confront a feud with an enemy. They think that with my life, they can withstand the enemies. How can I act against the desire that is there in their minds? Using me as a boat, they wish to cross over to the other shore of this shoreless and impassable war. How can I abandon them? For those who have earned a living from the sons of Dhritarashtra, the time has arrived. I must devote myself to that task, even if there is a risk to my life. There are those who are satiated and treated well. But when the time arrives for a task, these wicked ones are ungrateful and act counter to what should be done. They are faithless towards the king. They are servants who steal the ancestral offerings of their master. These evilacting ones do not obtain this world, or the next. In the cause of Dhritarashtra’s son, I will ﬁght with your sons. I will use all my strength and my power. I will not lie to you. I will seek to abide by the conduct of a non-violent and truthful person. But even if they are beneﬁcial, I will not act in accordance with your words now. However, your appeal to me will not be fruitless. Though I can counter and kill them, I will not kill all of your sons in battle— Yudhishthira, Bhima and the twins, everyone other than Arjuna. In Yudhishthira’s army, I will ﬁght with Arjuna. Having killed Arjuna in battle, I will obtain fruits. Or I will be killed by Savyasachi and attain fame. O illustrious one! The number of your sons will not be less than ﬁve. You will either be without Arjuna and with Karna, or if I am killed, you will be with Arjuna.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O kshatriya lady! It is not that I disbelieve the words spoken by you, or contradict that acting in accordance with your words is the gate to dharma. But your action towards me was extremely evil. By casting me out, you have destroyed the fame and renown that I could have possessed. I have been born a kshatriya, but I did not obtain the rites that were due to a kshatriya. All this was because of you. What wicked enemy could have done anything worse? You showed me no compassion at the time when it was required. You deprived me of my rites. But you are now asking me to act. Earlier, you have never sought my welfare as a mother. However, desiring your own welfare alone, you have now come to me and are addressing me. Who does not suffer when Dhananjaya is aided by Krishna? If I now go over to the Parthas, who will not think that I am frightened? I have not been known as their brother before. This has been revealed at the time of the battle. If I go to the Pandavas, who will speak of me as a kshatriya? The sons of Dhritarashtra have given me a share in every object of desire. They have honoured me and given me every kind of happiness. How can I act counter to that now? They have always served me and have always bowed down before me, like the Vasus before Vasava. They now confront a feud with an enemy. They think that with my life, they can withstand the enemies. How can I act against the desire that is there in their minds? Using me as a boat, they wish to cross over to the other shore of this shoreless and impassable war. How can I abandon them? For those who have earned a living from the sons of Dhritarashtra, the time has arrived. I must devote myself to that task, even if there is a risk to my life. There are those who are satiated and treated well. But when the time arrives for a task, these wicked ones are ungrateful and act counter to what should be done. They are faithless towards the king. They are servants who steal the ancestral offerings of their master. These evilacting ones do not obtain this world, or the next. In the cause of Dhritarashtra’s son, I will ﬁght with your sons. I will use all my strength and my power. I will not lie to you. I will seek to abide by the conduct of a non-violent and truthful person. But even if they are beneﬁcial, I will not act in accordance with your words now. However, your appeal to me will not be fruitless. Though I can counter and kill them, I will not kill all of your sons in battle— Yudhishthira, Bhima and the twins, everyone other than Arjuna. In Yudhishthira’s army, I will ﬁght with Arjuna. Having killed Arjuna in battle, I will obtain fruits. Or I will be killed by Savyasachi and attain fame. O illustrious one! The number of your sons will not be less than ﬁve. You will either be without Arjuna and with Karna, or if I am killed, you will be with Arjuna.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘Having heard Karna’s words, Kunti trembled with grief. She embraced her son Karna, who was ﬁrm because of his fortitude, and said, “It must be this way then. O Karna! The Kouravas will go to their destruction, as you have said. Destiny is extremely powerful. O destroyer of enemies! But you must promise me about the safety of four of your brothers. You have given me that pledge and you must discharge that promise. May you be safe and in good health.” Pritha spoke these words to Karna. Delighted, Karna honoured her. Then, both of them left in different directions.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having heard Karna’s words,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti trembled with grief. She embraced her son Karna, who was ﬁrm because of his fortitude, and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti_trembled_with_grief",
+              "text": "“It must be this way then. O Karna! The Kouravas will go to their destruction, as you have said. Destiny is extremely powerful. O destroyer of enemies! But you must promise me about the safety of four of your brothers. You have given me that pledge and you must discharge that promise. May you be safe and in good health.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Pritha spoke these words to Karna. Delighted, Karna honoured her. Then, both of them left in different directions.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "808": {
+      "global_number": 808,
+      "local_number": 145,
+      "num_shlokas": 40,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Having returned to Upaplavya from Hastinapura, Keshava, the destroyer of enemies, told the Pandavas everything that had happened. They spoke to each other for a long time and held repeated consultations. So as to rest, Shouri went to his own residence. After having taken their leave of all the kings, headed by Virata, when the sun had set, the ﬁve Pandava brothers performed their evening prayers. Then their minds turned towards Krishna and they had Dasharha brought for more consultations.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having returned to Upaplavya from Hastinapura, Keshava, the destroyer of enemies, told the Pandavas everything that had happened. They spoke to each other for a long time and held repeated consultations. So as to rest, Shouri went to his own residence. After having taken their leave of all the kings, headed by Virata, when the sun had set, the ﬁve Pandava brothers performed their evening prayers. Then their minds turned towards Krishna and they had Dasharha brought for more consultations.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Yudhishthira asked, “O Pundarikaksha! When you went to Nagapura{55}, what did you tell Dhritarashtra’s son in the assembly hall? You should tell us that.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Pundarikaksha! When you went to Nagapura{55}, what did you tell Dhritarashtra’s son in the assembly hall? You should tell us that.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Vasudeva replied, “When I went to Nagapura, what I told Dhritarashtra’s son in the assembly hall was true, healthy and beneﬁcial. But the evil-minded one did not accept it.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“When I went to Nagapura, what I told Dhritarashtra’s son in the assembly hall was true, healthy and beneﬁcial. But the evil-minded one did not accept it.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Yudhishthira said, “O Hrishikesha! Duryodhana cannot be controlled. When he deviated from the proper path, what did the grandfather, senior among the Kurus, tell him? What did the mighty-armed preceptor, Bharadvaja, say? What about our younger father, Kshatta, supreme among those who uphold dharma? Tormented over his sons{56}, what did he tell Dhritarashtra’s son? What did all the kings who were in the assembly hall have to say? O Janardana! Tell us everything, exactly as it happened. You have already told us all the words spoken by the two foremost among the Kurus{57} to the wicked one who is overcome by desire and avarice and thinks himself to be wise. O Keshava! But unpleasant things do not remain in my heart. O Govinda! O illustrious one! I wish to hear their words. O son{58}! Act so that time does not pass. O Krishna! You are our refuge. You are our protector. You are our preceptor.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Hrishikesha! Duryodhana cannot be controlled. When he deviated from the proper path, what did the grandfather, senior among the Kurus, tell him? What did the mighty-armed preceptor, Bharadvaja, say? What about our younger father, Kshatta, supreme among those who uphold dharma? Tormented over his sons{56}, what did he tell Dhritarashtra’s son? What did all the kings who were in the assembly hall have to say? O Janardana! Tell us everything, exactly as it happened. You have already told us all the words spoken by the two foremost among the Kurus{57} to the wicked one who is overcome by desire and avarice and thinks himself to be wise. O Keshava! But unpleasant things do not remain in my heart. O Govinda! O illustrious one! I wish to hear their words. O son{58}! Act so that time does not pass. O Krishna! You are our refuge. You are our protector. You are our preceptor.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Vasudeva replied, “O king! O Indra among kings! Listen to the words that King Suyodhana spoke to me in the midst of that assembly of the Kurus. After I had spoken my words, Dhritarashtra’s son laughed. Then Bhishma was extremely enraged and spoke these words. ‘O Duryodhana! Listen to my words, for the sake of the welfare of the lineage. O tiger among kings! Having heard my words, act in the interests of your own lineage. O son{59}! My father was King Shantanu, famous in the worlds. I was the only son of someone who was the best among all those who had sons. He began to think, “How can I have a second son? The learned ones say that having a single son is like having no son at all. How can my lineage not be destroyed? How can the fame continue to be extended?” Having got to know about his desire, I brought him Kali{60} as my mother. For the sake of my father and my lineage, I took an extremely difﬁcult oath that I would not be a king and would hold up my semen{61}. This is known to you. I have cheerfully lived here, abiding by my promise. O king! Through her was born my younger brother Vichitravirya, with dharma in his soul. He was mighty-armed and prosperous and an extender of the Kuru lineage. When my father ascended to heaven, I instated him in my kingdom as a king. I myself behaved like a servant who was inferior to him. O Indra among kings! After defeating an array of kings, I brought him appropriate wives. You have heard about this many times. I then confronted Rama in a duel{62}. Because of fear of Rama, the citizens banished him from the city{63}. Because of excessive addiction to his wives, he was soon afﬂicted by pulmonary disease. Without a king, the lord of the gods no longer rained down on the kingdom. The subjects suffered from hunger and fear and came and spoke to me.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“O king! O Indra among kings! Listen to the words that King Suyodhana spoke to me in the midst of that assembly of the Kurus. After I had spoken my words, Dhritarashtra’s son laughed. Then Bhishma was extremely enraged and spoke these words. ‘O Duryodhana! Listen to my words, for the sake of the welfare of the lineage. O tiger among kings! Having heard my words, act in the interests of your own lineage. O son{59}! My father was King Shantanu, famous in the worlds. I was the only son of someone who was the best among all those who had sons. He began to think,",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“How can I have a second son? The learned ones say that having a single son is like having no son at all. How can my lineage not be destroyed? How can the fame continue to be extended?”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "Having got to know about his desire, I brought him Kali{60} as my mother. For the sake of my father and my lineage, I took an extremely difﬁcult oath that I would not be a king and would hold up my semen{61}. This is known to you. I have cheerfully lived here, abiding by my promise. O king! Through her was born my younger brother Vichitravirya, with dharma in his soul. He was mighty-armed and prosperous and an extender of the Kuru lineage. When my father ascended to heaven, I instated him in my kingdom as a king. I myself behaved like a servant who was inferior to him. O Indra among kings! After defeating an array of kings, I brought him appropriate wives. You have heard about this many times. I then confronted Rama in a duel{62}. Because of fear of Rama, the citizens banished him from the city{63}. Because of excessive addiction to his wives, he was soon afﬂicted by pulmonary disease. Without a king, the lord of the gods no longer rained down on the kingdom. The subjects suffered from hunger and fear and came and spoke to me.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘“‘The subjects said, “All the subjects are decaying. For the sake of our welfare, become our king. O fortunate one! O extender of Shantanu’s lineage! Dispel these calamities. All your subjects are suffering from an extremely terrible disease. O Gangeya{64}! Only a few ones are left. You should save us. O brave one! Dispel this disease. As is dharma, protect the subjects. When you are yourself alive, do not let this kingdom head towards destruction.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "attribution",
+              "speaker": "@krishna",
+              "text": "The subjects said",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_subjects",
+              "text": "“All the subjects are decaying. For the sake of our welfare, become our king. O fortunate one! O extender of Shantanu’s lineage! Dispel these calamities. All your subjects are suffering from an extremely terrible disease. O Gangeya{64}! Only a few ones are left. You should save us. O brave one! Dispel this disease. As is dharma, protect the subjects. When you are yourself alive, do not let this kingdom head towards destruction.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "’",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘“Bhishma said, ‘The lamentations of the subjects failed to move my heart. I remembered that adherence to an oath is virtuous conduct. O great king! The citizens, my fortunate mother Kali, the servants, the priests, the preceptors and the extremely learned brahmanas were greatly distressed and kept urging me, “Be our king. The kingdom protected by Pratipa{65} is being destroyed. O immensely intelligent one! For the sake of our welfare, be our king.” At these words, I joined my hands in salutation. I was unhappy and extremely miserable. O son! I kept repeatedly telling them about the oath I had taken to honour my father and for the sake of the lineage, that I would hold up my semen and would not be a king. O king! Then I joined my hands in salutation and repeatedly told my mother, “O mother! I have been born from Shantanu and will extend the Kuru lineage. It was for your sake that I took the oath and I cannot falsify it. Even for your sake, do not impose this burden on me. O one who is devoted to her sons! O mother! I am your servant, awaiting your command.” O great king! Having thus entreated my mother and the subjects, together with my mother, for the sake of my brother’s wives, I solicited the great sage Vyasa and sought the rishi’s favours for the sake of offspring. O supreme among the Bharata lineage! He showed us his favours and begot three sons{66}. Being blind and deprived of the rites, your father could not be a king. Thus, the great-souled Pandu, famous in the world, became a king. Since he was a king, his sons are the inheritors of their father’s share. O son{67}! Do not quarrel over this. Give them half of the kingdom. As long as I am alive, which man can rule the kingdom? Do not slight my words. I have always desired peace. O son! O king! I do not differentiate between them and you. These are also the views of your father, Gandhari and Vidura. The words of the elders should be heard. Do not ignore my words. Otherwise, you will destroy everybody, yourself and the earth also.’”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“Bhishma said, ‘The lamentations of the subjects failed to move my heart. I remembered that adherence to an oath is virtuous conduct. O great king! The citizens, my fortunate mother Kali, the servants, the priests, the preceptors and the extremely learned brahmanas were greatly distressed and kept urging me,",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“Be our king. The kingdom protected by Pratipa{65} is being destroyed. O immensely intelligent one! For the sake of our welfare, be our king.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "At these words, I joined my hands in salutation. I was unhappy and extremely miserable. O son! I kept repeatedly telling them about the oath I had taken to honour my father and for the sake of the lineage, that I would hold up",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "attribution",
+              "speaker": "@krishna",
+              "text": "my semen and would not be a king. O king! Then I joined my hands in salutation and repeatedly told my mother",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@my_semen_and_would",
+              "text": "“O mother! I have been born from Shantanu and will extend the Kuru lineage. It was for your sake that I took the oath and I cannot falsify it. Even for your sake, do not impose this burden on me. O one who is devoted to her sons! O mother! I am your servant, awaiting your command.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "O great king! Having thus entreated my mother and the subjects, together with my mother, for the sake of my brother’s wives, I solicited the great sage Vyasa and sought the rishi’s favours for the sake of offspring. O supreme among the Bharata lineage! He showed us his favours and begot three sons{66}. Being blind and deprived of the rites, your father could not be a king. Thus, the great-souled Pandu, famous in the world, became a king. Since he was a king, his sons are the inheritors of their father’s share. O son{67}! Do not quarrel over this. Give them half of the kingdom. As long as I am alive, which man can rule the kingdom? Do not slight my words. I have always desired peace. O son! O king! I do not differentiate between them and you. These are also the views of your father, Gandhari and Vidura. The words of the elders should be heard. Do not ignore my words. Otherwise, you will destroy everybody, yourself and the earth also.’”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "’",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "809": {
+      "global_number": 809,
+      "local_number": 146,
+      "num_shlokas": 35,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “After Bhishma had spoken, Drona, who was capable of speaking, addressed these words to Duryodhana, in the midst of the kings. ‘O fortunate one! O son{68}! Just as Pratipa’s son, Shantanu, was established for the welfare of the lineage, Devavrata Bhishma is also established for the welfare of the lineage. Pandu, the lord of men, was also like that. He was truthful and in control of his senses. He became the king of the Kurus. He had dharma in his soul. He was good in his vows and was extremely controlled. Later, the extender of the Kuru lineage gave the kingdom to his elder, the intelligent Dhritarashtra, and to the younger, Kshatta. O king! O Kouravya! O unblemished one! After having established the one without decay{69} on the kingdom, he left for the forest with his wife. Vidura, tiger among men, humbly accepted a position that was inferior to him{70} and served him, like one fanning him with a whisk. O son{71}! In the appropriate way, all the subjects accepted Dhritarashtra as the lord of men, just as they had accepted Pandu, lord of men. After having handed over the kingdom to Dhritarashtra and Vidura, Pandu, the destroyer of enemy cities, roamed around the entire earth. Vidura, devoted to the truth, was in charge of building up the treasury, gifts, the superintendence of the servants and everyone’s subsistence. Bhishma, the immensely energetic conqueror of enemy cities, was in charge of peace and war and the care of the king. While he was on the throne, the immensely strong King Dhritarashtra was always followed by the great-souled Vidura. Having been born in this lineage, how can you decide to break up the lineage? O lord of men! Together with your brothers, enjoy all the objects of desire. I am not saying this out of any weakness, or for any riches. O supreme among kings! I eat what Bhishma gives me, not what you give. O lord of men! I do not wish to draw my sustenance from you. Drona goes where Bhishma goes. Do what Bhishma has asked you to. O destroyer of enemies! Give the sons of Pandu half of the kingdom. O son{72}! I have always behaved equally as a teacher to both you and them. The one with the white horses{73} is the same to me as Ashvatthama. What is the need to speak a lot? Where there is dharma, victory is there.’ O great king! The inﬁnitely energetic Drona spoke in this way.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“After Bhishma had spoken, Drona, who was capable of speaking, addressed these words to Duryodhana, in the midst of the kings. ‘O fortunate one! O son{68}! Just as Pratipa’s son, Shantanu, was established for the welfare of the lineage, Devavrata Bhishma is also established for the welfare of the lineage. Pandu, the lord of men, was also like that. He was truthful and in control of his senses. He became the king of the Kurus. He had dharma in his soul. He was good in his vows and was extremely controlled. Later, the extender of the Kuru lineage gave the kingdom to his elder, the intelligent Dhritarashtra, and to the younger, Kshatta. O king! O Kouravya! O unblemished one! After having established the one without decay{69} on the kingdom, he left for the forest with his wife. Vidura, tiger among men, humbly accepted a position that was inferior to him{70} and served him, like one fanning him with a whisk. O son{71}! In the appropriate way, all the subjects accepted Dhritarashtra as the lord of men, just as they had accepted Pandu, lord of men. After having handed over the kingdom to Dhritarashtra and Vidura, Pandu, the destroyer of enemy cities, roamed around the entire earth. Vidura, devoted to the truth, was in charge of building up the treasury, gifts, the superintendence of the servants and everyone’s subsistence. Bhishma, the immensely energetic conqueror of enemy cities, was in charge of peace and war and the care of the king. While he was on the throne, the immensely strong King Dhritarashtra was always followed by the great-souled Vidura. Having been born in this lineage, how can you decide to break up the lineage? O lord of men! Together with your brothers, enjoy all the objects of desire. I am not saying this out of any weakness, or for any riches. O supreme among kings! I eat what Bhishma gives me, not what you give. O lord of men! I do not wish to draw my sustenance from you. Drona goes where Bhishma goes. Do what Bhishma has asked you to. O destroyer of enemies! Give the sons of Pandu half of the kingdom. O son{72}! I have always behaved equally as a teacher to both you and them. The one with the white horses{73} is the same to me as Ashvatthama. What is the need to speak a lot? Where there is dharma, victory is there.’ O great king! The inﬁnitely energetic Drona spoke in this way.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“Then Vidura, devoted to the truth and knowledgeable about dharma, glanced towards his father’s{74} face and spoke these words. ‘O Devavrata! Listen to the words that I am going to speak. This lineage of the Kouravas was destroyed{75} and you made it rise up again. Therefore, when I am lamenting, do not ignore my words. Who is the one named Duryodhana, born in this lineage? He is a deﬁler of the lineage. He is overcome by greed and you are following his inclination. He does not behave like an arya. He is ungrateful. He has lost his senses because of avarice. His father can see dharma and artha, but he acts contrary to his instructions. The Kurus will be destroyed because of Duryodhana’s deeds. O great king! Act so that the destruction does not occur. O immensely radiant one! Earlier, you created me and Dhritarashtra, like a painter fashions a painting. Do not destroy us now. O mighty-armed one! Do not look at this destruction of the lineage and ignore it, like Prajapati, who creates beings in order to destroy them. With the destruction imminent, if your intelligence has failed you, leave for the forest, with me and Dhritarashtra. Or swiftly bind down the wicked and stupid son of Dhritarashtra, who is extremely evil in his intelligence. Let the kingdom now be protected by the Pandavas. O tiger among kings! Show your favours. A great destruction of the Pandavas, the Kurus and the inﬁnitely energetic kings can be seen.’ Having spoken in this way, Vidura, distressed in his mind, stopped. He was immersed in his thoughts and sighed repeatedly. Then King Subala’s daughter{76}, scared for the lineage, angrily spoke words full of dharma and artha to her evil-minded and violent son Duryodhana, while all the kings looked on. ‘Let the kings who have entered the king’s assembly hall, the brahmarshis and the courtiers listen while I speak about your crimes and those of your evil advisers and followers. This kingdom of the Kurus is ruled through a continuous process of succession. That is the dharma of the lineage, as it has come down to us. With your wicked intelligence and violent deeds, you wish to cause injury to the kingdom of the Kurus. The intelligent Dhritarashtra is established in the kingdom, with his younger brother, the far-sighted Vidura. O Duryodhana! Because of your delusion and desiring to be king, how can you cross both of them? As long as Bhishma is there, the king and the greatly fortunate Kshatta are subservient to him. Since he{77} knows about dharma, the great-souled son of the river does not desire to be a king of men. The kingdom inalienably belonged to Pandu. His sons should now rule, and no one else. This entire kingdom belongs to the Pandavas, because it has descended to them from their ancestors and they will leave it to their sons and grandsons. The intelligent Devavrata is devoted to the truth. He is great-souled and is foremost among the Kurus. We must accept everything that he has said about dharma. We must act according to our own dharma. Let us follow the one whose vow is great{78}. Let the king and Vidura speak. Let us act in accordance with what our well-wishers say. For a very long time, let us hold dharma up in front. Yudhishthira, the son of Dharma, should rule. He has rightfully obtained the kingdom of the Kurus. This has been instructed by King Dhritarashtra and Shantanu’s son has said that this is the most important.’”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“Then Vidura, devoted to the truth and knowledgeable about dharma, glanced towards his father’s{74} face and spoke these words. ‘O Devavrata! Listen to the words that I am going to speak. This lineage of the Kouravas was destroyed{75} and you made it rise up again. Therefore, when I am lamenting, do not ignore my words. Who is the one named Duryodhana, born in this lineage? He is a deﬁler of the lineage. He is overcome by greed and you are following his inclination. He does not behave like an arya. He is ungrateful. He has lost his senses because of avarice. His father can see dharma and artha, but he acts contrary to his instructions. The Kurus will be destroyed because of Duryodhana’s deeds. O great king! Act so that the destruction does not occur. O immensely radiant one! Earlier, you created me and Dhritarashtra, like a painter fashions a painting. Do not destroy us now. O mighty-armed one! Do not look at this destruction of the lineage and ignore it, like Prajapati, who creates beings in order to destroy them. With the destruction imminent, if your intelligence has failed you, leave for the forest, with me and Dhritarashtra. Or swiftly bind down the wicked and stupid son of Dhritarashtra, who is extremely evil in his intelligence. Let the kingdom now be protected by the Pandavas. O tiger among kings! Show your favours. A great destruction of the Pandavas, the Kurus and the inﬁnitely energetic kings can be seen.’ Having spoken in this way, Vidura, distressed in his mind, stopped. He was immersed in his thoughts and sighed repeatedly. Then King Subala’s daughter{76}, scared for the lineage, angrily spoke words full of dharma and artha to her evil-minded and violent son Duryodhana, while all the kings looked on. ‘Let the kings who have entered the king’s assembly hall, the brahmarshis and the courtiers listen while I speak about your crimes and those of your evil advisers and followers. This kingdom of the Kurus is ruled through a continuous process of succession. That is the dharma of the lineage, as it has come down to us. With your wicked intelligence and violent deeds, you wish to cause injury to the kingdom of the Kurus. The intelligent Dhritarashtra is established in the kingdom, with his younger brother, the far-sighted Vidura. O Duryodhana! Because of your delusion and desiring to be king, how can you cross both of them? As long as Bhishma is there, the king and the greatly fortunate Kshatta are subservient to him. Since he{77} knows about dharma, the great-souled son of the river does not desire to be a king of men. The kingdom inalienably belonged to Pandu. His sons should now rule, and no one else. This entire kingdom belongs to the Pandavas, because it has descended to them from their ancestors and they will leave it to their sons and grandsons. The intelligent Devavrata is devoted to the truth. He is great-souled and is foremost among the Kurus. We must accept everything that he has said about dharma. We must act according to our own dharma. Let us follow the one whose vow is great{78}. Let the king and Vidura speak. Let us act in accordance with what our well-wishers say. For a very long time, let us hold dharma up in front. Yudhishthira, the son of Dharma, should rule. He has rightfully obtained the kingdom of the Kurus. This has been instructed by King Dhritarashtra and Shantanu’s son has said that this is the most important.’”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "’",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        }
+      }
+    },
+    "810": {
+      "global_number": 810,
+      "local_number": 147,
+      "num_shlokas": 35,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “O lord of men! When Gandhari had spoken thus, Dhritarashtra, lord of men, spoke to Duryodhana in the midst of the kings. ‘O Duryodhana! O son! O fortunate one! Listen to what I am going to tell you and act accordingly, if you wish to respect your father. Soma Prajapati{79} extended the lineage of the Kurus at the beginning. Nahusha’s son, Yayati, was sixth in the line from Soma. He had ﬁve sons, all supreme among rajarshis. The illustrious and immensely energetic Yadu was the eldest. Puru was younger than him and he extended our lineage. He was born from Sharmishtha, the daughter of Vrishaparva. O foremost among the Bharatas! Yadu was the son of Devayani and was the maternal grandson of the inﬁnitely energetic Kavya Shukra{80}. The ancestor of the Yadavas{81} was powerful and was honoured for his valour. But because he was full of insolence and extremely evil-minded, he insulted the kshatriyas{82}. Because he was deluded by his strength and insolence, he did not follow the instructions of his father. The unvanquished one insulted his father and brothers. Yadu was the strongest one in the four corners of the earth. Having subjugated all the kings, he lived in Nagasahrya{83}. His father, Nahusha’s son, Yayati, was enraged. O Gandhari’s son! He cursed him and threw him out of the kingdom. Yayati also angrily cursed his other sons, the brothers who were insolent because of their strength. The best of kings then instated his youngest son, Puru, in the kingdom and he remained devoted to him{84}. Thus, if he is insolent, an eldest son can be deprived of the kingdom. If he serves his seniors, even a youngest one can obtain the kingdom. My father’s grandfather, Pratipa, knew everything about dharma. He was a lord of the earth who was famous in the three worlds. That lion among kings ruled the kingdom in accordance with dharma. Three sons were born to him. They were famous and were like the gods in form. Devapi was the eldest and Bahlika came next. O son! The intelligent Shantanu, my grandfather, was the third. Devapi was supreme among kings and greatly energetic. He was devoted to dharma, truthful and served his father. He was revered by the citizens of the town and the country. He was honoured by the virtuous. He was loved by everyone, the young and the aged. He was generous and devoted to the truth. He was engaged in the welfare of all beings. He obeyed the instructions of his father and also those of the brahmanas. He was the beloved brother of Bahlika and the great-souled Shantanu. Those great-souled ones were extremely fraternal towards each other. However, Devapi possessed a disease of the skin. In due course of time, the aged and best of kings made arrangements for a consecration, in accordance with the sacred texts. The illustrious one performed all the auspicious rites. But all the brahmanas and the elders, together with the citizens of the town and the country, restrained him from consecrating Devapi. When the king heard about the prevention of the instatement, his voice choked with tears. The king sorrowed over his son. He{85} was generous, learned about dharma and devoted to the truth. He was loved by the subjects. However, he was tainted by a disease of the skin. The gods do not approve of a lord of the earth who is inferior in his limbs. Because of this, that best among kings was restrained by those bulls among brahmanas. On seeing that he{86} was distressed and was sorrowing over his son, and died because of this, Devapi resorted to the forest. Bahlika also gave up the kingdom and went to his maternal uncle’s lineage. He abandoned his father and brothers and obtained another prosperous city instead. O king! On Bahlika’s instructions, after his father had died, Shantanu, famous in the world, became the king and ruled the kingdom. O descendant of the Bharata lineage! In the same way, I was the eldest, but was deﬁcient in a limb{87}. After a great deal of reﬂection, the intelligent Pandu barred me from the kingdom. Though he was younger to me, Pandu obtained the kingdom as a king. O destroyer of enemies! On his death, the kingdom belongs to his sons. If I could not obtain the kingdom, how can you desire the kingdom? This kingdom rightfully belongs to the great-souled Prince Yudhishthira. With his great qualities, he will be the protector of the lineage of the Kouravas. He is truthful. He is never distracted. He abides by the sacred texts. He is loved by his friends and is virtuous. He is loved by the subjects and is kind towards his well-wishers. He has mastered his senses and is the protector of righteous ones. Forgiveness, patience, control, uprightness, truthfulness to vows, learning, single-mindedness, compassion towards beings and control— Yudhishthira has all these qualities of a king. You are not the son of a king and you are not an arya in your conduct. You are always greedy and evil-minded towards your friends. You are insolent. How can you hope to seize a kingdom that, according to the line of succession, belongs to another? Devoid of your delusion, give them half of the kingdom, with the vehicles and the attendants. O Indra among men! The remainder will be enough for you to obtain a living, together with your younger brothers.’”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O lord of men! When Gandhari had spoken thus, Dhritarashtra, lord of men, spoke to Duryodhana in the midst of the kings. ‘O Duryodhana! O son! O fortunate one! Listen to what I am going to tell you and act accordingly, if you wish to respect your father. Soma Prajapati{79} extended the lineage of the Kurus at the beginning. Nahusha’s son, Yayati, was sixth in the line from Soma. He had ﬁve sons, all supreme among rajarshis. The illustrious and immensely energetic Yadu was the eldest. Puru was younger than him and he extended our lineage. He was born from Sharmishtha, the daughter of Vrishaparva. O foremost among the Bharatas! Yadu was the son of Devayani and was the maternal grandson of the inﬁnitely energetic Kavya Shukra{80}. The ancestor of the Yadavas{81} was powerful and was honoured for his valour. But because he was full of insolence and extremely evil-minded, he insulted the kshatriyas{82}. Because he was deluded by his strength and insolence, he did not follow the instructions of his father. The unvanquished one insulted his father and brothers. Yadu was the strongest one in the four corners of the earth. Having subjugated all the kings, he lived in Nagasahrya{83}. His father, Nahusha’s son, Yayati, was enraged. O Gandhari’s son! He cursed him and threw him out of the kingdom. Yayati also angrily cursed his other sons, the brothers who were insolent because of their strength. The best of kings then instated his youngest son, Puru, in the kingdom and he remained devoted to him{84}. Thus, if he is insolent, an eldest son can be deprived of the kingdom. If he serves his seniors, even a youngest one can obtain the kingdom. My father’s grandfather, Pratipa, knew everything about dharma. He was a lord of the earth who was famous in the three worlds. That lion among kings ruled the kingdom in accordance with dharma. Three sons were born to him. They were famous and were like the gods in form. Devapi was the eldest and Bahlika came next. O son! The intelligent Shantanu, my grandfather, was the third. Devapi was supreme among kings and greatly energetic. He was devoted to dharma, truthful and served his father. He was revered by the citizens of the town and the country. He was honoured by the virtuous. He was loved by everyone, the young and the aged. He was generous and devoted to the truth. He was engaged in the welfare of all beings. He obeyed the instructions of his father and also those of the brahmanas. He was the beloved brother of Bahlika and the great-souled Shantanu. Those great-souled ones were extremely fraternal towards each other. However, Devapi possessed a disease of the skin. In due course of time, the aged and best of kings made arrangements for a consecration, in accordance with the sacred texts. The illustrious one performed all the auspicious rites. But all the brahmanas and the elders, together with the citizens of the town and the country, restrained him from consecrating Devapi. When the king heard about the prevention of the instatement, his voice choked with tears. The king sorrowed over his son. He{85} was generous, learned about dharma and devoted to the truth. He was loved by the subjects. However, he was tainted by a disease of the skin. The gods do not approve of a lord of the earth who is inferior in his limbs. Because of this, that best among kings was restrained by those bulls among brahmanas. On seeing that he{86} was distressed and was sorrowing over his son, and died because of this, Devapi resorted to the forest. Bahlika also gave up the kingdom and went to his maternal uncle’s lineage. He abandoned his father and brothers and obtained another prosperous city instead. O king! On Bahlika’s instructions, after his father had died, Shantanu, famous in the world, became the king and ruled the kingdom. O descendant of the Bharata lineage! In the same way, I was the eldest, but was deﬁcient in a limb{87}. After a great deal of reﬂection, the intelligent Pandu barred me from the kingdom. Though he was younger to me, Pandu obtained the kingdom as a king. O destroyer of enemies! On his death, the kingdom belongs to his sons. If I could not obtain the kingdom, how can you desire the kingdom? This kingdom rightfully belongs to the great-souled Prince Yudhishthira. With his great qualities, he will be the protector of the lineage of the Kouravas. He is truthful. He is never distracted. He abides by the sacred texts. He is loved by his friends and is virtuous. He is loved by the subjects and is kind towards his well-wishers. He has mastered his senses and is the protector of righteous ones. Forgiveness, patience, control, uprightness, truthfulness to vows, learning, single-mindedness, compassion towards beings and control— Yudhishthira has all these qualities of a king. You are not the son of a king and you are not an arya in your conduct. You are always greedy and evil-minded towards your friends. You are insolent. How can you hope to seize a kingdom that, according to the line of succession, belongs to another? Devoid of your delusion, give them half of the kingdom, with the vehicles and the attendants. O Indra among men! The remainder will be enough for you to obtain a living, together with your younger brothers.’”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "811": {
+      "global_number": 811,
+      "local_number": 148,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “Having been thus addressed by Bhishma, Drona, Vidura, Gandhari and Dhritarashtra, the evil one was not brought to his senses. Not understanding, he angrily arose, his eyes red with rage. Wishing to give up their lives, the kings rushed after him. The king{88} repeatedly instructed the kings, who were bereft of their senses. ‘Go to Kurukshetra. It is Pushya today{89}.’ Driven by destiny, having made Bhishma the general, together with their soldiers, those lords of the earth then cheerfully left. Those lords of the earth have assembled eleven akshouhinis of soldiers. Bhishma is at the forefront, with a palm tree on his standard.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "“Having been thus addressed by Bhishma, Drona, Vidura, Gandhari and Dhritarashtra, the evil one was not brought to his senses. Not understanding, he angrily arose, his eyes red with rage. Wishing to give up their lives, the kings rushed after him. The king{88} repeatedly instructed the kings, who were bereft of their senses. ‘Go to Kurukshetra. It is Pushya today{89}.’ Driven by destiny, having made Bhishma the general, together with their soldiers, those lords of the earth then cheerfully left. Those lords of the earth have assembled eleven akshouhinis of soldiers. Bhishma is at the forefront, with a palm tree on his standard.",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“O lord of the earth! Therefore, do what is appropriate under the circumstances. O king! O descendant of the Bharata lineage! I have repeated the words that were spoken in my presence by Bhishma, Drona, Vidura, Gandhari and Dhritarashtra in the assembly of the Kurus. O king! Hoping for fraternity, I ﬁrst used conciliation, to prevent dissension in the lineage of the Kurus and ensure the welfare of the subjects. When I saw that peace was not acceptable, I resorted to alienation and recounted your deeds, divine and human. When I saw that Suyodhana ignored my words of conciliation, I assembled all the kings and tried to sow seeds of dissension. O descendant of the Bharata lineage! O lord! I showed them extraordinary and terrible manifestations and superhuman exploits. I censured the kings. I denigrated Suyodhana. I repeatedly tried to frighten Radheya and Soubala. I repeatedly recounted the meanness of the sons of Dhritarashtra. Through eloquence and counsel, I tried to create disunity among the kings. Using conciliation again, I spoke to them about gifts, so that a division could be created in the lineage of the Kurus and I could be successful in my objective. I said, ‘The children, all the Pandavas, will abandon their pride and seek refuge with Dhritarashtra, Bhishma and Vidura. Let them give the kingdom to you and let them not remain as lords. Let it be as the king{90}, Gangeya and Vidura have said. Let the entire kingdom be yours, only give up ﬁve villages. O supreme among kings! Surely your father can sustain them.’ Having been spoken to in this way, the evil-minded one was not ready to change his views. For that wicked one, I can see no other means but the fourth one of chastisement{91}. Those lords of the earth have marched out to Kurukshetra, to their perdition. I have told you everything that occurred in the assembly of the Kurus. O Pandava! They will not give up the kingdom without a war. All of them are headed for destruction and are confronting death.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "‘",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O lord of the earth! Therefore, do what is appropriate under the circumstances. O king! O descendant of the Bharata lineage! I have repeated the words that were spoken in my presence by Bhishma, Drona, Vidura, Gandhari and Dhritarashtra in the assembly of the Kurus. O king! Hoping for fraternity, I ﬁrst used conciliation, to prevent dissension in the lineage of the Kurus and ensure the welfare of the subjects. When I saw that peace was not acceptable, I resorted to alienation and recounted your deeds, divine and human. When I saw that Suyodhana ignored my words of conciliation, I assembled all the kings and tried to sow seeds of dissension. O descendant of the Bharata lineage! O lord! I showed them extraordinary and terrible manifestations and superhuman exploits. I censured the kings. I denigrated Suyodhana. I repeatedly tried to frighten Radheya and Soubala. I repeatedly recounted the meanness of the sons of Dhritarashtra. Through eloquence and counsel, I tried to create disunity among the kings. Using conciliation again, I spoke to them about gifts, so that a division could be created in the lineage of the Kurus and I could be successful in my objective. I said, ‘The children, all the Pandavas, will abandon their pride and seek refuge with Dhritarashtra, Bhishma and Vidura. Let them give the kingdom to you and let them not remain as lords. Let it be as the king{90}, Gangeya and Vidura have said. Let the entire kingdom be yours, only give up ﬁve villages. O supreme among kings! Surely your father can sustain them.’ Having been spoken to in this way, the evil-minded one was not ready to change his views. For that wicked one, I can see no other means but the fourth one of chastisement{91}. Those lords of the earth have marched out to Kurukshetra, to their perdition. I have told you everything that occurred in the assembly of the Kurus. O Pandava! They will not give up the kingdom without a war. All of them are headed for destruction and are confronting death.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@krishna",
+              "text": "’",
+              "color": "#6C5CE7",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

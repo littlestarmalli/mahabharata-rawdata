@@ -1,0 +1,79 @@
+{
+  "chapter": 731,
+  "local": 68,
+  "shlokas": 14,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “O Sanjaya! I am asking you. Tell me again about Pundarikaksha. O son{165}! When I know the meanings of his names and his deeds, I will be able to obtain Purushuttoma.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! I am asking you. Tell me again about Pundarikaksha. O son{165}! When I know the meanings of his names and his deeds, I will be able to obtain Purushuttoma.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “I have heard Vasudeva's auspicious names recited. From that, as far as I can make out, Keshava cannot be measured. Because he clothes all beings, because he is the womb of all the gods, he is known as Vasudeva{166}. He is known as Vishnu because he is virile{167}. O descendant of the Bharata lineage! Know that he is known as Madhava because of his silence, his meditation and his yoga{168}. Because he has the essence of everything within himself, and because he killed Madhu, he is known as Madhusudana{169}. The word krishi means the earth, while na means bliss. Since Krishna means the combination of these two, he is the eternal Krishna. Pundarika means the supreme region that is eternal, without decay and is everlasting. Because his nature is like that, he is known as Pundarikaksha. He is Janardana because he oppresses dasyus{170}. Because he never lacks in vigour{171}, because his vigour never diminishes, he is known as Satvata because of vigour. Because he is like a bull, he is known as Vrishabhekshana{172}. Since he has not been born from a mother, the one who is the destroyer of armies is known as Aja{173}. He is self-resplendent and because he controls{174} the gods, he is known as Damodara. Because of his delight and happiness and because he is the lord of happiness and prosperity, he is known as Hrishikesha{175}. Because he bears up heaven and earth in his arms, he is known as Mahabahu{176}. Since he never falls downwards{177}, he is known as Adokshaja. He is known as Narayana because he is the path followed by men{178}. He is Purushottama because he ﬁlls up{179} and destroys again. He is Sarva{180} because he is the origin and the dissolution of everything that exists and does not exist, and because he is a witness to everything. Krishna is established in truth and truth is established in him. Govinda is the truth that is beyond truth and that is the reason he has the name of Satya{181}. The god is known as Vishnu because of his valour. He is known as Jishnu{182} because of his triumphs. He is Ananta{183} because he is eternal. He is Govinda because he knows about the cattle{184}. He can make the unreal appear as real. Thus, he deludes all beings. Such is he, the illustrious one who is always with hermits. He is always based in dharma. The mighty-armed Achyuta will arrive{185} to prevent violence.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I have heard Vasudeva's auspicious names recited. From that, as far as I can make out, Keshava cannot be measured. Because he clothes all beings, because he is the womb of all the gods, he is known as Vasudeva{166}. He is known as Vishnu because he is virile{167}. O descendant of the Bharata lineage! Know that he is known as Madhava because of his silence, his meditation and his yoga{168}. Because he has the essence of everything within himself, and because he killed Madhu, he is known as Madhusudana{169}. The word krishi means the earth, while na means bliss. Since Krishna means the combination of these two, he is the eternal Krishna. Pundarika means the supreme region that is eternal, without decay and is everlasting. Because his nature is like that, he is known as Pundarikaksha. He is Janardana because he oppresses dasyus{170}. Because he never lacks in vigour{171}, because his vigour never diminishes, he is known as Satvata because of vigour. Because he is like a bull, he is known as Vrishabhekshana{172}. Since he has not been born from a mother, the one who is the destroyer of armies is known as Aja{173}. He is self-resplendent and because he controls{174} the gods, he is known as Damodara. Because of his delight and happiness and because he is the lord of happiness and prosperity, he is known as Hrishikesha{175}. Because he bears up heaven and earth in his arms, he is known as Mahabahu{176}. Since he never falls downwards{177}, he is known as Adokshaja. He is known as Narayana because he is the path followed by men{178}. He is Purushottama because he ﬁlls up{179} and destroys again. He is Sarva{180} because he is the origin and the dissolution of everything that exists and does not exist, and because he is a witness to everything. Krishna is established in truth and truth is established in him. Govinda is the truth that is beyond truth and that is the reason he has the name of Satya{181}. The god is known as Vishnu because of his valour. He is known as Jishnu{182} because of his triumphs. He is Ananta{183} because he is eternal. He is Govinda because he knows about the cattle{184}. He can make the unreal appear as real. Thus, he deludes all beings. Such is he, the illustrious one who is always with hermits. He is always based in dharma. The mighty-armed Achyuta will arrive{185} to prevent violence.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

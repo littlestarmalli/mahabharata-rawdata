@@ -1,0 +1,271 @@
+{
+  "chapter": 98,
+  "local": 98,
+  "shlokas": 33,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Jamadagni's son Rama{234} was angry when his father was killed and in his anger, the immensely illustrious one killed the king of the Haihayas{235}. He sliced off Arjuna's 1000 arms. Then he again took up his bow to conquer the world. Using his wonderful weapons, the great-souled descendant of Bhargava used his arrows to exterminate Kshatriyas from the world twenty-one times. Then Kshatriya women everywhere had offspring through Brahmanas who were self-controlled. The Vedas clearly say that a son so born belongs to the one who accepted the hand{236}. With dharma in their minds, they united with the Brahmanas. The world has thus seen the resurgence of the Kshatriyas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Jamadagni's son Rama{234} was angry when his father was killed and in his anger, the immensely illustrious one killed the king of the Haihayas{235}. He sliced off Arjuna's 1000 arms. Then he again took up his bow to conquer the world. Using his wonderful weapons, the great-souled descendant of Bhargava used his arrows to exterminate Kshatriyas from the world twenty-one times. Then Kshatriya women everywhere had offspring through Brahmanas who were self-controlled. The Vedas clearly say that a son so born belongs to the one who accepted the hand{236}. With dharma in their minds, they united with the Brahmanas. The world has thus seen the resurgence of the Kshatriyas.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“In earlier times, there was a famous and wise rishi named Utathya. His wife was named Mamata and he loved her dearly. Utathya's younger brother was the immensely energetic Brihaspati, the priest of the gods. He desired Mamata and sought to unite with her. Mamata told her brother-in-law, who was most eloquent in speech, ‘I am pregnant through your older brother. Therefore, desist. O illustrious Brihaspati! Utathya's son is in my womb and has studied the Vedas and the Vedangas there. Your semen is infallible and, therefore, this is not possible. Do not desire me today.’ At these words, the immensely energetic Brihaspati could not suppress his desire, though he had achieved self-control. The desiring one united with her, though she did not desire him in return. When he spilt his semen, the embryo inside the womb said, ‘O father! There is no room inside for two of us. I was here ﬁrst and you have unnecessarily wasted your semen.’ At this, the illustrious rishi Brihaspati was angry and cursed Utathya's son, who was in the womb. ‘You have spoken at a time that all beings crave for. Therefore, you will enter a long period of darkness.’ From this curse was born the rishi Dirghatama{237}. He was Brihaspati's equal in great deeds and great energy. To extend Utathya's lineage, the famous rishi had sons like Goutama and others, all immensely famous.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“In earlier times, there was a famous and wise rishi named Utathya. His wife was named Mamata and he loved her dearly. Utathya's younger brother was the immensely energetic Brihaspati, the priest of the gods. He desired Mamata and sought to unite with her. Mamata told her brother-in-law, who was most eloquent in speech, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am pregnant through your older brother. Therefore, desist. O illustrious Brihaspati! Utathya's son is in my womb and has studied the Vedas and the Vedangas there. Your semen is infallible and, therefore, this is not possible. Do not desire me today.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At these words, the immensely energetic Brihaspati could not suppress his desire, though he had achieved self-control. The desiring one united with her, though she did not desire him in return. When he spilt his semen, the embryo inside the womb said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O father! There is no room inside for two of us. I was here ﬁrst and you have unnecessarily wasted your semen.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At this, the illustrious rishi Brihaspati was angry and cursed Utathya's son, who was in the womb. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have spoken at a time that all beings crave for. Therefore, you will enter a long period of darkness.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " From this curse was born the rishi Dirghatama{237}. He was Brihaspati's equal in great deeds and great energy. To extend Utathya's lineage, the famous rishi had sons like Goutama and others, all immensely famous.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“But Goutama and the other sons were overcome by greed and delusion. They tied him to wood and threw him into the waters of the Ganga. ‘This man{238} is blind and old. Why should we support him?’ Thinking in this way, the cruel ones returned home. O king! The rishi then ﬂoated along the river, blindly passing many kingdoms on the raft. One day, a king named Bali, who was learned in all aspects of dharma, had come to the water and saw him ﬂoating along in the current. O bull among men{239}! The righteous Bali found his strength in truth. He knew who he was and grasped him, so that he could obtain sons. He said, ‘O illustrious one! Honour me. I have to obtain sons through my wife. Therefore, father sons who are knowledgeable in dharma and artha.’ Thus addressed, the energetic rishi agreed. The king then sent his wife Sudeshna to him. But knowing that he was old and blind, the queen did not go to him. Instead, she demeaned him and sent her ignorant Shudra nurse. The righteous rishi then fathered eleven sons on the Shudra woman, the ﬁrst of whom was named Kakshivat. When he saw Kakshivat and all the other sons studying, the valorous king was delighted and told the rishi, ‘These are mine.’ ‘No,’ said the maharshi and continued, ‘I have fathered Kakshivat and the others on a Shudra woman. Your queen Sudeshna discovered that I was blind and old. In her folly, she insulted me and sent her Shudra nurse to me.’ Bali then paciﬁed that supreme of rishis and again sent his wife Sudeshna to him. Dirghatama felt the queen's limbs and told her, ‘You will have a powerful son who will be devoted to the truth.’ Thus the rajarshi Anga was born from Sudeshna. In this way, many Kshatriyas who were great archers were born from Brahmanas. They were supremely learned in dharma, valorous and had great strength. O mother! Having heard this, you should do as you desire.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“But Goutama and the other sons were overcome by greed and delusion. They tied him to wood and threw him into the waters of the Ganga. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This man{238} is blind and old. Why should we support him?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thinking in this way, the cruel ones returned home. O king! The rishi then ﬂoated along the river, blindly passing many kingdoms on the raft. One day, a king named Bali, who was learned in all aspects of dharma, had come to the water and saw him ﬂoating along in the current. O bull among men{239}! The righteous Bali found his strength in truth. He knew who he was and grasped him, so that he could obtain sons. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Honour me. I have to obtain sons through my wife. Therefore, father sons who are knowledgeable in dharma and artha.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed, the energetic rishi agreed. The king then sent his wife Sudeshna to him. But knowing that he was old and blind, the queen did not go to him. Instead, she demeaned him and sent her ignorant Shudra nurse. The righteous rishi then fathered eleven sons on the Shudra woman, the ﬁrst of whom was named Kakshivat. When he saw Kakshivat and all the other sons studying, the valorous king was delighted and told the rishi, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘These are mine.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘No,’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " said the maharshi and continued, ",
+          "speaker": "@bhishma",
+          "introduces": "said_the_maharshi",
+          "introduces_label": "said the maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have fathered Kakshivat and the others on a Shudra woman. Your queen Sudeshna discovered that I was blind and old. In her folly, she insulted me and sent her Shudra nurse to me.’",
+          "speaker": "said_the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bali then paciﬁed that supreme of rishis and again sent his wife Sudeshna to him. Dirghatama felt the queen's limbs and told her, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You will have a powerful son who will be devoted to the truth.’",
+          "speaker": "said_the_maharshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus the rajarshi Anga was born from Sudeshna. In this way, many Kshatriyas who were great archers were born from Brahmanas. They were supremely learned in dharma, valorous and had great strength. O mother! Having heard this, you should do as you desire.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

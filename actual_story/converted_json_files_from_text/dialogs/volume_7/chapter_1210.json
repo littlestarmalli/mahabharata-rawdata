@@ -1,0 +1,213 @@
+{
+  "chapter": 1210,
+  "local": 60,
+  "shlokas": 33,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “O king! The Kurus{702} were driven away by Karna, whose chariot possessed white horses. Using great arrows, the son of a suta slew the sons of the Panchalas, like a storm dispelling large masses of clouds. With an anjalika arrow, he brought down Janamejaya's charioteer from his chariot and killed his horses. He enveloped Shatanika and Sutasoma with broad-headed arrows and severed their bows. In the battle, he pierced Dhrishtadyumna with six arrows and slew the horses that were on his right ﬂank. The son of a suta next killed Satyaki's horses and also slew Vishoka, the son of Kekaya. When that prince was killed, Ugradhanva, the general of the Kekayas, attacked him. He used many arrows that were ﬁerce and forceful and severely struck Karna's son, Sushena{703}. Karna laughed. Using three arrows that were in the shape of a half-moon, he severed his{704} arms and head. Having lost his life, he fell down from his chariot, like a decaying shala tree that is struck down with an axe. The horses of the foremost among the Shinis{705} had been slain. Sushena, the grandson of a suta, enveloped him with sharp arrows and seemed to be dancing around. However, he was struck by the arrows of Shini's descendant and fell down. When his son was killed, Karna became senseless with rage and wished to kill Shini's descendant, bull among men. He said, ‘O descendant of Shini's lineage! You have been killed.’ He released an arrow that was capable of killing all enemies. Shikhandi severed it with three arrows and struck Karna with three more. Using large arrows, he{706} severed Shikhandi's bow and standard and then pierced Shikhandi with six ﬁerce arrows. He next severed the head of Dhrishtadyumna's son. Adhiratha's great-souled son then mangled Sutasoma with an extremely sharp arrow.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! The Kurus{702} were driven away by Karna, whose chariot possessed white horses. Using great arrows, the son of a suta slew the sons of the Panchalas, like a storm dispelling large masses of clouds. With an anjalika arrow, he brought down Janamejaya's charioteer from his chariot and killed his horses. He enveloped Shatanika and Sutasoma with broad-headed arrows and severed their bows. In the battle, he pierced Dhrishtadyumna with six arrows and slew the horses that were on his right ﬂank. The son of a suta next killed Satyaki's horses and also slew Vishoka, the son of Kekaya. When that prince was killed, Ugradhanva, the general of the Kekayas, attacked him. He used many arrows that were ﬁerce and forceful and severely struck Karna's son, Sushena{703}. Karna laughed. Using three arrows that were in the shape of a half-moon, he severed his{704} arms and head. Having lost his life, he fell down from his chariot, like a decaying shala tree that is struck down with an axe. The horses of the foremost among the Shinis{705} had been slain. Sushena, the grandson of a suta, enveloped him with sharp arrows and seemed to be dancing around. However, he was struck by the arrows of Shini's descendant and fell down. When his son was killed, Karna became senseless with rage and wished to kill Shini's descendant, bull among men. He said, ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O descendant of Shini's lineage! You have been killed.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He released an arrow that was capable of killing all enemies. Shikhandi severed it with three arrows and struck Karna with three more. Using large arrows, he{706} severed Shikhandi's bow and standard and then pierced Shikhandi with six ﬁerce arrows. He next severed the head of Dhrishtadyumna's son. Adhiratha's great-souled son then mangled Sutasoma with an extremely sharp arrow.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “O lion among men! While that tumultuous battle was going on and Dhrishtadyumna's son had been killed, Krishna said, ‘O Partha! He is eliminating the Panchalas. Go and kill Karna.’ Thus addressed, that foremost of men laughed and advanced swiftly on his chariot towards the chariot of Adhiratha's son. The one with excellent arms wished to save those who were frightened and were being killed{707} by that leader of rathas. He stretched Gandiva with a twang that was loud and terrible. He rubbed the bowstring ﬁercely. He suddenly created darkness with his arrows and destroyed elephants, horses, chariots and men. Bhimasena, the brave one among the Pandavas, followed him on his chariot and protected his rear. Those two princes quickly advanced on their chariots towards Karna, releasing arrows at the enemy.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lion among men! While that tumultuous battle was going on and Dhrishtadyumna's son had been killed, Krishna said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Partha! He is eliminating the Panchalas. Go and kill Karna.’",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed, that foremost of men laughed and advanced swiftly on his chariot towards the chariot of Adhiratha's son. The one with excellent arms wished to save those who were frightened and were being killed{707} by that leader of rathas. He stretched Gandiva with a twang that was loud and terrible. He rubbed the bowstring ﬁercely. He suddenly created darkness with his arrows and destroyed elephants, horses, chariots and men. Bhimasena, the brave one among the Pandavas, followed him on his chariot and protected his rear. Those two princes quickly advanced on their chariots towards Karna, releasing arrows at the enemy.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “During that time, the son of a suta fought mightily, crushing the Somakas in the battle. He destroyed large numbers of chariots, horses and elephants and enveloped the directions with his arrows. Uttamouja, Janamejaya, the enraged Yudhamanyu and Shikhandi united with Parshata{708}. They roared loudly and mangled Karna with many arrows. Those ﬁve Panchala rathas attacked Vaikartana Karna extremely well, but were incapable of dislodging him from his chariot, just as the senses cannot overpower a patient and self-controlled person. Karna severed their bows, standards, horses, charioteers, quivers and ﬂags with his arrows and struck each of the ﬁve with arrows. He then roared like a lion. As he struck them and there were the sounds of his bowstring, arrows, palms and the bow, all beings were distressed. They thought that the earth, with its mountains and trees, was being shattered. His bow was like Shakra's bow. Using that, Adhiratha's son shot ﬁerce arrows. He was resplendent in the battle, like the blazing solar disc, surrounded by a garland of rays. He pierced Shikhandi with twelve sharp arrows and the ratha Uttamouja with six. He pierced Yudhamanyu with three sharp arrows and the sons of Somaka and Prishata each with three arrows{709}. O venerable one! In the great battle, those ﬁve maharathas were defeated by the son of a suta. They were rendered immobile by that scorcher of enemies, just as the senses are vanquished by one with a controlled soul. They were submerged in the ocean that was Karna, like distressed merchants on an ocean. Droupadi's son rescued their maternal uncles{710} with well-prepared chariots, like providing boats on an ocean.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“During that time, the son of a suta fought mightily, crushing the Somakas in the battle. He destroyed large numbers of chariots, horses and elephants and enveloped the directions with his arrows. Uttamouja, Janamejaya, the enraged Yudhamanyu and Shikhandi united with Parshata{708}. They roared loudly and mangled Karna with many arrows. Those ﬁve Panchala rathas attacked Vaikartana Karna extremely well, but were incapable of dislodging him from his chariot, just as the senses cannot overpower a patient and self-controlled person. Karna severed their bows, standards, horses, charioteers, quivers and ﬂags with his arrows and struck each of the ﬁve with arrows. He then roared like a lion. As he struck them and there were the sounds of his bowstring, arrows, palms and the bow, all beings were distressed. They thought that the earth, with its mountains and trees, was being shattered. His bow was like Shakra's bow. Using that, Adhiratha's son shot ﬁerce arrows. He was resplendent in the battle, like the blazing solar disc, surrounded by a garland of rays. He pierced Shikhandi with twelve sharp arrows and the ratha Uttamouja with six. He pierced Yudhamanyu with three sharp arrows and the sons of Somaka and Prishata each with three arrows{709}. O venerable one! In the great battle, those ﬁve maharathas were defeated by the son of a suta. They were rendered immobile by that scorcher of enemies, just as the senses are vanquished by one with a controlled soul. They were submerged in the ocean that was Karna, like distressed merchants on an ocean. Droupadi's son rescued their maternal uncles{710} with well-prepared chariots, like providing boats on an ocean.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “The bull among the Shini lineage used his sharp arrows to slice down the many arrows that Karna shot. He struck Karna with sharp and iron arrows and pierced his eldest son{711} with eight arrows. Kripa, Bhoja{712}, your sons and Karna struck him back with sharp arrows. However, the supreme one amongst the Yadu lineage fought with them, like the guardians of the directions ﬁghting with the lords of the daityas. His bow roared continuously and he showered down extremely ﬁerce arrows. Satyaki became invincible, like the midday sun in the autumn sky. Those rathas{713} armoured themselves well and again attacked, desiring to protect the foremost one from the Shini lineage. The rathas from Panchala united in that great battle, like large numbers of Marut surrounding Shakra, when he was afﬂicting the enemy. An extremely terrible encounter commenced between them and those on your side who were engaged in your welfare. It was like an ancient one between gods and asuras and destroyed chariots, horses and elephants. Afﬂicted by many types of weapons, chariots, elephants, horses and foot soldiers wandered around. They struck each other and wavered. They uttered loud wails of lamentation and fell down, deprived of their lives.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The bull among the Shini lineage used his sharp arrows to slice down the many arrows that Karna shot. He struck Karna with sharp and iron arrows and pierced his eldest son{711} with eight arrows. Kripa, Bhoja{712}, your sons and Karna struck him back with sharp arrows. However, the supreme one amongst the Yadu lineage fought with them, like the guardians of the directions ﬁghting with the lords of the daityas. His bow roared continuously and he showered down extremely ﬁerce arrows. Satyaki became invincible, like the midday sun in the autumn sky. Those rathas{713} armoured themselves well and again attacked, desiring to protect the foremost one from the Shini lineage. The rathas from Panchala united in that great battle, like large numbers of Marut surrounding Shakra, when he was afﬂicting the enemy. An extremely terrible encounter commenced between them and those on your side who were engaged in your welfare. It was like an ancient one between gods and asuras and destroyed chariots, horses and elephants. Afﬂicted by many types of weapons, chariots, elephants, horses and foot soldiers wandered around. They struck each other and wavered. They uttered loud wails of lamentation and fell down, deprived of their lives.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “At that time, without any fear, your son, the younger brother of the king{714}, showered arrows and advanced against Bhima. Vrikodara spiritedly encountered him, like a lion leaping on a large ruru deer. The battle between them was superhuman and was like a gambling match, with lives as stakes. They attacked each other ﬁercely and angrily, like Shakra and Shambara in earlier times. They severely struck each other with extremely energetic arrows that were capable of ending lives. They mangled each other, like two mighty elephants that are overcome with sexual desire and seek to indulge in intercourse{715}. With two kshurapra arrows, Vrikodara severed the bow and the standard of your son. He struck him in the forehead with an arrow and severed his charioteer's head from his body. The prince picked up another bow and struck Vrikodara with twelve arrows. He controlled the reins of the horses himself and again rained down arrows on Bhima.” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“At that time, without any fear, your son, the younger brother of the king{714}, showered arrows and advanced against Bhima. Vrikodara spiritedly encountered him, like a lion leaping on a large ruru deer. The battle between them was superhuman and was like a gambling match, with lives as stakes. They attacked each other ﬁercely and angrily, like Shakra and Shambara in earlier times. They severely struck each other with extremely energetic arrows that were capable of ending lives. They mangled each other, like two mighty elephants that are overcome with sexual desire and seek to indulge in intercourse{715}. With two kshurapra arrows, Vrikodara severed the bow and the standard of your son. He struck him in the forehead with an arrow and severed his charioteer's head from his body. The prince picked up another bow and struck Vrikodara with twelve arrows. He controlled the reins of the horses himself and again rained down arrows on Bhima.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

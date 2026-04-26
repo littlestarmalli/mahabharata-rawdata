@@ -1,0 +1,51 @@
+{
+  "name": "Sanatsujata Parva",
+  "subparva_number": 52,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 121
+  },
+  "note": "This section is named after Dhritarashtra�s questioning of the sage Sanatsujata. Sanatsujata instructs Dhritarashtra.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "705": {
+      "chapter_number": 705,
+      "global_number": 705,
+      "local_number": 42,
+      "num_shlokas": 32,
+      "file": "subparva_52_sanatsujata_parva/chapter_705_tagged.json"
+    },
+    "706": {
+      "chapter_number": 706,
+      "global_number": 706,
+      "local_number": 43,
+      "num_shlokas": 37,
+      "file": "subparva_52_sanatsujata_parva/chapter_706_tagged.json"
+    },
+    "707": {
+      "chapter_number": 707,
+      "global_number": 707,
+      "local_number": 44,
+      "num_shlokas": 24,
+      "file": "subparva_52_sanatsujata_parva/chapter_707_tagged.json"
+    },
+    "708": {
+      "chapter_number": 708,
+      "global_number": 708,
+      "local_number": 45,
+      "num_shlokas": 28,
+      "file": "subparva_52_sanatsujata_parva/chapter_708_tagged.json"
+    }
+  }
+}

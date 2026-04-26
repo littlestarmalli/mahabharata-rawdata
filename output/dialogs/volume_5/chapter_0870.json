@@ -1,0 +1,142 @@
+{
+  "chapter": 870,
+  "local": 10,
+  "shlokas": 74,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “Tell me about Bharatavarsha, where this senseless army has gathered, and for which, my son Duryodhana is so avaricious. The sons of Pandu desire it and my mind is immersed in it. O Sanjaya! I am asking you, because you are skilled.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Tell me about Bharatavarsha, where this senseless army has gathered, and for which, my son Duryodhana is so avaricious. The sons of Pandu desire it and my mind is immersed in it. O Sanjaya! I am asking you, because you are skilled.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O king! Listen to my words. The Pandavas are not covetous about this. It is Duryodhana who covets it, and so does Shakuni Soubala. There are other kshatriyas, who are the kings of many countries, who are greedy about Bharatavarsha and cannot tolerate each other. O descendant of the Bharata lineage! I will now describe to you the land that is named after Bharata{96}. O king! This is loved by the god Indra, Vaivasvata Manu{97}, Prithu Vainya>,98 the great-souled Ikshvaku{99}, Yayati{100}, Ambarisha{101}, Mandhata{102}, Nahusha{103}, Muchukunda{104}, Shibi Oushinara{105}, Rishabha{106}, Aila{107}, King Nriga{108} and other powerful kshatriyas. O great king! O Indra among kings! O descendant of the Bharata lineage! O scorcher of enemies! All of them loved Bharata and I will describe this varsha as I have heard it.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Listen to my words. The Pandavas are not covetous about this. It is Duryodhana who covets it, and so does Shakuni Soubala. There are other kshatriyas, who are the kings of many countries, who are greedy about Bharatavarsha and cannot tolerate each other. O descendant of the Bharata lineage! I will now describe to you the land that is named after Bharata{96}. O king! This is loved by the god Indra, Vaivasvata Manu{97}, Prithu Vainya>,98 the great-souled Ikshvaku{99}, Yayati{100}, Ambarisha{101}, Mandhata{102}, Nahusha{103}, Muchukunda{104}, Shibi Oushinara{105}, Rishabha{106}, Aila{107}, King Nriga{108} and other powerful kshatriyas. O great king! O Indra among kings! O descendant of the Bharata lineage! O scorcher of enemies! All of them loved Bharata and I will describe this varsha as I have heard it.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O king! Listen as I tell you what you have asked. Mahendra, Malaya, Shuktiman, Rikshavan, Vindhya, Pariyatra—these are the seven noble mountains{109}. O king! Near them, there are thousands of other mountains that are unknown. They are full of substance and large, with beautiful foothills. There are other unknown and inferior mountains, inhabited by those who have inferior means of subsistence. O Kouravya! O lord! There are aryas and mlecchas{110} and men from mixed lineage. O lord of men! O Kourava! They drink water from the rivers—the great Ganga, Sindhu, Sarasvati, Godavari, Narmada, the great river Bahuda{111}, Shatadru{112}, Chandrabhaga{113}, the great river Yamuna, Drishadvati{114}, Vipasha{115}, Vipapa, Sthulavaluka, the river Vetravati{116}, the downwardﬂowing Krishnavena{117}, Iravati{118}, Vitasta{119}, Payoshni{120}, Devika{121}, Vedasmriti, Vetasini, Trideva, Ikshumalini, Karishini, Chitravaha, the downward-ﬂowing Chitrasena, Gomati, Dhutapapa, the great river Vandana, Koushiki{122}, Trideva{123}, Kritya, Vichitra, Lohatarini, Rathastha, Shatakumbha, Sarayu{124}, Charmanvati{125}, Vetravati{126}, Hastisoma, Disha, Shatavari, Payoshni{127}, Bhaimarathi, Kaveri, Chuluka, Vapi, Shatabala, Nichira, Mahita, Suproyaga, Pavitra, Kundala, Sindhu{128}, Vajini, Puramalini, Purvabhirama, Vira, Bhima{129}, Oghavati{130}, Palashini, Papahara, Mahendra, Pippalavati, Parishena, Asikni{131}, Sarala, Bharamardini, Puruhi, Pravara, Mena, Mogha, Ghritavati, Dhumatyamati, Krishna, Suchi, Chhavi, Sadanira, Adhrishya, the great river Kushadhara, Shashikanta, Shiva, Viravati, Vastu, Suvastu, Gouri, Kampana, Hiranvati, Hiranvati{132}, Chitravati, the downward-ﬂowing Chitrasena{133}, Rathachitra, Jyotiratha, Vishvamitra, Kapinjala, Upendra, Bahula, Kuchara, Ambuvahini, Vainandi, Pinjala, Venna{134}, the great river Tungavena, Vidisha, Krishnavenna{135}, Tamra, Kapila, Shalu, Suvama, Vedashva, the great river Harisrava, Shighra, Picchila, the downward-ﬂowing Bharadvaji, the downward-ﬂowing Koushiki{136}, Shona{137}, Bahuda{138}, Chandana{139}, Durgamanta, Shila, Brahmamedhya, Brihadvati, Charaksha, Mahirohi, Jambunadi, Sunasa, Tamasa{140}, Dasi, Trasamanya, Varanasi{141}, Lola, Adhritakara, the great river Purnasha, Manavi and the great river Purnasha. O lord of men! O descendant of the Bharata lineage! There are others—Sadaniramaya, Vritya, Mandaga, Mandavahini, Brahmani, Mahagouri, Durga, Chitropala, Chitrabarha, Manju, Makaravahini, Mandakini{142}, Vaitarani{143}, the great river Koka, Shuktimati, Maranya, Pushpaveni, Utpalavati, Lohitya{144}, Karatoya{145}, Vrishabhangini, Kumari, Rishikulya, Brahmakulya, Sarasvati, Supunya, Sarva and the revered Ganga. O lord of men! All of these are mothers of the universe. All of them are extremely strong{146}. Other than these, there are hundreds and thousands of other rivers. O king! To the extent I remember, I have described these rivers to you.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O king! Listen as I tell you what you have asked. Mahendra, Malaya, Shuktiman, Rikshavan, Vindhya, Pariyatra—these are the seven noble mountains{109}. O king! Near them, there are thousands of other mountains that are unknown. They are full of substance and large, with beautiful foothills. There are other unknown and inferior mountains, inhabited by those who have inferior means of subsistence. O Kouravya! O lord! There are aryas and mlecchas{110} and men from mixed lineage. O lord of men! O Kourava! They drink water from the rivers—the great Ganga, Sindhu, Sarasvati, Godavari, Narmada, the great river Bahuda{111}, Shatadru{112}, Chandrabhaga{113}, the great river Yamuna, Drishadvati{114}, Vipasha{115}, Vipapa, Sthulavaluka, the river Vetravati{116}, the downwardﬂowing Krishnavena{117}, Iravati{118}, Vitasta{119}, Payoshni{120}, Devika{121}, Vedasmriti, Vetasini, Trideva, Ikshumalini, Karishini, Chitravaha, the downward-ﬂowing Chitrasena, Gomati, Dhutapapa, the great river Vandana, Koushiki{122}, Trideva{123}, Kritya, Vichitra, Lohatarini, Rathastha, Shatakumbha, Sarayu{124}, Charmanvati{125}, Vetravati{126}, Hastisoma, Disha, Shatavari, Payoshni{127}, Bhaimarathi, Kaveri, Chuluka, Vapi, Shatabala, Nichira, Mahita, Suproyaga, Pavitra, Kundala, Sindhu{128}, Vajini, Puramalini, Purvabhirama, Vira, Bhima{129}, Oghavati{130}, Palashini, Papahara, Mahendra, Pippalavati, Parishena, Asikni{131}, Sarala, Bharamardini, Puruhi, Pravara, Mena, Mogha, Ghritavati, Dhumatyamati, Krishna, Suchi, Chhavi, Sadanira, Adhrishya, the great river Kushadhara, Shashikanta, Shiva, Viravati, Vastu, Suvastu, Gouri, Kampana, Hiranvati, Hiranvati{132}, Chitravati, the downward-ﬂowing Chitrasena{133}, Rathachitra, Jyotiratha, Vishvamitra, Kapinjala, Upendra, Bahula, Kuchara, Ambuvahini, Vainandi, Pinjala, Venna{134}, the great river Tungavena, Vidisha, Krishnavenna{135}, Tamra, Kapila, Shalu, Suvama, Vedashva, the great river Harisrava, Shighra, Picchila, the downward-ﬂowing Bharadvaji, the downward-ﬂowing Koushiki{136}, Shona{137}, Bahuda{138}, Chandana{139}, Durgamanta, Shila, Brahmamedhya, Brihadvati, Charaksha, Mahirohi, Jambunadi, Sunasa, Tamasa{140}, Dasi, Trasamanya, Varanasi{141}, Lola, Adhritakara, the great river Purnasha, Manavi and the great river Purnasha. O lord of men! O descendant of the Bharata lineage! There are others—Sadaniramaya, Vritya, Mandaga, Mandavahini, Brahmani, Mahagouri, Durga, Chitropala, Chitrabarha, Manju, Makaravahini, Mandakini{142}, Vaitarani{143}, the great river Koka, Shuktimati, Maranya, Pushpaveni, Utpalavati, Lohitya{144}, Karatoya{145}, Vrishabhangini, Kumari, Rishikulya, Brahmakulya, Sarasvati, Supunya, Sarva and the revered Ganga. O lord of men! All of these are mothers of the universe. All of them are extremely strong{146}. Other than these, there are hundreds and thousands of other rivers. O king! To the extent I remember, I have described these rivers to you.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“After this, listen to me as I recount the names of countries. O descendant of the Bharata lineage! They are Kuru, Panchala, Shalva, Madreya, Jangala, Shurasena, Kalinga, Bodha, Mouka, Matsya, Sukuta, Soubala, Kuntala, Kashi, Koshala, Chedi, Vatsa, Karusha, Bhoja, Sindhu, Pulinda, Uttamouja, Dasharna, Mekala, Utkala, Panchala, Koushija, Ekaprishtha, Yugandhara, Soudha, Madra, Bhujinga, Kashi{147}, Parakashi, Jathara, Kukkusha, Sudasharna, Kunti, Avanti, Parakunti, Govinda, Mandaka, Shanda, Vidarbha, Upavasika, Ashmaka, Pamsurashtra, Goparashtra, Panitaka, Adirashtra, Sukutta, Balirashtra, Kerala{148}, Vanarasya, Pravaha, Vakra, Vakrabhaya, Shaka, Videha, Magadha, Suhma, Vijaya, Anga, Vanga, Kalinga, Yakrillomana, Malla, Sudeshna, Prahuta, Mahisha, Karshika, Vahika, Vatadhana, Abhira, Kalatoya, Aparandhra, Shudra, Pahlava, Charmakhandika, Atavi, Shabara, Marubhouma, Marisha, Upavrisha, Anupavrisha, Surashtra, Kekaya, Kuttaparanta, Dvaidheya, Kaksha, Samudranishkuta and Andhra. O king! O lord of men! There are other mountainous regions and regions on the outside of the mountains—Angamalada, Magadha, Manavarjaka, Mahyuttara, Pravrisheya, Bhargama, Pundra, Bharga, Kirata, Sudoshna, Pramuda, Shaka, Nishada, Nishadha, Anarta, Nairrita, Dugula, Pratimatsya, Kushala, Kunata, Tiragraha, Taratoya, Rajika, Ramyakagana, Tilaka, Parasika, Madhumanta, Prakutsaka, Kashmira, Sindhu, Souvira, Gandhara, Darshaka, Abhisara, Kuluta, Shaibala, Bahlika, Darvika, Sakacha, Darva, Vataja, Amaratha, Uraga, Bahuvadya, Kouravya, Sudamana, Sumallika, Vaghra, Karisha, Kashi{149}, Kulinda, Upatyaka, Vanayu, Dashaparshva, Romana, Kushabindu, Kaccha, Gopalakaccha, Langala, Paravallaka, Kirata, Barbara, Siddha, Videha{150}, Tamralingaka, Oushtra, Pundra, Sairandhra, Parvatiya and Marisha. O bull among the Bharata lineage! There are other countries to the south—Dravida, Kerala{151}, Prachya, Bhushika, Vanavasina, Unnatyaka, Mahishaka, Vikalpa, Bhushaka, Karnika, Kuntika, Soudrida, Nalakalaka, Koukuttaka, Chola, Konkana, Malavana, Samanga, Kopana, Kukura, Angadamarisha, Dhvajini, Utsava, Sanketa, Trigarta, Sarvaseni, Tryanga, Kekaraka, Proshtha, Parasancharaka, Vindhya, Pulaka, Pulinda, Kalkala, Malaka, Mallaka, Paravartaka, Kulinda, Kulika, Karantha, Kuraka, Mushaka, Stanavala, Satiya, Pattipanjaka, Adidaya, Sirala, Stuvaka, Stanapa, Hrishividharbha, Kantika, Tangana and Paratangana. O supreme among the Bharata lineage! There are other mleccha people to the north—Yavana, Kamboja, Daruna, other mleccha people, Sakshadruha, Kuntala, Huna, Parataka, Maradha, China and Dashamalika. These are inhabited by others born from kshatriya, vaishya and shudra lineages. There are shudra-abhiras, Daradas, Kashmiras, Pashus, Svashikas, Tukharas, Pallavas, Girigahvaras, Atreyas, Bharadvajas, Stanayoshikas, Oupakas, Kalingas, different races of kiratas{152}, Tamaras, Hamsamargas and Karabhanjakas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“After this, listen to me as I recount the names of countries. O descendant of the Bharata lineage! They are Kuru, Panchala, Shalva, Madreya, Jangala, Shurasena, Kalinga, Bodha, Mouka, Matsya, Sukuta, Soubala, Kuntala, Kashi, Koshala, Chedi, Vatsa, Karusha, Bhoja, Sindhu, Pulinda, Uttamouja, Dasharna, Mekala, Utkala, Panchala, Koushija, Ekaprishtha, Yugandhara, Soudha, Madra, Bhujinga, Kashi{147}, Parakashi, Jathara, Kukkusha, Sudasharna, Kunti, Avanti, Parakunti, Govinda, Mandaka, Shanda, Vidarbha, Upavasika, Ashmaka, Pamsurashtra, Goparashtra, Panitaka, Adirashtra, Sukutta, Balirashtra, Kerala{148}, Vanarasya, Pravaha, Vakra, Vakrabhaya, Shaka, Videha, Magadha, Suhma, Vijaya, Anga, Vanga, Kalinga, Yakrillomana, Malla, Sudeshna, Prahuta, Mahisha, Karshika, Vahika, Vatadhana, Abhira, Kalatoya, Aparandhra, Shudra, Pahlava, Charmakhandika, Atavi, Shabara, Marubhouma, Marisha, Upavrisha, Anupavrisha, Surashtra, Kekaya, Kuttaparanta, Dvaidheya, Kaksha, Samudranishkuta and Andhra. O king! O lord of men! There are other mountainous regions and regions on the outside of the mountains—Angamalada, Magadha, Manavarjaka, Mahyuttara, Pravrisheya, Bhargama, Pundra, Bharga, Kirata, Sudoshna, Pramuda, Shaka, Nishada, Nishadha, Anarta, Nairrita, Dugula, Pratimatsya, Kushala, Kunata, Tiragraha, Taratoya, Rajika, Ramyakagana, Tilaka, Parasika, Madhumanta, Prakutsaka, Kashmira, Sindhu, Souvira, Gandhara, Darshaka, Abhisara, Kuluta, Shaibala, Bahlika, Darvika, Sakacha, Darva, Vataja, Amaratha, Uraga, Bahuvadya, Kouravya, Sudamana, Sumallika, Vaghra, Karisha, Kashi{149}, Kulinda, Upatyaka, Vanayu, Dashaparshva, Romana, Kushabindu, Kaccha, Gopalakaccha, Langala, Paravallaka, Kirata, Barbara, Siddha, Videha{150}, Tamralingaka, Oushtra, Pundra, Sairandhra, Parvatiya and Marisha. O bull among the Bharata lineage! There are other countries to the south—Dravida, Kerala{151}, Prachya, Bhushika, Vanavasina, Unnatyaka, Mahishaka, Vikalpa, Bhushaka, Karnika, Kuntika, Soudrida, Nalakalaka, Koukuttaka, Chola, Konkana, Malavana, Samanga, Kopana, Kukura, Angadamarisha, Dhvajini, Utsava, Sanketa, Trigarta, Sarvaseni, Tryanga, Kekaraka, Proshtha, Parasancharaka, Vindhya, Pulaka, Pulinda, Kalkala, Malaka, Mallaka, Paravartaka, Kulinda, Kulika, Karantha, Kuraka, Mushaka, Stanavala, Satiya, Pattipanjaka, Adidaya, Sirala, Stuvaka, Stanapa, Hrishividharbha, Kantika, Tangana and Paratangana. O supreme among the Bharata lineage! There are other mleccha people to the north—Yavana, Kamboja, Daruna, other mleccha people, Sakshadruha, Kuntala, Huna, Parataka, Maradha, China and Dashamalika. These are inhabited by others born from kshatriya, vaishya and shudra lineages. There are shudra-abhiras, Daradas, Kashmiras, Pashus, Svashikas, Tukharas, Pallavas, Girigahvaras, Atreyas, Bharadvajas, Stanayoshikas, Oupakas, Kalingas, different races of kiratas{152}, Tamaras, Hamsamargas and Karabhanjakas.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O lord! I have only given brief indications about these countries. If the earth and its qualities and strengths are properly used, it becomes like a milch cow that yields objects of desires and leads to the great fruit of the three objectives{153}. The brave kings who know about dharma and artha are covetous of these. Because of greed for these riches, they have readily agreed to give up their lives in battle. The earth is the refuge and is desired by those who have the bodies of gods and men. O foremost among the Bharata lineage! The kings desire to enjoy the earth and have become like dogs that are trying to snatch meat from each other. Their desires will never be satisﬁed. O king! It is for this reason that the Kurus and the Pandavas have tried to obtain the possession of the earth through conciliation, gifts, dissension and chastisement{154}. O bull among men! If the earth is looked after well, she becomes the father, the mother, the son and heaven for all beings.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O lord! I have only given brief indications about these countries. If the earth and its qualities and strengths are properly used, it becomes like a milch cow that yields objects of desires and leads to the great fruit of the three objectives{153}. The brave kings who know about dharma and artha are covetous of these. Because of greed for these riches, they have readily agreed to give up their lives in battle. The earth is the refuge and is desired by those who have the bodies of gods and men. O foremost among the Bharata lineage! The kings desire to enjoy the earth and have become like dogs that are trying to snatch meat from each other. Their desires will never be satisﬁed. O king! It is for this reason that the Kurus and the Pandavas have tried to obtain the possession of the earth through conciliation, gifts, dissension and chastisement{154}. O bull among men! If the earth is looked after well, she becomes the father, the mother, the son and heaven for all beings.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

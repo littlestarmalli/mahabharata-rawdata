@@ -1,0 +1,49 @@
+{
+  "chapter_number": 306,
+  "global_number": 306,
+  "local_number": 9,
+  "num_shlokas": 12,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Vyasa said, “O immensely wise Dhritarashtra! Listen to my words. I will tell you what will bring supreme welfare to all the Kouravas. O mighty-armed one! It does not please me that the Pandavas have gone to the forest and that they have been deceitfully defeated by Duryodhana’s followers. O descendant of the Bharata lineage! After the completion of thirteen years, they will remember their oppression and in anger, unleash venom on the Kouravas. For the sake of the kingdom, why is your evil-souled and evil-minded son always angry? Why does he want to kill the Pandavas? Restrain ﬁnally the deluded one. Bring your son to the path of paciﬁcation. In trying to kill the ones who now live in the forest, he will be freed from his own life. Do what the wise Vidura has said. And Bhishma, and we, and Kripa, and Drona and other wise ones have told you. O immensely intelligent one! War with one’s relatives is reprehensible. O king! This is not dharma, nor is it the way to fame. Refrain from it. O descendant of the Bharata lineage! O king! Such is his obsession with the Pandavas, that if it is ignored, great disaster will follow. Or let your evil-souled son go to the forest. O king! Let him live with the Pandavas, alone and without allies. O lord of men! If from this association affection towards the Pandavas results in your son, you will have succeeded in your task. O great king! It has been said that the nature instilled in a man at birth does not leave him before his death. What do Bhishma, Drona and Vidura think? What about you? What is right must be done immediately, before the objective becomes impossible.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vyasa said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vyasa",
+          "text": "“O immensely wise Dhritarashtra! Listen to my words. I will tell you what will bring supreme welfare to all the Kouravas. O mighty-armed one! It does not please me that the Pandavas have gone to the forest and that they have been deceitfully defeated by Duryodhana’s followers. O descendant of the Bharata lineage! After the completion of thirteen years, they will remember their oppression and in anger, unleash venom on the Kouravas. For the sake of the kingdom, why is your evil-souled and evil-minded son always angry? Why does he want to kill the Pandavas? Restrain ﬁnally the deluded one. Bring your son to the path of paciﬁcation. In trying to kill the ones who now live in the forest, he will be freed from his own life. Do what the wise Vidura has said. And Bhishma, and we, and Kripa, and Drona and other wise ones have told you. O immensely intelligent one! War with one’s relatives is reprehensible. O king! This is not dharma, nor is it the way to fame. Refrain from it. O descendant of the Bharata lineage! O king! Such is his obsession with the Pandavas, that if it is ignored, great disaster will follow. Or let your evil-souled son go to the forest. O king! Let him live with the Pandavas, alone and without allies. O lord of men! If from this association affection towards the Pandavas results in your son, you will have succeeded in your task. O great king! It has been said that the nature instilled in a man at birth does not leave him before his death. What do Bhishma, Drona and Vidura think? What about you? What is right must be done immediately, before the objective becomes impossible.”",
+          "color": "#FFBF69",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

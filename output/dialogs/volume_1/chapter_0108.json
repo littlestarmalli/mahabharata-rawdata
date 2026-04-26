@@ -1,0 +1,85 @@
+{
+  "chapter": 108,
+  "local": 108,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya said, ‘O, lord! Recount to me the names of Dhritarashtra's sons, beginning with the eldest, in the order of their birth.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O, lord! Recount to me the names of Dhritarashtra's sons, beginning with the eldest, in the order of their birth.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Duhshala, Jalasandha, Sama, Saha, Vinda, Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna, Vivimshati, Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma, Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara, Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita, Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta, Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu, Vyudhoru, Kanakadhvaja, Kundashi and Viraja. O king! Over and above the hundred, Duhshala was the daughter. I have recounted the names of the one hundred, in accordance with the order of their birth.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Duhshala, Jalasandha, Sama, Saha, Vinda, Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna, Vivimshati, Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma, Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara, Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita, Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta, Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu, Vyudhoru, Kanakadhvaja, Kundashi and Viraja. O king! Over and above the hundred, Duhshala was the daughter. I have recounted the names of the one hundred, in accordance with the order of their birth.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O king! Know that they were all brave and unrivalled charioteers. They were all skilled in battle, all knowledgeable in the Vedas and wise in the ways of ruling. They were skilled in the science of relationships and were radiant in knowledge. O lord of the earth! When the time was right, Dhritarashtra considered the matter carefully and married them to wives who were their equals. O descendant of the Bharata lineage! With the permission of Subala's daughter, the king married Duhshala to Jayadratha, the king of Sindhu.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Know that they were all brave and unrivalled charioteers. They were all skilled in battle, all knowledgeable in the Vedas and wise in the ways of ruling. They were skilled in the science of relationships and were radiant in knowledge. O lord of the earth! When the time was right, Dhritarashtra considered the matter carefully and married them to wives who were their equals. O descendant of the Bharata lineage! With the permission of Subala's daughter, the king married Duhshala to Jayadratha, the king of Sindhu.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

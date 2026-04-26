@@ -1,0 +1,107 @@
+{
+  "name": "Khandava-daha Parva",
+  "subparva_number": 19,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 12,
+    "num_shlokas": 344
+  },
+  "note": "Chaper 279: 40 shlokas The word daha means to burn and, as a noun, also means a fire or a con?agration in the forest. So this parva is about the burning of the Khandava forest by Arjuna and Krishna. It has also stories of the survivors, Ashvasena, Maya and the Sharngaka birds.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "214": {
+      "chapter_number": 214,
+      "global_number": 214,
+      "local_number": 214,
+      "num_shlokas": 32,
+      "file": "subparva_19_khandava_daha_parva/chapter_214_tagged.json"
+    },
+    "215": {
+      "chapter_number": 215,
+      "global_number": 215,
+      "local_number": 215,
+      "num_shlokas": 19,
+      "file": "subparva_19_khandava_daha_parva/chapter_215_tagged.json"
+    },
+    "216": {
+      "chapter_number": 216,
+      "global_number": 216,
+      "local_number": 216,
+      "num_shlokas": 34,
+      "file": "subparva_19_khandava_daha_parva/chapter_216_tagged.json"
+    },
+    "217": {
+      "chapter_number": 217,
+      "global_number": 217,
+      "local_number": 217,
+      "num_shlokas": 22,
+      "file": "subparva_19_khandava_daha_parva/chapter_217_tagged.json"
+    },
+    "218": {
+      "chapter_number": 218,
+      "global_number": 218,
+      "local_number": 218,
+      "num_shlokas": 50,
+      "file": "subparva_19_khandava_daha_parva/chapter_218_tagged.json"
+    },
+    "219": {
+      "chapter_number": 219,
+      "global_number": 219,
+      "local_number": 219,
+      "num_shlokas": 40,
+      "file": "subparva_19_khandava_daha_parva/chapter_219_tagged.json"
+    },
+    "220": {
+      "chapter_number": 220,
+      "global_number": 220,
+      "local_number": 220,
+      "num_shlokas": 32,
+      "file": "subparva_19_khandava_daha_parva/chapter_220_tagged.json"
+    },
+    "221": {
+      "chapter_number": 221,
+      "global_number": 221,
+      "local_number": 221,
+      "num_shlokas": 21,
+      "file": "subparva_19_khandava_daha_parva/chapter_221_tagged.json"
+    },
+    "222": {
+      "chapter_number": 222,
+      "global_number": 222,
+      "local_number": 222,
+      "num_shlokas": 18,
+      "file": "subparva_19_khandava_daha_parva/chapter_222_tagged.json"
+    },
+    "223": {
+      "chapter_number": 223,
+      "global_number": 223,
+      "local_number": 223,
+      "num_shlokas": 25,
+      "file": "subparva_19_khandava_daha_parva/chapter_223_tagged.json"
+    },
+    "224": {
+      "chapter_number": 224,
+      "global_number": 224,
+      "local_number": 224,
+      "num_shlokas": 32,
+      "file": "subparva_19_khandava_daha_parva/chapter_224_tagged.json"
+    },
+    "225": {
+      "chapter_number": 225,
+      "global_number": 225,
+      "local_number": 225,
+      "num_shlokas": 19,
+      "file": "subparva_19_khandava_daha_parva/chapter_225_tagged.json"
+    }
+  }
+}

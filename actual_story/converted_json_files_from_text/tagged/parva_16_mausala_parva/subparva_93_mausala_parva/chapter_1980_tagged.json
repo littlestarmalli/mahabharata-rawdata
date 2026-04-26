@@ -1,0 +1,205 @@
+{
+  "chapter_number": 1980,
+  "global_number": 1980,
+  "local_number": 2,
+  "num_shlokas": 20,
+  "paragraphs": {
+    "1": {
+      "raw": "Janamejaya asked, ‘O illustrious one! While Vasudeva looked on, how were the Andhakas, the Vrishnis and the maharatha Bhojas destroyed?’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Janamejaya asked,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘O illustrious one! While Vasudeva looked on, how were the Andhakas, the Vrishnis and the maharatha Bhojas destroyed?’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "Vaishampayana replied, ‘After thirty-six years passed, there was a great destruction of the Vrishnis. Goaded by destiny, they killed each other with clubs.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana replied,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘After thirty-six years passed, there was a great destruction of the Vrishnis. Goaded by destiny, they killed each other with clubs.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "Janamejaya asked, ‘Who cursed the brave Vrishnis, Andhakas and Bhojas and caused their destruction? O best of brahmanas! Tell me in detail.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Janamejaya asked,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Who cursed the brave Vrishnis, Andhakas and Bhojas and caused their destruction? O best of brahmanas! Tell me in detail.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "4": {
+      "raw": "Vaishampayana said, ‘One day, those brave ones, Sarana and the others{5}, saw Vishvamitra, Kanva and Narada, store of austerities, when they came to Dvaraka. They placed Samba ahead of them and dressed him up as a woman. Goaded by the rod of destiny, they approached them and said, “This is the wife of the inﬁnitely energetic Babhru and desires a son. O rishis! O virtuous ones! Do you know how she can give birth?” O king! Speaking in this way, they sought to deceive those brahmanas. O lord of men! Listen to what those sages said in reply. “Vasudeva’s son, Samba, will give birth to a terrible and iron club for the destruction of the Vrishnis and the Andhakas. You are evil in conduct, cruel and insolent. With the exception of Rama and Janardana, you will exterminate your entire lineage. The one with the plough as his weapon{6} will go to the ocean and cast aside his handsome body there. When the great-souled Krishna is lying down on the ground, Jara will pierce him.” They spoke in this way to the evil-souled ones who had tried to deceive them. The eyes of the sages were red with rage and they glanced towards each other. Having said this, the sages went off to see Keshava.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘One day, those brave ones, Sarana and the others{5}, saw Vishvamitra, Kanva and Narada, store of austerities, when they came to Dvaraka. They placed Samba ahead of them and dressed him up as a woman.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Goaded by the rod of destiny, they approached them and said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@by_the_rod",
+          "text": "“This is the wife of the inﬁnitely energetic Babhru and desires a son. O rishis! O virtuous ones! Do you know how she can give birth?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O king! Speaking in this way, they sought to deceive those brahmanas.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "O lord of men! Listen to what those sages said in reply",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@o_lord_of_men",
+          "text": "“Vasudeva’s son, Samba, will give birth to a terrible and iron club for the destruction of the Vrishnis and the Andhakas. You are evil in conduct, cruel and insolent. With the exception of Rama and Janardana, you will exterminate your entire lineage. The one with the plough as his weapon{6} will go to the ocean and cast aside his handsome body there. When the great-souled Krishna is lying down on the ground, Jara will pierce him.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "They spoke in this way to the evil-souled ones who had tried to deceive them. The eyes of the sages were red with rage and they glanced towards each other. Having said this, the sages went off to see Keshava.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Madhusudana told the Vrishnis what he had heard. The intelligent one knew about the end and told them that it would indeed happen in this way. Having told them this, Hrishikesha again entered his own house. The lord of the universe did not desire that the end should come about in any other way. Next day, Samba gave birth to a club. This was for the destruction of the Vrishnis and the Andhakas and looked like Yama’s giant messenger{7}. Because of the terrible curse, he gave birth to this and this was reported to the king{8}. The king was distressed and instructed that this should be crushed into tiny fragments. On the instructions of the king, men ﬂung these into the ocean. Ahuka’s instructions were proclaimed throughout the city. “From today, for all the residents of the city, in the houses of the Vrishnis and the Andhakas, there will be no drinking of liquor. If there is any man who does not listen to this and prepares liquor, he will himself be impaled alive on a stake and so will his relatives.” Out of fear for the king, everyone followed this rule. The men obeyed the commands of the great-souled king.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Madhusudana told the Vrishnis what he had heard. The intelligent one knew about the end and told them that it would indeed happen in this way. Having told them this, Hrishikesha again entered his own house. The lord of the universe did not desire that the end should come about in any other way. Next day, Samba gave birth to a club. This was for the destruction of the Vrishnis and the Andhakas and looked like Yama’s giant messenger{7}. Because of the terrible curse, he gave birth to this and this was reported to the king{8}. The king was distressed and instructed that this should be crushed into tiny fragments. On the instructions of the king, men ﬂung these into the ocean. Ahuka’s instructions were proclaimed throughout the city.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“From today, for all the residents of the city, in the houses of the Vrishnis and the Andhakas, there will be no drinking of liquor. If there is any man who does not listen to this and prepares liquor, he will himself be impaled alive on a stake and so will his relatives.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Out of fear for the king, everyone followed this rule. The men obeyed the commands of the great-souled king.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

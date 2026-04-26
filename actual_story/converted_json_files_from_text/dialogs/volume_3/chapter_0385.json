@@ -1,0 +1,129 @@
+{
+  "chapter": 385,
+  "local": 88,
+  "shlokas": 30,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhoumya said, “O tiger among kings! I will now describe to you the sacred spots and purifying places in the northern direction. O Pandava! The sacred Sarasvati ﬂows towards the ocean, with many pools{354} and adorned with groves. There is the immensely swift Yamuna. There is also the sacred and auspicious tirtha Plakshavatarana. After undertaking a sacriﬁce to Sarasvati, brahmanas performed their ablutions there. O unblemished one! O descendant of the Bharata lineage! There is the sacred, famous, divine and auspicious Agnishira. Sahadeva sacriﬁced there, after throwing the sacriﬁcial peg{355}. O Yudhishthira! It is because of this reason that Indra chanted a verse, which is still prevalent in the world and is sung by brahmanas. ‘The ﬁres that Sahadeva lit along the Yamuna were one crore{356} and the gifts were hundreds of thousands.’ It was there that King Bharata, the immensely famous emperor, performed thirty-ﬁve horse sacriﬁces. O son! We have heard that Sarakasta, who satisﬁed the wishes of brahmanas in ancient times, has an extremely holy and famous hermitage there. O Partha! O great king! The river Sarasvati is always worshipped by those who are virtuous. In ancient times, the Valakhilya rishis performed sacriﬁces there. O Yudhishthira! The most sacred and famous Drishadvati is there. O lord of men! O supreme among the Bharata lineage! The immensely sacred Vaivarnya and Varna, learned in the Vedas, learned in the rites of the Vedas and wise in the knowledge that is in the Vedas, always performed many sacred sacriﬁces there.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhoumya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhoumya",
+          "introduces_label": "Dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O tiger among kings! I will now describe to you the sacred spots and purifying places in the northern direction. O Pandava! The sacred Sarasvati ﬂows towards the ocean, with many pools{354} and adorned with groves. There is the immensely swift Yamuna. There is also the sacred and auspicious tirtha Plakshavatarana. After undertaking a sacriﬁce to Sarasvati, brahmanas performed their ablutions there. O unblemished one! O descendant of the Bharata lineage! There is the sacred, famous, divine and auspicious Agnishira. Sahadeva sacriﬁced there, after throwing the sacriﬁcial peg{355}. O Yudhishthira! It is because of this reason that Indra chanted a verse, which is still prevalent in the world and is sung by brahmanas. ",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The ﬁres that Sahadeva lit along the Yamuna were one crore{356} and the gifts were hundreds of thousands.’",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It was there that King Bharata, the immensely famous emperor, performed thirty-ﬁve horse sacriﬁces. O son! We have heard that Sarakasta, who satisﬁed the wishes of brahmanas in ancient times, has an extremely holy and famous hermitage there. O Partha! O great king! The river Sarasvati is always worshipped by those who are virtuous. In ancient times, the Valakhilya rishis performed sacriﬁces there. O Yudhishthira! The most sacred and famous Drishadvati is there. O lord of men! O supreme among the Bharata lineage! The immensely sacred Vaivarnya and Varna, learned in the Vedas, learned in the rites of the Vedas and wise in the knowledge that is in the Vedas, always performed many sacred sacriﬁces there.",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“In ancient times, many gods gathered in Vishakhayupa, with Indra and Varuna, and performed austerities, so that the spot became extremely sacred. There is also holy and lovely Palashaka, where the great rishi Lord Jamadagni, immensely fortunate and immensely famous, performed a sacriﬁce. All the best of rivers came in person to meet the supreme rishi, each bringing its own waters, and stood around in servitude. O great king! Vishvavasu himself went there and on witnessing the valour of that great-souled and brave one, chanted this shloka. ‘When the great-souled Jamadagni sacriﬁced to the gods, all the rivers arrived and worshipped him with honey.’ O Yudhishthira! The place where the supreme peak of the mountain was swiftly splintered by the Ganga in Gangadvara is made beautiful by gandharvas, yakshas, rakshasas and apsaras. It is the habitation of kiratas{357} and kinnaras. O king! This famous and sacred place is frequented by masses of brahmarshis. O Kouravya! Sanatkumara and sacred Kanakhala are there and the mountain named Puru, where Pururava was born. Bhrigu performed his austerities there, visited by masses of maharshis. O great king! That hermitage on the great mountain has become famous by the name of Bhrigutunga.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“In ancient times, many gods gathered in Vishakhayupa, with Indra and Varuna, and performed austerities, so that the spot became extremely sacred. There is also holy and lovely Palashaka, where the great rishi Lord Jamadagni, immensely fortunate and immensely famous, performed a sacriﬁce. All the best of rivers came in person to meet the supreme rishi, each bringing its own waters, and stood around in servitude. O great king! Vishvavasu himself went there and on witnessing the valour of that great-souled and brave one, chanted this shloka. ",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘When the great-souled Jamadagni sacriﬁced to the gods, all the rivers arrived and worshipped him with honey.’",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Yudhishthira! The place where the supreme peak of the mountain was swiftly splintered by the Ganga in Gangadvara is made beautiful by gandharvas, yakshas, rakshasas and apsaras. It is the habitation of kiratas{357} and kinnaras. O king! This famous and sacred place is frequented by masses of brahmarshis. O Kouravya! Sanatkumara and sacred Kanakhala are there and the mountain named Puru, where Pururava was born. Bhrigu performed his austerities there, visited by masses of maharshis. O great king! That hermitage on the great mountain has become famous by the name of Bhrigutunga.",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O bull among the Bharata lineage! The lord Vishnu Narayana is eternal and supreme among beings and is all that is, all that was and all that will be. His glorious, holy and extensive hermitage Badari is there, famous and renowned in the three worlds as a sacred place. Ganga, which carries warm waters, is different along Badari. O king! It carries cool waters laced with gold. The rishis and the gods always come and show their obeisance to the lord god Narayana, immensely fortunate and immensely energetic. O Partha! Where the supreme-souled eternal god Narayana dwells, the entire universe and all its tirthas are also there. He is sanctity. He is the supreme brahman. He is the tirtha. He is the hermitage of austerities. The devarshis, the siddhas and all the other ascetics also dwell there. Madhusudana is the original god, he is the great yogi. You should have no doubt that the place where he dwells is the most holy among all that is holy. O king! O lord of the earth! These are the sacred spots on the earth. O best of men! I have recounted the tirthas and purifying places. The Vasus, the Sadhyas, the Adityas, the Maruts, the Ashvins, and the great-souled rishis who know about the nature of the brahman, frequent these places. O Kounteya! If you go to these places with the bulls among the brahmanas and your immensely fortunate brothers, you will discard all anxiety.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O bull among the Bharata lineage! The lord Vishnu Narayana is eternal and supreme among beings and is all that is, all that was and all that will be. His glorious, holy and extensive hermitage Badari is there, famous and renowned in the three worlds as a sacred place. Ganga, which carries warm waters, is different along Badari. O king! It carries cool waters laced with gold. The rishis and the gods always come and show their obeisance to the lord god Narayana, immensely fortunate and immensely energetic. O Partha! Where the supreme-souled eternal god Narayana dwells, the entire universe and all its tirthas are also there. He is sanctity. He is the supreme brahman. He is the tirtha. He is the hermitage of austerities. The devarshis, the siddhas and all the other ascetics also dwell there. Madhusudana is the original god, he is the great yogi. You should have no doubt that the place where he dwells is the most holy among all that is holy. O king! O lord of the earth! These are the sacred spots on the earth. O best of men! I have recounted the tirthas and purifying places. The Vasus, the Sadhyas, the Adityas, the Maruts, the Ashvins, and the great-souled rishis who know about the nature of the brahman, frequent these places. O Kounteya! If you go to these places with the bulls among the brahmanas and your immensely fortunate brothers, you will discard all anxiety.”",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

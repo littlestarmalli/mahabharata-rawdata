@@ -1,0 +1,270 @@
+{
+  "chapter": 91,
+  "local": 91,
+  "shlokas": 22,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘There was once a king named Mahabhisha. He was born in the Ikshvaku lineage and was a lord of the earth. He was always truthful and truly valorous. He pleased the lord of the gods through 1000 horse sacriﬁces and 100 vajapeya{201} sacriﬁces and thus attained heaven.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘There was once a king named Mahabhisha. He was born in the Ikshvaku lineage and was a lord of the earth. He was always truthful and truly valorous. He pleased the lord of the gods through 1000 horse sacriﬁces and 100 vajapeya{201} sacriﬁces and thus attained heaven.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘One day, the gods went to pay homage to Brahma. Many rajarshis and King Mahabhisha were also present. Ganga, the best of the rivers, also came to pay homage to the grandfather. Her garments, as white as moonlight, were blown away by the wind and immediately the masses of gods lowered their faces. However, rajarshi Mahabhisha continued to stare unabashedly at the river. Because of this, Mahabhisha was cursed by the illustrious Brahma. “You will be born on earth and then you will again regain these worlds.” The king then thought about all the kings and ascetics on earth and chose the immensely radiant Pratipa as his father. On seeing King Mahabhisha lose his composure, the best of the rivers went away, thinking about him in her mind. Along her path, she saw the divine vasus. They were crestfallen and dark with despair at having been dislodged from heaven.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘One day, the gods went to pay homage to Brahma. Many rajarshis and King Mahabhisha were also present. Ganga, the best of the rivers, also came to pay homage to the grandfather. Her garments, as white as moonlight, were blown away by the wind and immediately the masses of gods lowered their faces. However, rajarshi Mahabhisha continued to stare unabashedly at the river. Because of this, Mahabhisha was cursed by the illustrious Brahma. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You will be born on earth and then you will again regain these worlds.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The king then thought about all the kings and ascetics on earth and chose the immensely radiant Pratipa as his father. On seeing King Mahabhisha lose his composure, the best of the rivers went away, thinking about him in her mind. Along her path, she saw the divine vasus. They were crestfallen and dark with despair at having been dislodged from heaven.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On seeing them in that state, the great river asked, “O residents of heaven! Why are your forms destroyed? Why are you in despair?” The divine vasus replied, “O great river! We have been severely cursed by the greatsouled Vashishtha for a minor transgression. Not seen by us, that supreme of rishis was engaged in his twilight rites and in our folly we crossed him. In his anger, he cursed us that we would be born in a womb. It is not possible to negate what the brahman-knowing one has said. Therefore, become a woman on earth and bear the vasus as your sons. We cannot enter the womb of an impure woman.” Having been thus addressed, Ganga agreed and asked, “Which supreme man will be your father?” The vasus replied, “In the world of men, a son will be born to Pratipa. He will be King Shantanu, devoted to dharma, and he will be our father.” Ganga said, “O unblemished gods! I was thinking exactly the same. I will do that which brings pleasure to him and also satisfy your wishes.” The vasus replied, “O revered one who dwells in the three worlds{202}! You must hurl your sons into the water as soon as they are born, so that we are quickly freed and don't suffer for a long time.” Ganga said, “I will do what you wish. But so that my union with him is not completely fruitless, let one son remain with him.” The vasus replied, “Each one of us will offer one-eighth of our respective energies. From that, a son will be born to you and will live according to your desires. But he will have no children on earth. Therefore, this valorous son of yours will remain without a son.” Making this agreement with Ganga, the vasus happily went away to the place where they dwelt.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On seeing them in that state, the great river asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_great_river",
+          "introduces_label": "the great river",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O residents of heaven! Why are your forms destroyed? Why are you in despair?”",
+          "speaker": "the_great_river",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The divine vasus replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_divine_vasus",
+          "introduces_label": "The divine vasus",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great river! We have been severely cursed by the greatsouled Vashishtha for a minor transgression. Not seen by us, that supreme of rishis was engaged in his twilight rites and in our folly we crossed him. In his anger, he cursed us that we would be born in a womb. It is not possible to negate what the brahman-knowing one has said. Therefore, become a woman on earth and bear the vasus as your sons. We cannot enter the womb of an impure woman.”",
+          "speaker": "the_divine_vasus",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed, Ganga agreed and asked, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Which supreme man will be your father?”",
+          "speaker": "the_divine_vasus",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The vasus replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_vasus",
+          "introduces_label": "The vasus",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In the world of men, a son will be born to Pratipa. He will be King Shantanu, devoted to dharma, and he will be our father.”",
+          "speaker": "the_vasus",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Ganga said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@ganga",
+          "introduces_label": "Ganga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O unblemished gods! I was thinking exactly the same. I will do that which brings pleasure to him and also satisfy your wishes.”",
+          "speaker": "@ganga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The vasus replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_vasus",
+          "introduces_label": "The vasus",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O revered one who dwells in the three worlds{202}! You must hurl your sons into the water as soon as they are born, so that we are quickly freed and don't suffer for a long time.”",
+          "speaker": "the_vasus",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Ganga said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@ganga",
+          "introduces_label": "Ganga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I will do what you wish. But so that my union with him is not completely fruitless, let one son remain with him.”",
+          "speaker": "@ganga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The vasus replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_vasus",
+          "introduces_label": "The vasus",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Each one of us will offer one-eighth of our respective energies. From that, a son will be born to you and will live according to your desires. But he will have no children on earth. Therefore, this valorous son of yours will remain without a son.”",
+          "speaker": "the_vasus",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Making this agreement with Ganga, the vasus happily went away to the place where they dwelt.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

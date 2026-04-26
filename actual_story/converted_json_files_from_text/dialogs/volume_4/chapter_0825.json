@@ -1,0 +1,204 @@
+{
+  "chapter": 825,
+  "local": 162,
+  "shlokas": 33,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “When Phalguna had sworn that he would kill Bhishma in battle, what did my evil sons, Duryodhana and the others, do? I can already see my father Gangeya killed by Partha, the ﬁrm wielder of the bow, in battle, with Vasudeva at his aide. The great archer, Bhishma, is supreme among warriors. His wisdom is inﬁnite. What did he say when he heard the words that Partha spoke? Gangeya is greatly intelligent and valiant. He is extremely skilled. What did he do when he became the commander of the Kouravas?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When Phalguna had sworn that he would kill Bhishma in battle, what did my evil sons, Duryodhana and the others, do? I can already see my father Gangeya killed by Partha, the ﬁrm wielder of the bow, in battle, with Vasudeva at his aide. The great archer, Bhishma, is supreme among warriors. His wisdom is inﬁnite. What did he say when he heard the words that Partha spoke? Gangeya is greatly intelligent and valiant. He is extremely skilled. What did he do when he became the commander of the Kouravas?”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At that, Sanjaya told him everything that was said by the inﬁnitely energetic Bhishma, the aged one among the Kurus.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At that, Sanjaya told him everything that was said by the inﬁnitely energetic Bhishma, the aged one among the Kurus.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O king! Shantanu's son, Bhishma, became the commander. He delighted Duryodhana by speaking these words to him. ‘I bow down before Kumara{6}, the general who wields a spear in his hand. There is no doubt that I will be your general. I know about the tasks connected with soldiers, and in particular, about battle formations{7}. I know the tasks that should be assigned to servants and those who are not servants{8}. O great king! In marching troops out, in engaging in battle and in pacifying enemies, I am learned, as learned as Brihaspati himself. I know how to prepare the great battle formations of gods, gandharvas and humans. I will use those to confound the Pandavas. Be bereft of your anxiety. I will ﬁght according to the right principles. I will protect your army. I will follow the sacred texts. O king! Discard the fever from your mind.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Shantanu's son, Bhishma, became the commander. He delighted Duryodhana by speaking these words to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I bow down before Kumara{6}, the general who wields a spear in his hand. There is no doubt that I will be your general. I know about the tasks connected with soldiers, and in particular, about battle formations{7}. I know the tasks that should be assigned to servants and those who are not servants{8}. O great king! In marching troops out, in engaging in battle and in pacifying enemies, I am learned, as learned as Brihaspati himself. I know how to prepare the great battle formations of gods, gandharvas and humans. I will use those to confound the Pandavas. Be bereft of your anxiety. I will ﬁght according to the right principles. I will protect your army. I will follow the sacred texts. O king! Discard the fever from your mind.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Duryodhana said, ‘O Gangeya! I have no fear from gods and asuras combined. O mighty-armed one! I am telling you this truthfully, not to speak of now, when you are our invincible general and Drona, tiger among men, is stationed, eager to do battle. The two of you, foremost among men, are stationed on my side. Victory will be mine. O foremost among the Kurus! It is certain that even the kingdom of the gods will not be difﬁcult to obtain. O Kourava! But I wish to know the total number of rathas among us and among the enemy and also the atirathas. The grandfather is skilled in knowing about the enemy and about us. With all these other lords of the earth, I wish to hear this.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Duryodhana said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Gangeya! I have no fear from gods and asuras combined. O mighty-armed one! I am telling you this truthfully, not to speak of now, when you are our invincible general and Drona, tiger among men, is stationed, eager to do battle. The two of you, foremost among men, are stationed on my side. Victory will be mine. O foremost among the Kurus! It is certain that even the kingdom of the gods will not be difﬁcult to obtain. O Kourava! But I wish to know the total number of rathas among us and among the enemy and also the atirathas. The grandfather is skilled in knowing about the enemy and about us. With all these other lords of the earth, I wish to hear this.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Bhishma said, ‘O Gandhari's son! O Indra among kings! O lord of the earth! Listen to the number of rathas in your own army, those who are rathas and those who are atirathas. There are many thousand, tens of thousands and millions of rathas among your soldiers, but listen to the most important ones. You are foremost among the rathas and so are all your brothers, Duhshasana and the others—one hundred together. All of you are skilled in striking with weapons and are knowledgeable about slicing and piercing. You can ride on chariots and on the shoulders of elephants. You know about ﬁghting with clubs, swords and shields. You are skilled drivers. You can strike with weapons. You are skilled in use of weapons. You can bear burdens. In the use of arrows, you are the students of Drona and Kripa Sharadvata. The spirited sons of Dhritarashtra have been wronged by the Pandavyas and will kill the Panchalas, who are intoxicated with battle. O foremost among the Bharatas! I myself will be your supreme commander. I will frustrate the Pandavas and pierce your enemies. But I should not speak about my own qualities. They are known to you. Kritavarma of Bhoja, supreme among the wielder of weapons, is an atiratha. There is no doubt that he will accomplish your objective in battle. He is invincible in the knowledge of weapons. He can strike from a distance. He is ﬁrm in bearing weapons. He will kill your enemies, like the great Indra against the danavas. It is my view that the great archer Shalya, the king of Madra, is an atiratha. He has always rivalled Vasudeva in battle after battle. He has forsaken his own sister's sons{9}. Shalya is a supreme ratha. In battle, he will ﬁght with Krishna, the wielder of the chakra and the club. Like the waves of an ocean, he will ﬂood the enemy with arrows. Bhurishrava, skilled in the use of weapons, is your well-wisher and will be engaged in your welfare. Soumadatti{10} is a great archer and is the leader of a mass of rathas. He will bring about a great reduction in the forces of the enemy. O great king! It seems to me that the king of Sindhu{11} is the equal of two rathas. O king! That supreme among rathas will ﬁght valiantly in battle. Earlier, he was oppressed by the Pandavas at the time of Droupadi's abduction. He will remember that molestation and will ﬁght with the enemy heroes. O king! After that, he resorted to terrible austerities. He obtained the extremely rare boon that he would ﬁght with the Pandavas on the ﬁeld of battle. In battle, this tiger among rathas will remember that enmity. O son{12}! He will ﬁght with the Pandavas, even giving up his own life, which is so difﬁcult to abandon.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Bhishma said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Gandhari's son! O Indra among kings! O lord of the earth! Listen to the number of rathas in your own army, those who are rathas and those who are atirathas. There are many thousand, tens of thousands and millions of rathas among your soldiers, but listen to the most important ones. You are foremost among the rathas and so are all your brothers, Duhshasana and the others—one hundred together. All of you are skilled in striking with weapons and are knowledgeable about slicing and piercing. You can ride on chariots and on the shoulders of elephants. You know about ﬁghting with clubs, swords and shields. You are skilled drivers. You can strike with weapons. You are skilled in use of weapons. You can bear burdens. In the use of arrows, you are the students of Drona and Kripa Sharadvata. The spirited sons of Dhritarashtra have been wronged by the Pandavyas and will kill the Panchalas, who are intoxicated with battle. O foremost among the Bharatas! I myself will be your supreme commander. I will frustrate the Pandavas and pierce your enemies. But I should not speak about my own qualities. They are known to you. Kritavarma of Bhoja, supreme among the wielder of weapons, is an atiratha. There is no doubt that he will accomplish your objective in battle. He is invincible in the knowledge of weapons. He can strike from a distance. He is ﬁrm in bearing weapons. He will kill your enemies, like the great Indra against the danavas. It is my view that the great archer Shalya, the king of Madra, is an atiratha. He has always rivalled Vasudeva in battle after battle. He has forsaken his own sister's sons{9}. Shalya is a supreme ratha. In battle, he will ﬁght with Krishna, the wielder of the chakra and the club. Like the waves of an ocean, he will ﬂood the enemy with arrows. Bhurishrava, skilled in the use of weapons, is your well-wisher and will be engaged in your welfare. Soumadatti{10} is a great archer and is the leader of a mass of rathas. He will bring about a great reduction in the forces of the enemy. O great king! It seems to me that the king of Sindhu{11} is the equal of two rathas. O king! That supreme among rathas will ﬁght valiantly in battle. Earlier, he was oppressed by the Pandavas at the time of Droupadi's abduction. He will remember that molestation and will ﬁght with the enemy heroes. O king! After that, he resorted to terrible austerities. He obtained the extremely rare boon that he would ﬁght with the Pandavas on the ﬁeld of battle. In battle, this tiger among rathas will remember that enmity. O son{12}! He will ﬁght with the Pandavas, even giving up his own life, which is so difﬁcult to abandon.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "chapter": 1923,
+  "local": 88,
+  "shlokas": 21,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘The kings and lords of the earth, knowledgable about the Vedas, arrived. On seeing this, King Yudhishthira spoke to Bhimasena. “Make arrangements for honour to be shown to these tigers among men and lords of the earth. These lords of men deserve to be honoured.” O descendant of the Bharata lineage! Thus addressed by the illustrious Indra among men, the greatly energetic Bhimasena, together with the twins, acted in that way. Govinda, supreme among all those who are alive, arrived before Dharma's son with the Vrishnis, placing Baladeva ahead of them. He was also with Yuyudhana, Pradyumna, Gada, Nishatha, Samba and Kritavarma. The mighty-armed Bhima showed them supreme respect too. The bulls among men entered their bejewelled residences. Conversing in Yudhishthira's presence, Madhusudana told him that Arjuna was exhausted because of the many battles. Kounteya repeatedly asked him about that scorcher of enemies and the lord of the universe told Dharmaraja about his brother, Jishnu. “O king! A messenger, a resident of Dvaraka, came to me. He had seen that the best among Pandavas had been exhausted because of numerous battles. O lord! He also said that the mightyarmed one is near. O Kounteya! Now perform the acts that must be undertaken to make the horse sacriﬁce successful.” Thus addressed, Dharmaraja Yudhishthira replied, “O Madhava! It is through good fortune that Jishnu is returning safely. O descendant of the Yadu lineage! I wish to hear from you whatever has been said about Pandava, foremost among strong ones.” O tiger among kings! Thus addressed, the lord of the Vrishnis and the Andhakas, the eloquent one, spoke these words to Yudhishthira, who had dharma in his soul. “O great king! That man reported Partha's words to me. ‘At the right time, my words should be reported to Yudhishthira and Krishna{341}. All the kings are coming towards Kourava. Since we are capable, it is our task to exhibit many kinds of honour towards them. O one who shows honours{342}! However, also convey to the king these words of mine. We should avoid a calamity at the time of offering the arghya{343}. The king must ensure that there is no display of intolerance. O king! Because of enmity between the kings, let the subjects not be destroyed again.’ O Kounteya! These are the words that man reported to me. O king! I will tell you Dhananjaya's words. Listen. ‘The king who is the lord of Manipura will come to the sacriﬁce. He is my extremely energetic and beloved son, Babhruvahana. Out of consideration towards me, honour him in the appropriate way. O lord! He has always been devoted towards me and faithful.’ On hearing these words, Dharmaraja Yudhishthira honoured these words. He replied in the following words.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The kings and lords of the earth, knowledgable about the Vedas, arrived. On seeing this, King Yudhishthira spoke to Bhimasena. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Make arrangements for honour to be shown to these tigers among men and lords of the earth. These lords of men deserve to be honoured.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O descendant of the Bharata lineage! Thus addressed by the illustrious Indra among men, the greatly energetic Bhimasena, together with the twins, acted in that way. Govinda, supreme among all those who are alive, arrived before Dharma's son with the Vrishnis, placing Baladeva ahead of them. He was also with Yuyudhana, Pradyumna, Gada, Nishatha, Samba and Kritavarma. The mighty-armed Bhima showed them supreme respect too. The bulls among men entered their bejewelled residences. Conversing in Yudhishthira's presence, Madhusudana told him that Arjuna was exhausted because of the many battles. Kounteya repeatedly asked him about that scorcher of enemies and the lord of the universe told Dharmaraja about his brother, Jishnu. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! A messenger, a resident of Dvaraka, came to me. He had seen that the best among Pandavas had been exhausted because of numerous battles. O lord! He also said that the mightyarmed one is near. O Kounteya! Now perform the acts that must be undertaken to make the horse sacriﬁce successful.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Thus addressed, Dharmaraja Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "dharmaraja_yudhishthira",
+          "introduces_label": "Dharmaraja Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Madhava! It is through good fortune that Jishnu is returning safely. O descendant of the Yadu lineage! I wish to hear from you whatever has been said about Pandava, foremost among strong ones.”",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O tiger among kings! Thus addressed, the lord of the Vrishnis and the Andhakas, the eloquent one, spoke these words to Yudhishthira, who had dharma in his soul. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! That man reported Partha's words to me. ",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘At the right time, my words should be reported to Yudhishthira and Krishna{341}. All the kings are coming towards Kourava. Since we are capable, it is our task to exhibit many kinds of honour towards them. O one who shows honours{342}! However, also convey to the king these words of mine. We should avoid a calamity at the time of offering the arghya{343}. The king must ensure that there is no display of intolerance. O king! Because of enmity between the kings, let the subjects not be destroyed again.’",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Kounteya! These are the words that man reported to me. O king! I will tell you Dhananjaya's words. Listen. ",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The king who is the lord of Manipura will come to the sacriﬁce. He is my extremely energetic and beloved son, Babhruvahana. Out of consideration towards me, honour him in the appropriate way. O lord! He has always been devoted towards me and faithful.’",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words, Dharmaraja Yudhishthira honoured these words. He replied in the following words.”",
+          "speaker": "dharmaraja_yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

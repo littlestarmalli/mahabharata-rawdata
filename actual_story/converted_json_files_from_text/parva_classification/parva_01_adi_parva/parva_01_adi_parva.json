@@ -1,0 +1,220 @@
+{
+  "name": "Adi Parva",
+  "parva_number": 1,
+  "details": {
+    "num_subparvas": 19,
+    "num_chapters": 225,
+    "num_shlokas": 7205
+  },
+  "subparvas": {
+    "1": {
+      "subparva_number": 1,
+      "name": "Anukramanika Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 210
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_01_adi_parva/subparva_01_anukramanika_parva/subparva_01_anukramanika_parva.json"
+    },
+    "2": {
+      "subparva_number": 2,
+      "name": "Parvasamgraha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 243
+      },
+      "note": "It too was clearly a later addition. It gives two listings of the Mahabharata in the eighteen-parva and the 700-parva classifications. There is also a very brief summary of the highlights of the story.",
+      "file": "parva_01_adi_parva/subparva_02_parvasamgraha_parva/subparva_02_parvasamgraha_parva.json"
+    },
+    "3": {
+      "subparva_number": 3,
+      "name": "Poushya Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 195
+      },
+      "note": "It is the story of Poushya. After the first two sections, which are really summaries and no more, Section 3 is where the main story of the Mahabharata should begin. But not only is this section mostly in prose, unlike the rest of the Mahab-harata, it has little to do with the main story, since it has all kinds of incidents that don�t quite belong. All this section does is set up the snake-sacrifice.",
+      "file": "parva_01_adi_parva/subparva_03_poushya_parva/subparva_03_poushya_parva.json"
+    },
+    "4": {
+      "subparva_number": 4,
+      "name": "Pouloma Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 9,
+        "num_shlokas": 153
+      },
+      "note": "The meat of the Mahabharata doesn�t start in this parva, since one is still on the snake-sacrifice. Tndeed, this parva is mostly about the Bhar-gava lineage, descended from the great sage Bhrigu. Bhrigu�s son was the famous Shukra or Shukracharya and so was the sage Chyavana. Bhrigu married Puloma and anyone descended from Puloma is called Pouloma. That is how this parva obtains its name. The chapters in this parva take us down Bhrigu�s lineage, through Chyavana, Pramati, Ruru and Shunaka.",
+      "file": "parva_01_adi_parva/subparva_04_pouloma_parva/subparva_04_pouloma_parva.json"
+    },
+    "5": {
+      "subparva_number": 5,
+      "name": "Astika Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 41,
+        "num_shlokas": 1025
+      },
+      "note": "It is one of the longer parvas and is about the snake-sacrifice, which provides the setting where the Mahabharata story was told. The parva is named after a sage named Astika, who saved the snakes (the major ones) from the snake-sacrifice.",
+      "file": "parva_01_adi_parva/subparva_05_astika_parva/subparva_05_astika_parva.json"
+    },
+    "6": {
+      "subparva_number": 6,
+      "name": "Adi-vamshavatarana Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 5,
+        "num_shlokas": 257
+      },
+      "note": "Chapter 54: 24 shlokas Ansha means partial or secondary incarnation, while avatarana means descent. The parva is thus the descent of partial incarnations. It re-lates the story of Uparichara Vasu and Vyasadeva�s birth from Parashara and Satyavati. It ends with the partial or secondary incarnations of the gods and the demons.",
+      "file": "parva_01_adi_parva/subparva_06_adi_vamshavatarana_parva/subparva_06_adi_vamshavatarana_parva.json"
+    },
+    "7": {
+      "subparva_number": 7,
+      "name": "Sambhava Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 65,
+        "num_shlokas": 2394
+      },
+      "note": "This parva comprises 2394 shlokas and sixty-five chapters. The word sambhava means what can originate or be in existence. Hence, this parva is about the origins of the core story. It is one of the long-est parvas.",
+      "file": "parva_01_adi_parva/subparva_07_sambhava_parva/subparva_07_sambhava_parva.json"
+    },
+    "8": {
+      "subparva_number": 8,
+      "name": "Jatugriha-daha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 15,
+        "num_shlokas": 373
+      },
+      "note": "Jatu is lac and griha is house. This parva is about the burning down of the house of lac.",
+      "file": "parva_01_adi_parva/subparva_08_jatugriha_daha_parva/subparva_08_jatugriha_daha_parva.json"
+    },
+    "9": {
+      "subparva_number": 9,
+      "name": "Hidimba-vadha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 6,
+        "num_shlokas": 169
+      },
+      "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+      "file": "parva_01_adi_parva/subparva_09_hidimba_vadha_parva/subparva_09_hidimba_vadha_parva.json"
+    },
+    "10": {
+      "subparva_number": 10,
+      "name": "Baka-vadha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 8,
+        "num_shlokas": 206
+      },
+      "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+      "file": "parva_01_adi_parva/subparva_10_baka_vadha_parva/subparva_10_baka_vadha_parva.json"
+    },
+    "11": {
+      "subparva_number": 11,
+      "name": "Chaitraratha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 21,
+        "num_shlokas": 557
+      },
+      "note": "The parva is named after Chitraratha, a gandharva, whose stories figure in this section.",
+      "file": "parva_01_adi_parva/subparva_11_chaitraratha_parva/subparva_11_chaitraratha_parva.json"
+    },
+    "12": {
+      "subparva_number": 12,
+      "name": "Swayamvara Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 12,
+        "num_shlokas": 263
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_01_adi_parva/subparva_12_swayamvara_parva/subparva_12_swayamvara_parva.json"
+    },
+    "13": {
+      "subparva_number": 13,
+      "name": "Vaivahika Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 6,
+        "num_shlokas": 155
+      },
+      "note": "Vivaha means wedding and this parva is about Droupadi�s marriage.",
+      "file": "parva_01_adi_parva/subparva_13_vaivahika_parva/subparva_13_vaivahika_parva.json"
+    },
+    "14": {
+      "subparva_number": 14,
+      "name": "Viduragamana Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 7,
+        "num_shlokas": 174
+      },
+      "note": "Agamana means arrival or coming and this parva is about Vidura�s arrival.",
+      "file": "parva_01_adi_parva/subparva_14_viduragamana_parva/subparva_14_viduragamana_parva.json"
+    },
+    "15": {
+      "subparva_number": 15,
+      "name": "Rajya-labha Parva",
+      "source_volume": 1,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 50
+      },
+      "note": "and there are only fifty shlokas. Rajya-labha means the acquisition of the kingdom.",
+      "file": "parva_01_adi_parva/subparva_15_rajya_labha_parva/subparva_15_rajya_labha_parva.json"
+    },
+    "16": {
+      "subparva_number": 16,
+      "name": "Arjuna-vanavasa Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 298
+      },
+      "note": "",
+      "file": "parva_01_adi_parva/subparva_16_arjuna_vanavasa_parva/subparva_16_arjuna_vanavasa_parva.json"
+    },
+    "17": {
+      "subparva_number": 17,
+      "name": "Subhadra-harana Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 2,
+        "num_shlokas": 57
+      },
+      "note": "The word harana means abduction. So this parva is about Subhadra�s abduction. This is a very short parva.",
+      "file": "parva_01_adi_parva/subparva_17_subhadra_harana_parva/subparva_17_subhadra_harana_parva.json"
+    },
+    "18": {
+      "subparva_number": 18,
+      "name": "Harana-harika Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 82
+      },
+      "note": "The word harana means abduction. It also means gifts. Harika means conveying or giving. So this parva is about Subhadra�s abduction and the giving of gifts that followed.",
+      "file": "parva_01_adi_parva/subparva_18_harana_harika_parva/subparva_18_harana_harika_parva.json"
+    },
+    "19": {
+      "subparva_number": 19,
+      "name": "Khandava-daha Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 12,
+        "num_shlokas": 344
+      },
+      "note": "Chaper 279: 40 shlokas The word daha means to burn and, as a noun, also means a fire or a con?agration in the forest. So this parva is about the burning of the Khandava forest by Arjuna and Krishna. It has also stories of the survivors, Ashvasena, Maya and the Sharngaka birds.",
+      "file": "parva_01_adi_parva/subparva_19_khandava_daha_parva/subparva_19_khandava_daha_parva.json"
+    }
+  }
+}

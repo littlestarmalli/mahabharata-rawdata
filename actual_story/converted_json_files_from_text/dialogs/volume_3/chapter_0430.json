@@ -1,0 +1,724 @@
+{
+  "chapter": 430,
+  "local": 133,
+  "shlokas": 27,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Ashtavakra said, ‘The road belongs to a blind one. The road belongs to a deaf one. The road belongs to a woman. The road belongs to a bearer of loads. The road belongs to a king. But when a brahmana is encountered on the way, the road must belong to the brahmana.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The road belongs to a blind one. The road belongs to a deaf one. The road belongs to a woman. The road belongs to a bearer of loads. The road belongs to a king. But when a brahmana is encountered on the way, the road must belong to the brahmana.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘Then I now give up this road to you. Travel whichever way you desire. There is no ﬁre that is a minor one{596}. Even Indra always bows down before brahmanas.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Then I now give up this road to you. Travel whichever way you desire. There is no ﬁre that is a minor one{596}. Even Indra always bows down before brahmanas.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘O son{597}! We have come to see the sacriﬁce. Our curiousity cannot be greater. We have come as guests. Let us enter. O gatekeeper! We are waiting for your command. We wish to see the sacriﬁce of Indradyumna's son{598}. We wish to see and speak to King Janaka. O gatekeeper! We are being consumed with anger and let that not cause afﬂiction to you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son{597}! We have come to see the sacriﬁce. Our curiousity cannot be greater. We have come as guests. Let us enter. O gatekeeper! We are waiting for your command. We wish to see the sacriﬁce of Indradyumna's son{598}. We wish to see and speak to King Janaka. O gatekeeper! We are being consumed with anger and let that not cause afﬂiction to you.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gatekeeper said, ‘We are bound by the commands of Bandi. “Listen to the words I utter{599}. No brahmanas who are children will be allowed entry. Only the old and the learned, the best of brahmanas will be allowed to enter.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gatekeeper said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gatekeeper",
+          "introduces_label": "The gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We are bound by the commands of Bandi. ",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Listen to the words I utter{599}. No brahmanas who are children will be allowed entry. Only the old and the learned, the best of brahmanas will be allowed to enter.”",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra replied, ‘O gatekeeper! If entry is allowed to the aged, then I have a right to enter. We are aged because we have observed vows. We have a right to enter because of our knowledge of the Vedas. We have served{600} and are in control of our senses. We have faithfully trodden the path of knowledge. It is said that children should not be slighted. If touched, a young ﬁre also burns.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O gatekeeper! If entry is allowed to the aged, then I have a right to enter. We are aged because we have observed vows. We have a right to enter because of our knowledge of the Vedas. We have served{600} and are in control of our senses. We have faithfully trodden the path of knowledge. It is said that children should not be slighted. If touched, a young ﬁre also burns.’",
+          "speaker": "@ashtavakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gatekeeper said, ‘If you know, recite the single-syllabled and many-formed verse invoking Sarasvati. Look at your limbs. You are a child. Do not boast. It is difﬁcult to obtain success in debates.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gatekeeper said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gatekeeper",
+          "introduces_label": "The gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you know, recite the single-syllabled and many-formed verse invoking Sarasvati. Look at your limbs. You are a child. Do not boast. It is difﬁcult to obtain success in debates.’",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra replied, ‘Age cannot be deduced from the growth of the body, just as the number of knots on a shalmali tree{601} does not indicate its age. Whether it is short or small in form, it is aged because it is full of fruit. A tree without fruit has no traits of age.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Age cannot be deduced from the growth of the body, just as the number of knots on a shalmali tree{601} does not indicate its age. Whether it is short or small in form, it is aged because it is full of fruit. A tree without fruit has no traits of age.’",
+          "speaker": "@ashtavakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gatekeeper said, ‘The young receive intelligence from the old, and in due course of time, become aged too. It is impossible to obtain learning in a short time. Therefore, despite being a child, why do you speak as if aged?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gatekeeper said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gatekeeper",
+          "introduces_label": "The gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The young receive intelligence from the old, and in due course of time, become aged too. It is impossible to obtain learning in a short time. Therefore, despite being a child, why do you speak as if aged?’",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra replied, ‘One does not become old because one's hair has turned white. The gods know that, a child who is learned is old. The rishis have not decreed that the merit of dharma depends on years, grey hair, riches or relatives{602}. “One who has learning is great{603}.” I have come here to meet Bandi in the king's presence. Go and announce this now to the king who is garlanded with lotuses. O gatekeeper! Today, you will witness me engaged in a debate with the learned. I may become superior, or I may become inferior, when all the others become silent today.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘One does not become old because one's hair has turned white. The gods know that, a child who is learned is old. The rishis have not decreed that the merit of dharma depends on years, grey hair, riches or relatives{602}. ",
+          "speaker": "@ashtavakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“One who has learning is great{603}.”",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " I have come here to meet Bandi in the king's presence. Go and announce this now to the king who is garlanded with lotuses. O gatekeeper! Today, you will witness me engaged in a debate with the learned. I may become superior, or I may become inferior, when all the others become silent today.’",
+          "speaker": "@ashtavakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gatekeeper said, ‘You are only ten years old. How can you enter a sacriﬁce reserved for entry to the humble and the learned? I will have to devise a means for you to enter. But you must take due care.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gatekeeper said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gatekeeper",
+          "introduces_label": "The gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You are only ten years old. How can you enter a sacriﬁce reserved for entry to the humble and the learned? I will have to devise a means for you to enter. But you must take due care.’",
+          "speaker": "the_gatekeeper",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘O king! O supreme among those of the Janaka lineage! You are worthy of praise. You have all the riches. You are the performer of sacriﬁcial deeds, like King Yayati was the only one in ancient times. We have heard that the wise Bandi, after defeating those who know the Vedas in debate, employs your servants to immerse those broken ones in water. Having heard this from the brahmanas, I have come here today to engage in debate. Where is Bandi? Where can I ﬁnd him? I will destroy him today, like the sun causing the stars to fade.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! O supreme among those of the Janaka lineage! You are worthy of praise. You have all the riches. You are the performer of sacriﬁcial deeds, like King Yayati was the only one in ancient times. We have heard that the wise Bandi, after defeating those who know the Vedas in debate, employs your servants to immerse those broken ones in water. Having heard this from the brahmanas, I have come here today to engage in debate. Where is Bandi? Where can I ﬁnd him? I will destroy him today, like the sun causing the stars to fade.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘You hope to vanquish Bandi without knowing the other's power with words. Those who know his powers are incapable of speaking thus. He has been tested by brahmanas skilled in debate.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You hope to vanquish Bandi without knowing the other's power with words. Those who know his powers are incapable of speaking thus. He has been tested by brahmanas skilled in debate.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘Those who debated were not like me. That made him like a lion and he roars thus. When he meets me today, he will be destroyed, like a cart on the road with its axle broken.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Those who debated were not like me. That made him like a lion and he roars thus. When he meets me today, he will be destroyed, like a cart on the road with its axle broken.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘He alone is supremely wise who knows what has six parts, twelve axles, twenty-four segments and three hundred and sixty spokes.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He alone is supremely wise who knows what has six parts, twelve axles, twenty-four segments and three hundred and sixty spokes.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘May the wheel{604} with twenty-four segments, six parts, twelve axles and three hundred and sixty spokes always protect you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘May the wheel{604} with twenty-four segments, six parts, twelve axles and three hundred and sixty spokes always protect you.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king asked, ‘They are joined like horses and descend like hawks. Who among the gods gives them birth and who do they give birth to?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘They are joined like horses and descend like hawks. Who among the gods gives them birth and who do they give birth to?’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘O king! Let them steer away from your house and even from the houses of your enemies. The one with the wind as a charioteer gives them birth and they also give birth to him{605}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Let them steer away from your house and even from the houses of your enemies. The one with the wind as a charioteer gives them birth and they also give birth to him{605}.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king asked, ‘What does not close its eyes when it sleeps? What does not move when it is born? What has no heart? What increases in speed when force is imposed?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What does not close its eyes when it sleeps? What does not move when it is born? What has no heart? What increases in speed when force is imposed?’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 19,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Ashtavakra said, ‘A ﬁsh does not close its eyes when it sleeps. An egg does not move when it is born. A stone has no heart. A river increases in speed when force is imposed.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Ashtavakra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtavakra",
+          "introduces_label": "Ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A ﬁsh does not close its eyes when it sleeps. An egg does not move when it is born. A stone has no heart. A river increases in speed when force is imposed.’",
+          "speaker": "@ashtavakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 20,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king replied, ‘I do not think that you are a man. You possess divine energy. You are not a child. I regard you as aged. There is no one who is your equal in the power of words. Therefore, I am throwing the gate open. There is Bandi.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I do not think that you are a man. You possess divine energy. You are not a child. I regard you as aged. There is no one who is your equal in the power of words. Therefore, I am throwing the gate open. There is Bandi.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

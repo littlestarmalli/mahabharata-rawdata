@@ -1,0 +1,163 @@
+{
+  "chapter": 1175,
+  "local": 25,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘ “Duryodhana said, ‘Thus did the illustrious god, the grandfather of all the worlds, become the charioteer, when Rudra was the ratha. It is a duty for the charioteer of a chariot to be braver than the ratha. O tiger among men! Therefore, you should control the horses in the battle.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Duryodhana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Thus did the illustrious god, the grandfather of all the worlds, become the charioteer, when Rudra was the ratha. It is a duty for the charioteer of a chariot to be braver than the ratha. O tiger among men! Therefore, you should control the horses in the battle.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “At this, Shalya, the lord of Madra, was delighted and embraced your son. He spoke these words to Duryodhana, the slayer of enemies. ‘O king! O son of Gandhari! O handsome one! If this is what you think, I will do everything that brings pleasure to you. O best of the Bharatas! I will perform whatever task I am thought to be ﬁt for. With my entire heart, I will bear the burden of any task. For the sake of what is beneﬁcial, I may speak words to Karna, pleasant and unpleasant. You and Karna should pardon all of them.’ Karna replied, ‘O king of Madra! Like Brahma for Ishana and like Keshava for Partha, may you always serve us for our beneﬁt.’ Shalya said, ‘There are four kinds of conduct not followed by those who are aryas—self-censure, self-gloriﬁcation, speaking ill of others and adulation of others. O learned one! I will speak words for your own good. They may be full of self-praise. But listen to them attentively. O lord! In knowledge, skills of medication, controlling and avoiding distractions{350}, I am like Matali, ﬁt to be Shakra's charioteer. O unblemished one! O son of a suta! When you are engaged in warring with Partha in the battle, I will guide your horses. Do not be anxious on that account.’” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“At this, Shalya, the lord of Madra, was delighted and embraced your son. He spoke these words to Duryodhana, the slayer of enemies. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! O son of Gandhari! O handsome one! If this is what you think, I will do everything that brings pleasure to you. O best of the Bharatas! I will perform whatever task I am thought to be ﬁt for. With my entire heart, I will bear the burden of any task. For the sake of what is beneﬁcial, I may speak words to Karna, pleasant and unpleasant. You and Karna should pardon all of them.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Karna replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king of Madra! Like Brahma for Ishana and like Keshava for Partha, may you always serve us for our beneﬁt.’",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Shalya said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@shalya",
+          "introduces_label": "Shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There are four kinds of conduct not followed by those who are aryas—self-censure, self-gloriﬁcation, speaking ill of others and adulation of others. O learned one! I will speak words for your own good. They may be full of self-praise. But listen to them attentively. O lord! In knowledge, skills of medication, controlling and avoiding distractions{350}, I am like Matali, ﬁt to be Shakra's charioteer. O unblemished one! O son of a suta! When you are engaged in warring with Partha in the battle, I will guide your horses. Do not be anxious on that account.’",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

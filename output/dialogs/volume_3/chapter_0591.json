@@ -1,0 +1,414 @@
+{
+  "chapter": 591,
+  "local": 294,
+  "shlokas": 43,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On seeing the king of the gods disguised as a brahmana, Vrisha welcomed him, though he did not know what his intentions were. Adhiratha's son asked the brahmana, “Beautiful maidens with golden throats or villages full of many enclosures of cattle—what will I give you?” The brahmana replied, “I do not wish for beautiful women with golden throats, or any other objects that heighten pleasure. Give these to those who desire them. O unblemished one! I desire your natural armour and earrings. If you are true to your vows, slice these off and give them to me. O scorcher of enemies! I desire that you give these to me swiftly. I think that this gain is superior to all the other gains.” Karna said, “O brahmana! I will give you habitable land, women, cows and rice for many years, but not my armour, together with the earrings.” O best of the Bharata lineage! Thus did Karna entreat the brahmana, with many different kinds of words. But he did not desire any other boon. When that supreme among brahmanas wished for no other boon, Radheya laughed and spoke to him again. “O brahmana! My natural armour and earrings have been created from amrita. Because of them, I cannot be slain in all the worlds. I will not part with them. O bull among brahmanas! Take this extensive kingdom on earth, peaceful and without any thorns. Accept them in a happy frame of mind. O supreme among brahmanas! Without my earrings and natural armour, I will become vulnerable before my enemies.” When the illustrious chastiser of Paka did not ask for any other boon, Karna laughed and again addressed these words to him. “O lord! O lord of the gods! I know who you are. O Shakra! It is not proper for me to give you a boon that will be in vain. You are the lord of the gods himself and it is you who should give me a boon, since you are the lord of all other beings and the creator of all beings. O god! If I give you my earrings and armour, I will be liable to be killed. O Shakra! You will become an object of ridicule. O Shakra! Therefore, take my earrings and supreme armour, if you so wish. But take them in exchange. Otherwise, I will not give them.” Shakra replied, “Ravi{36} had earlier got to know about my intended arrival. There is no doubt that he has told you everything. O son! O Karna! Therefore, ask for what you want. With the exception of my vajra, you can ask for whatever else you wish.” At that, Karna happily approached Vasava.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On seeing the king of the gods disguised as a brahmana, Vrisha welcomed him, though he did not know what his intentions were. Adhiratha's son asked the brahmana, ",
+          "speaker": "@vaishampayana",
+          "introduces": "adhiratha's_son",
+          "introduces_label": "Adhiratha's son",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Beautiful maidens with golden throats or villages full of many enclosures of cattle—what will I give you?”",
+          "speaker": "adhiratha's_son",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The brahmana replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I do not wish for beautiful women with golden throats, or any other objects that heighten pleasure. Give these to those who desire them. O unblemished one! I desire your natural armour and earrings. If you are true to your vows, slice these off and give them to me. O scorcher of enemies! I desire that you give these to me swiftly. I think that this gain is superior to all the other gains.”",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Karna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O brahmana! I will give you habitable land, women, cows and rice for many years, but not my armour, together with the earrings.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O best of the Bharata lineage! Thus did Karna entreat the brahmana, with many different kinds of words. But he did not desire any other boon. When that supreme among brahmanas wished for no other boon, Radheya laughed and spoke to him again. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O brahmana! My natural armour and earrings have been created from amrita. Because of them, I cannot be slain in all the worlds. I will not part with them. O bull among brahmanas! Take this extensive kingdom on earth, peaceful and without any thorns. Accept them in a happy frame of mind. O supreme among brahmanas! Without my earrings and natural armour, I will become vulnerable before my enemies.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " When the illustrious chastiser of Paka did not ask for any other boon, Karna laughed and again addressed these words to him. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! O lord of the gods! I know who you are. O Shakra! It is not proper for me to give you a boon that will be in vain. You are the lord of the gods himself and it is you who should give me a boon, since you are the lord of all other beings and the creator of all beings. O god! If I give you my earrings and armour, I will be liable to be killed. O Shakra! You will become an object of ridicule. O Shakra! Therefore, take my earrings and supreme armour, if you so wish. But take them in exchange. Otherwise, I will not give them.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Shakra replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Ravi{36} had earlier got to know about my intended arrival. There is no doubt that he has told you everything. O son! O Karna! Therefore, ask for what you want. With the exception of my vajra, you can ask for whatever else you wish.”",
+          "speaker": "@indra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At that, Karna happily approached Vasava.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Content in his mind, he asked for the invincible shakti. Karna said, “O Vasava! In exchange for my armour and earrings, give me the invincible shakti that kills large numbers of enemies on the ﬁeld of battle.” O protector of the earth! For an instant, Vasava thought about this in his mind. With the spear in mind, he then spoke these words to Karna. “Give me the earrings and the armour from your body. O Karna! Take the shakti from me, but on one condition. When I am ﬁghting with the daityas, this invincible shakti is released from my hand and having killed hundreds of enemies, returns again to my hand. O son of a suta! But in your hands, it will kill one powerful enemy who roars and blazes. Then, it will return to my hand.” Karna replied, “I wish to kill only one enemy{37} in a great battle. He roars and blazes and is the source of fear for me.” Indra said, “You kill one roaring and powerful enemy in battle. But the one you seek to kill is protected by a great-souled one who is known as the unvanquished boar{38}, Hari and the inconceivable Narayana by those who are learned in the Vedas.” Karna replied, “O illustrious one! Nevertheless, give me the invincible shakti, capable of slaying one brave person, so that I can kill the powerful one. I will slice off the earrings and armour and give them to you. But after this, let my wounded limbs not look loathsome.” Indra said, “O Karna! You will never look loathsome. You do not utter a falsehood and your body will not be scarred. O supreme among eloquent ones! O Karna! You will again possess the complexion and energy of your father. Your complexion will again become like his. But if you unleash this invincible weapon in a ﬁt of fury, when you possess other weapons, there is no doubt that it will descend on you.” Karna replied, “O Shakra! As you have told me, I will release Vasava's weapon only when I confront supreme danger. I promise you this truthfully.” O lord of the earth! He then accepted the ﬂaming shakti.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Content in his mind, he asked for the invincible shakti. Karna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Vasava! In exchange for my armour and earrings, give me the invincible shakti that kills large numbers of enemies on the ﬁeld of battle.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O protector of the earth! For an instant, Vasava thought about this in his mind. With the spear in mind, he then spoke these words to Karna. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Give me the earrings and the armour from your body. O Karna! Take the shakti from me, but on one condition. When I am ﬁghting with the daityas, this invincible shakti is released from my hand and having killed hundreds of enemies, returns again to my hand. O son of a suta! But in your hands, it will kill one powerful enemy who roars and blazes. Then, it will return to my hand.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Karna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I wish to kill only one enemy{37} in a great battle. He roars and blazes and is the source of fear for me.”",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Indra said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You kill one roaring and powerful enemy in battle. But the one you seek to kill is protected by a great-souled one who is known as the unvanquished boar{38}, Hari and the inconceivable Narayana by those who are learned in the Vedas.”",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Karna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! Nevertheless, give me the invincible shakti, capable of slaying one brave person, so that I can kill the powerful one. I will slice off the earrings and armour and give them to you. But after this, let my wounded limbs not look loathsome.”",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Indra said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Karna! You will never look loathsome. You do not utter a falsehood and your body will not be scarred. O supreme among eloquent ones! O Karna! You will again possess the complexion and energy of your father. Your complexion will again become like his. But if you unleash this invincible weapon in a ﬁt of fury, when you possess other weapons, there is no doubt that it will descend on you.”",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Karna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Shakra! As you have told me, I will release Vasava's weapon only when I confront supreme danger. I promise you this truthfully.”",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O lord of the earth! He then accepted the ﬂaming shakti.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘He grasped his sharp sword and began to cut up his entire body. On seeing Karna cut up his own body, the gods, humans, danavas and masses of siddhas began to roar, because despite the pain, there were no distortions on his face. Celestial drums were sounded and divine ﬂowers were showered down from above, at the sight of Karna, the brave man, smiling repeatedly as he cut up his own body with the sword. Having sliced off the divine armour from his body, while it was still wet, he gave it to Vasava. Then he sliced off and gave the earrings. Because of this deed, Karna came to be known as Vaikartana{39}. Shakra smiled at his deception, thinking that he had accomplished the objective of the Pandavas, and subsequently, soared up to heaven. However, he ensured Karna obtained fame in the world. Having heard that Karna had been deceived, all the sons of Dhritarashtra were miserable and their insolence was shattered. But on learning about the state that the son of the suta had been reduced to, the Parthas were happy in the forest.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘He grasped his sharp sword and began to cut up his entire body. On seeing Karna cut up his own body, the gods, humans, danavas and masses of siddhas began to roar, because despite the pain, there were no distortions on his face. Celestial drums were sounded and divine ﬂowers were showered down from above, at the sight of Karna, the brave man, smiling repeatedly as he cut up his own body with the sword. Having sliced off the divine armour from his body, while it was still wet, he gave it to Vasava. Then he sliced off and gave the earrings. Because of this deed, Karna came to be known as Vaikartana{39}. Shakra smiled at his deception, thinking that he had accomplished the objective of the Pandavas, and subsequently, soared up to heaven. However, he ensured Karna obtained fame in the world. Having heard that Karna had been deceived, all the sons of Dhritarashtra were miserable and their insolence was shattered. But on learning about the state that the son of the suta had been reduced to, the Parthas were happy in the forest.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘Where did the brave Pandavas reside? How did they learn about these glad tidings? What did they do when the twelve years had passed? O illustrious one! Tell me everything about all this.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Where did the brave Pandavas reside? How did they learn about these glad tidings? What did they do when the twelve years had passed? O illustrious one! Tell me everything about all this.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having defeated Saindhava{40} and got Krishna back and having heard the ancient and detailed accounts about gods and rishis from Markandeya, they left Kamyaka hermitage with the brahmanas. With all their chariots, servants, cooks and supervisors of the kitchen, the brave ones among men went to the sacred Dvaitavana, after having completed their entire dreadful stay in the forest.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having defeated Saindhava{40} and got Krishna back and having heard the ancient and detailed accounts about gods and rishis from Markandeya, they left Kamyaka hermitage with the brahmanas. With all their chariots, servants, cooks and supervisors of the kitchen, the brave ones among men went to the sacred Dvaitavana, after having completed their entire dreadful stay in the forest.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

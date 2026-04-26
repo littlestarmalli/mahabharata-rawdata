@@ -1,0 +1,262 @@
+{
+  "chapter": 408,
+  "local": 111,
+  "shlokas": 22,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Lomasha said, “O descendant of the Bharata lineage! To ensure the success of the king's objective, she contructed a hermitage on a boat—both because the king ordered it and because it ﬁtted with her own wishes. It was beautifully adorned with many artiﬁcial trees with ﬂowers and fruit. It had many bowers and creepers that yielded succulent fruit to satisfy every desire. She made it extremely beautiful and enticing. That hermitage on a boat was beautiful, extraordinary and an unsurpassed sight. Then she moored the boat a short distance away from Kashyapa's hermitage. She sent out some men to survey the area frequented by the sage. Deciding on a course of action and perceiving a chance, the courtesan summoned her daughter, who possessed great intelligence, and sent her to Kashyapa's son. That skilled one went to the hermitage and approached the rishi's son, who was always engaged in austerities.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! To ensure the success of the king's objective, she contructed a hermitage on a boat—both because the king ordered it and because it ﬁtted with her own wishes. It was beautifully adorned with many artiﬁcial trees with ﬂowers and fruit. It had many bowers and creepers that yielded succulent fruit to satisfy every desire. She made it extremely beautiful and enticing. That hermitage on a boat was beautiful, extraordinary and an unsurpassed sight. Then she moored the boat a short distance away from Kashyapa's hermitage. She sent out some men to survey the area frequented by the sage. Deciding on a course of action and perceiving a chance, the courtesan summoned her daughter, who possessed great intelligence, and sent her to Kashyapa's son. That skilled one went to the hermitage and approached the rishi's son, who was always engaged in austerities.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The courtesan said, ‘O sage! Is everything well with the ascetics here? Are there plenty of roots and fruit? Do you ﬁnd pleasure in this hermitage? I have come here to visit you. Are the austerities of the ascetics increasing? I hope your father has not diminished in energy. O brahmana! I hope he is pleased with you. O Rishyashringa! Are you able to pursue your studies?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The courtesan said, ",
+          "speaker": "@lomasha",
+          "introduces": "the_courtesan",
+          "introduces_label": "The courtesan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O sage! Is everything well with the ascetics here? Are there plenty of roots and fruit? Do you ﬁnd pleasure in this hermitage? I have come here to visit you. Are the austerities of the ascetics increasing? I hope your father has not diminished in energy. O brahmana! I hope he is pleased with you. O Rishyashringa! Are you able to pursue your studies?’",
+          "speaker": "the_courtesan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Rishyashringa replied, ‘You shine with radiance like the light. I think that you are worthy of showing obeisance. I will give you water to wash your feet, and according to dharma, fruits and roots to satisfy your desires. Please be seated on this mat made of kusha grass, covered with black antelope skin and made comfortable. Where is your hermitage? O brahmana! What is the name of the vow that you are observing, like a god?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Rishyashringa replied, ",
+          "speaker": "@lomasha",
+          "introduces": "@rishyashringa",
+          "introduces_label": "Rishyashringa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You shine with radiance like the light. I think that you are worthy of showing obeisance. I will give you water to wash your feet, and according to dharma, fruits and roots to satisfy your desires. Please be seated on this mat made of kusha grass, covered with black antelope skin and made comfortable. Where is your hermitage? O brahmana! What is the name of the vow that you are observing, like a god?’",
+          "speaker": "@rishyashringa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The courtesan said, ‘O son of Kashyapa! My beautiful hermitage is three yojanas away, on the other side of the mountain. My dharma is not to accept obeisance. Nor do I touch water to wash my feet.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The courtesan said, ",
+          "speaker": "@lomasha",
+          "introduces": "the_courtesan",
+          "introduces_label": "The courtesan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son of Kashyapa! My beautiful hermitage is three yojanas away, on the other side of the mountain. My dharma is not to accept obeisance. Nor do I touch water to wash my feet.’",
+          "speaker": "the_courtesan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Rishyashringa replied, ‘I will give you ripe fruit, bhallas{458}, amlakas{459}, parushakas{460}, ingudas{461}, dhanvanas{462} and priyalas{463} to satisfy your desires.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Rishyashringa replied, ",
+          "speaker": "@lomasha",
+          "introduces": "@rishyashringa",
+          "introduces_label": "Rishyashringa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will give you ripe fruit, bhallas{458}, amlakas{459}, parushakas{460}, ingudas{461}, dhanvanas{462} and priyalas{463} to satisfy your desires.’",
+          "speaker": "@rishyashringa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Lomasha said, “But having discarded all of these, she gave him extremely expensive food. This was beautiful to look at and extremely tasteful and they were very pleasurable to Rishyashringa. She gave him fragrant garlands and radiant and colourful garments and the best of drinks. Then she played, laughed and amused herself. She played at his side with a ball, like a ﬂowering creeper that was moving around. She touched his body with hers and embraced Rishyashringa again and again. She bent the branches and plucked the ﬂowers from trees like sarjas{464}, ashokas and tilakas{465}. Then, as if without shame, and overcome with liquour, she tempted the maharshi's son. Having seen the change in Rishyashringa, she pressed him again and again with her body. Then, pretending that the time for agnihotra had come, she slowly went away, casting backward glances. At her departure, Rishyashringa was overcome with desire and lost his senses. Because of his feelings for her, he felt emptiness. He sighed again and again in distress.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“But having discarded all of these, she gave him extremely expensive food. This was beautiful to look at and extremely tasteful and they were very pleasurable to Rishyashringa. She gave him fragrant garlands and radiant and colourful garments and the best of drinks. Then she played, laughed and amused herself. She played at his side with a ball, like a ﬂowering creeper that was moving around. She touched his body with hers and embraced Rishyashringa again and again. She bent the branches and plucked the ﬂowers from trees like sarjas{464}, ashokas and tilakas{465}. Then, as if without shame, and overcome with liquour, she tempted the maharshi's son. Having seen the change in Rishyashringa, she pressed him again and again with her body. Then, pretending that the time for agnihotra had come, she slowly went away, casting backward glances. At her departure, Rishyashringa was overcome with desire and lost his senses. Because of his feelings for her, he felt emptiness. He sighed again and again in distress.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“At that instant, Kashyapa Vibhandaka appeared. His eyes were tawny, like a lion's. He was covered with body hair, up to the tips of his nails. He possessed learning, conduct and meditative faculties. He approached and saw his seated son, alone, immersed in thought, and with his mind disturbed. His eyes were raised up and he sighed repeatedly. Vibhandaka told his dejected son, ‘O son! Why has wood for the sacriﬁcial kindling not been brought? Have you still not performed agnihotra today? Have the sacriﬁcial ladles been cleaned? Have you brought out the sacriﬁcial cow and her calf today? O son! You do not seem as you used to be. You are immersed in thought and have lost your senses. Why are you so dejected today? I am asking you. Who came here today?’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“At that instant, Kashyapa Vibhandaka appeared. His eyes were tawny, like a lion's. He was covered with body hair, up to the tips of his nails. He possessed learning, conduct and meditative faculties. He approached and saw his seated son, alone, immersed in thought, and with his mind disturbed. His eyes were raised up and he sighed repeatedly. Vibhandaka told his dejected son, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! Why has wood for the sacriﬁcial kindling not been brought? Have you still not performed agnihotra today? Have the sacriﬁcial ladles been cleaned? Have you brought out the sacriﬁcial cow and her calf today? O son! You do not seem as you used to be. You are immersed in thought and have lost your senses. Why are you so dejected today? I am asking you. Who came here today?’",
+          "speaker": "@rishyashringa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "name": "Ghatotkacha-vadha Parva",
+  "subparva_number": 70,
+  "source_volume": 6,
+  "details": {
+    "num_chapters": 33,
+    "num_shlokas": 1642
+  },
+  "note": "This section is named after the death or killing of Ghatotkacha by Karna. When Jayadratha is killed on the fourteenth day of the war, the bat-tle continues to rage through the night. Drona kills King Shibi of Kashi, Bhima kills the princes of Kalinga and some of Duryodhana�s broth-ers, Ashvatthama kills Anjanaparva (Ghatotkacha�s son) and several warriors on the Pandava side, Bhima kills Bahlika, Karna�s brother and Shakuni�s brothers, Ashvatthama kills many Panchalas, Satyaki kills Somadatta and Bhuri, Shalya kills Shatanika (Virata�s brother), Dhrish-tadyumna kills Drumasena, Ghatotkacha kills Alambala (Jatasura�s son) and the rakshasa Alayudha and finally, Karna kills Ghatotkacha with the spear that he has saved for Arjuna. CHAPTER 1099(122)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1099": {
+      "chapter_number": 1099,
+      "global_number": 1099,
+      "local_number": 122,
+      "num_shlokas": 88,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1099_tagged.json"
+    },
+    "1100": {
+      "chapter_number": 1100,
+      "global_number": 1100,
+      "local_number": 123,
+      "num_shlokas": 41,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1100_tagged.json"
+    },
+    "1101": {
+      "chapter_number": 1101,
+      "global_number": 1101,
+      "local_number": 124,
+      "num_shlokas": 33,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1101_tagged.json"
+    },
+    "1102": {
+      "chapter_number": 1102,
+      "global_number": 1102,
+      "local_number": 125,
+      "num_shlokas": 33,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1102_tagged.json"
+    },
+    "1103": {
+      "chapter_number": 1103,
+      "global_number": 1103,
+      "local_number": 126,
+      "num_shlokas": 39,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1103_tagged.json"
+    },
+    "1104": {
+      "chapter_number": 1104,
+      "global_number": 1104,
+      "local_number": 127,
+      "num_shlokas": 26,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1104_tagged.json"
+    },
+    "1105": {
+      "chapter_number": 1105,
+      "global_number": 1105,
+      "local_number": 128,
+      "num_shlokas": 34,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1105_tagged.json"
+    },
+    "1106": {
+      "chapter_number": 1106,
+      "global_number": 1106,
+      "local_number": 129,
+      "num_shlokas": 35,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1106_tagged.json"
+    },
+    "1107": {
+      "chapter_number": 1107,
+      "global_number": 1107,
+      "local_number": 130,
+      "num_shlokas": 40,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1107_tagged.json"
+    },
+    "1108": {
+      "chapter_number": 1108,
+      "global_number": 1108,
+      "local_number": 131,
+      "num_shlokas": 135,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1108_tagged.json"
+    },
+    "1109": {
+      "chapter_number": 1109,
+      "global_number": 1109,
+      "local_number": 132,
+      "num_shlokas": 42,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1109_tagged.json"
+    },
+    "1110": {
+      "chapter_number": 1110,
+      "global_number": 1110,
+      "local_number": 133,
+      "num_shlokas": 64,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1110_tagged.json"
+    },
+    "1111": {
+      "chapter_number": 1111,
+      "global_number": 1111,
+      "local_number": 134,
+      "num_shlokas": 81,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1111_tagged.json"
+    },
+    "1112": {
+      "chapter_number": 1112,
+      "global_number": 1112,
+      "local_number": 135,
+      "num_shlokas": 54,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1112_tagged.json"
+    },
+    "1113": {
+      "chapter_number": 1113,
+      "global_number": 1113,
+      "local_number": 136,
+      "num_shlokas": 19,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1113_tagged.json"
+    },
+    "1114": {
+      "chapter_number": 1114,
+      "global_number": 1114,
+      "local_number": 137,
+      "num_shlokas": 51,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1114_tagged.json"
+    },
+    "1115": {
+      "chapter_number": 1115,
+      "global_number": 1115,
+      "local_number": 138,
+      "num_shlokas": 34,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1115_tagged.json"
+    },
+    "1116": {
+      "chapter_number": 1116,
+      "global_number": 1116,
+      "local_number": 139,
+      "num_shlokas": 33,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1116_tagged.json"
+    },
+    "1117": {
+      "chapter_number": 1117,
+      "global_number": 1117,
+      "local_number": 140,
+      "num_shlokas": 41,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1117_tagged.json"
+    },
+    "1118": {
+      "chapter_number": 1118,
+      "global_number": 1118,
+      "local_number": 141,
+      "num_shlokas": 61,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1118_tagged.json"
+    },
+    "1119": {
+      "chapter_number": 1119,
+      "global_number": 1119,
+      "local_number": 142,
+      "num_shlokas": 44,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1119_tagged.json"
+    },
+    "1120": {
+      "chapter_number": 1120,
+      "global_number": 1120,
+      "local_number": 143,
+      "num_shlokas": 42,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1120_tagged.json"
+    },
+    "1121": {
+      "chapter_number": 1121,
+      "global_number": 1121,
+      "local_number": 144,
+      "num_shlokas": 42,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1121_tagged.json"
+    },
+    "1122": {
+      "chapter_number": 1122,
+      "global_number": 1122,
+      "local_number": 145,
+      "num_shlokas": 68,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1122_tagged.json"
+    },
+    "1123": {
+      "chapter_number": 1123,
+      "global_number": 1123,
+      "local_number": 146,
+      "num_shlokas": 51,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1123_tagged.json"
+    },
+    "1124": {
+      "chapter_number": 1124,
+      "global_number": 1124,
+      "local_number": 147,
+      "num_shlokas": 38,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1124_tagged.json"
+    },
+    "1125": {
+      "chapter_number": 1125,
+      "global_number": 1125,
+      "local_number": 148,
+      "num_shlokas": 62,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1125_tagged.json"
+    },
+    "1126": {
+      "chapter_number": 1126,
+      "global_number": 1126,
+      "local_number": 149,
+      "num_shlokas": 37,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1126_tagged.json"
+    },
+    "1127": {
+      "chapter_number": 1127,
+      "global_number": 1127,
+      "local_number": 150,
+      "num_shlokas": 103,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1127_tagged.json"
+    },
+    "1128": {
+      "chapter_number": 1128,
+      "global_number": 1128,
+      "local_number": 151,
+      "num_shlokas": 21,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1128_tagged.json"
+    },
+    "1129": {
+      "chapter_number": 1129,
+      "global_number": 1129,
+      "local_number": 152,
+      "num_shlokas": 47,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1129_tagged.json"
+    },
+    "1130": {
+      "chapter_number": 1130,
+      "global_number": 1130,
+      "local_number": 153,
+      "num_shlokas": 40,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1130_tagged.json"
+    },
+    "1131": {
+      "chapter_number": 1131,
+      "global_number": 1131,
+      "local_number": 154,
+      "num_shlokas": 63,
+      "file": "subparva_70_ghatotkacha_vadha_parva/chapter_1131_tagged.json"
+    }
+  }
+}

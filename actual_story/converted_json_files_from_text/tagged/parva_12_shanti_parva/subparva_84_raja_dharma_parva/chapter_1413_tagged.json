@@ -1,0 +1,124 @@
+{
+  "chapter_number": 1413,
+  "global_number": 1413,
+  "local_number": 85,
+  "num_shlokas": 11,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Bhishma said, ‘O Yudhishthira! In this connection an ancient history is recounted, about the conversation between Brihaspati and Shakra.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Bhishma said, ‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O Yudhishthira! In this connection an ancient history is recounted, about the conversation between Brihaspati and Shakra.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“Shakra asked, ‘O brahmana! What single step can a man take well, so that he becomes pre-eminent among all beings and obtains great glory?’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "“Shakra asked, ‘O brahmana! What single step can a man take well, so that he becomes pre-eminent among all beings and obtains great glory?’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“Brihaspati replied, ‘O Shakra! Pleasant speech is the single good step through which a man becomes pre-eminent among all beings and obtains great glory. O Shakra! This is the single step that brings happiness to all beings and by observing this one always becomes the beloved of all beings. If a person never speaks, if he always has a frown on his face and if his speech is not pleasant, he becomes an object of hatred for all beings. A person who glances ﬁrst, a person who speaks ﬁrst, a person who smiles before speaking, he is the person whom people favour. Everywhere, even if gifts are given, but without pleasant speech, that is like food without seasoning and does not please people. O Shakra! Even if a person does not give anything, but speaks to people in sweet words, he is capable of bringing all the people under his subjugation. Therefore, it is the duty of anyone who wields the rod to be pleasant in speech. That generates results and people do not hate him. Pleasant speech that is soft and sweet and is delivered well is like a good deed and there is nothing that equals it.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Brihaspati replied, ‘O Shakra! Pleasant speech is the single good step through which a man becomes pre-eminent among all beings and obtains great glory. O Shakra! This is the single step that brings happiness to all beings and by observing this one always becomes the beloved of all beings. If a person never speaks, if he always has a frown on his face and if his speech is not pleasant, he becomes an object of hatred for all beings. A person who glances ﬁrst, a person who speaks ﬁrst, a person who smiles before speaking, he is the person whom people favour. Everywhere, even if gifts are given, but without pleasant speech, that is like food without seasoning and does not please people. O Shakra! Even if a person does not give anything, but speaks to people in sweet words, he is capable of bringing all the people under his subjugation. Therefore, it is the duty of anyone who wields the rod to be pleasant in speech. That generates results and people do not hate him. Pleasant speech that is soft and sweet and is delivered well is like a good deed and there is nothing that equals it.’”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 3
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Bhishma said, “Having been thus addressed by the priest{776}, Shakra acted entirely in this way. O Kounteya! You should also properly follow this.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Having been thus addressed by the priest{776}, Shakra acted entirely in this way. O Kounteya! You should also properly follow this.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    }
+  }
+}

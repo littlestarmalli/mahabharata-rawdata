@@ -1,0 +1,22 @@
+{
+  "name": "Mausala Parva",
+  "parva_number": 16,
+  "details": {
+    "num_subparvas": 1,
+    "num_chapters": 9,
+    "num_shlokas": 273
+  },
+  "subparvas": {
+    "93": {
+      "subparva_number": 93,
+      "name": "Mausala Parva",
+      "source_volume": 10,
+      "details": {
+        "num_chapters": 9,
+        "num_shlokas": 273
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_16_mausala_parva/subparva_93_mausala_parva/subparva_93_mausala_parva.json"
+    }
+  }
+}

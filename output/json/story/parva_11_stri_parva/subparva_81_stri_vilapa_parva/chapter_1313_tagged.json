@@ -1,0 +1,106 @@
+{
+  "chapter_number": 1313,
+  "global_number": 1313,
+  "local_number": 12,
+  "num_shlokas": 15,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘The attendants then arrived, so as to clean him{21}. Once he had been cleaned, Madhusudana again spoke to him. “O king! You have studied the Vedas and many sacred texts. You are learned in the Puranas and the dharma of kings. O immensely wise one! Though learned, you did not follow their injunctions. O Kourava! You knew that the Pandavas were superior in strength and valour. A king is ﬁrm in his wisdom only if he detects crimes himself and obtains what is most beneﬁcial, depending on the time and the place. A person who is told about what is beneﬁcial, but does not accept the good and reject the bad, confronts a calamity and has to repent later. O descendant of the Bharata lineage! Consider the course of action that you followed. O king! You did not control yourself and were under Duryodhana’s control. This is because of your own crimes. Why did you wish to kill Bhima? Therefore, control your anger and remember your own evil deeds. In his insolence, the inferior one{22} had Panchali{23} brought to the assembly hall. Bhimasena killed him to avenge that enmity. Look towards your own transgressions and those of your evil-souled son. O scorcher of enemies! The blameless Pandus were abandoned by you.” O lord of men! Thus did Krishna recount the entire truth.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘The attendants then arrived, so as to clean him{21}. Once he had been cleaned,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Madhusudana again spoke to him",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@madhusudana_again",
+          "text": "“O king! You have studied the Vedas and many sacred texts. You are learned in the Puranas and the dharma of kings. O immensely wise one! Though learned, you did not follow their injunctions. O Kourava! You knew that the Pandavas were superior in strength and valour. A king is ﬁrm in his wisdom only if he detects crimes himself and obtains what is most beneﬁcial, depending on the time and the place. A person who is told about what is beneﬁcial, but does not accept the good and reject the bad, confronts a calamity and has to repent later. O descendant of the Bharata lineage! Consider the course of action that you followed. O king! You did not control yourself and were under Duryodhana’s control. This is because of your own crimes. Why did you wish to kill Bhima? Therefore, control your anger and remember your own evil deeds. In his insolence, the inferior one{22} had Panchali{23} brought to the assembly hall. Bhimasena killed him to avenge that enmity. Look towards your own transgressions and those of your evil-souled son. O scorcher of enemies! The blameless Pandus were abandoned by you.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O lord of men! Thus did Krishna recount the entire truth.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Dhritarashtra, lord of the earth, replied to Devaki’s son. “O mighty-armed one! O Madhava! It is as you have described it. O one who has dharma in his soul! The affection towards my son made me deviate from my patience. That tiger among men{24} is powerful and has truth as his valour. O Krishna! It is fortunate that Bhima was protected by you and did not come between my arms. I am no longer distracted. My anger has gone. My fever has been dispelled. O Keshava! I wish to embrace the brave middle Pandava{25}. Those Indras among kings have been slain. My sons have been killed. My refuge and my pleasure are now vested with the sons of Pandu.” He wept and embraced Bhima, Dhananjaya and Madri’s two sons, the brave men. He touched their limbs, comforted them and gave them his blessings.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra, lord of the earth, replied to Devaki’s son",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“O mighty-armed one! O Madhava! It is as you have described it. O one who has dharma in his soul! The affection towards my son made me deviate from my patience. That tiger among men{24} is powerful and has truth as his valour. O Krishna! It is fortunate that Bhima was protected by you and did not come between my arms. I am no longer distracted. My anger has gone. My fever has been dispelled. O Keshava! I wish to embrace the brave middle Pandava{25}. Those Indras among kings have been slain. My sons have been killed. My refuge and my pleasure are now vested with the sons of Pandu.”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "He wept and embraced Bhima, Dhananjaya and Madri’s two sons, the brave men. He touched their limbs, comforted them and gave them his blessings.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

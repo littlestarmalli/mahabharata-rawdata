@@ -1,0 +1,282 @@
+{
+  "name": "Indralokabhigamana Parva",
+  "subparva_number": 32,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 37,
+    "num_shlokas": 1175
+  },
+  "note": "Indraloka means Tndra�s world and abhigamana means to go or visit. So this section is about the visit to Tndra�s world, meaning Arjuna�s visit to Tndra�s world.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "340": {
+      "chapter_number": 340,
+      "global_number": 340,
+      "local_number": 43,
+      "num_shlokas": 38,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_340_tagged.json"
+    },
+    "341": {
+      "chapter_number": 341,
+      "global_number": 341,
+      "local_number": 44,
+      "num_shlokas": 32,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_341_tagged.json"
+    },
+    "342": {
+      "chapter_number": 342,
+      "global_number": 342,
+      "local_number": 45,
+      "num_shlokas": 38,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_342_tagged.json"
+    },
+    "343": {
+      "chapter_number": 343,
+      "global_number": 343,
+      "local_number": 46,
+      "num_shlokas": 41,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_343_tagged.json"
+    },
+    "344": {
+      "chapter_number": 344,
+      "global_number": 344,
+      "local_number": 47,
+      "num_shlokas": 12,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_344_tagged.json"
+    },
+    "345": {
+      "chapter_number": 345,
+      "global_number": 345,
+      "local_number": 48,
+      "num_shlokas": 41,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_345_tagged.json"
+    },
+    "346": {
+      "chapter_number": 346,
+      "global_number": 346,
+      "local_number": 49,
+      "num_shlokas": 43,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_346_tagged.json"
+    },
+    "347": {
+      "chapter_number": 347,
+      "global_number": 347,
+      "local_number": 50,
+      "num_shlokas": 31,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_347_tagged.json"
+    },
+    "348": {
+      "chapter_number": 348,
+      "global_number": 348,
+      "local_number": 51,
+      "num_shlokas": 29,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_348_tagged.json"
+    },
+    "349": {
+      "chapter_number": 349,
+      "global_number": 349,
+      "local_number": 52,
+      "num_shlokas": 24,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_349_tagged.json"
+    },
+    "350": {
+      "chapter_number": 350,
+      "global_number": 350,
+      "local_number": 53,
+      "num_shlokas": 21,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_350_tagged.json"
+    },
+    "351": {
+      "chapter_number": 351,
+      "global_number": 351,
+      "local_number": 54,
+      "num_shlokas": 38,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_351_tagged.json"
+    },
+    "352": {
+      "chapter_number": 352,
+      "global_number": 352,
+      "local_number": 55,
+      "num_shlokas": 13,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_352_tagged.json"
+    },
+    "353": {
+      "chapter_number": 353,
+      "global_number": 353,
+      "local_number": 56,
+      "num_shlokas": 18,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_353_tagged.json"
+    },
+    "354": {
+      "chapter_number": 354,
+      "global_number": 354,
+      "local_number": 57,
+      "num_shlokas": 23,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_354_tagged.json"
+    },
+    "355": {
+      "chapter_number": 355,
+      "global_number": 355,
+      "local_number": 58,
+      "num_shlokas": 34,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_355_tagged.json"
+    },
+    "356": {
+      "chapter_number": 356,
+      "global_number": 356,
+      "local_number": 59,
+      "num_shlokas": 25,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_356_tagged.json"
+    },
+    "357": {
+      "chapter_number": 357,
+      "global_number": 357,
+      "local_number": 60,
+      "num_shlokas": 38,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_357_tagged.json"
+    },
+    "358": {
+      "chapter_number": 358,
+      "global_number": 358,
+      "local_number": 61,
+      "num_shlokas": 125,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_358_tagged.json"
+    },
+    "359": {
+      "chapter_number": 359,
+      "global_number": 359,
+      "local_number": 62,
+      "num_shlokas": 43,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_359_tagged.json"
+    },
+    "360": {
+      "chapter_number": 360,
+      "global_number": 360,
+      "local_number": 63,
+      "num_shlokas": 24,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_360_tagged.json"
+    },
+    "361": {
+      "chapter_number": 361,
+      "global_number": 361,
+      "local_number": 64,
+      "num_shlokas": 19,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_361_tagged.json"
+    },
+    "362": {
+      "chapter_number": 362,
+      "global_number": 362,
+      "local_number": 65,
+      "num_shlokas": 37,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_362_tagged.json"
+    },
+    "363": {
+      "chapter_number": 363,
+      "global_number": 363,
+      "local_number": 66,
+      "num_shlokas": 26,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_363_tagged.json"
+    },
+    "364": {
+      "chapter_number": 364,
+      "global_number": 364,
+      "local_number": 67,
+      "num_shlokas": 22,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_364_tagged.json"
+    },
+    "365": {
+      "chapter_number": 365,
+      "global_number": 365,
+      "local_number": 68,
+      "num_shlokas": 24,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_365_tagged.json"
+    },
+    "366": {
+      "chapter_number": 366,
+      "global_number": 366,
+      "local_number": 69,
+      "num_shlokas": 34,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_366_tagged.json"
+    },
+    "367": {
+      "chapter_number": 367,
+      "global_number": 367,
+      "local_number": 70,
+      "num_shlokas": 39,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_367_tagged.json"
+    },
+    "368": {
+      "chapter_number": 368,
+      "global_number": 368,
+      "local_number": 71,
+      "num_shlokas": 34,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_368_tagged.json"
+    },
+    "369": {
+      "chapter_number": 369,
+      "global_number": 369,
+      "local_number": 72,
+      "num_shlokas": 30,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_369_tagged.json"
+    },
+    "370": {
+      "chapter_number": 370,
+      "global_number": 370,
+      "local_number": 73,
+      "num_shlokas": 28,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_370_tagged.json"
+    },
+    "371": {
+      "chapter_number": 371,
+      "global_number": 371,
+      "local_number": 74,
+      "num_shlokas": 24,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_371_tagged.json"
+    },
+    "372": {
+      "chapter_number": 372,
+      "global_number": 372,
+      "local_number": 75,
+      "num_shlokas": 27,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_372_tagged.json"
+    },
+    "373": {
+      "chapter_number": 373,
+      "global_number": 373,
+      "local_number": 76,
+      "num_shlokas": 19,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_373_tagged.json"
+    },
+    "374": {
+      "chapter_number": 374,
+      "global_number": 374,
+      "local_number": 77,
+      "num_shlokas": 29,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_374_tagged.json"
+    },
+    "375": {
+      "chapter_number": 375,
+      "global_number": 375,
+      "local_number": 78,
+      "num_shlokas": 23,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_375_tagged.json"
+    },
+    "376": {
+      "chapter_number": 376,
+      "global_number": 376,
+      "local_number": 79,
+      "num_shlokas": 29,
+      "file": "subparva_32_indralokabhigamana_parva/chapter_376_tagged.json"
+    }
+  }
+}

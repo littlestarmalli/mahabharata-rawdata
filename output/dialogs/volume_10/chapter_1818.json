@@ -1,0 +1,251 @@
+{
+  "chapter": 1818,
+  "local": 137,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O lord of men! What is seen to be the prosperity that comes from worshipping brahmanas? O immensely wise one! What is your view? Why do you engage in these tasks of worshipping them?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of men! What is seen to be the prosperity that comes from worshipping brahmanas? O immensely wise one! What is your view? Why do you engage in these tasks of worshipping them?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O descendant of the Bharata lineage! In this connection, a history is recounted about a conversation between Pavana and Arjuna. There was the thousand-armed and handsome Kartavirya{1382}. The immensely strong one became the lord of this entire world and his capital was in Mahishmati. Haihaya had truth for his valour and he ruled the entire earth, with its stores of jewels, islands and the girdle of the ocean. He placed the dharma of kshatriyas at the forefront and was humble and learned. For some reason, he gave all his own riches to Dattatreya. Kritavirya's son worshipped the sage. The brahmana was delighted and offered to grant him three boons. Happy at the prospect of receiving boons, the king said, ‘When I am in the midst of the soldiers, let me have one thousand arms. But in my house, it should not be that way{1383}. In the battle, let the soldiers see my one thousand arms. O one who is great in his vows! Let me conquer the entire earth through my valour. Having obtained it through dharma, let me attentively rule it. O supreme among brahmanas! I desire a fourth boon from you too. O unblemished one! You have shown me your favours and you should grant me this. If I ever resort to false conduct, let the virtuous instruct me.’ Thus addressed, the brahmana told the king that it would be that way. The one who was blazing in his energy granted him these boons. He{1384} ascended a chariot that was as resplendent as the ﬁre and the sun. Deluded by his valour, he exclaimed, ‘There is no one who is my equal in valour, patience, fame, purity, bravery and energy.’ When he spoke these words, an invisible voice was heard from the sky. ‘O foolish one! You do not know that brahmanas are superior to kshatriyas. The kshatriya protects subjects because he is aided by brahmanas.’ Arjuna replied, ‘When I am pleased, I can create beings. When I am angry, I can convey them to their destruction. There is no brahmana who is superior to me in deeds, thoughts and words. You have said that the brahmana is superior. However, there is a second view that the kshatriya is superior. No special reason for superiority can be seen in what you have said. Brahmanas seek refuge with kshatriyas. Kshatriyas do not seek refuge with brahmanas. On earth, the brahmanas obtain their prosperity, their studying of the brahman and their food from kshatriyas. Dharma and the protection of subjects have kshatriyas as a refuge. Brahmanas obtain their sustenance through kshatriyas. How can brahmanas be superior? If those who always resort to alms are superior to all creatures, I will use my powers to bring all the brahmanas under my subjugation. What the maiden Gayatri{1385} has spoken from heaven is not the truth. The brahmanas are attired in skins. I will defeat them and bring all of them under my subjugation. There is no one in the three worlds, human or divine, who can dislodge me from my kingdom. Therefore, I am superior to brahmanas. If the brahmanas are foremost in the world, today, I will make kshatriyas superior to them. There is no one who can withstand my strength in battle.’ Hearing Arjuna's words, the invisible voice was frightened. At this, Vayu spoke from the ﬁrmament. ‘Cast aside these wicked sentiments and bow down to brahmanas. If you commit this sin, your kingdom will be agitated. O lord of the earth! Otherwise, the brahmanas will pacify you. Those immensely strong ones will drive you away from your kingdom or destroy your enterprise.’ The king asked, ‘Who are you?’ The windgod replied, ‘I am Vayu. I am a messenger of the gods. I am telling you what is beneﬁcial for you.’ Arjuna asked, ‘I can see that you have now exhibited your devotion and attachment towards brahmanas. Among all the creatures on earth, tell me about the brahmanas. Tell me. Is a supreme brahmana Vayu's equal? Tell me. Is he equal to the water, the sun or the ﬁrmament?’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! In this connection, a history is recounted about a conversation between Pavana and Arjuna. There was the thousand-armed and handsome Kartavirya{1382}. The immensely strong one became the lord of this entire world and his capital was in Mahishmati. Haihaya had truth for his valour and he ruled the entire earth, with its stores of jewels, islands and the girdle of the ocean. He placed the dharma of kshatriyas at the forefront and was humble and learned. For some reason, he gave all his own riches to Dattatreya. Kritavirya's son worshipped the sage. The brahmana was delighted and offered to grant him three boons. Happy at the prospect of receiving boons, the king said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "the king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘When I am in the midst of the soldiers, let me have one thousand arms. But in my house, it should not be that way{1383}. In the battle, let the soldiers see my one thousand arms. O one who is great in his vows! Let me conquer the entire earth through my valour. Having obtained it through dharma, let me attentively rule it. O supreme among brahmanas! I desire a fourth boon from you too. O unblemished one! You have shown me your favours and you should grant me this. If I ever resort to false conduct, let the virtuous instruct me.’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed, the brahmana told the king that it would be that way. The one who was blazing in his energy granted him these boons. He{1384} ascended a chariot that was as resplendent as the ﬁre and the sun. Deluded by his valour, he exclaimed, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There is no one who is my equal in valour, patience, fame, purity, bravery and energy.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When he spoke these words, an invisible voice was heard from the sky. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O foolish one! You do not know that brahmanas are superior to kshatriyas. The kshatriya protects subjects because he is aided by brahmanas.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Arjuna replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘When I am pleased, I can create beings. When I am angry, I can convey them to their destruction. There is no brahmana who is superior to me in deeds, thoughts and words. You have said that the brahmana is superior. However, there is a second view that the kshatriya is superior. No special reason for superiority can be seen in what you have said. Brahmanas seek refuge with kshatriyas. Kshatriyas do not seek refuge with brahmanas. On earth, the brahmanas obtain their prosperity, their studying of the brahman and their food from kshatriyas. Dharma and the protection of subjects have kshatriyas as a refuge. Brahmanas obtain their sustenance through kshatriyas. How can brahmanas be superior? If those who always resort to alms are superior to all creatures, I will use my powers to bring all the brahmanas under my subjugation. What the maiden Gayatri{1385} has spoken from heaven is not the truth. The brahmanas are attired in skins. I will defeat them and bring all of them under my subjugation. There is no one in the three worlds, human or divine, who can dislodge me from my kingdom. Therefore, I am superior to brahmanas. If the brahmanas are foremost in the world, today, I will make kshatriyas superior to them. There is no one who can withstand my strength in battle.’",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing Arjuna's words, the invisible voice was frightened. At this, Vayu spoke from the ﬁrmament. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Cast aside these wicked sentiments and bow down to brahmanas. If you commit this sin, your kingdom will be agitated. O lord of the earth! Otherwise, the brahmanas will pacify you. Those immensely strong ones will drive you away from your kingdom or destroy your enterprise.’",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king asked, ",
+          "speaker": "@bhishma",
+          "introduces": "the_king",
+          "introduces_label": "The king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who are you?’",
+          "speaker": "the_king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The windgod replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_windgod",
+          "introduces_label": "The windgod",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am Vayu. I am a messenger of the gods. I am telling you what is beneﬁcial for you.’",
+          "speaker": "the_windgod",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Arjuna asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I can see that you have now exhibited your devotion and attachment towards brahmanas. Among all the creatures on earth, tell me about the brahmanas. Tell me. Is a supreme brahmana Vayu's equal? Tell me. Is he equal to the water, the sun or the ﬁrmament?’",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

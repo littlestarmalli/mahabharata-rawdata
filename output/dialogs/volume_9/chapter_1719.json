@@ -1,0 +1,271 @@
+{
+  "chapter": 1719,
+  "local": 38,
+  "shlokas": 30,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O supreme among the Bharata lineage! I wish to hear about the character of women. O grandfather! Women are the root of all sins and their intelligence is ﬁckle.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among the Bharata lineage! I wish to hear about the character of women. O grandfather! Women are the root of all sins and their intelligence is ﬁckle.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is recounted about a conversation between Narada and the courtesan Panchachuda. In ancient times, the intelligent devarshi Narada was roaming through the worlds. In Brahma's region, he saw the unblemished apsara, Panchachuda. On seeing all her beautiful limbs, the sage asked the apsara, ‘O one with the excellent waist! There is a doubt in my heart. Tell me.’ Having been thus addressed, she told the brahmana Narada, ‘If you think that I am capable, tell me what the subject is.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted about a conversation between Narada and the courtesan Panchachuda. In ancient times, the intelligent devarshi Narada was roaming through the worlds. In Brahma's region, he saw the unblemished apsara, Panchachuda. On seeing all her beautiful limbs, the sage asked the apsara, ",
+          "speaker": "@bhishma",
+          "introduces": "the_sage",
+          "introduces_label": "the sage",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the excellent waist! There is a doubt in my heart. Tell me.’",
+          "speaker": "the_sage",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, she told the brahmana Narada, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you think that I am capable, tell me what the subject is.’",
+          "speaker": "the_sage",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Narada said, ‘O fortunate one! I will never ask you to do something that you are incapable of. O one with the beautiful face! I wish to hear the truth about the character of women.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Narada said, ",
+          "speaker": "@bhishma",
+          "introduces": "@narada",
+          "introduces_label": "Narada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! I will never ask you to do something that you are incapable of. O one with the beautiful face! I wish to hear the truth about the character of women.’",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “On hearing the words of the devarshi, the supreme among apsaras replied, ‘Since I am a woman, I am incapable of criticizing women. You know about women and their nature. O devarshi! You should not ask me to answer such a question.’ The devarshi said, ‘O one with the excellent waist! You have spoken the truth. However, lying is a sin. There is no sin in speaking the truth.’ Having been thus addressed, the one with the beautiful smiles made up her mind. She truthfully spoke about the eternal vices of women.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On hearing the words of the devarshi, the supreme among apsaras replied, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Since I am a woman, I am incapable of criticizing women. You know about women and their nature. O devarshi! You should not ask me to answer such a question.’",
+          "speaker": "@narada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The devarshi said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_devarshi",
+          "introduces_label": "The devarshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the excellent waist! You have spoken the truth. However, lying is a sin. There is no sin in speaking the truth.’",
+          "speaker": "the_devarshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, the one with the beautiful smiles made up her mind. She truthfully spoke about the eternal vices of women.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Panchachuda said, ‘O Narada! Even if a woman belongs to a noble lineage, is beautiful and has a protector, she doesn't follow the restraints. That is a fault among women. There is nothing more evil than women. Women are the root of all sins. You yourself know this. There may be a husband who is famous, prosperous, handsome and obedient. Even then, a woman waits to disregard him. O lord! We women are prone to wickedness and adharma. We abandon our shame and are attracted to evil men. Women like those who approach, desire and serve them. They aren't concerned about not following the restraints. Out of fear of relatives, or injury caused to people, women aren't constrained to follow restraints and stick by their husbands. Women do not ﬁnd anyone unapproachable, nor do they care about age. They enjoy men, regardless of whether they are handsome or ugly. Because of fear, compassion, riches, kin, family and alliances, women never remain with their husbands. Women of good families also envy independent women who are young and wear beautiful ornaments and garments. There may be beloved wives who are protected and always greatly respected. Even they are attracted to those who are hunchbacked, blind, dumb and dwarves. O devarshi! They are attracted to the disabled and other ugly men. O great sage! There is no one in this world whom women regard as unapproachable. O brahmana! If a man can be obtained in any way, a woman never remains with her husband. If a woman is restrained and protects herself, that is because a man cannot be obtained, out of fear of relatives, or out of fear of being killed or imprisoned. Their nature is ﬁckle. They are difﬁcult to please and difﬁcult to understand. Women are like words spoken by the wise{1269}. Wood never satisﬁes a ﬁre. The great ocean is never satisﬁed by rivers. Yama is not satisﬁed with all creatures. The fair-eyed ones are never satisﬁed with men. O devarshi! I think that this is a mystery about all women. As soon as she sees a man, a woman's vagina is moistened. Even the best of women are not satisﬁed with husbands who give them everything that they wish, do whatever they desire and protect them. A woman does not attach as much importance to objects of pleasure, many ornaments and large stores of possessions as she does to the prospect of sexual intercourse. The destroyer, destruction, death, the nether regions, the subterranean ﬁre, the sharpness of a razor, the poison of a snake and the ﬁre—all these collectively exist in a woman. The creator ordained the worlds and the ﬁve great elements originated with him. O Narada! When men and women were created, these are the sins that were implanted in women.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Panchachuda said, ",
+          "speaker": "@bhishma",
+          "introduces": "panchachuda",
+          "introduces_label": "Panchachuda",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Narada! Even if a woman belongs to a noble lineage, is beautiful and has a protector, she doesn't follow the restraints. That is a fault among women. There is nothing more evil than women. Women are the root of all sins. You yourself know this. There may be a husband who is famous, prosperous, handsome and obedient. Even then, a woman waits to disregard him. O lord! We women are prone to wickedness and adharma. We abandon our shame and are attracted to evil men. Women like those who approach, desire and serve them. They aren't concerned about not following the restraints. Out of fear of relatives, or injury caused to people, women aren't constrained to follow restraints and stick by their husbands. Women do not ﬁnd anyone unapproachable, nor do they care about age. They enjoy men, regardless of whether they are handsome or ugly. Because of fear, compassion, riches, kin, family and alliances, women never remain with their husbands. Women of good families also envy independent women who are young and wear beautiful ornaments and garments. There may be beloved wives who are protected and always greatly respected. Even they are attracted to those who are hunchbacked, blind, dumb and dwarves. O devarshi! They are attracted to the disabled and other ugly men. O great sage! There is no one in this world whom women regard as unapproachable. O brahmana! If a man can be obtained in any way, a woman never remains with her husband. If a woman is restrained and protects herself, that is because a man cannot be obtained, out of fear of relatives, or out of fear of being killed or imprisoned. Their nature is ﬁckle. They are difﬁcult to please and difﬁcult to understand. Women are like words spoken by the wise{1269}. Wood never satisﬁes a ﬁre. The great ocean is never satisﬁed by rivers. Yama is not satisﬁed with all creatures. The fair-eyed ones are never satisﬁed with men. O devarshi! I think that this is a mystery about all women. As soon as she sees a man, a woman's vagina is moistened. Even the best of women are not satisﬁed with husbands who give them everything that they wish, do whatever they desire and protect them. A woman does not attach as much importance to objects of pleasure, many ornaments and large stores of possessions as she does to the prospect of sexual intercourse. The destroyer, destruction, death, the nether regions, the subterranean ﬁre, the sharpness of a razor, the poison of a snake and the ﬁre—all these collectively exist in a woman. The creator ordained the worlds and the ﬁve great elements originated with him. O Narada! When men and women were created, these are the sins that were implanted in women.’",
+          "speaker": "panchachuda",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

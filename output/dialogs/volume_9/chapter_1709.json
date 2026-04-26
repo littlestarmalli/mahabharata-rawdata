@@ -1,0 +1,376 @@
+{
+  "chapter": 1709,
+  "local": 28,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “You possess wisdom, learning, good conduct and behaviour. You possess all the qualities and are also aged. O supreme among those who uphold dharma! Therefore, I am asking you about dharma. O supreme among kings! If a person is a kshatriya, vaishya or a shudra, you should tell me how he can become a brahmana. O grandfather! Does one become a brahmana through austerities, great deeds or learning? Tell me that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You possess wisdom, learning, good conduct and behaviour. You possess all the qualities and are also aged. O supreme among those who uphold dharma! Therefore, I am asking you about dharma. O supreme among kings! If a person is a kshatriya, vaishya or a shudra, you should tell me how he can become a brahmana. O grandfather! Does one become a brahmana through austerities, great deeds or learning? Tell me that.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O son! O Yudhishthira! For a kshatriya and the others, the three varnas, becoming a brahmana is extremely difﬁcult. For all beings, that is the best state. O son! If one is repeatedly and progressively cooked in the cycle of life, one can then be born as a brahmana. O Yudhishthira! In this connection, there is an ancient history about a conversation between Matanga and a she-ass. O son! There was a brahmana and this lord obtained a son through a varna that was not his equal{1234}. His name was Matanga and he possessed all the qualities. O Kounteya! O scorcher of enemies! Wishing to perform a sacriﬁce, his father sent him to bring the required objects. He departed on a wagon that travelled fast and it was drawn by an ass. O king! The ass was young and it dragged the wagon to its mother. At this, he{1235} repeatedly struck it on the nose. The she-ass loved its son. On seeing those terrible wounds, it said, ‘O son! Do not grieve. A chandala is driving you. A brahmana is never terrible. A brahmana is said to be friendly. He is the preceptor of all creatures and their instructor. How can such a person strike? This one is wicked in nature and does not show any compassion, even to someone who is young. By exhibiting his character, he is only exhibiting the nature of his birth.’ Matanga heard these terrible words of the she-ass. He descended from the wagon and addressed the she-ass.’O she-ass! O fortunate one! How was my mother tainted? How do you know that I am a chandala? O she-ass! Instruct me quickly. How was I born as a chandala and how has my status as a brahmana been destroyed? O immensely wise one! Without leaving out anything, tell me everything about this.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! O Yudhishthira! For a kshatriya and the others, the three varnas, becoming a brahmana is extremely difﬁcult. For all beings, that is the best state. O son! If one is repeatedly and progressively cooked in the cycle of life, one can then be born as a brahmana. O Yudhishthira! In this connection, there is an ancient history about a conversation between Matanga and a she-ass. O son! There was a brahmana and this lord obtained a son through a varna that was not his equal{1234}. His name was Matanga and he possessed all the qualities. O Kounteya! O scorcher of enemies! Wishing to perform a sacriﬁce, his father sent him to bring the required objects. He departed on a wagon that travelled fast and it was drawn by an ass. O king! The ass was young and it dragged the wagon to its mother. At this, he{1235} repeatedly struck it on the nose. The she-ass loved its son. On seeing those terrible wounds, it said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "it",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! Do not grieve. A chandala is driving you. A brahmana is never terrible. A brahmana is said to be friendly. He is the preceptor of all creatures and their instructor. How can such a person strike? This one is wicked in nature and does not show any compassion, even to someone who is young. By exhibiting his character, he is only exhibiting the nature of his birth.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Matanga heard these terrible words of the she-ass. He descended from the wagon and addressed the she-ass.’",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "O she-ass! O fortunate one! How was my mother tainted? How do you know that I am a chandala? O she-ass! Instruct me quickly. How was I born as a chandala and how has my status as a brahmana been destroyed? O immensely wise one! Without leaving out anything, tell me everything about this.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“The she-ass said, ‘There was a brahmana lady who was overcome with desire and you were born through a vrishala who was a barber. That is the reason you have been born as a chandala and the reason why your status as a brahmana has been destroyed.’” ‘Bhishma continued, “Having been thus addressed, Matanga returned home. On seeing that he had returned, his father spoke these words. ‘I asked you to do some things connected with the sacriﬁce. How can you return without performing the tasks instructed by your superior? Is everything well with you?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The she-ass said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_she-ass",
+          "introduces_label": "The she-ass",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There was a brahmana lady who was overcome with desire and you were born through a vrishala who was a barber. That is the reason you have been born as a chandala and the reason why your status as a brahmana has been destroyed.’",
+          "speaker": "the_she-ass",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@bhishma",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“Having been thus addressed, Matanga returned home. On seeing that he had returned, his father spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 4,
+          "text": "‘I asked you to do some things connected with the sacriﬁce. How can you return without performing the tasks instructed by your superior? Is everything well with you?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 3,
+      "stack": [
+        "'",
+        "'",
+        "\""
+      ],
+      "text": "‘“Matanga replied, ‘How can someone of uncertain birth, or with the worst possible birth, be well? O father! How can someone with a mother like that be well? O father! I have got to know that though my mother is a brahmana, my father is a vrishala. A superhuman she-ass told me this. Therefore, I must torment myself through great austerities.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Matanga replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@matanga",
+          "introduces_label": "Matanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How can someone of uncertain birth, or with the worst possible birth, be well? O father! How can someone with a mother like that be well? O father! I have got to know that though my mother is a brahmana, my father is a vrishala. A superhuman she-ass told me this. Therefore, I must torment myself through great austerities.’",
+          "speaker": "@matanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Having spoken to his father and having made up his mind, he left for the great forest, to torment himself through great austerities. The gods themselves were tormented by the force of these austerities. Through his good conduct, Matanga desired the region that would provide great bliss. While he was thus engaged in austerities, Harivahana{1236} appeared before him and asked, ‘O Matanga! Why are you tormenting yourself? Why have you given up the pleasures that men like? I wish to grant you a boon. Tell me about the boon that you desire. Without any delay, tell me about everything that is in your mind.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having spoken to his father and having made up his mind, he left for the great forest, to torment himself through great austerities. The gods themselves were tormented by the force of these austerities. Through his good conduct, Matanga desired the region that would provide great bliss. While he was thus engaged in austerities, Harivahana{1236} appeared before him and asked, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Matanga! Why are you tormenting yourself? Why have you given up the pleasures that men like? I wish to grant you a boon. Tell me about the boon that you desire. Without any delay, tell me about everything that is in your mind.’",
+          "speaker": "@matanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Matanga replied, ‘I have started these austerities with the desire of becoming a brahmana. Having attained this, I will depart from this place. This is the boon sought by me.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Matanga replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@matanga",
+          "introduces_label": "Matanga",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have started these austerities with the desire of becoming a brahmana. Having attained this, I will depart from this place. This is the boon sought by me.’",
+          "speaker": "@matanga",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “On hearing his words, Purandara said, ‘You desire the status of a brahmana, but that cannot be obtained by someone whose soul has not been cleansed. This is the best state among all creatures. Therefore, refrain from these austerities. This desire and these ﬁerce austerities will quickly destroy you. Among gods, asuras and mortals, this state is said to be sacred and supreme. Having been born as a chandala, you can never obtain it.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On hearing his words, Purandara said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Purandara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You desire the status of a brahmana, but that cannot be obtained by someone whose soul has not been cleansed. This is the best state among all creatures. Therefore, refrain from these austerities. This desire and these ﬁerce austerities will quickly destroy you. Among gods, asuras and mortals, this state is said to be sacred and supreme. Having been born as a chandala, you can never obtain it.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

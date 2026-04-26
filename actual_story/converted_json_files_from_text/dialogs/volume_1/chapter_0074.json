@@ -1,0 +1,79 @@
+{
+  "chapter": 74,
+  "local": 74,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shukra said, “O Devayani! Know that a man who pays no heed to the evil words of others conquers everything. The learned regard as a true charioteer he who reins in his anger like horses, not he who hangs onto the reins tightly. O Devayani! Know that he who restrains his rising anger through feelings of non-anger conquers everything. A man who restrains his anger through forgiveness is compared to a snake that casts off its old skin. He who is not hurt through the evil words of others and does not retaliate attains all the objects of life. Between two men, one who performs sacriﬁces continuously every month for a hundred years and one who does not feel anger, the one without anger is the superior one. Young boys and girls are not always sensible and quarrel with each other. They do not know true strength or weakness. The wise never imitate them.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shukra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ushanas",
+          "introduces_label": "Shukra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Devayani! Know that a man who pays no heed to the evil words of others conquers everything. The learned regard as a true charioteer he who reins in his anger like horses, not he who hangs onto the reins tightly. O Devayani! Know that he who restrains his rising anger through feelings of non-anger conquers everything. A man who restrains his anger through forgiveness is compared to a snake that casts off its old skin. He who is not hurt through the evil words of others and does not retaliate attains all the objects of life. Between two men, one who performs sacriﬁces continuously every month for a hundred years and one who does not feel anger, the one without anger is the superior one. Young boys and girls are not always sensible and quarrel with each other. They do not know true strength or weakness. The wise never imitate them.”",
+          "speaker": "@ushanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Devayani replied, “O father! Even though I am a girl, I know what is virtue and what is duty. I also know the difference between anger and forgiveness and the strength and weakness of each. But when a disciple behaves disrespectfully towards a preceptor, it should not be condoned. I do not wish to live among people whose conduct is unbecoming. A wise man who desires welfare should not live among people with evil intent, who speak ill of high birth and good conduct. It is said that the best place to live is among honest ones, where high birth and good conduct are known and respected. I can think of nothing more intolerable in the three worlds than the terrible and evil words of Vrishaparva's daughter. It is the inferior one who thrives on the success of a rival.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Devayani replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@devayani",
+          "introduces_label": "Devayani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O father! Even though I am a girl, I know what is virtue and what is duty. I also know the difference between anger and forgiveness and the strength and weakness of each. But when a disciple behaves disrespectfully towards a preceptor, it should not be condoned. I do not wish to live among people whose conduct is unbecoming. A wise man who desires welfare should not live among people with evil intent, who speak ill of high birth and good conduct. It is said that the best place to live is among honest ones, where high birth and good conduct are known and respected. I can think of nothing more intolerable in the three worlds than the terrible and evil words of Vrishaparva's daughter. It is the inferior one who thrives on the success of a rival.”",
+          "speaker": "@devayani",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

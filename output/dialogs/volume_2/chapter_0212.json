@@ -1,0 +1,176 @@
+{
+  "chapter": 212,
+  "local": 212,
+  "shlokas": 32,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O Janamejaya! Dhananjaya{10} learnt that the lady had gone to Raivataka. Having learnt of the sanction{11} and after obtaining Vasudeva's permission, the bull of the Bharata lineage discussed and got Krishna's sanction about the course of action. He mounted a golden chariot that had been constructed in the proper fashion. It was yoked with Sainya and Sugriva{12} and decorated with nets of small bells. Its roar was like that of a thundering cloud and it was stocked with every weapon. Its radiance was like the blazing ﬁre and it struck terror in the hearts of enemies. O descendant of the Bharata lineage! Prepared, armoured with a sword and with guards on his elbows and ﬁngers, he set out as if on a hunt.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Janamejaya! Dhananjaya{10} learnt that the lady had gone to Raivataka. Having learnt of the sanction{11} and after obtaining Vasudeva's permission, the bull of the Bharata lineage discussed and got Krishna's sanction about the course of action. He mounted a golden chariot that had been constructed in the proper fashion. It was yoked with Sainya and Sugriva{12} and decorated with nets of small bells. Its roar was like that of a thundering cloud and it was stocked with every weapon. Its radiance was like the blazing ﬁre and it struck terror in the hearts of enemies. O descendant of the Bharata lineage! Prepared, armoured with a sword and with guards on his elbows and ﬁngers, he set out as if on a hunt.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having worshipped Raivata, king of the mountains, and obtained the blessings of the gods and all the brahmanas, Subhadra circumambulated the mountain and set out for Dvaraka. Kunti's son rushed at her and forced her onto his chariot. Abducting the sweet-smiling one, that tiger among men set out for his own city on his chariot, as if on air. On seeing Subhadra thus carried away, all the armed soldiers who were with her raised an alarm and dashed towards the city of Dvaraka. They arrived at the assembly hall named Sudharma and recounted the story of Partha's valour to the presiding ofﬁcer{13}. On hearing this, the presiding ofﬁcer sounded his war drum, one that was ornamented with gold and had a terrible roar. On hearing that sound, the Bhojas, Vrishnis and Andhakas then gave up their food and drink and came to the assembly hall.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having worshipped Raivata, king of the mountains, and obtained the blessings of the gods and all the brahmanas, Subhadra circumambulated the mountain and set out for Dvaraka. Kunti's son rushed at her and forced her onto his chariot. Abducting the sweet-smiling one, that tiger among men set out for his own city on his chariot, as if on air. On seeing Subhadra thus carried away, all the armed soldiers who were with her raised an alarm and dashed towards the city of Dvaraka. They arrived at the assembly hall named Sudharma and recounted the story of Partha's valour to the presiding ofﬁcer{13}. On hearing this, the presiding ofﬁcer sounded his war drum, one that was ornamented with gold and had a terrible roar. On hearing that sound, the Bhojas, Vrishnis and Andhakas then gave up their food and drink and came to the assembly hall.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Those tigers among men, the Vrishni and Andhaka maharathas{14} ascended their thrones, decorated with gold, covered with excellent cushions and adorned with gems and corals, with the radiance of blazing ﬁres, like a hundred ﬁres on their sacriﬁcial altars. When they were seated like an assembly of gods, the presiding ofﬁcer and his companions told them about Jishnu's{15} conduct. On hearing this, the warriors among the Vrishnis, their eyes red with drinking, were intolerant of Partha and arrogantly stood up. “Quickly yoke the chariots, bring our lances, fetch the best bows and large armour.” Some asked their charioteers to yoke their chariots. Others themselves fetched their horses, harnessed in gold. As the chariots, armour and ﬂags were brought, there was then a tumultuous uproar from those warriors among men.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those tigers among men, the Vrishni and Andhaka maharathas{14} ascended their thrones, decorated with gold, covered with excellent cushions and adorned with gems and corals, with the radiance of blazing ﬁres, like a hundred ﬁres on their sacriﬁcial altars. When they were seated like an assembly of gods, the presiding ofﬁcer and his companions told them about Jishnu's{15} conduct. On hearing this, the warriors among the Vrishnis, their eyes red with drinking, were intolerant of Partha and arrogantly stood up. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Quickly yoke the chariots, bring our lances, fetch the best bows and large armour.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Some asked their charioteers to yoke their chariots. Others themselves fetched their horses, harnessed in gold. As the chariots, armour and ﬂags were brought, there was then a tumultuous uproar from those warriors among men.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘At that time, Vanamali{16}, who was as tall as Mount Kailasha, who was intoxicated with wine and was dressed in blue, spoke, “O you who are not wise! What are you doing when Janardana is quiet? Without knowing what his thoughts are, why are you roaring in anger? Let the immensely wise one say what he intends to do. Whatever he proposes should be unhesitatingly done.” On hearing Halayudha's{17} words, which deserved to be accepted, all of them exclaimed “excellent” and fell silent. Silence having been restored through the wise Baladeva's calm words, all of them again took their seats in the assembly hall. Then Kamapala{18} spoke to Vasudeva, the scorcher of enemies. “O Janardana! Why are you seated here and looking on without a word? O Achyuta{19}! It was for your sake that we honoured Arjuna. It now seems that evil-minded one, the deﬁler of his lineage, did not deserve the homage and honour. Will any man who regards himself as having been born in a good lineage break the plate that he has eaten from? Even if one has wished for such an alliance, should a supplicant who desires happiness have the courage to act thus, forgetting earlier favours? By insulting us and disregarding Keshava{20}, he has forcibly abducted Subhadra, summoning his own death. O Govinda{21}! Like a serpent that has been trodden on, how can I bear him who has placed his feet on my head? Today, I will alone rid the earth of all Kouravas. I cannot tolerate this transgression of Arjuna's.” At this, all the assembled Bhojas, Vrishnis and Andhakas applauded the thundering one, whose voice was like the clouds and a war drum.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At that time, Vanamali{16}, who was as tall as Mount Kailasha, who was intoxicated with wine and was dressed in blue, spoke, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O you who are not wise! What are you doing when Janardana is quiet? Without knowing what his thoughts are, why are you roaring in anger? Let the immensely wise one say what he intends to do. Whatever he proposes should be unhesitatingly done.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing Halayudha's{17} words, which deserved to be accepted, all of them exclaimed ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“excellent”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " and fell silent. Silence having been restored through the wise Baladeva's calm words, all of them again took their seats in the assembly hall. Then Kamapala{18} spoke to Vasudeva, the scorcher of enemies. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Janardana! Why are you seated here and looking on without a word? O Achyuta{19}! It was for your sake that we honoured Arjuna. It now seems that evil-minded one, the deﬁler of his lineage, did not deserve the homage and honour. Will any man who regards himself as having been born in a good lineage break the plate that he has eaten from? Even if one has wished for such an alliance, should a supplicant who desires happiness have the courage to act thus, forgetting earlier favours? By insulting us and disregarding Keshava{20}, he has forcibly abducted Subhadra, summoning his own death. O Govinda{21}! Like a serpent that has been trodden on, how can I bear him who has placed his feet on my head? Today, I will alone rid the earth of all Kouravas. I cannot tolerate this transgression of Arjuna's.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At this, all the assembled Bhojas, Vrishnis and Andhakas applauded the thundering one, whose voice was like the clouds and a war drum.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

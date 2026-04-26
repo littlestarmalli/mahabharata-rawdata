@@ -1,0 +1,150 @@
+{
+  "chapter": 677,
+  "local": 14,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shalya said, “On seeing that the goddess{90} was endowed with youth and beauty, thus did Upashruti appear before the beautiful and virtuous one. Indrani was delighted and showing her homage, said, ‘O one with the beautiful face! I wish to know who you are. Tell me.’ Upashruti replied, ‘O goddess! I am Upashruti. Since I am satisﬁed with your truthfulness, I have shown myself before you. You are devoted to your husband. You have restraint and are self-controlled. I will show you Shakra, the god who killed Vritra. O fortunate one! Follow me quickly and you will be able to see that supreme among gods.’ As the goddess{91} went on ahead, Indrani followed her. Having traversed many forests of the gods and many mountains, she crossed the Himalayas and went to its northern slopes. She came to an ocean that was many yojanas wide. She then went to a large island that was covered with many trees and creepers. She saw a divine lake there, populated by many kinds of birds. It was pure and a hundred yojanas broad, with a similar length. O descendant of the Bharata lineage! Thousands of divine lotuses bloomed there, with ﬁve colours, and bees buzzed around. She broke the stalk of a lotus and entered with her{92}. She saw Shatakratu, who had also entered there. On seeing her lord in that extremely tiny form, the goddess and Upashruti also assumed extremely tiny forms.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shalya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shalya",
+          "introduces_label": "Shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On seeing that the goddess{90} was endowed with youth and beauty, thus did Upashruti appear before the beautiful and virtuous one. Indrani was delighted and showing her homage, said, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful face! I wish to know who you are. Tell me.’",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Upashruti replied, ",
+          "speaker": "@shalya",
+          "introduces": "upashruti",
+          "introduces_label": "Upashruti",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O goddess! I am Upashruti. Since I am satisﬁed with your truthfulness, I have shown myself before you. You are devoted to your husband. You have restraint and are self-controlled. I will show you Shakra, the god who killed Vritra. O fortunate one! Follow me quickly and you will be able to see that supreme among gods.’",
+          "speaker": "upashruti",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " As the goddess{91} went on ahead, Indrani followed her. Having traversed many forests of the gods and many mountains, she crossed the Himalayas and went to its northern slopes. She came to an ocean that was many yojanas wide. She then went to a large island that was covered with many trees and creepers. She saw a divine lake there, populated by many kinds of birds. It was pure and a hundred yojanas broad, with a similar length. O descendant of the Bharata lineage! Thousands of divine lotuses bloomed there, with ﬁve colours, and bees buzzed around. She broke the stalk of a lotus and entered with her{92}. She saw Shatakratu, who had also entered there. On seeing her lord in that extremely tiny form, the goddess and Upashruti also assumed extremely tiny forms.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indrani praised Indra for the famous deeds he had performed earlier. Having been thus praised, the god Purandara told Shachi, ‘Why have you come here and how did you get to know that I was here?’ She then told him about what Nahusha had tried to do. ‘When he became the Indra of the three worlds, he became insolent because of his valour. O Shatakratu! Having become insolent, the evil-souled one asked me to serve him. That evil one has granted me some time. O lord! If you do not save me, he will bring me under his powers. O Shakra! I am tormented because of this and have come to you. O mighty-armed one! Destroy that terrible Nahusha. His mind is set on evil. You are the destroyer of daityas and danavas. Reveal your own self. O lord! Regain your own energy. Rule the kingdom of the gods.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indrani praised Indra for the famous deeds he had performed earlier. Having been thus praised, the god Purandara told Shachi, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Why have you come here and how did you get to know that I was here?’",
+          "speaker": "upashruti",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " She then told him about what Nahusha had tried to do. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘When he became the Indra of the three worlds, he became insolent because of his valour. O Shatakratu! Having become insolent, the evil-souled one asked me to serve him. That evil one has granted me some time. O lord! If you do not save me, he will bring me under his powers. O Shakra! I am tormented because of this and have come to you. O mighty-armed one! Destroy that terrible Nahusha. His mind is set on evil. You are the destroyer of daityas and danavas. Reveal your own self. O lord! Regain your own energy. Rule the kingdom of the gods.’",
+          "speaker": "upashruti",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

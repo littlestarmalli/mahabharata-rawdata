@@ -1,0 +1,270 @@
+{
+  "chapter": 291,
+  "local": 66,
+  "shlokas": 37,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘When they learnt that the Pandavas had been granted permission to leave with their gems, riches and treasures, what was the state of mind of Dhritarashtra's sons?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When they learnt that the Pandavas had been granted permission to leave with their gems, riches and treasures, what was the state of mind of Dhritarashtra's sons?’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O king! When he found out that the intelligent Dhritarashtra had given the permission, Duhshasana swiftly went to his brother{1}. O bull among the Bharata lineage! On arriving before Duryodhana and his advisers, the foremost of the Bharatas{2} spoke these miserable words, “O maharathas! That old man has made us lose everything that we had obtained with great difﬁculty. He has given those objects to our enemies.” Then the proud Duryodhana, Karna and Soubala Shakuni got together and plotted against the Pandavas. They went to the intelligent King Dhritarashtra, Vichitravirya's son, and spoke to him these conciliatory words.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! When he found out that the intelligent Dhritarashtra had given the permission, Duhshasana swiftly went to his brother{1}. O bull among the Bharata lineage! On arriving before Duryodhana and his advisers, the foremost of the Bharatas{2} spoke these miserable words, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O maharathas! That old man has made us lose everything that we had obtained with great difﬁculty. He has given those objects to our enemies.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then the proud Duryodhana, Karna and Soubala Shakuni got together and plotted against the Pandavas. They went to the intelligent King Dhritarashtra, Vichitravirya's son, and spoke to him these conciliatory words.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duryodhana said, “O king! Have you not heard what Brihaspati, the learned priest of the gods, told Shakra about policy? ‘O destroyer of enemies! Enemies must be killed through every means possible, before they cause harm through war or force{3}.’ We should offer homage to all the kings through riches obtained from the Pandavas. If we ﬁght with them{4} thereafter, what reversal can befall us? If one places angry and venomous snakes that bring destruction on one's back and neck, how can one get rid of them? O father! The angry Pandavas will ride on chariots and hold their weapons. In their rage, they will destroy us like venomous serpents. Arjuna is attired in armour and has grasped his two supreme quivers. He is frequently picking up the Gandiva, breathing heavily and glancing around. We have heard that Vrikodara has swiftly raised his giant club and is riding on a chariot that has been yoked. Nakula has his sword and the shield marked with the signs of eight moons. Sahadeva and the king{5} have made their intentions clear through their gestures. They have ascended chariots that are stocked with many different kinds of arms. They have whipped up the teams of chariots and are ready to employ armies. We have caused them offence and they will not pardon us. Who among them will forgive Droupadi's oppression? O bull among the Bharata lineage! Be fortunate. We must again gamble with the Pandavas so as to send them to the forest. In this way, we will be able to bring them under our sway. Either they or we will be defeated in the gambling with dice and attired in deerskin, will enter the great forest for twelve years. The thirteenth year will have to be spent in an inhabited place, in disguise. If one is recognized, one will again have to go to the forest for twelve years. Either they or we will live here. Therefore, let the gamble begin. Let the dice be thrown again and let the Pandavas play. O king! O bull among the Bharata lineage! This is the most important task for us. This Shakuni is skilled and possesses all the knowledge about the secrets of dice. We will be ﬁrmly established in the kingdom and will have alliances. We will gather a vast, brave and invincible army and keep it content. O king! O scorcher of enemies! If they survive the vow after thirteen years, we will be able to defeat them. Let this ﬁnd pleasure with you.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Have you not heard what Brihaspati, the learned priest of the gods, told Shakra about policy? ",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O destroyer of enemies! Enemies must be killed through every means possible, before they cause harm through war or force{3}.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " We should offer homage to all the kings through riches obtained from the Pandavas. If we ﬁght with them{4} thereafter, what reversal can befall us? If one places angry and venomous snakes that bring destruction on one's back and neck, how can one get rid of them? O father! The angry Pandavas will ride on chariots and hold their weapons. In their rage, they will destroy us like venomous serpents. Arjuna is attired in armour and has grasped his two supreme quivers. He is frequently picking up the Gandiva, breathing heavily and glancing around. We have heard that Vrikodara has swiftly raised his giant club and is riding on a chariot that has been yoked. Nakula has his sword and the shield marked with the signs of eight moons. Sahadeva and the king{5} have made their intentions clear through their gestures. They have ascended chariots that are stocked with many different kinds of arms. They have whipped up the teams of chariots and are ready to employ armies. We have caused them offence and they will not pardon us. Who among them will forgive Droupadi's oppression? O bull among the Bharata lineage! Be fortunate. We must again gamble with the Pandavas so as to send them to the forest. In this way, we will be able to bring them under our sway. Either they or we will be defeated in the gambling with dice and attired in deerskin, will enter the great forest for twelve years. The thirteenth year will have to be spent in an inhabited place, in disguise. If one is recognized, one will again have to go to the forest for twelve years. Either they or we will live here. Therefore, let the gamble begin. Let the dice be thrown again and let the Pandavas play. O king! O bull among the Bharata lineage! This is the most important task for us. This Shakuni is skilled and possesses all the knowledge about the secrets of dice. We will be ﬁrmly established in the kingdom and will have alliances. We will gather a vast, brave and invincible army and keep it content. O king! O scorcher of enemies! If they survive the vow after thirteen years, we will be able to defeat them. Let this ﬁnd pleasure with you.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra replied, “Then immediately bring them back, even if they have gone a long distance away. Let the Pandavas return and gamble with the dice again.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Then immediately bring them back, even if they have gone a long distance away. Let the Pandavas return and gamble with the dice again.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Then Drona, Somadatta, the maharatha Bahlika, Vidura, Drona's son{6}, the valorous son of the vaishya{7}, Bhurishrava, Shantanu's son{8} and maharatha Vikarna collectively said, “Don't have the gamble. Let there be peace.” But Dhritarashtra loved his son and ignored the desires of these well-wishers, all of whom could foresee the consequences. He summoned the Pandavas. O great king! Gandhari was always united with dharma. She was miserable because of affection towards her sons and spoke to Dhritarashtra, lord of the people. “When Duryodhana was born, the immensely intelligent Kshatta{9} told us that it would be better to send this destroyer of the lineage to the other world. O descendant of the Bharata lineage! As soon as he was born, he howled like a jackal. O Kurus! Listen to this. He will be the destroyer of the lineage. O lord! Do not listen to the views of these wicked ones who are nothing but children. Do not become the cause for the terrible destruction of the lineage. Who will breach a dam{10} that has been constructed? Who will rekindle a dying ﬁre? O descendant of the Bharata lineage! The sons of Pritha are now established in peace. Who would want to anger them? O Ajamidha{11}! You remember, but I am reminding you again. Either in good or in evil deeds, the sacred texts cannot instruct those who are evil in intelligence. O king! Nor will one with the intelligence of a child ever attain the wisdom of age. You should yourself be the leader to your sons. Let them not be torn apart from you. Let peace, dharma, the counsel of others and natural intelligence be your principles in framing policy. Prosperity built through cruelty is destroyed. If it is gently nurtured, it grows old and passes to sons and grandsons.” Having been thus addressed by Gandhari, who had seen the way of dharma, the great king replied, “It is certain that if the destruction of our lineage has come, I will not be able to prevent it. Let it be as they wish. Let the Pandavas return. Let those who are mine gamble again with the Pandavas.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then Drona, Somadatta, the maharatha Bahlika, Vidura, Drona's son{6}, the valorous son of the vaishya{7}, Bhurishrava, Shantanu's son{8} and maharatha Vikarna collectively said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Don't have the gamble. Let there be peace.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " But Dhritarashtra loved his son and ignored the desires of these well-wishers, all of whom could foresee the consequences. He summoned the Pandavas. O great king! Gandhari was always united with dharma. She was miserable because of affection towards her sons and spoke to Dhritarashtra, lord of the people. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When Duryodhana was born, the immensely intelligent Kshatta{9} told us that it would be better to send this destroyer of the lineage to the other world. O descendant of the Bharata lineage! As soon as he was born, he howled like a jackal. O Kurus! Listen to this. He will be the destroyer of the lineage. O lord! Do not listen to the views of these wicked ones who are nothing but children. Do not become the cause for the terrible destruction of the lineage. Who will breach a dam{10} that has been constructed? Who will rekindle a dying ﬁre? O descendant of the Bharata lineage! The sons of Pritha are now established in peace. Who would want to anger them? O Ajamidha{11}! You remember, but I am reminding you again. Either in good or in evil deeds, the sacred texts cannot instruct those who are evil in intelligence. O king! Nor will one with the intelligence of a child ever attain the wisdom of age. You should yourself be the leader to your sons. Let them not be torn apart from you. Let peace, dharma, the counsel of others and natural intelligence be your principles in framing policy. Prosperity built through cruelty is destroyed. If it is gently nurtured, it grows old and passes to sons and grandsons.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed by Gandhari, who had seen the way of dharma, the great king replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_great_king",
+          "introduces_label": "the great king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is certain that if the destruction of our lineage has come, I will not be able to prevent it. Let it be as they wish. Let the Pandavas return. Let those who are mine gamble again with the Pandavas.”",
+          "speaker": "the_great_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

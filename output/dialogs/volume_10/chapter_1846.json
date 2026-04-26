@@ -1,0 +1,78 @@
+{
+  "chapter": 1846,
+  "local": 11,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘The king was thus addressed by Vyasa, whose deeds were extraordinary. After this, the immensely energetic Vasudeva also spoke some words. The king was distressed in his mind. His kin and relatives had been slain. He was like an eclipsed sun or a ﬁre covered by smoke. Discerning that Partha's mind was cheerless, the extender of the Vrishni lineage wished to comfort Dharma's son and spoke these words.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The king was thus addressed by Vyasa, whose deeds were extraordinary. After this, the immensely energetic Vasudeva also spoke some words. The king was distressed in his mind. His kin and relatives had been slain. He was like an eclipsed sun or a ﬁre covered by smoke. Discerning that Partha's mind was cheerless, the extender of the Vrishni lineage wished to comfort Dharma's son and spoke these words.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vasudeva said, “All deceit leads to death. All uprightness leads to the state of the brahman. If you possess wisdom about this, then why are you lamenting? You have not completed your assigned tasks. Nor have your enemies been vanquished. How can you not comprehend the enemies that exist within your own body? I have heard of an account that transpired, following dharma. There was an encounter between Indra and Vritra. O lord of men! In ancient times, the entire earth was enveloped by Vritra. When the earth was enveloped, it was seen that all fragrances disappeared from earth. The earth having been seized, bad smells arose from the earth. At scent having vanished from the earth, Shatakratu was enraged. He angrily released the terrible vajra at Vritra. Thus struck by the vajra, the immensely energetic one entered the earth. Having violently entered the water, he seized all taste from there. Wrathfully, Shatakratu released the vajra again. In the water, the immensely energetic one was struck by the vajra. He violently entered energy and seized the essence from there. Enveloped by Vritra, energy lost its attribute of form. Angrily, Shatakratu released his vajra there. The immensely energetic one was severely struck by the vajra. He violently entered wind and seized the essence from there. Enveloped by Vritra, the wind lost its attribute of touch. Shatakratu angrily released his vajra there. The immensely energetic one was struck by the vajra there. He entered space and seized the essence from there. With Vritra in space, the attribute of sound vanished. Shatakratu angrily released his vajra there. The immensely energetic one was struck by the vajra there. He violently entered Shakra and stole all the attributes from there. Thus seized by Vritra, he was overcome by great confusion. O son! Vasishtha brought him back to his senses by using the rathantara hymn. O bull among the Bharata lineage! We have heard that Shatakratu then used an invisible vajra to slay Vritra inside his body. Shakra told the maharshis about this mystery of dharma. O lord of men! The rishis told me about this. Listen.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vasudeva said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All deceit leads to death. All uprightness leads to the state of the brahman. If you possess wisdom about this, then why are you lamenting? You have not completed your assigned tasks. Nor have your enemies been vanquished. How can you not comprehend the enemies that exist within your own body? I have heard of an account that transpired, following dharma. There was an encounter between Indra and Vritra. O lord of men! In ancient times, the entire earth was enveloped by Vritra. When the earth was enveloped, it was seen that all fragrances disappeared from earth. The earth having been seized, bad smells arose from the earth. At scent having vanished from the earth, Shatakratu was enraged. He angrily released the terrible vajra at Vritra. Thus struck by the vajra, the immensely energetic one entered the earth. Having violently entered the water, he seized all taste from there. Wrathfully, Shatakratu released the vajra again. In the water, the immensely energetic one was struck by the vajra. He violently entered energy and seized the essence from there. Enveloped by Vritra, energy lost its attribute of form. Angrily, Shatakratu released his vajra there. The immensely energetic one was severely struck by the vajra. He violently entered wind and seized the essence from there. Enveloped by Vritra, the wind lost its attribute of touch. Shatakratu angrily released his vajra there. The immensely energetic one was struck by the vajra there. He entered space and seized the essence from there. With Vritra in space, the attribute of sound vanished. Shatakratu angrily released his vajra there. The immensely energetic one was struck by the vajra there. He violently entered Shakra and stole all the attributes from there. Thus seized by Vritra, he was overcome by great confusion. O son! Vasishtha brought him back to his senses by using the rathantara hymn. O bull among the Bharata lineage! We have heard that Shatakratu then used an invisible vajra to slay Vritra inside his body. Shakra told the maharshis about this mystery of dharma. O lord of men! The rishis told me about this. Listen.”",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

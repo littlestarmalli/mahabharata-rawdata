@@ -1,0 +1,79 @@
+{
+  "chapter": 871,
+  "local": 11,
+  "shlokas": 14,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “O suta! O Sanjaya! Tell me about the dimensions, the lifespan, the good and evil fruits and the past, present and future of Bharatavarsha, Haimavat and Harivarsha. Tell me in detail.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O suta! O Sanjaya! Tell me about the dimensions, the lifespan, the good and evil fruits and the past, present and future of Bharatavarsha, Haimavat and Harivarsha. Tell me in detail.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O bull among the Bharata lineage! O extender of the Kuru lineage! There are four yugas in Bharatavarsha—krita, treta, dvapara and pushya{155}. O lord! The ﬁrst is krita yuga and after that treta yuga follows. Dvapara comes after that and pushya follows thereafter. O supreme among Kurus! O supreme among kings! The measure of the lifespan in krita yuga is said to be four thousand years. O lord of men! That of treta is three thousand years. In the present one of dvapara, it is two thousand. O bull among the Bharata lineage! No ﬁxed lifespan has been prescribed for pushya. People will die in the womb, or once they are born. O king! Men are born in krita and have offspring who are immensely strong, great in spirit and possess all the qualities. There are sages and those rich in austerities. O king! They are great in their endeavour, great-souled, devoted to dharma and truthful. O king! Those born in krita yuga are rich and handsome, with long lifespans. Kshatriyas born in treta yuga are extremely brave warriors, supreme among those who wield bows. Those brave ones are emperors{156}. O great king! When dvapara begins, all the varnas have great endeavour and great valour. But they seek to kill each other. O king! O descendant of the Bharata lineage! Those who are born in pushya are limited in their energy and men are wrathful. They are greedy and untruthful. They suffer from jealousy, vanity, anger, deception and malice. O descendant of the Bharata lineage! There is wrath and greed on earth in pushya. O king! O lord of men! The part that remains of dvapara is very small{157}. Haimavat is superior to Harivarsha in all qualities and so on{158}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! O extender of the Kuru lineage! There are four yugas in Bharatavarsha—krita, treta, dvapara and pushya{155}. O lord! The ﬁrst is krita yuga and after that treta yuga follows. Dvapara comes after that and pushya follows thereafter. O supreme among Kurus! O supreme among kings! The measure of the lifespan in krita yuga is said to be four thousand years. O lord of men! That of treta is three thousand years. In the present one of dvapara, it is two thousand. O bull among the Bharata lineage! No ﬁxed lifespan has been prescribed for pushya. People will die in the womb, or once they are born. O king! Men are born in krita and have offspring who are immensely strong, great in spirit and possess all the qualities. There are sages and those rich in austerities. O king! They are great in their endeavour, great-souled, devoted to dharma and truthful. O king! Those born in krita yuga are rich and handsome, with long lifespans. Kshatriyas born in treta yuga are extremely brave warriors, supreme among those who wield bows. Those brave ones are emperors{156}. O great king! When dvapara begins, all the varnas have great endeavour and great valour. But they seek to kill each other. O king! O descendant of the Bharata lineage! Those who are born in pushya are limited in their energy and men are wrathful. They are greedy and untruthful. They suffer from jealousy, vanity, anger, deception and malice. O descendant of the Bharata lineage! There is wrath and greed on earth in pushya. O king! O lord of men! The part that remains of dvapara is very small{157}. Haimavat is superior to Harivarsha in all qualities and so on{158}.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

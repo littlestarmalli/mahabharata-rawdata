@@ -1,0 +1,119 @@
+{
+  "chapter": 1607,
+  "local": 279,
+  "shlokas": 25,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O mighty-armed one! After this, tell me what is best for me. O grandfather! I am not satisﬁed with your words, which are like amrita. O supreme among men! What are the auspicious acts a man can perform, so that he obtains supreme beneﬁt in this world and in the world after death? Tell me that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O mighty-armed one! After this, tell me what is best for me. O grandfather! I am not satisﬁed with your words, which are like amrita. O supreme among men! What are the auspicious acts a man can perform, so that he obtains supreme beneﬁt in this world and in the world after death? Tell me that.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, I will tell you what the immensely illustrious King Janaka asked the great-souled Parashara in ancient times. ‘What is best for all beings here and in the hereafter, so that one can obtain prosperity? Tell me about this.’ The sage was full of austerities and knew about the ordinances associated with all kinds of dharma. To show favours to the king, he spoke these words. ‘Deeds of dharma bring beneﬁt in this world and in the next. The learned ones have said that there is nothing that is superior to this. Through such dharma, a man obtains greatness in the world of heaven. O supreme among kings! For all beings, the rites and ordinances that have been laid down represent the essence of dharma. That is the reason virtuous people perform their respective acts in their respective ashramas. O son{704}! Four kinds of modes have been laid down for progress in this world{705}. When mortals follow these, they obtain what they desire. They perform good and bad deeds and attain their respective ends. In different ways, creatures are divided into ﬁve elements. Just as a golden or silver vessel reﬂects the sheen of the metal, creatures are bound down by the acts that they have performed earlier. Nothing is generated without a seed. Without acting for it, happiness cannot be obtained. When the body is destroyed, a man obtains happiness because of the good deeds he has performed. O son! I do not see any destiny in this, nor any action on the part of the gods. Gods, gandharvas and danavas become what they are because of their natures. After death, people never remember what they have done in their earlier lives. But they obtain the consequences of the four kinds of acts that they have performed{706}. For progress in the world, the words of the Vedas have described the deeds that one must resort to. O son! That is what brings peace to the mind, not merely the instructions of the elders. There are four kinds of action one can perform with the eye, the mind, words and deeds. Whatever the nature of the action, the consequence is like that. O king! Often, one obtains mixed consequences as a result of a deed. However, whether it is good or bad, deeds are never destroyed. O son! Sometimes, the consequences of good deeds remain concealed and submerged in the cycle of life, one is not freed from misery. However, once the misery has been exhausted, the results of good deeds will become evident. O lord of men! Know that when good deeds have been exhausted, the results of bad deeds will become evident. Self-control, forgiveness, fortitude, energy, contentment, truthfulness, modesty, lack of injury, not indulging in vices and skilfulness—these are the things that yield happiness. For no creature are the effects of good deeds and bad deeds eternal. That is the reason an accomplished person always tries to ﬁx his mind. One does not face the consequences of the good or bad deeds performed by another person. The consequences one reaps are commensurate with the deeds that one has performed. Along one path{707}, a man can give up both happiness and unhappiness. O king! But there are many other people who are always prone to attachment. A man must never undertake an act that he censures in someone else. If he does something like this, he will be laughed at. A king who is a coward, a brahmana who eats everything, a vaishya without exertion, an inferior varna{708} who is lazy, a learned person who lacks good conduct, a noble person who is without a means of sustenance, a brahmana who has deviated from the truth, a wayward woman, a 'free' person who is still attached, a person who cooks only for himself, a foolish person who is eloquent, a kingdom without a king and a king who has no affection for his subjects—all these are reasons for grief.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, I will tell you what the immensely illustrious King Janaka asked the great-souled Parashara in ancient times. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What is best for all beings here and in the hereafter, so that one can obtain prosperity? Tell me about this.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The sage was full of austerities and knew about the ordinances associated with all kinds of dharma. To show favours to the king, he spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Deeds of dharma bring beneﬁt in this world and in the next. The learned ones have said that there is nothing that is superior to this. Through such dharma, a man obtains greatness in the world of heaven. O supreme among kings! For all beings, the rites and ordinances that have been laid down represent the essence of dharma. That is the reason virtuous people perform their respective acts in their respective ashramas. O son{704}! Four kinds of modes have been laid down for progress in this world{705}. When mortals follow these, they obtain what they desire. They perform good and bad deeds and attain their respective ends. In different ways, creatures are divided into ﬁve elements. Just as a golden or silver vessel reﬂects the sheen of the metal, creatures are bound down by the acts that they have performed earlier. Nothing is generated without a seed. Without acting for it, happiness cannot be obtained. When the body is destroyed, a man obtains happiness because of the good deeds he has performed. O son! I do not see any destiny in this, nor any action on the part of the gods. Gods, gandharvas and danavas become what they are because of their natures. After death, people never remember what they have done in their earlier lives. But they obtain the consequences of the four kinds of acts that they have performed{706}. For progress in the world, the words of the Vedas have described the deeds that one must resort to. O son! That is what brings peace to the mind, not merely the instructions of the elders. There are four kinds of action one can perform with the eye, the mind, words and deeds. Whatever the nature of the action, the consequence is like that. O king! Often, one obtains mixed consequences as a result of a deed. However, whether it is good or bad, deeds are never destroyed. O son! Sometimes, the consequences of good deeds remain concealed and submerged in the cycle of life, one is not freed from misery. However, once the misery has been exhausted, the results of good deeds will become evident. O lord of men! Know that when good deeds have been exhausted, the results of bad deeds will become evident. Self-control, forgiveness, fortitude, energy, contentment, truthfulness, modesty, lack of injury, not indulging in vices and skilfulness—these are the things that yield happiness. For no creature are the effects of good deeds and bad deeds eternal. That is the reason an accomplished person always tries to ﬁx his mind. One does not face the consequences of the good or bad deeds performed by another person. The consequences one reaps are commensurate with the deeds that one has performed. Along one path{707}, a man can give up both happiness and unhappiness. O king! But there are many other people who are always prone to attachment. A man must never undertake an act that he censures in someone else. If he does something like this, he will be laughed at. A king who is a coward, a brahmana who eats everything, a vaishya without exertion, an inferior varna{708} who is lazy, a learned person who lacks good conduct, a noble person who is without a means of sustenance, a brahmana who has deviated from the truth, a wayward woman, a 'free' person who is still attached, a person who cooks only for himself, a foolish person who is eloquent, a kingdom without a king and a king who has no affection for his subjects—all these are reasons for grief.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

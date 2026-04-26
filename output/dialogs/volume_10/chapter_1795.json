@@ -1,0 +1,108 @@
+{
+  "chapter": 1795,
+  "local": 114,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “What is best for a man—non-violence, the rites of the Vedas, meditation, controlling the senses, austerities or service to the preceptor?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What is best for a man—non-violence, the rites of the Vedas, meditation, controlling the senses, austerities or service to the preceptor?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Brihaspati replied, “All of these are different gates to dharma. O bull among the Bharata lineage! I will talk about all six. Listen. I will tell you about what is supreme and best for creatures. If a man resorts to the dharma of non-violence, this man always restrains the three sins that characterize all creatures, desire, anger, and obtains success{357}. If a person desires happiness for himself, he should be non-violent towards beings and should not use the rod of chastisement against them. After death, he will then be happy. If a man looks upon all creatures as his own self, controls the rod and conquers his anger, he obtains happiness after death. He sees himself in all beings and all beings in his own self. Even the gods are confused in trying to follow his footsteps{358}. One should never do something to others that one would regard as an injury to one's own self. In brief, this is dharma. Anything else is succumbing to desire. In refusing gifts, judging happiness and misery, the agreeable and the disagreeable, a man who desires success must use the yardstick of how it would affect him{359}. If one injures another person, one is in turn injured by that other person. In that way, if one loves another person, one is in turn loved by that other person. For the world of the living, this is the yardstick of dharma that has been instructed by the accomplished.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Brihaspati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All of these are different gates to dharma. O bull among the Bharata lineage! I will talk about all six. Listen. I will tell you about what is supreme and best for creatures. If a man resorts to the dharma of non-violence, this man always restrains the three sins that characterize all creatures, desire, anger, and obtains success{357}. If a person desires happiness for himself, he should be non-violent towards beings and should not use the rod of chastisement against them. After death, he will then be happy. If a man looks upon all creatures as his own self, controls the rod and conquers his anger, he obtains happiness after death. He sees himself in all beings and all beings in his own self. Even the gods are confused in trying to follow his footsteps{358}. One should never do something to others that one would regard as an injury to one's own self. In brief, this is dharma. Anything else is succumbing to desire. In refusing gifts, judging happiness and misery, the agreeable and the disagreeable, a man who desires success must use the yardstick of how it would affect him{359}. If one injures another person, one is in turn injured by that other person. In that way, if one loves another person, one is in turn loved by that other person. For the world of the living, this is the yardstick of dharma that has been instructed by the accomplished.”",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘The preceptor of the gods said this to Dharmaraja Yudhishthira. While they looked on, the intelligent one then went to heaven.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The preceptor of the gods said this to Dharmaraja Yudhishthira. While they looked on, the intelligent one then went to heaven.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "chapter": 631,
+  "local": 35,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O king! On seeing his friend, the large-eyed princess, he{35} smiled and asked her why she had come. Approaching that bull among men, in the midst of her friends, the princess affectionately spoke these words. “O Brihannada! The kingdom's cattle are being robbed by the Kurus. My archer brother is leaving to defeat them. But not long ago, the charioteer of his chariot was slain in battle. There is no other charioteer who is equal to him as a charioteer. O Brihannada! While he was looking for a charioteer, Sairandhri spoke to him about your skill in handling horses. O Brihannada! Be good enough to act as a charioteer for my brother, before the Kurus drive our cattle too far away. If you do not act in accordance with the request I am affectionately making to you, I will give up my life today.” At these words of his friend, the one with the beautiful hips, the scorcher of enemies went to the prince, like a maddened elephant. The large-eyed one followed him, like an elephant calf following a sheelephant.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! On seeing his friend, the large-eyed princess, he{35} smiled and asked her why she had come. Approaching that bull among men, in the midst of her friends, the princess affectionately spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brihannada! The kingdom's cattle are being robbed by the Kurus. My archer brother is leaving to defeat them. But not long ago, the charioteer of his chariot was slain in battle. There is no other charioteer who is equal to him as a charioteer. O Brihannada! While he was looking for a charioteer, Sairandhri spoke to him about your skill in handling horses. O Brihannada! Be good enough to act as a charioteer for my brother, before the Kurus drive our cattle too far away. If you do not act in accordance with the request I am affectionately making to you, I will give up my life today.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " At these words of his friend, the one with the beautiful hips, the scorcher of enemies went to the prince, like a maddened elephant. The large-eyed one followed him, like an elephant calf following a sheelephant.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On seeing him from a distance, the prince spoke to him. “With you as a charioteer, Partha satisﬁed the ﬁre god in Khandava. Dhananjaya, Kunti's son, conquered the entire earth. Sairandhri knows the Pandavas and spoke to me about you. O Brihannada! Drive my horses too, when I ﬁght with the Kurus and recover our riches of cattle. In earlier times, you were Arjuna's favourite charioteer. It is with your aid that the bull among Pandavas conquered the earth.” Having been thus addressed by the prince, Brihannada replied, “What capacity do I possess to be a charioteer in a ﬁeld of battle? Singing, dancing, or the playing of a musical instrument would have been different. I can do that. O fortunate one! How can I drive a chariot?” Uttara said, “O Brihannada! You will become a singer or a dancer again. Swiftly ascend the chariot and control these supreme horses.” Pandava, the scorcher of enemies, knew everything. But before Uttara, he committed mistakes in jest. He donned the armour upside down on his body. The large-eyed maidens laughed when they saw this. On seeing him thus confused, Uttara himself fastened the expensive armour on Brihannada. He himself donned superb armour that was as dazzling as the sun. Having raised a pennant with a lion, he instructed him to be the charioteer. The brave one had Brihannada as his charioteer and rode out, with expensive bows and many beautiful arrows.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On seeing him from a distance, the prince spoke to him. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“With you as a charioteer, Partha satisﬁed the ﬁre god in Khandava. Dhananjaya, Kunti's son, conquered the entire earth. Sairandhri knows the Pandavas and spoke to me about you. O Brihannada! Drive my horses too, when I ﬁght with the Kurus and recover our riches of cattle. In earlier times, you were Arjuna's favourite charioteer. It is with your aid that the bull among Pandavas conquered the earth.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed by the prince, Brihannada replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@brihannada",
+          "introduces_label": "Brihannada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What capacity do I possess to be a charioteer in a ﬁeld of battle? Singing, dancing, or the playing of a musical instrument would have been different. I can do that. O fortunate one! How can I drive a chariot?”",
+          "speaker": "@brihannada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Uttara said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@uttara",
+          "introduces_label": "Uttara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brihannada! You will become a singer or a dancer again. Swiftly ascend the chariot and control these supreme horses.”",
+          "speaker": "@uttara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Pandava, the scorcher of enemies, knew everything. But before Uttara, he committed mistakes in jest. He donned the armour upside down on his body. The large-eyed maidens laughed when they saw this. On seeing him thus confused, Uttara himself fastened the expensive armour on Brihannada. He himself donned superb armour that was as dazzling as the sun. Having raised a pennant with a lion, he instructed him to be the charioteer. The brave one had Brihannada as his charioteer and rode out, with expensive bows and many beautiful arrows.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Uttara{36} and the other maidens who were her friends told him, “O Brihannada! When you have defeated the Kurus, led by Bhishma and Drona, in battle, you must bring back many beautiful dresses for our dolls, colourful and ﬁne.” Partha, descendant of the Pandu lineage, smilingly replied in words that were like the rumbling of the clouds, “If Uttara vanquishes those maharathas in battle, I will bring back divine and beautiful garments for you.” Having spoken these words, brave Bibhatsu drove the chariot towards the Kurus, who had many kinds of ﬂags and pennants.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Uttara{36} and the other maidens who were her friends told him, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brihannada! When you have defeated the Kurus, led by Bhishma and Drona, in battle, you must bring back many beautiful dresses for our dolls, colourful and ﬁne.”",
+          "speaker": "@uttara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Partha, descendant of the Pandu lineage, smilingly replied in words that were like the rumbling of the clouds, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If Uttara vanquishes those maharathas in battle, I will bring back divine and beautiful garments for you.”",
+          "speaker": "@uttara",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having spoken these words, brave Bibhatsu drove the chariot towards the Kurus, who had many kinds of ﬂags and pennants.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

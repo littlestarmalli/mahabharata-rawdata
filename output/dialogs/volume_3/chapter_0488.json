@@ -1,0 +1,492 @@
+{
+  "chapter": 488,
+  "local": 191,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘The rishis and the Pandavas again asked Markandeya, “Is there anyone who has a longer life than you?”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The rishis and the Pandavas again asked Markandeya, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Is there anyone who has a longer life than you?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘He told them, “Yes, there is a rajarshi named Indradyumna. When his merits were exhausted, he fell down from heaven, exclaiming, ‘My deeds have been lost{126}.’ He came to me and asked me whether I knew him. I told him, ‘We are not chemists{127}. We pursue our goals by tormenting our bodies and minds. We do not perform acts for the sake of wealth. There is an owl in the Himalayas by the name of Prakarakarna. He may know you.’ But the Himalayas where he lives, is a long distance away from here. He became a horse and carried me to the place where the owl was. Then the rajarshi asked it, ‘Do you know me?’ It reﬂected for some time and then said, ‘No. I do not know you.’ Hearing these words, rajarshi Indradyumna again spoke to the owl. ‘Is there anyone who has a longer life than you?’ The owl replied, ‘There is a lake by the name of Indradyumna. A crane named Nadijangha lives there and he is older than we are{128}. Ask him.’ Indradyumna then took me and the owl to the lake where the crane named Nadijangha lived. We asked it, ‘Do you know the king named Indradyumna?’ It thought for a while and replied, ‘No. I do not know King Indradyumna.’ We asked it, ‘Is there anyone who has had a longer life than you?’ It replied, ‘There is a tortoise named Akupura who lives in this lake. He is older than I am.’ We replied, ‘Perhaps he knows about this king. Let us ask Akupura.’ The crane then spoke to the tortoise Akupura. ‘We need to ask you something. Please be kind enough to come to us.’ Hearing this, the tortoise emerged from the lake and came to where we were standing, on the banks of the lake. When it came, we asked it, ‘Do you know of this king named Indradyumna?’ It thought for some time and then its eyes were ﬁlled with tears. Its heart was agitated and it trembled. It almost lost its senses. Then it joined its limbs in salutation and said, ‘How can I not know that king? In earlier times, when kindling the sacriﬁcial ﬁre, he erected sacriﬁcial stakes one thousand times{129}. This lake was created from the hooves of cattle he gave away as gifts. I have lived here ever since then.’ As soon as we heard these words of the tortoise, a celestial chariot descended from the world of the gods and words were heard about Indradyumna. ‘Heaven is ready for you. That is your appropriate place. Your deeds are great. Go there in a cheerful frame of mind. The words about sacred deeds touch the heaven and the earth. As long as there is sound, so long does man live. Whenever a being's evil deeds are recounted on earth, he descends to the inferior worlds as long as those words are recounted. Therefore, right till the end, any man on earth should be engaged in good deeds. He should avoid evil conduct and seek refuge in dharma.’ On hearing this, the king replied, ‘Wait until I have returned these seniors to the places I brought them from.’ He brought me and the owl Prakarakarna to our usual places. Then he returned in that chariot to the place that was appropriate for him. Though I have a long life, this is what I have witnessed.” This is what Markandeya told the Pandavas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘He told them, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Yes, there is a rajarshi named Indradyumna. When his merits were exhausted, he fell down from heaven, exclaiming, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘My deeds have been lost{126}.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He came to me and asked me whether I knew him. I told him, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "I",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We are not chemists{127}. We pursue our goals by tormenting our bodies and minds. We do not perform acts for the sake of wealth. There is an owl in the Himalayas by the name of Prakarakarna. He may know you.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " But the Himalayas where he lives, is a long distance away from here. He became a horse and carried me to the place where the owl was. Then the rajarshi asked it, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do you know me?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It reﬂected for some time and then said, ",
+          "speaker": "unknown",
+          "introduces": "it_reﬂected_for_some_time",
+          "introduces_label": "It reﬂected for some time",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘No. I do not know you.’",
+          "speaker": "it_reﬂected_for_some_time",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing these words, rajarshi Indradyumna again spoke to the owl. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Is there anyone who has a longer life than you?’",
+          "speaker": "it_reﬂected_for_some_time",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The owl replied, ",
+          "speaker": "unknown",
+          "introduces": "the_owl",
+          "introduces_label": "The owl",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There is a lake by the name of Indradyumna. A crane named Nadijangha lives there and he is older than we are{128}. Ask him.’",
+          "speaker": "the_owl",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Indradyumna then took me and the owl to the lake where the crane named Nadijangha lived. We asked it, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "We",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do you know the king named Indradyumna?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It thought for a while and replied, ",
+          "speaker": "unknown",
+          "introduces": "it_thought_for_a",
+          "introduces_label": "It thought for a",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘No. I do not know King Indradyumna.’",
+          "speaker": "it_thought_for_a",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " We asked it, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "We",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Is there anyone who has had a longer life than you?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It replied, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "It",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There is a tortoise named Akupura who lives in this lake. He is older than I am.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " We replied, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "We",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Perhaps he knows about this king. Let us ask Akupura.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The crane then spoke to the tortoise Akupura. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We need to ask you something. Please be kind enough to come to us.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing this, the tortoise emerged from the lake and came to where we were standing, on the banks of the lake. When it came, we asked it, ",
+          "speaker": "unknown",
+          "introduces": "unknown",
+          "introduces_label": "we",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do you know of this king named Indradyumna?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It thought for some time and then its eyes were ﬁlled with tears. Its heart was agitated and it trembled. It almost lost its senses. Then it joined its limbs in salutation and said, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How can I not know that king? In earlier times, when kindling the sacriﬁcial ﬁre, he erected sacriﬁcial stakes one thousand times{129}. This lake was created from the hooves of cattle he gave away as gifts. I have lived here ever since then.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " As soon as we heard these words of the tortoise, a celestial chariot descended from the world of the gods and words were heard about Indradyumna. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Heaven is ready for you. That is your appropriate place. Your deeds are great. Go there in a cheerful frame of mind. The words about sacred deeds touch the heaven and the earth. As long as there is sound, so long does man live. Whenever a being's evil deeds are recounted on earth, he descends to the inferior worlds as long as those words are recounted. Therefore, right till the end, any man on earth should be engaged in good deeds. He should avoid evil conduct and seek refuge in dharma.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing this, the king replied, ",
+          "speaker": "unknown",
+          "introduces": "the_king",
+          "introduces_label": "the king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Wait until I have returned these seniors to the places I brought them from.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He brought me and the owl Prakarakarna to our usual places. Then he returned in that chariot to the place that was appropriate for him. Though I have a long life, this is what I have witnessed.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " This is what Markandeya told the Pandavas.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Pandavas happily said, “That was proper. You did the right thing in restoring King Indradyumna to heaven again, when he had fallen from the world of heaven.” He replied, “Devaki's son Krishna also saved rajarshi Nriga, when he had descended into hell and was in distress. He returned him again to heaven{130}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Pandavas happily said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_pandavas_happily",
+          "introduces_label": "The Pandavas happily",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“That was proper. You did the right thing in restoring King Indradyumna to heaven again, when he had fallen from the world of heaven.”",
+          "speaker": "the_pandavas_happily",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " He replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Devaki's son Krishna also saved rajarshi Nriga, when he had descended into hell and was in distress. He returned him again to heaven{130}.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

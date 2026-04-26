@@ -1,0 +1,844 @@
+{
+  "chapter": 1546,
+  "local": 218,
+  "shlokas": 38,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Shatakratu then saw the blazing Shri{186}, in her own form, emerge from the body of the greatsouled Bali. The illustrious chastiser of Paka{187} saw her resplendent power. Vasava's eyes dilated with wonder and he asked Bali. ‘Who is this one who is emerging, blazing in her own energy? Her bracelets and diadem are beautiful.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Shatakratu then saw the blazing Shri{186}, in her own form, emerge from the body of the greatsouled Bali. The illustrious chastiser of Paka{187} saw her resplendent power. Vasava's eyes dilated with wonder and he asked Bali. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who is this one who is emerging, blazing in her own energy? Her bracelets and diadem are beautiful.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Bali replied, ‘I do not know whether she is an asura maiden, a goddess or a human. O Vasava! Do as you wish and ask her yourself.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Bali replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@bali",
+          "introduces_label": "Bali",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I do not know whether she is an asura maiden, a goddess or a human. O Vasava! Do as you wish and ask her yourself.’",
+          "speaker": "@bali",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra asked, ‘O one with the beautiful smiles! O one with the diadem! O radiant one who is emerging from Bali! Who are you? I do not know you. Tell me your name. You are stationed here like Maya{188}, resplendent in your own energy. Who are you? O one with the beautiful eyebrows! You have abandoned the lord of the daityas. Tell me your true nature.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful smiles! O one with the diadem! O radiant one who is emerging from Bali! Who are you? I do not know you. Tell me your name. You are stationed here like Maya{188}, resplendent in your own energy. Who are you? O one with the beautiful eyebrows! You have abandoned the lord of the daityas. Tell me your true nature.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘Virochana did not know me. Virochana's son, Bali, does not know me. I am known as Duhsaha and the learned know me as Vidhitsa{189}. O Vasava! I am also known by the names Bhuti, Lakshmi and Shri{190}. O Shakra! You do not know me. All the gods don't know me.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Virochana did not know me. Virochana's son, Bali, does not know me. I am known as Duhsaha and the learned know me as Vidhitsa{189}. O Vasava! I am also known by the names Bhuti, Lakshmi and Shri{190}. O Shakra! You do not know me. All the gods don't know me.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra asked, ‘O Duhsaha! You have dwelt with Bali for a long time. Why are you abandoning him now? Is it because of his acts or because of mine?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Duhsaha! You have dwelt with Bali for a long time. Why are you abandoning him now? Is it because of his acts or because of mine?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘Dhata and Vidhata{191} cannot control me. O Shakra! Time determines my progressive movement. O Shakra! Do not show disrespect{192}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Dhata and Vidhata{191} cannot control me. O Shakra! Time determines my progressive movement. O Shakra! Do not show disrespect{192}.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra asked, ‘O one with the diadem! Why have you abandoned Bali? Why are you approaching me? O one with the sweet smiles! Tell me this.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the diadem! Why have you abandoned Bali? Why are you approaching me? O one with the sweet smiles! Tell me this.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘I am established in truth, donations, vows, austerities, valour and dharma. Bali has deviated from these. He was devoted to brahmanas. He was truthful and in control of his senses. But he began to hate brahmanas and touched clariﬁed butter with soiled hands{193}. Earlier, he was devoted to the performance of sacriﬁces. However, he was afﬂicted by destiny and became foolish. He began to boast to people that he was capable of performing sacriﬁces to me{194}. O Shakra! O Vasava! I will therefore abandon him and dwell with you. Bear me up without distraction and through austerities and valour.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am established in truth, donations, vows, austerities, valour and dharma. Bali has deviated from these. He was devoted to brahmanas. He was truthful and in control of his senses. But he began to hate brahmanas and touched clariﬁed butter with soiled hands{193}. Earlier, he was devoted to the performance of sacriﬁces. However, he was afﬂicted by destiny and became foolish. He began to boast to people that he was capable of performing sacriﬁces to me{194}. O Shakra! O Vasava! I will therefore abandon him and dwell with you. Bear me up without distraction and through austerities and valour.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘O one whose abode is a lotus! There is no single man amongst gods, humans or amongst all beings, who is capable of bearing you for ever.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one whose abode is a lotus! There is no single man amongst gods, humans or amongst all beings, who is capable of bearing you for ever.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘O Purandara! Indeed, there is no single one amongst gods, gandharvas, asuras or rakshasas who is capable of bearing me for ever.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Purandara! Indeed, there is no single one amongst gods, gandharvas, asuras or rakshasas who is capable of bearing me for ever.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘O auspicious one! Tell me the means whereby you will always remain with me. You should tell me truthfully and I will act in accordance with those words.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O auspicious one! Tell me the means whereby you will always remain with me. You should tell me truthfully and I will act in accordance with those words.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘O Indra of the gods! I will tell you the means whereby I am always established with you. Listen. Following the ordinances of the Vedas, divide me into four parts.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra of the gods! I will tell you the means whereby I am always established with you. Listen. Following the ordinances of the Vedas, divide me into four parts.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘According to their capacity and their strength, I will determine abodes for you. O Lakshmi! When you are with me, I will never transgress you. O creator of all beings! Among men, let the earth bear you. It is my view that she is capable of bearing one quarter of you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘According to their capacity and their strength, I will determine abodes for you. O Lakshmi! When you are with me, I will never transgress you. O creator of all beings! Among men, let the earth bear you. It is my view that she is capable of bearing one quarter of you.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘This is one quarter of me. Let it be established on earth. O Shakra! Now make arrangements for the second of my four quarters.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is one quarter of me. Let it be established on earth. O Shakra! Now make arrangements for the second of my four quarters.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘Among men, the water tends to them in liquid form. Let the clear waters bear a quarter. They have the capacity to bear.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Among men, the water tends to them in liquid form. Let the clear waters bear a quarter. They have the capacity to bear.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘This is one quarter of me. Let it be established in the waters. O Shakra! Now make arrangements for the third of my four quarters.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is one quarter of me. Let it be established in the waters. O Shakra! Now make arrangements for the third of my four quarters.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘The gods, the sacriﬁces and the Vedas are established in the ﬁre. Let it bear the third quarter, since it is capable of bearing well.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The gods, the sacriﬁces and the Vedas are established in the ﬁre. Let it bear the third quarter, since it is capable of bearing well.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘This is one quarter of me. Let it be established in the ﬁre. O Shakra! Now make arrangements for the fourth of my four quarters.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is one quarter of me. Let it be established in the ﬁre. O Shakra! Now make arrangements for the fourth of my four quarters.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 19,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘There are virtuous men who are truthful in speech and are devoted to brahmanas. Those unblemished and virtuous ones have the capacity to bear. Let them bear a quarter.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There are virtuous men who are truthful in speech and are devoted to brahmanas. Those unblemished and virtuous ones have the capacity to bear. Let them bear a quarter.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 20,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘This is one quarter of me. Let it be established in the virtuous. O Shakra! With I having been distributed among beings, protect me.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is one quarter of me. Let it be established in the virtuous. O Shakra! With I having been distributed among beings, protect me.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 21,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘I have thus caused a distribution among beings. Listen to my words. I will kill those who injure you.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have thus caused a distribution among beings. Listen to my words. I will kill those who injure you.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 22,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “Having been thus abandoned by Shri, Bali, the king of the daityas, spoke these words. ‘The sun heats in front{195} and in the southern direction, in the west, as well as in the east. However, when the midday sun shines and does not set, there will again be a battle between the gods and the asuras and I will defeat you{196}. Amidst all the worlds, the sun will then heat only one spot. O Shatakratu! There will then be a battle between the gods and the asuras and I will vanquish you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having been thus abandoned by Shri, Bali, the king of the daityas, spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The sun heats in front{195} and in the southern direction, in the west, as well as in the east. However, when the midday sun shines and does not set, there will again be a battle between the gods and the asuras and I will defeat you{196}. Amidst all the worlds, the sun will then heat only one spot. O Shatakratu! There will then be a battle between the gods and the asuras and I will vanquish you.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 23,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra replied, ‘Brahma instructed me that you should not be killed by me. O Bali! That is the reason I am not releasing the vajra at your head. O Indra among the daityas! O great asura! Go wherever you wish and may you be at peace. There will be no occasion when the sun will only be stationed at the midpoint and heat there. Svayambhu{197} has earlier laid down the course of time it must follow. It follows that truth and heats subjects incessantly. It follows six months of a northward and southward course each. That is the way the sun creates cold and heat for all the worlds.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Brahma instructed me that you should not be killed by me. O Bali! That is the reason I am not releasing the vajra at your head. O Indra among the daityas! O great asura! Go wherever you wish and may you be at peace. There will be no occasion when the sun will only be stationed at the midpoint and heat there. Svayambhu{197} has earlier laid down the course of time it must follow. It follows that truth and heats subjects incessantly. It follows six months of a northward and southward course each. That is the way the sun creates cold and heat for all the worlds.’",
+          "speaker": "@indra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 24,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O descendant of the Bharata lineage! Thus addressed by Indra, Bali, the Indra among the daityas, left for the southern direction. Purandara went towards the north. Bali sang this song, which was without any trace of pride. Having heard his words, the one with the thousand eyes rose up into the sky.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Bharata lineage! Thus addressed by Indra, Bali, the Indra among the daityas, left for the southern direction. Purandara went towards the north. Bali sang this song, which was without any trace of pride. Having heard his words, the one with the thousand eyes rose up into the sky.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

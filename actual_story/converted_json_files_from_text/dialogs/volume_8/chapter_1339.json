@@ -1,0 +1,276 @@
+{
+  "chapter": 1339,
+  "local": 11,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Arjuna said, “O bull among the Bharata lineage! On this, an ancient history is recounted, the conversation between the ascetics and Shakra. Some brahmanas abandoned their homes and went to the forest. They had still not developed beards{64}. Though they were born in good lineages, they were stupid and followed the wrong path. They thought that they were following dharma and decided to observe brahmacharya. They abandoned their homes and their fathers. Indra took pity on them. Adopting the form of a golden bird, the illustrious one came to them and said, ‘Men who eat leftover food perform an extremely difﬁcult task. The lives of those who perform such meritorious acts should be praised. They are foremost among those who follow dharma and obtain the best of success and objectives{65}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! On this, an ancient history is recounted, the conversation between the ascetics and Shakra. Some brahmanas abandoned their homes and went to the forest. They had still not developed beards{64}. Though they were born in good lineages, they were stupid and followed the wrong path. They thought that they were following dharma and decided to observe brahmacharya. They abandoned their homes and their fathers. Indra took pity on them. Adopting the form of a golden bird, the illustrious one came to them and said, ",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Men who eat leftover food perform an extremely difﬁcult task. The lives of those who perform such meritorious acts should be praised. They are foremost among those who follow dharma and obtain the best of success and objectives{65}.’",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rishis replied, ‘Aha! This bird is praising those who eat leftover food. It must be praising us, since we subsist on leftover food.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rishis replied, ",
+          "speaker": "@arjuna",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Aha! This bird is praising those who eat leftover food. It must be praising us, since we subsist on leftover food.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The bird said, ‘I am not praising you. You are covered in mud and dust. You are wicked ones who eat impure food. You are not the ones who eat leftover food.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The bird said, ",
+          "speaker": "@arjuna",
+          "introduces": "the_bird",
+          "introduces_label": "The bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am not praising you. You are covered in mud and dust. You are wicked ones who eat impure food. You are not the ones who eat leftover food.’",
+          "speaker": "the_bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rishis replied, ‘We think that the path that we are following is the best. O bird! Tell us what is beneﬁcial. We have great faith in you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rishis replied, ",
+          "speaker": "@arjuna",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We think that the path that we are following is the best. O bird! Tell us what is beneﬁcial. We have great faith in you.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The bird said, ‘If you do not doubt me and do not cause a division in your own selves{66}, then I will speak words that are truly beneﬁcial.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The bird said, ",
+          "speaker": "@arjuna",
+          "introduces": "the_bird",
+          "introduces_label": "The bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you do not doubt me and do not cause a division in your own selves{66}, then I will speak words that are truly beneﬁcial.’",
+          "speaker": "the_bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rishis replied, ‘O father{67}! We will listen to your words. You know about different paths. O one with dharma in your soul! Instruct us. We wish to be taught by you.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rishis replied, ",
+          "speaker": "@arjuna",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O father{67}! We will listen to your words. You know about different paths. O one with dharma in your soul! Instruct us. We wish to be taught by you.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The bird said, ‘The cow is the best among quadrupeds and gold the best among metals. Mantras are the best among words and brahmanas the best among bipeds. Mantras determine the sacraments for a brahmana as long as he lives, from the time of birth to the time when he dies and is at the cremation ground. The rites of the Vedas are the supreme path towards heaven. All deeds are said to become successful through mantras. In this world, the ﬁrm words of the Vedas signify success, depending on the months, half-months, seasons, the sun, the moon and the stars{68}. In this life, all beings are attached to action in accordance with this. This{69} is sacred and the greatest stage of life and is the ﬁeld for success. What path is followed by men who censure action? They are stupid, evil and are deprived of artha. Those foolish ones subsist, but have abandoned the eternal path followed by the lineage of the gods, the lineage of the ancestors and the lineage of Brahma{70}. They traverse a path not approved by the sacred texts. O ascetics! Therefore, this is the asceticism you should endeavour to follow. The offering of shares to the eternal lineages of the gods, the ancestors and Brahma and servitude to preceptors are said to be the most difﬁcult of tasks. Having performed such difﬁcult tasks, the gods obtained supreme prosperity. That is the reason I am telling you that the burden of a householder is an extremely difﬁcult one to take up. There is no doubt that this is the best form of austerity for beings. It forms the base. Everything is established on the rules prescribed for a family. O brahmanas! Those who are not selﬁsh and those who have gone beyond opposite sentiments say that this is the best form of asceticism. People say that going to the forest is a middling kind of asceticism. Those who live on leftovers and following the rites, morning and evening, divide up the food among relatives, attain an end that is extremely difﬁcult to obtain. They ﬁrst give to guests, gods, ancestors and relatives. They then eat the remnants and are said to be those who live on leftovers. They are established in their own dharma. They are excellent in their vows and are truthful. They become the preceptors of the worlds and are revered by everyone. They do not suffer from envy. They attain the world of heaven, Shakra's heaven. Those people perform extremely difﬁcult deeds and dwell there for an eternal number of years.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The bird said, ",
+          "speaker": "@arjuna",
+          "introduces": "the_bird",
+          "introduces_label": "The bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The cow is the best among quadrupeds and gold the best among metals. Mantras are the best among words and brahmanas the best among bipeds. Mantras determine the sacraments for a brahmana as long as he lives, from the time of birth to the time when he dies and is at the cremation ground. The rites of the Vedas are the supreme path towards heaven. All deeds are said to become successful through mantras. In this world, the ﬁrm words of the Vedas signify success, depending on the months, half-months, seasons, the sun, the moon and the stars{68}. In this life, all beings are attached to action in accordance with this. This{69} is sacred and the greatest stage of life and is the ﬁeld for success. What path is followed by men who censure action? They are stupid, evil and are deprived of artha. Those foolish ones subsist, but have abandoned the eternal path followed by the lineage of the gods, the lineage of the ancestors and the lineage of Brahma{70}. They traverse a path not approved by the sacred texts. O ascetics! Therefore, this is the asceticism you should endeavour to follow. The offering of shares to the eternal lineages of the gods, the ancestors and Brahma and servitude to preceptors are said to be the most difﬁcult of tasks. Having performed such difﬁcult tasks, the gods obtained supreme prosperity. That is the reason I am telling you that the burden of a householder is an extremely difﬁcult one to take up. There is no doubt that this is the best form of austerity for beings. It forms the base. Everything is established on the rules prescribed for a family. O brahmanas! Those who are not selﬁsh and those who have gone beyond opposite sentiments say that this is the best form of asceticism. People say that going to the forest is a middling kind of asceticism. Those who live on leftovers and following the rites, morning and evening, divide up the food among relatives, attain an end that is extremely difﬁcult to obtain. They ﬁrst give to guests, gods, ancestors and relatives. They then eat the remnants and are said to be those who live on leftovers. They are established in their own dharma. They are excellent in their vows and are truthful. They become the preceptors of the worlds and are revered by everyone. They do not suffer from envy. They attain the world of heaven, Shakra's heaven. Those people perform extremely difﬁcult deeds and dwell there for an eternal number of years.’",
+          "speaker": "the_bird",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On hearing his words, which were full of dharma and artha, they abandoned the path of non-believers{71} and resorted to the dharma of householders{72}. O one who cannot be assailed! Therefore, you should also resort to eternal patience. O supreme among men! With all the enemies slain, rule over the entire earth.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On hearing his words, which were full of dharma and artha, they abandoned the path of non-believers{71} and resorted to the dharma of householders{72}. O one who cannot be assailed! Therefore, you should also resort to eternal patience. O supreme among men! With all the enemies slain, rule over the entire earth.”",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

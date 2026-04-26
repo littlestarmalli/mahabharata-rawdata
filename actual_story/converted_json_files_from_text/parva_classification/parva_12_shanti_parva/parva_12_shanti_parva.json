@@ -1,0 +1,44 @@
+{
+  "name": "Shanti Parva",
+  "parva_number": 12,
+  "details": {
+    "num_subparvas": 3,
+    "num_chapters": 353,
+    "num_shlokas": 12823
+  },
+  "subparvas": {
+    "84": {
+      "subparva_number": 84,
+      "name": "Raja Dharma Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 128,
+        "num_shlokas": 4509
+      },
+      "note": "Moksha means liberation, as opposed to the pursuit of dharma, artha and kama.",
+      "file": "parva_12_shanti_parva/subparva_84_raja_dharma_parva/subparva_84_raja_dharma_parva.json"
+    },
+    "85": {
+      "subparva_number": 85,
+      "name": "Apad-dharma Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 39,
+        "num_shlokas": 1560
+      },
+      "note": "Moksha means liberation, as opposed to the pursuit of dharma, artha and kama.",
+      "file": "parva_12_shanti_parva/subparva_85_apad_dharma_parva/subparva_85_apad_dharma_parva.json"
+    },
+    "86": {
+      "subparva_number": 86,
+      "name": "Moksha Dharma Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 186,
+        "num_shlokas": 6754
+      },
+      "note": "Moksha means liberation, as opposed to the pursuit of dharma, artha and kama.",
+      "file": "parva_12_shanti_parva/subparva_86_moksha_dharma_parva/subparva_86_moksha_dharma_parva.json"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "chapter": 727,
+  "local": 64,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘The immensely wise Dhritarashtra spoke to Suyodhana in this way. He again asked the immensely fortunate Sanjaya. “O Sanjaya! Tell me what else Arjuna said after Vasudeva had spoken. I am extremely curious.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The immensely wise Dhritarashtra spoke to Suyodhana in this way. He again asked the immensely fortunate Sanjaya. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! Tell me what else Arjuna said after Vasudeva had spoken. I am extremely curious.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “After hearing Vasudeva's words, in Vasudeva's hearing, the invincible Dhananjaya, Kunti's son, spoke these words at that time. ‘O Sanjaya! Go to the grandfather who is Shantanu's son, Dhritarashtra, Drona, Karna, the great king Bahlika, Drona's son, Somadatta, Shakuni Soubala, Duhshasana, Shala, Purumitra, Vivimshati, Vikarna, Chitrasena, the king Jayatsena, Vinda, Anuvinda, the two from Avanti, the Kourava Durmukha, the invincible Saindhava{155}, Bhurishrava, King Bhagadatta, King Jalasandha and all the other kings who have assembled to ﬁght for the cause of the Kouravas. O suta! Having gathered for the sake of Dhritarashtra's son, they are destined to die in the blazing ﬁre of the Pandavas. As is proper, honour them and ask about their welfare. When they have assembled, tell them my words. O Sanjaya! Tell this in the midst of that assembly of kings to Suyodhana, foremost among wicked ones. “The prince is intolerant and evil-minded. Dhritarashtra's son is avaricious and wicked in his soul.” O Sanjaya! Tell him my complete words, while he listens with his advisers.’ Having thus started, the wise Partha Dhananjaya, with long and red eyes, looked towards Vasudeva and told me these words that were full of dharma and artha. ‘You have listened attentively to the words spoken by the great-souled chief of the Madhus. Those words are mine too and convey them to all the assembled kings. Let all the assembled ones endeavour so that there isn't a great sacriﬁce of battle, with arrows as the smoke of ﬁre, chariots as chants and the ladle of the bow pouring oblations on your soldiers. Since you did not return to Yudhishthira, the destroyer of enemies, what he desires as his share, I will use my sharp arrows to send you, with your horses, infantry and elephants, to the pure region of the ancestors{156}.’ Then I quickly took my leave of Dhananjaya and the four-armed Hari{157}. I returned with the radiance of the immortals, to report those great words to you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“After hearing Vasudeva's words, in Vasudeva's hearing, the invincible Dhananjaya, Kunti's son, spoke these words at that time. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Sanjaya! Go to the grandfather who is Shantanu's son, Dhritarashtra, Drona, Karna, the great king Bahlika, Drona's son, Somadatta, Shakuni Soubala, Duhshasana, Shala, Purumitra, Vivimshati, Vikarna, Chitrasena, the king Jayatsena, Vinda, Anuvinda, the two from Avanti, the Kourava Durmukha, the invincible Saindhava{155}, Bhurishrava, King Bhagadatta, King Jalasandha and all the other kings who have assembled to ﬁght for the cause of the Kouravas. O suta! Having gathered for the sake of Dhritarashtra's son, they are destined to die in the blazing ﬁre of the Pandavas. As is proper, honour them and ask about their welfare. When they have assembled, tell them my words. O Sanjaya! Tell this in the midst of that assembly of kings to Suyodhana, foremost among wicked ones. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“The prince is intolerant and evil-minded. Dhritarashtra's son is avaricious and wicked in his soul.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O Sanjaya! Tell him my complete words, while he listens with his advisers.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having thus started, the wise Partha Dhananjaya, with long and red eyes, looked towards Vasudeva and told me these words that were full of dharma and artha. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have listened attentively to the words spoken by the great-souled chief of the Madhus. Those words are mine too and convey them to all the assembled kings. Let all the assembled ones endeavour so that there isn't a great sacriﬁce of battle, with arrows as the smoke of ﬁre, chariots as chants and the ladle of the bow pouring oblations on your soldiers. Since you did not return to Yudhishthira, the destroyer of enemies, what he desires as his share, I will use my sharp arrows to send you, with your horses, infantry and elephants, to the pure region of the ancestors{156}.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then I quickly took my leave of Dhananjaya and the four-armed Hari{157}. I returned with the radiance of the immortals, to report those great words to you.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

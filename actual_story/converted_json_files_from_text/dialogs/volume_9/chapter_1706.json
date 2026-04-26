@@ -1,0 +1,115 @@
+{
+  "chapter": 1706,
+  "local": 25,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O king! O descendant of the Bharata lineage! You should tell me the truth about this. What kinds of violence are said to be the equal to the sin of actually killing a brahmana?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O descendant of the Bharata lineage! You should tell me the truth about this. What kinds of violence are said to be the equal to the sin of actually killing a brahmana?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O Indra among kings! On an earlier occasion, I had invited Vyasa to tell me about this. I will tell you the truth about this. Listen with single-minded attention.’O sage! O one who is fourth from Vasishtha{1205}! Tell me the truth about this. What kinds of violence are said to be equal to the sin of actually killing a brahmana?’ O great king! Thus asked, Parashara's son told me about the skilful and supreme determination of dharma on this.’There may be a brahmana who is lean because he lacks a means of subsistence. If a person himself invites him for the sake of giving alms and later says that nothing is available, know that this person has effectively killed a brahmana. O descendant of the Bharata lineage{1206}! If an evil-minded person is indifferent and destroys the livelihood of a brahmana who is devoted to learning, know that he is regarded as having killed a brahmana. O lord of the earth! When cattle are thirsty and seek to slake their thirst, if a person causes obstructions in this, know him to be guilty of killing a brahmana. The learned texts have been composed by the sages and these sacred texts have been passed down properly. Without knowing them, if a person censures them, know him to be guilty of killing a brahmana. If a person has a beautiful and excellent daughter, but does not bestow the maiden on a groom who is her equal, know him to be guilty of killing a brahmana. If a stupid person is addicted to adharma and, through falsehood, causes afﬂiction and sorrow to brahmanas, know him to be guilty of killing a brahmana. If a person robs all the possessions of someone who is blind, lame or dumb, know him to be guilty of killing a brahmana. Because of delusion, if a person sets ﬁre to a hermitage, a forest, a village or a city, know him to be guilty of killing a brahmana.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among kings! On an earlier occasion, I had invited Vyasa to tell me about this. I will tell you the truth about this. Listen with single-minded attention.’",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "O sage! O one who is fourth from Vasishtha{1205}! Tell me the truth about this. What kinds of violence are said to be equal to the sin of actually killing a brahmana?’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": " O great king! Thus asked, Parashara's son told me about the skilful and supreme determination of dharma on this.",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "close",
+          "depth": 0,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "There may be a brahmana who is lean because he lacks a means of subsistence. If a person himself invites him for the sake of giving alms and later says that nothing is available, know that this person has effectively killed a brahmana. O descendant of the Bharata lineage{1206}! If an evil-minded person is indifferent and destroys the livelihood of a brahmana who is devoted to learning, know that he is regarded as having killed a brahmana. O lord of the earth! When cattle are thirsty and seek to slake their thirst, if a person causes obstructions in this, know him to be guilty of killing a brahmana. The learned texts have been composed by the sages and these sacred texts have been passed down properly. Without knowing them, if a person censures them, know him to be guilty of killing a brahmana. If a person has a beautiful and excellent daughter, but does not bestow the maiden on a groom who is her equal, know him to be guilty of killing a brahmana. If a stupid person is addicted to adharma and, through falsehood, causes afﬂiction and sorrow to brahmanas, know him to be guilty of killing a brahmana. If a person robs all the possessions of someone who is blind, lame or dumb, know him to be guilty of killing a brahmana. Because of delusion, if a person sets ﬁre to a hermitage, a forest, a village or a city, know him to be guilty of killing a brahmana.",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "close",
+          "depth": 0,
+          "text": "”’",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

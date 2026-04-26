@@ -1,0 +1,268 @@
+{
+  "name": "Ashrama-Vasa Parva",
+  "subparva_number": 90,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 35,
+    "num_shlokas": 737
+  },
+  "note": "Ashrama-Vasa Parva means more or less the same as Ashrama-Vasika Parva. A bit more accurately, Ashrama-Vasika means residents of the forest, while Ashrama-Vasa means residence in the forest. Dhritarashtra, Gandhari, Sanjaya, Vidura and Kunti leave for the forest. Vidura dies and merges into Yudhishthira.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1932": {
+      "chapter_number": 1932,
+      "global_number": 1932,
+      "local_number": 1,
+      "num_shlokas": 25,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1932_tagged.json"
+    },
+    "1933": {
+      "chapter_number": 1933,
+      "global_number": 1933,
+      "local_number": 2,
+      "num_shlokas": 13,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1933_tagged.json"
+    },
+    "1934": {
+      "chapter_number": 1934,
+      "global_number": 1934,
+      "local_number": 3,
+      "num_shlokas": 17,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1934_tagged.json"
+    },
+    "1935": {
+      "chapter_number": 1935,
+      "global_number": 1935,
+      "local_number": 4,
+      "num_shlokas": 15,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1935_tagged.json"
+    },
+    "1936": {
+      "chapter_number": 1936,
+      "global_number": 1936,
+      "local_number": 5,
+      "num_shlokas": 23,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1936_tagged.json"
+    },
+    "1937": {
+      "chapter_number": 1937,
+      "global_number": 1937,
+      "local_number": 6,
+      "num_shlokas": 28,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1937_tagged.json"
+    },
+    "1938": {
+      "chapter_number": 1938,
+      "global_number": 1938,
+      "local_number": 7,
+      "num_shlokas": 19,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1938_tagged.json"
+    },
+    "1939": {
+      "chapter_number": 1939,
+      "global_number": 1939,
+      "local_number": 8,
+      "num_shlokas": 22,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1939_tagged.json"
+    },
+    "1940": {
+      "chapter_number": 1940,
+      "global_number": 1940,
+      "local_number": 9,
+      "num_shlokas": 26,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1940_tagged.json"
+    },
+    "1941": {
+      "chapter_number": 1941,
+      "global_number": 1941,
+      "local_number": 10,
+      "num_shlokas": 16,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1941_tagged.json"
+    },
+    "1942": {
+      "chapter_number": 1942,
+      "global_number": 1942,
+      "local_number": 11,
+      "num_shlokas": 19,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1942_tagged.json"
+    },
+    "1943": {
+      "chapter_number": 1943,
+      "global_number": 1943,
+      "local_number": 12,
+      "num_shlokas": 23,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1943_tagged.json"
+    },
+    "1944": {
+      "chapter_number": 1944,
+      "global_number": 1944,
+      "local_number": 13,
+      "num_shlokas": 22,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1944_tagged.json"
+    },
+    "1945": {
+      "chapter_number": 1945,
+      "global_number": 1945,
+      "local_number": 14,
+      "num_shlokas": 17,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1945_tagged.json"
+    },
+    "1946": {
+      "chapter_number": 1946,
+      "global_number": 1946,
+      "local_number": 15,
+      "num_shlokas": 26,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1946_tagged.json"
+    },
+    "1947": {
+      "chapter_number": 1947,
+      "global_number": 1947,
+      "local_number": 16,
+      "num_shlokas": 27,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1947_tagged.json"
+    },
+    "1948": {
+      "chapter_number": 1948,
+      "global_number": 1948,
+      "local_number": 17,
+      "num_shlokas": 23,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1948_tagged.json"
+    },
+    "1949": {
+      "chapter_number": 1949,
+      "global_number": 1949,
+      "local_number": 18,
+      "num_shlokas": 12,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1949_tagged.json"
+    },
+    "1950": {
+      "chapter_number": 1950,
+      "global_number": 1950,
+      "local_number": 19,
+      "num_shlokas": 15,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1950_tagged.json"
+    },
+    "1951": {
+      "chapter_number": 1951,
+      "global_number": 1951,
+      "local_number": 20,
+      "num_shlokas": 17,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1951_tagged.json"
+    },
+    "1952": {
+      "chapter_number": 1952,
+      "global_number": 1952,
+      "local_number": 21,
+      "num_shlokas": 13,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1952_tagged.json"
+    },
+    "1953": {
+      "chapter_number": 1953,
+      "global_number": 1953,
+      "local_number": 22,
+      "num_shlokas": 32,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1953_tagged.json"
+    },
+    "1954": {
+      "chapter_number": 1954,
+      "global_number": 1954,
+      "local_number": 23,
+      "num_shlokas": 21,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1954_tagged.json"
+    },
+    "1955": {
+      "chapter_number": 1955,
+      "global_number": 1955,
+      "local_number": 24,
+      "num_shlokas": 24,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1955_tagged.json"
+    },
+    "1956": {
+      "chapter_number": 1956,
+      "global_number": 1956,
+      "local_number": 25,
+      "num_shlokas": 18,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1956_tagged.json"
+    },
+    "1957": {
+      "chapter_number": 1957,
+      "global_number": 1957,
+      "local_number": 26,
+      "num_shlokas": 22,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1957_tagged.json"
+    },
+    "1958": {
+      "chapter_number": 1958,
+      "global_number": 1958,
+      "local_number": 27,
+      "num_shlokas": 16,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1958_tagged.json"
+    },
+    "1959": {
+      "chapter_number": 1959,
+      "global_number": 1959,
+      "local_number": 28,
+      "num_shlokas": 16,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1959_tagged.json"
+    },
+    "1960": {
+      "chapter_number": 1960,
+      "global_number": 1960,
+      "local_number": 29,
+      "num_shlokas": 26,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1960_tagged.json"
+    },
+    "1961": {
+      "chapter_number": 1961,
+      "global_number": 1961,
+      "local_number": 30,
+      "num_shlokas": 18,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1961_tagged.json"
+    },
+    "1962": {
+      "chapter_number": 1962,
+      "global_number": 1962,
+      "local_number": 31,
+      "num_shlokas": 20,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1962_tagged.json"
+    },
+    "1963": {
+      "chapter_number": 1963,
+      "global_number": 1963,
+      "local_number": 32,
+      "num_shlokas": 18,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1963_tagged.json"
+    },
+    "1964": {
+      "chapter_number": 1964,
+      "global_number": 1964,
+      "local_number": 33,
+      "num_shlokas": 37,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1964_tagged.json"
+    },
+    "1965": {
+      "chapter_number": 1965,
+      "global_number": 1965,
+      "local_number": 34,
+      "num_shlokas": 26,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1965_tagged.json"
+    },
+    "1966": {
+      "chapter_number": 1966,
+      "global_number": 1966,
+      "local_number": 35,
+      "num_shlokas": 25,
+      "file": "subparva_90_ashrama_vasa_parva/chapter_1966_tagged.json"
+    }
+  }
+}

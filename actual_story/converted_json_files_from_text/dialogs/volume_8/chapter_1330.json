@@ -1,0 +1,209 @@
+{
+  "chapter": 1330,
+  "local": 2,
+  "shlokas": 29,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having been thus addressed, the sage Narada, supreme among eloquent ones, recounted everything about how the son of a suta had been cursed.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having been thus addressed, the sage Narada, supreme among eloquent ones, recounted everything about how the son of a suta had been cursed.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘“O mighty-armed one{8}! O descendant of the Bharata lineage! It is exactly as you have said. There is nothing that could have stood against Karna and Arjuna in a battle. O king! What I am about to tell you is unknown to even the gods. O great king! O lord! Therefore, listen to what happened in earlier times, about how the kshatriyas would be cleansed by weapons and would go to heaven. To engender that dissension, he was created in a virgin womb. He was energetic as a child and came to be known as the son of a suta. He went to the best of the Angirasa lineage, your preceptor{9}, to learn about the science of war{10}. O Indra among kings! He thought of Bhima's strength, Phalguna's dexterity, your intelligence, the humility of the twins, the friendship that the wielder of Gandiva has had with Vasudeva since childhood and the devotion of the subjects and was tormented. From childhood, he formed a friendship with King Duryodhana. This is because of the enmity he always bore towards you and natural destiny. He saw that Dhananjaya was superior to everyone in learning about dhanurveda. Karna secretly went to Drona and spoke these words. ‘I wish to know about brahmastra and the secrets of releasing and withdrawing it. It is my view that I should become Arjuna's equal in battle. It is certain that the affection you bear towards your disciples is equal to what you bear towards your son. Because of your favours, make me accomplished and skilled in the use of weapons.’ Drona was partial towards Phalguna. He also knew about Karna's wickedness. Having been thus addressed by Karna, he replied, ‘The brahmastra can only be known by a brahmana who is observant of the vows, or by a kshatriya who has performed austerities, and by no one else.’ Having been thus addressed by the best of the Angirasa lineage, he honoured him and took his leave. He then quickly went to Rama{11} on Mount Mahendra. Having approached Rama, he lowered his head in obeisance before him and said, ‘O Bhargava! I am a brahmana.’ This earned him respect. Rama welcomed him and asked him everything about his gotra{12}. He was extremely delighted at this warm welcome. Karna resided on Mahendra, supreme among mountains, and met gandharvas, rakshasas, yakshas and gods there. There, in the proper way, he obtained all the weapons from the best of the Bhrigu lineage. Because of this, he was loved by the gods, the gandharvas and the rakshasas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O mighty-armed one{8}! O descendant of the Bharata lineage! It is exactly as you have said. There is nothing that could have stood against Karna and Arjuna in a battle. O king! What I am about to tell you is unknown to even the gods. O great king! O lord! Therefore, listen to what happened in earlier times, about how the kshatriyas would be cleansed by weapons and would go to heaven. To engender that dissension, he was created in a virgin womb. He was energetic as a child and came to be known as the son of a suta. He went to the best of the Angirasa lineage, your preceptor{9}, to learn about the science of war{10}. O Indra among kings! He thought of Bhima's strength, Phalguna's dexterity, your intelligence, the humility of the twins, the friendship that the wielder of Gandiva has had with Vasudeva since childhood and the devotion of the subjects and was tormented. From childhood, he formed a friendship with King Duryodhana. This is because of the enmity he always bore towards you and natural destiny. He saw that Dhananjaya was superior to everyone in learning about dhanurveda. Karna secretly went to Drona and spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I wish to know about brahmastra and the secrets of releasing and withdrawing it. It is my view that I should become Arjuna's equal in battle. It is certain that the affection you bear towards your disciples is equal to what you bear towards your son. Because of your favours, make me accomplished and skilled in the use of weapons.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Drona was partial towards Phalguna. He also knew about Karna's wickedness. Having been thus addressed by Karna, he replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The brahmastra can only be known by a brahmana who is observant of the vows, or by a kshatriya who has performed austerities, and by no one else.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed by the best of the Angirasa lineage, he honoured him and took his leave. He then quickly went to Rama{11} on Mount Mahendra. Having approached Rama, he lowered his head in obeisance before him and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Bhargava! I am a brahmana.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " This earned him respect. Rama welcomed him and asked him everything about his gotra{12}. He was extremely delighted at this warm welcome. Karna resided on Mahendra, supreme among mountains, and met gandharvas, rakshasas, yakshas and gods there. There, in the proper way, he obtained all the weapons from the best of the Bhrigu lineage. Because of this, he was loved by the gods, the gandharvas and the rakshasas.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Once, near that hermitage, he was roaming around on the shores of the ocean. The son of the suta was wandering around alone, with a sword and a bow in his hand. O Partha! There was a person who was knowledgeable about the brahman and who performed the aghnihotra sacriﬁce every day. Unwittingly, he killed his homadhenu{13}. Having unwittingly performed this deed, Karna went and repeatedly told the brahmana, so that he might be paciﬁed, ‘O illustrious one! I have unwittingly killed your cow. Please show me your favours.’ However, the brahmana censured him and angrily spoke these words, ‘O wicked one! O evil-minded one! You should be killed. Therefore, reap this fruit. You have always sought to rival someone{14} and you have been striving against him every day. Because of this crime, when you are ﬁghting with him, the earth will swallow up the wheel of your chariot. O worst of men! When you clash against your foe and are distracted because the wheel of your chariot has been devoured by the earth, he will exhibit his valour and sever your head. O stupid one! Leave this place. Just as you were distracted when you acted against me, another person will sever and bring down your head while you are distracted.’ He again tried to secure the favours of that supreme among brahmanas. He gave him cattle, riches and jewels. However, he{15} again said, ‘Nothing in all the worlds will be able to falsify the words spoken by me. You can go, or stay, or do whatever else you wish to.’ Having been thus addressed by the brahmana, Karna was distressed and hung his head down. Terriﬁed, he returned to Rama and thought about this in his mind.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Once, near that hermitage, he was roaming around on the shores of the ocean. The son of the suta was wandering around alone, with a sword and a bow in his hand. O Partha! There was a person who was knowledgeable about the brahman and who performed the aghnihotra sacriﬁce every day. Unwittingly, he killed his homadhenu{13}. Having unwittingly performed this deed, Karna went and repeatedly told the brahmana, so that he might be paciﬁed, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! I have unwittingly killed your cow. Please show me your favours.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " However, the brahmana censured him and angrily spoke these words, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O wicked one! O evil-minded one! You should be killed. Therefore, reap this fruit. You have always sought to rival someone{14} and you have been striving against him every day. Because of this crime, when you are ﬁghting with him, the earth will swallow up the wheel of your chariot. O worst of men! When you clash against your foe and are distracted because the wheel of your chariot has been devoured by the earth, he will exhibit his valour and sever your head. O stupid one! Leave this place. Just as you were distracted when you acted against me, another person will sever and bring down your head while you are distracted.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He again tried to secure the favours of that supreme among brahmanas. He gave him cattle, riches and jewels. However, he{15} again said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Nothing in all the worlds will be able to falsify the words spoken by me. You can go, or stay, or do whatever else you wish to.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed by the brahmana, Karna was distressed and hung his head down. Terriﬁed, he returned to Rama and thought about this in his mind.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

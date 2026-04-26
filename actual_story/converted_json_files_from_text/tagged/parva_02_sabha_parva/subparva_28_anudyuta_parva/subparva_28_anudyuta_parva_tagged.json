@@ -1,0 +1,72 @@
+{
+  "name": "Anudyuta Parva",
+  "subparva_number": 28,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 7,
+    "num_shlokas": 232
+  },
+  "note": "This sections has 232 shlokas and seven chapters. As has been mentioned in the earlier section, the word dyuta means playing or gambling with dice, and also the resultant prize. The word anu means after, behind, or in consequence of. So this section is about the aftermath of the gambling match.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "291": {
+      "chapter_number": 291,
+      "global_number": 291,
+      "local_number": 66,
+      "num_shlokas": 37,
+      "file": "subparva_28_anudyuta_parva/chapter_291_tagged.json"
+    },
+    "292": {
+      "chapter_number": 292,
+      "global_number": 292,
+      "local_number": 67,
+      "num_shlokas": 21,
+      "file": "subparva_28_anudyuta_parva/chapter_292_tagged.json"
+    },
+    "293": {
+      "chapter_number": 293,
+      "global_number": 293,
+      "local_number": 68,
+      "num_shlokas": 46,
+      "file": "subparva_28_anudyuta_parva/chapter_293_tagged.json"
+    },
+    "294": {
+      "chapter_number": 294,
+      "global_number": 294,
+      "local_number": 69,
+      "num_shlokas": 21,
+      "file": "subparva_28_anudyuta_parva/chapter_294_tagged.json"
+    },
+    "295": {
+      "chapter_number": 295,
+      "global_number": 295,
+      "local_number": 70,
+      "num_shlokas": 24,
+      "file": "subparva_28_anudyuta_parva/chapter_295_tagged.json"
+    },
+    "296": {
+      "chapter_number": 296,
+      "global_number": 296,
+      "local_number": 71,
+      "num_shlokas": 47,
+      "file": "subparva_28_anudyuta_parva/chapter_296_tagged.json"
+    },
+    "297": {
+      "chapter_number": 297,
+      "global_number": 297,
+      "local_number": 72,
+      "num_shlokas": 36,
+      "file": "subparva_28_anudyuta_parva/chapter_297_tagged.json"
+    }
+  }
+}

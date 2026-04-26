@@ -1,0 +1,228 @@
+{
+  "chapter_number": 30,
+  "global_number": 30,
+  "local_number": 30,
+  "num_shlokas": 22,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Garuda said, “O Purandara! As you wish, let there be friendship between us. But know that my strength is great and hard to bear. O Shatakratu! There is no doubt that the learned do not approve of speaking highly of one’s own strength or of praising one’s own qualities. O friend! Since we are now friends and since you ask me, I will tell you, though there should never be self-praise without reason. O Shakra! On a single one of my feathers, without any fatigue, I can bear the wide world with its mountains, forests, oceans and even you suspended there, even all the worlds together, with all their mobile and immobile objects. Know this to be my great strength.”",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Garuda said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@garuda",
+          "text": "“O Purandara! As you wish, let there be friendship between us. But know that my strength is great and hard to bear. O Shatakratu! There is no doubt that the learned do not approve of speaking highly of one’s own strength or of praising one’s own qualities. O friend! Since we are now friends and since you ask me, I will tell you, though there should never be self-praise without reason. O Shakra! On a single one of my feathers, without any fatigue, I can bear the wide world with its mountains, forests, oceans and even you suspended there, even all the worlds together, with all their mobile and immobile objects. Know this to be my great strength.”",
+          "color": "#BCD94E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘O Shounaka! When the hero said this, the illustrious and prosperous lord, the crowned king of the gods, the bringer of welfare to all beings, said, “Now accept my eternal and supreme friendship. If you do not require the soma, please return the soma to me. Those to whom you give it will always overcome us.” Garuda replied, “There is a reason why I am taking the soma away. I will not give the soma to anyone to drink. O god with the thousand eyes! O ruler of the three worlds! When I have put it down, you can immediately pick it up and bring it back.” Shakra said, “O you who are born of an egg! Your words please me. O best of the birds! Ask from me any boon that you desire.” Being thus addressed, he remembered Kadru’s son and his mother’s slavery through deception and said, “O Shakra! I have the power to do what I desire. Yet, I will be a supplicant before you. Let the mighty snakes be my food.” The enemy of the danavas agreed and said, “I shall take the soma away when you have put it down.” Thereafter, with great speed, Suparna went to his mother.",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "O Shounaka! When the hero said this,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "the illustrious and prosperous lord, the crowned king of the gods, the bringer of welfare to all beings, said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_illustrious_and_prosperous_lord",
+          "text": "“Now accept my eternal and supreme friendship. If you do not require the soma, please return the soma to me. Those to whom you give it will always overcome us.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Garuda replied",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@garuda",
+          "text": "“There is a reason why I am taking the soma away. I will not give the soma to anyone to drink. O god with the thousand eyes! O ruler of the three worlds! When I have put it down, you can immediately pick it up and bring it back.”",
+          "color": "#BCD94E",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Shakra said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@indra",
+          "text": "“O you who are born of an egg! Your words please me. O best of the birds! Ask from me any boon that you desire.”",
+          "color": "#FFD60A",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Being thus addressed, he remembered Kadru’s son and his mother’s slavery through deception and said,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ugrasrava",
+          "text": "“O Shakra! I have the power to do what I desire. Yet, I will be a supplicant before you. Let the mighty snakes be my food.”",
+          "color": "#E8B86D",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The enemy of the danavas agreed and said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_enemy_of_the",
+          "text": "“I shall take the soma away when you have put it down.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Thereafter, with great speed, Suparna went to his mother.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘In great delight, he told all the snakes, “I have brought you the amrita. I will place it for you on this kusha grass. O snakes! Drink it after bathing and purifying yourselves through rites. I have done what you asked me to do. Therefore, as you had promised, let my mother be freed from her slavery at this very instant.” The snakes agreed and went off to have their baths. Shakra picked up the amrita and went off to heaven. After bathing and purifying themselves through prayers and rites, the snakes joyfully returned to the place where the soma had been kept, to drink it. But the snakes found that they had been deceived. They began to lick the darbha grass on which the soma had been placed. Because of this act, the tongues of the snakes were split in two and became forked. From that day, because of contact with the amrita, the darbha grass became sacred.",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "In great delight, he told all the snakes",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@in_great_delight",
+          "text": "“I have brought you the amrita. I will place it for you on this kusha grass. O snakes! Drink it after bathing and purifying yourselves through rites. I have done what you asked me to do. Therefore, as you had promised, let my mother be freed from her slavery at this very instant.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "The snakes agreed and went off to have their baths. Shakra picked up the amrita and went off to heaven. After bathing and purifying themselves through prayers and rites, the snakes joyfully returned to the place where the soma had been kept, to drink it. But the snakes found that they had been deceived. They began to lick the darbha grass on which the soma had been placed. Because of this act, the tongues of the snakes were split in two and became forked. From that day, because of contact with the amrita, the darbha grass became sacred.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Thereafter, Suparna happily lived in that forest with his mother. He delighted Vinata by eating snakes, being honoured by all birds and always earning fame. Without a doubt, he who hears this story or recites it in an assembly of Brahmanas, will attain heaven, obtaining his share of merit from the gloriﬁcation of the great-souled lord of the birds.’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Thereafter, Suparna happily lived in that forest with his mother. He delighted Vinata by eating snakes, being honoured by all birds and always earning fame. Without a doubt, he who hears this story or recites it in an assembly of Brahmanas, will attain heaven, obtaining his share of merit from the gloriﬁcation of the great-souled lord of the birds.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

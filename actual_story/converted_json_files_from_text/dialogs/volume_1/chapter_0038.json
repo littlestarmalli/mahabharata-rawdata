@@ -1,0 +1,306 @@
+{
+  "chapter": 38,
+  "local": 38,
+  "shlokas": 39,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shringi said, “O father! Whether my act was rash and improper, whether it brings you pleasure or displeasure, the words that I have spoken will not be in vain. O father! It can never be otherwise. I tell that I never lie, even in jest, and certainly not in a curse.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shringi said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shringi",
+          "introduces_label": "Shringi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O father! Whether my act was rash and improper, whether it brings you pleasure or displeasure, the words that I have spoken will not be in vain. O father! It can never be otherwise. I tell that I never lie, even in jest, and certainly not in a curse.”",
+          "speaker": "@shringi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shamika said, “O son! I know that you are greatly powerful and always truthful. You have not uttered a lie in your life. Therefore, this curse of yours will not be false. But even if he is grown up, a son must be advised by his father, so that he attains all the good qualities and becomes immensely famous. You are yet a child. Therefore, you need advice much more. You are always engaged in austerities and the anger of powerful and great-souled ones increases with their powers. O supreme among those who follow the path of dharma! Seeing that you are my son and witnessing your rashness, I see that I must advise you. Live on whatever food can be obtained from the forest and lead a life of tranquillity. Give up your anger. Otherwise, you will not be able to follow the path of dharma. Anger destroys merits that ascetics obtain after a great deal of pain. There is no hope for those who are deprived of merits. Tranquillity alone gives success to ascetics who are forgiving. Good accrues to the forgiving, in this world and the next. Therefore, you must always control your senses and lead a life that is forgiving. By being forgiving, you will attain worlds that cannot even be reached by Brahma. O son! Having achieved tranquillity, I shall do whatever is in my power. I shall send word to the king that he has been cursed by my son, who is yet immature and whose intelligence isn't fully developed and who did this in anger, when he couldn't condone the disrespect shown to me.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shamika said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shamika",
+          "introduces_label": "Shamika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! I know that you are greatly powerful and always truthful. You have not uttered a lie in your life. Therefore, this curse of yours will not be false. But even if he is grown up, a son must be advised by his father, so that he attains all the good qualities and becomes immensely famous. You are yet a child. Therefore, you need advice much more. You are always engaged in austerities and the anger of powerful and great-souled ones increases with their powers. O supreme among those who follow the path of dharma! Seeing that you are my son and witnessing your rashness, I see that I must advise you. Live on whatever food can be obtained from the forest and lead a life of tranquillity. Give up your anger. Otherwise, you will not be able to follow the path of dharma. Anger destroys merits that ascetics obtain after a great deal of pain. There is no hope for those who are deprived of merits. Tranquillity alone gives success to ascetics who are forgiving. Good accrues to the forgiving, in this world and the next. Therefore, you must always control your senses and lead a life that is forgiving. By being forgiving, you will attain worlds that cannot even be reached by Brahma. O son! Having achieved tranquillity, I shall do whatever is in my power. I shall send word to the king that he has been cursed by my son, who is yet immature and whose intelligence isn't fully developed and who did this in anger, when he couldn't condone the disrespect shown to me.”",
+          "speaker": "@shamika",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘After these instructions, driven by compassion, the great ascetic and rigid observer of vows sent a disciple to King Parikshit. His name was Gouramukha and he was austere in his penances and well behaved. The disciple was instructed to ﬁrst ask about the king's welfare and then come to the real business. Going there, he swiftly went to the king, the extender of the Kuru lineage. He entered the king's palace, after ﬁrst having sent notice through servants. The king received the Brahmana Gouramukha with due honour. After resting for a while, he told the king, in the presence of his advisers, Shamika's terrible words{124}, exactly as he had been instructed.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After these instructions, driven by compassion, the great ascetic and rigid observer of vows sent a disciple to King Parikshit. His name was Gouramukha and he was austere in his penances and well behaved. The disciple was instructed to ﬁrst ask about the king's welfare and then come to the real business. Going there, he swiftly went to the king, the extender of the Kuru lineage. He entered the king's palace, after ﬁrst having sent notice through servants. The king received the Brahmana Gouramukha with due honour. After resting for a while, he told the king, in the presence of his advisers, Shamika's terrible words{124}, exactly as he had been instructed.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Gouramukha said, “O lord of kings! A rishi named Shamika lives in your kingdom. He is extremely virtuous, extremely tranquil, a great ascetic and in control of his senses. O tiger among men! He was observing a vow of silence when you used the end of your bow to place a dead snake around his shoulders. He himself forgave the act. But his son did not. O lord of kings! Without his father's knowledge, you have been cursed by him today. In seven nights, Takshaka will be the reason for your death. He{125} repeatedly asked his son to save you, but no one can falsify the curse. O king! Since he has not been able to pacify his angry son, he has therefore sent me to you for your own welfare.” Having heard these terrible words, the king, the descendant of the Kuru lineage and a great ascetic himself, remembered his evil act and the king was struck with remorse. Having heard that the great hermit in the forest had been under a vow of silence, the king's remorse increased even more. On learning about the great compassion Shamika had shown for him and recollecting his sinful act towards the hermit, the king was even more miserable. The king did not grieve about his impending death. But like a god, he grieved over the act he had perpetrated. The king then sent Gouramukha away, with the message that the illustrious one{126} should show him mercy.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Gouramukha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@gouramukha",
+          "introduces_label": "Gouramukha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of kings! A rishi named Shamika lives in your kingdom. He is extremely virtuous, extremely tranquil, a great ascetic and in control of his senses. O tiger among men! He was observing a vow of silence when you used the end of your bow to place a dead snake around his shoulders. He himself forgave the act. But his son did not. O lord of kings! Without his father's knowledge, you have been cursed by him today. In seven nights, Takshaka will be the reason for your death. He{125} repeatedly asked his son to save you, but no one can falsify the curse. O king! Since he has not been able to pacify his angry son, he has therefore sent me to you for your own welfare.”",
+          "speaker": "@gouramukha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having heard these terrible words, the king, the descendant of the Kuru lineage and a great ascetic himself, remembered his evil act and the king was struck with remorse. Having heard that the great hermit in the forest had been under a vow of silence, the king's remorse increased even more. On learning about the great compassion Shamika had shown for him and recollecting his sinful act towards the hermit, the king was even more miserable. The king did not grieve about his impending death. But like a god, he grieved over the act he had perpetrated. The king then sent Gouramukha away, with the message that the illustrious one{126} should show him mercy.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘When Gouramukha had departed, the anxious king immediately sought the advice of his ministers. Having consulted his advisers, the king, who was wise in counsel himself, instructed that a palace be erected on pillars and guarded day and night. For protection, he placed all around the palace physicians, medicines and Brahmanas who were skilled in the use of mantras. Thus protected on all sides and surrounded by his virtuous ministers, the king continued with his royal duties.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When Gouramukha had departed, the anxious king immediately sought the advice of his ministers. Having consulted his advisers, the king, who was wise in counsel himself, instructed that a palace be erected on pillars and guarded day and night. For protection, he placed all around the palace physicians, medicines and Brahmanas who were skilled in the use of mantras. Thus protected on all sides and surrounded by his virtuous ministers, the king continued with his royal duties.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘When the seventh day came, Kashyapa, supreme among Brahmanas, was going with the intention of treating the king, since he possessed that knowledge. He had heard what had happened and that Takshaka, supreme among the snakes, would send the king to Yama's abode. He thought, “I will cure the king of his fever when he has been bitten by the best of snakes. Through this, I will gain wealth and virtue.” Takshaka, the king of snakes, saw Kashyapa on the way, single-minded in his desire. He appeared before him in the disguise of an old Brahmana. Then the king of snakes spoke to Kashyapa, a bull among sages. “Where are you going so swiftly? What is the act you wish to accomplish?” Kashyapa replied, “Today, Takshaka, the best of the snakes, will use his energy to set on ﬁre the invincible King Parkishit of the Kuru lineage. O amiable one! The king of snakes is as powerful as Agni in his energy. I am rushing there today to cure the fever of the king of unlimited energy, who was born in Pandu's illustrious lineage.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the seventh day came, Kashyapa, supreme among Brahmanas, was going with the intention of treating the king, since he possessed that knowledge. He had heard what had happened and that Takshaka, supreme among the snakes, would send the king to Yama's abode. He thought, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I will cure the king of his fever when he has been bitten by the best of snakes. Through this, I will gain wealth and virtue.”",
+          "speaker": "@gouramukha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Takshaka, the king of snakes, saw Kashyapa on the way, single-minded in his desire. He appeared before him in the disguise of an old Brahmana. Then the king of snakes spoke to Kashyapa, a bull among sages. ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Where are you going so swiftly? What is the act you wish to accomplish?”",
+          "speaker": "@gouramukha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kashyapa replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kashyapa",
+          "introduces_label": "Kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Today, Takshaka, the best of the snakes, will use his energy to set on ﬁre the invincible King Parkishit of the Kuru lineage. O amiable one! The king of snakes is as powerful as Agni in his energy. I am rushing there today to cure the fever of the king of unlimited energy, who was born in Pandu's illustrious lineage.”",
+          "speaker": "@kashyapa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Takshaka said, “O Brahmana! I am that Takshaka, who will set the ruler of the earth on ﬁre. Turn back. You cannot cure someone who has been bitten by me.” Kashyapa replied, “O snake! I will go to the king and cure him of his fever when you have bitten him. That I know. I have the power of intelligence and knowledge.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Takshaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@takshaka",
+          "introduces_label": "Takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Brahmana! I am that Takshaka, who will set the ruler of the earth on ﬁre. Turn back. You cannot cure someone who has been bitten by me.”",
+          "speaker": "@takshaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Kashyapa replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@kashyapa",
+          "introduces_label": "Kashyapa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O snake! I will go to the king and cure him of his fever when you have bitten him. That I know. I have the power of intelligence and knowledge.”",
+          "speaker": "@kashyapa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

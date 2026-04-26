@@ -1,0 +1,743 @@
+{
+  "chapter_number": 1704,
+  "global_number": 1704,
+  "local_number": 23,
+  "num_shlokas": 41,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Yudhishthira asked, “O best among the Bharata lineage! Who have the brahmanas always described as the best recipient of a gift? Is it a brahmana with the signs or is it a brahmana without the signs{1175}?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O best among the Bharata lineage! Who have the brahmanas always described as the best recipient of a gift? Is it a brahmana with the signs or is it a brahmana without the signs{1175}?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Bhishma replied, “O great king! It has been said that one must give to a person who follows his own prescribed conduct, regardless of whether he bears the signs or not, because both are ascetics.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O great king! It has been said that one must give to a person who follows his own prescribed conduct, regardless of whether he bears the signs or not, because both are ascetics.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Yudhishthira asked, “O grandfather! A person may be unclean. Nevertheless, with supreme devotion, he gives to brahmanas. What are the taints associated with such havya, kavya and gifts?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O grandfather! A person may be unclean. Nevertheless, with supreme devotion, he gives to brahmanas. What are the taints associated with such havya, kavya and gifts?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Bhishma replied, “O son{1176}! There is no doubt that even if a man is impossible to restrain, he is cleansed through devotion. O lord of the earth! He is cleansed in every way. What else is there to say?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O son{1176}! There is no doubt that even if a man is impossible to restrain, he is cleansed through devotion. O lord of the earth! He is cleansed in every way. What else is there to say?”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Yudhishthira said, “A man must not examine a brahmana who is engaged in the tasks of the gods. However, the learned have also said that when it comes to offering kavya, the learning of the brahmana must be tested{1177}.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“A man must not examine a brahmana who is engaged in the tasks of the gods. However, the learned have also said that when it comes to offering kavya, the learning of the brahmana must be tested{1177}.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘Bhishma replied, “Brahmanas do not ensure the success of havya. It is the gods who ensure success. There is no doubt that a person who undertakes a sacriﬁce is successful in that sacriﬁce because of the favours of the gods. O best among the Bharata lineage! Brahmanas always speak about the brahman. In ancient times, Markandeya, the most intelligent person in the worlds, said this.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Brahmanas do not ensure the success of havya. It is the gods who ensure success. There is no doubt that a person who undertakes a sacriﬁce is successful in that sacriﬁce because of the favours of the gods. O best among the Bharata lineage! Brahmanas always speak about the brahman. In ancient times, Markandeya, the most intelligent person in the worlds, said this.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘Yudhishthira asked, “A person whom one has not met before, a learned person, a person who is related through marriage, an ascetic and a person who is devoted to sacriﬁces—why are these regarded as worthy recipients of a gift?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“A person whom one has not met before, a learned person, a person who is related through marriage, an ascetic and a person who is devoted to sacriﬁces—why are these regarded as worthy recipients of a gift?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘Bhishma replied, “Noble lineage, devotion to tasks, learning, non-violence, modesty, uprightness and truthfulness—the foremost recipients possess at least three of these attributes{1178}. O Partha! Listen to the views of four energetic ones—the earth, Kashyapa, Agni and Markandeya.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Noble lineage, devotion to tasks, learning, non-violence, modesty, uprightness and truthfulness—the foremost recipients possess at least three of these attributes{1178}. O Partha! Listen to the views of four energetic ones—the earth, Kashyapa, Agni and Markandeya.",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘“The earth said, ‘When a stone is ﬂung into the great ocean, it is destroyed because of that act of ﬂinging. In that way, all evil conduct is destroyed in three kinds of conduct{1179}.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The earth said, ‘When a stone is ﬂung into the great ocean, it is destroyed because of that act of ﬂinging. In that way, all evil conduct is destroyed in three kinds of conduct{1179}.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘“Kashyapa said, ‘O king! All the Vedas and the six Vedangas, sankhya, the Puranas and noble birth—if a man deviates from good conduct, none of these can save him from destruction.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Kashyapa said, ‘O king! All the Vedas and the six Vedangas, sankhya, the Puranas and noble birth—if a man deviates from good conduct, none of these can save him from destruction.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "11": {
+      "raw": "‘“Agni said, ‘There may be a person who studies and thinks himself to be learned. He may use his learning to destroy the fame of others. Such a brahmana acts as if he has killed a brahmana. All the worlds are destroyed for him.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Agni said, ‘There may be a person who studies and thinks himself to be learned. He may use his learning to destroy the fame of others. Such a brahmana acts as if he has killed a brahmana. All the worlds are destroyed for him.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    },
+    "12": {
+      "raw": "‘“Markandeya said, ‘If one thousand horse sacriﬁces and truth are weighed on a pair of scales, I do not know whether truth will weigh one and a half times the other.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Markandeya said, ‘If one thousand horse sacriﬁces and truth are weighed on a pair of scales, I do not know whether truth will weigh one and a half times the other.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "13": {
+      "raw": "‘Bhishma said, “Having said this, those four inﬁnitely energetic ones, the earth, Kashyapa, Agni and Bhargava, with his excellent weapons, quickly went away{1180}.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma said",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Having said this, those four inﬁnitely energetic ones, the earth, Kashyapa, Agni and Bhargava, with his excellent weapons, quickly went away{1180}.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "14": {
+      "raw": "‘Yudhishthira asked, “In this world, there may be a brahmana who follows vows. In order to please brahmanas, if offerings meant for gods are eaten by such a brahmana, is that regarded as good conduct{1181}?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Yudhishthira asked",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“In this world, there may be a brahmana who follows vows. In order to please brahmanas, if offerings meant for gods are eaten by such a brahmana, is that regarded as good conduct{1181}?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "15": {
+      "raw": "‘Bhishma replied, “O Indra among kings! A brahmana may have been instructed and may have become accomplished in the Vedas. However, if he devours what is meant for the brahman, he has deviated from his vows.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma replied",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O Indra among kings! A brahmana may have been instructed and may have become accomplished in the Vedas. However, if he devours what is meant for the brahman, he has deviated from his vows.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "16": {
+      "raw": "‘Yudhishthira said, “O grandfather! Learned ones have said that dharma has many end objectives and many doors. Please tell me what has certainly been determined.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Yudhishthira said",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O grandfather! Learned ones have said that dharma has many end objectives and many doors. Please tell me what has certainly been determined.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "17": {
+      "raw": "‘Bhishma replied, “O Indra among kings! Non-violence, truth, lack of anger, lack of injury, self-control and uprightness—these are said to be the certain signs of dharma. There are those who praise dharma and roam around the earth. O lord! However, they may be engaged in wicked conduct, amounting to a confusion of dharma. If a person gives gems, gold, cattle or horses to such a person, then the giver remains in hell for ten years, surviving on excrement. This is also the case if one gives to those who eat human fat and ﬂesh, those who live as outcasts outside habitations and those who are confused by anger and confusion and talk about the undesirable acts that others have performed. O Indra among kings! There may be a brahmana who follows brahmacharya. If a person stupidly gives something meant for the Vishvadevas to such a brahmana, he is made to enjoy inauspicious worlds.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma replied",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O Indra among kings! Non-violence, truth, lack of anger, lack of injury, self-control and uprightness—these are said to be the certain signs of dharma. There are those who praise dharma and roam around the earth. O lord! However, they may be engaged in wicked conduct, amounting to a confusion of dharma. If a person gives gems, gold, cattle or horses to such a person, then the giver remains in hell for ten years, surviving on excrement. This is also the case if one gives to those who eat human fat and ﬂesh, those who live as outcasts outside habitations and those who are confused by anger and confusion and talk about the undesirable acts that others have performed. O Indra among kings! There may be a brahmana who follows brahmacharya. If a person stupidly gives something meant for the Vishvadevas to such a brahmana, he is made to enjoy inauspicious worlds.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "18": {
+      "raw": "‘Yudhishthira asked, “What is superior to brahmacharya? What are the best signs of dharma? What is the best kind of puriﬁcation? O grandfather! Tell me that.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Yudhishthira asked",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“What is superior to brahmacharya? What are the best signs of dharma? What is the best kind of puriﬁcation? O grandfather! Tell me that.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "19": {
+      "raw": "‘Bhishma replied, “O son! The avoidance of liquor and ﬂesh is superior to brahmacharya. The signs of dharma are adherence to strictures, tranquility and purity.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma replied",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O son! The avoidance of liquor and ﬂesh is superior to brahmacharya. The signs of dharma are adherence to strictures, tranquility and purity.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "20": {
+      "raw": "‘Yudhishthira asked, “When is the time for pursuing dharma? When is the time for pursuing artha? When is the time for being happy? O grandfather! Tell me that.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Yudhishthira asked",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“When is the time for pursuing dharma? When is the time for pursuing artha? When is the time for being happy? O grandfather! Tell me that.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "21": {
+      "raw": "‘Bhishma replied, “There is a time for pursuing artha and that for pursuing dharma comes after that. It is after this that one should pursue kama. But one must not get attached. One must honour brahmanas and worship seniors. One must treat all creatures in a proper way. One must be mild in conduct and pleasant in speech. In a judicial dispute, one must not utter a lie. When one is brought before a king, one must not be deceitful. One must not behave falsely towards a senior. All these are equal to the sin of killing a brahmana. One should not strike a king, nor should one kill a cow. Anyone who does either commits a sin that is equal to that of killing a foetus. One must not abandon the sacriﬁcial ﬁre. One must not abandon the Vedas. Nor should one attack a brahmana. These sins are equal to the sin of killing a brahmana.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma replied",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“There is a time for pursuing artha and that for pursuing dharma comes after that. It is after this that one should pursue kama. But one must not get attached. One must honour brahmanas and worship seniors. One must treat all creatures in a proper way. One must be mild in conduct and pleasant in speech. In a judicial dispute, one must not utter a lie. When one is brought before a king, one must not be deceitful. One must not behave falsely towards a senior. All these are equal to the sin of killing a brahmana. One should not strike a king, nor should one kill a cow. Anyone who does either commits a sin that is equal to that of killing a foetus. One must not abandon the sacriﬁcial ﬁre. One must not abandon the Vedas. Nor should one attack a brahmana. These sins are equal to the sin of killing a brahmana.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "22": {
+      "raw": "‘Yudhishthira asked, “What kind of brahmanas are good? Who are the ones to whom one should donate, so as to obtain great fruits? Who are the ones who should be fed? O grandfather! Tell me this.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Yudhishthira asked",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“What kind of brahmanas are good? Who are the ones to whom one should donate, so as to obtain great fruits? Who are the ones who should be fed? O grandfather! Tell me this.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 5
+        }
+      ]
+    },
+    "23": {
+      "raw": "‘Bhishma replied, “Those who are without anger, those who are devoted to dharma, those who are truthful and those who are always self-restrained—these brahmanas are regarded as virtuous. Great fruits are obtained from donating to them. There are those who aren’t insolent, withstand everything, are cheerful in pursuing their objectives, have conquered their senses, are engaged in the welfare of all beings and are friendly. Great fruits are obtained from donating to them. There are those who are without avarice, pure, learned, modest, truthful in speech and engaged in their own tasks. Great fruits are obtained from donating to them. There are bulls among brahmanas who have studied the four Vedas and the six Vedangas and have withdrawn from action. The learned have said that they are the best recipients of gifts. Great fruits are obtained from donating to those who have these kinds of qualities. If one gives to a person with these qualities, the giver’s own qualities are multiplied one thousand times. Even if there is only one single bull among brahmanas who possesses wisdom and learning and good conduct, he is alone capable of saving an entire lineage{1182}. One should give cattle, horses, riches, food and other objects to such a person. In that event, one won’t have to grieve after death. Even one brahmana who is excellent is capable of saving an entire lineage. That is the reason one must be selective about choosing the recipient. If one hears that a brahmana who possesses the qualities and is revered by the virtuous lives some distance away, even then, one must honour him and worship him in every possible way.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma replied",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Those who are without anger, those who are devoted to dharma, those who are truthful and those who are always self-restrained—these brahmanas are regarded as virtuous. Great fruits are obtained from donating to them. There are those who aren’t insolent, withstand everything, are cheerful in pursuing their objectives, have conquered their senses, are engaged in the welfare of all beings and are friendly. Great fruits are obtained from donating to them. There are those who are without avarice, pure, learned, modest, truthful in speech and engaged in their own tasks. Great fruits are obtained from donating to them. There are bulls among brahmanas who have studied the four Vedas and the six Vedangas and have withdrawn from action. The learned have said that they are the best recipients of gifts. Great fruits are obtained from donating to those who have these kinds of qualities. If one gives to a person with these qualities, the giver’s own qualities are multiplied one thousand times. Even if there is only one single bull among brahmanas who possesses wisdom and learning and good conduct, he is alone capable of saving an entire lineage{1182}. One should give cattle, horses, riches, food and other objects to such a person. In that event, one won’t have to grieve after death. Even one brahmana who is excellent is capable of saving an entire lineage. That is the reason one must be selective about choosing the recipient. If one hears that a brahmana who possesses the qualities and is revered by the virtuous lives some distance away, even then, one must honour him and worship him in every possible way.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 5
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    }
+  }
+}

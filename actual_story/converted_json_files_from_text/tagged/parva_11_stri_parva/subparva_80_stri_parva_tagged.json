@@ -1,0 +1,794 @@
+{
+  "name": "Stri Parva",
+  "subparva_number": 80,
+  "source_volume": 8,
+  "details": {
+    "num_chapters": 8,
+    "num_shlokas": 194
+  },
+  "note": "Stri Parva is a parva concerning women. This parva is so named because it is about the grief of the women and the funeral ceremonies performed by the women and the survivors. In the 18-parva classification, Stri Parva is the eleventh. In the 100-parva classification, Stri Parva constitutes Sections 80 to 83. Stri Parva has twenty-seven chapters. In the numbering of the chap-ters in Stri Parva, the first number is a consecutive one, starting with the be-ginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within the parva. Vishoka means the end of sorrow, or to be freed from sorrow. This parva is named after Vidura�s attempt to dispel Dhritarashtra�s sorrow.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1302": {
+      "global_number": 1302,
+      "local_number": 1,
+      "num_shlokas": 37,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘O sage! When the great king Dhritarashtra heard that Duryodhana and all the soldiers had been killed, what did he do? What did the great-minded Kourava king, Dharma’s son{1}, and the other three, Kripa and the others{2}, do? I have heard about Ashvatthama’s deed and the curses that were imposed on each other{3}. Tell me what happened next and what Sanjaya said.’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya asked,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘O sage! When the great king Dhritarashtra heard that Duryodhana and all the soldiers had been killed, what did he do? What did the great-minded Kourava king, Dharma’s son{1}, and the other three, Kripa and the others{2}, do? I have heard about Ashvatthama’s deed and the curses that were imposed on each other{3}. Tell me what happened next and what Sanjaya said.’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana replied, ‘When his one hundred sons had been killed, Dhritarashtra, the lord of the earth, was miserable and tormented by sorrow on account of his sons. He was like a tree deprived of its branches. He was deep in reﬂection and overcome by his thoughts. The immensely wise Sanjaya went to him and spoke these words. “O great king! Why are you grieving? Sorrowing does not help. O lord of the earth! Eighteen akshouhinis have been destroyed. The earth has been rendered bare and is almost empty. The lords of men had assembled from many directions and many countries. With your sons, all of them have confronted their death. It is necessary to perform the funeral rites of the fathers, the sons, the grandsons, kin, well-wishers and preceptors, in the due order.” On hearing those piteous words, the invincible one{4} was afﬂicted because of the death of his sons and grandsons and fell down on the ground, like a tree struck by a storm.",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Vaishampayana replied,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘When his one hundred sons had been killed, Dhritarashtra, the lord of the earth, was miserable and tormented by sorrow on account of his sons. He was like a tree deprived of its branches. He was deep in reﬂ",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "ection and overcome by his thoughts. The immensely wise Sanjaya went to him and spoke these words",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@ection_and_overcome_by",
+              "text": "“O great king! Why are you grieving? Sorrowing does not help. O lord of the earth! Eighteen akshouhinis have been destroyed. The earth has been rendered bare and is almost empty. The lords of men had assembled from many directions and many countries. With your sons, all of them have confronted their death. It is necessary to perform the funeral rites of the fathers, the sons, the grandsons, kin, well-wishers and preceptors, in the due order.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "On hearing those piteous words, the invincible one{4} was afﬂicted because of the death of his sons and grandsons and fell down on the ground, like a tree struck by a storm.",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Dhritarashtra said, “My sons have been killed. My advisers have been killed. All my well-wishers have been killed. It is certain that I will roam around the earth in grief. Bereft of my relatives, how will I now live this life? I am like a decayed and aged bird whose wings have been clipped. I have lost my kingdom. My well-wishers have been slain. I am blind too. O immensely wise one! I am like the one with rays{5}, when it is dim and does not shine. I did not listen to the words of the well-wishers, or the advice of Jamadagni’s son{6}, devarshi Narada, or Krishna Dvaipayana. In the midst of the assembly hall, Krishna spoke beneﬁcial words to me. ‘O king! There has been enough of enmity. Restrain your sons.’ Because I was evil-minded, I disregarded those words and it torments me severely. I did not listen to the words, full of dharma, that Bhishma spoke. On hearing about Duryodhana’s death, when he was roaring like a bull, and of Duhshasana’s slaughter, Karna’s catastrophe and the setting of the sun that was Drona, my heart has been shattered. O Sanjaya! I am suffering like a fool. I do not recall any evil deeds that I have performed, which could lead to these fruits now. It is certain that I have committed sins in my earlier lives. Because of that, the creator has acted so as to give me this share of grief. This consequence of the destruction of my friends and all my relatives, the destruction of my well-wishers and allies, has been brought about by destiny. Where is another man on this earth who is as miserable as I am? Therefore, the Pandavas will now see me, rigid in my vows, following the long road that extends towards Brahma’s world.”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Dhritarashtra said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“My sons have been killed. My advisers have been killed. All my well-wishers have been killed. It is certain that I will roam around the earth in grief. Bereft of my relatives, how will I now live this life? I am like a decayed and aged bird whose wings have been clipped. I have lost my kingdom. My well-wishers have been slain. I am blind too. O immensely wise one! I am like the one with rays{5}, when it is dim and does not shine. I did not listen to the words of the well-wishers, or the advice of Jamadagni’s son{6}, devarshi Narada, or Krishna Dvaipayana. In the midst of the assembly hall, Krishna spoke beneﬁcial words to me. ‘O king! There has been enough of enmity. Restrain your sons.’ Because I was evil-minded, I disregarded those words and it torments me severely. I did not listen to the words, full of dharma, that Bhishma spoke. On hearing about Duryodhana’s death, when he was roaring like a bull, and of Duhshasana’s slaughter, Karna’s catastrophe and the setting of the sun that was Drona, my heart has been shattered. O Sanjaya! I am suffering like a fool. I do not recall any evil deeds that I have performed, which could lead to these fruits now. It is certain that I have committed sins in my earlier lives. Because of that, the creator has acted so as to give me this share of grief. This consequence of the destruction of my friends and all my relatives, the destruction of my well-wishers and allies, has been brought about by destiny. Where is another man on this earth who is as miserable as I am? Therefore, the Pandavas will now see me, rigid in my vows, following the long road that extends towards Brahma’s world.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘Thus did he lament, thinking about his many sorrows. To dispel the king’s sorrows, Sanjaya spoke these words. “O king! O best among kings! Abandon your grief. You have heard about the certainty of the Vedas and the sacred texts from many seniors and about what the sages told Srinjaya in ancient times, when he was tormented by grief on account of his son{7}. O king! When your son was young and insolent, you disregarded the words that were spoken to you by your well-wishers. You were avaricious and desired the fruits and did not act in accordance with what was good for you. Your advisers were Duhshasana, the evil-souled Radheya{8}, the evilsouled Shakuni and the evil-minded Chitrasena{9}. They were thorns and they made the entire world full of thorns for themselves{10}. O descendant of the Bharata lineage! Your son did not act in accordance with the words of Bhishma, eldest among the Kurus, or Gandhari, or Vidura. He did not act virtuously, in accordance with dharma. Instead, he always spoke of war. He took all the kshatriyas to their destruction and increased the fame of the enemies. You were in the midst as a neutral and did not say anything that should have been said. You were the main beast of burden, but you did not bear your proportionate load. Right from the beginning, a man should adopt the appropriate course of action. One should not strive for something earlier, which one has to repent later. O king! Because of your affection towards your son, you were only interested in pleasing him. You have subsequently arrived at a state of repentance and you should not sorrow. There are those who only see the honey and not the fall. Like you, they sorrow when their greed for honey dislodges them{11}. One who searches for gain obtains sorrow. One who sorrows does not obtain happiness. One who sorrows does not obtain prosperity. One who sorrows does not obtain the supreme objective. A man who starts a ﬁre and then covers it up in a garment, sorrows when he is scorched. Such a person is not regarded as learned. The Parthas were a ﬁre. You and your sons fanned it with the wind of your words. You sprinkled the ﬂames with the clariﬁed butter of your greed. When it was kindled, your sons fell into it like insects. They were scorched by Keshava’s ﬂames. You should not sorrow. O king! Tears are ﬂowing down from your face. This is not in accordance with the sacred texts and the learned ones do not praise it. It is said that they are like sparks and scorch men. Therefore, use your intelligence to conquer your anger. Get a grip on yourself.” O scorcher of enemies! When the great-souled Sanjaya had consoled him in this way, Vidura showed his earlier intelligence and again spoke to him.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Thus did he lament, thinking about his many sorrows. To dispel the king’s sorrows,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O king! O best among kings! Abandon your grief. You have heard about the certainty of the Vedas and the sacred texts from many seniors and about what the sages told Srinjaya in ancient times, when he was tormented by grief on account of his son{7}. O king! When your son was young and insolent, you disregarded the words that were spoken to you by your well-wishers. You were avaricious and desired the fruits and did not act in accordance with what was good for you. Your advisers were Duhshasana, the evil-souled Radheya{8}, the evilsouled Shakuni and the evil-minded Chitrasena{9}. They were thorns and they made the entire world full of thorns for themselves{10}. O descendant of the Bharata lineage! Your son did not act in accordance with the words of Bhishma, eldest among the Kurus, or Gandhari, or Vidura. He did not act virtuously, in accordance with dharma. Instead, he always spoke of war. He took all the kshatriyas to their destruction and increased the fame of the enemies. You were in the midst as a neutral and did not say anything that should have been said. You were the main beast of burden, but you did not bear your proportionate load. Right from the beginning, a man should adopt the appropriate course of action. One should not strive for something earlier, which one has to repent later. O king! Because of your affection towards your son, you were only interested in pleasing him. You have subsequently arrived at a state of repentance and you should not sorrow. There are those who only see the honey and not the fall. Like you, they sorrow when their greed for honey dislodges them{11}. One who searches for gain obtains sorrow. One who sorrows does not obtain happiness. One who sorrows does not obtain prosperity. One who sorrows does not obtain the supreme objective. A man who starts a ﬁre and then covers it up in a garment, sorrows when he is scorched. Such a person is not regarded as learned. The Parthas were a ﬁre. You and your sons fanned it with the wind of your words. You sprinkled the ﬂames with the clariﬁed butter of your greed. When it was kindled, your sons fell into it like insects. They were scorched by Keshava’s ﬂames. You should not sorrow. O king! Tears are ﬂowing down from your face. This is not in accordance with the sacred texts and the learned ones do not praise it. It is said that they are like sparks and scorch men. Therefore, use your intelligence to conquer your anger. Get a grip on yourself.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O scorcher of enemies! When the great-souled Sanjaya had consoled him in this way, Vidura showed his earlier intelligence and again spoke to him.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1303": {
+      "global_number": 1303,
+      "local_number": 2,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘With words that were like amrita, Vidura dispelled the sorrow of Vichitravirya’s son, the bull among men. Listen to what he said.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘With words that were like amrita, Vidura dispelled the sorrow of Vichitravirya’s son, the bull among men. Listen to what he said.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura said, “O king! Arise. Why are you lying there? Get a grip on yourself. This is the ﬁnal outcome{12} of everything that is mortal—mobile and immobile. Everything that is stored is dissipated. Everything that rises falls down again. Everything that is united is separated again. Death is the end of life. O descendant of the Bharata lineage! O bull among kshatriyas! Since Yama attracts both those who are brave and those who are cowards, why should these kshatriyas not ﬁght? A man who does not ﬁght—dies. A man who ﬁghts—lives. O great king! When one’s time has come, no one can transgress it. O king! You should not grieve over those who have been killed in the battle. If the sacred texts are proof, they have attained the supreme objective. All of them studied. All of them observed the vows. All of them were destroyed when they were headed forwards{13}. What is there to sorrow over? They were generated from beyond your sight{14}. They have again gone beyond your sight. They were not yours. You are not theirs. What is there to sorrow over? A person who is killed obtains heaven. A person who kills obtains fame. Both of these possess many qualities. There is no failure in battle. Indra will create worlds that will satisfy their desires. O bull among men! They will become Indra’s guests. Mortals do not go to heaven through sacriﬁces that are rich in donations, austerities or learning. Brave ones go there by being slain in battle. Beings go through thousands of mothers and fathers and hundreds of wives and sons{15}. Whom do they belong to? Whom do we belong to? From one day to another, those who are stupid face thousands of reasons for sorrow and hundreds of reasons for fear, but not those who are learned. O supreme among the Kuru lineage! There is no one who is loved by time, nor anyone time hates. Time looks upon everyone neutrally and everyone is dragged away by time. Life, beauty, youth and stores of riches are temporary and this is also true of good health and consorting with those one loves. A learned person is not interested in these. One should not sorrow over something that affects the entire country and not a single person alone{16}. If something no longer exists, it will have no return. If one sees some powerful antidote to sorrow, one can act. But if there is no medicine against sorrow, one should not think about it. It does not abandon someone who is thinking. Instead, it only becomes stronger. Because they confront something they do not like and because they are separated from something they like, men of limited intelligence are united with mental grief. There is no artha, dharma or happiness that will result from your sorrowing. As long as one has tasks to accomplish, one should not deviate from those objectives{17}. In particular, men who achieve one kind of prosperity and then another, and continue to be dissatisﬁed, are confused. The learned are satisﬁed. Mental sorrow is dispelled through wisdom and physical suffering through medicines. That is the capacity of knowledge. One should not become the equal of a child. When a man lies down, his earlier deeds lie down next to him. When he stands, they stand next to him. When he runs, they run with him. In whichever state one performs a deed, good or bad, in exactly that state the fruits of that deed are obtained{18}.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“O king! Arise. Why are you lying there? Get a grip on yourself. This is the ﬁnal outcome{12} of everything that is mortal—mobile and immobile. Everything that is stored is dissipated. Everything that rises falls down again. Everything that is united is separated again. Death is the end of life. O descendant of the Bharata lineage! O bull among kshatriyas! Since Yama attracts both those who are brave and those who are cowards, why should these kshatriyas not ﬁght? A man who does not ﬁght—dies. A man who ﬁghts—lives. O great king! When one’s time has come, no one can transgress it. O king! You should not grieve over those who have been killed in the battle. If the sacred texts are proof, they have attained the supreme objective. All of them studied. All of them observed the vows. All of them were destroyed when they were headed forwards{13}. What is there to sorrow over? They were generated from beyond your sight{14}. They have again gone beyond your sight. They were not yours. You are not theirs. What is there to sorrow over? A person who is killed obtains heaven. A person who kills obtains fame. Both of these possess many qualities. There is no failure in battle. Indra will create worlds that will satisfy their desires. O bull among men! They will become Indra’s guests. Mortals do not go to heaven through sacriﬁces that are rich in donations, austerities or learning. Brave ones go there by being slain in battle. Beings go through thousands of mothers and fathers and hundreds of wives and sons{15}. Whom do they belong to? Whom do we belong to? From one day to another, those who are stupid face thousands of reasons for sorrow and hundreds of reasons for fear, but not those who are learned. O supreme among the Kuru lineage! There is no one who is loved by time, nor anyone time hates. Time looks upon everyone neutrally and everyone is dragged away by time. Life, beauty, youth and stores of riches are temporary and this is also true of good health and consorting with those one loves. A learned person is not interested in these. One should not sorrow over something that affects the entire country and not a single person alone{16}. If something no longer exists, it will have no return. If one sees some powerful antidote to sorrow, one can act. But if there is no medicine against sorrow, one should not think about it. It does not abandon someone who is thinking. Instead, it only becomes stronger. Because they confront something they do not like and because they are separated from something they like, men of limited intelligence are united with mental grief. There is no artha, dharma or happiness that will result from your sorrowing. As long as one has tasks to accomplish, one should not deviate from those objectives{17}. In particular, men who achieve one kind of prosperity and then another, and continue to be dissatisﬁed, are confused. The learned are satisﬁed. Mental sorrow is dispelled through wisdom and physical suffering through medicines. That is the capacity of knowledge. One should not become the equal of a child. When a man lies down, his earlier deeds lie down next to him. When he stands, they stand next to him. When he runs, they run with him. In whichever state one performs a deed, good or bad, in exactly that state the fruits of that deed are obtained{18}.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1304": {
+      "global_number": 1304,
+      "local_number": 3,
+      "num_shlokas": 17,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra asked, “O immensely wise one! Because of what you have spoken well, my sorrow has been dispelled. But I again wish to hear the true purport of your words. How do learned ones free themselves from their mental grief, when they come in contact with something that is injurious, or when they are separated from something that is good?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O immensely wise one! Because of what you have spoken well, my sorrow has been dispelled. But I again wish to hear the true purport of your words. How do learned ones free themselves from their mental grief, when they come in contact with something that is injurious, or when they are separated from something that is good?”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “Whenever the mind is free from unhappiness and happiness— that is when a learned one obtains peace and attains a good objective. O bull among men! Whatever we think of is not permanent. The world is like a plantain tree. It has no essence{19}. Learned ones say that the bodies of mortal beings are like houses. They are destroyed by time. But the single being that is inside{20} is beautiful. Men cast aside clothes, whether they are old or new, and wear other clothes that they like. Bodies occupied by souls are like that. O Vichitravirya’s son! Beings obtain a life of unhappiness or one of happiness, depending on the deeds they have themselves undertaken. O descendant of the Bharata lineage! Depending on their deeds, they obtain heaven, happiness and unhappiness. Whether he can control it or not, he bears his own load. An earthen pot may be shattered once it has mounted on the wheel{21}, once some work has been done on it, once work on it has been completed, once it has been taken down but is still wet, once it is dry, once it has been ﬁred, or once it has been taken down and is being used. O descendant of the Bharata lineage! The bodies of souls are used like that. Some are destroyed in the womb, some after being born, some when they are a day old, some when they are half a month old, some when they are a month old, some when they are a year old, some when they are two years old, some in youth, some in middle age and some in old age. Depending on their earlier deeds, beings come into being and cease to be. This is the way of the world. What is the reason to sorrow? O king! O lord of men! It is like beings sporting in the water. Some leap up and others are submerged. In that way, in this unfathomable earth, some leap up and others are submerged. One is tied down and has to enjoy the fruits of one’s deeds. Only those of limited intelligence suffer on this account. Those who are wise remain established in the truth and search for what comes at the end of this life. They understand why beings come together and attain the supreme objective.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“Whenever the mind is free from unhappiness and happiness— that is when a learned one obtains peace and attains a good objective. O bull among men! Whatever we think of is not permanent. The world is like a plantain tree. It has no essence{19}. Learned ones say that the bodies of mortal beings are like houses. They are destroyed by time. But the single being that is inside{20} is beautiful. Men cast aside clothes, whether they are old or new, and wear other clothes that they like. Bodies occupied by souls are like that. O Vichitravirya’s son! Beings obtain a life of unhappiness or one of happiness, depending on the deeds they have themselves undertaken. O descendant of the Bharata lineage! Depending on their deeds, they obtain heaven, happiness and unhappiness. Whether he can control it or not, he bears his own load. An earthen pot may be shattered once it has mounted on the wheel{21}, once some work has been done on it, once work on it has been completed, once it has been taken down but is still wet, once it is dry, once it has been ﬁred, or once it has been taken down and is being used. O descendant of the Bharata lineage! The bodies of souls are used like that. Some are destroyed in the womb, some after being born, some when they are a day old, some when they are half a month old, some when they are a month old, some when they are a year old, some when they are two years old, some in youth, some in middle age and some in old age. Depending on their earlier deeds, beings come into being and cease to be. This is the way of the world. What is the reason to sorrow? O king! O lord of men! It is like beings sporting in the water. Some leap up and others are submerged. In that way, in this unfathomable earth, some leap up and others are submerged. One is tied down and has to enjoy the fruits of one’s deeds. Only those of limited intelligence suffer on this account. Those who are wise remain established in the truth and search for what comes at the end of this life. They understand why beings come together and attain the supreme objective.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1305": {
+      "global_number": 1305,
+      "local_number": 4,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra asked, “O supreme among eloquent ones! Life is unfathomable. But how does one understand it? I wish to hear about it. Tell me truthfully. I am asking you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O supreme among eloquent ones! Life is unfathomable. But how does one understand it? I wish to hear about it. Tell me truthfully. I am asking you.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “O lord! Listen to everything about beings, about their birth and other deeds. On earth, for some time, a being dwells as an embryo{22}. When the ﬁfth month is over, ﬂesh is formed. Within the womb, all the limbs are then formed within a month. The being dwells in the midst of all this, smeared with ﬂesh and blood. Because of the force of the wind, the feet are upwards and the head is downwards. It faces great difﬁculties as it approaches the gate of the vagina. Accompanied by earlier deeds, it is afﬂicted by the contraction of the vagina. Having been freed from this{23}, he sees the other calamities in this world. Evil demons grab him, like dogs after a piece of meat{24}. If he is still alive, in a subsequent phase, he is grasped by diseases. He is tied down by his own deeds. He is bound down in the noose of senses and afﬂicted by the succulent addiction to them. O lord among men! He confronts various temptations. He is repeatedly tied down by these and is never satisﬁed. He does not realize when he arrives in Yama’s world. In the course of time, he dies and Yama’s messengers drag him around. Those who are inarticulate in speech utter good and bad words through their mouths. Like that, the atman ties down the atman and fails to comprehend this{25}. Thus, people are destroyed and are overcome by avarice. They become crazy because of greed, anger and pride. They do not understand their own atman. He ﬁnds pleasure in having been born in a good lineage and censures those who have been born in an inferior lineage. He is vain in the pride of prosperity and censures those who are poor. He reprimands others as stupid, but does not look at his own self. He inﬂicts teaching on others, but does not teach himself. This world of mortals is not permanent. Since the time of birth, whoever follows dharma in all his activities, attains the supreme objective. O lord of men! He who understands all this and acts accordingly, follows the path of liberation and obtains it.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“O lord! Listen to everything about beings, about their birth and other deeds. On earth, for some time, a being dwells as an embryo{22}. When the ﬁfth month is over, ﬂesh is formed. Within the womb, all the limbs are then formed within a month. The being dwells in the midst of all this, smeared with ﬂesh and blood. Because of the force of the wind, the feet are upwards and the head is downwards. It faces great difﬁculties as it approaches the gate of the vagina. Accompanied by earlier deeds, it is afﬂicted by the contraction of the vagina. Having been freed from this{23}, he sees the other calamities in this world. Evil demons grab him, like dogs after a piece of meat{24}. If he is still alive, in a subsequent phase, he is grasped by diseases. He is tied down by his own deeds. He is bound down in the noose of senses and afﬂicted by the succulent addiction to them. O lord among men! He confronts various temptations. He is repeatedly tied down by these and is never satisﬁed. He does not realize when he arrives in Yama’s world. In the course of time, he dies and Yama’s messengers drag him around. Those who are inarticulate in speech utter good and bad words through their mouths. Like that, the atman ties down the atman and fails to comprehend this{25}. Thus, people are destroyed and are overcome by avarice. They become crazy because of greed, anger and pride. They do not understand their own atman. He ﬁnds pleasure in having been born in a good lineage and censures those who have been born in an inferior lineage. He is vain in the pride of prosperity and censures those who are poor. He reprimands others as stupid, but does not look at his own self. He inﬂicts teaching on others, but does not teach himself. This world of mortals is not permanent. Since the time of birth, whoever follows dharma in all his activities, attains the supreme objective. O lord of men! He who understands all this and acts accordingly, follows the path of liberation and obtains it.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1306": {
+      "global_number": 1306,
+      "local_number": 5,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra said, “If the unfathomable path of dharma is difﬁcult to understand, tell me everything in detail about the path of intelligence.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“If the unfathomable path of dharma is difﬁcult to understand, tell me everything in detail about the path of intelligence.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “After bowing to the one who created himself{26}, I will tell you this. This is what the supreme rishis said about the unfathomable mysteries of life. There was a brahmana in this great world. He reached an impenetrable forest that was full of large and carnivorous beasts. Terrible, large and hungry beasts were scattered in every direction, in the form of lions, tigers and elephants. They led to a fear that was like that of death. On seeing them, his heart began to beat faster. O scorcher of enemies! His body hair stood up and he didn’t know what to do. He swiftly ran around that forest, here and there. He glanced in all the directions, wondering where he could ﬁnd refuge. Afﬂicted by fear, he searched for an opening through which he might run away. The brahmana could not go very far and could not disassociate himself{27}. He saw that the terrible forest was surrounded by a net on every side and that an extremely terrible-looking woman was embracing it with her arms. Five-headed serpents rose up, like mountains. The giant forest was covered by large trees that touched the sky. In the midst of that forest, there was a well that was covered. It was strewn with creepers and the mouth was hidden under a covering of grass. The brahmana fell into that hidden store of water. He was entwined in that net of creepers and hung there. He was like a giant jackfruit, hanging from its stalk. He hung there, with his feet facing upwards and his head facing downwards. At that time, he faced another difﬁculty there. He saw a giant elephant at the edge of the well. It possessed six faces and moved on twelve feet. It was dark and speckled. It was gradually advancing, through those creepers and trees. As he hung from the branches of the tree, the branches were also covered by many kinds of bees. They were terrible in form and fearful. They had collected honey earlier and were returning to their hive. O bull among the Bharata lineage! They repeatedly went out to collect honey. Beings ﬁnd it tasty. However, a fool is not satisﬁed with it. Many streams of honey always ﬂowed there. The man who was hanging there, continuously drank from these ﬂows. But though he was in this difﬁculty and though he drank, his thirst was not satisﬁed. He kept desiring it and repeatedly satisﬁed himself by drinking it. O king! His hopes of remaining alive were ignited. Black and white rats gnawed through the tree, on which, the hopes of the man remaining alive were based. That desolate forest was full of carnivorous beasts and an extremely terrible woman. There were serpents at the bottom of the well and an elephant at the edge. Because of the rats, there was the ﬁfth fear of falling from the tree{28}. Because of his greed for the honey, the bees represented the sixth great fear. Thus did he dwell, having been ﬂung into this ocean of life. Without approaching knowledge, he did not abandon his hope of remaining alive.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“After bowing to the one who created himself{26}, I will tell you this. This is what the supreme rishis said about the unfathomable mysteries of life. There was a brahmana in this great world. He reached an impenetrable forest that was full of large and carnivorous beasts. Terrible, large and hungry beasts were scattered in every direction, in the form of lions, tigers and elephants. They led to a fear that was like that of death. On seeing them, his heart began to beat faster. O scorcher of enemies! His body hair stood up and he didn’t know what to do. He swiftly ran around that forest, here and there. He glanced in all the directions, wondering where he could ﬁnd refuge. Afﬂicted by fear, he searched for an opening through which he might run away. The brahmana could not go very far and could not disassociate himself{27}. He saw that the terrible forest was surrounded by a net on every side and that an extremely terrible-looking woman was embracing it with her arms. Five-headed serpents rose up, like mountains. The giant forest was covered by large trees that touched the sky. In the midst of that forest, there was a well that was covered. It was strewn with creepers and the mouth was hidden under a covering of grass. The brahmana fell into that hidden store of water. He was entwined in that net of creepers and hung there. He was like a giant jackfruit, hanging from its stalk. He hung there, with his feet facing upwards and his head facing downwards. At that time, he faced another difﬁculty there. He saw a giant elephant at the edge of the well. It possessed six faces and moved on twelve feet. It was dark and speckled. It was gradually advancing, through those creepers and trees. As he hung from the branches of the tree, the branches were also covered by many kinds of bees. They were terrible in form and fearful. They had collected honey earlier and were returning to their hive. O bull among the Bharata lineage! They repeatedly went out to collect honey. Beings ﬁnd it tasty. However, a fool is not satisﬁed with it. Many streams of honey always ﬂowed there. The man who was hanging there, continuously drank from these ﬂows. But though he was in this difﬁculty and though he drank, his thirst was not satisﬁed. He kept desiring it and repeatedly satisﬁed himself by drinking it. O king! His hopes of remaining alive were ignited. Black and white rats gnawed through the tree, on which, the hopes of the man remaining alive were based. That desolate forest was full of carnivorous beasts and an extremely terrible woman. There were serpents at the bottom of the well and an elephant at the edge. Because of the rats, there was the ﬁfth fear of falling from the tree{28}. Because of his greed for the honey, the bees represented the sixth great fear. Thus did he dwell, having been ﬂung into this ocean of life. Without approaching knowledge, he did not abandon his hope of remaining alive.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1307": {
+      "global_number": 1307,
+      "local_number": 6,
+      "num_shlokas": 12,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra said, “Indeed, that was a great sorrow, to dwell in such difﬁcult circumstances. How could he have found pleasure there? O supreme among eloquent ones! How could he have been satisﬁed there? How can one dwell in a place where one faces a contravention of dharma{29}? How can that man escape from this great fear? Tell me everything about this and I will try to do what is right. Great compassion is generated in me and I wish to save him from that state.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“Indeed, that was a great sorrow, to dwell in such difﬁcult circumstances. How could he have found pleasure there? O supreme among eloquent ones! How could he have been satisﬁed there? How can one dwell in a place where one faces a contravention of dharma{29}? How can that man escape from this great fear? Tell me everything about this and I will try to do what is right. Great compassion is generated in me and I wish to save him from that state.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “O king! That was only a metaphor, cited by those who know about salvation. Using it, a man can enjoy a good end in the world of the hereafter. That desolate forest is the unfathomable cycle of life. The carnivorous beasts that were mentioned are diseases. A woman, giant in form, was established there. The wise speak of her as old age, destructive of complexion and beauty. O king! The well is the body that souls occupy. The giant serpent which dwells there is time. He is the destroyer of all beings and takes away everything from the body. In the midst of that well there was a creeper there and the man hung onto it. That is the hope for remaining alive, which all those with bodies possess. O king! The elephant with six faces is said to be the year. Its faces are said to be the seasons and its feet are the months. Those who think about beings say that the rats which are always gnawing at the tree are days and nights{30}. The bees there are said to be desire. From it, there are many ﬂows that stream down as honey. Humans submerge themselves in those juices of desire. Those who are learned say that the wheel of life circles in this way. That is the reason wise ones sever the noose that ties them to the wheel of life.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“O king! That was only a metaphor, cited by those who know about salvation. Using it, a man can enjoy a good end in the world of the hereafter. That desolate forest is the unfathomable cycle of life. The carnivorous beasts that were mentioned are diseases. A woman, giant in form, was established there. The wise speak of her as old age, destructive of complexion and beauty. O king! The well is the body that souls occupy. The giant serpent which dwells there is time. He is the destroyer of all beings and takes away everything from the body. In the midst of that well there was a creeper there and the man hung onto it. That is the hope for remaining alive, which all those with bodies possess. O king! The elephant with six faces is said to be the year. Its faces are said to be the seasons and its feet are the months. Those who think about beings say that the rats which are always gnawing at the tree are days and nights{30}. The bees there are said to be desire. From it, there are many ﬂows that stream down as honey. Humans submerge themselves in those juices of desire. Those who are learned say that the wheel of life circles in this way. That is the reason wise ones sever the noose that ties them to the wheel of life.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1308": {
+      "global_number": 1308,
+      "local_number": 7,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Dhritarashtra said, “O one who can see about the true nature of things! You have told me about an appropriate account. I wish to be again delighted by listening to your words, which are like amrita.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhritarashtra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhritarashtra",
+              "text": "“O one who can see about the true nature of things! You have told me about an appropriate account. I wish to be again delighted by listening to your words, which are like amrita.”",
+              "color": "#9B8BB4",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vidura replied, “Listen. I will again tell you about that path in detail. On listening to this, accomplished ones are freed from the cycle of life. O king! A man who is on a long journey is exhausted and dwells somewhere for some time. O descendant of the Bharata lineage! In that way, those who are limited in their intelligence pass through this cycle of life and dwell in many wombs{31}. However, those who are learned are freed. That is the reason those who are learned in the sacred texts speak of this{32} as the journey. The learned describe this unfathomable life as a forest. O bull among the Bharata lineage! Those who are mortal have to return to this world, whether they are mobile or immobile. But one who is learned is not enamoured of this. The learned speak of the physical and mental diseases of mortals, whether they are direct or indirect, as carnivorous beasts. O descendant of the Bharata lineage! Those with limited intelligence are not disturbed by the large carnivorous beasts of their own deeds, even though they are always afﬂicted and attacked by them. O king! Even if a man escapes from these diseases, he is subsequently enveloped by old age, destructive of beauty. Without any support in any direction, he is submerged in the great mire of many kinds of sound, forms, tastes, touch and scent. Years, seasons, months, fortnights, days, nights and sandhyas{33} progressively take away beauty and vitality. These are the different manifestations of time, but those with limited intelligence do not know about them. It is said that all beings here have their deeds written on them{34}. The body of a being is like a chariot. The soul is said to be the charioteer. The senses are said to be the horses. Deeds and intelligence are the harnesses. He who dashes behind those swift horses is whirled around on a wheel on this cycle of life. However, a charioteer who controls them with his intelligence does not return{35}. It is said that the chariot which confounds those with limited intelligence belongs to Yama. O king! O lord of men! It gives what you yourself have obtained—destruction of the kingdom, destruction of well-wishers and the destruction of sons. O descendant of the Bharata lineage! This subsequent craving{36} only leads to sorrow. In the course of a supreme sorrow, a righteous person should look upon the grief as medicine. One who is ﬁrm in controlling his soul can escape from that sorrow in a way that valour, prosperity, friends and well-wishers cannot. O descendant of the Bharata lineage! A brahmana who resorts to friendship and good conduct has three horses to depend on—self-control, renunciation and lack of distraction. A man who is stationed on that mental chariot and controls the reins of good conduct, discards all fear of death. O king! He goes to Brahma’s world.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vidura replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vidura",
+              "text": "“Listen. I will again tell you about that path in detail. On listening to this, accomplished ones are freed from the cycle of life. O king! A man who is on a long journey is exhausted and dwells somewhere for some time. O descendant of the Bharata lineage! In that way, those who are limited in their intelligence pass through this cycle of life and dwell in many wombs{31}. However, those who are learned are freed. That is the reason those who are learned in the sacred texts speak of this{32} as the journey. The learned describe this unfathomable life as a forest. O bull among the Bharata lineage! Those who are mortal have to return to this world, whether they are mobile or immobile. But one who is learned is not enamoured of this. The learned speak of the physical and mental diseases of mortals, whether they are direct or indirect, as carnivorous beasts. O descendant of the Bharata lineage! Those with limited intelligence are not disturbed by the large carnivorous beasts of their own deeds, even though they are always afﬂicted and attacked by them. O king! Even if a man escapes from these diseases, he is subsequently enveloped by old age, destructive of beauty. Without any support in any direction, he is submerged in the great mire of many kinds of sound, forms, tastes, touch and scent. Years, seasons, months, fortnights, days, nights and sandhyas{33} progressively take away beauty and vitality. These are the different manifestations of time, but those with limited intelligence do not know about them. It is said that all beings here have their deeds written on them{34}. The body of a being is like a chariot. The soul is said to be the charioteer. The senses are said to be the horses. Deeds and intelligence are the harnesses. He who dashes behind those swift horses is whirled around on a wheel on this cycle of life. However, a charioteer who controls them with his intelligence does not return{35}. It is said that the chariot which confounds those with limited intelligence belongs to Yama. O king! O lord of men! It gives what you yourself have obtained—destruction of the kingdom, destruction of well-wishers and the destruction of sons. O descendant of the Bharata lineage! This subsequent craving{36} only leads to sorrow. In the course of a supreme sorrow, a righteous person should look upon the grief as medicine. One who is ﬁrm in controlling his soul can escape from that sorrow in a way that valour, prosperity, friends and well-wishers cannot. O descendant of the Bharata lineage! A brahmana who resorts to friendship and good conduct has three horses to depend on—self-control, renunciation and lack of distraction. A man who is stationed on that mental chariot and controls the reins of good conduct, discards all fear of death. O king! He goes to Brahma’s world.”",
+              "color": "#52796F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "1309": {
+      "global_number": 1309,
+      "local_number": 8,
+      "num_shlokas": 48,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When the supreme among the Kuru lineage heard the words that Vidura had spoken, he was tormented by grief on account of his sons. He lost his senses and fell down on the ground. His relatives, Krishna Dvaipayana and Kshatta Vidura, saw that he had fallen down on the ground, unconscious. O descendant of the Bharata lineage! Sanjaya, other well-wishers and trusted gate keepers sprinkled him with cold and pleasant water and fanned him with palm leaves. They carefully rubbed his body with their hands. Dhritarashtra remained in this state for a very long period of time. After a long period of time, the lord of the earth regained his senses. Overcome by thoughts of his sons, he lamented for a very long period of time. “Indeed, shame on being a man and on everything that man receives. The roots of perennial unhappiness result from this. O lord! This great misery that one obtains from the destruction of one’s sons and from the destruction of prosperity, kin and relatives is like poison, or the ﬁre. It is scorching my limbs and destroying my wisdom. O supreme among brahmanas! Overcome by this, a man thinks that death is superior. Confronted by this calamity and faced with this misfortune, this is what I will do now{37}.” Having spoken these words to his great-souled father, supreme among those who know about the brahman, Dhritarashtra was overcome by great grief and was stupeﬁed. O lord of the earth! The king was silent and was immersed in thought.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When the supreme among the Kuru lineage heard the words that Vidura had spoken, he was tormented by grief on account of his sons. He lost his senses and fell down on the ground. His relatives, Krishna Dvaipayana and Kshatta Vidura, saw that he had fallen down on the ground, unconscious. O descendant of the Bharata lineage! Sanjaya, other well-wishers and trusted gate keepers sprinkled him with cold and pleasant water and fanned him with palm leaves. They carefully rubbed his body with their hands. Dhritarashtra remained in this state for a very long period of time. After a long period of time, the lord of the earth regained his senses. Overcome by thoughts of his sons, he lamented for a very long period of time.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Indeed, shame on being a man and on everything that man receives. The roots of perennial unhappiness result from this. O lord! This great misery that one obtains from the destruction of one’s sons and from the destruction of prosperity, kin and relatives is like poison, or the ﬁre. It is scorching my limbs and destroying my wisdom. O supreme among brahmanas! Overcome by this, a man thinks that death is superior. Confronted by this calamity and faced with this misfortune, this is what I will do now{37}.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spoken these words to his great-souled father, supreme among those who know about the brahman, Dhritarashtra was overcome by great grief and was stupeﬁed. O lord of the earth! The king was silent and was immersed in thought.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘On hearing his words, the lord Krishna Dvaipayana, spoke these words to his son, who was tormented by misery on account of his sons. “O Dhritarashtra! O mighty-armed one! Listen to what I am telling you. You are learned. You are intelligent. You are skilled about dharma and artha. O scorcher of enemies! There is nothing that should be known that is not known to you. There is no doubt that you know that everything mortal is temporary. Everything in the world of the living is temporary and there is no state that is eternal. O descendant of the Bharata lineage! Since life ends in death, why are you grieving? O Indra among kings! You were a witness to the creation of this enmity. Your son was the cause, but the working of destiny made him act in that way. O king! It is certain that the destruction of the Kurus was destined. Why are you sorrowing over brave ones who have headed towards the ultimate objective? O mighty-armed one! The great-souled Vidura knew about this. O lord of men! That is the reason he made every effort towards peace. But it is my view that even if one tries for a long period of time, no being is capable of deviating from a path that destiny has laid down. I have myself heard what the gods wanted done. I will tell you about this. How will you regain your composure{38}? In the past, I had swiftly gone to Indra’s assembly hall. Having recovered from exhaustion, I saw the assembled residents of heaven there. The foremost of devarshis, with Narada at their head, were there. O lord of the earth! I saw the Earth there too. She had gone before the gods because she wanted a task to be accomplished. Having approached the assembled gods, the Earth said, ‘In Brahma’s abode, you had promised to accomplish a task for me{39}. O immensely fortunate ones! You should quickly act accordingly.’ On hearing her words, Vishnu, revered by the worlds, laughed and in that assembly of the gods, spoke these words to the Earth. ‘The eldest of Dhritarashtra’s one hundred sons is known by the name of Duryodhana. He will accomplish your task. Once he becomes the king, your task will be done. Because of him, all the lords of the earth will assemble in Kurukshetra. Wielding ﬁrm weapons, those strikers will kill each other. O goddess! Your burden will be destroyed in that clash. O beautiful one! Swiftly go to your own place and bear up the world.’ O king! This was your son, born in Gandhari’s womb as a part of kali{40}, to become the cause of the destruction of the worlds. He was intolerant, ﬁckle, wrathful and difﬁcult to control. Because of the work of destiny, his brothers were created and they were similar. His maternal uncle, Shakuni, his beloved friend, Karna, and all the kings who allied with him were also generated on earth to ensure destruction. O mighty-armed one! Narada knew the true reason behind all this. O lord of the earth! Your sons were destroyed because of their own crimes. O Indra among kings! You should not sorrow. There is no reason to grieve. O descendant of the Bharata lineage! The Pandavas have not committed the smallest of crimes. Your evil-minded sons brought injury to earth. O fortunate one! There is no doubt that Narada recounted all this earlier, in Yudhishthira’s assembly at the time of the rajasuya sacriﬁce{41}. ‘The Pandavas and the Kouravas will clash against each other. O Kounteya! Since that will happen, do what you must{42}.’ On hearing Narada’s words then, the Pandavas sorrowed. This is the entire truth and eternal mystery about the gods. O lord! How can your sorrow be dispelled? How can you be compassionate towards your own life{43}? Knowing what has been ordained by fate, you should be affectionate towards the sons of Pandu. O mighty-armed one! This is what I had heard earlier. It was recounted at Dharmaraja’s rajasuya, supreme among sacriﬁces. When I told Dharma’s son this secret, he tried to avoid the battle with the Kouravas. However, destiny was stronger. O king! Destiny can never be crossed and no being, mobile or stationary, can cross Yama. O descendant of the Bharata lineage! You are devoted to tasks and possess the best of intelligence. You know that beings come and go. Nevertheless, you are confounded. You are tormented by grief and are repeatedly losing your senses. If King Yudhishthira knows about this, he will cast aside his life. The brave one is always compassionate, even towards inferior species. O Indra among kings! How will he not feel compassionate towards you? O descendant of the Bharata lineage! Retain your life out of compassion towards the Pandavas. I am instructing you to refrain from your proposed course of action. If you act in this way, you will attain fame in this world. O son! The dharma that you will gain will be like what can be got by tormenting with austerities for a long time. Because of sorrow on account of your sons, the ﬂames are blazing. O great king! Every time they do so, use the water of your wisdom to quench them.” Hearing these words of the inﬁnitely energetic Vyasa, Dhritarashtra thought for some time.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing his words, the lord Krishna Dvaipayana, spoke these words to his son, who was tormented by misery on account of his sons.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Dhritarashtra! O mighty-armed one! Listen to what I am telling you. You are learned. You are intelligent. You are skilled about dharma and artha. O scorcher of enemies! There is nothing that should be known that is not known to you. There is no doubt that you know that everything mortal is temporary. Everything in the world of the living is temporary and there is no state that is eternal. O descendant of the Bharata lineage! Since life ends in death, why are you grieving? O Indra among kings! You were a witness to the creation of this enmity. Your son was the cause, but the working of destiny made him act in that way. O king! It is certain that the destruction of the Kurus was destined. Why are you sorrowing over brave ones who have headed towards the ultimate objective? O mighty-armed one! The great-souled Vidura knew about this. O lord of men! That is the reason he made every effort towards peace. But it is my view that even if one tries for a long period of time, no being is capable of deviating from a path that destiny has laid down. I have myself heard what the gods wanted done. I will tell you about this. How will you regain your composure{38}? In the past, I had swiftly gone to Indra’s assembly hall. Having recovered from exhaustion, I saw the assembled residents of heaven there. The foremost of devarshis, with Narada at their head, were there. O lord of the earth! I saw the Earth there too. She had gone before the gods because she wanted a task to be accomplished. Having approached the assembled gods, the Earth said, ‘In Brahma’s abode, you had promised to accomplish a task for me{39}. O immensely fortunate ones! You should quickly act accordingly.’ On hearing her words, Vishnu, revered by the worlds, laughed and in that assembly of the gods, spoke these words to the Earth. ‘The eldest of Dhritarashtra’s one hundred sons is known by the name of Duryodhana. He will accomplish your task. Once he becomes the king, your task will be done. Because of him, all the lords of the earth will assemble in Kurukshetra. Wielding ﬁrm weapons, those strikers will kill each other. O goddess! Your burden will be destroyed in that clash. O beautiful one! Swiftly go to your own place and bear up the world.’ O king! This was your son, born in Gandhari’s womb as a part of kali{40}, to become the cause of the destruction of the worlds. He was intolerant, ﬁckle, wrathful and difﬁcult to control. Because of the work of destiny, his brothers were created and they were similar. His maternal uncle, Shakuni, his beloved friend, Karna, and all the kings who allied with him were also generated on earth to ensure destruction. O mighty-armed one! Narada knew the true reason behind all this. O lord of the earth! Your sons were destroyed because of their own crimes. O Indra among kings! You should not sorrow. There is no reason to grieve. O descendant of the Bharata lineage! The Pandavas have not committed the smallest of crimes. Your evil-minded sons brought injury to earth. O fortunate one! There is no doubt that Narada recounted all this earlier, in Yudhishthira’s assembly at the time of the rajasuya sacriﬁce{41}. ‘The Pandavas and the Kouravas will clash against each other. O Kounteya! Since that will happen, do what you must{42}.’ On hearing Narada’s words then, the Pandavas sorrowed. This is the entire truth and eternal mystery about the gods. O lord! How can your sorrow be dispelled? How can you be compassionate towards your own life{43}? Knowing what has been ordained by fate, you should be affectionate towards the sons of Pandu. O mighty-armed one! This is what I had heard earlier. It was recounted at Dharmaraja’s rajasuya, supreme among sacriﬁces. When I told Dharma’s son this secret, he tried to avoid the battle with the Kouravas. However, destiny was stronger. O king! Destiny can never be crossed and no being, mobile or stationary, can cross Yama. O descendant of the Bharata lineage! You are devoted to tasks and possess the best of intelligence. You know that beings come and go. Nevertheless, you are confounded. You are tormented by grief and are repeatedly losing your senses. If King Yudhishthira knows about this, he will cast aside his life. The brave one is always compassionate, even towards inferior species. O Indra among kings! How will he not feel compassionate towards you? O descendant of the Bharata lineage! Retain your life out of compassion towards the Pandavas. I am instructing you to refrain from your proposed course of action. If you act in this way, you will attain fame in this world. O son! The dharma that you will gain will be like what can be got by tormenting with austerities for a long time. Because of sorrow on account of your sons, the ﬂames are blazing. O great king! Every time they do so, use the water of your wisdom to quench them.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words of the inﬁnitely energetic Vyasa, Dhritarashtra thought for some time.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘He then replied, “O supreme among brahmanas! I am overcome by a great net of grief. I no longer know myself and am repeatedly losing my senses. Having heard your words about this being ordained by destiny, I will retain my life and no longer sorrow.” O Indra among kings! On hearing Dhritarashtra’s words, Vyasa, Satyavati’s son, instantly disappeared.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘He then replied,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O supreme among brahmanas! I am overcome by a great net of grief. I no longer know myself and am repeatedly losing my senses. Having heard your words about this being ordained by destiny, I will retain my life and no longer sorrow.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O Indra among kings! On hearing Dhritarashtra’s words, Vyasa, Satyavati’s son, instantly disappeared.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

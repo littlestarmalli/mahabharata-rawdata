@@ -1,0 +1,97 @@
+{
+  "name": "Vairata Parva",
+  "subparva_number": 45,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 12,
+    "num_shlokas": 282
+  },
+  "note": "This section is named after Virata. Virata is the proper name, whereas Vairata is the adjective. In Section 44 (Volume 3), at the end of Aranyaka (Vana) Parva, a brahmana�s kindling was robbed by a deer and the Pandavas pursued the deer. This section takes off from there. The Pandavas decide to spend the thirteenth year in disguise in King Virata�s kingdom. In individual disguises, the Pandavas and Droupadi arrive in King Vira-ta�s court and are accepted by him. Yudhishthira becomes Kanka, Bhima becomes Ballava, Arjuna becomes Brihannada, Nakula becomes Granthika, Sahadeva becomes Tantipala and Droupadi becomes Sairandhri.",
+  "chapters": {
+    "597": {
+      "chapter_number": 597,
+      "global_number": 597,
+      "local_number": 1,
+      "num_shlokas": 23,
+      "file": "subparva_45_vairata_parva/chapter_597.json"
+    },
+    "598": {
+      "chapter_number": 598,
+      "global_number": 598,
+      "local_number": 2,
+      "num_shlokas": 27,
+      "file": "subparva_45_vairata_parva/chapter_598.json"
+    },
+    "599": {
+      "chapter_number": 599,
+      "global_number": 599,
+      "local_number": 3,
+      "num_shlokas": 19,
+      "file": "subparva_45_vairata_parva/chapter_599.json"
+    },
+    "600": {
+      "chapter_number": 600,
+      "global_number": 600,
+      "local_number": 4,
+      "num_shlokas": 49,
+      "file": "subparva_45_vairata_parva/chapter_600.json"
+    },
+    "601": {
+      "chapter_number": 601,
+      "global_number": 601,
+      "local_number": 5,
+      "num_shlokas": 31,
+      "file": "subparva_45_vairata_parva/chapter_601.json"
+    },
+    "602": {
+      "chapter_number": 602,
+      "global_number": 602,
+      "local_number": 6,
+      "num_shlokas": 16,
+      "file": "subparva_45_vairata_parva/chapter_602.json"
+    },
+    "603": {
+      "chapter_number": 603,
+      "global_number": 603,
+      "local_number": 7,
+      "num_shlokas": 11,
+      "file": "subparva_45_vairata_parva/chapter_603.json"
+    },
+    "604": {
+      "chapter_number": 604,
+      "global_number": 604,
+      "local_number": 8,
+      "num_shlokas": 33,
+      "file": "subparva_45_vairata_parva/chapter_604.json"
+    },
+    "605": {
+      "chapter_number": 605,
+      "global_number": 605,
+      "local_number": 9,
+      "num_shlokas": 15,
+      "file": "subparva_45_vairata_parva/chapter_605.json"
+    },
+    "606": {
+      "chapter_number": 606,
+      "global_number": 606,
+      "local_number": 10,
+      "num_shlokas": 13,
+      "file": "subparva_45_vairata_parva/chapter_606.json"
+    },
+    "607": {
+      "chapter_number": 607,
+      "global_number": 607,
+      "local_number": 11,
+      "num_shlokas": 13,
+      "file": "subparva_45_vairata_parva/chapter_607.json"
+    },
+    "608": {
+      "chapter_number": 608,
+      "global_number": 608,
+      "local_number": 12,
+      "num_shlokas": 32,
+      "file": "subparva_45_vairata_parva/chapter_608.json"
+    }
+  }
+}

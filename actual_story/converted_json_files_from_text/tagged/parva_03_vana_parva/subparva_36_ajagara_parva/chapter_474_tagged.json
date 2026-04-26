@@ -1,0 +1,378 @@
+{
+  "chapter_number": 474,
+  "global_number": 474,
+  "local_number": 177,
+  "num_shlokas": 33,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘On seeing his beloved brother encircled in the coils of the snake, the wise Yudhishthira approached and told the brave one, “O one whose mother is Kunti! How has this misfortune befallen you? Who is this supreme of serpents, with a body that is equal to a mountain?” On seeing his elder brother Dharmaraja, he{47} told his brother everything that had happened and how he had come to be grasped. Yudhishthira said, “O serpent! Yudhishthira is asking you. Tell the truth. Are you a god, a daitya or a serpent? O serpent! What must be done for you, or what must be told you, so as to please you? What food must be brought to you? What must be done to set him free?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘On seeing his beloved brother encircled in the coils of the snake,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the wise Yudhishthira approached and told the brave one",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_wise_yudhishthira_approached_and",
+          "text": "“O one whose mother is Kunti! How has this misfortune befallen you? Who is this supreme of serpents, with a body that is equal to a mountain?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "On seeing his elder brother Dharmaraja, he{47}",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "told his brother everything that had happened and how he had come to be grasped. Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@told_his_brother_everything",
+          "text": "“O serpent! Yudhishthira is asking you. Tell the truth. Are you a god, a daitya or a serpent? O serpent! What must be done for you, or what must be told you, so as to please you? What food must be brought to you? What must be done to set him free?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The serpent replied, “O unblemished one! I was earlier a king named Nahusha, your ancestor. O lord of men! I was Ayu’s famous son and ﬁfth in the line from Soma{48}. Through sacriﬁces, austerities, studying, self-restraint and valour, I obtained unrivalled lordship of the three worlds. Having attained that prosperity, insolence overcame me. Thousands of brahmanas carried my palanquin. Intoxicated with my fortune, I insulted those brahmanas. O lord of the earth! I have been reduced to this state because of Agastya. O Pandava! O king! But because of the favours of the great-souled Agastya, I have not lost my wisdom even now. I have obtained your younger brother as my food at the sixth point in time{49}. I will not free him. Nor do I desire any other food. But if you answer the questions I ask you, I will later free your brother Vrikodara.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The serpent replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_serpent",
+          "text": "“O unblemished one! I was earlier a king named Nahusha, your ancestor. O lord of men! I was Ayu’s famous son and ﬁfth in the line from Soma{48}. Through sacriﬁces, austerities, studying, self-restraint and valour, I obtained unrivalled lordship of the three worlds. Having attained that prosperity, insolence overcame me. Thousands of brahmanas carried my palanquin. Intoxicated with my fortune, I insulted those brahmanas. O lord of the earth! I have been reduced to this state because of Agastya. O Pandava! O king! But because of the favours of the great-souled Agastya, I have not lost my wisdom even now. I have obtained your younger brother as my food at the sixth point in time{49}. I will not free him. Nor do I desire any other food. But if you answer the questions I ask you, I will later free your brother Vrikodara.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Yudhishthira replied, “O serpent! Tell me whatever you like. O serpent! If I can, I will answer and please you. You are certainly aware of what only a brahmana can know. O king of the serpents! On hearing your words, I will reply.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O serpent! Tell me whatever you like. O serpent! If I can, I will answer and please you. You are certainly aware of what only a brahmana can know. O king of the serpents! On hearing your words, I will reply.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘The serpent asked, “O king! O Yudhishthira! Who is a brahmana and what should he know? From your words, I think that you are extremely wise.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The serpent asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_serpent",
+          "text": "“O king! O Yudhishthira! Who is a brahmana and what should he know? From your words, I think that you are extremely wise.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Yudhishthira replied, “O Indra among serpents! It is said that a brahmana is one in whom truthfulness, charity, forgiveness, good conduct, lack of cruelty, self-control and compassion can be seen. O serpent! He obtains knowledge of the supreme brahman, which is beyond happiness and unhappiness, and on attaining which, there is no sorrow. What else will you say?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O Indra among serpents! It is said that a brahmana is one in whom truthfulness, charity, forgiveness, good conduct, lack of cruelty, self-control and compassion can be seen. O serpent! He obtains knowledge of the supreme brahman, which is beyond happiness and unhappiness, and on attaining which, there is no sorrow. What else will you say?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘The serpent asked, “Truthfulness and knowledge of the brahman can be found in all the four varnas. O Yudhishthira! Truthfulness, charity, lack of anger, lack of cruelty, non-violence and compassion can also be found among shudras. O lord of men! You have said that the object of knowledge is beyond happiness and unhappiness. But there is nothing that is free from either. I do not think such a thing exists.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The serpent asked",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_serpent",
+          "text": "“Truthfulness and knowledge of the brahman can be found in all the four varnas. O Yudhishthira! Truthfulness, charity, lack of anger, lack of cruelty, non-violence and compassion can also be found among shudras. O lord of men! You have said that the object of knowledge is beyond happiness and unhappiness. But there is nothing that is free from either. I do not think such a thing exists.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘Yudhishthira replied, “If these traits, not even found in a brahmana, are seen in a shudra, he is not a shudra. A brahmana in whom a brahmana’s traits are not found, is a shudra. O serpent! It is said that one in whom these traits are found is a brahmana. O serpent! One in whom these traits are not found, is marked as a shudra. Then again, you have said that the object of knowledge does not exist, because there is nothing that is free from both those sentiments{50}. O serpent! It is your view that nothing can exist without those two. There is a state between cold and heat that is neither cold nor heat. Like that, there is something in between that is neither happiness, nor unhappiness. That is my view. O serpent! What do you think?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“If these traits, not even found in a brahmana, are seen in a shudra, he is not a shudra. A brahmana in whom a brahmana’s traits are not found, is a shudra. O serpent! It is said that one in whom these traits are found is a brahmana. O serpent! One in whom these traits are not found, is marked as a shudra. Then again, you have said that the object of knowledge does not exist, because there is nothing that is free from both those sentiments{50}. O serpent! It is your view that nothing can exist without those two. There is a state between cold and heat that is neither cold nor heat. Like that, there is something in between that is neither happiness, nor unhappiness. That is my view. O serpent! What do you think?”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘The serpent said, “O king! O one with a long life! If you assert that a brahmana is known by his conduct, birth has no meaning, as long as those characteristics can be seen.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The serpent said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_serpent",
+          "text": "“O king! O one with a long life! If you assert that a brahmana is known by his conduct, birth has no meaning, as long as those characteristics can be seen.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘Yudhishthira replied, “O great serpent! O immensely wise one! I think that among men, birth is difﬁcult to determine, because of mixed birth among all the varnas. Men always beget children on women from all varnas. All men are equal in speech, intercourse, birth and death. The proof of this can be found in the words of the learned rishis, who have said ‘We sacriﬁce’ and so on, basing this entirely on conduct{51}. The birth rituals of a man are performed even before the navel chord has been severed. At that time, the mother is Savitri and the father is the preceptor{52}. Before initiation into knowledge of the Vedas, everyone is a shudra by conduct. When there is a difference of opinion on this, Svayambhuva Manu{53} has categorically stated, ‘The observance of rituals determines varna. If conduct cannot be seen, mixed races overwhelmingly dominate.’ O Indra among serpents! O great serpent! O supreme among serpents! I have earlier deﬁned as a brahmana one in whom the principles of good conduct are seen.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“O great serpent! O immensely wise one! I think that among men, birth is difﬁcult to determine, because of mixed birth among all the varnas. Men always beget children on women from all varnas. All men are equal in speech, intercourse, birth and death. The proof of this can be found in the words of the learned rishis, who have said ‘We sacriﬁce’ and so on, basing this entirely on conduct{51}. The birth rituals of a man are performed even before the navel chord has been severed. At that time, the mother is Savitri and the father is the preceptor{52}. Before initiation into knowledge of the Vedas, everyone is a shudra by conduct. When there is a difference of opinion on this, Svayambhuva Manu{53} has categorically stated, ‘The observance of rituals determines varna. If conduct cannot be seen, mixed races overwhelmingly dominate.’ O Indra among serpents! O great serpent! O supreme among serpents! I have earlier deﬁned as a brahmana one in whom the principles of good conduct are seen.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘The serpent said, “O Yudhishthira! I have listened to your words. You know what should be known. How can I now devour your brother Vrikodara?”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The serpent said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_serpent",
+          "text": "“O Yudhishthira! I have listened to your words. You know what should be known. How can I now devour your brother Vrikodara?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

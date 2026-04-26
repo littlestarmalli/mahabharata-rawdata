@@ -1,0 +1,508 @@
+{
+  "chapter": 1253,
+  "local": 34,
+  "shlokas": 81,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Janamejaya said, ‘Before the war started, with Keshava's permission, the lord Rama had left with the Vrishnis, saying, “O Keshava! I will not help the sons of Dhritarashtra, or the sons of Pandu. I will go where I wish.” Having spoken those words, Rama, the destroyer of enemies, had departed. O brahmana! You should again tell me everything about his return. Tell me in detail about Rama's arrival. How did he witness the battle? You are a supremely skilled narrator.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘Before the war started, with Keshava's permission, the lord Rama had left with the Vrishnis, saying, ",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O Keshava! I will not help the sons of Dhritarashtra, or the sons of Pandu. I will go where I wish.”",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": " Having spoken those words, Rama, the destroyer of enemies, had departed. O brahmana! You should again tell me everything about his return. Tell me in detail about Rama's arrival. How did he witness the battle? You are a supremely skilled narrator.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "Vaishampayana replied, ‘O mighty-armed one! The great-souled Pandavas set themselves up in Upaplavya and sent Madhusudana to Dhritarashtra, for the sake of peace and for the welfare of all beings{35}. He went to Hastinapura and met Dhritarashtra. In particular, he spoke truthful and beneﬁcial words to him. As you have already been told, the king did not pay any attention to these words. O lord of men! Unable to obtain peace, the mighty-armed Krishna Purushottama returned to Upaplavya. O tiger among men! Dismissed by Dhritarashtra's son, Krishna returned unsuccessful and spoke to the Pandavas. “Goaded by destiny, the Kurus have not acted in accordance with my words. O Pandaveyas! With me, set out under the nakshatra Pushya.” Armies were being arrayed on both sides. Rohini's great-minded son, supreme among strong ones, spoke to his brother, Krishna. “O mighty-armed one! O Madhusudana! Let us help them{36}.” However, Krishna did not act in accordance with these words. At this, the immensely illustrious descendant of the Yadu lineage, the wielder of the plough, was overcome by supreme rage and set out on a pilgrimage towards the Sarasvati. With all the Yadavas, he set out when the conjunction of nakshatras known as Maitra{37} occurred. Bhoja, scorcher of enemies{38}, was on Duryodhana's side. With Yuyudhana, Vasudeva was on the side of the Pandavas. When Rohini's brave son set out under Pushya, Madhusudana placed the Pandaveyas at the forefront and advanced towards the Kurus.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘O mighty-armed one! The great-souled Pandavas set themselves up in Upaplavya and sent Madhusudana to Dhritarashtra, for the sake of peace and for the welfare of all beings{35}. He went to Hastinapura and met Dhritarashtra. In particular, he spoke truthful and beneﬁcial words to him. As you have already been told, the king did not pay any attention to these words. O lord of men! Unable to obtain peace, the mighty-armed Krishna Purushottama returned to Upaplavya. O tiger among men! Dismissed by Dhritarashtra's son, Krishna returned unsuccessful and spoke to the Pandavas. ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“Goaded by destiny, the Kurus have not acted in accordance with my words. O Pandaveyas! With me, set out under the nakshatra Pushya.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": " Armies were being arrayed on both sides. Rohini's great-minded son, supreme among strong ones, spoke to his brother, Krishna. ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O mighty-armed one! O Madhusudana! Let us help them{36}.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": " However, Krishna did not act in accordance with these words. At this, the immensely illustrious descendant of the Yadu lineage, the wielder of the plough, was overcome by supreme rage and set out on a pilgrimage towards the Sarasvati. With all the Yadavas, he set out when the conjunction of nakshatras known as Maitra{37} occurred. Bhoja, scorcher of enemies{38}, was on Duryodhana's side. With Yuyudhana, Vasudeva was on the side of the Pandavas. When Rohini's brave son set out under Pushya, Madhusudana placed the Pandaveyas at the forefront and advanced towards the Kurus.",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "'"
+      ],
+      "text": "‘While setting out on his route, Rama instructed his servants, “Bring all the objects and equipment that will be needed for a pilgrimage. Bring the ﬁre from Dvaraka{39} and the priests. Bring gold, silver, cows, garments, horses, elephants, chariots, mules, camels and carts. Swiftly bring all the garments that are required for a pilgrimage. Let us quickly go towards the ﬂow of the Sarasvati. Bring ofﬁciating priests and hundreds of bulls among brahmanas.” O king! Having given these instructions to his servants, the immensely strong Baladeva set out on a pilgrimage at a time when the Kurus confronted a calamity. O bull among the Bharata lineage! Along the ﬂows of the Sarasvati, he proceeded towards the ocean, with ofﬁciating priests, well-wishers, supreme among brahmanas, chariots, elephants, horses and servants. He was surrounded by many carts that were drawn by cattle, mules and camels. O descendant of the Bharata lineage! In many countries along the path, large donations were given to the weary, tired of limb, children, the hungry and those who were distressed and waited for alms in different ways. O king! In all those places, brahmanas were instantly given food and whatever objects they desired. O king! On the instructions of Rohini's son, men were stationed, with large quantities of food and drink. To brahmanas who desired happiness, extremely expensive garments, beds, covers and objects of worship were given. O descendant of the Bharata lineage! Whenever a brahmana or a kshatriya wanted anything, it was seen that the object was unhesitatingly given. All those who advanced, or stayed, were happy. O bull among the Bharata lineage! Vehicles were given to those who wished to travel, drinks to those who were thirsty and tasty food to those who were hungry. The men there obtained garments and ornaments. O king! The path along which they advanced was happy in every possible way. O brave one! The men who travelled seemed to be in heaven. They were always happy and tasty and good food was always available. There were shops and stalls with merchandise, frequented by hundreds of men. There were many kinds of trees and beings, decorated with many kinds of jewels. The great-souled one was unwavering in his soul and observed rites. O king! The foremost among the Yadu lineage, the wielder of the plough, gave riches and sacriﬁcial donations to brahmanas at sacred places of pilgrimage. He also gave away one thousand cows that yielded milk. They were covered in excellent garments and their horns were encased in gold. There were diverse horses that had been born in many countries. These, and servant-maids, were given to the brahmanas. There were gems, pearls, jewels, diamonds and the best of sparkling gold and silver. Rama gave the best of brahmanas iron and copper vessels. In this way, in the best of tirthas along the Sarasvati, the great-souled one gave away a large quantity of riches. His deeds and power were unlimited. Eventually, he cheerfully returned to Kurukshetra.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘While setting out on his route, Rama instructed his servants, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Bring all the objects and equipment that will be needed for a pilgrimage. Bring the ﬁre from Dvaraka{39} and the priests. Bring gold, silver, cows, garments, horses, elephants, chariots, mules, camels and carts. Swiftly bring all the garments that are required for a pilgrimage. Let us quickly go towards the ﬂow of the Sarasvati. Bring ofﬁciating priests and hundreds of bulls among brahmanas.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! Having given these instructions to his servants, the immensely strong Baladeva set out on a pilgrimage at a time when the Kurus confronted a calamity. O bull among the Bharata lineage! Along the ﬂows of the Sarasvati, he proceeded towards the ocean, with ofﬁciating priests, well-wishers, supreme among brahmanas, chariots, elephants, horses and servants. He was surrounded by many carts that were drawn by cattle, mules and camels. O descendant of the Bharata lineage! In many countries along the path, large donations were given to the weary, tired of limb, children, the hungry and those who were distressed and waited for alms in different ways. O king! In all those places, brahmanas were instantly given food and whatever objects they desired. O king! On the instructions of Rohini's son, men were stationed, with large quantities of food and drink. To brahmanas who desired happiness, extremely expensive garments, beds, covers and objects of worship were given. O descendant of the Bharata lineage! Whenever a brahmana or a kshatriya wanted anything, it was seen that the object was unhesitatingly given. All those who advanced, or stayed, were happy. O bull among the Bharata lineage! Vehicles were given to those who wished to travel, drinks to those who were thirsty and tasty food to those who were hungry. The men there obtained garments and ornaments. O king! The path along which they advanced was happy in every possible way. O brave one! The men who travelled seemed to be in heaven. They were always happy and tasty and good food was always available. There were shops and stalls with merchandise, frequented by hundreds of men. There were many kinds of trees and beings, decorated with many kinds of jewels. The great-souled one was unwavering in his soul and observed rites. O king! The foremost among the Yadu lineage, the wielder of the plough, gave riches and sacriﬁcial donations to brahmanas at sacred places of pilgrimage. He also gave away one thousand cows that yielded milk. They were covered in excellent garments and their horns were encased in gold. There were diverse horses that had been born in many countries. These, and servant-maids, were given to the brahmanas. There were gems, pearls, jewels, diamonds and the best of sparkling gold and silver. Rama gave the best of brahmanas iron and copper vessels. In this way, in the best of tirthas along the Sarasvati, the great-souled one gave away a large quantity of riches. His deeds and power were unlimited. Eventually, he cheerfully returned to Kurukshetra.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘O best among men! Tell me about the qualities and origins of tirthas along the Sarasvati, their fruits and the deeds that must be done when one is there. O illustrious one! Tell me about these tirthas in due order. O brahmana! O supreme among those who know about the brahman! My curiosity is great.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O best among men! Tell me about the qualities and origins of tirthas along the Sarasvati, their fruits and the deeds that must be done when one is there. O illustrious one! Tell me about these tirthas in due order. O brahmana! O supreme among those who know about the brahman! My curiosity is great.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘O king! The qualities and origins of all the tirthas will be extensive. O Indra among kings! However, I will tell you about these sacred spots in entirety. Listen. O great king! With the ofﬁciating priests, well-wishers and large numbers of brahmanas, the foremost among the Yadu lineage ﬁrst went to the sacred Prabhasa. O Indra among men! The lord of the stars{40} was afﬂicted by tuberculosis and was freed of his curse there. Having regained his energy, he lights up the entire universe. This is the foremost tirtha on earth. Because he obtained his radiance there, it is known as Prabhasa{41}.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! The qualities and origins of all the tirthas will be extensive. O Indra among kings! However, I will tell you about these sacred spots in entirety. Listen. O great king! With the ofﬁciating priests, well-wishers and large numbers of brahmanas, the foremost among the Yadu lineage ﬁrst went to the sacred Prabhasa. O Indra among men! The lord of the stars{40} was afﬂicted by tuberculosis and was freed of his curse there. Having regained his energy, he lights up the entire universe. This is the foremost tirtha on earth. Because he obtained his radiance there, it is known as Prabhasa{41}.’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘Why was the illustrious Soma afﬂicted by tuberculosis? How did Chandra{42} bathe in that supreme of tirthas? Having bathed there, how did Shashi regain his energy? O great sage! Tell me everything about this in detail.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Why was the illustrious Soma afﬂicted by tuberculosis? How did Chandra{42} bathe in that supreme of tirthas? Having bathed there, how did Shashi regain his energy? O great sage! Tell me everything about this in detail.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana replied, ‘O lord of the earth! Daksha had twenty-seven maidens as daughters and Daksha gave them to Soma{43}. O descendant of the Bharata lineage! They are always united with the nakshatras and are used for computing time. O Indra among kings! Those auspicious ones became the wives of Soma. All of them were largeeyed and were unmatched on earth in terms of their beauty. But in the richness of her beauty, Rohini was superior{44}. Therefore, the illustrious moon god was especially affectionate towards her. She was in his heart and he always enjoyed her alone. O Indra among kings! In those ancient times, Soma dwelt with Rohini for a long time. At this, the other nakshatras became angry with the great-souled one. They quickly went to their father, Prajapati{45}, and said,“Soma does not dwell with us. He always resides with Rohini. O lord of beings! Therefore, all of us will live with you. We will live here, be restrained in our diet and perform supreme austerities.” On hearing their words, Daksha told Soma, “Treat all your wives equally, so that a great adharma does not touch you.” Daksha told all of them, “Go to Soma. On my instructions, Chandra will treat all of you equally.” Dismissed by him, all of them went to Shitamshu's abode{46}. O lord of the earth! However, as earlier, the illustrious Soma repeatedly dwelt only with Rohini and pleased her alone. The others united and again went and told their father, “We will serve you and dwell under your refuge. Soma does not dwell with us and has not acted in accordance with your words.” On hearing their words, Daksha told Soma, “O Virochana{47}! Treat all your wives equally, so that I do not have to curse you.” However, the illustrious Shashi paid no attention to Daksha's words. He continued to live with Rohini. The others were enraged and went to their father. They lowered their heads in salutation and said, “Soma does not dwell with us. Grant us refuge. The illustrious Chandra always dwells with Rohini. Therefore, save us, so that Soma accepts all of us.” O lord of the earth! On hearing these words, the illustrious one became angry. In his rage, he inﬂicted tuberculosis on Soma and the lord of the stars became afﬂicted. Overcome by tuberculosis, Shashi decayed from one day to another. O king! He made many efforts to free himself from the tuberculosis. O great king! The moon performed many different kinds of sacriﬁces. However, he could not free himself of the curse and was immersed in decay. As Soma began to decay, herbs ceased to grow. All of them were tasteless and without juices. All of them lost their energy. When the herbs decayed, the destruction of beings started. When the moon decayed, all the subjects became emaciated. O lord of the earth! At this, all the gods assembled and went to Soma. They asked, “Why is your form like this, without any radiance? Tell us everything about the reason behind this great fear. Having heard your words, we will think of a means.” Having been thus addressed, the one with the mark of a hare{48} replied to all of them. He told them about the reason behind the curse and about his own tuberculosis. Having heard his words, the gods went to Daksha and said, “O illustrious one! Be paciﬁed. Take away your curse from Soma. Chandra has decayed and only a little bit of him can be seen. O lord of the gods! Because of his decay, all the subjects have been overcome by decay. Many different kinds of creepers, herbs and seeds are wasting. O preceptor of the worlds! You should be paciﬁed.” Having been thus addressed, Prajapati thought and spoke these words. “My words cannot be transgressed. It cannot be otherwise. O immensely fortunate ones! However, there is a means whereby this can be withdrawn. Let Shashi always treat all of his wives equally. Let the one with the mark of the hare bathe in the supreme tirtha along the Sarasvati. The god will then wax again. These words of mine are true. For one half of the month, Soma will always wane. But for another half of the month, Soma will always wax. These words of mine are true.” On the instructions of the rishi{49}, Soma went to the Sarasvati. Along the Sarasvati, he went to the supreme tirtha of Prabhasa. The immensely energetic and immensely radiant one bathed there on the day of the new moon. He obtained his cool rays back and radiated the world again. O Indra among kings! All the gods also went to Prabhasa. With Soma, they presented themselves before Daksha. Prajapati gave all the gods permission to leave. Pleased with Soma, the illustrious one again spoke these words to him. “O son! Never disregard women. Never disregard brahmanas. Depart and always follow my instructions.” O great king! Having taken his leave, he again returned to his own abode{50}. All the subjects were delighted and lived as they had earlier. This is the entire account about how the moon was cursed. This is how the tirtha of Prabhasa came to be the foremost among all tirthas. O great king! The one with the mark of the hare always bathes there on the day of the new moon. Having bathed in the supreme tirtha of Prabhasa, he obtains his handsomeness back. O lord of the earth! That spot is known as Prabhasa, because bathing there, Chandra obtained his supreme radiance back.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O lord of the earth! Daksha had twenty-seven maidens as daughters and Daksha gave them to Soma{43}. O descendant of the Bharata lineage! They are always united with the nakshatras and are used for computing time. O Indra among kings! Those auspicious ones became the wives of Soma. All of them were largeeyed and were unmatched on earth in terms of their beauty. But in the richness of her beauty, Rohini was superior{44}. Therefore, the illustrious moon god was especially affectionate towards her. She was in his heart and he always enjoyed her alone. O Indra among kings! In those ancient times, Soma dwelt with Rohini for a long time. At this, the other nakshatras became angry with the great-souled one. They quickly went to their father, Prajapati{45}, and said,",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Soma does not dwell with us. He always resides with Rohini. O lord of beings! Therefore, all of us will live with you. We will live here, be restrained in our diet and perform supreme austerities.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing their words, Daksha told Soma, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Treat all your wives equally, so that a great adharma does not touch you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Daksha told all of them, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Go to Soma. On my instructions, Chandra will treat all of you equally.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Dismissed by him, all of them went to Shitamshu's abode{46}. O lord of the earth! However, as earlier, the illustrious Soma repeatedly dwelt only with Rohini and pleased her alone. The others united and again went and told their father, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“We will serve you and dwell under your refuge. Soma does not dwell with us and has not acted in accordance with your words.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing their words, Daksha told Soma, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Virochana{47}! Treat all your wives equally, so that I do not have to curse you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " However, the illustrious Shashi paid no attention to Daksha's words. He continued to live with Rohini. The others were enraged and went to their father. They lowered their heads in salutation and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Soma does not dwell with us. Grant us refuge. The illustrious Chandra always dwells with Rohini. Therefore, save us, so that Soma accepts all of us.”",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O lord of the earth! On hearing these words, the illustrious one became angry. In his rage, he inﬂicted tuberculosis on Soma and the lord of the stars became afﬂicted. Overcome by tuberculosis, Shashi decayed from one day to another. O king! He made many efforts to free himself from the tuberculosis. O great king! The moon performed many different kinds of sacriﬁces. However, he could not free himself of the curse and was immersed in decay. As Soma began to decay, herbs ceased to grow. All of them were tasteless and without juices. All of them lost their energy. When the herbs decayed, the destruction of beings started. When the moon decayed, all the subjects became emaciated. O lord of the earth! At this, all the gods assembled and went to Soma. They asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Why is your form like this, without any radiance? Tell us everything about the reason behind this great fear. Having heard your words, we will think of a means.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed, the one with the mark of a hare{48} replied to all of them. He told them about the reason behind the curse and about his own tuberculosis. Having heard his words, the gods went to Daksha and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! Be paciﬁed. Take away your curse from Soma. Chandra has decayed and only a little bit of him can be seen. O lord of the gods! Because of his decay, all the subjects have been overcome by decay. Many different kinds of creepers, herbs and seeds are wasting. O preceptor of the worlds! You should be paciﬁed.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having been thus addressed, Prajapati thought and spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“My words cannot be transgressed. It cannot be otherwise. O immensely fortunate ones! However, there is a means whereby this can be withdrawn. Let Shashi always treat all of his wives equally. Let the one with the mark of the hare bathe in the supreme tirtha along the Sarasvati. The god will then wax again. These words of mine are true. For one half of the month, Soma will always wane. But for another half of the month, Soma will always wax. These words of mine are true.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On the instructions of the rishi{49}, Soma went to the Sarasvati. Along the Sarasvati, he went to the supreme tirtha of Prabhasa. The immensely energetic and immensely radiant one bathed there on the day of the new moon. He obtained his cool rays back and radiated the world again. O Indra among kings! All the gods also went to Prabhasa. With Soma, they presented themselves before Daksha. Prajapati gave all the gods permission to leave. Pleased with Soma, the illustrious one again spoke these words to him. ",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! Never disregard women. Never disregard brahmanas. Depart and always follow my instructions.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O great king! Having taken his leave, he again returned to his own abode{50}. All the subjects were delighted and lived as they had earlier. This is the entire account about how the moon was cursed. This is how the tirtha of Prabhasa came to be the foremost among all tirthas. O great king! The one with the mark of the hare always bathes there on the day of the new moon. Having bathed in the supreme tirtha of Prabhasa, he obtains his handsomeness back. O lord of the earth! That spot is known as Prabhasa, because bathing there, Chandra obtained his supreme radiance back.",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘After this, the undecaying and powerful one{51} went to Chamasodbheda. People know that spot as Chamasodbheda. The one with the plough as his weapon gave away many precious donations there. He spent a night there and bathed in accordance with the prescribed rituals. Keshava's elder brother then quickly went to Udapana. Great fruits are obtained from observing rites there. O Janamejaya! The herbs and the earth are cool there. O Indra among kings! Though the Sarasvati has been destroyed there{52}, the siddhas know this.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After this, the undecaying and powerful one{51} went to Chamasodbheda. People know that spot as Chamasodbheda. The one with the plough as his weapon gave away many precious donations there. He spent a night there and bathed in accordance with the prescribed rituals. Keshava's elder brother then quickly went to Udapana. Great fruits are obtained from observing rites there. O Janamejaya! The herbs and the earth are cool there. O Indra among kings! Though the Sarasvati has been destroyed there{52}, the siddhas know this.’",
+          "speaker": "@vaishampayana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "chapter_number": 10,
+  "global_number": 10,
+  "local_number": 10,
+  "num_shlokas": 8,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Ruru said, “My wife, whom I love as much as I love my own life, was bitten by a snake. O snake! At that time, I took a terrible vow that thereafter I would kill every snake that I saw. It is for that reason that I do violence to you and I shall deprive you of your life.” The dundubha replied, “O Brahmana! There are other snakes that bite mankind. The dundubhas are snakes only by smell; you should not kill them. We may share the same misfortune, but we do not share the same good fortune. We may share the same sorrows, but we do not share the same joys. Since you cannot differentiate between right and wrong, you should not kill the dundubhas.” On hearing the words of the snake, Ruru did not kill the dundubha, because he was scared and thought it might be a rishi.",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Ruru said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@ruru",
+          "text": "“My wife, whom I love as much as I love my own life, was bitten by a snake. O snake! At that time, I took a terrible vow that thereafter I would kill every snake that I saw. It is for that reason that I do violence to you and I shall deprive you of your life.”",
+          "color": "#814ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The dundubha replied",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_dundubha",
+          "text": "“O Brahmana! There are other snakes that bite mankind. The dundubhas are snakes only by smell; you should not kill them. We may share the same misfortune, but we do not share the same good fortune. We may share the same sorrows, but we do not share the same joys. Since you cannot differentiate between right and wrong, you should not kill the dundubhas.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "On hearing the words of the snake, Ruru did not kill the dundubha, because he was scared and thought it might be a rishi.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The revered Ruru now sought to pacify the snake. “O snake!” he said. “If you desire, tell me how you came to be so metamorphosed.” The dundubha replied, “O Ruru! I was earlier a rishi named Sahasrapata. I became a snake through a Brahmana’s curse.” Ruru asked, “O best of the snakes! Why were you cursed by an angry Brahmana and how long will you have to continue in this present form?”’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "The revered Ruru now sought to pacify the snake.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ugrasrava",
+          "text": "“O snake!”",
+          "color": "#E8B86D",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "he said.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ugrasrava",
+          "text": "“If you desire, tell me how you came to be so metamorphosed.”",
+          "color": "#E8B86D",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The dundubha replied",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_dundubha",
+          "text": "“O Ruru! I was earlier a rishi named Sahasrapata. I became a snake through a Brahmana’s curse.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Ruru asked",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@ruru",
+          "text": "“O best of the snakes! Why were you cursed by an angry Brahmana and how long will you have to continue in this present form?”",
+          "color": "#814ED9",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

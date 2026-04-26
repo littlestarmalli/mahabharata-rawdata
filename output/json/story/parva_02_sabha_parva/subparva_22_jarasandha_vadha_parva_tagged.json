@@ -1,0 +1,887 @@
+{
+  "name": "Jarasandha-vadha Parva",
+  "subparva_number": 22,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 5,
+    "num_shlokas": 195
+  },
+  "note": "The word vadha is the act of killing. This section is therefore about the killing of Jarasandha.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "243": {
+      "global_number": 243,
+      "local_number": 18,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “Hamsa and Dibhaka have fallen. Kamsa and his advisers have been killed. The time has therefore arrived for Jarasandha’s killing. He is incapable of being defeated in battle by all the gods and the demons. But we understand he is capable of being vanquished in a battle of breath{1}. Policy exists in me. Power exists in Bhima. Valour exists in Arjuna. O king! We will overcome him like three ﬁres. If that lord of men is confronted by the three of us alone, there is no doubt that he will engage one of us in a duel. Out of contempt for the worlds and his pride in himself, he will certainly challenge Bhimasena to a duel. The mighty-armed and immensely strong Bhimasena is his match, like death is of the worlds that confront their destruction. If your heart knows and if you have conﬁdence in me, then, without losing any more time, entrust Bhimasena and Arjuna to me.”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "Vasudeva said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“Hamsa and Dibhaka have fallen. Kamsa and his advisers have been killed. The time has therefore arrived for Jarasandha’s killing. He is incapable of being defeated in battle by all the gods and the demons. But we understand he is capable of being vanquished in a battle of breath{1}. Policy exists in me. Power exists in Bhima. Valour exists in Arjuna. O king! We will overcome him like three ﬁres. If that lord of men is confronted by the three of us alone, there is no doubt that he will engage one of us in a duel. Out of contempt for the worlds and his pride in himself, he will certainly challenge Bhimasena to a duel. The mighty-armed and immensely strong Bhimasena is his match, like death is of the worlds that confront their destruction. If your heart knows and if you have conﬁdence in me, then, without losing any more time, entrust Bhimasena and Arjuna to me.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘Having been thus addressed by that illustrious one and on seeing Bhima and Partha{2} standing there with smiles on their faces, Yudhishthira replied, “O Achyuta! O Achyuta! Do not speak to me in that fashion. You are the lord of the Pandavas. We seek refuge with you. O Govinda! Everything that you have said is right. You never lead those whom Lakshmi has forsaken. As I follow your instruction, Jarasandha is dead. The kings have been set free. I have achieved the rajasuya. O supreme among men! You are the one who acts fast. Act so that I can accomplish this task for the world. Like a miserable and diseased man and like one without dharma, kama and artha, I have no incentive to live without the three of you. There is no Partha{3} without Shouri{4} and there is no Shouri without Pandava{5}. It is my view that there is nothing in the world that cannot be conquered by the two Krishnas{6}. This handsome Vrikodara is supreme among all strong ones. What can this immensely famous and valorous one not accomplish when he is with the two of you? When led properly, forces perform supreme deeds. The learned say that forces without skilled leadership are blind and benumbed. The wise always conduct water to places that are low. Those who are wise always lead their forces to places where there are holes{7}. For accomplishing our task, we will therefore seek refuge with Govinda, who is a man famous in the worlds and is knowledgeable about policy. Krishna’s strength comes from his wisdom and he knows the method and the means. If one wishes to accomplish one’s objectives, one should place him at the forefront. For the accomplishment of our objective, let Partha Arjuna follow Krishna, the best of the Yadavas, and let Bhima follow Dhananjaya. Policy, victory and strength will ﬁnd success in valour.” Having been thus addressed, the three brothers{8}, Varshneya and the two Pandavas, left for Magadha.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having been thus addressed by that illustrious one and on seeing Bhima and Partha{2} standing there with smiles on their faces,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Achyuta! O Achyuta! Do not speak to me in that fashion. You are the lord of the Pandavas. We seek refuge with you. O Govinda! Everything that you have said is right. You never lead those whom Lakshmi has forsaken. As I follow your instruction, Jarasandha is dead. The kings have been set free. I have achieved the rajasuya. O supreme among men! You are the one who acts fast. Act so that I can accomplish this task for the world. Like a miserable and diseased man and like one without dharma, kama and artha, I have no incentive to live without the three of you. There is no Partha{3} without Shouri{4} and there is no Shouri without Pandava{5}. It is my view that there is nothing in the world that cannot be conquered by the two Krishnas{6}. This handsome Vrikodara is supreme among all strong ones. What can this immensely famous and valorous one not accomplish when he is with the two of you? When led properly, forces perform supreme deeds. The learned say that forces without skilled leadership are blind and benumbed. The wise always conduct water to places that are low. Those who are wise always lead their forces to places where there are holes{7}. For accomplishing our task, we will therefore seek refuge with Govinda, who is a man famous in the worlds and is knowledgeable about policy. Krishna’s strength comes from his wisdom and he knows the method and the means. If one wishes to accomplish one’s objectives, one should place him at the forefront. For the accomplishment of our objective, let Partha Arjuna follow Krishna, the best of the Yadavas, and let Bhima follow Dhananjaya. Policy, victory and strength will ﬁnd success in valour.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, the three brothers{8}, Varshneya and the two Pandavas, left for Magadha.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘They were radiant in the attire of brahmanas who had completed their studies{9}. Their well-wishers bade them farewell with affectionate words. Their bodies were like the sun, the moon and the ﬁre. Inﬂamed with anger at the oppression of their relatives, their bodies were then terrible to behold. On seeing the two Krishnas, invincible in battle, united in the same purpose and with Bhima at their forefront, it was thought that Jarasandha was already dead. The two great-souled ones were the lords of all deeds, everything that drove the deeds of dharma, artha and kama. Having left the land of the Kurus, and traversing the middle of Kurujangala{10}, they reached the beautiful Padmasara{11} and traversed Kalakuta{12}. They then crossed Gandaki and Shona and Sadanira{13}. All these rivers arise from that same mountain. After crossing the beautiful Sarayu, they saw the eastern Koshala kingdom{14}. Passing through it, they went to Mithila, crossing the rivers Mala and Charmanvati{15}. Crossing the Ganga and the Shona, all the three headed eastwards and arrived at the indestructibe region of Magadha, covered with kurava trees{16}. Ascending Mount Goratha, they saw the city of Magadha{17}, always resplendent with cattle, overﬂowing with water and full of beautiful groves.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "They were radiant in the attire of brahmanas who had completed their studies{9}. Their well-wishers bade them farewell with affectionate words. Their bodies were like the sun, the moon and the ﬁre. Inﬂamed with anger at the oppression of their relatives, their bodies were then terrible to behold. On seeing the two Krishnas, invincible in battle, united in the same purpose and with Bhima at their forefront, it was thought that Jarasandha was already dead. The two great-souled ones were the lords of all deeds, everything that drove the deeds of dharma, artha and kama. Having left the land of the Kurus, and traversing the middle of Kurujangala{10}, they reached the beautiful Padmasara{11} and traversed Kalakuta{12}. They then crossed Gandaki and Shona and Sadanira{13}. All these rivers arise from that same mountain. After crossing the beautiful Sarayu, they saw the eastern Koshala kingdom{14}. Passing through it, they went to Mithila, crossing the rivers Mala and Charmanvati{15}. Crossing the Ganga and the Shona, all the three headed eastwards and arrived at the indestructibe region of Magadha, covered with kurava trees{16}. Ascending Mount Goratha, they saw the city of Magadha{17}, always resplendent with cattle, overﬂowing with water and full of beautiful groves.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "244": {
+      "global_number": 244,
+      "local_number": 19,
+      "num_shlokas": 50,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vasudeva said, “O Partha! This is the great and beautiful city of Magadha. It is rich in cattle and is always full of water. It is prosperous and has no disease and has many splendid mansions. O tata{18}! There are ﬁve large mountains, the extensive Vaihara, Varaha, Vrishabha, Rishigiri and the beautiful Chaitya{19}. These ﬁve giant mountain peaks are covered with trees with cool shade and though separate, seem to collectively protect Girivraja. They seem to be concealed in a forest of fragrant and beautiful lodhra trees{20}, beloved by lovers, and with the tips of their branches covered with blossoms. It was here that the great-souled sage Goutama, rigid in his vows, begot on Ushinara’s shudra daughter, sons like Kakshivana. Because he lived here in this place and because the kings here showed him homage, Goutama loved the Magadha lineage. O Arjuna! It was here that, once upon a time, Anga, Vanga and other greatly powerful kings came to Goutama’s abode and found happiness. O Partha! Behold the beautiful array of priyalas{21} and the charming lodhras, growing near Goutama’s abode. Arbuda and Shakravapi, serpents who scorched their enemies, lived here. This was the abode of Svastika and the supreme serpent Mani. Because of Mani, Magadha is never avoided by clouds{22}. Koushika and Goutama have indeed extended their favours here. Jarasandha imagines that the success of his objectives will continue. But we are about to attack him and today, his pride will be struck down.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O Partha! This is the great and beautiful city of Magadha. It is rich in cattle and is always full of water. It is prosperous and has no disease and has many splendid mansions. O tata{18}! There are ﬁve large mountains, the extensive Vaihara, Varaha, Vrishabha, Rishigiri and the beautiful Chaitya{19}. These ﬁve giant mountain peaks are covered with trees with cool shade and though separate, seem to collectively protect Girivraja. They seem to be concealed in a forest of fragrant and beautiful lodhra trees{20}, beloved by lovers, and with the tips of their branches covered with blossoms. It was here that the great-souled sage Goutama, rigid in his vows, begot on Ushinara’s shudra daughter, sons like Kakshivana. Because he lived here in this place and because the kings here showed him homage, Goutama loved the Magadha lineage. O Arjuna! It was here that, once upon a time, Anga, Vanga and other greatly powerful kings came to Goutama’s abode and found happiness. O Partha! Behold the beautiful array of priyalas{21} and the charming lodhras, growing near Goutama’s abode. Arbuda and Shakravapi, serpents who scorched their enemies, lived here. This was the abode of Svastika and the supreme serpent Mani. Because of Mani, Magadha is never avoided by clouds{22}. Koushika and Goutama have indeed extended their favours here. Jarasandha imagines that the success of his objectives will continue. But we are about to attack him and today, his pride will be struck down.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘After these words, all the brothers, Varshneya and the two Pandavas, with immense vigour, started for the city of Magadha and neared the impregnable Girivraja. The city was full of cheerful and healthy citizens, with large numbers of the four varnas and enlivened with festivities. They avoided the giant mountain that was the gate of the city, a place where Brihadratha’s descendants and the citizens used to worship. That is the place where Brihadratha killed the bean-eating Rishabha{23}. Having killed the bean-eater, he had three kettledrums made and stretching the hide over them, had these placed in his city{24}. There, divine blossoms showered when the kettledrums were sounded. They rushed to the end where Chaitya{25} was, beloved by inhabitants of Magadha. In their desire to kill Jarasandha, it was like placing their feet on his head{26}. The peak was ﬁxed, immensely large and ancient. It was always worshipped with ﬂowers and garlands and was ﬁrmly established. With their large and mighty arms, the heroes broke it down{27}. They then saw the city of Magadha and entered it.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After these words, all the brothers, Varshneya and the two Pandavas, with immense vigour, started for the city of Magadha and neared the impregnable Girivraja. The city was full of cheerful and healthy citizens, with large numbers of the four varnas and enlivened with festivities. They avoided the giant mountain that was the gate of the city, a place where Brihadratha’s descendants and the citizens used to worship. That is the place where Brihadratha killed the bean-eating Rishabha{23}. Having killed the bean-eater, he had three kettledrums made and stretching the hide over them, had these placed in his city{24}. There, divine blossoms showered when the kettledrums were sounded. They rushed to the end where Chaitya{25} was, beloved by inhabitants of Magadha. In their desire to kill Jarasandha, it was like placing their feet on his head{26}. The peak was ﬁxed, immensely large and ancient. It was always worshipped with ﬂowers and garlands and was ﬁrmly established. With their large and mighty arms, the heroes broke it down{27}. They then saw the city of Magadha and entered it.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘At that time, the priests were showing homage to King Jarasandha. While he was seated on an elephant, they carried the sacred ﬁre around him. O descendant of the Bharata lineage! The three of them entered, ready to do battle with Jarasandha, dressed as devoted snatakas, and with no weapons other than their bare arms. They saw the supremely prosperous shops, stocked with food and garlands, swollen with objects of every quality and with every object that satisﬁes desire. Having witnessed the prosperity along the streets, those supreme of men, Krishna, Bhima and Dhananjaya, proceeded along the royal road and those immensely powerful ones forcibly grabbed garlands from a garland-maker. Then, attired in many-coloured garments, adorned with garlands and beautiful earrings, they entered the palace of the wise Jarasandha, like lions from the Himalayas looking at a pen full of cattle. O great king! The arms of those mighty-armed warriors were smeared with sandal and aloe paste. They shone in radiance, like pillars made of rock. On seeing them, as large as elephants, with shoulders and chests as tall and broad as shala trees, the inhabitants of Magadha were astounded. Those bulls among men, immensely strong, passed through three rooms that were full of people and proudly arrived before the king.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At that time, the priests were showing homage to King Jarasandha. While he was seated on an elephant, they carried the sacred ﬁre around him. O descendant of the Bharata lineage! The three of them entered, ready to do battle with Jarasandha, dressed as devoted snatakas, and with no weapons other than their bare arms. They saw the supremely prosperous shops, stocked with food and garlands, swollen with objects of every quality and with every object that satisﬁes desire. Having witnessed the prosperity along the streets, those supreme of men, Krishna, Bhima and Dhananjaya, proceeded along the royal road and those immensely powerful ones forcibly grabbed garlands from a garland-maker. Then, attired in many-coloured garments, adorned with garlands and beautiful earrings, they entered the palace of the wise Jarasandha, like lions from the Himalayas looking at a pen full of cattle. O great king! The arms of those mighty-armed warriors were smeared with sandal and aloe paste. They shone in radiance, like pillars made of rock. On seeing them, as large as elephants, with shoulders and chests as tall and broad as shala trees, the inhabitants of Magadha were astounded. Those bulls among men, immensely strong, passed through three rooms that were full of people and proudly arrived before the king.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Jarasandha arose and greeted them and showed them homage with water to wash the feet, gifts due to a guest and a mixture with honey{28}, as is prescribed. Having shown these courtesies, the lordly king welcomed them. O king! This was because this was the vow, famous on earth, which he followed. Whenever he learned that snataka brahmanas had arrived, even if it was the middle of the night, the king who was a conqueror arose to greet them. On seeing their strange attire, Jarasandha, supreme among kings, approached them and was astonished. O supreme among the Bharata lineage! As soon as those bulls among men and slayers of enemies saw Jarasandha, they spoke thus. “O king! May there be health and welfare for you in everything.” O tiger among kings! Having said this, they stood there, looking at the king and at each other. O Indra among kings! Jarasandha then told the Pandavas and the Yadava, who were disguised as brahmanas, “Please be seated.” Blazing in radiance like ﬁres at a sacriﬁce, those three bulls among men then took their seats.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Jarasandha arose and greeted them and showed them homage with water to wash the feet, gifts due to a guest and a mixture with honey{28}, as is prescribed. Having shown these courtesies, the lordly king welcomed them. O king! This was because this was the vow, famous on earth, which he followed. Whenever he learned that snataka brahmanas had arrived, even if it was the middle of the night, the king who was a conqueror arose to greet them. On seeing their strange attire, Jarasandha, supreme among kings, approached them and was astonished. O supreme",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "among the Bharata lineage! As soon as those bulls among men and slayers of enemies saw Jarasandha, they spoke thus",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@among_the_bharata_lineage",
+              "text": "“O king! May there be health and welfare for you in everything.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O tiger among kings! Having said this, they stood there, looking at the king and at each other. O Indra among kings! Jarasandha then told the Pandavas and the Yadava, who were disguised as brahmanas,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Please be seated.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Blazing in radiance like ﬁres at a sacriﬁce, those three bulls among men then took their seats.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘O descendant of the Kuru lineage! Then King Jarasandha, always devoted to the truth, spoke to them in a tone of disapproval, because of the way they were dressed, “This much is known to me. Nowhere on earth, nowhere in the world of men, do brahmanas who observe the snataka vow ever outwardly adorn themselves with garlands or fragrant paste. Who are you, thus adorned in ﬂowers, though your arms bear the marks of wielding bowstrings? You seem to be brahmanas, but you bear the proud signs of kshatriyas. You are dressed in colourful attire and you outwardly sport garlands and fragrant paste. Tell me who you truly are, truth is the ornament of kings. Why did you break down the Chaitya mountain and enter my abode by means other than through the proper gate? Are you so fearless as to insult the king? This act does not mesh with your purported character. So tell me what your intention is. The brahmana’s valour is particularly in his speech. You have arrived before me in this inappropriate way and you decline to accept the homage I offer you in courtesy. Why have you come to me?” At these words, the great-souled Krishna, skilled in the use of words, replied in words that were both serene and grave. “O king! Know that brahmanas, kshatriyas and vaishyas all possess the right to observe snataka vows. There are rules that are general and those that are speciﬁc. A kshatriya who observes speciﬁc rules always obtains great prosperity. Good fortune is certain for those who adorn themselves with ﬂowers and we have therefore worn them. A kshatriya’s valour is in his arms, his valour is not in the power of speech. O son of Brihadratha! It has thus been said that his speech is never bold. O king! Brahma has placed his own energy in the arms of kshatriyas. If you wish to witness it, there is no doubt that you will witness it today. The wise always enter the house of a well-wisher through a gate, but use that which is not a gate for the house of an enemy. That is the reason we have avoided your gate. Know that whenever we enter the house of an enemy to accomplish an objective, we never accept his homage. That is our eternal vow.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Kuru lineage! Then King Jarasandha, always devoted to the truth, spoke to them in a tone of disapproval, because of the way they were dressed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“This much is known to me. Nowhere on earth, nowhere in the world of men, do brahmanas who observe the snataka vow ever outwardly adorn themselves with garlands or fragrant paste. Who are you, thus adorned in ﬂowers, though your arms bear the marks of wielding bowstrings? You seem to be brahmanas, but you bear the proud signs of kshatriyas. You are dressed in colourful attire and you outwardly sport garlands and fragrant paste. Tell me who you truly are, truth is the ornament of kings. Why did you break down the Chaitya mountain and enter my abode by means other than through the proper gate? Are you so fearless as to insult the king? This act does not mesh with your purported character. So tell me what your intention is. The brahmana’s valour is particularly in his speech. You have arrived before me in this inappropriate way and you decline to accept the homage I offer you in courtesy. Why have you come to me?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At these words, the great-souled Krishna, skilled in the use of words, replied in words that were both serene and grave.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O king! Know that brahmanas, kshatriyas and vaishyas all possess the right to observe snataka vows. There are rules that are general and those that are speciﬁc. A kshatriya who observes speciﬁc rules always obtains great prosperity. Good fortune is certain for those who adorn themselves with ﬂowers and we have therefore worn them. A kshatriya’s valour is in his arms, his valour is not in the power of speech. O son of Brihadratha! It has thus been said that his speech is never bold. O king! Brahma has placed his own energy in the arms of kshatriyas. If you wish to witness it, there is no doubt that you will witness it today. The wise always enter the house of a well-wisher through a gate, but use that which is not a gate for the house of an enemy. That is the reason we have avoided your gate. Know that whenever we enter the house of an enemy to accomplish an objective, we never accept his homage. That is our eternal vow.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "245": {
+      "global_number": 245,
+      "local_number": 20,
+      "num_shlokas": 34,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Jarasandha said, “I do not recall that I have ever exhibited any enmity towards you. After reﬂection, I cannot see any evil act I have done towards you. O brahmanas! If I have never done an evil act and am innocent, why do you regard me as an enemy? Tell me honestly, because that is the principle followed by the truthful. There is no doubt that if injury is done to an innocent man, there is a violation of dharma and one’s mind suffers, even if one is a kshatriya. A man may be knowledgeable in the ways of dharma and may be great in the rigid observance of vows, but if he acts perversely and wickedly, he hurts his own welfare. You know that in the three worlds, I am supreme among righteous ones in the practice of the dharma of kshatriyas. I never hurt my subjects. Therefore, you speak in delusion.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarasandha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarasandha",
+              "text": "“I do not recall that I have ever exhibited any enmity towards you. After reﬂection, I cannot see any evil act I have done towards you. O brahmanas! If I have never done an evil act and am innocent, why do you regard me as an enemy? Tell me honestly, because that is the principle followed by the truthful. There is no doubt that if injury is done to an innocent man, there is a violation of dharma and one’s mind suffers, even if one is a kshatriya. A man may be knowledgeable in the ways of dharma and may be great in the rigid observance of vows, but if he acts perversely and wickedly, he hurts his own welfare. You know that in the three worlds, I am supreme among righteous ones in the practice of the dharma of kshatriyas. I never hurt my subjects. Therefore, you speak in delusion.”",
+              "color": "#D94EA7",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Vasudeva replied, “O great king! There is someone from a lineage who has to undertake the tasks that lineage requires. The three of us have acted against you at his request. O king! The kshatriyas who live in this world have been abducted by you. Having committed this cruel act, how can you think of yourself as innocent? O supreme among kings! How can a king do violence to honest kings? Having oppressed the kings, you wish to sacriﬁce them to Rudra. O Brihadratha’s son! This act of yours may touch us too. We follow dharma and are capable of protecting dharma. Human sacriﬁces have never been seen. Why do you wish to sacriﬁce humans to the god Shankara? You are of the same varna. Yet, you are treating those of the same varna as animals. O Jarasandha! Is there any other mind that is as perverted as yours? We help all those who are distressed. For the protection of our kin, we have come here to counter you, the one who is acting so as to destroy our kin. O king! If you think that there is no man among the kshatriyas of this world who can do this, your mind is greatly deluded. O king! Which kshatriya who knows the nature of his own noble birth will not wish to attain unparalleled heaven by falling in the ﬁeld of battle? O ruler of Magadha! With their minds on heaven, know that kshatriyas of the world are consecrated in the sacriﬁce of battles and worship them. O king! Victory is the womb of heaven. Great fame is the womb of heaven. Austerities are the womb of heaven and so is the straight route of battle. These are the qualities of the ever-victorious Indra. It is by being focussed on this that Shatakratu defeated the demons and is the protector of the world. What can be a better road to heaven than a battle with someone like you, since you are proud of the strength of your extensive Magadha army? O king! Do not deprecate others. Valour exists in every man. O lord of men! You are superior only if you don’t know of valour equal to yours and as long as glory equal to yours is not known. O king! Listen to me when I say we are capable of equalling it. O Magadha! Conquer your ego and pride when you are in the presence of your equals. Do not go to Yama’s abode with your sons, your ministers and your armies. Dambhodbhava, Kartyavirya, Uttara and Brihadratha—these kings and their forces were destroyed here, because they ignored their superiors. We who wish to liberate the captive kings are not self-proclaimed brahmanas. I am Shouri Hrishikesha{29} and these two brave men are the two Pandavas. O king! O Magadha! Stand ﬁrm. We are challenging you. Either liberate all the kings or go to Yama’s abode.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O great king! There is someone from a lineage who has to undertake the tasks that lineage requires. The three of us have acted against you at his request. O king! The kshatriyas who live in this world have been abducted by you. Having committed this cruel act, how can you think of yourself as innocent? O supreme among kings! How can a king do violence to honest kings? Having oppressed the kings, you wish to sacriﬁce them to Rudra. O Brihadratha’s son! This act of yours may touch us too. We follow dharma and are capable of protecting dharma. Human sacriﬁces have never been seen. Why do you wish to sacriﬁce humans to the god Shankara? You are of the same varna. Yet, you are treating those of the same varna as animals. O Jarasandha! Is there any other mind that is as perverted as yours? We help all those who are distressed. For the protection of our kin, we have come here to counter you, the one who is acting so as to destroy our kin. O king! If you think that there is no man among the kshatriyas of this world who can do this, your mind is greatly deluded. O king! Which kshatriya who knows the nature of his own noble birth will not wish to attain unparalleled heaven by falling in the ﬁeld of battle? O ruler of Magadha! With their minds on heaven, know that kshatriyas of the world are consecrated in the sacriﬁce of battles and worship them. O king! Victory is the womb of heaven. Great fame is the womb of heaven. Austerities are the womb of heaven and so is the straight route of battle. These are the qualities of the ever-victorious Indra. It is by being focussed on this that Shatakratu defeated the demons and is the protector of the world. What can be a better road to heaven than a battle with someone like you, since you are proud of the strength of your extensive Magadha army? O king! Do not deprecate others. Valour exists in every man. O lord of men! You are superior only if you don’t know of valour equal to yours and as long as glory equal to yours is not known. O king! Listen to me when I say we are capable of equalling it. O Magadha! Conquer your ego and pride when you are in the presence of your equals. Do not go to Yama’s abode with your sons, your ministers and your armies. Dambhodbhava, Kartyavirya, Uttara and Brihadratha—these kings and their forces were destroyed here, because they ignored their superiors. We who wish to liberate the captive kings are not self-proclaimed brahmanas. I am Shouri Hrishikesha{29} and these two brave men are the two Pandavas. O king! O Magadha! Stand ﬁrm. We are challenging you. Either liberate all the kings or go to Yama’s abode.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Jarasandha said, “I never take a king until I have vanquished him. Who is here who has not been vanquished? Whom have I not conquered? O Krishna! It has been said that the livelihood and dharma of kshatriyas is to bring others under his sway through valour and then do as he pleases. O Krishna! These kings have been collected for a divine purpose. Remembering the duty of kshatriyas, how can I free them today out of fear? I am prepared to ﬁght —army against army, one against one, or one against two or three, all at the same time, or separately.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarasandha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarasandha",
+              "text": "“I never take a king until I have vanquished him. Who is here who has not been vanquished? Whom have I not conquered? O Krishna! It has been said that the livelihood and dharma of kshatriyas is to bring others under his sway through valour and then do as he pleases. O Krishna! These kings have been collected for a divine purpose. Remembering the duty of kshatriyas, how can I free them today out of fear? I am prepared to ﬁght —army against army, one against one, or one against two or three, all at the same time, or separately.”",
+              "color": "#D94EA7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘Having said this, the king gave orders that Sahadeva should be instated{30} and readied himself to do battle with those whose deeds were terrible. O bull among the Bharata lineage! O king! When the time for battle approached, the king remembered his generals Koushika and Chitrasena, whose names in this world had been Hamsa and Dibhaka. These were names that had earlier been renowned and worshipped by all the people in the world of men. O king! O tiger among men! And the lord Shouri, supreme among strong ones, with a valour equal to that of tigers, also remembered. This did the truthful Achyuta remember. It had been destined that Jarasandha would be killed by the valorous Bhima. Madhusudana, the younger brother of Haladhara, foremost among those who have controlled themselves, wished to show respect to Brahma and did not wish to kill him himself.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having said this, the king gave orders that Sahadeva should be instated{30} and readied himself to do battle with those whose deeds were terrible. O bull among the Bharata lineage! O king! When the time for battle approached, the king remembered his generals Koushika and Chitrasena, whose names in this world had been Hamsa and Dibhaka. These were names that had earlier been renowned and worshipped by all the people in the world of men. O king! O tiger among men! And the lord Shouri, supreme among strong ones, with a valour equal to that of tigers, also remembered. This did the truthful Achyuta remember. It had been destined that Jarasandha would be killed by the valorous Bhima. Madhusudana, the younger brother of Haladhara, foremost among those who have controlled themselves, wished to show respect to Brahma and did not wish to kill him himself.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "246": {
+      "global_number": 246,
+      "local_number": 21,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Then Adhokshaja{31}, descendant of the Yadu lineage and eloquent in speech, spoke to King Jarasandha, who had resolved to do battle. “O king! With which one of us three have you made up your mind to ﬁght? Who among us should be ready for the battle?” O king! Having been thus addressed by Krishna, the immensely radiant Magadha Jarasandha decided to do battle with Bhimasena. The priest brought chief herbs for alleviating pain and restoring consciousness to Jarasandha, who was impatient for the ﬁght. A famous and learned brahmana performed the benedictions. In accordance with the dharma of kshatriyas, Jarasandha dressed himself appropriately. He removed his crown and tied up his hair. Jarasandha arose like an ocean that bursts through the shoreline. The intelligent king spoke to Bhima, whose valour was terrible. “O Bhima! I will ﬁght with you. It is better to be vanquished by a superior one.” Having said this, the immensely energetic Jarasandha, conqueror of enemies, rushed at Bhimasena, like the demon Bali once rushed at Shakra.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then Adhokshaja{31}, descendant of the Yadu lineage and eloquent in speech, spoke to King Jarasandha, who had resolved to do battle.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O king! With which one of us three have you made up your mind to ﬁght? Who among us should be ready for the battle?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! Having been thus addressed by Krishna, the immensely radiant Magadha Jarasandha decided to do battle with Bhimasena. The priest brought chief herbs for alleviating pain and restoring consciousness to Jarasandha, who was impatient for the ﬁght. A famous and learned brahmana performed the benedictions. In accordance with the dharma of kshatriyas, Jarasandha dressed himself appropriately. He removed his crown and tied up his hair. Jarasandha arose like an ocean that bursts through the shoreline.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The intelligent king spoke to Bhima, whose valour was terrible",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_intelligent_king",
+              "text": "“O Bhima! I will ﬁght with you. It is better to be vanquished by a superior one.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, the immensely energetic Jarasandha, conqueror of enemies, rushed at Bhimasena, like the demon Bali once rushed at Shakra.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘After consultations with Krishna, the powerful Bhimasena had also had benedictions performed and, eager to ﬁght, advanced towards Jarasandha. Those two supreme warriors, tigers among men and armed only with their bare arms, engaged each other, extremely eager and each desiring to defeat the other. The sounds of grasping, holding and releasing of the arms then resounded with a terrible roar, like the roar of thunderbolts striking mountains. Both of them were the strongest among those who were strong and were supreme in their eagerness. Desiring victory, each sought to exploit weaknesses in the other. O king! This duel between the powerful ones was like that between Vasava and Vritra and the terrible duel sometimes drove away the crowds that were near{32}. They pulled each other forward and broke away from each other’s holds. They threw the other one down and to the sides, dragging and grabbing the thighs. They insulted each other in loud words. They struck each other with rocklike blows. With broad shoulders and long arms, the two skilled ﬁghters rained blows on each other with arms that were like iron clubs.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After consultations with Krishna, the powerful Bhimasena had also had benedictions performed and, eager to ﬁght, advanced towards Jarasandha. Those two supreme warriors, tigers among men and armed only with their bare arms, engaged each other, extremely eager and each desiring to defeat the other. The sounds of grasping, holding and releasing of the arms then resounded with a terrible roar, like the roar of thunderbolts striking mountains. Both of them were the strongest among those who were strong and were supreme in their eagerness. Desiring victory, each sought to exploit weaknesses in the other. O king! This duel between the powerful ones was like that between Vasava and Vritra and the terrible duel sometimes drove away the crowds that were near{32}. They pulled each other forward and broke away from each other’s holds. They threw the other one down and to the sides, dragging and grabbing the thighs. They insulted each other in loud words. They struck each other with rocklike blows. With broad shoulders and long arms, the two skilled ﬁghters rained blows on each other with arms that were like iron clubs.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The duel started on the ﬁrst day of the month of Kartika. Ceaselessly, it went on day and night. The greatsouled ﬁghters were still engaged on the thirteenth day. But on the night of the fourteenth day, the Magadha withdrew, as he was exhausted. O king! On seeing that the king was tired, Janardana spoke, as if to Bhima of the terrible deeds{33}. “O Kounteya{34}! One should not press down on an enemy who is weakened in battle. If pressed down at such a time, he might completely give up his soul. O Kounteya! Therefore, you should not press down upon the king. O bull among the Bharatas! Fight him with your arms, so that he can be an equal.” From these words of Krishna, the Pandava{35}, the destroyer of enemy warriors, got to know Jarasandha’s weakness and determined to kill him. Vrikodara, descendant of the Kuru lineage and chief among those who are strong, then seized the unvanquished Jarasandha, with the intention of vanquishing him.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The duel started on the ﬁrst day of the month of Kartika. Ceaselessly, it went on day and night. The greatsouled ﬁghters were still engaged on the thirteenth day. But on the night of the fourteenth day, the Magadha withdrew, as he was exhausted. O king! On seeing that the king was tired, Janardana spoke, as if to Bhima of the terrible deeds{33}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Kounteya{34}! One should not press down on an enemy who is weakened in battle. If pressed down at such a time, he might completely give up his soul. O Kounteya! Therefore, you should not press down upon the king. O bull among the Bharatas! Fight him with your arms, so that he can be an equal.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "From these words of Krishna, the Pandava{35}, the destroyer of enemy warriors, got to know Jarasandha’s weakness and determined to kill him. Vrikodara, descendant of the Kuru lineage and chief among those who are strong, then seized the unvanquished Jarasandha, with the intention of vanquishing him.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "247": {
+      "global_number": 247,
+      "local_number": 22,
+      "num_shlokas": 58,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘With his mind ﬁrmly set on the desire of killing Jarasandha, Bhimasena then spoke to Krishna of the Yadava lineage, “O Krishna! O tiger among the Yadu lineage! Now that I have girded up my loincloth, this evil one shouldn’t be spared by me of his life.” Having been thus addressed, Krishna, tiger among men, then replied to Vrikodara, so as to rush him, because he wanted to see Jarasandha dead, “O Bhima! Then quickly show us the spirit that you have got from the gods and the power you have got from the wind{36}. Show it on Jarasandha.” At these words, the immensely strong Bhima, the destroyer of enemies, lifted up the powerful Jarasandha. O bull among the Bharata lineage! O king! He whirled him around one hundred times. Then throwing him down on his knee, he broke his back into two. Trampling him down, he roared out aloud. When Jarasandha was thus pressed down and the Pandava roared, there was such a loud roar that all beings were terriﬁed. All those from Magadha were benumbed and expectant women aborted, on hearing Bhimasena and Jarasandha’s roars. Has the Himalaya Mountain, or the earth, been torn apart? On hearing Bhimasena’s roars, this is what the residents of Magadha thought. At night, the destroyers of enemies left the king’s dead body at the gate of the palace, as if he was asleep, and left.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘With his mind ﬁrmly set on the desire of killing Jarasandha,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhimasena then spoke to Krishna of the Yadava lineage",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhimasena_then",
+              "text": "“O Krishna! O tiger among the Yadu lineage! Now that I have girded up my loincloth, this evil one shouldn’t be spared by me of his life.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, Krishna, tiger among men, then replied to Vrikodara, so as to rush him, because he wanted to see Jarasandha dead,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Bhima! Then quickly show us the spirit that you have got from the gods and the power you have got from the wind{36}. Show it on Jarasandha.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At these words, the immensely strong Bhima, the destroyer of enemies, lifted up the powerful Jarasandha. O bull among the Bharata lineage! O king! He whirled him around one hundred times. Then throwing him down on his knee, he broke his back into two. Trampling him down, he roared out aloud. When Jarasandha was thus pressed down and the Pandava roared, there was such a loud roar that all beings were terriﬁed. All those from Magadha were benumbed and expectant women aborted, on hearing Bhimasena and Jarasandha’s roars. Has the Himalaya Mountain, or the earth, been torn apart? On hearing Bhimasena’s roars, this is what the residents of Magadha thought. At night, the destroyers of enemies left the king’s dead body at the gate of the palace, as if he was asleep, and left.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Krishna had Jarasandha’s chariot, with pennants, yoked. He asked the two brothers to ascend it and set his relatives{37} free. Having been freed from their great fear, the kings and lords of the earth presented many gems to Krishna, worthy of bearing gems. Unhurt, armed with weapons and vanquishing his enemy, he{38} mounted the divine chariot and left Girivraja with the kings. With the two brothers as warriors{39} and with Krishna as the charioteer, the chariot was incapable of being conquered by all the kings and seemed to be always killing. With the two warriors Bhima and Arjuna riding in it and with Krishna as the charioteer, the beautiful chariot was radiant and invincible to all archers. It was on this chariot that Shakra and Vishnu had fought in the battle that Taraka{40} had caused. It was this chariot that Krishna ascended and left. It glittered like molten gold and was garlanded with nets of small bells. It thundered like rain-bearing clouds. It was always victorious in battle and it always killed its enemies. It was on this chariot that Shakra had killed ninety-nine demons. Having obtained this chariot, those bulls among men rejoiced.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Krishna had Jarasandha’s chariot, with pennants, yoked. He asked the two brothers to ascend it and set his relatives{37} free. Having been freed from their great fear, the kings and lords of the earth presented many gems to Krishna, worthy of bearing gems. Unhurt, armed with weapons and vanquishing his enemy, he{38} mounted the divine chariot and left Girivraja with the kings. With the two brothers as warriors{39} and with Krishna as the charioteer, the chariot was incapable of being conquered by all the kings and seemed to be always killing. With the two warriors Bhima and Arjuna riding in it and with Krishna as the charioteer, the beautiful chariot was radiant and invincible to all archers. It was on this chariot that Shakra and Vishnu had fought in the battle that Taraka{40} had caused. It was this chariot that Krishna ascended and left. It glittered like molten gold and was garlanded with nets of small bells. It thundered like rain-bearing clouds. It was always victorious in battle and it always killed its enemies. It was on this chariot that Shakra had killed ninety-nine demons. Having obtained this chariot, those bulls among men rejoiced.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then, on seeing the mighty-armed Krishna and his two brothers on the chariots, the citizens of Magadha were amazed. O descendant of the Bharata lineage! Divine horses, with the speed of the wind, were yoked to the chariot. When Krishna ascended it, it looked extremely beautiful. On that supreme chariot there was a ﬂagstaff that did not seem to be attached to it at all. It was divine in origin, beautiful and with radiance that was like that of Indra’s weapons. It could be seen from a distance of one yojana. Krishna thought of Garuda and he immediately arrived, the instant he had been thought of, like the tall pillar of a temple{41}. Garuda, eater of serpents, then sat on that supreme chariot on the ﬂagstaff, together with many other blazing beings that had their mouths open and roared loudly. Incapable of being seen by those beings, his blazing energy was like the midday sun with its one thousand rays. O king! That beautiful ﬂagstaff never knocked against a tree. It was never injured by weapons. Though it was visible to gods and men, it was divine in origin. Achyuta, tiger among men, left on that divine chariot with the two Pandavas, with the sound like that of thunder. King Vasu had obtained it from Vasava and Brihadratha from Vasu. In due course, it had passed from Brihadratha to the king who was Brihadratha’s son. The mighty-armed and immensely illustrious Pundarikaksha came out from Girivraja and stopped on the level ground outside.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then, on seeing the mighty-armed Krishna and his two brothers on the chariots, the citizens of Magadha were amazed. O descendant of the Bharata lineage! Divine horses, with the speed of the wind, were yoked to the chariot. When Krishna ascended it, it looked extremely beautiful. On that supreme chariot there was a ﬂagstaff that did not seem to be attached to it at all. It was divine in origin, beautiful and with radiance that was like that of Indra’s weapons. It could be seen from a distance of one yojana. Krishna thought of Garuda and he immediately arrived, the instant he had been thought of, like the tall pillar of a temple{41}. Garuda, eater of serpents, then sat on that supreme chariot on the ﬂagstaff, together with many other blazing beings that had their mouths open and roared loudly. Incapable of being seen by those beings, his blazing energy was like the midday sun with its one thousand rays. O king! That beautiful ﬂagstaff never knocked against a tree. It was never injured by weapons. Though it was visible to gods and men, it was divine in origin. Achyuta, tiger among men, left on that divine chariot with the two Pandavas, with the sound like that of thunder. King Vasu had obtained it from Vasava and Brihadratha from Vasu. In due course, it had passed from Brihadratha to the king who was Brihadratha’s son. The mighty-armed and immensely illustrious Pundarikaksha came out from Girivraja and stopped on the level ground outside.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘O king! All the citizens, with the brahmanas in the forefront, approached him there to show homage, in accordance with the prescribed rites. The kings who had been liberated from their bondage, worshipped Madhusudana with words of praise. “O mighty-armed! O son of Devaki! Aided by the strength of Bhima and Arjuna, it is not surprising that the protection of dharma should be vested in you. Today, you have accomplished the task of rescuing kings who had been miserably immersed in Jarasandha’s terrible mire of a lake. O Vishnu! O supreme among men! We languished in that terrible mountain fortress. It is our destiny that we have been freed and you have obtained blazing fame. O tiger among men! O bull among men! Please tell us what we should do. However difﬁcult may be the task, know that the kings will accomplish it.” Reassuring them, the great-minded Hrishikesha said, “Yudhishthira wishes to perform the rajasuya. He who lives by dharma wishes to become a sovereign emperor. All of you must aid him in the sacriﬁce.” O bull among the Bharata lineage! Then all those kings gave their words with happy hearts. The lords of the earth then made Dasharha{42} share in their riches. Though disinclined, Govinda accepted, out of affection towards them.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! All the citizens, with the brahmanas in the forefront, approached him there to show homage, in accordance with the prescribed rites. The kings who had been liberated from their bondage, worshipped Madhusudana with words of praise.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O mighty-armed! O son of Devaki! Aided by the strength of Bhima and Arjuna, it is not surprising that the protection of dharma should be vested in you. Today, you have accomplished the task of rescuing kings who had been miserably immersed in Jarasandha’s terrible mire of a lake. O Vishnu! O supreme among men! We languished in that terrible mountain fortress. It is our destiny that we have been freed and you have obtained blazing fame. O tiger among men! O bull among men! Please tell us what we should do. However difﬁcult may be the task, know that the kings will accomplish it.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Reassuring them,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the great-minded Hrishikesha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_great_minded_hrishikesha",
+              "text": "“Yudhishthira wishes to perform the rajasuya. He who lives by dharma wishes to become a sovereign emperor. All of you must aid him in the sacriﬁce.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O bull among the Bharata lineage! Then all those kings gave their words with happy hearts. The lords of the earth then made Dasharha{42} share in their riches. Though disinclined, Govinda accepted, out of affection towards them.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘The maharatha Sahadeva, Jarasandha’s son, came out with his relatives and his advisers, with the priest at the forefront. Sahadeva bowed down low before Vasudeva, god among men, and bowed down in homage, with presents of many gems. Krishna provided assurances to the frightened one. Then and there, he instated Jarasandha’s son{43}. Having been allied with Krishna and having obtained homage from the two Parthas{44}, the intelligent king again entered Brihadratha’s city. The lotus-eyed Krishna, resplendent with supreme radiance and laden with many riches, left with the two Parthas.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The maharatha Sahadeva, Jarasandha’s son, came out with his relatives and his advisers, with the priest at the forefront. Sahadeva bowed down low before Vasudeva, god among men, and bowed down in homage, with presents of many gems. Krishna provided assurances to the frightened one. Then and there, he instated Jarasandha’s son{43}. Having been allied with Krishna and having obtained homage from the two Parthas{44}, the intelligent king again entered Brihadratha’s city. The lotus-eyed Krishna, resplendent with supreme radiance and laden with many riches, left with the two Parthas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Achuyta and the two Pandavas went to Indraprastha. On meeting Dharmaraja, he happily said, “O supreme among kings! Through good fortune, Bhima has killed the mighty Jarasandha. The kings who were imprisoned have been set free. O descendant of the Bharata lineage! Through good fortune, the skilled Bhimasena and Dhananjaya are well. They have returned unharmed to their own city.” Then Yudhishthira worshipped Krishna, as he deserved. He embraced Bhima and Arjuna in delight. Having eliminated Jarasandha and obtained victory through his brothers, Ajatashatru enjoyed himself with his brothers. The Pandava{45} and his brothers then went to the freed kings{46} and in accordance with age, showed them homage and paid their respects. They then gave them leave to depart. Having been thus instructed by Yudhishthira, the kings swiftly left for their own respective kingdoms on their different mounts, happy in their hearts. Thus did the immensely intelligent Janardana, tiger among men, get his enemy Jarasandha killed through the Pandavas. O descendant of the Bharata lineage! Having ensured Jarasandha’s killing through his intelligence, that conqueror of enemies{47} then took leave from Dharmaraja, Pritha and Krishna{48} and from Subhadra, Bhimasena, Phalguna{49} and the twins. Having taken leave of Dhoumya, he prepared to leave for his own city in that chief divine chariot, radiant as the bright morning sun. It had been given to him by Dharmaraja and it thundered over the directions. O bull among the Bharata lineage! Led by Yudhishthira, the Pandavas circumambulated Krishna, whose deeds never decay. O descendant of the Bharata lineage! When the illustrious Krishna, Devaki’s son, departed, the Pandavas obtained great glory. They had won a great victory and had provided security to the kings. This deed added to that. O king! They themselves found great joy in Droupadi. The king{50} was then famous for the protection of his kingdom and in accordance with dharma, did whatever was consistent with dharma, kama and artha.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Achuyta and the two Pandavas went to Indraprastha.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "On meeting Dharmaraja, he happily said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O supreme among kings! Through good fortune, Bhima has killed the mighty Jarasandha. The kings who were imprisoned have been set free. O descendant of the Bharata lineage! Through good fortune, the skilled Bhimasena and Dhananjaya are well. They have returned unharmed to their own city.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then Yudhishthira worshipped Krishna, as he deserved. He embraced Bhima and Arjuna in delight. Having eliminated Jarasandha and obtained victory through his brothers, Ajatashatru enjoyed himself with his brothers. The Pandava{45} and his brothers then went to the freed kings{46} and in accordance with age, showed them homage and paid their respects. They then gave them leave to depart. Having been thus instructed by Yudhishthira, the kings swiftly left for their own respective kingdoms on their different mounts, happy in their hearts. Thus did the immensely intelligent Janardana, tiger among men, get his enemy Jarasandha killed through the Pandavas. O descendant of the Bharata lineage! Having ensured Jarasandha’s killing through his intelligence, that conqueror of enemies{47} then took leave from Dharmaraja, Pritha and Krishna{48} and from Subhadra, Bhimasena, Phalguna{49} and the twins. Having taken leave of Dhoumya, he prepared to leave for his own city in that chief divine chariot, radiant as the bright morning sun. It had been given to him by Dharmaraja and it thundered over the directions. O bull among the Bharata lineage! Led by Yudhishthira, the Pandavas circumambulated Krishna, whose deeds never decay. O descendant of the Bharata lineage! When the illustrious Krishna, Devaki’s son, departed, the Pandavas obtained great glory. They had won a great victory and had provided security to the kings. This deed added to that. O king! They themselves found great joy in Droupadi. The king{50} was then famous for the protection of his kingdom and in accordance with dharma, did whatever was consistent with dharma, kama and artha.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

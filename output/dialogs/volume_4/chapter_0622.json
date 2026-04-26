@@ -1,0 +1,56 @@
+{
+  "chapter": 622,
+  "local": 26,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Drona was immensely valorous and knew everything about artha. He then spoke. “Those who are like them never face destruction or defeat. They are brave and possess learning. They possess intelligence and are in control of their senses. They are knowledgeable about dharma and are grateful. They are devoted to Dharmaraja. They know the nature of policy, dharma and artha. He{3} is like an attentive father towards them. The eldest brother is always established in dharma and follows the truth. He obeys his elders. O king! The great-souled brothers follow their brother. Ajatashatru{4} is humble and follows his brothers. Why should Partha{5} not follow a conduct that ensures the welfare of those obedient and great-souled ones? That is the reason they have been waiting for this time to arrive. I have perceived in my mind that such persons cannot have been destroyed. Therefore, waste no time and decide on the course of action that must be followed. Think about the right course of action and think about where they might be residing. The sons of Pandu are always self-controlled. They will be difﬁcult to detect. It is certain that they are brave. They do not commit sin and are devoted to austerities. Partha is pure in soul and possesses all the qualities. He is truthful, virtuous and upright. He is like a mass of energy and can blind anyone's eyes. Knowing thus, let us search for them again. Let us use brahmanas, spies, siddhas{6} and all others who know them.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Drona was immensely valorous and knew everything about artha. He then spoke. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Those who are like them never face destruction or defeat. They are brave and possess learning. They possess intelligence and are in control of their senses. They are knowledgeable about dharma and are grateful. They are devoted to Dharmaraja. They know the nature of policy, dharma and artha. He{3} is like an attentive father towards them. The eldest brother is always established in dharma and follows the truth. He obeys his elders. O king! The great-souled brothers follow their brother. Ajatashatru{4} is humble and follows his brothers. Why should Partha{5} not follow a conduct that ensures the welfare of those obedient and great-souled ones? That is the reason they have been waiting for this time to arrive. I have perceived in my mind that such persons cannot have been destroyed. Therefore, waste no time and decide on the course of action that must be followed. Think about the right course of action and think about where they might be residing. The sons of Pandu are always self-controlled. They will be difﬁcult to detect. It is certain that they are brave. They do not commit sin and are devoted to austerities. Partha is pure in soul and possesses all the qualities. He is truthful, virtuous and upright. He is like a mass of energy and can blind anyone's eyes. Knowing thus, let us search for them again. Let us use brahmanas, spies, siddhas{6} and all others who know them.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

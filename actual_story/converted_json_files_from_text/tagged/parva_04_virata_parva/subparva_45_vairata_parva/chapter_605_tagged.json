@@ -1,0 +1,121 @@
+{
+  "chapter_number": 605,
+  "global_number": 605,
+  "local_number": 9,
+  "num_shlokas": 15,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Having donned the supreme garments of a cowherd, Sahadeva also arrived. He adopted their language and presented himself before Virata. The king saw that resplendent bull among men arriving, and advancing towards the descendant of the Kuru lineage, asked him, “Whom do you belong to and where have you come from? O son{71}! What do you wish for? O bull among men! Tell me truthfully. I have not seen you before.” When he arrived before the king, Sahadeva, the destroyer of enemies, spoke in a voice that was as deep as the clouds. “I am a vaishya by the name of Arishtanemi. I used to number the cows for the bulls among the Kurus. O supreme one on earth! I wish to reside with you. I do not know where the Parthas, lions among kings, are. I know of no other means of livelihood. O king! I will not ﬁnd pleasure in serving anyone other than you.” Virata replied, “You must be a brahmana or a kshatriya. You are as handsome as a lord of the earth, with the frontiers of the ocean. O destroyer of enemies! Tell me the truth. The duties of a vaishya are not appropriate for you. From what king’s kingdom have you arrived here? What kind of craftsmanship do you wish to pursue? In what capacity will you always reside with us? Tell me what salary you wish to be paid.” Sahadeva said, “King Yudhishthira is the eldest among the ﬁve sons of Pandu. He possessed herds of eight hundred, one thousand, ten thousand, another ten thousand and another twenty thousand cows. I was the one who numbered his cows and I was known by the name of Tantipala. Nothing is unknown to me about numbering—the past, the present and the future, and within a distance of ten yojanas{72}. The great-souled one, Yudhishthira, king of the Kuru lineage, was well acquainted with my skills and was always satisﬁed with me. I know how cattle can be multiplied swiftly and how one ensures that they never suffer from disease. These types of skills have always been known to me. Such craftsmanship has always been established in me. O king! I know the auspicious marks of bulls, the smell of whose urine makes barren cows give birth.” Virata replied, “I possess one hundred thousand. They have been classiﬁed according to colours and other qualities that are yet undetected. I put you in charge of the animals and the herdsmen. Henceforth, let my animals be in your care.” O lord of the earth! Thus, unknown to the king, that supreme among men lived there happily. No one else found out who he was. He was also paid a salary, according to his wishes.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Having donned the supreme garments of a cowherd, Sahadeva also arrived. He adopted their language and presented himself before Virata. The king",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "saw that resplendent bull among men arriving, and advancing towards the descendant of the Kuru lineage, asked him",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@saw_that_resplendent_bull",
+          "text": "“Whom do you belong to and where have you come from? O son{71}! What do you wish for? O bull among men! Tell me truthfully. I have not seen you before.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "When he arrived before the king, Sahadeva, the destroyer of enemies, spoke in a voice that was as deep as the clouds.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“I am a vaishya by the name of Arishtanemi. I used to number the cows for the bulls among the Kurus. O supreme one on earth! I wish to reside with you. I do not know where the Parthas, lions among kings, are. I know of no other means of livelihood. O king! I will not ﬁnd pleasure in serving anyone other than you.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Virata replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata",
+          "text": "“You must be a brahmana or a kshatriya. You are as handsome as a lord of the earth, with the frontiers of the ocean. O destroyer of enemies! Tell me the truth. The duties of a vaishya are not appropriate for you. From what king’s kingdom have you arrived here? What kind of craftsmanship do you wish to pursue? In what capacity will you always reside with us? Tell me what salary you wish to be paid.”",
+          "color": "#70D6FF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sahadeva said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@sahadeva",
+          "text": "“King Yudhishthira is the eldest among the ﬁve sons of Pandu. He possessed herds of eight hundred, one thousand, ten thousand, another ten thousand and another twenty thousand cows. I was the one who numbered his cows and I was known by the name of Tantipala. Nothing is unknown to me about numbering—the past, the present and the future, and within a distance of ten yojanas{72}. The great-souled one, Yudhishthira, king of the Kuru lineage, was well acquainted with my skills and was always satisﬁed with me. I know how cattle can be multiplied swiftly and how one ensures that they never suffer from disease. These types of skills have always been known to me. Such craftsmanship has always been established in me. O king! I know the auspicious marks of bulls, the smell of whose urine makes barren cows give birth.”",
+          "color": "#6BAB8A",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Virata replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@virata",
+          "text": "“I possess one hundred thousand. They have been classiﬁed according to colours and other qualities that are yet undetected. I put you in charge of the animals and the herdsmen. Henceforth, let my animals be in your care.”",
+          "color": "#70D6FF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O lord of the earth! Thus, unknown to the king, that supreme among men lived there happily. No one else found out who he was. He was also paid a salary, according to his wishes.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

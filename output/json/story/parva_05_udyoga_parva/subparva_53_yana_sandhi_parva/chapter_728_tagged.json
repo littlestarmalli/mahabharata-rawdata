@@ -1,0 +1,97 @@
+{
+  "chapter_number": 728,
+  "global_number": 728,
+  "local_number": 65,
+  "num_shlokas": 9,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘When Dhritarashtra’s son, Duryodhana, refused to accept those words, all those lords among men stood up and were silent. O great king! After all the kings of the earth had arisen, the king questioned Sanjaya in private. He was under the control of his sons and wished for their victory. He tried to arrive at a conclusion about himself, the others and the Pandavas. Dhritarashtra said, “O son of Gavalgana! Tell me about the strength and the weakness of our own army. You know everything about the Pandavas. How are they superior? In which way are they inferior? You know everything about the strengths of both sides. You are skilled about the decisions that bring dharma and artha. O Sanjaya! I am asking you. Tell me everything. Which of the two sides will cease to exist in the battle?” Sanjaya replied, “I will tell you, as long as it is not in secret. O king! Otherwise, you will hold that against me. O Ajamidha! Bring your father{158}, who is great in his vows, and Queen Gandhari. O Indra among men! They are knowledgeable about dharma and skilled in their determination. They will dispel any hatred you might feel. It is only in their presence that I will tell you everything about Vasudeva and Arjuna’s thoughts.” Having got to know{159} about the intentions of Sanjaya and his son, the immensely wise Krishna Dvaipayana arrived there and said, “O Sanjaya! Tell Dhritarashtra what he has asked. Answer his question completely. In this connection, tell him everything exactly as you know it, about Vasudeva and Arjuna.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘When Dhritarashtra’s son, Duryodhana, refused to accept those words, all those lords among men stood up and were silent. O great king! After all the kings of the earth had arisen, the king questioned Sanjaya in private. He was under the control of his sons and wished for their victory. He tried to arrive at a conclusion about himself,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the others and the Pandavas. Dhritarashtra said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_others_and_the_pandavas",
+          "text": "“O son of Gavalgana! Tell me about the strength and the weakness of our own army. You know everything about the Pandavas. How are they superior? In which way are they inferior? You know everything about the strengths of both sides. You are skilled about the decisions that bring dharma and artha. O Sanjaya! I am asking you. Tell me everything. Which of the two sides will cease to exist in the battle?”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sanjaya replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“I will tell you, as long as it is not in secret. O king! Otherwise, you will hold that against me. O Ajamidha! Bring your father{158}, who is great in his vows, and Queen Gandhari. O Indra among men! They are knowledgeable about dharma and skilled in their determination. They will dispel any hatred you might feel. It is only in their presence that I will tell you everything about Vasudeva and Arjuna’s thoughts.”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having got to know{159} about the intentions of Sanjaya and his son,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "the immensely wise Krishna Dvaipayana arrived there and said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_immensely_wise_krishna_dvaipayana",
+          "text": "“O Sanjaya! Tell Dhritarashtra what he has asked. Answer his question completely. In this connection, tell him everything exactly as you know it, about Vasudeva and Arjuna.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

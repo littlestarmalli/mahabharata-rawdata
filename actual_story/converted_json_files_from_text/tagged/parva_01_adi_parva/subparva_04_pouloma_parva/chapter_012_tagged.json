@@ -1,0 +1,115 @@
+{
+  "chapter_number": 12,
+  "global_number": 12,
+  "local_number": 12,
+  "num_shlokas": 5,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Ruru said, “O supreme among the Brahmanas! Why did King Janamejaya cause violence to the snakes and how did he destroy them? O best of the Brahmanas! Why were the snakes saved by the wise Astika? I wish to hear all this.”",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Ruru said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@ruru",
+          "text": "“O supreme among the Brahmanas! Why did King Janamejaya cause violence to the snakes and how did he destroy them? O best of the Brahmanas! Why were the snakes saved by the wise Astika? I wish to hear all this.”",
+          "color": "#814ED9",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The sage said, “O Ruru! You will hear the great history of Astika from a Brahmana who will recount it.” Saying this, he vanished.’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The sage said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_sage",
+          "text": "“O Ruru! You will hear the great history of Astika from a Brahmana who will recount it.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Saying this, he vanished.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "Souti said, ‘Ruru rushed to look for the rishi, but could not ﬁnd him anywhere in the forest. Not ﬁnding him, he was tired and fell down on the ground. Regaining his senses, he returned home and asked his father. On his asking, his father told him the entire story.’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Souti said,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘Ruru rushed to look for the rishi, but could not ﬁnd him anywhere in the forest. Not ﬁnding him, he was tired and fell down on the ground. Regaining his senses, he returned home and asked his father. On his asking, his father told him the entire story.’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

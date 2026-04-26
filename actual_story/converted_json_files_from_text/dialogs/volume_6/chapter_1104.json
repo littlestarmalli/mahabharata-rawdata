@@ -1,0 +1,132 @@
+{
+  "chapter": 1104,
+  "local": 127,
+  "shlokas": 26,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “Thus urged by Drona, King Duryodhana became overcome by intolerance and made up his mind to ﬁght. Your son, Duryodhana, then spoke to Karna. ‘The vyuha constructed by the preceptor is extremely impenetrable, even to the gods. Behold. With Krishna as his aide, Pandava Kiriti penetrated it, while you were looking and the great-souled Drona was struggling and so were the foremost among warriors. He brought down Saindhava. O Radheya! Look. Kings of the earth, foremost among warriors, have single-handedly been killed by Partha, like inferior animals by a lion. O destroyer of enemies! In this battle, this happened while I was looking on. Shakra's son has left only a little bit of my soldiers left. Despite Drona ﬁghting and making the best of efforts in the battle, how could Phalguna accomplish his desire and penetrate the extremely impenetrable vyuha? The great-souled preceptor has always loved Phalguna. O destroyer of enemies! That is the reason he granted him entry, without ﬁghting with him. Drona, scorcher of enemies, offered assurance to Saindhava. He then allowed Kiriti to enter. Behold my bad luck. Had I permitted the king of Sindhu to leave for his home earlier, there would not have been this destruction of men in the battle. In the hope of remaining alive, Jayadratha wished to go home. But having obtained assurance from Drona in the battle, I restrained him. My warrior brothers, Chitrasena and the others, have encountered Bhimasena and were destroyed by him, while we evil-souled ones looked on.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Thus urged by Drona, King Duryodhana became overcome by intolerance and made up his mind to ﬁght. Your son, Duryodhana, then spoke to Karna. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The vyuha constructed by the preceptor is extremely impenetrable, even to the gods. Behold. With Krishna as his aide, Pandava Kiriti penetrated it, while you were looking and the great-souled Drona was struggling and so were the foremost among warriors. He brought down Saindhava. O Radheya! Look. Kings of the earth, foremost among warriors, have single-handedly been killed by Partha, like inferior animals by a lion. O destroyer of enemies! In this battle, this happened while I was looking on. Shakra's son has left only a little bit of my soldiers left. Despite Drona ﬁghting and making the best of efforts in the battle, how could Phalguna accomplish his desire and penetrate the extremely impenetrable vyuha? The great-souled preceptor has always loved Phalguna. O destroyer of enemies! That is the reason he granted him entry, without ﬁghting with him. Drona, scorcher of enemies, offered assurance to Saindhava. He then allowed Kiriti to enter. Behold my bad luck. Had I permitted the king of Sindhu to leave for his home earlier, there would not have been this destruction of men in the battle. In the hope of remaining alive, Jayadratha wished to go home. But having obtained assurance from Drona in the battle, I restrained him. My warrior brothers, Chitrasena and the others, have encountered Bhimasena and were destroyed by him, while we evil-souled ones looked on.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Karna said, ‘Do not censure the preceptor. The brahmana is ﬁghting to the best of his ability. In the battle, I do not think that Pandava can be defeated by Drona, though he is skilled in the use of weapons. That is the reason the one with the white horses{41} has passed him and has penetrated. O Suyodhana! I think that anything determined by destiny can never be transgressed, even if we make endeavours and ﬁght to the utmost of our strength. O king! With Saindhava killed in the battle, it seems that destiny is supreme. With you, we have made the utmost effort in the ﬁeld of battle. All our manliness has been rendered futile by fate. We have always endeavoured, but our valour has been unsuccessful. Whenever a man performs an act, but is not favoured by destiny, fate destroys all his exertions. A man with perseverance must do whatever he has to do and must not have doubts about the act. Success depends on destiny. O descendant of the Bharata lineage! The Parthas were deprived through deceit and the use of poison{42}. They were burnt in the house of lac{43} and defeated in the gambling match. Using the principles of royal policy, they were exiled to the forest. Though all of this was undertaken with great care, it has been frustrated by destiny. Let us make efforts to ﬁght and not turn our backs on death. You and they will make efforts and traverse the path determined by destiny. It does not seem that they have done anything good by using superior intelligence. O extender of the Kuru lineage! O brave one! Nor is it the case that we have performed bad deeds because of inferior intelligence. Destiny determines the outcome, of good deeds and inferior ones. Fate has its own action and is awake when everyone else is asleep. When the war commenced, you had many soldiers and many warriors. The sons of Pandu had fewer, but have destroyed many strikers on your side. I think that this destruction of our manliness is the work of fate.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Karna said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do not censure the preceptor. The brahmana is ﬁghting to the best of his ability. In the battle, I do not think that Pandava can be defeated by Drona, though he is skilled in the use of weapons. That is the reason the one with the white horses{41} has passed him and has penetrated. O Suyodhana! I think that anything determined by destiny can never be transgressed, even if we make endeavours and ﬁght to the utmost of our strength. O king! With Saindhava killed in the battle, it seems that destiny is supreme. With you, we have made the utmost effort in the ﬁeld of battle. All our manliness has been rendered futile by fate. We have always endeavoured, but our valour has been unsuccessful. Whenever a man performs an act, but is not favoured by destiny, fate destroys all his exertions. A man with perseverance must do whatever he has to do and must not have doubts about the act. Success depends on destiny. O descendant of the Bharata lineage! The Parthas were deprived through deceit and the use of poison{42}. They were burnt in the house of lac{43} and defeated in the gambling match. Using the principles of royal policy, they were exiled to the forest. Though all of this was undertaken with great care, it has been frustrated by destiny. Let us make efforts to ﬁght and not turn our backs on death. You and they will make efforts and traverse the path determined by destiny. It does not seem that they have done anything good by using superior intelligence. O extender of the Kuru lineage! O brave one! Nor is it the case that we have performed bad deeds because of inferior intelligence. Destiny determines the outcome, of good deeds and inferior ones. Fate has its own action and is awake when everyone else is asleep. When the war commenced, you had many soldiers and many warriors. The sons of Pandu had fewer, but have destroyed many strikers on your side. I think that this destruction of our manliness is the work of fate.’",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O lord of men! While they were talking a lot, the Pandava battle formations appeared in the battle. O king! Because of your evil cousel, an encounter commenced between those on your side and the others and chariots and elephants clashed against each other.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of men! While they were talking a lot, the Pandava battle formations appeared in the battle. O king! Because of your evil cousel, an encounter commenced between those on your side and the others and chariots and elephants clashed against each other.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

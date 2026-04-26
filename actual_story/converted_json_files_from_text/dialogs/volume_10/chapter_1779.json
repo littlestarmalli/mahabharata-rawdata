@@ -1,0 +1,185 @@
+{
+  "chapter": 1779,
+  "local": 98,
+  "shlokas": 22,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “When the sun beseeched the supreme among sages, what did the immensely energetic Jamadagni do?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When the sun beseeched the supreme among sages, what did the immensely energetic Jamadagni do?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O descendant of the Kuru lineage! Despite the supplication, the sage Jamadagni, the lord who was like the ﬁre in his radiance, was not paciﬁed. Surya again spoke to him in sweet words. O lord of the earth! In the form of the brahmana, he bowed his head down and joined his hands in salutation. ‘O brahmana rishi! In his course, Surya is always moving. Since the sun is always moving forward, how will you strike one who is in motion?’ Jamadagni replied, ‘Through the sight of my knowledge, I know who you are. Whether you are stationary or mobile, it will be my task to teach you humility today. O sun! In the afternoon, you are stationary for a brief instant. O Surya! Without thinking about it, I will pierce you then.’ Surya said, ‘O brahmana rishi! O supreme among archers! There is no doubt that you know who I am. O illustrious one! Even if I have offended you, know that I have sought refuge with you.’ At this, the illustrious Jamadagni laughed and spoke these words. ‘O Surya! Since you have sought protection with me, you should not be frightened any more. If a person who has sought refuge with me is slain, that will cause a transgression of the uprightness of brahmanas, the stability of the earth, the mildness of the moon, the gravity of Varuna, the resplendence of the ﬁre, the radiance of Meru and the heat of the sun. A person who kills a supplicant is like one who violates his preceptor's bed, kills a brahmana and drinks liquor. O son{235}! Therefore, think of something against the heat. Let the paths of those who are oppressed by your rays become comfortable.’ Having said this, the extender of the Bhrigu lineage was silent. Quickly, Surya gave him an umbrella and footwear. Surya said, ‘O maharshi! Accept this umbrella as a helmet against my rays. Accept this footwear, made out of leather, for the protection of the feet. From this day, these will be known on earth as auspicious gifts and they will be regarded as supreme and indestructible.’ Umbrellas and footwear were thus instituted by Surya. O descendant of the Bharata lineage! In the three worlds, they came to be known as auspicious. Therefore, excellent umbrellas and footwear must be given to brahmanas. This is extremely great dharma and one should not think about this. O foremost among the Bharata lineage! If a person gives a white umbrella with one hundred ribs to brahmanas, he obtains happiness after death. O bull among the Bharata lineage! Always honoured by brahmanas, apsaras and gods, he dwells in Shakra's world. O mighty-armed one! If a person gives footwear to brahmanas, snatakas and other brahmanas who are controlled and are being scorched, he obtains worlds that are revered by the gods. O descendant of the Bharata lineage! After death, he resides happily in Goloka. O best among the Bharata lineage! O supreme among the Bharata lineage! I have thus told you everything about the fruits from donating umbrellas and footwear.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O descendant of the Kuru lineage! Despite the supplication, the sage Jamadagni, the lord who was like the ﬁre in his radiance, was not paciﬁed. Surya again spoke to him in sweet words. O lord of the earth! In the form of the brahmana, he bowed his head down and joined his hands in salutation. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana rishi! In his course, Surya is always moving. Since the sun is always moving forward, how will you strike one who is in motion?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Jamadagni replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@jamadagni",
+          "introduces_label": "Jamadagni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Through the sight of my knowledge, I know who you are. Whether you are stationary or mobile, it will be my task to teach you humility today. O sun! In the afternoon, you are stationary for a brief instant. O Surya! Without thinking about it, I will pierce you then.’",
+          "speaker": "@jamadagni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Surya said, ",
+          "speaker": "@bhishma",
+          "introduces": "@surya",
+          "introduces_label": "Surya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana rishi! O supreme among archers! There is no doubt that you know who I am. O illustrious one! Even if I have offended you, know that I have sought refuge with you.’",
+          "speaker": "@surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At this, the illustrious Jamadagni laughed and spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Surya! Since you have sought protection with me, you should not be frightened any more. If a person who has sought refuge with me is slain, that will cause a transgression of the uprightness of brahmanas, the stability of the earth, the mildness of the moon, the gravity of Varuna, the resplendence of the ﬁre, the radiance of Meru and the heat of the sun. A person who kills a supplicant is like one who violates his preceptor's bed, kills a brahmana and drinks liquor. O son{235}! Therefore, think of something against the heat. Let the paths of those who are oppressed by your rays become comfortable.’",
+          "speaker": "@surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, the extender of the Bhrigu lineage was silent. Quickly, Surya gave him an umbrella and footwear. Surya said, ",
+          "speaker": "@bhishma",
+          "introduces": "@surya",
+          "introduces_label": "Surya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O maharshi! Accept this umbrella as a helmet against my rays. Accept this footwear, made out of leather, for the protection of the feet. From this day, these will be known on earth as auspicious gifts and they will be regarded as supreme and indestructible.’",
+          "speaker": "@surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Umbrellas and footwear were thus instituted by Surya. O descendant of the Bharata lineage! In the three worlds, they came to be known as auspicious. Therefore, excellent umbrellas and footwear must be given to brahmanas. This is extremely great dharma and one should not think about this. O foremost among the Bharata lineage! If a person gives a white umbrella with one hundred ribs to brahmanas, he obtains happiness after death. O bull among the Bharata lineage! Always honoured by brahmanas, apsaras and gods, he dwells in Shakra's world. O mighty-armed one! If a person gives footwear to brahmanas, snatakas and other brahmanas who are controlled and are being scorched, he obtains worlds that are revered by the gods. O descendant of the Bharata lineage! After death, he resides happily in Goloka. O best among the Bharata lineage! O supreme among the Bharata lineage! I have thus told you everything about the fruits from donating umbrellas and footwear.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

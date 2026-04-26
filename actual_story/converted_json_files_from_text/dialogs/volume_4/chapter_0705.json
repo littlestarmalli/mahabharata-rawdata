@@ -1,0 +1,238 @@
+{
+  "chapter": 705,
+  "local": 42,
+  "shlokas": 32,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘The intelligent King Dhritarashtra honoured the words that Vidura had spoken. Desiring supreme intelligence, the great-souled one privately questioned Sanatsujata.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The intelligent King Dhritarashtra honoured the words that Vidura had spoken. Desiring supreme intelligence, the great-souled one privately questioned Sanatsujata.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra asked, “O Sanatsujata! I have heard about your teaching that death does not exist. Yet, the gods and the asuras observed brahmacharya for the sake of immortality. Which of these is true?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanatsujata! I have heard about your teaching that death does not exist. Yet, the gods and the asuras observed brahmacharya for the sake of immortality. Which of these is true?”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanatsujata replied, “Some hold that deeds ensure immortality. Others say that there is no death. O king! Listen to my words on this, so that you no longer have any doubts. O kshatriya! Know that both of these statements are true. Know that the wise regard death as delusion. I am telling you that confusion is death. Therefore, I am telling you that there is immortality where there is no confusion. The asuras were vanquished because of their ignorance. Had they not possessed ignorance, they would have been like the brahman. Death is not a tiger that consumes beings. Its form is not one that can be fathomed. Some hold that Yama is death, but others do not agree. Immortality is the soul's pursuit of brahmacharya. That god{1} rules his kingdom in the world of the ancestors. He is auspicious towards those who are pure and is inauspicious towards those who are impure. Through instructions issued from his mouth, men suffer death in the form of anger, delusion and confusion. Being overcome by confusion, they leave for the hereafter and descend again{2}. Following him, the gods also go into a decline. Thus it is that this death{3} is also known by the name of death. But there are those who are attracted to the fruits of deeds. Because of their karma, they go there{4}, without transgressing death. There are learned ones who think and kill their desires, when they try to rise, realizing that these should not be respected. Because learned ones have killed their desires, though assuming the form of death, death cannot destroy them. A man who follows his desires is destroyed, together with the desires. A man who can conquer his desires can withstand all passion. Darkness appears to beings in the form of hell. Deluded, they eagerly rush towards it and fall into the hole{5}. The sense of ego kills such a person ﬁrst. Desire and anger grasp him and kill him later. Childish ones are thus despatched towards their death. But steady ones who have fortitude can transgress death. O kshatriya! If a man thinks of nothing{6}, how can a tiger made out of straw attack him? If the soul is confused through anger and desire, death exists within one's own body. Know that this is how death is born. One who is established in knowledge has no fear of death. If the object{7} is destroyed, so is death, just as mortal beings are destroyed when they confront death.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanatsujata replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanatsujata",
+          "introduces_label": "Sanatsujata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Some hold that deeds ensure immortality. Others say that there is no death. O king! Listen to my words on this, so that you no longer have any doubts. O kshatriya! Know that both of these statements are true. Know that the wise regard death as delusion. I am telling you that confusion is death. Therefore, I am telling you that there is immortality where there is no confusion. The asuras were vanquished because of their ignorance. Had they not possessed ignorance, they would have been like the brahman. Death is not a tiger that consumes beings. Its form is not one that can be fathomed. Some hold that Yama is death, but others do not agree. Immortality is the soul's pursuit of brahmacharya. That god{1} rules his kingdom in the world of the ancestors. He is auspicious towards those who are pure and is inauspicious towards those who are impure. Through instructions issued from his mouth, men suffer death in the form of anger, delusion and confusion. Being overcome by confusion, they leave for the hereafter and descend again{2}. Following him, the gods also go into a decline. Thus it is that this death{3} is also known by the name of death. But there are those who are attracted to the fruits of deeds. Because of their karma, they go there{4}, without transgressing death. There are learned ones who think and kill their desires, when they try to rise, realizing that these should not be respected. Because learned ones have killed their desires, though assuming the form of death, death cannot destroy them. A man who follows his desires is destroyed, together with the desires. A man who can conquer his desires can withstand all passion. Darkness appears to beings in the form of hell. Deluded, they eagerly rush towards it and fall into the hole{5}. The sense of ego kills such a person ﬁrst. Desire and anger grasp him and kill him later. Childish ones are thus despatched towards their death. But steady ones who have fortitude can transgress death. O kshatriya! If a man thinks of nothing{6}, how can a tiger made out of straw attack him? If the soul is confused through anger and desire, death exists within one's own body. Know that this is how death is born. One who is established in knowledge has no fear of death. If the object{7} is destroyed, so is death, just as mortal beings are destroyed when they confront death.”",
+          "speaker": "@sanatsujata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra asked, “There are those here who do not follow dharma. There are also those who follow dharma. Is dharma destroyed by evil or is evil destroyed by dharma?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“There are those here who do not follow dharma. There are also those who follow dharma. Is dharma destroyed by evil or is evil destroyed by dharma?”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanatsujata replied, “The fruits of both are enjoyed, that of dharma and of its opposite{8}. A learned one uses dharma to give up adharma. Know that dharma is stronger.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanatsujata replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanatsujata",
+          "introduces_label": "Sanatsujata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The fruits of both are enjoyed, that of dharma and of its opposite{8}. A learned one uses dharma to give up adharma. Know that dharma is stronger.”",
+          "speaker": "@sanatsujata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra said, “It is said that the eternal worlds are obtained by brahmanas who perform pure deeds in accordance with dharma. O learned one! It is said that there are different regions, depending on the deeds that have been performed.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is said that the eternal worlds are obtained by brahmanas who perform pure deeds in accordance with dharma. O learned one! It is said that there are different regions, depending on the deeds that have been performed.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanatsujata replied, “There are brahmanas who are not proud of their strength. They do not try to surpass the strong with strength. In the hereafter, they are radiant in the world of heaven. Wherever a brahmana thinks food and drink are abundant, like grass during the rainy season, this is the place that he should savour. Where there is inauspicious danger, one should control one's pride. It is best not to act in excess, or try to establish superiority over other people. If one is not tormented because another one proclaims one's superiority, if one does not enjoy the property of brahmanas, food offered by such a person is regarded as acceptable by the righteous. A dog always eats its own vomit and causes injury to its own self. Like that, those who proclaim their own valour, eat their own vomit. A brahmana thinks that his conduct should always be unknown. Even if he dwells among his relatives, nothing will be known about him. What other brahmana is capable of destroying his inner soul? O kshatriya! It is because of such conduct that he can visualize the brahman that dwells inside him. He is never exhausted. He is honoured because he does not accept gifts from others. He never causes impediments. He is well versed, even if he does not seem to be well versed. Such a wise brahmana knows the brahman. These brahmanas are not rich in the wealth of men. They are rich because of the Vedas. They are difﬁcult to assail. They are difﬁcult to shake. Know that because of knowledge, they have the brahman in their bodies. Because he has to exert himself, a person, who knows that sacriﬁces have been performed to all the gods, is not the equal of a brahmana{9}. One who is honoured, though he does not exert himself, is truly honoured. When honoured, he does not think about it. Nor does he suffer because he is not honoured. One who is honoured should think that only the learned show honours. If one is not honoured, one should not think that stupid ones, skilled in adharma and adept in the ways of the world, do not know how to honour a revered person. Honour and silence{10} cannot travel together. Know that this world is that of honour and that one is of silence. Prosperity is the abode of happiness, though it runs counter to the objective{11}. O kshatriya! For someone who is devoid of wisdom, the prosperity of the brahman is extremely difﬁcult to obtain. Virtuous ones have spoken of many different kinds of doors to that, all difﬁcult to uphold. There are six that counter pride and delusion—truth, uprightness, modesty, self-control, purity and knowledge.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanatsujata replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanatsujata",
+          "introduces_label": "Sanatsujata",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“There are brahmanas who are not proud of their strength. They do not try to surpass the strong with strength. In the hereafter, they are radiant in the world of heaven. Wherever a brahmana thinks food and drink are abundant, like grass during the rainy season, this is the place that he should savour. Where there is inauspicious danger, one should control one's pride. It is best not to act in excess, or try to establish superiority over other people. If one is not tormented because another one proclaims one's superiority, if one does not enjoy the property of brahmanas, food offered by such a person is regarded as acceptable by the righteous. A dog always eats its own vomit and causes injury to its own self. Like that, those who proclaim their own valour, eat their own vomit. A brahmana thinks that his conduct should always be unknown. Even if he dwells among his relatives, nothing will be known about him. What other brahmana is capable of destroying his inner soul? O kshatriya! It is because of such conduct that he can visualize the brahman that dwells inside him. He is never exhausted. He is honoured because he does not accept gifts from others. He never causes impediments. He is well versed, even if he does not seem to be well versed. Such a wise brahmana knows the brahman. These brahmanas are not rich in the wealth of men. They are rich because of the Vedas. They are difﬁcult to assail. They are difﬁcult to shake. Know that because of knowledge, they have the brahman in their bodies. Because he has to exert himself, a person, who knows that sacriﬁces have been performed to all the gods, is not the equal of a brahmana{9}. One who is honoured, though he does not exert himself, is truly honoured. When honoured, he does not think about it. Nor does he suffer because he is not honoured. One who is honoured should think that only the learned show honours. If one is not honoured, one should not think that stupid ones, skilled in adharma and adept in the ways of the world, do not know how to honour a revered person. Honour and silence{10} cannot travel together. Know that this world is that of honour and that one is of silence. Prosperity is the abode of happiness, though it runs counter to the objective{11}. O kshatriya! For someone who is devoid of wisdom, the prosperity of the brahman is extremely difﬁcult to obtain. Virtuous ones have spoken of many different kinds of doors to that, all difﬁcult to uphold. There are six that counter pride and delusion—truth, uprightness, modesty, self-control, purity and knowledge.”",
+          "speaker": "@sanatsujata",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

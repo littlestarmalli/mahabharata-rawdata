@@ -1,0 +1,386 @@
+{
+  "chapter": 1683,
+  "local": 2,
+  "shlokas": 95,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O grandfather! O immensely wise one! One who knows about all the sacred texts! O supreme among intelligent ones! I have heard this great account. O king! However, I again to hear about things connected with dharma and artha. You should tell me about some such account. Has any householder been able to conquer death by resorting to garhasthya dharma? O king! Tell me the truth about all of this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandfather! O immensely wise one! One who knows about all the sacred texts! O supreme among intelligent ones! I have heard this great account. O king! However, I again to hear about things connected with dharma and artha. You should tell me about some such account. Has any householder been able to conquer death by resorting to garhasthya dharma? O king! Tell me the truth about all of this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, there is an ancient history, about a householder who conquered death by resorting to dharma. O king! Prajapati Manu had a son named Ikshvaku. That king had one hundred sons who were as radiant as the sun. O descendant of the Bharata lineage! The tenth son was named Dashashva. He had dharma in his soul, was truthful in his valour and became the king of Mahishmati. Dashashva's son was a king who was extremely devoted to dharma. His mind was always devoted to truth, austerities and donations. Throughout the earth, that lord of the earth was known by the name of Madirashva. He was always engaged in studying the Vedas and in Dhanurveda. Madirashva's son was the king named Dyutimat. He was immensely fortunate, immensely energetic, immensely spirited and immensely strong. Dyutimat's son was the king named Suvira. He possessed dharma in his soul and his treasury was like that of the king of the gods. Suvira had a son who was invincible in battle. He was known by the name of Durjaya and he was accomplished in all the sacred texts. Durjaya's body was like that of Indra's. He had a son who was resplendent as the ﬁre. O supreme among kings! He was a great king and his name was Duryodhana. His valour was like that of Indra and so were his possessions and power. He never retreated from the ﬁeld of battle. His city and kingdom were full of separate stores of jewels, riches, animals and grain. There was no one in the kingdom who was weak or afﬂicted. No man there was diseased or lean. He{10} was accomplished and pleasant in speech. He was without jealousy and had conquered his senses. He had dharma in his soul and was non-violent. He was valiant, but did not boast. He performed sacriﬁces and was restrained in speech. He was intelligent, devoted to brahmanas and devoted to the truth. He did not disrespect others. He was generous and knowledgable about the Vedas and the Vedangas. The celestial river, Narmada, is sacred and auspicious, with cool waters. O descendant of the Bharata lineage! In a natural state, she served that best among men{11}! O king! Through the river, he had a daughter named Sudarshana. Her eyes were like a lotus. Her form was beautiful to look at{12}. O Yudhishthira! No woman with such beauty had been born earlier. Duryodhana's daughter, Sudarshana, was supremely beautiful.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, there is an ancient history, about a householder who conquered death by resorting to dharma. O king! Prajapati Manu had a son named Ikshvaku. That king had one hundred sons who were as radiant as the sun. O descendant of the Bharata lineage! The tenth son was named Dashashva. He had dharma in his soul, was truthful in his valour and became the king of Mahishmati. Dashashva's son was a king who was extremely devoted to dharma. His mind was always devoted to truth, austerities and donations. Throughout the earth, that lord of the earth was known by the name of Madirashva. He was always engaged in studying the Vedas and in Dhanurveda. Madirashva's son was the king named Dyutimat. He was immensely fortunate, immensely energetic, immensely spirited and immensely strong. Dyutimat's son was the king named Suvira. He possessed dharma in his soul and his treasury was like that of the king of the gods. Suvira had a son who was invincible in battle. He was known by the name of Durjaya and he was accomplished in all the sacred texts. Durjaya's body was like that of Indra's. He had a son who was resplendent as the ﬁre. O supreme among kings! He was a great king and his name was Duryodhana. His valour was like that of Indra and so were his possessions and power. He never retreated from the ﬁeld of battle. His city and kingdom were full of separate stores of jewels, riches, animals and grain. There was no one in the kingdom who was weak or afﬂicted. No man there was diseased or lean. He{10} was accomplished and pleasant in speech. He was without jealousy and had conquered his senses. He had dharma in his soul and was non-violent. He was valiant, but did not boast. He performed sacriﬁces and was restrained in speech. He was intelligent, devoted to brahmanas and devoted to the truth. He did not disrespect others. He was generous and knowledgable about the Vedas and the Vedangas. The celestial river, Narmada, is sacred and auspicious, with cool waters. O descendant of the Bharata lineage! In a natural state, she served that best among men{11}! O king! Through the river, he had a daughter named Sudarshana. Her eyes were like a lotus. Her form was beautiful to look at{12}. O Yudhishthira! No woman with such beauty had been born earlier. Duryodhana's daughter, Sudarshana, was supremely beautiful.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni wished to marry the princess Sudarshana. Adopting the disguise of a brahmana, he appeared before the king and sought her hand in marriage. The king was unwilling to bestow his daughter, Sudarshana, on the brahmana. After all, he was poor and did not belong to the same varna. At this, Agni disappeared and his sacriﬁce was destroyed. King Duryodhana spoke these words to the priests who offered oblations. ‘O bulls among brahmanas! What wicked act have I committed, to make Agni disappear? That is the way he should behave towards wicked people. I must have committed an extremely wicked deed to make Agni vanish thus. You must have done something, or I must have done something. Ascertain the truth about this.’ O bull among the Bharata lineage! On hearing the king's words, the brahmanas controlled themselves and using eloquent words, sought Agni's refuge. The illustrious bearer of oblations showed himself to them. The ﬁrmament blazed with his radiance. He was as resplendent as the autumn sun. The great-souled one scorched those bulls among brahmanas and said, ‘I seek the hand of Duryodhana's daughter.’ All the brahmanas were astounded at what Chitrabhanu{13} had said. They immediately arose and went and reported this to the king. The king heard the words of the ones who knew about the brahman and was supremely delighted. However, the intelligent king sought a bride price from the illustrious ﬁre god and this was that Chitrabhanu should always dwell near him. The illustrious Agni agreed to the king's condition. That is the reason why, even today, the ﬁre god is in Mahishmati and in the course of his conquest, Sahadeva saw him in that direction. The maiden was attired in new garments and ornamented. King Duryodhana gave her to the greatsouled Pavaka. Following the ordinances laid down in the Vedas, Agni accepted the princess Sudarshana, just as he accepts offerings of clariﬁed butter. Agni was delighted with her beauty, good conduct, noble lineage, form and grace and resolved to have offspring through her. Agni thus had a son named Sudarshana{14}. Even as a child, he knew everything about the eternal brahman.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni wished to marry the princess Sudarshana. Adopting the disguise of a brahmana, he appeared before the king and sought her hand in marriage. The king was unwilling to bestow his daughter, Sudarshana, on the brahmana. After all, he was poor and did not belong to the same varna. At this, Agni disappeared and his sacriﬁce was destroyed. King Duryodhana spoke these words to the priests who offered oblations. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O bulls among brahmanas! What wicked act have I committed, to make Agni disappear? That is the way he should behave towards wicked people. I must have committed an extremely wicked deed to make Agni vanish thus. You must have done something, or I must have done something. Ascertain the truth about this.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O bull among the Bharata lineage! On hearing the king's words, the brahmanas controlled themselves and using eloquent words, sought Agni's refuge. The illustrious bearer of oblations showed himself to them. The ﬁrmament blazed with his radiance. He was as resplendent as the autumn sun. The great-souled one scorched those bulls among brahmanas and said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I seek the hand of Duryodhana's daughter.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " All the brahmanas were astounded at what Chitrabhanu{13} had said. They immediately arose and went and reported this to the king. The king heard the words of the ones who knew about the brahman and was supremely delighted. However, the intelligent king sought a bride price from the illustrious ﬁre god and this was that Chitrabhanu should always dwell near him. The illustrious Agni agreed to the king's condition. That is the reason why, even today, the ﬁre god is in Mahishmati and in the course of his conquest, Sahadeva saw him in that direction. The maiden was attired in new garments and ornamented. King Duryodhana gave her to the greatsouled Pavaka. Following the ordinances laid down in the Vedas, Agni accepted the princess Sudarshana, just as he accepts offerings of clariﬁed butter. Agni was delighted with her beauty, good conduct, noble lineage, form and grace and resolved to have offspring through her. Agni thus had a son named Sudarshana{14}. Even as a child, he knew everything about the eternal brahman.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“There was a king named Oghavat and he was Nriga's grandfather. He had a daughter named Oghavati and a son named Ogharatha. Oghavat gave his daughter, Oghavati, who was as beautiful as a goddess, to the learned Sudarshana as a wife. O king! In the ashrama of garhasthya, Sudarshana dwelt with Oghavati in Kurukshetra. O lord of the earth! The intelligent lord, blazing in his energy, took a pledge that he would conquer death in the state of garhasthya. O king! Pavaka's son told Oghavati, ‘Always act so as to satisfy the guests. One should offer one's own self, without even thinking about it. This vow is always circulating in my mind. O one with the beautiful hips! For householders, there is nothing that is superior to guests. O one with the beautiful thighs! O beautiful one! If you set any store by my words, always bear these words in your heart, without doubting them. O fortunate one! O unblemished one! This is irrespective of whether I am here, or have gone out. If you set any store by my words, never disrespect a guest.’ Oghavati joined her hands in salutation and raised them up above her head. She said, ‘It is my duty to never disregard your words.’ O king! Mrityu sought to test this and followed Sudarshana around in the house, searching for a weakness. Agni's son, Sudarshana, went out for some ﬁrewood and a handsome brahmana arrived as a guest before Oghavati. He said, ‘O beautiful one! I seek your hospitality today. Please grant it to me. Prove to me that you are following the dharma of the garhasthya ashrama.’ O lord of the earth! Thus addressed by the brahmana, the illustrious princess welcomed him, following the rites that are spoken about in the Vedas. She gave the brahmana a seat and water to wash his feet. Oghavati then asked the brahmana, ‘Why have you come here? What should I give you?’ The brahmana told the princess who belonged to Sudarshana, ‘O fortunate one! I have come here for you. Without any hesitation, you should act for that objective. O queen! If you wish to prove that you are following the dharma of garhasthya ashrama, you should give yourself to me. Do what I ﬁnd to be agreeable.’ The king's daughter tried to dissuade him by offering many other desirable objects. However, the only boon that the brahmana sought was that she should offer herself. The daughter of the king remembered the words that her husband had spoken. Though she was ashamed, she agreed to what the bull among brahmanas had proposed. She rememberd her husband's words and desired to follow the ashrama of garhasthya. Therefore, she went to the brahmana rishi and lay down with him.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“There was a king named Oghavat and he was Nriga's grandfather. He had a daughter named Oghavati and a son named Ogharatha. Oghavat gave his daughter, Oghavati, who was as beautiful as a goddess, to the learned Sudarshana as a wife. O king! In the ashrama of garhasthya, Sudarshana dwelt with Oghavati in Kurukshetra. O lord of the earth! The intelligent lord, blazing in his energy, took a pledge that he would conquer death in the state of garhasthya. O king! Pavaka's son told Oghavati, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Always act so as to satisfy the guests. One should offer one's own self, without even thinking about it. This vow is always circulating in my mind. O one with the beautiful hips! For householders, there is nothing that is superior to guests. O one with the beautiful thighs! O beautiful one! If you set any store by my words, always bear these words in your heart, without doubting them. O fortunate one! O unblemished one! This is irrespective of whether I am here, or have gone out. If you set any store by my words, never disrespect a guest.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Oghavati joined her hands in salutation and raised them up above her head. She said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "She",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is my duty to never disregard your words.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! Mrityu sought to test this and followed Sudarshana around in the house, searching for a weakness. Agni's son, Sudarshana, went out for some ﬁrewood and a handsome brahmana arrived as a guest before Oghavati. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O beautiful one! I seek your hospitality today. Please grant it to me. Prove to me that you are following the dharma of the garhasthya ashrama.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O lord of the earth! Thus addressed by the brahmana, the illustrious princess welcomed him, following the rites that are spoken about in the Vedas. She gave the brahmana a seat and water to wash his feet. Oghavati then asked the brahmana, ",
+          "speaker": "@bhishma",
+          "introduces": "oghavati",
+          "introduces_label": "Oghavati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Why have you come here? What should I give you?’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana told the princess who belonged to Sudarshana, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! I have come here for you. Without any hesitation, you should act for that objective. O queen! If you wish to prove that you are following the dharma of garhasthya ashrama, you should give yourself to me. Do what I ﬁnd to be agreeable.’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king's daughter tried to dissuade him by offering many other desirable objects. However, the only boon that the brahmana sought was that she should offer herself. The daughter of the king remembered the words that her husband had spoken. Though she was ashamed, she agreed to what the bull among brahmanas had proposed. She rememberd her husband's words and desired to follow the ashrama of garhasthya. Therefore, she went to the brahmana rishi and lay down with him.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Having collected the ﬁrewood, Pavaka's son returned. Like a friend who follows, the terrible Mrityu was constantly at his side. Having arrived at the hermitage, Pavaka's son called out to Oghavati. Since there was no reply, he wondered where she could have gone. She was in no position to reply to her husband then. The virtuous one, devoted to her husband, was locked in an embrace in the arms of the brahmana. She thought that she had been deﬁled and was ashamed of facing her husband. Therefore, the virtuous one remained silent and did not say anything. At this, Sudarshana addressed her again. ‘Where can the virtuous one be? Where could she have gone? Nothing is more important to me than her. She is devoted to her husband. She is truthful in her conduct. She is always upright. As she used to earlier, why is she not smiling and answering?’ The brahmana who was inside the cottage replied to Sudarshana. ‘O Pavaka's son! Know me to be a brahmana guest who has arrived. O excellent one! This upright one is ﬁrm in her mind about tending to guests. She offered me other things, but I was only interested in her. Following the prescribed rites, the fair-faced one is now serving me. Whatever you say should be appropriate to the occasion.’ Mrityu raised the heavy club in his hand, thinking that he would slay a person who deviated from his pledge. However, Sudarshana had discarded all anger in his mind, deeds, sight and speech. He smiled and replied, ‘O foremost among brahmanas! Enjoy the intercourse well. This brings great pleasure to me. The prime dharma for a householder is to honour a guest who has arrived. The learned have said that there is no dharma superior to a householder than the departure of a guest after being honoured. My life, my wife and all the riches I possess are to be given to a guest. That is the vow I have taken. There should be no doubt about the words that I have spoken. O brahmana! I speak the truth when I say that it is through this means that I will get to know my own atman. O supreme among those who uphold dharma! The earth, wind, space, water, light as the ﬁfth, intelligence, the atman, the mind, time, the directions and the ten qualities{15} are always a witness to good and bad deeds. Depending on the truth or falsehood of the words I have spoken today, let the gods protect me or consume me.’ O descendant of the Bharata lineage! At this, a great roar arose in all the directions. ‘This is true in every way. This is not false.’ The brahmana also emerged from the hut. He arose like the wind and his form covered the sky and the earth. The brahmana spoke in accomplished tones and his voice resounded in the three worlds. ‘O one who knows about dharma! In the mantras, you have earlier invoked me as Dharma. O unblemished one! I arrived here to test you. On knowing that you are devoted to the truth, I am greatly delighted with you. You have conquered Mrityu, who has been following you around. He has always been searching for your weaknesses. But your fortitude has subjugated him. O supreme among men! This virtuous one is devoted to her husband and no one in the three worlds is capable of even looking at her. She is protected by your qualities and by her qualities of being devoted to her husband. She has not been touched. The words that I have spoken are not false. This one knows about the brahman and is united with austerities. To purify the worlds, she will become the best of rivers{16}. This immensely fortunate one will control her body through yoga. While half of her self will remain in her body, the other half will become the River Oghavati. With her, you will go to the worlds you have earned through your austerities. There is no return from those eternal and everlasing worlds and you will obtain those worlds in your physical body. You have conquered Mrityu and have obtained the greatest prosperity. Through the valour of your mind, you have transcended the ﬁve elements. You have resorted to the dharma of garhasthya and have conquered desire and anger. O king! You have conquered affection, attachment, lassitude, delusion and hatred through your service and have also obtained this princess.’ An excellent chariot arrived, yoked to one thousand white horses. It arrived and bore the illustrious one away. Mrityu, the atman, the worlds, the ﬁve elements, intelligence, time, mind, space, desire, anger—all these were conquered through the garhasthya ashrama. O tiger among men! There should be no doubt in one's mind that there is no god who is greater than a guest. The learned ones have said that in one's mind, one must always remember the auspicious fact that even one hundred sacriﬁces are not equal to honouring a guest. If there is a deserving guest who is not honoured in accordance with good conduct, when he goes away, he takes the good deeds earned and leaves the bad deeds earned{17}. O son! I have thus recounted this excellent account to you, wherein, in ancient times, a householder conquered death. This account{18} brings renown, fame and a long life. A person, who desires prosperity and wants his evil conduct to be dispelled, should listen to it. O descendant of the Bharata lineage! If a person recites this account of Sudarshana's conduct every day, he obtains the sacred worlds.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Having collected the ﬁrewood, Pavaka's son returned. Like a friend who follows, the terrible Mrityu was constantly at his side. Having arrived at the hermitage, Pavaka's son called out to Oghavati. Since there was no reply, he wondered where she could have gone. She was in no position to reply to her husband then. The virtuous one, devoted to her husband, was locked in an embrace in the arms of the brahmana. She thought that she had been deﬁled and was ashamed of facing her husband. Therefore, the virtuous one remained silent and did not say anything. At this, Sudarshana addressed her again. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Where can the virtuous one be? Where could she have gone? Nothing is more important to me than her. She is devoted to her husband. She is truthful in her conduct. She is always upright. As she used to earlier, why is she not smiling and answering?’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana who was inside the cottage replied to Sudarshana. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Pavaka's son! Know me to be a brahmana guest who has arrived. O excellent one! This upright one is ﬁrm in her mind about tending to guests. She offered me other things, but I was only interested in her. Following the prescribed rites, the fair-faced one is now serving me. Whatever you say should be appropriate to the occasion.’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Mrityu raised the heavy club in his hand, thinking that he would slay a person who deviated from his pledge. However, Sudarshana had discarded all anger in his mind, deeds, sight and speech. He smiled and replied, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O foremost among brahmanas! Enjoy the intercourse well. This brings great pleasure to me. The prime dharma for a householder is to honour a guest who has arrived. The learned have said that there is no dharma superior to a householder than the departure of a guest after being honoured. My life, my wife and all the riches I possess are to be given to a guest. That is the vow I have taken. There should be no doubt about the words that I have spoken. O brahmana! I speak the truth when I say that it is through this means that I will get to know my own atman. O supreme among those who uphold dharma! The earth, wind, space, water, light as the ﬁfth, intelligence, the atman, the mind, time, the directions and the ten qualities{15} are always a witness to good and bad deeds. Depending on the truth or falsehood of the words I have spoken today, let the gods protect me or consume me.’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bharata lineage! At this, a great roar arose in all the directions. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is true in every way. This is not false.’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana also emerged from the hut. He arose like the wind and his form covered the sky and the earth. The brahmana spoke in accomplished tones and his voice resounded in the three worlds. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one who knows about dharma! In the mantras, you have earlier invoked me as Dharma. O unblemished one! I arrived here to test you. On knowing that you are devoted to the truth, I am greatly delighted with you. You have conquered Mrityu, who has been following you around. He has always been searching for your weaknesses. But your fortitude has subjugated him. O supreme among men! This virtuous one is devoted to her husband and no one in the three worlds is capable of even looking at her. She is protected by your qualities and by her qualities of being devoted to her husband. She has not been touched. The words that I have spoken are not false. This one knows about the brahman and is united with austerities. To purify the worlds, she will become the best of rivers{16}. This immensely fortunate one will control her body through yoga. While half of her self will remain in her body, the other half will become the River Oghavati. With her, you will go to the worlds you have earned through your austerities. There is no return from those eternal and everlasing worlds and you will obtain those worlds in your physical body. You have conquered Mrityu and have obtained the greatest prosperity. Through the valour of your mind, you have transcended the ﬁve elements. You have resorted to the dharma of garhasthya and have conquered desire and anger. O king! You have conquered affection, attachment, lassitude, delusion and hatred through your service and have also obtained this princess.’",
+          "speaker": "oghavati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " An excellent chariot arrived, yoked to one thousand white horses. It arrived and bore the illustrious one away. Mrityu, the atman, the worlds, the ﬁve elements, intelligence, time, mind, space, desire, anger—all these were conquered through the garhasthya ashrama. O tiger among men! There should be no doubt in one's mind that there is no god who is greater than a guest. The learned ones have said that in one's mind, one must always remember the auspicious fact that even one hundred sacriﬁces are not equal to honouring a guest. If there is a deserving guest who is not honoured in accordance with good conduct, when he goes away, he takes the good deeds earned and leaves the bad deeds earned{17}. O son! I have thus recounted this excellent account to you, wherein, in ancient times, a householder conquered death. This account{18} brings renown, fame and a long life. A person, who desires prosperity and wants his evil conduct to be dispelled, should listen to it. O descendant of the Bharata lineage! If a person recites this account of Sudarshana's conduct every day, he obtains the sacred worlds.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "chapter": 742,
+  "local": 79,
+  "shlokas": 9,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sahadeva said, “What the king has said is eternal dharma. O scorcher of enemies! But you should act in such a way that there is war. O Dasharha! Even if the Kurus wish for peace with the Pandavas, you should provoke them to war. On having seen Panchali molested in the assembly hall, how can my anger towards Suyodhana be paciﬁed without him being killed? O Krishna! If Bhima, Arjuna and Dharmaraja wish to stick to dharma, I will give up dharma and wish to ﬁght them in battle.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sahadeva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sahadeva",
+          "introduces_label": "Sahadeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What the king has said is eternal dharma. O scorcher of enemies! But you should act in such a way that there is war. O Dasharha! Even if the Kurus wish for peace with the Pandavas, you should provoke them to war. On having seen Panchali molested in the assembly hall, how can my anger towards Suyodhana be paciﬁed without him being killed? O Krishna! If Bhima, Arjuna and Dharmaraja wish to stick to dharma, I will give up dharma and wish to ﬁght them in battle.”",
+          "speaker": "@sahadeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Satyaki said, “O mighty-armed one! The immensely intelligent Sahadeva has spoken the truth. My anger at Duryodhana will only be paciﬁed after he has been killed. When you saw the wretched Pandavas in the forest, clad in bark and deerskin, you know that your anger was ignited. O Purushottama! Therefore, what Madri's brave son, bull among men, has said is the view of all the warriors.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Satyaki said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@satyaki",
+          "introduces_label": "Satyaki",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O mighty-armed one! The immensely intelligent Sahadeva has spoken the truth. My anger at Duryodhana will only be paciﬁed after he has been killed. When you saw the wretched Pandavas in the forest, clad in bark and deerskin, you know that your anger was ignited. O Purushottama! Therefore, what Madri's brave son, bull among men, has said is the view of all the warriors.”",
+          "speaker": "@satyaki",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When the immensely intelligent Yuyudhana was speaking these words, a terrible roar, like that from lions, arose from all the warriors who were there. All the brave ones applauded his words in every direction, saying that he was right. In their desire for war, they gladdened the heart of Shini's descendant.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the immensely intelligent Yuyudhana was speaking these words, a terrible roar, like that from lions, arose from all the warriors who were there. All the brave ones applauded his words in every direction, saying that he was right. In their desire for war, they gladdened the heart of Shini's descendant.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

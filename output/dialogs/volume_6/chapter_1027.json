@@ -1,0 +1,285 @@
+{
+  "chapter": 1027,
+  "local": 50,
+  "shlokas": 83,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “That terrible day, which had caused a destruction of beings, was over. The sun set and the beautiful twilight presented itself. O bull among the Bharata lineage! Both sets of soldiers retired to their camps. Having slaughtered the samshaptakas with his divine weapons, Jishnu, the one with the ape on his banner{140}, left for his camp, astride his victorious chariot. As he proceeded, he asked Govinda in a voice that was choked with tears. ‘O Keshava! Why is my heart terriﬁed? Why are my words getting stuck? O Achyuta{141}! Evil portents are agitating me and my body is faltering. It is as if evil thoughts are overwhelming my heart. In every direction, the earth seems to be ﬁerce and the omens are terrifying me. They are seen to be of many different forms and seem to foretell a disaster. I hope the king, my senior, and his advisers, are well.’ Vasudeva replied, ‘It is evident that all is well with your brother and his advisers. Do not sorrow. There may have been some other evil somewhere else.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“That terrible day, which had caused a destruction of beings, was over. The sun set and the beautiful twilight presented itself. O bull among the Bharata lineage! Both sets of soldiers retired to their camps. Having slaughtered the samshaptakas with his divine weapons, Jishnu, the one with the ape on his banner{140}, left for his camp, astride his victorious chariot. As he proceeded, he asked Govinda in a voice that was choked with tears. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Keshava! Why is my heart terriﬁed? Why are my words getting stuck? O Achyuta{141}! Evil portents are agitating me and my body is faltering. It is as if evil thoughts are overwhelming my heart. In every direction, the earth seems to be ﬁerce and the omens are terrifying me. They are seen to be of many different forms and seem to foretell a disaster. I hope the king, my senior, and his advisers, are well.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vasudeva replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@vasudeva_father",
+          "introduces_label": "Vasudeva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is evident that all is well with your brother and his advisers. Do not sorrow. There may have been some other evil somewhere else.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Those two brave ones performed their evening worship, mounted their chariot and proceeded. They spoke about what had transpired during the day's war, which had destroyed so many heroes. Having reached their own camp, and after having performed extremely difﬁcult deeds, Vasudeva and Arjuna found it to be cheerless and full of distress. Bibhatsu, the destroyer of enemy heroes, noticed that the camp was in a state of disarray. He told Krishna with a disturbed heart, ‘O Janardana! The trumpets are not being blown with auspicious sounds. They do not mingle with the sounds of beaten kettledrums, conch shells and drums. The veena{142} is not being sounded, with the sound of the slapping of palms. Auspicious songs are not being sung or recited. The bards are not chanting beautiful words of praise amidst our soldiers. On seeing me, the warriors are turning away and are lowering their faces. As on earlier occasions, they are not telling me about the deeds that they have accomplished. O Madhava! I hope that everything has been well with my brothers today. On seeing that those on our side are distressed, I can ﬁnd no peace of mind. O one who grants honours! O Achyuta! I hope all the warriors, together with the king of Panchala and Virata, are ﬁne. Today, with his brothers, Subhadra's son has not emerged to greet me happily, with a smile on his face, now that I have returned from the battle.’ Having conversed in this way, the two of them entered their own camp. They saw the distressed Pandavas there, bereft of their senses.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Those two brave ones performed their evening worship, mounted their chariot and proceeded. They spoke about what had transpired during the day's war, which had destroyed so many heroes. Having reached their own camp, and after having performed extremely difﬁcult deeds, Vasudeva and Arjuna found it to be cheerless and full of distress. Bibhatsu, the destroyer of enemy heroes, noticed that the camp was in a state of disarray. He told Krishna with a disturbed heart, ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Janardana! The trumpets are not being blown with auspicious sounds. They do not mingle with the sounds of beaten kettledrums, conch shells and drums. The veena{142} is not being sounded, with the sound of the slapping of palms. Auspicious songs are not being sung or recited. The bards are not chanting beautiful words of praise amidst our soldiers. On seeing me, the warriors are turning away and are lowering their faces. As on earlier occasions, they are not telling me about the deeds that they have accomplished. O Madhava! I hope that everything has been well with my brothers today. On seeing that those on our side are distressed, I can ﬁnd no peace of mind. O one who grants honours! O Achyuta! I hope all the warriors, together with the king of Panchala and Virata, are ﬁne. Today, with his brothers, Subhadra's son has not emerged to greet me happily, with a smile on his face, now that I have returned from the battle.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having conversed in this way, the two of them entered their own camp. They saw the distressed Pandavas there, bereft of their senses.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On seeing his brothers and his sons{143}, but on not seeing Subhadra's son, the one with the ape on his banner became cheerless and spoke these words. ‘I notice that all your faces are pale and unhappy. I do not see Abhimanyu. Nor has he come forward to greet me. I heard that Drona constructed a chakra vyuha today. With the exception of Subhadra's son, not a single one amongst you knew how to penetrate it in the battle. However, I did not teach him about emerging from the array. Did you ask the child to penetrate that enemy array? Did Subhadra's son, the great archer and destroyer of enemy heroes, penetrate that array and ﬁght with many among the enemy? Has he been slain and brought down? His eyes were red. He was mighty-armed. He was born{144} and was like a mountain lion. He was the equal of Indra's younger brother{145}. Tell me. Has he been slain in the battle? He was delicate. He was a great archer. He was the son of Vasava's son. He was always my beloved. Tell me. Has he been slain in the battle? He was the beloved of Varshneya{146}. He was brave. He was always reared by me. He was always loved by his mother. Urged by destiny, who could have killed him? He was the equal of the lion among the Vrishnis, the great-souled Keshava. He was valiant, learned and great. Which warrior could have killed him? He was always loved by Subhadra, Droupadi and Keshava. If I do not see my son, I will go to Yama's abode. The tips of his hair were delicate and curled. He was a child. His eyes were like that of a young deer. He was as valiant as a crazy elephant. He was as tall as a young shala tree. He smiled when he spoke. He was self-controlled. He was always obedient to the words of his seniors. Even though he was a child, his deeds were like those of one who wasn't a child. His words were pleasant and free of malice. He was great in his endeavour. He was mighty-armed. His eyes were long, like the petals of lotuses. He was compassionate towards those who were devoted to him. He was self-controlled. He did not follow that which was inferior. He was grateful. He possessed learning. He was skilled in the use of weapons. He did not retreat. He always rejoiced in battle and increased terror among the enemies. He was engaged in bringing pleasure to those on his own side. He desired the victory of his fathers. He never struck ﬁrst in an encounter, violating codes of honour. If I do not see that son, I will go to Yama's abode. He possessed a beautiful forehead. The tips of his hair were excellent. His eyebrows, eyes, teeth and lips were beautiful. Without seeing that face, how can there be peace in my heart? His words were pleasant and cheerful, like the melody of a male cuckoo. Without hearing those words, how can there be peace in my heart? His beauty was unmatched and is extremely rare, even among the residents of heaven. Without seeing that brave one, how can there be peace in my heart? He was skilled in showing honour. He was devoted to the words of his fathers. Without seeing him today, how can there be peace in my heart? He was delicate. He was always brave. He deserved the most expensive of beds. That supreme one among those who have protectors is lying down on the bare ground, as if he has no protector. Earlier, when he lay down, the best of women tended to him. With his limbs pierced and drained out, he is lying down today, tended to by inauspicious jackals. Earlier, he was awoken from his slumbers by the chants of bards, minstrels and raconteurs. It is certain that he will be awoken today by the distorted tones of beasts of prey. His beautiful face deserved to be covered by the shades of an umbrella. It is certain that it will be soiled today by the dust that has arisen from the ﬁeld of battle. Alas, my son! I have never been satisﬁed from looking at my son. I am unfortunate. Death has forcibly taken him away from me. Yama's abode has always been attained by those with virtuous deeds. It is certain that you have rendered that beautiful region even more beautiful because of your own radiance today. It is certain that you are the beloved guest of Vaivasvata, Varuna, Shatakratu and the lord of riches and that your valour has obtained honour from them{147}.’ He lamented thus, in many different ways, like a merchant whose ship has been sunk.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On seeing his brothers and his sons{143}, but on not seeing Subhadra's son, the one with the ape on his banner became cheerless and spoke these words. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I notice that all your faces are pale and unhappy. I do not see Abhimanyu. Nor has he come forward to greet me. I heard that Drona constructed a chakra vyuha today. With the exception of Subhadra's son, not a single one amongst you knew how to penetrate it in the battle. However, I did not teach him about emerging from the array. Did you ask the child to penetrate that enemy array? Did Subhadra's son, the great archer and destroyer of enemy heroes, penetrate that array and ﬁght with many among the enemy? Has he been slain and brought down? His eyes were red. He was mighty-armed. He was born{144} and was like a mountain lion. He was the equal of Indra's younger brother{145}. Tell me. Has he been slain in the battle? He was delicate. He was a great archer. He was the son of Vasava's son. He was always my beloved. Tell me. Has he been slain in the battle? He was the beloved of Varshneya{146}. He was brave. He was always reared by me. He was always loved by his mother. Urged by destiny, who could have killed him? He was the equal of the lion among the Vrishnis, the great-souled Keshava. He was valiant, learned and great. Which warrior could have killed him? He was always loved by Subhadra, Droupadi and Keshava. If I do not see my son, I will go to Yama's abode. The tips of his hair were delicate and curled. He was a child. His eyes were like that of a young deer. He was as valiant as a crazy elephant. He was as tall as a young shala tree. He smiled when he spoke. He was self-controlled. He was always obedient to the words of his seniors. Even though he was a child, his deeds were like those of one who wasn't a child. His words were pleasant and free of malice. He was great in his endeavour. He was mighty-armed. His eyes were long, like the petals of lotuses. He was compassionate towards those who were devoted to him. He was self-controlled. He did not follow that which was inferior. He was grateful. He possessed learning. He was skilled in the use of weapons. He did not retreat. He always rejoiced in battle and increased terror among the enemies. He was engaged in bringing pleasure to those on his own side. He desired the victory of his fathers. He never struck ﬁrst in an encounter, violating codes of honour. If I do not see that son, I will go to Yama's abode. He possessed a beautiful forehead. The tips of his hair were excellent. His eyebrows, eyes, teeth and lips were beautiful. Without seeing that face, how can there be peace in my heart? His words were pleasant and cheerful, like the melody of a male cuckoo. Without hearing those words, how can there be peace in my heart? His beauty was unmatched and is extremely rare, even among the residents of heaven. Without seeing that brave one, how can there be peace in my heart? He was skilled in showing honour. He was devoted to the words of his fathers. Without seeing him today, how can there be peace in my heart? He was delicate. He was always brave. He deserved the most expensive of beds. That supreme one among those who have protectors is lying down on the bare ground, as if he has no protector. Earlier, when he lay down, the best of women tended to him. With his limbs pierced and drained out, he is lying down today, tended to by inauspicious jackals. Earlier, he was awoken from his slumbers by the chants of bards, minstrels and raconteurs. It is certain that he will be awoken today by the distorted tones of beasts of prey. His beautiful face deserved to be covered by the shades of an umbrella. It is certain that it will be soiled today by the dust that has arisen from the ﬁeld of battle. Alas, my son! I have never been satisﬁed from looking at my son. I am unfortunate. Death has forcibly taken him away from me. Yama's abode has always been attained by those with virtuous deeds. It is certain that you have rendered that beautiful region even more beautiful because of your own radiance today. It is certain that you are the beloved guest of Vaivasvata, Varuna, Shatakratu and the lord of riches and that your valour has obtained honour from them{147}.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He lamented thus, in many different ways, like a merchant whose ship has been sunk.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Overcome with great misery, he then asked Yudhishthira. ‘O descendant of the Pandu lineage! Did he cause great carnage among the enemy? Did that bull among men ascend to heaven after having fought well in the battle? Did he kill many bulls among men who fought against him? He was without an aide. There is no doubt that he thought of me when he sought help. When oppressed by arrows, my young son must have sought help from me. I think he must have lamented in this way when he was cruelly slain by the many. But he was my son and that of Madhava's sister. He was born from Subhadra. Perhaps he could not have spoken in this way. It is certain that my heart is extremely ﬁrm and is made out of the essence of the vajra. Despite not being able to see the red-eyed and long-armed one, it is not shattered. How could those cruel and great archers shoot arrows at a child that penetrated the inner organs? He was Vasudeva's sister's son and my son. How could they shoot arrows at him? With an unblemished soul, he always used to greet me when I returned. I have returned after killing the enemy. Why don't I see him today? It is certain that he has fallen down and is lying on the ground, covered in blood. He has made the earth beautiful with his body, like a sun that has fallen down. On hearing that he has been slain in battle, Subhadra will be miserable and will destroy herself. When she does not see Abhimanyu, what will she tell me? Overcome by grief, what will Droupadi tell me? What will I tell them? There is no doubt that my heart is made out of the essence of the vajra. On seeing my daughter-in-law weep, oppressed by sorrow, it is not shattering into a thousand fragments. I have heard the delighted sons of Dhritarashtra roar like lions. Krishna heard Yuyutsu censure those brave ones in the following words. “O maharathas! Unable to withstand Bibhatsu, you have killed a child. O ones who are against dharma! Why are you rejoicing? You will now witness Partha's prowess. In the battle, you have done what is disagreeable to Keshava and Arjuna. The time for sorrow has arrived, yet you are delightedly roaring like lions. The time will swiftly arrive for you to reap the fruits of this evil deed. You have performed extremely terrible adharma. How can you not reap the fruits soon?” Rebuking them in this way, the extremely intelligent son of the vaishya{148} cast his weapons away and departed, overcome by grief and anger. O Krishna! Why did you not tell me about this while the battle was going on? I would then have slaughtered all those cruel maharathas.’ Vasudeva consoled the one who was overcome with grief on account of his son.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Overcome with great misery, he then asked Yudhishthira. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O descendant of the Pandu lineage! Did he cause great carnage among the enemy? Did that bull among men ascend to heaven after having fought well in the battle? Did he kill many bulls among men who fought against him? He was without an aide. There is no doubt that he thought of me when he sought help. When oppressed by arrows, my young son must have sought help from me. I think he must have lamented in this way when he was cruelly slain by the many. But he was my son and that of Madhava's sister. He was born from Subhadra. Perhaps he could not have spoken in this way. It is certain that my heart is extremely ﬁrm and is made out of the essence of the vajra. Despite not being able to see the red-eyed and long-armed one, it is not shattered. How could those cruel and great archers shoot arrows at a child that penetrated the inner organs? He was Vasudeva's sister's son and my son. How could they shoot arrows at him? With an unblemished soul, he always used to greet me when I returned. I have returned after killing the enemy. Why don't I see him today? It is certain that he has fallen down and is lying on the ground, covered in blood. He has made the earth beautiful with his body, like a sun that has fallen down. On hearing that he has been slain in battle, Subhadra will be miserable and will destroy herself. When she does not see Abhimanyu, what will she tell me? Overcome by grief, what will Droupadi tell me? What will I tell them? There is no doubt that my heart is made out of the essence of the vajra. On seeing my daughter-in-law weep, oppressed by sorrow, it is not shattering into a thousand fragments. I have heard the delighted sons of Dhritarashtra roar like lions. Krishna heard Yuyutsu censure those brave ones in the following words. ",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O maharathas! Unable to withstand Bibhatsu, you have killed a child. O ones who are against dharma! Why are you rejoicing? You will now witness Partha's prowess. In the battle, you have done what is disagreeable to Keshava and Arjuna. The time for sorrow has arrived, yet you are delightedly roaring like lions. The time will swiftly arrive for you to reap the fruits of this evil deed. You have performed extremely terrible adharma. How can you not reap the fruits soon?”",
+          "speaker": "@vasudeva_father",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Rebuking them in this way, the extremely intelligent son of the vaishya{148} cast his weapons away and departed, overcome by grief and anger. O Krishna! Why did you not tell me about this while the battle was going on? I would then have slaughtered all those cruel maharathas.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vasudeva consoled the one who was overcome with grief on account of his son.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“He was full of terrible misery and Krishna spoke to him in these words. ‘Do not grieve. This is the path followed by all the brave ones who do not retreat, and in particular kshatriyas, whose livelihood comes from war. This is the path for brave ones who ﬁght and do not retreat. This has been sanctioned by the sacred texts and is the supreme goal for those who follow the objective. For brave ones who do not retreat, death is certain in battle. There is no doubt that Abhimanyu has gone to the worlds meant for those with meritorious deeds. O bull among the Bharata lineage! This is desired by all the brave ones. O one who shows honour! They wish to obtain death, without retreating from battle. The brave one killed many immensely strong princes in the battle. Without retreating from battle, he obtained the death desired by valiant ones. O tiger among men! Do not sorrow. Earlier, those who have laid down the eternal codes of dharma have decreed that death in battle is the dharma for kshatriyas. O supreme among the Bharata lineage! All your brothers are distressed at seeing you immersed in grief, and so are these kings and well-wishers. O one who shows honour! Comfort them with words of assurance. This should be known and all this is known to you. You should not grieve.’ Having been thus consoled by Krishna, the performer of extraordinary deeds, Partha spoke these words to all his brothers. His voice choked, Partha said, ‘O lord of the earth{149}! His arms were long. His eyes were as long as the petals of lotuses. I wish to hear the account of how Abhimanyu fought. You will see me slay my son's enemies in the battle, with their elephants, chariots and horses, with their followers and kin. All of you are skilled in weapons and you held weapons in your hands. How could Subhadra's son then have been slain, even if he had encountered the wielder of the vajra himself? Had I known that the Pandus and the Panchalas were incapable of protecting my son in battle, I would have protected him myself. All of you were stationed on your chariots and were shooting arrows. How could the enemy repulse you and kill Abhimanyu? You have no manliness. Nor do you possess any valour. While you looked on, Abhimanyu has been brought down in the battle. Perhaps I should censure myself, since I know that all of you are extremely weak. I went away, knowing that you are useless and cowards. Alas! Your armour, weapons and arms are only ornaments on your hands. Your words are only meant for assemblies. You could not protect my son.’ Having spoken these words, he sat down, with the supreme bow and sword in his hands. No one was capable of looking at Bibhatsu then. He sighed repeatedly in anger and looked like the Destroyer himself. He was overcome with grief on account of his son and his face was bathed in tears. With the exception of Vasudeva and the eldest son of Pandu, no one amongst the well-wishers was capable of glancing at him, or speaking to him. Those two were always acceptable to Arjuna and he listened to them. They were extremely revered and dearly loved and could speak to him at such times. On account of his son, his mind was distressed and he was full of sorrow. The king spoke these words to the enraged one, whose eyes were like the petals of lotuses.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“He was full of terrible misery and Krishna spoke to him in these words. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do not grieve. This is the path followed by all the brave ones who do not retreat, and in particular kshatriyas, whose livelihood comes from war. This is the path for brave ones who ﬁght and do not retreat. This has been sanctioned by the sacred texts and is the supreme goal for those who follow the objective. For brave ones who do not retreat, death is certain in battle. There is no doubt that Abhimanyu has gone to the worlds meant for those with meritorious deeds. O bull among the Bharata lineage! This is desired by all the brave ones. O one who shows honour! They wish to obtain death, without retreating from battle. The brave one killed many immensely strong princes in the battle. Without retreating from battle, he obtained the death desired by valiant ones. O tiger among men! Do not sorrow. Earlier, those who have laid down the eternal codes of dharma have decreed that death in battle is the dharma for kshatriyas. O supreme among the Bharata lineage! All your brothers are distressed at seeing you immersed in grief, and so are these kings and well-wishers. O one who shows honour! Comfort them with words of assurance. This should be known and all this is known to you. You should not grieve.’",
+          "speaker": "@vasudeva_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus consoled by Krishna, the performer of extraordinary deeds, Partha spoke these words to all his brothers. His voice choked, Partha said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@arjuna",
+          "introduces_label": "Partha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth{149}! His arms were long. His eyes were as long as the petals of lotuses. I wish to hear the account of how Abhimanyu fought. You will see me slay my son's enemies in the battle, with their elephants, chariots and horses, with their followers and kin. All of you are skilled in weapons and you held weapons in your hands. How could Subhadra's son then have been slain, even if he had encountered the wielder of the vajra himself? Had I known that the Pandus and the Panchalas were incapable of protecting my son in battle, I would have protected him myself. All of you were stationed on your chariots and were shooting arrows. How could the enemy repulse you and kill Abhimanyu? You have no manliness. Nor do you possess any valour. While you looked on, Abhimanyu has been brought down in the battle. Perhaps I should censure myself, since I know that all of you are extremely weak. I went away, knowing that you are useless and cowards. Alas! Your armour, weapons and arms are only ornaments on your hands. Your words are only meant for assemblies. You could not protect my son.’",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having spoken these words, he sat down, with the supreme bow and sword in his hands. No one was capable of looking at Bibhatsu then. He sighed repeatedly in anger and looked like the Destroyer himself. He was overcome with grief on account of his son and his face was bathed in tears. With the exception of Vasudeva and the eldest son of Pandu, no one amongst the well-wishers was capable of glancing at him, or speaking to him. Those two were always acceptable to Arjuna and he listened to them. They were extremely revered and dearly loved and could speak to him at such times. On account of his son, his mind was distressed and he was full of sorrow. The king spoke these words to the enraged one, whose eyes were like the petals of lotuses.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

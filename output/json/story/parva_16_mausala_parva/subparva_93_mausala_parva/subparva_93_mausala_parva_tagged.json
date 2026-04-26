@@ -1,0 +1,86 @@
+{
+  "name": "Mausala Parva",
+  "subparva_number": 93,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 273
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1979": {
+      "chapter_number": 1979,
+      "global_number": 1979,
+      "local_number": 1,
+      "num_shlokas": 11,
+      "file": "subparva_93_mausala_parva/chapter_1979_tagged.json"
+    },
+    "1980": {
+      "chapter_number": 1980,
+      "global_number": 1980,
+      "local_number": 2,
+      "num_shlokas": 20,
+      "file": "subparva_93_mausala_parva/chapter_1980_tagged.json"
+    },
+    "1981": {
+      "chapter_number": 1981,
+      "global_number": 1981,
+      "local_number": 3,
+      "num_shlokas": 22,
+      "file": "subparva_93_mausala_parva/chapter_1981_tagged.json"
+    },
+    "1982": {
+      "chapter_number": 1982,
+      "global_number": 1982,
+      "local_number": 4,
+      "num_shlokas": 46,
+      "file": "subparva_93_mausala_parva/chapter_1982_tagged.json"
+    },
+    "1983": {
+      "chapter_number": 1983,
+      "global_number": 1983,
+      "local_number": 5,
+      "num_shlokas": 25,
+      "file": "subparva_93_mausala_parva/chapter_1983_tagged.json"
+    },
+    "1984": {
+      "chapter_number": 1984,
+      "global_number": 1984,
+      "local_number": 6,
+      "num_shlokas": 15,
+      "file": "subparva_93_mausala_parva/chapter_1984_tagged.json"
+    },
+    "1985": {
+      "chapter_number": 1985,
+      "global_number": 1985,
+      "local_number": 7,
+      "num_shlokas": 22,
+      "file": "subparva_93_mausala_parva/chapter_1985_tagged.json"
+    },
+    "1986": {
+      "chapter_number": 1986,
+      "global_number": 1986,
+      "local_number": 8,
+      "num_shlokas": 74,
+      "file": "subparva_93_mausala_parva/chapter_1986_tagged.json"
+    },
+    "1987": {
+      "chapter_number": 1987,
+      "global_number": 1987,
+      "local_number": 9,
+      "num_shlokas": 38,
+      "file": "subparva_93_mausala_parva/chapter_1987_tagged.json"
+    }
+  }
+}

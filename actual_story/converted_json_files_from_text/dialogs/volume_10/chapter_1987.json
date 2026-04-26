@@ -1,0 +1,197 @@
+{
+  "chapter": 1987,
+  "local": 9,
+  "shlokas": 38,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O king! Arjuna, truthful in his speech, entered the hermitage. He saw the sage who was Satyavati's son seated alone. Knowing about dharma, he approached the one whose vows were great. As is proper, he reported, “My name is Arjuna” and waited. The sage who was Satyavati's son spoke words of welcome. Cheerfully, the great sage asked him to sit. He could see that Partha's mind was cheerless and that he was sighing repeatedly. Seeing that he was overcome with sorrow, Vyasa asked, “Have you been stained in any way? Have you been struck? Have you stolen a brahmana's possessions? Have you been defeated in a battle? It can be discerned that your prosperity has vanished. O bull among the Bharata lineage! I do not know what has transpired. O Partha! I deserve to hear it. You should quickly tell me what has happened.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Arjuna, truthful in his speech, entered the hermitage. He saw the sage who was Satyavati's son seated alone. Knowing about dharma, he approached the one whose vows were great. As is proper, he reported, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“My name is Arjuna”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " and waited. The sage who was Satyavati's son spoke words of welcome. Cheerfully, the great sage asked him to sit. He could see that Partha's mind was cheerless and that he was sighing repeatedly. Seeing that he was overcome with sorrow, Vyasa asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vyasa",
+          "introduces_label": "Vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Have you been stained in any way? Have you been struck? Have you stolen a brahmana's possessions? Have you been defeated in a battle? It can be discerned that your prosperity has vanished. O bull among the Bharata lineage! I do not know what has transpired. O Partha! I deserve to hear it. You should quickly tell me what has happened.”",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Arjuna replied, “His complexion was like that of a cloud. He was handsome and large, with eyes like lotus petals. That Krishna, with Rama, has given up his body and has gone to heaven. Because of a curse imposed by brahmanas, the brave ones among the Vrishnis have destroyed themselves with clubs. There was an encounter in Prabhasa that led to the death of brave ones and it made the body hair stand up. O brahmana! They were brave. They were great-souled. They were proud as lions and extremely strong. The Bhojas, the Vrishnis and the Andhakas have killed each other in a clash. Their arms were like clubs and they could withstand clubs, maces and spears. Behold the progress of time. They have been slain by eraka grass. There were ﬁve hundred thousand ones, with the strength of arms. They attacked each other and have been killed. Because of the destruction of those inﬁnitely energetic ones, I am repeatedly suffering. I keep thinking of the Yadus and the illustrious Krishna. It{50} is like the drying up of the ocean, the moving of the mountains, the falling down of the sky or the cooling down of a ﬁre. I think that the death of the wielder of the Sharnga bow cannot be believed. Without Krishna, I do not wish to remain in this world any more. O store of austerities! Listen to something else that is even more painful. When I repeatedly think about this, my mind is shattered. O brahmana! In the region of the ﬁve rivers, while I looked on, thousands of Vrishni women were abducted by abhiras. Though I picked up my bow, I found that I was unable to string it. The valour in my arms is no longer like that in former times. O great sage! All my diverse kinds of weapons have been destroyed. In a short while, all my arrows were exhausted. That man's soul was immeasurable. He was the wielder of the conch shell, the chakra and the club. He was four-armed and attired in yellow garments. He was dark and his eyes were as large as the petals of lotuses. Earlier, the extremely radiant one used to be ahead of me, on my chariot, when I burnt down the enemy soldiers. I am unable to see him now. He was the one who ﬁrst burnt down the enemy soldiers with his energy. With the arrows released from Gandiva, I brought them down later. O excellent one! Since I am unable to see him, I am distressed and my mind is whirling. I am depressed and cannot ﬁnd any peace. Without the brave Janardana, I am not interested in remaining alive. When I heard that Vishnu had departed, the directions disappeared before me. My kin and my valour have been destroyed. I am like one empty and am running around. O excellent one! You should instruct me about what is best for me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“His complexion was like that of a cloud. He was handsome and large, with eyes like lotus petals. That Krishna, with Rama, has given up his body and has gone to heaven. Because of a curse imposed by brahmanas, the brave ones among the Vrishnis have destroyed themselves with clubs. There was an encounter in Prabhasa that led to the death of brave ones and it made the body hair stand up. O brahmana! They were brave. They were great-souled. They were proud as lions and extremely strong. The Bhojas, the Vrishnis and the Andhakas have killed each other in a clash. Their arms were like clubs and they could withstand clubs, maces and spears. Behold the progress of time. They have been slain by eraka grass. There were ﬁve hundred thousand ones, with the strength of arms. They attacked each other and have been killed. Because of the destruction of those inﬁnitely energetic ones, I am repeatedly suffering. I keep thinking of the Yadus and the illustrious Krishna. It{50} is like the drying up of the ocean, the moving of the mountains, the falling down of the sky or the cooling down of a ﬁre. I think that the death of the wielder of the Sharnga bow cannot be believed. Without Krishna, I do not wish to remain in this world any more. O store of austerities! Listen to something else that is even more painful. When I repeatedly think about this, my mind is shattered. O brahmana! In the region of the ﬁve rivers, while I looked on, thousands of Vrishni women were abducted by abhiras. Though I picked up my bow, I found that I was unable to string it. The valour in my arms is no longer like that in former times. O great sage! All my diverse kinds of weapons have been destroyed. In a short while, all my arrows were exhausted. That man's soul was immeasurable. He was the wielder of the conch shell, the chakra and the club. He was four-armed and attired in yellow garments. He was dark and his eyes were as large as the petals of lotuses. Earlier, the extremely radiant one used to be ahead of me, on my chariot, when I burnt down the enemy soldiers. I am unable to see him now. He was the one who ﬁrst burnt down the enemy soldiers with his energy. With the arrows released from Gandiva, I brought them down later. O excellent one! Since I am unable to see him, I am distressed and my mind is whirling. I am depressed and cannot ﬁnd any peace. Without the brave Janardana, I am not interested in remaining alive. When I heard that Vishnu had departed, the directions disappeared before me. My kin and my valour have been destroyed. I am like one empty and am running around. O excellent one! You should instruct me about what is best for me.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vyasa replied, “The maharatha Vrishnis and Andhakas were consumed because of the curse of brahmanas. O tiger among Kurus! They have been destroyed and you should not grieve about this. Know that this was bound to happen. This was the destiny of those great-souled ones. That is the reason why, despite being able to counter it, Krishna ignored it. Krishna is capable of countering everything in the three worlds, mobile and immobile, not to speak of a curse imposed by learned ones. The wielder of the chakra and the club used to advance in front of your chariot. He was affectionate towards you. He is the ancient rishi, the four-armed Vasudeva. The one with the large eyes desired to reduce the burden of the earth. Having freed the entire universe, he went to his own supreme destination. O bull among men! O mighty-armed one! With you as his aide and with the help of Bhima and the twins, he accomplished a great task for the gods. O bull among the Kurus! I think that you have been extremely successful. Know that the time for your departure has arrived. In my view, that is the best thing for you. O descendant of the Bharata lineage! Strength, intelligence, energy and power remain for as long as the time of adversity does not come. O Dhananjaya! Time is the root of everything. It is the seed of the universe. As it wishes, time also draws everything back again. A person who was strong can subsequently become weak. One can possess prosperity, or one can be commanded by others. Having accomplished their tasks, your weapons have now returned to wherever they came from. If time should so ordain, they will arrive in your hands again. O descendant of the Bharata lineage! The time has come for you to attain the greatest end. O bull among the Bharata lineage! I think that this will bring supreme beneﬁt for you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vyasa replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vyasa",
+          "introduces_label": "Vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The maharatha Vrishnis and Andhakas were consumed because of the curse of brahmanas. O tiger among Kurus! They have been destroyed and you should not grieve about this. Know that this was bound to happen. This was the destiny of those great-souled ones. That is the reason why, despite being able to counter it, Krishna ignored it. Krishna is capable of countering everything in the three worlds, mobile and immobile, not to speak of a curse imposed by learned ones. The wielder of the chakra and the club used to advance in front of your chariot. He was affectionate towards you. He is the ancient rishi, the four-armed Vasudeva. The one with the large eyes desired to reduce the burden of the earth. Having freed the entire universe, he went to his own supreme destination. O bull among men! O mighty-armed one! With you as his aide and with the help of Bhima and the twins, he accomplished a great task for the gods. O bull among the Kurus! I think that you have been extremely successful. Know that the time for your departure has arrived. In my view, that is the best thing for you. O descendant of the Bharata lineage! Strength, intelligence, energy and power remain for as long as the time of adversity does not come. O Dhananjaya! Time is the root of everything. It is the seed of the universe. As it wishes, time also draws everything back again. A person who was strong can subsequently become weak. One can possess prosperity, or one can be commanded by others. Having accomplished their tasks, your weapons have now returned to wherever they came from. If time should so ordain, they will arrive in your hands again. O descendant of the Bharata lineage! The time has come for you to attain the greatest end. O bull among the Bharata lineage! I think that this will bring supreme beneﬁt for you.”",
+          "speaker": "@vyasa",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘Having heard these words of the inﬁnitely energetic Vyasa, Partha took his leave and went to the city of Nagasahvya. The brave one entered the city and met Yudhishthira. Concerning the Vrishnis and the Andhakas, he told him everything that had happened.’ This ends Mousala Parva.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard these words of the inﬁnitely energetic Vyasa, Partha took his leave and went to the city of Nagasahvya. The brave one entered the city and met Yudhishthira. Concerning the Vrishnis and the Andhakas, he told him everything that had happened.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": " This ends Mousala Parva.",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "======= Mahaprasthanika Parva [17] ==== [1] ==== [3] ==== [106] =======",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "======= Mahaprasthanika Parva [17] ==== [1] ==== [3] ==== [106] =======",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

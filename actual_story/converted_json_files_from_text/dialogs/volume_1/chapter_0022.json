@@ -1,0 +1,36 @@
+{
+  "chapter": 22,
+  "local": 22,
+  "shlokas": 5,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘Having been thus addressed by Kadru, the illustrious god who rides tawny horses{62}, covered the entire sky with layers of blue clouds. Those clouds, sparkling with lightning, poured down copious quantities of water. As the clouds continued to thunder in the sky, as if at each other, and continuously poured down torrents of water that were welcome, they roared. The sky seemed to madly dance with the wind's violence, the clap of thunder and the waves of showers. As Vasava{63} poured down this rain, the nagas were overwhelmed with delight. The entire earth was covered everywhere with water.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having been thus addressed by Kadru, the illustrious god who rides tawny horses{62}, covered the entire sky with layers of blue clouds. Those clouds, sparkling with lightning, poured down copious quantities of water. As the clouds continued to thunder in the sky, as if at each other, and continuously poured down torrents of water that were welcome, they roared. The sky seemed to madly dance with the wind's violence, the clap of thunder and the waves of showers. As Vasava{63} poured down this rain, the nagas were overwhelmed with delight. The entire earth was covered everywhere with water.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "chapter_number": 876,
+  "global_number": 876,
+  "local_number": 16,
+  "num_shlokas": 46,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Sanjaya said, “O great king! You are a worthy person and the question that you have asked is ﬁtting. However, you should not ascribe the fault to Duryodhana. One who suffers because of his own evil conduct, should not blame other men. This is not right and you should not do this. O great king! A man who is reprehensible in all his conduct deserves to be killed by everyone because of those censurable deeds. The Pandavas are not wise about deceitful ways. They waited, with their followers and advisers. They looked towards you and bore it. They forgave and dwelt for a long time in the forest. O lord of the earth! Hear about this gathering of horses, elephants and inﬁnitely energetic kings, which I have seen through sight obtained through the strength of yoga. Do not sorrow in your mind. O lord of men! All this has been preordained earlier. I bow down before your father, Parashara’s wise son{24}.  Through his favours, I have obtained divine and supreme wisdom. O king! I have sight beyond the senses and can hear from a great distance. I know the minds of others and am acquainted with the past and the future. I always know about rising and travelling through the sky. The great-souled one has granted me the boon of not being touched by weapons in battle. Listen in detail to the wonderful and extraordinary account. The great battle between the Bharatas makes the body hair stand up.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sanjaya said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“O great king! You are a worthy person and the question that you have asked is ﬁtting. However, you should not ascribe the fault to Duryodhana. One who suffers because of his own evil conduct, should not blame other men. This is not right and you should not do this. O great king! A man who is reprehensible in all his conduct deserves to be killed by everyone because of those censurable deeds. The Pandavas are not wise about deceitful ways. They waited, with their followers and advisers. They looked towards you and bore it. They forgave and dwelt for a long time in the forest. O lord of the earth! Hear about this gathering of horses, elephants and inﬁnitely energetic kings, which I have seen through sight obtained through the strength of yoga. Do not sorrow in your mind. O lord of men! All this has been preordained earlier. I bow down before your father, Parashara’s wise son{24}.  Through his favours, I have obtained divine and supreme wisdom. O king! I have sight beyond the senses and can hear from a great distance. I know the minds of others and am acquainted with the past and the future. I always know about rising and travelling through the sky. The great-souled one has granted me the boon of not being touched by weapons in battle. Listen in detail to the wonderful and extraordinary account. The great battle between the Bharatas makes the body hair stand up.",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“O great king! When the soldiers were arrayed in accordance with the prescribed battle formations, Duryodhana spoke to Duhshasana. ‘O Duhshasana! Let the chariots be yoked immediately for Bhishma’s protection. Instruct all our soldiers to advance swiftly. What I have thought about for many years, has now come to pass. With their soldiers, the Pandavas and the Kurus have met. I do not think that there is anything in this battle more important than Bhishma’s protection. If he is protected, he will kill the Parthas and the Somakas, together with the Srinjayas. That pure-souled one has said, “I will not kill Shikhandi. I have heard that he was a woman earlier. Therefore, I will avoid him in battle.” It is my view that because of this, Bhishma must be specially protected. Let all my soldiers station themselves, resolving to kill Shikhandi. Let all the soldiers from the east and the west, the south and the north, skilled in weapons, protect the grandfather. If unprotected, an extremely strong lion can be killed by a wolf. Let a lion not be killed by the jackal Shikhandi. Yudhamanyu protects Phalguna’s{25} left and Uttamouja protects the right. Phalguna protects Shikhandi. Partha protects the one whom Bhishma will avoid. O Duhshasana! Act so that Gangeya is not slain.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“O great king! When the soldiers were arrayed in accordance with the prescribed battle formations, Duryodhana spoke to Duhshasana. ‘O Duhshasana! Let the chariots be yoked immediately for Bhishma’s protection. Instruct all our soldiers to advance swiftly. What I have thought about for many years, has now come to pass. With their soldiers, the Pandavas and the Kurus have met. I do not think that there is anything in this battle more important than Bhishma’s protection. If he is protected, he will kill the Parthas and the Somakas,",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "together with the Srinjayas. That pure-souled one has said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@together_with_the_srinjayas",
+          "text": "“I will not kill Shikhandi. I have heard that he was a woman earlier. Therefore, I will avoid him in battle.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "It is my view that because of this, Bhishma must be specially protected. Let all my soldiers station themselves, resolving to kill Shikhandi. Let all the soldiers from the east and the west, the south and the north, skilled in weapons, protect the grandfather. If unprotected, an extremely strong lion can be killed by a wolf. Let a lion not be killed by the jackal Shikhandi. Yudhamanyu protects Phalguna’s{25} left and Uttamouja protects the right. Phalguna protects Shikhandi. Partha protects the one whom Bhishma will avoid. O Duhshasana! Act so that Gangeya is not slain.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“When night had passed, a great roar arose from all the lords of the earth. ‘Yoke! Yoke!’ O descendant of the Bharata lineage! The sound of conch shells and drums was like the roar of lions. There was the neighing of horses and the clatter of the wheels of chariots. Elephants trumpeted. Warriors roared. They slapped their arms and there was a tumultuous sound everywhere. O great king! When the sun arose, all the soldiers in the large armies of the Kurus and the Pandavas arose and completed all the arrangements. O Indra among kings! Your sons and the Pandavas possessed elephants and chariots decorated with gold. They could be seen in their radiance, like clouds streaked with lightning. An array of many chariots could be seen, like cities. Your father was extremely resplendent, like the full moon. The warriors were stationed in their battle formations, with bows, scimitars, swords,{26} clubs, javelins, spears and other shining weapons. O lord of the earth! There were elephants, chariots, infantry and horses. There were hundreds and thousands of them, spread like a net. Resplendent standards of many different kinds could be seen. They were brilliant and there were thousands of them, belonging to us and to the enemy. They were golden and were adorned with jewels. They blazed like the ﬁre. The kings possessed thousands of radiant standards. They shone like the great Indra’s standard and resembled the great Indra’s abode. The brave ones who desired to ﬁght, glanced at them. Indras among men were at the forefront of their troops. Their weapons were raised. They had colourful guards on their palms and possessed quivers. Their eyes were like those of bulls. Shakuni Soubala, Shalya, Jayadratha from Sindhu, Vinda and Anuvinda from Avanti, Sudakshina from Kamboja, Shrutayudha from Kalinga, King Jayatsena, Brihadbala from Koshala and Satvata Kritavarma—these ten tigers among men were brave and possessed arms like clubs. They were performers of sacriﬁces at which a lot of gifts were donated. Each of them headed one akshouhini{27}.  Other than this, there were many others who followed Duryodhana. There were immensely strong kings and princes, knowledgeable about policy. They could be seen armoured, heading their armies. All of them were attired in black deerskin. They had standards and wore garlands of munja grass{28}.  They prepared themselves for Duryodhana’s sake and were ready to go to Brahma’s world{29}.  They stationed themselves, heading the ten large armies. The eleventh large army of Kourava, Dhritarashtra’s son, stood in front of all the soldiers, with Shantanu’s son at the head. The undecaying one was in a white headdress. He had white horses and was clad in white armour. O great king! Bhishma could be seen like the rising moon. Stationed on his silver chariot, Bhishma had a standard with a golden palm tree. He could be seen by the Kurus and the Pandavas like the one with the sharp rays,{30} enveloped by white clouds. Dhrishtadyumna, the great Srinjaya archer, was at the forefront{31} and they looked like small animals, glancing at a large and yawning lion. With Dhrishtadyumna at the forefront, all of them trembled repeatedly. O descendant of the Bharata lineage! These are the eleven large divisions of your army. The seven divisions of the Pandavas were also protected by great men. They were like two oceans meeting at the end of an era, infested with crazy sharks{32} and giant crocodiles. O king! We have not seen or heard of anything like this earlier, like those armies encountering each other in the prescribed manner.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“When night had passed, a great roar arose from all the lords of the earth. ‘Yoke! Yoke!’ O descendant of the Bharata lineage! The sound of conch shells and drums was like the roar of lions. There was the neighing of horses and the clatter of the wheels of chariots. Elephants trumpeted. Warriors roared. They slapped their arms and there was a tumultuous sound everywhere. O great king! When the sun arose, all the soldiers in the large armies of the Kurus and the Pandavas arose and completed all the arrangements. O Indra among kings! Your sons and the Pandavas possessed elephants and chariots decorated with gold. They could be seen in their radiance, like clouds streaked with lightning. An array of many chariots could be seen, like cities. Your father was extremely resplendent, like the full moon. The warriors were stationed in their battle formations, with bows, scimitars, swords,{26} clubs, javelins, spears and other shining weapons. O lord of the earth! There were elephants, chariots, infantry and horses. There were hundreds and thousands of them, spread like a net. Resplendent standards of many different kinds could be seen. They were brilliant and there were thousands of them, belonging to us and to the enemy. They were golden and were adorned with jewels. They blazed like the ﬁre. The kings possessed thousands of radiant standards. They shone like the great Indra’s standard and resembled the great Indra’s abode. The brave ones who desired to ﬁght, glanced at them. Indras among men were at the forefront of their troops. Their weapons were raised. They had colourful guards on their palms and possessed quivers. Their eyes were like those of bulls. Shakuni Soubala, Shalya, Jayadratha from Sindhu, Vinda and Anuvinda from Avanti, Sudakshina from Kamboja, Shrutayudha from Kalinga, King Jayatsena, Brihadbala from Koshala and Satvata Kritavarma—these ten tigers among men were brave and possessed arms like clubs. They were performers of sacriﬁces at which a lot of gifts were donated. Each of them headed one akshouhini{27}.  Other than this, there were many others who followed Duryodhana. There were immensely strong kings and princes, knowledgeable about policy. They could be seen armoured, heading their armies. All of them were attired in black deerskin. They had standards and wore garlands of munja grass{28}.  They prepared themselves for Duryodhana’s sake and were ready to go to Brahma’s world{29}.  They stationed themselves, heading the ten large armies. The eleventh large army of Kourava, Dhritarashtra’s son, stood in front of all the soldiers, with Shantanu’s son at the head. The undecaying one was in a white headdress. He had white horses and was clad in white armour. O great king! Bhishma could be seen like the rising moon. Stationed on his silver chariot, Bhishma had a standard with a golden palm tree. He could be seen by the Kurus and the Pandavas like the one with the sharp rays,{30} enveloped by white clouds. Dhrishtadyumna, the great Srinjaya archer, was at the forefront{31} and they looked like small animals, glancing at a large and yawning lion. With Dhrishtadyumna at the forefront, all of them trembled repeatedly. O descendant of the Bharata lineage! These are the eleven large divisions of your army. The seven divisions of the Pandavas were also protected by great men. They were like two oceans meeting at the end of an era, infested with crazy sharks{32} and giant crocodiles. O king! We have not seen or heard of anything like this earlier, like those armies encountering each other in the prescribed manner.”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    }
+  }
+}

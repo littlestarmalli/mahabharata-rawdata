@@ -1,0 +1,116 @@
+{
+  "chapter": 186,
+  "local": 186,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘The messenger said, “Because of the wedding, King Drupada has prepared a good feast for the bridegroom's party. Come there with Krishna after ﬁnishing the daily rituals. Do not delay. These chariots, adorned with golden lotuses and drawn by excellent horses, are worthy of being ridden by those who rule the earth. Ascending on them, all of you come swiftly to the palace of the king of Panchala.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The messenger said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_messenger",
+          "introduces_label": "The messenger",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Because of the wedding, King Drupada has prepared a good feast for the bridegroom's party. Come there with Krishna after ﬁnishing the daily rituals. Do not delay. These chariots, adorned with golden lotuses and drawn by excellent horses, are worthy of being ridden by those who rule the earth. Ascending on them, all of you come swiftly to the palace of the king of Panchala.”",
+          "speaker": "the_messenger",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When he{1} left, all the bulls among the Kurus{2} sent the priest on ahead of them. Placing Kunti and Krishna on one chariot, they ascended those great chariots and left. O king! O descendant of the Bharata lineage! Having heard from the priest the words of Dharmaraja, he{3} kept ready a large collection of things like fruits, sanctiﬁed garlands, shields, armour, seats, cattle, ropes, and other objects used in agriculture, to determine the nature of the Kurus{4}. The king also completely provided for all objects concerning other crafts and all articles used in sports—chariots, horses, armour that were shining, great swords, adorned horses and chariots, the best of bows and the choicest of arrows and spears and lances laced with gold, javelins, catapults and battleaxes, all instruments connected with war. There were beds and seats and many other objects of craftsmanship.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When he{1} left, all the bulls among the Kurus{2} sent the priest on ahead of them. Placing Kunti and Krishna on one chariot, they ascended those great chariots and left. O king! O descendant of the Bharata lineage! Having heard from the priest the words of Dharmaraja, he{3} kept ready a large collection of things like fruits, sanctiﬁed garlands, shields, armour, seats, cattle, ropes, and other objects used in agriculture, to determine the nature of the Kurus{4}. The king also completely provided for all objects concerning other crafts and all articles used in sports—chariots, horses, armour that were shining, great swords, adorned horses and chariots, the best of bows and the choicest of arrows and spears and lances laced with gold, javelins, catapults and battleaxes, all instruments connected with war. There were beds and seats and many other objects of craftsmanship.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Taking the righteous Krishna with her, Kunti entered the inner quarters of Drupada. The ladies worshipped the wife of the king of the Kouravas eagerly. O king! On seeing those chief among men, with eyes like those of powerful bulls, dressed in deerskin for upper garments, with broad shoulders and long arms that were like coiled snakes, with the gait of lions, the king, the king's advisers, the king's sons and the king's relatives and attendants were then extremely delighted. Without hesitation or surprise, those warriors then seated themselves on the best of seats, with separate footstools. One after another, they sat, according to age. Well-dressed male and female servants and skilled cooks brought all types of food worthy of kings, in plates made of gold and silver.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Taking the righteous Krishna with her, Kunti entered the inner quarters of Drupada. The ladies worshipped the wife of the king of the Kouravas eagerly. O king! On seeing those chief among men, with eyes like those of powerful bulls, dressed in deerskin for upper garments, with broad shoulders and long arms that were like coiled snakes, with the gait of lions, the king, the king's advisers, the king's sons and the king's relatives and attendants were then extremely delighted. Without hesitation or surprise, those warriors then seated themselves on the best of seats, with separate footstools. One after another, they sat, according to age. Well-dressed male and female servants and skilled cooks brought all types of food worthy of kings, in plates made of gold and silver.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having eaten, those foremost among men were pleased, and relaxed. They examined all the objects that were laid out and the warriors showed the most interest in the various implements of war. On seeing this, Drupada's sons, the king himself{5} and all his chief advisers were delighted at having realized that the sons of Kunti were the sons and grandsons of kings. They paid their respects.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having eaten, those foremost among men were pleased, and relaxed. They examined all the objects that were laid out and the warriors showed the most interest in the various implements of war. On seeing this, Drupada's sons, the king himself{5} and all his chief advisers were delighted at having realized that the sons of Kunti were the sons and grandsons of kings. They paid their respects.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "chapter_number": 51,
+  "global_number": 51,
+  "local_number": 51,
+  "num_shlokas": 23,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Janamejaya said, “Though he is but a child, he speaks like a wise old man. He is not a child. I think he is wise and old. I wish to grant him a boon. O assembled Brahmanas! Give me the required permission.”",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Janamejaya said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@janamejaya",
+          "text": "“Though he is but a child, he speaks like a wise old man. He is not a child. I think he is wise and old. I wish to grant him a boon. O assembled Brahmanas! Give me the required permission.”",
+          "color": "#C77DFF",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The sadasyas said, “Even though a child, a Brahmana deserves the respect of kings, even more so if he is learned. This child deserves that you grant him his wishes, but not before Takshaka has swiftly come here.”’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The sadasyas said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_sadasyas",
+          "text": "“Even though a child, a Brahmana deserves the respect of kings, even more so if he is learned. This child deserves that you grant him his wishes, but not before Takshaka has swiftly come here.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "Souti said, ‘The king was willing to grant the Brahmana boy a boon and was about to say, “Ask a boon from me.” But the hotar was not pleased at this and said, “Takshaka has not yet come to the sacriﬁce.” Janamejaya said, “Try your best to complete this sacriﬁce successfully. Use all your powers, so that Takshaka comes here without any more delay. He is the one I hate the most.” The ritvijas said, “O king! Takshaka now lives in fear in Indra’s palace. The shastras reveal this to us and the ﬁre also conﬁrms it.” The great-souled suta Lohitaksha was well versed in ancient tales and had known this before. Asked again by the king on this occasion, he said, “O god among men! O king! What the Brahmanas have said is true. I know the ancient accounts and I say that Indra has granted him a boon saying that he should live secretly near him and the ﬁre will not be able to burn him.” On hearing this, the king, who had been instated in the sacriﬁce, was angry and asked the hotar to perform his duties. He chanted mantras and poured oblations into the ﬁre.",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Souti said,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘The king was willing to grant the Brahmana boy a boon and was about to say,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@ugrasrava",
+          "text": "“Ask a boon from me.”",
+          "color": "#E8B86D",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "But the hotar was not pleased at this and said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_hotar_was",
+          "text": "“Takshaka has not yet come to the sacriﬁce.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Janamejaya said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@janamejaya",
+          "text": "“Try your best to complete this sacriﬁce successfully. Use all your powers, so that Takshaka comes here without any more delay. He is the one I hate the most.”",
+          "color": "#C77DFF",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The ritvijas said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ritvijas",
+          "text": "“O king! Takshaka now lives in fear in Indra’s palace. The shastras reveal this to us and the ﬁre also conﬁrms it.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "The great-souled suta Lohitaksha was well versed in ancient tales and had known this before.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Asked again by the king on this occasion, he said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@again_by_the",
+          "text": "“O god among men! O king! What the Brahmanas have said is true. I know the ancient accounts and I say that Indra has granted him a boon saying that he should live secretly near him and the ﬁre will not be able to burn him.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "On hearing this, the king, who had been instated in the sacriﬁce, was angry and asked the hotar to perform his duties. He chanted mantras and poured oblations into the ﬁre.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Thereupon, Indra himself arrived there. The great god came in his celestial chariot, worshipped by all the gods surrounding him and followed by masses of clouds and large numbers of vidyadharas{168} and apsaras. But the snake{169} hid himself inside Indra’s garments. At that, the king, who was determined to destroy Takshaka, angrily spoke to his priests who knew the mantras. “O Brahmanas! If Takshaka is in Indra’s palace, hurl him into the ﬁre with Indra himself.” The ritvijas said, “O king! Look. Takshaka is coming now and will soon be under your power. His terrible roars and fearful cries can be heard. The snake has been given up by the wielder of the vajra. He has fallen and his body has been disabled through our mantras. Deprived of his consciousness, the king of snakes is falling from the sky. His sharp sighs and deep breaths can be heard. O lord of kings! Your deed is being properly performed. It is now proper for you to grant a boon to this best of Brahmanas.” Janamejaya said, “O one who is beyond measure! You are so handsome and so childlike that I wish to grant you a worthy boon. Therefore, ask for the desire that is in your heart. I promise you that I will grant it to you, if it can be granted.” Takshaka, the king of snakes, was about to fall into the sacriﬁcial ﬁre in a moment.",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Thereupon, Indra himself arrived there. The great god came in his celestial chariot, worshipped by all the gods surrounding him and followed by masses of clouds and large numbers of vidyadharas{168} and apsaras. But the snake{169} hid himself inside Indra’s garments. At that, the king, who was determined to destroy Takshaka,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "angrily spoke to his priests who knew the mantras",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@angrily",
+          "text": "“O Brahmanas! If Takshaka is in Indra’s palace, hurl him into the ﬁre with Indra himself.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The ritvijas said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ritvijas",
+          "text": "“O king! Look. Takshaka is coming now and will soon be under your power. His terrible roars and fearful cries can be heard. The snake has been given up by the wielder of the vajra. He has fallen and his body has been disabled through our mantras. Deprived of his consciousness, the king of snakes is falling from the sky. His sharp sighs and deep breaths can be heard. O lord of kings! Your deed is being properly performed. It is now proper for you to grant a boon to this best of Brahmanas.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Janamejaya said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@janamejaya",
+          "text": "“O one who is beyond measure! You are so handsome and so childlike that I wish to grant you a worthy boon. Therefore, ask for the desire that is in your heart. I promise you that I will grant it to you, if it can be granted.”",
+          "color": "#C77DFF",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Takshaka, the king of snakes, was about to fall into the sacriﬁcial ﬁre in a moment.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘At that very instant, Astika spoke. “O Janamejaya! If you wish to grant me a boon, I wish that this sacriﬁce should be stopped. Let no more snakes fall down.” O Brahmana! At these words, Parikshit’s son wasn’t happy and told Astika, “O illustrious one! I will give you gold, silver, cows or whatever else you wish to possess. O Brahmana! I shall give you your boon. But let this sacriﬁce not be stopped.” Astika replied, “O king! I do not ask you for gold, silver or cattle. Let this sacriﬁce be stopped, so that my mother’s relatives are safe.” Thus addressed by Astika, Parikshit’s son repeatedly told Astika, greatest among eloquent ones, “O supreme among supreme Brahmanas! O fortunate one! O descendant of the Bhrigu lineage! Choose another boon.” But he{170} refused. Thereupon, all the sadasyas, who were learned in all the Vedas, unanimously told the king, “Let the Brahmana have his boon.”’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘At that very instant,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Astika spoke",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@astika",
+          "text": "“O Janamejaya! If you wish to grant me a boon, I wish that this sacriﬁce should be stopped. Let no more snakes fall down.”",
+          "color": "#C64ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "O Brahmana! At these words,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Parikshit’s son wasn’t happy and told Astika",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@parikshit",
+          "text": "“O illustrious one! I will give you gold, silver, cows or whatever else you wish to possess. O Brahmana! I shall give you your boon. But let this sacriﬁce not be stopped.”",
+          "color": "#B7D7E8",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Astika replied",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@astika",
+          "text": "“O king! I do not ask you for gold, silver or cattle. Let this sacriﬁce be stopped, so that my mother’s relatives are safe.”",
+          "color": "#C64ED9",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Thus addressed by Astika, Parikshit’s son repeatedly told Astika, greatest among eloquent ones",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@by_astika",
+          "text": "“O supreme among supreme Brahmanas! O fortunate one! O descendant of the Bhrigu lineage! Choose another boon.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "But he{170} refused. Thereupon, all the sadasyas, who were learned in all the Vedas,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "unanimously told the king",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@unanimously",
+          "text": "“Let the Brahmana have his boon.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

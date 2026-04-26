@@ -1,0 +1,107 @@
+{
+  "chapter_number": 148,
+  "global_number": 148,
+  "local_number": 148,
+  "num_shlokas": 16,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Kunti said, “I wish to learn exactly from you the reason for this grief. On learning it, I will remove the cause from you, if it can be removed.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Kunti said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@kunti",
+          "text": "“I wish to learn exactly from you the reason for this grief. On learning it, I will remove the cause from you, if it can be removed.”",
+          "color": "#E9C46A",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘The Brahmana said, “O lady blessed with austerities! What you have said is worthy of righteous ones. But removal of this grief is beyond humans. Not far from this town lives a rakshasa named Baka. That immensely powerful one is the lord of this town and this country. That evil-minded maneater, chief among asuras, and with the power of rakshasas, rules over and protects this town, this country and this region, sustained through human ﬂesh. Thus protected by him, we have no fear from any encirclement by enemies or any living beings. But his stipend has been ﬁxed to a supply of food—a cartload of rice, two buffaloes and the human who takes these to him. One after another, all the people provide him with food. After intervals of many years, this difﬁcult task comes to a particular man and it is impossible to escape. If men ever try to escape their turn, the rakshasa eats them up, with their wives and children.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The Brahmana said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_brahmana",
+          "text": "“O lady blessed with austerities! What you have said is worthy of righteous ones. But removal of this grief is beyond humans. Not far from this town lives a rakshasa named Baka. That immensely powerful one is the lord of this town and this country. That evil-minded maneater, chief among asuras, and with the power of rakshasas, rules over and protects this town, this country and this region, sustained through human ﬂesh. Thus protected by him, we have no fear from any encirclement by enemies or any living beings. But his stipend has been ﬁxed to a supply of food—a cartload of rice, two buffaloes and the human who takes these to him. One after another, all the people provide him with food. After intervals of many years, this difﬁcult task comes to a particular man and it is impossible to escape. If men ever try to escape their turn, the rakshasa eats them up, with their wives and children.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“The king lives in a place known as Vetrakiyagriha. But he makes no efforts to free his subjects from this danger for good. We deserve all of this, because we live in continued harassment in the kingdom of a weak and incompetent king. Brahmanas are free to live, as they wish, on anyone’s land{11}. They base themselves on their qualities and like birds freely go where they will. It is said that ﬁrst one should ﬁnd a king, then a wife, and then riches. By acquiring all three, one can maintain one’s relatives and one’s sons. But in acquiring these three, I have chosen the wrong order. Therefore, having fallen into this danger, I am suffering great grief. It is now my turn and it will destroy my family. I shall have to provide food and a man as stipend. I don’t have the riches to purchase a man. Nor am I able to give up someone who is dear to me. I do not see any means of saving myself from that rakshasa. I am immersed in this great ocean of grief from which no escape seems possible. Today, I will go to that rakshasa with my entire family, so that the evil one can eat all of us together.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_brahmana",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_brahmana",
+          "text": "“The king lives in a place known as Vetrakiyagriha. But he makes no efforts to free his subjects from this danger for good. We deserve all of this, because we live in continued harassment in the kingdom of a weak and incompetent king. Brahmanas are free to live, as they wish, on anyone’s land{11}. They base themselves on their qualities and like birds freely go where they will. It is said that ﬁrst one should ﬁnd a king, then a wife, and then riches. By acquiring all three, one can maintain one’s relatives and one’s sons. But in acquiring these three, I have chosen the wrong order. Therefore, having fallen into this danger, I am suffering great grief. It is now my turn and it will destroy my family. I shall have to provide food and a man as stipend. I don’t have the riches to purchase a man. Nor am I able to give up someone who is dear to me. I do not see any means of saving myself from that rakshasa. I am immersed in this great ocean of grief from which no escape seems possible. Today, I will go to that rakshasa with my entire family, so that the evil one can eat all of us together.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_brahmana",
+          "text": "’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

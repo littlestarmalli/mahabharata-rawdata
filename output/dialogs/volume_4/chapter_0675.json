@@ -1,0 +1,315 @@
+{
+  "chapter": 675,
+  "local": 12,
+  "shlokas": 32,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Shalya said, “On seeing that Nahusha was enraged, the gods, with the rishis at the forefront, went and told Nahusha, the king of the gods, whose visage was terrible. ‘O king of the gods! Conquer your anger. O lord! The universe, with all its asuras, gandharvas, kinnaras and giant serpents, is terriﬁed at your wrath. O virtuous one! Conquer this anger. Those who are like you are never enraged. That goddess is the wife of another. O lord of the gods! Be paciﬁed. Turn your mind away from the sin of molesting another one's wife. O fortunate one! You are the king of the gods. You should protect the subjects in accordance with dharma.’ He was addressed in this way, but did not accept these words. He was deluded by desire. Then the lord of the gods spoke to the gods about Indra. ‘The illustrious Ahalya was the wife of a rishi. But Indra had raped her earlier, while her husband was still alive{84}. Why did you not restrain him then? In earlier times, Indra performed many cruel deeds. He acted against dharma and resorted to deceit. Why did you not restrain him then? Let the goddess serve me. That will be the best for her. And that will always ensure welfare for the gods too.’ The gods replied, ‘O lord of heaven! We will bring Indrani here, as you wish. O brave one! O lord of the gods! Conquer your anger and be pleased.’ O descendant of the Bharata lineage! Having said this, the gods, together with the rishis, went to Brihaspati and told Indrani the inauspicious words. ‘We know that Indrani has sought refuge in your abode and that you have granted her freedom from fear. O Indra among brahmanas! O supreme among devarshis! O greatly radiant one! The gods, together with the gandharvas and the rishis, seek your favours. Let Indrani be handed over to Nahusha. Nahusha is the greatly radiant king of the gods and is superior to Indra. Let this one with the excellent complexion and with the excellent thighs accept him as her husband.’ Having been thus addressed, the goddess shed loud tears.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shalya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shalya",
+          "introduces_label": "Shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On seeing that Nahusha was enraged, the gods, with the rishis at the forefront, went and told Nahusha, the king of the gods, whose visage was terrible. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king of the gods! Conquer your anger. O lord! The universe, with all its asuras, gandharvas, kinnaras and giant serpents, is terriﬁed at your wrath. O virtuous one! Conquer this anger. Those who are like you are never enraged. That goddess is the wife of another. O lord of the gods! Be paciﬁed. Turn your mind away from the sin of molesting another one's wife. O fortunate one! You are the king of the gods. You should protect the subjects in accordance with dharma.’",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He was addressed in this way, but did not accept these words. He was deluded by desire. Then the lord of the gods spoke to the gods about Indra. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The illustrious Ahalya was the wife of a rishi. But Indra had raped her earlier, while her husband was still alive{84}. Why did you not restrain him then? In earlier times, Indra performed many cruel deeds. He acted against dharma and resorted to deceit. Why did you not restrain him then? Let the goddess serve me. That will be the best for her. And that will always ensure welfare for the gods too.’",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The gods replied, ",
+          "speaker": "@shalya",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of heaven! We will bring Indrani here, as you wish. O brave one! O lord of the gods! Conquer your anger and be pleased.’",
+          "speaker": "the_gods",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bharata lineage! Having said this, the gods, together with the rishis, went to Brihaspati and told Indrani the inauspicious words. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We know that Indrani has sought refuge in your abode and that you have granted her freedom from fear. O Indra among brahmanas! O supreme among devarshis! O greatly radiant one! The gods, together with the gandharvas and the rishis, seek your favours. Let Indrani be handed over to Nahusha. Nahusha is the greatly radiant king of the gods and is superior to Indra. Let this one with the excellent complexion and with the excellent thighs accept him as her husband.’",
+          "speaker": "the_gods",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, the goddess shed loud tears.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“She was miserable and weeping and spoke these words to Brihaspati. ‘I do not wish to have Nahusha as my husband and give up my lord. O brahmana! I have sought refuge with you. Save me from this great calamity.’ Brihaspati replied, ‘It is certain that I will not give up Indrani, who has sought refuge with me. She follows dharma. Her conduct is in accordance with dharma. O unblemished one! I will not give you up. I do not wish to perform an act that should not be done, especially because I am a brahmana. I have heard about dharma. I am truthful in my conduct. I know the injunctions of dharma. I will not do this. O supreme among the gods! Depart. In these matters, Brahma recounted a song in earlier times. Listen to it. “He who hands over to the enemy someone who has sought refuge, his seed will not grow at the time of sowing. His rains will not shower at the time of rains. When he wishes for protection, he will not receive it. That insensate one will have a barren harvest. That one, whose mind has been deluded, will be dislodged from the world of heaven. The gods refuse to accept the offerings of one who gives away a frightened one who has sought succour. His offspring will perish before the right time. His ancestors will always discard him. If one hands over a frightened one who has sought succour to the enemy, the gods and Indra hurl their vajra at him.” Knowing this, I will not hand over Shachi Indrani, who is famous in the world as Shakra's beloved wife. O best among the gods! What is good for her will also be good for me. Let us act according to that. I will not give Shachi away.’ Then the gods told their preceptor, who was supreme in the Angirasa lineage, ‘O Brihaspati! You advise us about the best course of action.’ Brihaspati replied, ‘Let this beautiful goddess ask for some time from Nahusha. I think this will ensure Indrani's welfare and ours too. Time brings many impediments. It is time which leads to another time. Because of the boon he has obtained, Nahusha is insolent and powerful.’ When he had spoken thus, the gods were delighted and told him, ‘O brahmana! What you have spoken is for the welfare of all the denizens of heaven. O best of brahmanas! Let us seek the favours of this goddess.’ Then all the gods, with Agni at the forefront, anxious to ensure the welfare of all the worlds, told Indrani, ‘You bear the entire universe, with everything that is immobile and mobile. You are true and devoted to one husband. Go to Nahusha. That lord of the earth, Nahusha, who lusts after you, will soon be destroyed. Shakra will become the lord of the gods again.’ Having thus decided on a course of action that would ensure success, Indrani went to Nahusha, whose visage was terrible.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“She was miserable and weeping and spoke these words to Brihaspati. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I do not wish to have Nahusha as my husband and give up my lord. O brahmana! I have sought refuge with you. Save me from this great calamity.’",
+          "speaker": "the_gods",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Brihaspati replied, ",
+          "speaker": "@shalya",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is certain that I will not give up Indrani, who has sought refuge with me. She follows dharma. Her conduct is in accordance with dharma. O unblemished one! I will not give you up. I do not wish to perform an act that should not be done, especially because I am a brahmana. I have heard about dharma. I am truthful in my conduct. I know the injunctions of dharma. I will not do this. O supreme among the gods! Depart. In these matters, Brahma recounted a song in earlier times. Listen to it. ",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“He who hands over to the enemy someone who has sought refuge, his seed will not grow at the time of sowing. His rains will not shower at the time of rains. When he wishes for protection, he will not receive it. That insensate one will have a barren harvest. That one, whose mind has been deluded, will be dislodged from the world of heaven. The gods refuse to accept the offerings of one who gives away a frightened one who has sought succour. His offspring will perish before the right time. His ancestors will always discard him. If one hands over a frightened one who has sought succour to the enemy, the gods and Indra hurl their vajra at him.”",
+          "speaker": "@brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Knowing this, I will not hand over Shachi Indrani, who is famous in the world as Shakra's beloved wife. O best among the gods! What is good for her will also be good for me. Let us act according to that. I will not give Shachi away.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the gods told their preceptor, who was supreme in the Angirasa lineage, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Brihaspati! You advise us about the best course of action.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Brihaspati replied, ",
+          "speaker": "@shalya",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let this beautiful goddess ask for some time from Nahusha. I think this will ensure Indrani's welfare and ours too. Time brings many impediments. It is time which leads to another time. Because of the boon he has obtained, Nahusha is insolent and powerful.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When he had spoken thus, the gods were delighted and told him, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! What you have spoken is for the welfare of all the denizens of heaven. O best of brahmanas! Let us seek the favours of this goddess.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then all the gods, with Agni at the forefront, anxious to ensure the welfare of all the worlds, told Indrani, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You bear the entire universe, with everything that is immobile and mobile. You are true and devoted to one husband. Go to Nahusha. That lord of the earth, Nahusha, who lusts after you, will soon be destroyed. Shakra will become the lord of the gods again.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having thus decided on a course of action that would ensure success, Indrani went to Nahusha, whose visage was terrible.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“She was bashful. Having beheld her in her youth and beauty, the evil-souled Nahusha was delighted. He lost his senses because of desire.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“She was bashful. Having beheld her in her youth and beauty, the evil-souled Nahusha was delighted. He lost his senses because of desire.”",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

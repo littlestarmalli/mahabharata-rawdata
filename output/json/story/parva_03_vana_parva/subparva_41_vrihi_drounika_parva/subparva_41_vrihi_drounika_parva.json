@@ -1,0 +1,34 @@
+{
+  "name": "Vrihi-Drounika Parva",
+  "subparva_number": 41,
+  "source_volume": 3,
+  "file_path": "output/volumes/volume_3_chapters.txt",
+  "details": {
+    "num_chapters": 3,
+    "num_shlokas": 117
+  },
+  "note": "Vrihi means rice, or a grain of rice. Drouni or drona means a vessel, as well as a measure of capacity. Vyasa visits the Pandavas and tells them the story of Mudgala, who lived on a measure (drona) of rice (vrihi) and was generous enough to give it away. Mudgala was tested by the sage Durvasa and turned down an opportunity to go to heaven.",
+  "chapters": {
+    "542": {
+      "chapter_number": 542,
+      "global_number": 542,
+      "local_number": 245,
+      "num_shlokas": 34,
+      "file": "subparva_41_vrihi_drounika_parva/chapter_542.json"
+    },
+    "543": {
+      "chapter_number": 543,
+      "global_number": 543,
+      "local_number": 246,
+      "num_shlokas": 36,
+      "file": "subparva_41_vrihi_drounika_parva/chapter_543.json"
+    },
+    "544": {
+      "chapter_number": 544,
+      "global_number": 544,
+      "local_number": 247,
+      "num_shlokas": 47,
+      "file": "subparva_41_vrihi_drounika_parva/chapter_544.json"
+    }
+  }
+}

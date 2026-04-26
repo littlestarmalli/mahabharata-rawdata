@@ -1,0 +1,194 @@
+{
+  "chapter": 305,
+  "local": 8,
+  "shlokas": 23,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having heard that Vidura had returned and that he had been paciﬁed by the king{68}, the evilminded king who was Dhritarashtra's son{69} burnt with anger. Darkness having entered his mind, the king summoned Soubala, Karna and Duhshasana and told them these words, “The adviser honoured by Dhritarashtra has returned. The learned Vidura is a well-wisher of the sons of Pandu and is always devoted to their welfare. Advice me about what is in my welfare, so that Vidura does not inﬂuence his{70} intelligence to again bring the Pandavas back. If I again see the Parthas return here in some way, I will certainly dry up, without life and without riches. I will consume poison or hang myself, or use a weapon or enter the ﬁre. I will never again be able to witness their prosperity.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard that Vidura had returned and that he had been paciﬁed by the king{68}, the evilminded king who was Dhritarashtra's son{69} burnt with anger. Darkness having entered his mind, the king summoned Soubala, Karna and Duhshasana and told them these words, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The adviser honoured by Dhritarashtra has returned. The learned Vidura is a well-wisher of the sons of Pandu and is always devoted to their welfare. Advice me about what is in my welfare, so that Vidura does not inﬂuence his{70} intelligence to again bring the Pandavas back. If I again see the Parthas return here in some way, I will certainly dry up, without life and without riches. I will consume poison or hang myself, or use a weapon or enter the ﬁre. I will never again be able to witness their prosperity.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shakuni replied, “O king! O lord of the earth! Why are you falling prey to these childlike thoughts? They have gone after an agreement. Therefore, their return won't happen. O bull among the Bharata lineage! All the Pandavas are always established in the truth of their words. O son! They will never accept your father's words. If however they accept them and return again to the city, thus violating the agreement, we will again play, staking everything. Apparently obedient to the king{71} and maintaining a middle position{72}, we will protect ourselves and wait to see many weaknesses emerge in the Pandavas.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shakuni replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@shakuni",
+          "introduces_label": "Shakuni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O lord of the earth! Why are you falling prey to these childlike thoughts? They have gone after an agreement. Therefore, their return won't happen. O bull among the Bharata lineage! All the Pandavas are always established in the truth of their words. O son! They will never accept your father's words. If however they accept them and return again to the city, thus violating the agreement, we will again play, staking everything. Apparently obedient to the king{71} and maintaining a middle position{72}, we will protect ourselves and wait to see many weaknesses emerge in the Pandavas.”",
+          "speaker": "@shakuni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duhshasana said, “O immensely intelligent maternal uncle! It will be exactly as you say. The intelligent words you utter have always pleased me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duhshasana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@duhshasana",
+          "introduces_label": "Duhshasana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O immensely intelligent maternal uncle! It will be exactly as you say. The intelligent words you utter have always pleased me.”",
+          "speaker": "@duhshasana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Karna said, “O Duryodhana! All of us always try to accomplish what you desire. O king! I notice that all of us are united in our view.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Karna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Duryodhana! All of us always try to accomplish what you desire. O king! I notice that all of us are united in our view.”",
+          "speaker": "@karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "Vaishampayana said, ‘Having been thus addressed by Karna, King Duryodhana then turned his face away, without being greatly happy. On realizing this, Karna opened his radiant eyes wide. In great anger, he aroused himself, and spoke to Duhshasana and Soubala in wrath, “O lords of men! Listen to my true views. With servile hands, we are trying to do everything that pleases the king{73}. But while remaining stationary, we cannot always bring him pleasure. Let us now grasp our armour and weapons and mounting our chariots, go together and kill the Pandavas, who are roaming in the forest. When they have all been paciﬁed and have left for the unknown journey{74}, we and Dhritarashtra's sons will be unchallenged. As long as they are distressed and as long as they are immersed in grief, as long as they are without allies, till then, we can do this. This is my view.” Having heard these words, they applauded them repeatedly. All of them then praised the suta's son, saying that his words were excellent. Having said this, all those angry ones separately mounted their chariots. They then set out in a body, having made up their minds to kill the Pandavas. The pure-souled and illustrious lord Krishna Dvaipayana{75} saw this with his divine sight and got to know about their departure. He is the illustrious one who is worshipped by all the worlds. He came to them and restrained them. He then swiftly went to the place where the one whose wisdom was his sight{76} was seated, and spoke to him.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "Vaishampayana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘Having been thus addressed by Karna, King Duryodhana then turned his face away, without being greatly happy. On realizing this, Karna opened his radiant eyes wide. In great anger, he aroused himself, and spoke to Duhshasana and Soubala in wrath, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O lords of men! Listen to my true views. With servile hands, we are trying to do everything that pleases the king{73}. But while remaining stationary, we cannot always bring him pleasure. Let us now grasp our armour and weapons and mounting our chariots, go together and kill the Pandavas, who are roaming in the forest. When they have all been paciﬁed and have left for the unknown journey{74}, we and Dhritarashtra's sons will be unchallenged. As long as they are distressed and as long as they are immersed in grief, as long as they are without allies, till then, we can do this. This is my view.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": " Having heard these words, they applauded them repeatedly. All of them then praised the suta's son, saying that his words were excellent. Having said this, all those angry ones separately mounted their chariots. They then set out in a body, having made up their minds to kill the Pandavas. The pure-souled and illustrious lord Krishna Dvaipayana{75} saw this with his divine sight and got to know about their departure. He is the illustrious one who is worshipped by all the worlds. He came to them and restrained them. He then swiftly went to the place where the one whose wisdom was his sight{76} was seated, and spoke to him.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

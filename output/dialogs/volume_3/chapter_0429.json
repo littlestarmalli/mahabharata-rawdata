@@ -1,0 +1,294 @@
+{
+  "chapter": 429,
+  "local": 132,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Lomasha said, “O Indra among men! Behold the sacred hermitage of Shvetaketu, the son of Uddalaka, whose fame as a knower of mantras was recounted on earth. It always has trees full of fruit. Shvetaketu saw Sarasvati herself there, in her human form. When Sarasvati appeared, Shvetaketu told her, ‘Give me the power of speech.’ O king! At that time, Ashtavakra, the son of Kahoda, and Shvetaketu, the son of Uddalaka, were the foremost among those who knew the brahman and were uncle and nephew. Uncle and nephew, the illustrious brahmanas, went to the sacriﬁce of King Videha, lord of earth. They vanquished the immeasurable Bandi in a debate.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among men! Behold the sacred hermitage of Shvetaketu, the son of Uddalaka, whose fame as a knower of mantras was recounted on earth. It always has trees full of fruit. Shvetaketu saw Sarasvati herself there, in her human form. When Sarasvati appeared, Shvetaketu told her, ",
+          "speaker": "@lomasha",
+          "introduces": "@shvetaketu",
+          "introduces_label": "Shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Give me the power of speech.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! At that time, Ashtavakra, the son of Kahoda, and Shvetaketu, the son of Uddalaka, were the foremost among those who knew the brahman and were uncle and nephew. Uncle and nephew, the illustrious brahmanas, went to the sacriﬁce of King Videha, lord of earth. They vanquished the immeasurable Bandi in a debate.”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “What was the power of the brahmana who thus vanquished Bandi? Why was he born as Ashtavakra? O Lomasha! Tell me everything accurately.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What was the power of the brahmana who thus vanquished Bandi? Why was he born as Ashtavakra? O Lomasha! Tell me everything accurately.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Lomasha replied, “Uddalaka had a self-controlled disciple. O king! He was known by the name of Kahoda. He served his preceptor and was devoted to him. He studied for a long time. There were many brahmanas who served as disciples. But the preceptor knew him to be the one. He gave him all his knowledge and his daughter Sujata as a wife. She conceived and the child, who was radiant as the ﬁre, spoke to his studious father. ‘You have studied all night. O father! But you are not right.’ The maharshi was insulted among his own students. He cursed the child who was still inside the womb. ‘Since you spoke while you were still inside, you will be crooked in eight ways.’ He was born exactly as had been spoken and this maharshi became famous as Ashtavakra{590}. His maternal uncle was Shvetaketu, who was equal to him in age. While her son grew inside her, Sujata was extremely distressed. She was poor and desired riches. In a conciliatory tone, she privately spoke to her husband. ‘O maharshi! What will we do without riches? The tenth month is upon me. You have no riches. Once the delivery takes place, how will we overcome the calamity that confronts us?’ Having been thus addressed by his wife, Kahoda went to Janaka for riches. Bandi was skilled in debate. The brahmana was defeated by him and drowned in the waters.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Uddalaka had a self-controlled disciple. O king! He was known by the name of Kahoda. He served his preceptor and was devoted to him. He studied for a long time. There were many brahmanas who served as disciples. But the preceptor knew him to be the one. He gave him all his knowledge and his daughter Sujata as a wife. She conceived and the child, who was radiant as the ﬁre, spoke to his studious father. ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You have studied all night. O father! But you are not right.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The maharshi was insulted among his own students. He cursed the child who was still inside the womb. ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Since you spoke while you were still inside, you will be crooked in eight ways.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He was born exactly as had been spoken and this maharshi became famous as Ashtavakra{590}. His maternal uncle was Shvetaketu, who was equal to him in age. While her son grew inside her, Sujata was extremely distressed. She was poor and desired riches. In a conciliatory tone, she privately spoke to her husband. ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O maharshi! What will we do without riches? The tenth month is upon me. You have no riches. Once the delivery takes place, how will we overcome the calamity that confronts us?’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed by his wife, Kahoda went to Janaka for riches. Bandi was skilled in debate. The brahmana was defeated by him and drowned in the waters.",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Uddalaka got to know that he had been defeated by a suta{591} and had drowned in the waters. He told Sujata, ‘This must be kept a secret from Ashtavakra.’ She kept this secret extremely well. When he was born, the brahmana heard nothing and thought that Uddalaka was his father and Shvetaketu was his brother. When Ashtavakra was twelve years old, Shvetaketu saw him seated on his father's lap{592}. He grasped him by the hand and told the weeping one, ‘This is not your father's lap.’ These harsh words pierced his heart and remained there, making him extremely unhappy. Weeping, he went home and asked his mother, ‘Where is my father?’ Sujata was extremely distressed. Scared of being cursed, she told him everything. Having got to know everything from his mother, the brahmana{593} spoke to Shvetaketu. ‘Let us go to King Janaka's sacriﬁce. It has been heard that his sacriﬁce has many extraordinary things. We will hear debates among the brahmanas. We will also eat excellent food. We will become wiser. The chants of the brahman are auspicious and pacifying.’ Thus, the maternal uncle and nephew went to King Janaka's prosperous sacriﬁce. Ashtavakra encountered the king on the road and was restrained{594}. He spoke these words to him{595}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Uddalaka got to know that he had been defeated by a suta{591} and had drowned in the waters. He told Sujata, ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This must be kept a secret from Ashtavakra.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " She kept this secret extremely well. When he was born, the brahmana heard nothing and thought that Uddalaka was his father and Shvetaketu was his brother. When Ashtavakra was twelve years old, Shvetaketu saw him seated on his father's lap{592}. He grasped him by the hand and told the weeping one, ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is not your father's lap.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " These harsh words pierced his heart and remained there, making him extremely unhappy. Weeping, he went home and asked his mother, ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Where is my father?’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Sujata was extremely distressed. Scared of being cursed, she told him everything. Having got to know everything from his mother, the brahmana{593} spoke to Shvetaketu. ",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let us go to King Janaka's sacriﬁce. It has been heard that his sacriﬁce has many extraordinary things. We will hear debates among the brahmanas. We will also eat excellent food. We will become wiser. The chants of the brahman are auspicious and pacifying.’",
+          "speaker": "@shvetaketu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus, the maternal uncle and nephew went to King Janaka's prosperous sacriﬁce. Ashtavakra encountered the king on the road and was restrained{594}. He spoke these words to him{595}.”",
+          "speaker": "@lomasha",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "chapter": 982,
+  "local": 5,
+  "shlokas": 40,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “O king! On seeing Karna, tiger among men, stationed on his chariot, Duryodhana was delighted and spoke these words. ‘Now that it is protected by you, I think this army has found a protector. Now do what we are capable of, and what seems to be appropriate.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! On seeing Karna, tiger among men, stationed on his chariot, Duryodhana was delighted and spoke these words. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Now that it is protected by you, I think this army has found a protector. Now do what we are capable of, and what seems to be appropriate.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Karna replied, ‘O tiger among men! O king! You are the wisest. You tell us. Someone whose objective is at stake, sees things in a way that another person never can. O lord of men! All of us wish to hear your words. It is my view that you will never say anything that is inappropriate.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Karna replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O tiger among men! O king! You are the wisest. You tell us. Someone whose objective is at stake, sees things in a way that another person never can. O lord of men! All of us wish to hear your words. It is my view that you will never say anything that is inappropriate.’",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Duryodhana said, ‘Bhishma was our commander. He was senior and valiant. He was well-endowed with learning, possessed knowledge of weapons and had all the qualities. O Karna! He obtained great fame by slaying large numbers of the enemy. The great-souled one fought well for ten days and protected us. He performed extremely difﬁcult deeds and is ascending to heaven. Who do you think should be our commander after him? Without a leader, the army cannot last for an instant in battle, like a boat in the water without a boatman. Just as a boatman steers a boat, a charioteer controls a chariot, a commander ensures that an army is not led astray. You are the best in battle. Look at all the great-souled ones among us and ﬁnd a commander who can succeed Shantanu's son. O venerable one! Whoever you mention will be accepted by all us as our commander in this battle.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Duryodhana said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Bhishma was our commander. He was senior and valiant. He was well-endowed with learning, possessed knowledge of weapons and had all the qualities. O Karna! He obtained great fame by slaying large numbers of the enemy. The great-souled one fought well for ten days and protected us. He performed extremely difﬁcult deeds and is ascending to heaven. Who do you think should be our commander after him? Without a leader, the army cannot last for an instant in battle, like a boat in the water without a boatman. Just as a boatman steers a boat, a charioteer controls a chariot, a commander ensures that an army is not led astray. You are the best in battle. Look at all the great-souled ones among us and ﬁnd a commander who can succeed Shantanu's son. O venerable one! Whoever you mention will be accepted by all us as our commander in this battle.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Karna replied, ‘All these supreme among men are great-souled. But we should not examine details about who should be our commander. All of them have been born in noble lineages. All of them know how to withstand onslaught. All of them possess strength, valour and intelligence. They are grateful and modest and do not retreat from battle. However, all of them cannot be the leader at the same time. There must be only one, who possesses special qualities. All these rival one another. If one is specially honoured, the others will be dispirited. O descendant of the Bharata lineage! It is clear that they will not ﬁght. Among all us warriors, the preceptor is aged and is our senior. Drona, supreme among those who wield all weapons, should be made the commander. He is supreme among those who know the brahman. He is unassailable. If Drona is made the commander, who can stand against that? He is the equal of Shukra and Angiras in his learning{24}. O descendant of the Bharata lineage! When Drona advances into battle, there is not a single warrior among all these kings who will not follow him. He is foremost among all the leaders of soldiers and among those who wield weapons. He is foremost in intelligence. O king! He is also your preceptor. O Duryodhana! Quickly make the preceptor the commander, just as, wishing to defeat the asuras in battle, the immortals chose Kartikeya.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Karna replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@karna",
+          "introduces_label": "Karna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘All these supreme among men are great-souled. But we should not examine details about who should be our commander. All of them have been born in noble lineages. All of them know how to withstand onslaught. All of them possess strength, valour and intelligence. They are grateful and modest and do not retreat from battle. However, all of them cannot be the leader at the same time. There must be only one, who possesses special qualities. All these rival one another. If one is specially honoured, the others will be dispirited. O descendant of the Bharata lineage! It is clear that they will not ﬁght. Among all us warriors, the preceptor is aged and is our senior. Drona, supreme among those who wield all weapons, should be made the commander. He is supreme among those who know the brahman. He is unassailable. If Drona is made the commander, who can stand against that? He is the equal of Shukra and Angiras in his learning{24}. O descendant of the Bharata lineage! When Drona advances into battle, there is not a single warrior among all these kings who will not follow him. He is foremost among all the leaders of soldiers and among those who wield weapons. He is foremost in intelligence. O king! He is also your preceptor. O Duryodhana! Quickly make the preceptor the commander, just as, wishing to defeat the asuras in battle, the immortals chose Kartikeya.’",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “Drona was standing in the midst of the army. On hearing Karna's words, King Duryodhana spoke these words to him. ‘Because of the superiority of your varna, the lineage in which you have been born, your learning, your age, your intelligence, your valour, your capacity, your invincibility, your knowledge of artha and law, your austerities, your gratitude and your superiority in all the qualities, I do not think there is anyone among all the kings who is your equal as a protector. Protect us, like Vasava among all the gods. O supreme among brahmanas! With you as our leader, we wish to vanquish the enemy. You are like Kapali among the Rudras, Pavaka among the Vasus, Kubera among the yakshas, Vasava among the Maruts, Vasishtha among the brahmanas, the sun among those with energy, Dharma among the ancestors, the king of the waters among the Adityas, the moon among stellar bodies and Ushanas among the sons of Diti{25}. You are the foremost among leaders of soldiers. Therefore, be our commander. O unblemished one! Let these eleven akshouhinis follow your instructions. Create a counter-vyuha against the enemy and kill them, like Indra against the danavas. Advance in front of us, like Pavaka's son ahead of the gods{26}. We will follow you, like a herd of bulls following their leader. You are terrible in wielding the bow. You are a great archer. On seeing you stationed at our forefront, stretching your divine bow, Arjuna will not strike. O tiger among men! If you become our commander, it is certain that I will defeat Yudhishthira in battle, together with his followers and relatives.’ After he had spoken in this way, all the kings exclaimed, ‘Victory to Drona.’ They roared mightily like lions and delighted your son. The soldiers were ﬁlled with joy and wished for the prosperity of that supreme among brahmanas. With Duryodhana at their head, they desired great fame.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Drona was standing in the midst of the army. On hearing Karna's words, King Duryodhana spoke these words to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Because of the superiority of your varna, the lineage in which you have been born, your learning, your age, your intelligence, your valour, your capacity, your invincibility, your knowledge of artha and law, your austerities, your gratitude and your superiority in all the qualities, I do not think there is anyone among all the kings who is your equal as a protector. Protect us, like Vasava among all the gods. O supreme among brahmanas! With you as our leader, we wish to vanquish the enemy. You are like Kapali among the Rudras, Pavaka among the Vasus, Kubera among the yakshas, Vasava among the Maruts, Vasishtha among the brahmanas, the sun among those with energy, Dharma among the ancestors, the king of the waters among the Adityas, the moon among stellar bodies and Ushanas among the sons of Diti{25}. You are the foremost among leaders of soldiers. Therefore, be our commander. O unblemished one! Let these eleven akshouhinis follow your instructions. Create a counter-vyuha against the enemy and kill them, like Indra against the danavas. Advance in front of us, like Pavaka's son ahead of the gods{26}. We will follow you, like a herd of bulls following their leader. You are terrible in wielding the bow. You are a great archer. On seeing you stationed at our forefront, stretching your divine bow, Arjuna will not strike. O tiger among men! If you become our commander, it is certain that I will defeat Yudhishthira in battle, together with his followers and relatives.’",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " After he had spoken in this way, all the kings exclaimed, ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Victory to Drona.’",
+          "speaker": "@karna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " They roared mightily like lions and delighted your son. The soldiers were ﬁlled with joy and wished for the prosperity of that supreme among brahmanas. With Duryodhana at their head, they desired great fame.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Drona said, ‘I know the Vedas and the six angas{27}. I know about artha. I am conversant with human knowledge. I am acquainted with the weapons of Tryambaka and with many other kinds of weapons. You have described my qualities and I will try to exhibit them, wishing to bring about your victory. I tell you truthfully that I will ﬁght with the Pandavas.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Drona said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@drona",
+          "introduces_label": "Drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I know the Vedas and the six angas{27}. I know about artha. I am conversant with human knowledge. I am acquainted with the weapons of Tryambaka and with many other kinds of weapons. You have described my qualities and I will try to exhibit them, wishing to bring about your victory. I tell you truthfully that I will ﬁght with the Pandavas.’",
+          "speaker": "@drona",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O king! Having thus obtained Drona's permission, your son instated him as the commander, in accordance with the prescribed rites. Drona was consecrated as the commander by the kings, with Duryodhana leading the way, just as in ancient times Skanda was instated by the gods, with Shakra at the forefront. The men created a mighty sound, mixed with the noise of musical instruments. Amidst this noise and joy, Drona became the commander. There were sounds like those on auspicious occasions and the pronouncement of benedictions. Minstrels, bards and raconteurs chanted praise, to the sound of singing. The foremost among brahmanas uttered benedictions for great fortune and victory. They honoured Drona according to the rites and thought that the Pandavas had already been defeated.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Having thus obtained Drona's permission, your son instated him as the commander, in accordance with the prescribed rites. Drona was consecrated as the commander by the kings, with Duryodhana leading the way, just as in ancient times Skanda was instated by the gods, with Shakra at the forefront. The men created a mighty sound, mixed with the noise of musical instruments. Amidst this noise and joy, Drona became the commander. There were sounds like those on auspicious occasions and the pronouncement of benedictions. Minstrels, bards and raconteurs chanted praise, to the sound of singing. The foremost among brahmanas uttered benedictions for great fortune and victory. They honoured Drona according to the rites and thought that the Pandavas had already been defeated.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

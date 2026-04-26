@@ -1,0 +1,195 @@
+{
+  "chapter": 421,
+  "local": 124,
+  "shlokas": 24,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Lomasha said, “On learning that Chyavana had become young, Sharyati was delighted and came with his soldiers to visit Bhargava in his hermitage. He saw Chyavana and Sukanya, beautiful like the children of the gods. King Sharyati was as delighted as if he had won the entire earth. With his wife, the lord of the earth was received with honour by the rishi. The king seated himself with the fortunate one{549} and began to converse about weighty matters. Then Bhargava told the king in a conciliatory tone. ‘O king! I will perform a sacriﬁce for you. Arrange for the ingredients.’ Sharyati, lord of the earth, was extremely delighted at this. O great king! He welcomed Chyavana's words.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On learning that Chyavana had become young, Sharyati was delighted and came with his soldiers to visit Bhargava in his hermitage. He saw Chyavana and Sukanya, beautiful like the children of the gods. King Sharyati was as delighted as if he had won the entire earth. With his wife, the lord of the earth was received with honour by the rishi. The king seated himself with the fortunate one{549} and began to converse about weighty matters. Then Bhargava told the king in a conciliatory tone. ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I will perform a sacriﬁce for you. Arrange for the ingredients.’",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Sharyati, lord of the earth, was extremely delighted at this. O great king! He welcomed Chyavana's words.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On an auspicious day for the sacriﬁce, Sharyati constructed an excellent sacriﬁcial ground and ﬁlled it with every desirable object. O king! It was there that Bhargava Chyavana performed a sacriﬁce. Hear about the extraordinary events that occurred there. Chyavana grasped a cup of soma then, so as to offer it to the divine Ashvins. But when he was about to offer the cup, Indra restrained him. Indra said, ‘In my view, these two Nasatyas are unworthy of being offered soma. They are the physicians of the gods and their acts make them unworthy of worship.’ Chyavana replied, ‘They are great in powers. They are great in soul. They are wealthy in beauty and riches. O Maghavan! They have made me young, like the ageless gods. Together with you and the other gods, why should they be unworthy of receiving offerings? O lord of the gods! O Purandara! Know that the Ashvins are also gods.’ Indra said, ‘These two are physicians and nothing but servants. They can adopt any form they desire. They roam the world of the mortals. How can they be deserving of soma?’ Despite Vasava repeating these words, Bhargava paid no heed to Shakra's words and grasped the cup. On seeing that he was about to offer a share of the excellent soma to the Ashvins, the god, who was the destroyer of Bala, spoke these words. ‘If you willingly grasp the soma and offer it to them, I will hurl my vajra, supreme and terrible in form, at you.’ Having been thus addressed, Bhargava smiled and looked at Indra. Following the procedure, he grasped some excellent soma and offered it to the Ashvins.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On an auspicious day for the sacriﬁce, Sharyati constructed an excellent sacriﬁcial ground and ﬁlled it with every desirable object. O king! It was there that Bhargava Chyavana performed a sacriﬁce. Hear about the extraordinary events that occurred there. Chyavana grasped a cup of soma then, so as to offer it to the divine Ashvins. But when he was about to offer the cup, Indra restrained him. Indra said, ",
+          "speaker": "@lomasha",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In my view, these two Nasatyas are unworthy of being offered soma. They are the physicians of the gods and their acts make them unworthy of worship.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Chyavana replied, ",
+          "speaker": "@lomasha",
+          "introduces": "@chyavana",
+          "introduces_label": "Chyavana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘They are great in powers. They are great in soul. They are wealthy in beauty and riches. O Maghavan! They have made me young, like the ageless gods. Together with you and the other gods, why should they be unworthy of receiving offerings? O lord of the gods! O Purandara! Know that the Ashvins are also gods.’",
+          "speaker": "@chyavana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Indra said, ",
+          "speaker": "@lomasha",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘These two are physicians and nothing but servants. They can adopt any form they desire. They roam the world of the mortals. How can they be deserving of soma?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Despite Vasava repeating these words, Bhargava paid no heed to Shakra's words and grasped the cup. On seeing that he was about to offer a share of the excellent soma to the Ashvins, the god, who was the destroyer of Bala, spoke these words. ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you willingly grasp the soma and offer it to them, I will hurl my vajra, supreme and terrible in form, at you.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, Bhargava smiled and looked at Indra. Following the procedure, he grasped some excellent soma and offered it to the Ashvins.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Then Shachi's husband hurled the vajra, terrible in form, at him. Just as he was about to hurl it, Bhargava paralysed his arm. Having paralysed him, Chyavana uttered mantras and made offerings to the ﬁre. Having succeeded in his objective, the greatly energetic one was about to cause violence to the god. Having decided this, with the strength of his austerities, the sage created a gigantic asura by the name of Mada{550}, great in valour and immense in form. His body was incapable of being measured by the gods or the demons. His mouth was terrible. It was gigantic and full of sharp teeth. One of the jaws rested on earth and the other stretched up to heaven. He had four fangs that extended for ten thousand yojanas. His other fangs extended for ten yojanas. They had forms like walls and looked like the tips of spears. His arms were like mountains and each was ten thousand yojanas long. His eyes resembled the sun and the moon. His mouth looked like death. He licked his mouth with his darting tongue, as ﬁckle as lightning. His mouth was agape and his sight terrifying, as if he was about to swallow up the earth by force. In great rage, he rushed at Shatakratu, as if to devour him. The world resounded from the noise of his great and terrible roar.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Then Shachi's husband hurled the vajra, terrible in form, at him. Just as he was about to hurl it, Bhargava paralysed his arm. Having paralysed him, Chyavana uttered mantras and made offerings to the ﬁre. Having succeeded in his objective, the greatly energetic one was about to cause violence to the god. Having decided this, with the strength of his austerities, the sage created a gigantic asura by the name of Mada{550}, great in valour and immense in form. His body was incapable of being measured by the gods or the demons. His mouth was terrible. It was gigantic and full of sharp teeth. One of the jaws rested on earth and the other stretched up to heaven. He had four fangs that extended for ten thousand yojanas. His other fangs extended for ten yojanas. They had forms like walls and looked like the tips of spears. His arms were like mountains and each was ten thousand yojanas long. His eyes resembled the sun and the moon. His mouth looked like death. He licked his mouth with his darting tongue, as ﬁckle as lightning. His mouth was agape and his sight terrifying, as if he was about to swallow up the earth by force. In great rage, he rushed at Shatakratu, as if to devour him. The world resounded from the noise of his great and terrible roar.”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

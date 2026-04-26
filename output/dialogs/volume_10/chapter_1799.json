@@ -1,0 +1,217 @@
+{
+  "chapter": 1799,
+  "local": 118,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “Whether they desired it, or whether they did not desire it, there are those who were slain in this great battle. O grandfather! What species will they be born as? In this great battle, men gave up their lives amidst hardships. O one who knows about dharma! I know that the giving up of life is an extremely difﬁcult task. It is my view that you know everything. Why is that the case, regardless of whether there is prosperity or adversity, or whether there is good or bad?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Whether they desired it, or whether they did not desire it, there are those who were slain in this great battle. O grandfather! What species will they be born as? In this great battle, men gave up their lives amidst hardships. O one who knows about dharma! I know that the giving up of life is an extremely difﬁcult task. It is my view that you know everything. Why is that the case, regardless of whether there is prosperity or adversity, or whether there is good or bad?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O lord of the earth! Whether there is prosperity or adversity, whether there is good or bad, creatures born in this cycle of life follow a certain conduct. They exhibit a certain sentiment. Listen to the reason. O Yudhishthira! The question that you have asked me is an extremely appropriate one. O king! In this connection, there is an ancient account. O Yudhishthira! This is a conversation between Dvaipayana and a worm. In ancient times the brahmana Krishna Dvaipayana, the essence of the brahman, was roaming around. He saw a worm swiftly advancing along a road that was meant for carts. He knew about the progress of all creatures and could speak the languages of all embodied beings. The one who knew everything and could see everything spoke to the worm in these words. ‘O worm! You seem to be frightened and I can see that you are hurrying? Tell me. Why are you running? Where has this fear come from?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth! Whether there is prosperity or adversity, whether there is good or bad, creatures born in this cycle of life follow a certain conduct. They exhibit a certain sentiment. Listen to the reason. O Yudhishthira! The question that you have asked me is an extremely appropriate one. O king! In this connection, there is an ancient account. O Yudhishthira! This is a conversation between Dvaipayana and a worm. In ancient times the brahmana Krishna Dvaipayana, the essence of the brahman, was roaming around. He saw a worm swiftly advancing along a road that was meant for carts. He knew about the progress of all creatures and could speak the languages of all embodied beings. The one who knew everything and could see everything spoke to the worm in these words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O worm! You seem to be frightened and I can see that you are hurrying? Tell me. Why are you running? Where has this fear come from?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The worm replied, ‘My fear results from having heard the great roar of a cart. O immensely intelligent one! That terrible sound is approaching. I have heard it. It will kill me. That is the reason I am making efforts. I can also hear the sighs of the bulls as they are being goaded. O lord! They are bearing a great load and I can hear that sound approaching. I can hear many kinds of sounds being made by men who are urging the mounts. For those who have been born as worms, these kinds of sounds are intolerable. I face an extremely terrible fear and that is the reason I am making efforts. Life is extremely difﬁcult to get and all creatures are miserable at the prospect of death. I am therefore running away in fear. From a state of happiness, I do not wish to confront a state of unhappiness.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The worm replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_worm",
+          "introduces_label": "The worm",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘My fear results from having heard the great roar of a cart. O immensely intelligent one! That terrible sound is approaching. I have heard it. It will kill me. That is the reason I am making efforts. I can also hear the sighs of the bulls as they are being goaded. O lord! They are bearing a great load and I can hear that sound approaching. I can hear many kinds of sounds being made by men who are urging the mounts. For those who have been born as worms, these kinds of sounds are intolerable. I face an extremely terrible fear and that is the reason I am making efforts. Life is extremely difﬁcult to get and all creatures are miserable at the prospect of death. I am therefore running away in fear. From a state of happiness, I do not wish to confront a state of unhappiness.’",
+          "speaker": "the_worm",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Thus addressed, he{369} replied, ‘O worm! What will bring you happiness? Since you have been born as inferior species, I think that death should bring you happiness. O worm! You cannot experience sound, touch, taste, smell, speech and many kinds of pleasure. For you, there can be nothing better than death.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Thus addressed, he{369} replied, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O worm! What will bring you happiness? Since you have been born as inferior species, I think that death should bring you happiness. O worm! You cannot experience sound, touch, taste, smell, speech and many kinds of pleasure. For you, there can be nothing better than death.’",
+          "speaker": "the_worm",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The worm replied, ‘Whatever be the state, a living being is devoted to that state. O immensely wise one! I sense that this represents my happiness and that is the reason I wish to remain alive. Everything that I value results from my present body. Men and those who are inferior in species differ in what brings them pleasure. In earlier times, I was also a man. I was an extremely rich shudra. I was not a brahmana. I was cruel and wicked in the means I used to earn subsistence. I was harsh in speech. I was deceitful and unwise. I hated everything in the universe. I violated agreements in pursuit of riches. I was devoted to appropriating the possessions of others. In my household, I did not tend to servants and guests. I was malicious and cruel and desired to keep the tasty objects for myself. I did not faithfully offer food at sacriﬁces meant for the gods and the ancestors. I did not desire to give any riches. Nor did I give any food. I did not protect frightened people who sought refuge and sought protection with me. I violently cast aside those who were terriﬁed. I did not save those who were frightened. On seeing the prosperity of other men, their riches, grain, beloved wives, vehicles and wonderful houses, I indulged in futile acts of jealousy. I was jealous on seeing the prosperity of others and I desired that they might suffer. Following my own caprices, I sought to destroy the three objectives{370} of others. Earlier, I engaged in these acts, driven by the many qualities of cruelty. Remembering that, I am tormented, just as one is at having to give up a beloved son. I have not known the fruits of any auspicious deeds I performed. But I worshipped my aged mother and on one occasion, I worshipped a brahmana, when he came to my house. He possessed the qualities of good conduct. Since I worshipped that brahmana as a guest, I have not lost my memory. It is evident that good act has led to this bit of happiness. O one rich in austerities! I wish to hear from you the truth about what will be best for me.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The worm replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_worm",
+          "introduces_label": "The worm",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Whatever be the state, a living being is devoted to that state. O immensely wise one! I sense that this represents my happiness and that is the reason I wish to remain alive. Everything that I value results from my present body. Men and those who are inferior in species differ in what brings them pleasure. In earlier times, I was also a man. I was an extremely rich shudra. I was not a brahmana. I was cruel and wicked in the means I used to earn subsistence. I was harsh in speech. I was deceitful and unwise. I hated everything in the universe. I violated agreements in pursuit of riches. I was devoted to appropriating the possessions of others. In my household, I did not tend to servants and guests. I was malicious and cruel and desired to keep the tasty objects for myself. I did not faithfully offer food at sacriﬁces meant for the gods and the ancestors. I did not desire to give any riches. Nor did I give any food. I did not protect frightened people who sought refuge and sought protection with me. I violently cast aside those who were terriﬁed. I did not save those who were frightened. On seeing the prosperity of other men, their riches, grain, beloved wives, vehicles and wonderful houses, I indulged in futile acts of jealousy. I was jealous on seeing the prosperity of others and I desired that they might suffer. Following my own caprices, I sought to destroy the three objectives{370} of others. Earlier, I engaged in these acts, driven by the many qualities of cruelty. Remembering that, I am tormented, just as one is at having to give up a beloved son. I have not known the fruits of any auspicious deeds I performed. But I worshipped my aged mother and on one occasion, I worshipped a brahmana, when he came to my house. He possessed the qualities of good conduct. Since I worshipped that brahmana as a guest, I have not lost my memory. It is evident that good act has led to this bit of happiness. O one rich in austerities! I wish to hear from you the truth about what will be best for me.’",
+          "speaker": "the_worm",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

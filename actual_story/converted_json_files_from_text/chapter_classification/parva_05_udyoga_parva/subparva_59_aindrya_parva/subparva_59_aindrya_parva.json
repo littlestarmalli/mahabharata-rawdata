@@ -1,0 +1,76 @@
+{
+  "name": "Aindrya Parva",
+  "subparva_number": 59,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 231
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "chapters": {
+    "824": {
+      "chapter_number": 824,
+      "global_number": 824,
+      "local_number": 161,
+      "num_shlokas": 12,
+      "file": "subparva_59_aindrya_parva/chapter_824.json"
+    },
+    "825": {
+      "chapter_number": 825,
+      "global_number": 825,
+      "local_number": 162,
+      "num_shlokas": 33,
+      "file": "subparva_59_aindrya_parva/chapter_825.json"
+    },
+    "826": {
+      "chapter_number": 826,
+      "global_number": 826,
+      "local_number": 163,
+      "num_shlokas": 22,
+      "file": "subparva_59_aindrya_parva/chapter_826.json"
+    },
+    "827": {
+      "chapter_number": 827,
+      "global_number": 827,
+      "local_number": 164,
+      "num_shlokas": 38,
+      "file": "subparva_59_aindrya_parva/chapter_827.json"
+    },
+    "828": {
+      "chapter_number": 828,
+      "global_number": 828,
+      "local_number": 165,
+      "num_shlokas": 27,
+      "file": "subparva_59_aindrya_parva/chapter_828.json"
+    },
+    "829": {
+      "chapter_number": 829,
+      "global_number": 829,
+      "local_number": 166,
+      "num_shlokas": 39,
+      "file": "subparva_59_aindrya_parva/chapter_829.json"
+    },
+    "830": {
+      "chapter_number": 830,
+      "global_number": 830,
+      "local_number": 167,
+      "num_shlokas": 14,
+      "file": "subparva_59_aindrya_parva/chapter_830.json"
+    },
+    "831": {
+      "chapter_number": 831,
+      "global_number": 831,
+      "local_number": 168,
+      "num_shlokas": 25,
+      "file": "subparva_59_aindrya_parva/chapter_831.json"
+    },
+    "832": {
+      "chapter_number": 832,
+      "global_number": 832,
+      "local_number": 169,
+      "num_shlokas": 21,
+      "file": "subparva_59_aindrya_parva/chapter_832.json"
+    }
+  }
+}

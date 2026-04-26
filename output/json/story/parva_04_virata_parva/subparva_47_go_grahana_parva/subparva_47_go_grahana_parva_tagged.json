@@ -1,0 +1,296 @@
+{
+  "name": "Go-Grahana Parva",
+  "subparva_number": 47,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 39,
+    "num_shlokas": 1009
+  },
+  "note": "Go means cattle and grahana means to seize. So this section is about seizing cattle. With Kichaka�s death, Virata is weakened and the Kouravas and Trigartas invade Matsya to rob Virata of his cattle. Virata is defeated by Susharma, the king of the Trigartas. However, the four Pandavas (Yudhishthira, Bhima, Nakula, Sahadeva) defeat Susharma and free Virata. Meanwhile, the Kurus rob Virata�s kingdom of sixty thousand cattle. However, they are defeated by Arjuna, with Uttara as a charioteer. The Kurus return and the cattle are regained.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "620": {
+      "chapter_number": 620,
+      "global_number": 620,
+      "local_number": 24,
+      "num_shlokas": 21,
+      "file": "subparva_47_go_grahana_parva/chapter_620_tagged.json"
+    },
+    "621": {
+      "chapter_number": 621,
+      "global_number": 621,
+      "local_number": 25,
+      "num_shlokas": 17,
+      "file": "subparva_47_go_grahana_parva/chapter_621_tagged.json"
+    },
+    "622": {
+      "chapter_number": 622,
+      "global_number": 622,
+      "local_number": 26,
+      "num_shlokas": 10,
+      "file": "subparva_47_go_grahana_parva/chapter_622_tagged.json"
+    },
+    "623": {
+      "chapter_number": 623,
+      "global_number": 623,
+      "local_number": 27,
+      "num_shlokas": 28,
+      "file": "subparva_47_go_grahana_parva/chapter_623_tagged.json"
+    },
+    "624": {
+      "chapter_number": 624,
+      "global_number": 624,
+      "local_number": 28,
+      "num_shlokas": 14,
+      "file": "subparva_47_go_grahana_parva/chapter_624_tagged.json"
+    },
+    "625": {
+      "chapter_number": 625,
+      "global_number": 625,
+      "local_number": 29,
+      "num_shlokas": 28,
+      "file": "subparva_47_go_grahana_parva/chapter_625_tagged.json"
+    },
+    "626": {
+      "chapter_number": 626,
+      "global_number": 626,
+      "local_number": 30,
+      "num_shlokas": 30,
+      "file": "subparva_47_go_grahana_parva/chapter_626_tagged.json"
+    },
+    "627": {
+      "chapter_number": 627,
+      "global_number": 627,
+      "local_number": 31,
+      "num_shlokas": 24,
+      "file": "subparva_47_go_grahana_parva/chapter_627_tagged.json"
+    },
+    "628": {
+      "chapter_number": 628,
+      "global_number": 628,
+      "local_number": 32,
+      "num_shlokas": 50,
+      "file": "subparva_47_go_grahana_parva/chapter_628_tagged.json"
+    },
+    "629": {
+      "chapter_number": 629,
+      "global_number": 629,
+      "local_number": 33,
+      "num_shlokas": 21,
+      "file": "subparva_47_go_grahana_parva/chapter_629_tagged.json"
+    },
+    "630": {
+      "chapter_number": 630,
+      "global_number": 630,
+      "local_number": 34,
+      "num_shlokas": 19,
+      "file": "subparva_47_go_grahana_parva/chapter_630_tagged.json"
+    },
+    "631": {
+      "chapter_number": 631,
+      "global_number": 631,
+      "local_number": 35,
+      "num_shlokas": 26,
+      "file": "subparva_47_go_grahana_parva/chapter_631_tagged.json"
+    },
+    "632": {
+      "chapter_number": 632,
+      "global_number": 632,
+      "local_number": 36,
+      "num_shlokas": 47,
+      "file": "subparva_47_go_grahana_parva/chapter_632_tagged.json"
+    },
+    "633": {
+      "chapter_number": 633,
+      "global_number": 633,
+      "local_number": 37,
+      "num_shlokas": 15,
+      "file": "subparva_47_go_grahana_parva/chapter_633_tagged.json"
+    },
+    "634": {
+      "chapter_number": 634,
+      "global_number": 634,
+      "local_number": 38,
+      "num_shlokas": 58,
+      "file": "subparva_47_go_grahana_parva/chapter_634_tagged.json"
+    },
+    "635": {
+      "chapter_number": 635,
+      "global_number": 635,
+      "local_number": 39,
+      "num_shlokas": 23,
+      "file": "subparva_47_go_grahana_parva/chapter_635_tagged.json"
+    },
+    "636": {
+      "chapter_number": 636,
+      "global_number": 636,
+      "local_number": 40,
+      "num_shlokas": 27,
+      "file": "subparva_47_go_grahana_parva/chapter_636_tagged.json"
+    },
+    "637": {
+      "chapter_number": 637,
+      "global_number": 637,
+      "local_number": 41,
+      "num_shlokas": 23,
+      "file": "subparva_47_go_grahana_parva/chapter_637_tagged.json"
+    },
+    "638": {
+      "chapter_number": 638,
+      "global_number": 638,
+      "local_number": 42,
+      "num_shlokas": 31,
+      "file": "subparva_47_go_grahana_parva/chapter_638_tagged.json"
+    },
+    "639": {
+      "chapter_number": 639,
+      "global_number": 639,
+      "local_number": 43,
+      "num_shlokas": 21,
+      "file": "subparva_47_go_grahana_parva/chapter_639_tagged.json"
+    },
+    "640": {
+      "chapter_number": 640,
+      "global_number": 640,
+      "local_number": 44,
+      "num_shlokas": 22,
+      "file": "subparva_47_go_grahana_parva/chapter_640_tagged.json"
+    },
+    "641": {
+      "chapter_number": 641,
+      "global_number": 641,
+      "local_number": 45,
+      "num_shlokas": 26,
+      "file": "subparva_47_go_grahana_parva/chapter_641_tagged.json"
+    },
+    "642": {
+      "chapter_number": 642,
+      "global_number": 642,
+      "local_number": 46,
+      "num_shlokas": 18,
+      "file": "subparva_47_go_grahana_parva/chapter_642_tagged.json"
+    },
+    "643": {
+      "chapter_number": 643,
+      "global_number": 643,
+      "local_number": 47,
+      "num_shlokas": 19,
+      "file": "subparva_47_go_grahana_parva/chapter_643_tagged.json"
+    },
+    "644": {
+      "chapter_number": 644,
+      "global_number": 644,
+      "local_number": 48,
+      "num_shlokas": 23,
+      "file": "subparva_47_go_grahana_parva/chapter_644_tagged.json"
+    },
+    "645": {
+      "chapter_number": 645,
+      "global_number": 645,
+      "local_number": 49,
+      "num_shlokas": 23,
+      "file": "subparva_47_go_grahana_parva/chapter_645_tagged.json"
+    },
+    "646": {
+      "chapter_number": 646,
+      "global_number": 646,
+      "local_number": 50,
+      "num_shlokas": 23,
+      "file": "subparva_47_go_grahana_parva/chapter_646_tagged.json"
+    },
+    "647": {
+      "chapter_number": 647,
+      "global_number": 647,
+      "local_number": 51,
+      "num_shlokas": 17,
+      "file": "subparva_47_go_grahana_parva/chapter_647_tagged.json"
+    },
+    "648": {
+      "chapter_number": 648,
+      "global_number": 648,
+      "local_number": 52,
+      "num_shlokas": 28,
+      "file": "subparva_47_go_grahana_parva/chapter_648_tagged.json"
+    },
+    "649": {
+      "chapter_number": 649,
+      "global_number": 649,
+      "local_number": 53,
+      "num_shlokas": 69,
+      "file": "subparva_47_go_grahana_parva/chapter_649_tagged.json"
+    },
+    "650": {
+      "chapter_number": 650,
+      "global_number": 650,
+      "local_number": 54,
+      "num_shlokas": 20,
+      "file": "subparva_47_go_grahana_parva/chapter_650_tagged.json"
+    },
+    "651": {
+      "chapter_number": 651,
+      "global_number": 651,
+      "local_number": 55,
+      "num_shlokas": 25,
+      "file": "subparva_47_go_grahana_parva/chapter_651_tagged.json"
+    },
+    "652": {
+      "chapter_number": 652,
+      "global_number": 652,
+      "local_number": 56,
+      "num_shlokas": 28,
+      "file": "subparva_47_go_grahana_parva/chapter_652_tagged.json"
+    },
+    "653": {
+      "chapter_number": 653,
+      "global_number": 653,
+      "local_number": 57,
+      "num_shlokas": 19,
+      "file": "subparva_47_go_grahana_parva/chapter_653_tagged.json"
+    },
+    "654": {
+      "chapter_number": 654,
+      "global_number": 654,
+      "local_number": 58,
+      "num_shlokas": 13,
+      "file": "subparva_47_go_grahana_parva/chapter_654_tagged.json"
+    },
+    "655": {
+      "chapter_number": 655,
+      "global_number": 655,
+      "local_number": 59,
+      "num_shlokas": 44,
+      "file": "subparva_47_go_grahana_parva/chapter_655_tagged.json"
+    },
+    "656": {
+      "chapter_number": 656,
+      "global_number": 656,
+      "local_number": 60,
+      "num_shlokas": 19,
+      "file": "subparva_47_go_grahana_parva/chapter_656_tagged.json"
+    },
+    "657": {
+      "chapter_number": 657,
+      "global_number": 657,
+      "local_number": 61,
+      "num_shlokas": 29,
+      "file": "subparva_47_go_grahana_parva/chapter_657_tagged.json"
+    },
+    "658": {
+      "chapter_number": 658,
+      "global_number": 658,
+      "local_number": 62,
+      "num_shlokas": 11,
+      "file": "subparva_47_go_grahana_parva/chapter_658_tagged.json"
+    }
+  }
+}

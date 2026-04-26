@@ -1,0 +1,181 @@
+{
+  "chapter_number": 864,
+  "global_number": 864,
+  "local_number": 4,
+  "num_shlokas": 35,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘O supreme among kings! Having been thus addressed by his son Dhritarashtra, the sage who is an Indra among wise ones, engaged in supreme meditation. The greatly ascetic one, who knew about time, then again spoke these words. ‘O Indra among kings! There is no doubt that time destroys the universe. It again creates the worlds. There is nothing that is eternal. Show the path of dharma to your relatives, the Kurus, your kin and your well-wishers. You are capable of restraining them. It has been said that the slaughter of relatives is inferior. Do what brings me pleasure. O lord of the earth! Death himself has been born in the form of your son. Slaughter has not been praised in the Vedas. It can never be beneﬁcial. He who kills, kills the dharma of his lineage, and it is like killing one’s own body. Destiny has brought you to this path, though you are capable of following the path of virtue. In the form of the kingdom, calamity looms and makes you give up what brings happiness, for the destruction of the lineage and the earth. Your wisdom has suffered greatly. Show your sons dharma. O unassailable one! What is there in a kingdom, if one obtains sin with it? Preserve your fame, dharma and deeds and go to heaven. Let the Pandavas obtain their kingdom and the Kouravas obtain peace.” Thus, the Indra among brahmanas sorrowfully spoke these words to Ambika’s son, Dhritarashtra, and the one who was skilled in speech again spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘O supreme among kings! Having been thus addressed by his son Dhritarashtra, the sage who is an Indra among wise ones, engaged in supreme meditation. The greatly ascetic one, who knew about time, then again spoke these words. ‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "O Indra among kings! There is no doubt that time destroys the universe. It again creates the worlds. There is nothing that is eternal. Show the path of dharma to your relatives, the Kurus, your kin and your well-wishers. You are capable of restraining them. It has been said that the slaughter of relatives is inferior. Do what brings me pleasure. O lord of the earth! Death himself has been born in the form of your son. Slaughter has not been praised in the Vedas. It can never be beneﬁcial. He who kills, kills the dharma of his lineage, and it is like killing one’s own body. Destiny has brought you to this path, though you are capable of following the path of virtue. In the form of the kingdom, calamity looms and makes you give up what brings happiness, for the destruction of the lineage and the earth. Your wisdom has suffered greatly. Show your sons dharma. O unassailable one! What is there in a kingdom, if one obtains sin with it? Preserve your fame, dharma and deeds and go to heaven. Let the Pandavas obtain their kingdom and the Kouravas obtain peace.” Thus, the Indra among brahmanas sorrowfully spoke these words to Ambika’s son, Dhritarashtra, and the one who was skilled in speech again spoke these words.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Dhritarashtra said, “My knowledge of what exists and what does not exist is like yours. I know the exact truth. O father! But people are deluded because of selﬁshness. Know me to be such an ordinary person. O one whose power is unmatched! Through your favours, show me the ﬁrm direction. O maharshi! They are not under my control. I do not desire to commit a sin. You represent sacred dharma, fame, deeds, fortitude and learning. You are the revered grandfather of the Kurus and the Pandavas.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“My knowledge of what exists and what does not exist is like yours. I know the exact truth. O father! But people are deluded because of selﬁshness. Know me to be such an ordinary person. O one whose power is unmatched! Through your favours, show me the ﬁrm direction. O maharshi! They are not under my control. I do not desire to commit a sin. You represent sacred dharma, fame, deeds, fortitude and learning. You are the revered grandfather of the Kurus and the Pandavas.”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Vyasa replied, “O Vichitravirya’s son! O king! Openly tell me what is in your mind. As you wish, I will dispel your doubts.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vyasa replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@vyasa",
+          "text": "“O Vichitravirya’s son! O king! Openly tell me what is in your mind. As you wish, I will dispel your doubts.”",
+          "color": "#FFBF69",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Dhritarashtra said, “There are signs that portent victory in a battle. O illustrious one! I wish to hear exactly about these.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“There are signs that portent victory in a battle. O illustrious one! I wish to hear exactly about these.”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘Vyasa replied, “The ﬁre{37} has a cheerful radiance and its ﬂames rise up straight. It circles to the right and the crest is devoid of smoke. The oblations offered have a sacred fragrance. These are said to be the signs of victory. When the conch shells and drums are sounded, there is a great and deep sound. The sun and the moon have pure rays. These are said to be the signs of victory. Whether they are seated or ﬂying, the crows utter beneﬁcial cries. O king! Those who are at the back urge an advance, while those at the front urge restraint{38}. When vultures, swans, parrots, cranes and woodpeckers utter beneﬁcial cries and circle to the right, the brahmanas say that victory in a battle is certain. When the ornaments, armour and ﬂags are golden in complexion and radiant, incapable of being looked at, such men obtain the favours of happiness and defeat the soldiers of the enemies. O descendant of the Bharata lineage! When spirited warriors utter happy shouts and when their garlands do not fade, they overcome their enemies in battle. Those who utter kind words before penetrating enemy formations and those who warn before striking are victorious. When hearing, sight, taste, touch and smell are undistorted and auspicious and the warriors are always happy, victory is certain. Winds that blow, clouds, crows become favourable and so are the showers from clouds and rainbows. O lord of the earth! These are the signs of victory. O lord of men! But if these are contrary, that is a sign of death. Whether the army is small or large, the cheerfulness of the masses of warriors is said to be a certain sign of victory. If a single warrior is frightened, he can cause an extremely large army to be alarmed and ﬂee, even those who are brave warriors. If a large army is broken up, it is incapable of being rallied. It is like a herd of deer frightened by the mighty force of the water. Once a great army is routed, it is incapable of being rallied. O descendant of the Bharata lineage! On seeing it shattered, even brave warriors become dejected. On seeing the fright and the ﬂight, the fear increases in every direction. O king! The army is suddenly scattered and is destroyed by the enemy. O lord of the earth! Even a brave one, a leader of many soldiers of the four types{39}, is incapable of rallying such a giant army. An intelligent person always endeavours and always looks for ways. It is said that success through negotiations is the best, and that through dissension{40} is medium. O lord of the earth! Victory obtained through battle is the worst. There are many great evils associated with ﬁghting and slaughter is said to be the ﬁrst. Even ﬁfty brave ones who know each other, are cheerful, are not bound by family ties and are ﬁrm in their resolution, can crush a large army. Even ﬁve, six or seven can ensure victory, as long as they do not retreat. O descendant of the Bharata lineage! Vinata’s son, Garuda, does not seek a large number of followers for assistance, when he sees a large number of birds{41}. O descendant of the Bharata lineage! The number of soldiers does not ensure victory. Victory is uncertain. That depends on destiny. Even those who are victorious in battle, have to suffer losses.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vyasa replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@vyasa",
+          "text": "“The ﬁre{37} has a cheerful radiance and its ﬂames rise up straight. It circles to the right and the crest is devoid of smoke. The oblations offered have a sacred fragrance. These are said to be the signs of victory. When the conch shells and drums are sounded, there is a great and deep sound. The sun and the moon have pure rays. These are said to be the signs of victory. Whether they are seated or ﬂying, the crows utter beneﬁcial cries. O king! Those who are at the back urge an advance, while those at the front urge restraint{38}. When vultures, swans, parrots, cranes and woodpeckers utter beneﬁcial cries and circle to the right, the brahmanas say that victory in a battle is certain. When the ornaments, armour and ﬂags are golden in complexion and radiant, incapable of being looked at, such men obtain the favours of happiness and defeat the soldiers of the enemies. O descendant of the Bharata lineage! When spirited warriors utter happy shouts and when their garlands do not fade, they overcome their enemies in battle. Those who utter kind words before penetrating enemy formations and those who warn before striking are victorious. When hearing, sight, taste, touch and smell are undistorted and auspicious and the warriors are always happy, victory is certain. Winds that blow, clouds, crows become favourable and so are the showers from clouds and rainbows. O lord of the earth! These are the signs of victory. O lord of men! But if these are contrary, that is a sign of death. Whether the army is small or large, the cheerfulness of the masses of warriors is said to be a certain sign of victory. If a single warrior is frightened, he can cause an extremely large army to be alarmed and ﬂee, even those who are brave warriors. If a large army is broken up, it is incapable of being rallied. It is like a herd of deer frightened by the mighty force of the water. Once a great army is routed, it is incapable of being rallied. O descendant of the Bharata lineage! On seeing it shattered, even brave warriors become dejected. On seeing the fright and the ﬂight, the fear increases in every direction. O king! The army is suddenly scattered and is destroyed by the enemy. O lord of the earth! Even a brave one, a leader of many soldiers of the four types{39}, is incapable of rallying such a giant army. An intelligent person always endeavours and always looks for ways. It is said that success through negotiations is the best, and that through dissension{40} is medium. O lord of the earth! Victory obtained through battle is the worst. There are many great evils associated with ﬁghting and slaughter is said to be the ﬁrst. Even ﬁfty brave ones who know each other, are cheerful, are not bound by family ties and are ﬁrm in their resolution, can crush a large army. Even ﬁve, six or seven can ensure victory, as long as they do not retreat. O descendant of the Bharata lineage! Vinata’s son, Garuda, does not seek a large number of followers for assistance, when he sees a large number of birds{41}. O descendant of the Bharata lineage! The number of soldiers does not ensure victory. Victory is uncertain. That depends on destiny. Even those who are victorious in battle, have to suffer losses.”",
+          "color": "#FFBF69",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

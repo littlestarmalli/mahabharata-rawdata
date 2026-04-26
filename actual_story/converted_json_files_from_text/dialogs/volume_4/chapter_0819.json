@@ -1,0 +1,117 @@
+{
+  "chapter": 819,
+  "local": 156,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘O bull among brahmanas! When the soldiers and battle formations had been marshalled in Kurukshetra, driven by destiny, what did the Kurus do?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O bull among brahmanas! When the soldiers and battle formations had been marshalled in Kurukshetra, driven by destiny, what did the Kurus do?’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O bull among the Bharata lineage! The soldiers and battle formations were ready. O great king! Dhritarashtra spoke these words to Sanjaya. “O Sanjaya! Come and tell me everything and omit nothing, about the marshalling of soldiers in the armies of the Kurus and the Pandavas. I think that destiny is supreme and human endeavour amounts to nothing. I know about the taints and great destruction a war will give rise to. But I am not able to restrain my foolish son, who was deceitful in gambling with the dice. I am incapable of restraining him and ensuring my own self-interest. O suta! I have the intelligence to foresee these evils. But when I meet Duryodhana, my mind becomes perverse. O Sanjaya! That being the case, what is going to happen will occur. That apart, the revered dharma of a kshatriya is to give up his life in battle.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O bull among the Bharata lineage! The soldiers and battle formations were ready. O great king! Dhritarashtra spoke these words to Sanjaya. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! Come and tell me everything and omit nothing, about the marshalling of soldiers in the armies of the Kurus and the Pandavas. I think that destiny is supreme and human endeavour amounts to nothing. I know about the taints and great destruction a war will give rise to. But I am not able to restrain my foolish son, who was deceitful in gambling with the dice. I am incapable of restraining him and ensuring my own self-interest. O suta! I have the intelligence to foresee these evils. But when I meet Duryodhana, my mind becomes perverse. O Sanjaya! That being the case, what is going to happen will occur. That apart, the revered dharma of a kshatriya is to give up his life in battle.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O great king! The question that you have posed is deserving of you. But it is not proper that you should lay the entire blame on Duryodhana. O king! Listen especially to what I have to say on this. If a man confronts a calamity because of his own evil deeds, he should not ascribe the fault to time or destiny. O great king! If a man commits every deed that is reprehensible, because of having committed those censurable crimes, he deserves to be killed by all the worlds. O foremost among men! When the Pandavas and their advisers were deceitfully defeated in the game of dice, they bore their hardships because of their respect for you. Hear from me about the slaughter that will happen in the course of the war of horses, elephants and inﬁnitely energetic kings. O great king! Be steadfast when you hear about the destruction of all the worlds and the slaughter of all beings in the great war. Do not be distracted. A man is not the agent of his good or evil deeds. A man is like a wooden puppet on a string. Some are controlled by the great lord, others by the wishes of destiny, and still others because of their earlier deeds. These three different sources can be seen.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! The question that you have posed is deserving of you. But it is not proper that you should lay the entire blame on Duryodhana. O king! Listen especially to what I have to say on this. If a man confronts a calamity because of his own evil deeds, he should not ascribe the fault to time or destiny. O great king! If a man commits every deed that is reprehensible, because of having committed those censurable crimes, he deserves to be killed by all the worlds. O foremost among men! When the Pandavas and their advisers were deceitfully defeated in the game of dice, they bore their hardships because of their respect for you. Hear from me about the slaughter that will happen in the course of the war of horses, elephants and inﬁnitely energetic kings. O great king! Be steadfast when you hear about the destruction of all the worlds and the slaughter of all beings in the great war. Do not be distracted. A man is not the agent of his good or evil deeds. A man is like a wooden puppet on a string. Some are controlled by the great lord, others by the wishes of destiny, and still others because of their earlier deeds. These three different sources can be seen.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

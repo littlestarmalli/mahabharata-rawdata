@@ -1,0 +1,207 @@
+{
+  "chapter": 1077,
+  "local": 100,
+  "shlokas": 39,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “Were there no maharathas among my soldiers who could kill or stop Satyaki on his journey? Truth is his valour. In that battle, he single-handedly accomplished deeds that were like those of the great Indra against the danavas. In a battle, he was Shakra's equal in strength. Or is it the case that Satyaki's route was empty? Single-handedly, the bull among men drove away many soldiers. How did Shini's great-souled descendant singlehandedly overcome the many who attacked him and wished to ﬁght with him? O Sanjaya! Tell me all this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Were there no maharathas among my soldiers who could kill or stop Satyaki on his journey? Truth is his valour. In that battle, he single-handedly accomplished deeds that were like those of the great Indra against the danavas. In a battle, he was Shakra's equal in strength. Or is it the case that Satyaki's route was empty? Single-handedly, the bull among men drove away many soldiers. How did Shini's great-souled descendant singlehandedly overcome the many who attacked him and wished to ﬁght with him? O Sanjaya! Tell me all this.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O king! The soldiers prepared themselves, with chariots, elephants, horses and infantry. Your soldiers were tremendous and it was like the end of a yuga. O one who gives honours! Your entire army was assembled. It is my view that an assemblage like this has never been seen in the world. O lord of the earth! The gods and the assembled charanas said, ‘A vyuha like the one Drona has formed at the time of Jayadratha's death will never again be seen.’ There was a terrible roar, like that of the oceans. In that battle, those large numbers of soldiers rushed against each other in waves. O supreme among men! There were many kings, hundreds and thousands, who had assembled on your side and that of the Pandavas. Those brave ones were angry. They were the performers of ﬁrm deeds in battle. A great and tumultuous sound arose and it made the body hair stand up. O venerable one! Bhimasena, Dhrishtadyumna, Nakula, Sahadeva and Pandava Dharmaraja exclaimed, ‘Come. Strike. Attack with force. The brave Madhava and Pandava have penetrated into the forces of the enemy. Swiftly act, so that they can advance towards Jayadratha's death with ease.’ Thus did they urge the soldiers. ‘If they are vanquished, the Kurus will have succeeded in their objective and we will have been been defeated. Unite and quickly agitate this ocean of soldiers, like extremely forceful winds against the ocean.’ O king! They were goaded by Bhimasena and Panchala{272}. In the battle, they killed the Kouravas, ready to give up their beloved lives. They were greatly energetic and desired death from weapons in that battle, for the sake of heaven and for the sake of their friends. They were not interested in protecting their lives. O king! In similar fashion, those on your side desired great fame. The noble ones desired to ﬁght and remained stationed in the battle. A tumultuous battle commenced and it gave rise to great fear. Having killed all the soldiers, Satyaki proceeded towards Arjuna. In every direction in that battle, the colourful rays of the sun illuminated the armour and rebuffed the sight of the soldiers who sought to strike back. O great king! In similar fashion, without any fear, Duryodhana made efforts to immerse himself in the great army of the Pandaveyas. O descendant of the Bharata lineage! There was a ﬁerce clash between them and him. There was a great destruction among all the soldiers.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! The soldiers prepared themselves, with chariots, elephants, horses and infantry. Your soldiers were tremendous and it was like the end of a yuga. O one who gives honours! Your entire army was assembled. It is my view that an assemblage like this has never been seen in the world. O lord of the earth! The gods and the assembled charanas said, ",
+          "speaker": "@sanjaya",
+          "introduces": "the_assembled_charanas",
+          "introduces_label": "the assembled charanas",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A vyuha like the one Drona has formed at the time of Jayadratha's death will never again be seen.’",
+          "speaker": "the_assembled_charanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " There was a terrible roar, like that of the oceans. In that battle, those large numbers of soldiers rushed against each other in waves. O supreme among men! There were many kings, hundreds and thousands, who had assembled on your side and that of the Pandavas. Those brave ones were angry. They were the performers of ﬁrm deeds in battle. A great and tumultuous sound arose and it made the body hair stand up. O venerable one! Bhimasena, Dhrishtadyumna, Nakula, Sahadeva and Pandava Dharmaraja exclaimed, ",
+          "speaker": "@sanjaya",
+          "introduces": "pandava_dharmaraja",
+          "introduces_label": "Pandava Dharmaraja",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Come. Strike. Attack with force. The brave Madhava and Pandava have penetrated into the forces of the enemy. Swiftly act, so that they can advance towards Jayadratha's death with ease.’",
+          "speaker": "pandava_dharmaraja",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus did they urge the soldiers. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If they are vanquished, the Kurus will have succeeded in their objective and we will have been been defeated. Unite and quickly agitate this ocean of soldiers, like extremely forceful winds against the ocean.’",
+          "speaker": "pandava_dharmaraja",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! They were goaded by Bhimasena and Panchala{272}. In the battle, they killed the Kouravas, ready to give up their beloved lives. They were greatly energetic and desired death from weapons in that battle, for the sake of heaven and for the sake of their friends. They were not interested in protecting their lives. O king! In similar fashion, those on your side desired great fame. The noble ones desired to ﬁght and remained stationed in the battle. A tumultuous battle commenced and it gave rise to great fear. Having killed all the soldiers, Satyaki proceeded towards Arjuna. In every direction in that battle, the colourful rays of the sun illuminated the armour and rebuffed the sight of the soldiers who sought to strike back. O great king! In similar fashion, without any fear, Duryodhana made efforts to immerse himself in the great army of the Pandaveyas. O descendant of the Bharata lineage! There was a ﬁerce clash between them and him. There was a great destruction among all the soldiers.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Dhritarashtra said, “O charioteer! When he advanced against those soldiers, he must himself have confronted great hardships. I hope he did not turn his back on the battle. It seems to me that the encounter between the one and the many must have been unequal, especially because the single one was a king{273}. Duryodhana has been reared in great happiness. He is also the lord of prosperity and of men. When he single-handedly confronted many, I hope he did not retreat.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O charioteer! When he advanced against those soldiers, he must himself have confronted great hardships. I hope he did not turn his back on the battle. It seems to me that the encounter between the one and the many must have been unequal, especially because the single one was a king{273}. Duryodhana has been reared in great happiness. He is also the lord of prosperity and of men. When he single-handedly confronted many, I hope he did not retreat.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O king! O descendant of the Bharata lineage! Listen to the extraordinary battle that your son fought, one against many. Listen. I will describe it. In that battle, Duryodhana suddenly descended on the Pandava soldiers and agitated them like an elephant, as if he was an elephant among lotuses. O Kourava! On seeing that your son was acting in this way against the army, the Panchalas, with Bhimasena at the forefront, attacked. He{274} pierced Bhimasena with ten arrows, each of Madri's sons with three, Virata and Drupada with six each and Shikhandi with one hundred. He pierced Dhrishtadyumna with twenty, Dharma's son with seven, the Kekayas with ten and each of Droupadi's sons with three arrows. In that battle, like an angry Yama against beings, he used his ﬁerce arrows to bring down hundreds of other warriors, elephants and rathas. As he afﬁxed and released arrows, his bow was seen to be stretched into a continuous circle. He killed the enemy with the skill and strength of his weapons. He killed the foes with his giant bow that possessed a golden back. O venerable one! The eldest of the Pandavas{275} used a couple of broad-headed arrows to sever his bow into three fragments and pierced him with many sharp and excellent arrows. But having touched the armour, they shattered and penetrated the earth. The delighted Parthas surrounded Yudhishthira, like the rejoicing gods and maharshis around Shakra, when Vritra had been killed. At this, King Duryodhana picked up a ﬁrmer bow and asked the Pandava king to wait. When your maharatha son spoke and advanced against the king, the Panchalas, desiring victory, cheerfully counter-attacked. Wishing to protect him{276}, Drona received the warring Pandavas. He was like a mountain receiving rain from a cloud that has been stirred up by a violent wind. O king! There was a loud noise in that battle and it rose above everything else. It was as if Rudra was sporting, when he destroys all living beings.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O descendant of the Bharata lineage! Listen to the extraordinary battle that your son fought, one against many. Listen. I will describe it. In that battle, Duryodhana suddenly descended on the Pandava soldiers and agitated them like an elephant, as if he was an elephant among lotuses. O Kourava! On seeing that your son was acting in this way against the army, the Panchalas, with Bhimasena at the forefront, attacked. He{274} pierced Bhimasena with ten arrows, each of Madri's sons with three, Virata and Drupada with six each and Shikhandi with one hundred. He pierced Dhrishtadyumna with twenty, Dharma's son with seven, the Kekayas with ten and each of Droupadi's sons with three arrows. In that battle, like an angry Yama against beings, he used his ﬁerce arrows to bring down hundreds of other warriors, elephants and rathas. As he afﬁxed and released arrows, his bow was seen to be stretched into a continuous circle. He killed the enemy with the skill and strength of his weapons. He killed the foes with his giant bow that possessed a golden back. O venerable one! The eldest of the Pandavas{275} used a couple of broad-headed arrows to sever his bow into three fragments and pierced him with many sharp and excellent arrows. But having touched the armour, they shattered and penetrated the earth. The delighted Parthas surrounded Yudhishthira, like the rejoicing gods and maharshis around Shakra, when Vritra had been killed. At this, King Duryodhana picked up a ﬁrmer bow and asked the Pandava king to wait. When your maharatha son spoke and advanced against the king, the Panchalas, desiring victory, cheerfully counter-attacked. Wishing to protect him{276}, Drona received the warring Pandavas. He was like a mountain receiving rain from a cloud that has been stirred up by a violent wind. O king! There was a loud noise in that battle and it rose above everything else. It was as if Rudra was sporting, when he destroys all living beings.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

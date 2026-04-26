@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Mahabharata — Complete Nested Dialog View</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  background: #f5f3ef; color: #333;
+  padding: 0; margin: 0;
+}
+
+/* ── Top bar ── */
+#topbar {
+  position: sticky; top: 0; z-index: 100;
+  background: #2c2c3a; color: #ccc; padding: 10px 24px;
+  font-family: system-ui, sans-serif; font-size: 13px;
+  display: flex; align-items: center; gap: 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+#topbar h1 { color: #E8B86D; font-size: 18px; margin: 0; font-weight: 600; }
+#topbar .legend span {
+  display: inline-block; padding: 2px 8px; border-radius: 3px;
+  margin: 0 2px; font-size: 11px;
+}
+#topbar .stats { margin-left: auto; color: #999; font-size: 12px; }
+#jump-select {
+  font-family: system-ui, sans-serif; font-size: 12px;
+  padding: 3px 8px; border-radius: 4px; border: 1px solid #555;
+  background: #3a3a4f; color: #ddd; cursor: pointer;
+}
+
+/* ── Parva boxes ── */
+#content { max-width: 1100px; margin: 0 auto; padding: 20px 24px 60px; }
+
+.parva-box {
+  border: 2px solid #bbb; border-radius: 10px;
+  margin: 16px 0; background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+.parva-header {
+  cursor: pointer; padding: 14px 20px;
+  background: linear-gradient(135deg, #2c2c3a, #3a3a50);
+  color: #E8B86D; border-radius: 8px 8px 0 0;
+  font-size: 17px; font-weight: 600;
+  display: flex; align-items: center; gap: 12px;
+  user-select: none; font-family: system-ui, sans-serif;
+}
+.parva-header:hover { background: linear-gradient(135deg, #3a3a50, #4a4a6a); }
+.parva-header .arrow { transition: transform 0.2s; font-size: 14px; }
+.parva-header.open .arrow { transform: rotate(90deg); }
+.parva-header .meta {
+  margin-left: auto; font-size: 12px; color: #999; font-weight: 400;
+}
+.parva-body { display: none; padding: 8px 12px 12px; }
+.parva-body.open { display: block; }
+
+/* ── Chapter boxes ── */
+.chapter-box {
+  border: 1px solid #ddd; border-radius: 8px;
+  margin: 6px 0; background: #faf8f5;
+}
+.chapter-header {
+  cursor: pointer; padding: 8px 16px;
+  background: #eee8dd; border-radius: 7px 7px 0 0;
+  font-size: 14px; font-weight: 500; color: #555;
+  display: flex; align-items: center; gap: 8px;
+  user-select: none; font-family: system-ui, sans-serif;
+}
+.chapter-header:hover { background: #e2d9c8; }
+.chapter-header .arrow { transition: transform 0.2s; font-size: 12px; }
+.chapter-header.open .arrow { transform: rotate(90deg); }
+.chapter-header .meta {
+  margin-left: auto; font-size: 11px; color: #999; font-weight: 400;
+}
+.chapter-body { display: none; padding: 10px 14px; }
+.chapter-body.open { display: block; }
+.chapter-body .loading {
+  text-align: center; color: #999; font-style: italic;
+  padding: 20px; font-size: 13px;
+}
+
+/* ── Nested dialog blocks ── */
+.nest {
+  border-radius: 6px;
+  padding: 6px 10px;
+  margin: 5px 0;
+}
+.seg-text { font-size: 15px; line-height: 1.65; padding: 2px 0; }
+.seg-speech { font-weight: 500; }
+.seg-narration { opacity: 0.8; }
+.seg-close { opacity: 0.45; font-size: 13px; }
+.para-sep { border-top: 1px dashed #e0d8ce; margin: 12px 0; }
+
+/* ── Expand/collapse all ── */
+.expand-all-btn {
+  font-family: system-ui, sans-serif; font-size: 11px;
+  padding: 3px 10px; border: 1px solid #888; border-radius: 4px;
+  background: #4a4a6a; color: #ddd; cursor: pointer; margin-left: 4px;
+}
+.expand-all-btn:hover { background: #6a6a8a; }
+
+/* ── Scroll to top ── */
+#scroll-top {
+  position: fixed; bottom: 24px; right: 24px; z-index: 200;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: #2c2c3a; color: #E8B86D; border: 2px solid #E8B86D;
+  font-size: 20px; cursor: pointer; display: none;
+  align-items: center; justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+#scroll-top:hover { background: #4a4a6a; }
+</style>
+</head>
+<body>
+
+<div id="topbar">
+  <h1>The Mahabharata</h1>
+  <div class="legend">
+    <span style="color:#555;background:rgba(85,85,85,0.08)">D0 Narration</span>
+    <span style="color:#2b6cb0;background:rgba(126,184,247,0.12)">D1 Speech '</span>
+    <span style="color:#22543d;background:rgba(45,106,79,0.10)">D2 Speech "</span>
+    <span style="color:#9b2c2c;background:rgba(224,122,95,0.12)">D3 Speech '</span>
+    <span style="color:#44337a;background:rgba(108,92,231,0.12)">D4+</span>
+  </div>
+  <select id="jump-select"><option value="">Jump to Parva...</option></select>
+  <button class="expand-all-btn" onclick="expandAllParvas()">Expand All Parvas</button>
+  <button class="expand-all-btn" onclick="collapseAllParvas()">Collapse All</button>
+  <div class="stats" id="stats">18 Parvas · 1995 Chapters</div>
+</div>
+
+<div id="content"></div>
+
+<button id="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#9650;</button>
+
+<script>
+// ── Parva-to-chapter mapping ──
+const PARVAS = [
+  { n:1,  name:"Adi Parva",             from:1,    to:225,  shlokas:7205,  subs:19 },
+  { n:2,  name:"Sabha Parva",           from:226,  to:297,  shlokas:2390,  subs:9  },
+  { n:3,  name:"Vana Parva",            from:298,  to:596,  shlokas:10152, subs:16 },
+  { n:4,  name:"Virata Parva",          from:597,  to:663,  shlokas:1823,  subs:4  },
+  { n:5,  name:"Udyoga Parva",          from:664,  to:860,  shlokas:6058,  subs:12 },
+  { n:6,  name:"Bhishma Parva",         from:861,  to:977,  shlokas:5406,  subs:4  },
+  { n:7,  name:"Drona Parva",           from:978,  to:1150, shlokas:7957,  subs:8  },
+  { n:8,  name:"Karna Parva",           from:1151, to:1219, shlokas:3870,  subs:1  },
+  { n:9,  name:"Shalya Parva",          from:1220, to:1283, shlokas:3315,  subs:4  },
+  { n:10, name:"Sauptika Parva",        from:1284, to:1301, shlokas:772,   subs:2  },
+  { n:11, name:"Stri Parva",            from:1302, to:1328, shlokas:730,   subs:4  },
+  { n:12, name:"Shanti Parva",          from:1329, to:1681, shlokas:12823, subs:3  },
+  { n:13, name:"Anushasana Parva",      from:1682, to:1835, shlokas:6534,  subs:2  },
+  { n:14, name:"Ashvamedhika Parva",    from:1836, to:1931, shlokas:2743,  subs:1  },
+  { n:15, name:"Ashramavasa Parva",     from:1932, to:1978, shlokas:1062,  subs:3  },
+  { n:16, name:"Mausala Parva",         from:1979, to:1987, shlokas:273,   subs:1  },
+  { n:17, name:"Mahaprasthanika Parva", from:1988, to:1990, shlokas:3,     subs:1  },
+  { n:18, name:"Svargarohana Parva",    from:1991, to:1995, shlokas:209,   subs:1  },
+];
+
+// Volume ranges for file lookup
+const VOLUMES = [
+  { v:1,  from:1,    to:199  },
+  { v:2,  from:200,  to:376  },
+  { v:3,  from:377,  to:596  },
+  { v:4,  from:597,  to:832  },
+  { v:5,  from:833,  to:1008 },
+  { v:6,  from:1009, to:1150 },
+  { v:7,  from:1151, to:1283 },
+  { v:8,  from:1284, to:1527 },
+  { v:9,  from:1528, to:1737 },
+  { v:10, from:1738, to:1995 },
+];
+
+function chapterVolume(ch) {
+  for (const v of VOLUMES) {
+    if (ch >= v.from && ch <= v.to) return v.v;
+  }
+  return 1;
+}
+
+function chapterFilePath(ch) {
+  const vol = chapterVolume(ch);
+  const padded = String(ch).padStart(4, '0');
+  return '../dialogs/volume_' + vol + '/chapter_' + padded + '.json';
+}
+
+// ── Speaker colors (loaded from characters.json) ──
+let speakerColors = {};
+const FALLBACK_COLOR = '#B0B0B0';
+
+const DEPTH_BG = [
+  '#f5f5f5','#e3f2fd','#e8f5e9','#fff3e0',
+  '#fce4ec','#ede7f6','#e0f7fa','#fff9c4'
+];
+const DEPTH_TEXT = [
+  '#616161','#1565c0','#2e7d32','#e65100',
+  '#c62828','#4527a0','#00695c','#f57f17'
+];
+
+function hexToRgba(hex, alpha) {
+  const h = hex.replace('#','');
+  const r = parseInt(h.substring(0,2),16);
+  const g = parseInt(h.substring(2,4),16);
+  const b = parseInt(h.substring(4,6),16);
+  return 'rgba('+r+','+g+','+b+','+alpha+')';
+}
+function getSpeakerColor(id) {
+  return (speakerColors[id] && speakerColors[id].color) || FALLBACK_COLOR;
+}
+function getSpeakerLabel(id) {
+  if (speakerColors[id]) return speakerColors[id].label;
+  return id ? id.replace('@','').replace(/_/g,' ') : 'Unknown';
+}
+
+fetch('../json/characters.json').then(r => r.json()).then(chars => {
+  for (const [cid, info] of Object.entries(chars)) {
+    if (!cid.startsWith('@')) continue;
+    const disp = info.display || {};
+    if (disp.color) {
+      speakerColors[cid] = { color: disp.color, label: disp.label || info.Name || cid };
+    }
+  }
+}).catch(e => console.warn('Could not load characters.json:', e));
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// ── Render a chapter's paragraphs as nested divs ──
+function renderParagraphs(data) {
+  let h = '';
+  for (let pi = 0; pi < data.paragraphs.length; pi++) {
+    const para = data.paragraphs[pi];
+    if (pi > 0) h += '<div class="para-sep"></div>';
+
+    let curDepth = -1;
+    let curSpeakerAt = {};
+
+    for (const seg of para.segments) {
+      const d = seg.depth || 0;
+      const speaker = seg.speaker || '@ugrasrava';
+      const depthColor = DEPTH_TEXT[Math.min(d, DEPTH_TEXT.length - 1)];
+
+      while (curDepth > d) { h += '</div>'; delete curSpeakerAt[curDepth]; curDepth--; }
+
+      if (curDepth === d && curSpeakerAt[d] !== speaker) { h += '</div>'; curDepth--; }
+
+      while (curDepth < d) {
+        curDepth++;
+        const sp = (curDepth === d) ? speaker : (curSpeakerAt[curDepth] || speaker);
+        const c = getSpeakerColor(sp);
+        const bg = hexToRgba(c, 0.12);
+        h += '<div class="nest" style="background:' + bg + ';border-left:3px solid ' + c + ';margin-left:' + (curDepth > 0 ? 12 : 0) + 'px" title="' + esc(getSpeakerLabel(sp)) + '">';
+        curSpeakerAt[curDepth] = sp;
+      }
+
+      const intro = seg.introduces_label || '';
+      if (seg.type === 'close') {
+        h += '<div class="seg-text seg-close">' + esc(seg.text) + '</div>';
+      } else if (intro) {
+        h += '<div class="seg-text seg-speech" style="color:' + depthColor + '"><b>' + esc(intro) + '</b>' + esc(seg.text.substring(intro.length)) + '</div>';
+      } else if (seg.type === 'speech') {
+        h += '<div class="seg-text seg-speech" style="color:' + depthColor + '">' + esc(seg.text) + '</div>';
+      } else {
+        h += '<div class="seg-text seg-narration" style="color:' + depthColor + '">' + esc(seg.text) + '</div>';
+      }
+    }
+
+    while (curDepth >= 0) { h += '</div>'; curDepth--; }
+  }
+  return h;
+}
+
+// ── Chapter cache ──
+const chapterCache = {};
+
+async function loadChapter(ch, bodyEl) {
+  if (chapterCache[ch]) {
+    bodyEl.innerHTML = chapterCache[ch];
+    return;
+  }
+
+  bodyEl.innerHTML = '<div class="loading">Loading chapter ' + ch + '...</div>';
+
+  try {
+    const resp = await fetch(chapterFilePath(ch));
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    const html = renderParagraphs(data);
+    chapterCache[ch] = html;
+    bodyEl.innerHTML = html;
+  } catch (e) {
+    bodyEl.innerHTML = '<div class="loading">Error loading chapter ' + ch + ': ' + e.message + '</div>';
+  }
+}
+
+// ── Build the page ──
+function buildPage() {
+  const content = document.getElementById('content');
+  const jumpSelect = document.getElementById('jump-select');
+  let html = '';
+
+  for (const parva of PARVAS) {
+    const numCh = parva.to - parva.from + 1;
+
+    // Jump dropdown
+    const opt = document.createElement('option');
+    opt.value = 'parva-' + parva.n;
+    opt.textContent = parva.n + '. ' + parva.name;
+    jumpSelect.appendChild(opt);
+
+    html += '<div class="parva-box" id="parva-' + parva.n + '">';
+    html += '<div class="parva-header" onclick="toggleParva(this,' + parva.n + ')">';
+    html += '<span class="arrow">&#9654;</span>';
+    html += '<span>' + parva.n + '. ' + parva.name + '</span>';
+    html += '<span class="meta">' + numCh + ' chapters &middot; ' + parva.shlokas.toLocaleString() + ' shlokas</span>';
+    html += '</div>';
+    html += '<div class="parva-body" id="parva-body-' + parva.n + '">';
+
+    for (let ch = parva.from; ch <= parva.to; ch++) {
+      const local = ch - parva.from + 1;
+      html += '<div class="chapter-box">';
+      html += '<div class="chapter-header" onclick="toggleChapter(this,' + ch + ')">';
+      html += '<span class="arrow">&#9654;</span>';
+      html += '<span>Chapter ' + ch + ' (local ' + local + ')</span>';
+      html += '<span class="meta"></span>';
+      html += '</div>';
+      html += '<div class="chapter-body" id="ch-body-' + ch + '"></div>';
+      html += '</div>';
+    }
+
+    html += '</div></div>';
+  }
+
+  content.innerHTML = html;
+}
+
+function toggleParva(headerEl, parvaNum) {
+  const body = document.getElementById('parva-body-' + parvaNum);
+  const isOpen = body.classList.contains('open');
+  headerEl.classList.toggle('open', !isOpen);
+  body.classList.toggle('open', !isOpen);
+}
+
+function toggleChapter(headerEl, ch) {
+  const body = document.getElementById('ch-body-' + ch);
+  const isOpen = body.classList.contains('open');
+  headerEl.classList.toggle('open', !isOpen);
+  body.classList.toggle('open', !isOpen);
+
+  if (!isOpen && !body.dataset.loaded) {
+    body.dataset.loaded = '1';
+    loadChapter(ch, body);
+  }
+}
+
+function expandAllParvas() {
+  document.querySelectorAll('.parva-header').forEach(h => h.classList.add('open'));
+  document.querySelectorAll('.parva-body').forEach(b => b.classList.add('open'));
+}
+
+function collapseAllParvas() {
+  document.querySelectorAll('.parva-header').forEach(h => h.classList.remove('open'));
+  document.querySelectorAll('.parva-body').forEach(b => b.classList.remove('open'));
+  document.querySelectorAll('.chapter-header').forEach(h => h.classList.remove('open'));
+  document.querySelectorAll('.chapter-body').forEach(b => b.classList.remove('open'));
+}
+
+// Jump-to dropdown
+document.getElementById('jump-select').addEventListener('change', function() {
+  if (this.value) {
+    const el = document.getElementById(this.value);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      // Also expand it
+      const header = el.querySelector('.parva-header');
+      const body = el.querySelector('.parva-body');
+      if (header && body) {
+        header.classList.add('open');
+        body.classList.add('open');
+      }
+    }
+  }
+});
+
+// Scroll-to-top button
+window.addEventListener('scroll', function() {
+  const btn = document.getElementById('scroll-top');
+  btn.style.display = window.scrollY > 400 ? 'flex' : 'none';
+});
+
+// Build on load
+buildPage();
+</script>
+</body>
+</html>

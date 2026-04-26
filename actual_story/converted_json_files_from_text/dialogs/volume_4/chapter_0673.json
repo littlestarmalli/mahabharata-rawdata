@@ -1,0 +1,336 @@
+{
+  "chapter": 673,
+  "local": 10,
+  "shlokas": 47,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Indra said, ‘O gods! This entire indestructible universe has been pervaded by Vritra. There is nothing that is equal to him and can stand up to him. I was capable in earlier times. But I am now incapable. O fortunate ones! What can I do? It seems to me that it is extremely difﬁcult to overcome him. This energetic and great-souled one is inﬁnitely valorous in battle. He will devour the three worlds, with all the gods, the asuras and men. O residents of heaven! Therefore, listen to what I have decided. We must approach the abode of the great-souled Vishnu. We must consult with him about the means for killing this evil-souled one.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O gods! This entire indestructible universe has been pervaded by Vritra. There is nothing that is equal to him and can stand up to him. I was capable in earlier times. But I am now incapable. O fortunate ones! What can I do? It seems to me that it is extremely difﬁcult to overcome him. This energetic and great-souled one is inﬁnitely valorous in battle. He will devour the three worlds, with all the gods, the asuras and men. O residents of heaven! Therefore, listen to what I have decided. We must approach the abode of the great-souled Vishnu. We must consult with him about the means for killing this evil-souled one.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Shalya said, “At these words of Maghavan, the gods, together with the masses of rishis, then sought refuge with the immensely strong god Vishnu, one with whom refuge should be sought. All of them were oppressed with the fear of Vritra and spoke to Vishnu, the lord of all the gods. ‘O lord! You covered the three worlds in three strides{73}. O Vishnu! You killed the daityas in battle and obtained the amrita{74}. Having bound down the great daitya Bali, you made Shakra the lord of the gods. You are the lord of all the worlds. Everything is vested in you. You are the god who is the great god. You are revered by all the worlds. O supreme among the immortals! Become the salvation of Indra and the gods. O destroyer of asuras! The entire universe has become pervaded by Vritra.’ Vishnu replied, ‘I will certainly do that which ensures your supreme welfare. I will tell you a means whereby he will cease to exist. With all the rishis and the gandharvas, go to the spot where the one with the universal form resides. Use conciliation towards him. You will then be able to vanquish him. O gods! Shakra will go there. Using my energy, I will invisibly enter his supreme weapon, the vajra. O supreme among gods! Go there with the rishis and the gandharvas. Without any delay, bring about a truce between Vritra and Shakra.’ Having been thus addressed by the god, the rishis and the denizens of heaven went together, having placed Shakra at the forefront.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Shalya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shalya",
+          "introduces_label": "Shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“At these words of Maghavan, the gods, together with the masses of rishis, then sought refuge with the immensely strong god Vishnu, one with whom refuge should be sought. All of them were oppressed with the fear of Vritra and spoke to Vishnu, the lord of all the gods. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! You covered the three worlds in three strides{73}. O Vishnu! You killed the daityas in battle and obtained the amrita{74}. Having bound down the great daitya Bali, you made Shakra the lord of the gods. You are the lord of all the worlds. Everything is vested in you. You are the god who is the great god. You are revered by all the worlds. O supreme among the immortals! Become the salvation of Indra and the gods. O destroyer of asuras! The entire universe has become pervaded by Vritra.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Vishnu replied, ",
+          "speaker": "@shalya",
+          "introduces": "@vishnu",
+          "introduces_label": "Vishnu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I will certainly do that which ensures your supreme welfare. I will tell you a means whereby he will cease to exist. With all the rishis and the gandharvas, go to the spot where the one with the universal form resides. Use conciliation towards him. You will then be able to vanquish him. O gods! Shakra will go there. Using my energy, I will invisibly enter his supreme weapon, the vajra. O supreme among gods! Go there with the rishis and the gandharvas. Without any delay, bring about a truce between Vritra and Shakra.’",
+          "speaker": "@vishnu",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed by the god, the rishis and the denizens of heaven went together, having placed Shakra at the forefront.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“All those greatly energetic ones approached him. He was burning the ten directions with the radiance of his energy. He seemed to be swallowing the three worlds and was like the sun and the moon. Together with Shakra, the gods saw Vritra there. The rishis approached and spoke to Vritra in pleasant words. ‘O invincible one! The entire universe is pervaded by your energy. But you will not be able to vanquish Vasava, who is supremely valorous. Since the two of you began to ﬁght, a very long period of time has elapsed. All the beings, including the gods, the asuras and men, are oppressed. O Vritra! Let there always be friendship between you and Shakra. You will then obtain happiness and eternally dwell in Shakra's world.’ Hearing these words of the rishis, the greatly strong asura Vritra bowed his head in obeisance before all of them and said, ‘O immensely fortunate ones! O all the gandharvas! O unblemished ones! I have heard everything that you have said. Now listen to me. O gods! We are both extremely energetic. How can there be friendship between us?’ The rishis replied, ‘Righteous ones should meet, at least once. After that, what is destined will happen. No one transgresses an agreement with a righteous person. Therefore, there should be an agreement between those who are righteous. An agreement between the righteous is ﬁrm and eternal. Even in times of difﬁculties, the wise say that this is desirable. Great welfare derives from an agreement with a righteous person. That is the reason wise ones do not cause violence to righteous ones. Indra is honoured by righteous ones and great-souled ones reside with him. He also speaks the truth, isn't mean, follows dharma and is determined in his decisions. Let there always be peace between you and Shakra. You must have trust. Do not think otherwise.’ Having heard the words of the maharshis, the immensely radiant one told them, ‘O illustrious ones! I must certainly revere ascetics. O gods! If you carry out everything that I am asking you to, I will do everything that these bulls among the brahmanas have asked me to do. O Indras among brahmanas! I will be incapable of being killed by Shakra, together with the gods, by anything that is dry, anything that is wet, anything made of stone or wood, by any weapon, by the vajra{75}, and during the day or during the night. Such an agreement with Shakra will always please me.’ O bull among the Bharata lineage! The rishis said that it would be this way. When this agreement had been made, Vritra was delighted.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“All those greatly energetic ones approached him. He was burning the ten directions with the radiance of his energy. He seemed to be swallowing the three worlds and was like the sun and the moon. Together with Shakra, the gods saw Vritra there. The rishis approached and spoke to Vritra in pleasant words. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O invincible one! The entire universe is pervaded by your energy. But you will not be able to vanquish Vasava, who is supremely valorous. Since the two of you began to ﬁght, a very long period of time has elapsed. All the beings, including the gods, the asuras and men, are oppressed. O Vritra! Let there always be friendship between you and Shakra. You will then obtain happiness and eternally dwell in Shakra's world.’",
+          "speaker": "@vishnu",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing these words of the rishis, the greatly strong asura Vritra bowed his head in obeisance before all of them and said, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O immensely fortunate ones! O all the gandharvas! O unblemished ones! I have heard everything that you have said. Now listen to me. O gods! We are both extremely energetic. How can there be friendship between us?’",
+          "speaker": "@vishnu",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The rishis replied, ",
+          "speaker": "@shalya",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Righteous ones should meet, at least once. After that, what is destined will happen. No one transgresses an agreement with a righteous person. Therefore, there should be an agreement between those who are righteous. An agreement between the righteous is ﬁrm and eternal. Even in times of difﬁculties, the wise say that this is desirable. Great welfare derives from an agreement with a righteous person. That is the reason wise ones do not cause violence to righteous ones. Indra is honoured by righteous ones and great-souled ones reside with him. He also speaks the truth, isn't mean, follows dharma and is determined in his decisions. Let there always be peace between you and Shakra. You must have trust. Do not think otherwise.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having heard the words of the maharshis, the immensely radiant one told them, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious ones! I must certainly revere ascetics. O gods! If you carry out everything that I am asking you to, I will do everything that these bulls among the brahmanas have asked me to do. O Indras among brahmanas! I will be incapable of being killed by Shakra, together with the gods, by anything that is dry, anything that is wet, anything made of stone or wood, by any weapon, by the vajra{75}, and during the day or during the night. Such an agreement with Shakra will always please me.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O bull among the Bharata lineage! The rishis said that it would be this way. When this agreement had been made, Vritra was delighted.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“But Shakra was always full of resentment. He kept thinking about a means of killing Vritra. The destroyer of Bala and Vritra was always anxious and kept looking for a weakness. One day, he saw the great asura on the shores of the ocean. It was evening and the extremely lovely, but terrible, muhurta had arrived{76}. He thought about the boon that the great-souled one had been granted. ‘It is the terrible evening. It is not night or day. He is the enemy who has robbed me of everything. I can certainly kill him now. He is immensely powerful and has a gigantic body. If I do not kill the great asura Vritra through deceit today, it will not be good for me.’ Shakra thought in this way and remembered Vishnu. He saw the foam in the ocean, as large as a mountain. ‘This is not wet, nor dry. Nor is it a weapon. If I ﬂing it at Vritra, he will perish in an instant.’ With the vajra, he swiftly ﬂung the foam at Vritra. Vishnu entered the foam and destroyed Vritra. With Vritra dead, the darkness vanished from all the directions. An auspicious breeze began to blow and the beings rejoiced. All the gods, the gandharvas, the yakshas, the rakshasas, the serpents and the rishis praised the great Indra with many hymns. Having been honoured by all the beings, he pronounced benedictions on all the beings. With the enemy having been slain, Vasava was delighted, and together with the gods, showed his homage to Vishnu, who is learned in dharma and is supreme in the three worlds.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“But Shakra was always full of resentment. He kept thinking about a means of killing Vritra. The destroyer of Bala and Vritra was always anxious and kept looking for a weakness. One day, he saw the great asura on the shores of the ocean. It was evening and the extremely lovely, but terrible, muhurta had arrived{76}. He thought about the boon that the great-souled one had been granted. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is the terrible evening. It is not night or day. He is the enemy who has robbed me of everything. I can certainly kill him now. He is immensely powerful and has a gigantic body. If I do not kill the great asura Vritra through deceit today, it will not be good for me.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Shakra thought in this way and remembered Vishnu. He saw the foam in the ocean, as large as a mountain. ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This is not wet, nor dry. Nor is it a weapon. If I ﬂing it at Vritra, he will perish in an instant.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " With the vajra, he swiftly ﬂung the foam at Vritra. Vishnu entered the foam and destroyed Vritra. With Vritra dead, the darkness vanished from all the directions. An auspicious breeze began to blow and the beings rejoiced. All the gods, the gandharvas, the yakshas, the rakshasas, the serpents and the rishis praised the great Indra with many hymns. Having been honoured by all the beings, he pronounced benedictions on all the beings. With the enemy having been slain, Vasava was delighted, and together with the gods, showed his homage to Vishnu, who is learned in dharma and is supreme in the three worlds.",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“After the extremely valorous Vritra, who had terriﬁed the gods, had been killed, Shakra was overcome by falsehood{77} and was extremely depressed. After having killed Trishira earlier, he had taken on the sin of killing a brahmana. Bereft of his senses and consciousness, Indra of the gods went to the extremities of the world. Overcome by his own sins, he no longer possessed any wisdom. He remained immersed in water, writhing like a serpent. Thanks to the fear of having killed a brahmana, Indra of the gods was destroyed. The earth seemed to be ravaged{78}. There were no trees and the groves dried up. The ﬂows stopped in the rivers and the ponds were without water. Because of the lack of rains, there was great distress among the beings and the gods. All the maharshis were extremely terriﬁed. The entire universe was without a king and was confronted with calamities. The frightened gods thought, ‘Who will be our king now?’ The gods and the rishis in heaven no longer had a king of the gods. And none of the gods had a desire to be the king.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“After the extremely valorous Vritra, who had terriﬁed the gods, had been killed, Shakra was overcome by falsehood{77} and was extremely depressed. After having killed Trishira earlier, he had taken on the sin of killing a brahmana. Bereft of his senses and consciousness, Indra of the gods went to the extremities of the world. Overcome by his own sins, he no longer possessed any wisdom. He remained immersed in water, writhing like a serpent. Thanks to the fear of having killed a brahmana, Indra of the gods was destroyed. The earth seemed to be ravaged{78}. There were no trees and the groves dried up. The ﬂows stopped in the rivers and the ponds were without water. Because of the lack of rains, there was great distress among the beings and the gods. All the maharshis were extremely terriﬁed. The entire universe was without a king and was confronted with calamities. The frightened gods thought, ",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who will be our king now?’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The gods and the rishis in heaven no longer had a king of the gods. And none of the gods had a desire to be the king.”",
+          "speaker": "@shalya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

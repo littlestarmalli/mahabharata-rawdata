@@ -1,0 +1,110 @@
+{
+  "chapter": 1678,
+  "local": 350,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“The brahmana said, ‘Vivasvat's{1391} chariot has a single wheel and in due course, you ﬁrmly draw it. If you have seen anything wonderful and praiseworthy, you should tell me about it.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Vivasvat's{1391} chariot has a single wheel and in due course, you ﬁrmly draw it. If you have seen anything wonderful and praiseworthy, you should tell me about it.’",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The serpent replied, ‘Successful sages and the gods reside in his thousand rays, like birds perched on branches during the spring. The great wind emerges from Surya's rays and yawns in the sky. O brahmana! What can be more wonderful than that? The one named Shukra is at his feet{1392}. At the time of the monsoon, he showers down rain from the clouds in the sky. What can be more wonderful than that? For eight months, he sucks up the water through his pure rays and at the right time, showers them down again. What can be more wonderful than that? The atman is always established in speciﬁc parts of his energy. That is the seed of the earth and sustains mobile and immobile objects. The mighty-armed god is eternal. He is supreme and without decay{1393}. O brahmana! He is without beginning and without end. What can be more wonderful than that? There is something that is even more extraordinary than all these wonders. Hear about it from me. Residing with Surya, I have seen this in the sparkling sky. In ancient times, at midday, the sun used to scorch the worlds. At that time, an entity was seen to advance towards the sun. It illuminated all the worlds with its own natural radiance. It advanced towards the sun and seemed to splinter the sky in the process. The rays of that energy blazed like oblations poured into the ﬁre. That form was like that of a second sun and could not be looked at. As it advanced, Vivasvat stretched out his hand. As if honouring back in return, the entity also stretched out its right hand. Splintering the ﬁrmament, it then entered the solar disc. It mingled with Aditya's energy and in an instant, merged inside it. A doubt arose, because we could no longer distinguish between the two different masses of energy. Of these two, which one was Surya on his chariot? And which was the one that had arrived? Since a doubt arose in us, we asked Ravi{1394}, “O Surya! Who is the one who has advanced through the ﬁrmament and has merged into you, like a second self?”’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The serpent replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_serpent",
+          "introduces_label": "The serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Successful sages and the gods reside in his thousand rays, like birds perched on branches during the spring. The great wind emerges from Surya's rays and yawns in the sky. O brahmana! What can be more wonderful than that? The one named Shukra is at his feet{1392}. At the time of the monsoon, he showers down rain from the clouds in the sky. What can be more wonderful than that? For eight months, he sucks up the water through his pure rays and at the right time, showers them down again. What can be more wonderful than that? The atman is always established in speciﬁc parts of his energy. That is the seed of the earth and sustains mobile and immobile objects. The mighty-armed god is eternal. He is supreme and without decay{1393}. O brahmana! He is without beginning and without end. What can be more wonderful than that? There is something that is even more extraordinary than all these wonders. Hear about it from me. Residing with Surya, I have seen this in the sparkling sky. In ancient times, at midday, the sun used to scorch the worlds. At that time, an entity was seen to advance towards the sun. It illuminated all the worlds with its own natural radiance. It advanced towards the sun and seemed to splinter the sky in the process. The rays of that energy blazed like oblations poured into the ﬁre. That form was like that of a second sun and could not be looked at. As it advanced, Vivasvat stretched out his hand. As if honouring back in return, the entity also stretched out its right hand. Splintering the ﬁrmament, it then entered the solar disc. It mingled with Aditya's energy and in an instant, merged inside it. A doubt arose, because we could no longer distinguish between the two different masses of energy. Of these two, which one was Surya on his chariot? And which was the one that had arrived? Since a doubt arose in us, we asked Ravi{1394}, ",
+          "speaker": "the_serpent",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O Surya! Who is the one who has advanced through the ﬁrmament and has merged into you, like a second self?”",
+          "speaker": "the_serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "the_serpent",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "chapter": 4,
+  "local": 4,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Lomaharshana's son, the suta Ugrashrava, learned in ancient tales, was present at the twelve-year sacriﬁce of Kulapati Shounaka, held in Naimisharanya. Having spent a great deal of labour in learning the Puranas, he knew them well. He stood before the sages at the sacriﬁce, and with folded hands, addressed them, ‘What do you wish to hear? What shall I tell?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Lomaharshana's son, the suta Ugrashrava, learned in ancient tales, was present at the twelve-year sacriﬁce of Kulapati Shounaka, held in Naimisharanya. Having spent a great deal of labour in learning the Puranas, he knew them well. He stood before the sages at the sacriﬁce, and with folded hands, addressed them, ",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘What do you wish to hear? What shall I tell?’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "The sages replied, ‘O son of Lomaharshana! We wish to hear, and you will tell us, those who are eager to listen, some excellent tales. But at the moment, the revered Kulapati Shounaka is busy in the room with the holy ﬁre. He knows the divine tales about the gods and the demons. He also knows the stories of the men, the nagas and the gandharvas. O Souti! At this sacriﬁce, that learned Brahmana is the chief priest, capable, faithful to his vows and learned in all the sacred texts and the aranyakas. He is always truthful, a hermit strict in his austerities and vows, and calm. He is respected by all of us and we must wait for him. When he has taken the honoured seat meant for the preceptor, you will reply to what the best of the Brahmanas asks you.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "The sages replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sages",
+          "introduces_label": "The sages",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O son of Lomaharshana! We wish to hear, and you will tell us, those who are eager to listen, some excellent tales. But at the moment, the revered Kulapati Shounaka is busy in the room with the holy ﬁre. He knows the divine tales about the gods and the demons. He also knows the stories of the men, the nagas and the gandharvas. O Souti! At this sacriﬁce, that learned Brahmana is the chief priest, capable, faithful to his vows and learned in all the sacred texts and the aranyakas. He is always truthful, a hermit strict in his austerities and vows, and calm. He is respected by all of us and we must wait for him. When he has taken the honoured seat meant for the preceptor, you will reply to what the best of the Brahmanas asks you.’",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti replied, ‘So it shall be. When that great-souled preceptor has sat down, I shall narrate, as asked by him, all the sacred stories on a wide variety of subjects.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘So it shall be. When that great-souled preceptor has sat down, I shall narrate, as asked by him, all the sacred stories on a wide variety of subjects.’",
+          "speaker": "@ugrasrava",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "After that, when that bull among Brahmanas had ﬁnished all actions in accordance with the proper rites and had prayed to the gods and offered water to the ancestors, he came to the place of sacriﬁce where Souti was seated, in front of that assembly of brahmarshis, inﬂexible and successful in their austerities. Then, when Shounaka was seated among the ofﬁciating priests and assistants, who were seated, Shounaka said the following.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "After that, when that bull among Brahmanas had ﬁnished all actions in accordance with the proper rites and had prayed to the gods and offered water to the ancestors, he came to the place of sacriﬁce where Souti was seated, in front of that assembly of brahmarshis, inﬂexible and successful in their austerities. Then, when Shounaka was seated among the ofﬁciating priests and assistants, who were seated, Shounaka said the following.",
+          "speaker": "@ugrasrava",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "name": "Tirtha-yatra Parva",
+  "subparva_number": 33,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 74,
+    "num_shlokas": 2422
+  },
+  "note": "The chapters have two numbers, the first being the sequential numbering of the chapters right from the beginning. The second one, the num-ber within brackets, is the sequential numbering of the chapters within Aranyaka Parva. Tirtha means a sacred place of pilgrimage and yatra means a journey. This section is thus primarily about the journey to sacred places of pilgrimage like Pushkara, Prabhasa, Dvaravati, Vinasana, Rudrakoti, Kurukshetra, Mrigadhuma, Naimisha, Saptasarasvata, Prithudaka, Samnihiti, Shakambhari, Suvarnaksha, Varanasi, Gaya, Shalagrama, Rishabha, Gokarna, Prayaga, Gandhamadana and Kailasa. It also has the stories of Agastya, Tndra and Vritra, Sagara and Bhagiratha, Rishyashringa, Parashurama and Kartyavirya, Chyavana and Sukanya, Mandhata, Jantu, Shibi Ushinara, Ashtavakra, Yavakrita and the account of the encounter between Hanuman and Bhima.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "377": {
+      "chapter_number": 377,
+      "global_number": 377,
+      "local_number": 80,
+      "num_shlokas": 133,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_377_tagged.json"
+    },
+    "378": {
+      "chapter_number": 378,
+      "global_number": 378,
+      "local_number": 81,
+      "num_shlokas": 178,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_378_tagged.json"
+    },
+    "379": {
+      "chapter_number": 379,
+      "global_number": 379,
+      "local_number": 82,
+      "num_shlokas": 143,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_379_tagged.json"
+    },
+    "380": {
+      "chapter_number": 380,
+      "global_number": 380,
+      "local_number": 83,
+      "num_shlokas": 114,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_380_tagged.json"
+    },
+    "381": {
+      "chapter_number": 381,
+      "global_number": 381,
+      "local_number": 84,
+      "num_shlokas": 19,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_381_tagged.json"
+    },
+    "382": {
+      "chapter_number": 382,
+      "global_number": 382,
+      "local_number": 85,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_382_tagged.json"
+    },
+    "383": {
+      "chapter_number": 383,
+      "global_number": 383,
+      "local_number": 86,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_383_tagged.json"
+    },
+    "384": {
+      "chapter_number": 384,
+      "global_number": 384,
+      "local_number": 87,
+      "num_shlokas": 15,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_384_tagged.json"
+    },
+    "385": {
+      "chapter_number": 385,
+      "global_number": 385,
+      "local_number": 88,
+      "num_shlokas": 30,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_385_tagged.json"
+    },
+    "386": {
+      "chapter_number": 386,
+      "global_number": 386,
+      "local_number": 89,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_386_tagged.json"
+    },
+    "387": {
+      "chapter_number": 387,
+      "global_number": 387,
+      "local_number": 90,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_387_tagged.json"
+    },
+    "388": {
+      "chapter_number": 388,
+      "global_number": 388,
+      "local_number": 91,
+      "num_shlokas": 28,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_388_tagged.json"
+    },
+    "389": {
+      "chapter_number": 389,
+      "global_number": 389,
+      "local_number": 92,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_389_tagged.json"
+    },
+    "390": {
+      "chapter_number": 390,
+      "global_number": 390,
+      "local_number": 93,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_390_tagged.json"
+    },
+    "391": {
+      "chapter_number": 391,
+      "global_number": 391,
+      "local_number": 94,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_391_tagged.json"
+    },
+    "392": {
+      "chapter_number": 392,
+      "global_number": 392,
+      "local_number": 95,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_392_tagged.json"
+    },
+    "393": {
+      "chapter_number": 393,
+      "global_number": 393,
+      "local_number": 96,
+      "num_shlokas": 20,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_393_tagged.json"
+    },
+    "394": {
+      "chapter_number": 394,
+      "global_number": 394,
+      "local_number": 97,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_394_tagged.json"
+    },
+    "395": {
+      "chapter_number": 395,
+      "global_number": 395,
+      "local_number": 98,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_395_tagged.json"
+    },
+    "396": {
+      "chapter_number": 396,
+      "global_number": 396,
+      "local_number": 99,
+      "num_shlokas": 21,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_396_tagged.json"
+    },
+    "397": {
+      "chapter_number": 397,
+      "global_number": 397,
+      "local_number": 100,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_397_tagged.json"
+    },
+    "398": {
+      "chapter_number": 398,
+      "global_number": 398,
+      "local_number": 101,
+      "num_shlokas": 17,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_398_tagged.json"
+    },
+    "399": {
+      "chapter_number": 399,
+      "global_number": 399,
+      "local_number": 102,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_399_tagged.json"
+    },
+    "400": {
+      "chapter_number": 400,
+      "global_number": 400,
+      "local_number": 103,
+      "num_shlokas": 19,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_400_tagged.json"
+    },
+    "401": {
+      "chapter_number": 401,
+      "global_number": 401,
+      "local_number": 104,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_401_tagged.json"
+    },
+    "402": {
+      "chapter_number": 402,
+      "global_number": 402,
+      "local_number": 105,
+      "num_shlokas": 25,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_402_tagged.json"
+    },
+    "403": {
+      "chapter_number": 403,
+      "global_number": 403,
+      "local_number": 106,
+      "num_shlokas": 40,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_403_tagged.json"
+    },
+    "404": {
+      "chapter_number": 404,
+      "global_number": 404,
+      "local_number": 107,
+      "num_shlokas": 25,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_404_tagged.json"
+    },
+    "405": {
+      "chapter_number": 405,
+      "global_number": 405,
+      "local_number": 108,
+      "num_shlokas": 19,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_405_tagged.json"
+    },
+    "406": {
+      "chapter_number": 406,
+      "global_number": 406,
+      "local_number": 109,
+      "num_shlokas": 20,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_406_tagged.json"
+    },
+    "407": {
+      "chapter_number": 407,
+      "global_number": 407,
+      "local_number": 110,
+      "num_shlokas": 36,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_407_tagged.json"
+    },
+    "408": {
+      "chapter_number": 408,
+      "global_number": 408,
+      "local_number": 111,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_408_tagged.json"
+    },
+    "409": {
+      "chapter_number": 409,
+      "global_number": 409,
+      "local_number": 112,
+      "num_shlokas": 18,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_409_tagged.json"
+    },
+    "410": {
+      "chapter_number": 410,
+      "global_number": 410,
+      "local_number": 113,
+      "num_shlokas": 25,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_410_tagged.json"
+    },
+    "411": {
+      "chapter_number": 411,
+      "global_number": 411,
+      "local_number": 114,
+      "num_shlokas": 26,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_411_tagged.json"
+    },
+    "412": {
+      "chapter_number": 412,
+      "global_number": 412,
+      "local_number": 115,
+      "num_shlokas": 30,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_412_tagged.json"
+    },
+    "413": {
+      "chapter_number": 413,
+      "global_number": 413,
+      "local_number": 116,
+      "num_shlokas": 29,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_413_tagged.json"
+    },
+    "414": {
+      "chapter_number": 414,
+      "global_number": 414,
+      "local_number": 117,
+      "num_shlokas": 18,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_414_tagged.json"
+    },
+    "415": {
+      "chapter_number": 415,
+      "global_number": 415,
+      "local_number": 118,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_415_tagged.json"
+    },
+    "416": {
+      "chapter_number": 416,
+      "global_number": 416,
+      "local_number": 119,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_416_tagged.json"
+    },
+    "417": {
+      "chapter_number": 417,
+      "global_number": 417,
+      "local_number": 120,
+      "num_shlokas": 30,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_417_tagged.json"
+    },
+    "418": {
+      "chapter_number": 418,
+      "global_number": 418,
+      "local_number": 121,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_418_tagged.json"
+    },
+    "419": {
+      "chapter_number": 419,
+      "global_number": 419,
+      "local_number": 122,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_419_tagged.json"
+    },
+    "420": {
+      "chapter_number": 420,
+      "global_number": 420,
+      "local_number": 123,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_420_tagged.json"
+    },
+    "421": {
+      "chapter_number": 421,
+      "global_number": 421,
+      "local_number": 124,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_421_tagged.json"
+    },
+    "422": {
+      "chapter_number": 422,
+      "global_number": 422,
+      "local_number": 125,
+      "num_shlokas": 23,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_422_tagged.json"
+    },
+    "423": {
+      "chapter_number": 423,
+      "global_number": 423,
+      "local_number": 126,
+      "num_shlokas": 43,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_423_tagged.json"
+    },
+    "424": {
+      "chapter_number": 424,
+      "global_number": 424,
+      "local_number": 127,
+      "num_shlokas": 21,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_424_tagged.json"
+    },
+    "425": {
+      "chapter_number": 425,
+      "global_number": 425,
+      "local_number": 128,
+      "num_shlokas": 19,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_425_tagged.json"
+    },
+    "426": {
+      "chapter_number": 426,
+      "global_number": 426,
+      "local_number": 129,
+      "num_shlokas": 22,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_426_tagged.json"
+    },
+    "427": {
+      "chapter_number": 427,
+      "global_number": 427,
+      "local_number": 130,
+      "num_shlokas": 20,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_427_tagged.json"
+    },
+    "428": {
+      "chapter_number": 428,
+      "global_number": 428,
+      "local_number": 131,
+      "num_shlokas": 32,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_428_tagged.json"
+    },
+    "429": {
+      "chapter_number": 429,
+      "global_number": 429,
+      "local_number": 132,
+      "num_shlokas": 20,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_429_tagged.json"
+    },
+    "430": {
+      "chapter_number": 430,
+      "global_number": 430,
+      "local_number": 133,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_430_tagged.json"
+    },
+    "431": {
+      "chapter_number": 431,
+      "global_number": 431,
+      "local_number": 134,
+      "num_shlokas": 39,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_431_tagged.json"
+    },
+    "432": {
+      "chapter_number": 432,
+      "global_number": 432,
+      "local_number": 135,
+      "num_shlokas": 42,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_432_tagged.json"
+    },
+    "433": {
+      "chapter_number": 433,
+      "global_number": 433,
+      "local_number": 136,
+      "num_shlokas": 18,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_433_tagged.json"
+    },
+    "434": {
+      "chapter_number": 434,
+      "global_number": 434,
+      "local_number": 137,
+      "num_shlokas": 20,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_434_tagged.json"
+    },
+    "435": {
+      "chapter_number": 435,
+      "global_number": 435,
+      "local_number": 138,
+      "num_shlokas": 19,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_435_tagged.json"
+    },
+    "436": {
+      "chapter_number": 436,
+      "global_number": 436,
+      "local_number": 139,
+      "num_shlokas": 24,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_436_tagged.json"
+    },
+    "437": {
+      "chapter_number": 437,
+      "global_number": 437,
+      "local_number": 140,
+      "num_shlokas": 17,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_437_tagged.json"
+    },
+    "438": {
+      "chapter_number": 438,
+      "global_number": 438,
+      "local_number": 141,
+      "num_shlokas": 30,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_438_tagged.json"
+    },
+    "439": {
+      "chapter_number": 439,
+      "global_number": 439,
+      "local_number": 142,
+      "num_shlokas": 28,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_439_tagged.json"
+    },
+    "440": {
+      "chapter_number": 440,
+      "global_number": 440,
+      "local_number": 143,
+      "num_shlokas": 21,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_440_tagged.json"
+    },
+    "441": {
+      "chapter_number": 441,
+      "global_number": 441,
+      "local_number": 144,
+      "num_shlokas": 27,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_441_tagged.json"
+    },
+    "442": {
+      "chapter_number": 442,
+      "global_number": 442,
+      "local_number": 145,
+      "num_shlokas": 43,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_442_tagged.json"
+    },
+    "443": {
+      "chapter_number": 443,
+      "global_number": 443,
+      "local_number": 146,
+      "num_shlokas": 81,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_443_tagged.json"
+    },
+    "444": {
+      "chapter_number": 444,
+      "global_number": 444,
+      "local_number": 147,
+      "num_shlokas": 41,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_444_tagged.json"
+    },
+    "445": {
+      "chapter_number": 445,
+      "global_number": 445,
+      "local_number": 148,
+      "num_shlokas": 39,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_445_tagged.json"
+    },
+    "446": {
+      "chapter_number": 446,
+      "global_number": 446,
+      "local_number": 149,
+      "num_shlokas": 52,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_446_tagged.json"
+    },
+    "447": {
+      "chapter_number": 447,
+      "global_number": 447,
+      "local_number": 150,
+      "num_shlokas": 28,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_447_tagged.json"
+    },
+    "448": {
+      "chapter_number": 448,
+      "global_number": 448,
+      "local_number": 151,
+      "num_shlokas": 15,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_448_tagged.json"
+    },
+    "449": {
+      "chapter_number": 449,
+      "global_number": 449,
+      "local_number": 152,
+      "num_shlokas": 25,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_449_tagged.json"
+    },
+    "450": {
+      "chapter_number": 450,
+      "global_number": 450,
+      "local_number": 153,
+      "num_shlokas": 31,
+      "file": "subparva_33_tirtha_yatra_parva/chapter_450_tagged.json"
+    }
+  }
+}

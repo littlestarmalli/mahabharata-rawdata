@@ -1,0 +1,274 @@
+{
+  "chapter": 145,
+  "local": 145,
+  "shlokas": 40,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya said, ‘O best of those who are born twice! What did the maharatha Pandavas, the sons of Kunti, do after going to Ekachakra?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O best of those who are born twice! What did the maharatha Pandavas, the sons of Kunti, do after going to Ekachakra?’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘After going to Ekachakra, the maharatha Pandavas, the sons of Kunti, lived in a Brahmana's house for a short while. O king of the world! They then begged for alms. They saw many beautiful woods, distant parts of the earth, countries, rivers and lakes. Because of their many qualities, they became the favourites of the citizens. Every night, they handed over their alms to Kunti. She divided it into parts and each separately ate his share. The valorous ones, the scorchers of foes, and their mother ate half. The immensely powerful Bhima ate the other half entirely. O best of the Bharata lineage! O king! Those great-souled ones lived there like that and a great deal of time passed.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After going to Ekachakra, the maharatha Pandavas, the sons of Kunti, lived in a Brahmana's house for a short while. O king of the world! They then begged for alms. They saw many beautiful woods, distant parts of the earth, countries, rivers and lakes. Because of their many qualities, they became the favourites of the citizens. Every night, they handed over their alms to Kunti. She divided it into parts and each separately ate his share. The valorous ones, the scorchers of foes, and their mother ate half. The immensely powerful Bhima ate the other half entirely. O best of the Bharata lineage! O king! Those great-souled ones lived there like that and a great deal of time passed.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘One day, when the bulls of the Bharata lineage had gone out begging, Bhimasena was at home with Pritha{1} for company. O descendant of the Bharata lineage! Then Kunti heard a great uproar in the Brahmana's house, terrible sounds of lamentations. O king! Because of her compassion and goodness, the lady{2} could not bear the sight of that weeping and lamenting. Feeling sorry, the virtuous Pritha then spoke to Bhima in compassionate words. “O son! Unknown to the sons of Dhritarashtra, we have lived happily in this Brahmana's house, respected and treated well by him. O son! I have always thought about what can be good for the Brahmana and what I can do to please him, as those who happily live in other's houses should. He is truly a man who returns what is received and such an act is never destroyed. One should do more good than others do to one. Without a doubt, this Brahmana has fallen into some grief. If we can be of any help to him, that will be a good deed.” Bhima said, “Let us ﬁnd out what the distress is and how it has arisen. Having learnt it, I shall try to remove it{3}, no matter how difﬁcult it will be.” O ruler of the world! When those two were thus conversing, they heard a pitiful wail from the Brahmana and his wife.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘One day, when the bulls of the Bharata lineage had gone out begging, Bhimasena was at home with Pritha{1} for company. O descendant of the Bharata lineage! Then Kunti heard a great uproar in the Brahmana's house, terrible sounds of lamentations. O king! Because of her compassion and goodness, the lady{2} could not bear the sight of that weeping and lamenting. Feeling sorry, the virtuous Pritha then spoke to Bhima in compassionate words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! Unknown to the sons of Dhritarashtra, we have lived happily in this Brahmana's house, respected and treated well by him. O son! I have always thought about what can be good for the Brahmana and what I can do to please him, as those who happily live in other's houses should. He is truly a man who returns what is received and such an act is never destroyed. One should do more good than others do to one. Without a doubt, this Brahmana has fallen into some grief. If we can be of any help to him, that will be a good deed.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhima",
+          "introduces_label": "Bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Let us ﬁnd out what the distress is and how it has arisen. Having learnt it, I shall try to remove it{3}, no matter how difﬁcult it will be.”",
+          "speaker": "@bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O ruler of the world! When those two were thus conversing, they heard a pitiful wail from the Brahmana and his wife.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Like Surabhi{4} dashes at her tethered calf, Kunti hurried towards the inner quarters of the great-souled Brahmana. She saw there the Brahmana, his wife, his son and his daughter, their faces distorted with grief.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Like Surabhi{4} dashes at her tethered calf, Kunti hurried towards the inner quarters of the great-souled Brahmana. She saw there the Brahmana, his wife, his son and his daughter, their faces distorted with grief.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Brahmana said, “Cursed be this worldly life, without meaning, and like the substance of ﬁre. Its root is unhappiness, slavery to others and it is based on great sorrow. To live means to suffer great misery, to live means to suffer a great fever. Without a doubt, those who live have to choose between evils. The atman may be one, but one has to serve dharma, artha and kama. The simultaneous pursuit of these leads to great misery. Some say that salvation is the greatest object, but it can never be reached. The acquisition of artha is hell, its desire creates misery. Great is unhappiness for those who desire wealth, greater for those who have acquired it. There is attachment to the acquired wealth and when it is lost, unhappiness is greater. I do not see any way of escaping from this danger unless I run away with my wife and son to a healthier place. O brahmani{5}! I have told you before that we should go to a place that is safe, but you didn't listen to my words then. O foolish woman! When I repeatedly asked, you said, ‘I was born here. I grew old here. This is my father's house.’ Your father is now dead and your old mother died a long time ago. Your relatives are also dead. Why was there the desire to live here? You didn't listen to my words as a result of affection towards your relatives. We are now faced with the terrible misery that comes from losing a relative. How can I bear it? Perhaps the time has come for my own death. I cannot live like a cruel one after abandoning one of my own relatives.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Brahmana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_brahmana",
+          "introduces_label": "The Brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Cursed be this worldly life, without meaning, and like the substance of ﬁre. Its root is unhappiness, slavery to others and it is based on great sorrow. To live means to suffer great misery, to live means to suffer a great fever. Without a doubt, those who live have to choose between evils. The atman may be one, but one has to serve dharma, artha and kama. The simultaneous pursuit of these leads to great misery. Some say that salvation is the greatest object, but it can never be reached. The acquisition of artha is hell, its desire creates misery. Great is unhappiness for those who desire wealth, greater for those who have acquired it. There is attachment to the acquired wealth and when it is lost, unhappiness is greater. I do not see any way of escaping from this danger unless I run away with my wife and son to a healthier place. O brahmani{5}! I have told you before that we should go to a place that is safe, but you didn't listen to my words then. O foolish woman! When I repeatedly asked, you said, ",
+          "speaker": "the_brahmana",
+          "introduces": "you",
+          "introduces_label": "you",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I was born here. I grew old here. This is my father's house.’",
+          "speaker": "you",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Your father is now dead and your old mother died a long time ago. Your relatives are also dead. Why was there the desire to live here? You didn't listen to my words as a result of affection towards your relatives. We are now faced with the terrible misery that comes from losing a relative. How can I bear it? Perhaps the time has come for my own death. I cannot live like a cruel one after abandoning one of my own relatives.",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Always giving, you have been my companion in all virtuous acts. You are like a mother to me. The gods gave you to me as a friend. You have been my chief support. My father and mother gave you to me as a partner in my duties as a householder. I chose you in accordance with the law. I married you in accordance with the mantras. You were born into a good family. You have a good nature. You are the mother of my children. You have always been faithful to me. You are chaste and have never harmed anyone. You have always been constant in your vows. I cannot give up my wife in order to save my own life.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Always giving, you have been my companion in all virtuous acts. You are like a mother to me. The gods gave you to me as a friend. You have been my chief support. My father and mother gave you to me as a partner in my duties as a householder. I chose you in accordance with the law. I married you in accordance with the mantras. You were born into a good family. You have a good nature. You are the mother of my children. You have always been faithful to me. You are chaste and have never harmed anyone. You have always been constant in your vows. I cannot give up my wife in order to save my own life.",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“How can I sacriﬁce my daughter? She is still a child, not yet an adult, and without any signs of coming of age. The great-souled creator gave her to me in trust so that I could ﬁnd her a husband. Through her, together with my ancestors, I will be able to attain worlds reached by those who have sons through their daughters. How can I give up a daughter I have fathered myself? Some men think that a father loves a son more than a daughter. Not I. I love them equally. How can I give up this innocent girl? On her are based my continuity and the worlds that bring eternal bliss.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“How can I sacriﬁce my daughter? She is still a child, not yet an adult, and without any signs of coming of age. The great-souled creator gave her to me in trust so that I could ﬁnd her a husband. Through her, together with my ancestors, I will be able to attain worlds reached by those who have sons through their daughters. How can I give up a daughter I have fathered myself? Some men think that a father loves a son more than a daughter. Not I. I love them equally. How can I give up this innocent girl? On her are based my continuity and the worlds that bring eternal bliss.",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“If I sacriﬁce myself and go to the other world, I will still have to repent. Abandoned by me, they will not be able to live. To give up any one of these{6} will be a cruel act, condemned by those who are learned. But if I sacriﬁce myself, they will also die without me. Great distress has befallen me. I do not know how to escape. I am cursed. What path will I and my relatives follow? It is better that I should die with all of them. I cannot live.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“If I sacriﬁce myself and go to the other world, I will still have to repent. Abandoned by me, they will not be able to live. To give up any one of these{6} will be a cruel act, condemned by those who are learned. But if I sacriﬁce myself, they will also die without me. Great distress has befallen me. I do not know how to escape. I am cursed. What path will I and my relatives follow? It is better that I should die with all of them. I cannot live.”",
+          "speaker": "the_brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "name": "Bhagavat-Yana Parva",
+  "subparva_number": 54,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 68,
+    "num_shlokas": 2055
+  },
+  "note": "Yana means moving or journey as a verb and conveyance as a noun. The parva is so named because Krishna (Bhagavan) goes as a messenger to the Kurus. There are the stories of Dambhodbhava, Matali�s search for a son-in-law, Galava�s obstinacy, Yayati and Vidula and her son. However, Krishna fails and war is inevitable.",
+  "chapters": {
+    "733": {
+      "chapter_number": 733,
+      "global_number": 733,
+      "local_number": 70,
+      "num_shlokas": 93,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_733.json"
+    },
+    "734": {
+      "chapter_number": 734,
+      "global_number": 734,
+      "local_number": 71,
+      "num_shlokas": 37,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_734.json"
+    },
+    "735": {
+      "chapter_number": 735,
+      "global_number": 735,
+      "local_number": 72,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_735.json"
+    },
+    "736": {
+      "chapter_number": 736,
+      "global_number": 736,
+      "local_number": 73,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_736.json"
+    },
+    "737": {
+      "chapter_number": 737,
+      "global_number": 737,
+      "local_number": 74,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_737.json"
+    },
+    "738": {
+      "chapter_number": 738,
+      "global_number": 738,
+      "local_number": 75,
+      "num_shlokas": 20,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_738.json"
+    },
+    "739": {
+      "chapter_number": 739,
+      "global_number": 739,
+      "local_number": 76,
+      "num_shlokas": 20,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_739.json"
+    },
+    "740": {
+      "chapter_number": 740,
+      "global_number": 740,
+      "local_number": 77,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_740.json"
+    },
+    "741": {
+      "chapter_number": 741,
+      "global_number": 741,
+      "local_number": 78,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_741.json"
+    },
+    "742": {
+      "chapter_number": 742,
+      "global_number": 742,
+      "local_number": 79,
+      "num_shlokas": 9,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_742.json"
+    },
+    "743": {
+      "chapter_number": 743,
+      "global_number": 743,
+      "local_number": 80,
+      "num_shlokas": 49,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_743.json"
+    },
+    "744": {
+      "chapter_number": 744,
+      "global_number": 744,
+      "local_number": 81,
+      "num_shlokas": 72,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_744.json"
+    },
+    "745": {
+      "chapter_number": 745,
+      "global_number": 745,
+      "local_number": 82,
+      "num_shlokas": 29,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_745.json"
+    },
+    "746": {
+      "chapter_number": 746,
+      "global_number": 746,
+      "local_number": 83,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_746.json"
+    },
+    "747": {
+      "chapter_number": 747,
+      "global_number": 747,
+      "local_number": 84,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_747.json"
+    },
+    "748": {
+      "chapter_number": 748,
+      "global_number": 748,
+      "local_number": 85,
+      "num_shlokas": 17,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_748.json"
+    },
+    "749": {
+      "chapter_number": 749,
+      "global_number": 749,
+      "local_number": 86,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_749.json"
+    },
+    "750": {
+      "chapter_number": 750,
+      "global_number": 750,
+      "local_number": 87,
+      "num_shlokas": 26,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_750.json"
+    },
+    "751": {
+      "chapter_number": 751,
+      "global_number": 751,
+      "local_number": 88,
+      "num_shlokas": 104,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_751.json"
+    },
+    "752": {
+      "chapter_number": 752,
+      "global_number": 752,
+      "local_number": 89,
+      "num_shlokas": 41,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_752.json"
+    },
+    "753": {
+      "chapter_number": 753,
+      "global_number": 753,
+      "local_number": 90,
+      "num_shlokas": 28,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_753.json"
+    },
+    "754": {
+      "chapter_number": 754,
+      "global_number": 754,
+      "local_number": 91,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_754.json"
+    },
+    "755": {
+      "chapter_number": 755,
+      "global_number": 755,
+      "local_number": 92,
+      "num_shlokas": 53,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_755.json"
+    },
+    "756": {
+      "chapter_number": 756,
+      "global_number": 756,
+      "local_number": 93,
+      "num_shlokas": 62,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_756.json"
+    },
+    "757": {
+      "chapter_number": 757,
+      "global_number": 757,
+      "local_number": 94,
+      "num_shlokas": 45,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_757.json"
+    },
+    "758": {
+      "chapter_number": 758,
+      "global_number": 758,
+      "local_number": 95,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_758.json"
+    },
+    "759": {
+      "chapter_number": 759,
+      "global_number": 759,
+      "local_number": 96,
+      "num_shlokas": 25,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_759.json"
+    },
+    "760": {
+      "chapter_number": 760,
+      "global_number": 760,
+      "local_number": 97,
+      "num_shlokas": 20,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_760.json"
+    },
+    "761": {
+      "chapter_number": 761,
+      "global_number": 761,
+      "local_number": 98,
+      "num_shlokas": 19,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_761.json"
+    },
+    "762": {
+      "chapter_number": 762,
+      "global_number": 762,
+      "local_number": 99,
+      "num_shlokas": 16,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_762.json"
+    },
+    "763": {
+      "chapter_number": 763,
+      "global_number": 763,
+      "local_number": 100,
+      "num_shlokas": 15,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_763.json"
+    },
+    "764": {
+      "chapter_number": 764,
+      "global_number": 764,
+      "local_number": 101,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_764.json"
+    },
+    "765": {
+      "chapter_number": 765,
+      "global_number": 765,
+      "local_number": 102,
+      "num_shlokas": 29,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_765.json"
+    },
+    "766": {
+      "chapter_number": 766,
+      "global_number": 766,
+      "local_number": 103,
+      "num_shlokas": 38,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_766.json"
+    },
+    "767": {
+      "chapter_number": 767,
+      "global_number": 767,
+      "local_number": 104,
+      "num_shlokas": 26,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_767.json"
+    },
+    "768": {
+      "chapter_number": 768,
+      "global_number": 768,
+      "local_number": 105,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_768.json"
+    },
+    "769": {
+      "chapter_number": 769,
+      "global_number": 769,
+      "local_number": 106,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_769.json"
+    },
+    "770": {
+      "chapter_number": 770,
+      "global_number": 770,
+      "local_number": 107,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_770.json"
+    },
+    "771": {
+      "chapter_number": 771,
+      "global_number": 771,
+      "local_number": 108,
+      "num_shlokas": 19,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_771.json"
+    },
+    "772": {
+      "chapter_number": 772,
+      "global_number": 772,
+      "local_number": 109,
+      "num_shlokas": 26,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_772.json"
+    },
+    "773": {
+      "chapter_number": 773,
+      "global_number": 773,
+      "local_number": 110,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_773.json"
+    },
+    "774": {
+      "chapter_number": 774,
+      "global_number": 774,
+      "local_number": 111,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_774.json"
+    },
+    "775": {
+      "chapter_number": 775,
+      "global_number": 775,
+      "local_number": 112,
+      "num_shlokas": 20,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_775.json"
+    },
+    "776": {
+      "chapter_number": 776,
+      "global_number": 776,
+      "local_number": 113,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_776.json"
+    },
+    "777": {
+      "chapter_number": 777,
+      "global_number": 777,
+      "local_number": 114,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_777.json"
+    },
+    "778": {
+      "chapter_number": 778,
+      "global_number": 778,
+      "local_number": 115,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_778.json"
+    },
+    "779": {
+      "chapter_number": 779,
+      "global_number": 779,
+      "local_number": 116,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_779.json"
+    },
+    "780": {
+      "chapter_number": 780,
+      "global_number": 780,
+      "local_number": 117,
+      "num_shlokas": 23,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_780.json"
+    },
+    "781": {
+      "chapter_number": 781,
+      "global_number": 781,
+      "local_number": 118,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_781.json"
+    },
+    "782": {
+      "chapter_number": 782,
+      "global_number": 782,
+      "local_number": 119,
+      "num_shlokas": 28,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_782.json"
+    },
+    "783": {
+      "chapter_number": 783,
+      "global_number": 783,
+      "local_number": 120,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_783.json"
+    },
+    "784": {
+      "chapter_number": 784,
+      "global_number": 784,
+      "local_number": 121,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_784.json"
+    },
+    "785": {
+      "chapter_number": 785,
+      "global_number": 785,
+      "local_number": 122,
+      "num_shlokas": 61,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_785.json"
+    },
+    "786": {
+      "chapter_number": 786,
+      "global_number": 786,
+      "local_number": 123,
+      "num_shlokas": 27,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_786.json"
+    },
+    "787": {
+      "chapter_number": 787,
+      "global_number": 787,
+      "local_number": 124,
+      "num_shlokas": 18,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_787.json"
+    },
+    "788": {
+      "chapter_number": 788,
+      "global_number": 788,
+      "local_number": 125,
+      "num_shlokas": 26,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_788.json"
+    },
+    "789": {
+      "chapter_number": 789,
+      "global_number": 789,
+      "local_number": 126,
+      "num_shlokas": 49,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_789.json"
+    },
+    "790": {
+      "chapter_number": 790,
+      "global_number": 790,
+      "local_number": 127,
+      "num_shlokas": 53,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_790.json"
+    },
+    "791": {
+      "chapter_number": 791,
+      "global_number": 791,
+      "local_number": 128,
+      "num_shlokas": 52,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_791.json"
+    },
+    "792": {
+      "chapter_number": 792,
+      "global_number": 792,
+      "local_number": 129,
+      "num_shlokas": 34,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_792.json"
+    },
+    "793": {
+      "chapter_number": 793,
+      "global_number": 793,
+      "local_number": 130,
+      "num_shlokas": 31,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_793.json"
+    },
+    "794": {
+      "chapter_number": 794,
+      "global_number": 794,
+      "local_number": 131,
+      "num_shlokas": 42,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_794.json"
+    },
+    "795": {
+      "chapter_number": 795,
+      "global_number": 795,
+      "local_number": 132,
+      "num_shlokas": 40,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_795.json"
+    },
+    "796": {
+      "chapter_number": 796,
+      "global_number": 796,
+      "local_number": 133,
+      "num_shlokas": 37,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_796.json"
+    },
+    "797": {
+      "chapter_number": 797,
+      "global_number": 797,
+      "local_number": 134,
+      "num_shlokas": 21,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_797.json"
+    },
+    "798": {
+      "chapter_number": 798,
+      "global_number": 798,
+      "local_number": 135,
+      "num_shlokas": 30,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_798.json"
+    },
+    "799": {
+      "chapter_number": 799,
+      "global_number": 799,
+      "local_number": 136,
+      "num_shlokas": 26,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_799.json"
+    },
+    "800": {
+      "chapter_number": 800,
+      "global_number": 800,
+      "local_number": 137,
+      "num_shlokas": 22,
+      "file": "subparva_54_bhagavat_yana_parva/chapter_800.json"
+    }
+  }
+}

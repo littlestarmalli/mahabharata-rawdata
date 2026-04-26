@@ -1,0 +1,56 @@
+{
+  "chapter": 874,
+  "local": 14,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Sanjaya, Gavalgana's son, was wise. He could see everything, the past, the present and the future. In great distress, he suddenly rushed from the ﬁeld of battle to where Dhritarashtra was immersed in thought and told him that Bhishma, the intermediate one of the Bharata lineage, had been killed{1}.  “O bull among the Bharata lineage! I am Sanjaya and I bow down before you. Shantanu's son, Bhishma, the grandfather of the Bharatas, has been slain. He was foremost among all warriors. He was the resort of all archers. That grandfather of the Kurus is now lying down on a bed of arrows. Depending on his valour, your son embarked on that game of dice. O king! That Bhishma is now lying down, having been killed on the ﬁeld of battle by Shikhandi. On a single chariot, that maharatha had earlier defeated all the lords of the earth in a great battle in Kashi{2}.  Descended from the Vasus, he fought with Rama, Jamadagni's son, in a battle. Jamadagni's son could not kill him. But he has now been slain by Shikhandi. He was like the great Indra in his valour and like the Himalayas in his steadfastness. He was like the ocean in his gravity and like the earth in his patience. Arrows were like his teeth. The bow was his mouth. The sword was his tongue. He was invincible. He was a lion among men. Today, your father{3} has been brought down by the one from Panchala{4}.  On seeing him ready for battle, the large army of the Pandavas trembled in fear, like a herd of cattle on seeing a lion. He protected your army and formations for ten nights. He performed extremely difﬁcult deeds and has now departed, like the setting sun. Like Shakra,{5} he calmly showered thousands of arrows. For ten days, every day, he killed ten thousand warriors in battle. Like a tree struck by the wind, he has been killed and is lying down on the ground. O king! O descendant of the Bharata lineage! He did not deserve this and this is because of your evil counsel.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya, Gavalgana's son, was wise. He could see everything, the past, the present and the future. In great distress, he suddenly rushed from the ﬁeld of battle to where Dhritarashtra was immersed in thought and told him that Bhishma, the intermediate one of the Bharata lineage, had been killed{1}.  ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! I am Sanjaya and I bow down before you. Shantanu's son, Bhishma, the grandfather of the Bharatas, has been slain. He was foremost among all warriors. He was the resort of all archers. That grandfather of the Kurus is now lying down on a bed of arrows. Depending on his valour, your son embarked on that game of dice. O king! That Bhishma is now lying down, having been killed on the ﬁeld of battle by Shikhandi. On a single chariot, that maharatha had earlier defeated all the lords of the earth in a great battle in Kashi{2}.  Descended from the Vasus, he fought with Rama, Jamadagni's son, in a battle. Jamadagni's son could not kill him. But he has now been slain by Shikhandi. He was like the great Indra in his valour and like the Himalayas in his steadfastness. He was like the ocean in his gravity and like the earth in his patience. Arrows were like his teeth. The bow was his mouth. The sword was his tongue. He was invincible. He was a lion among men. Today, your father{3} has been brought down by the one from Panchala{4}.  On seeing him ready for battle, the large army of the Pandavas trembled in fear, like a herd of cattle on seeing a lion. He protected your army and formations for ten nights. He performed extremely difﬁcult deeds and has now departed, like the setting sun. Like Shakra,{5} he calmly showered thousands of arrows. For ten days, every day, he killed ten thousand warriors in battle. Like a tree struck by the wind, he has been killed and is lying down on the ground. O king! O descendant of the Bharata lineage! He did not deserve this and this is because of your evil counsel.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

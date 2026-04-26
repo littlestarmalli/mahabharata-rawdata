@@ -1,0 +1,198 @@
+{
+  "chapter": 157,
+  "local": 157,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When the great-hearted Pandavas lived in disguise, Vyasa, Satyavati's son, once came to see them. On seeing him come, those scorchers of enemies advanced to meet him. They prostrated themselves to welcome him and stood before him with folded hands. Returning their greetings, and worshipped and pleased by Pritha's sons, the sage spoke to them in affectionate words, after they were all seated, “O scorchers of enemies! Do you follow the path of dharma and that laid down in the sacred texts? Do you worship the Brahmanas and those who deserve worship?” The illustrious rishi uttered many words about dharma and artha.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When the great-hearted Pandavas lived in disguise, Vyasa, Satyavati's son, once came to see them. On seeing him come, those scorchers of enemies advanced to meet him. They prostrated themselves to welcome him and stood before him with folded hands. Returning their greetings, and worshipped and pleased by Pritha's sons, the sage spoke to them in affectionate words, after they were all seated, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O scorchers of enemies! Do you follow the path of dharma and that laid down in the sacred texts? Do you worship the Brahmanas and those who deserve worship?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The illustrious rishi uttered many words about dharma and artha.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Speaking about many subjects, he again said, “A great-souled rishi lived in a hermitage. He had a daughter who was slender of waist and wide of hips. Her eyebrows were beautiful and she had all the qualities. Because of her earlier deeds{30}, she was unfortunate. Despite being beautiful and pure, that girl did not get a husband. With sorrow in her heart, she then began to perform austerities so as to obtain a husband. She satisﬁed Shankara with her severe austerities. Gratiﬁed, the illustrious lord spoke to the ascetic lady. “O fortunate one! O beautiful one! Ask for a boon and I shall give it to you.” Desirous of ensuring her own welfare, she repeatedly told the supreme god, “I want a husband with all the qualities.” Then the eloquent Ishana{31} Shankara told her, “O fortunate one! You will have ﬁve husbands.” Thus addressed, she told Shankara, “Give me only one husband.” The god addressed her again in these excellent words, “You have repeatedly asked me for a husband ﬁve times. Therefore, when you are reborn in another body, it shall be as I have just said.” That daughter of divine form was born in Drupada's family, as the unblemished Krishna Parshati and is destined to be your wife. O mighty ones! Go to the city of Panchala. There is no doubt that you will be happy in obtaining her as your wife.” Having told the Pandavas this, the greatly fortunate grandfather{32}, the great ascetic, bid his farewell to Kunti and Pritha's sons and left.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Speaking about many subjects, he again said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“A great-souled rishi lived in a hermitage. He had a daughter who was slender of waist and wide of hips. Her eyebrows were beautiful and she had all the qualities. Because of her earlier deeds{30}, she was unfortunate. Despite being beautiful and pure, that girl did not get a husband. With sorrow in her heart, she then began to perform austerities so as to obtain a husband. She satisﬁed Shankara with her severe austerities. Gratiﬁed, the illustrious lord spoke to the ascetic lady. ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O fortunate one! O beautiful one! Ask for a boon and I shall give it to you.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Desirous of ensuring her own welfare, she repeatedly told the supreme god, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“I want a husband with all the qualities.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the eloquent Ishana{31} Shankara told her, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O fortunate one! You will have ﬁve husbands.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed, she told Shankara, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“Give me only one husband.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The god addressed her again in these excellent words, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“You have repeatedly asked me for a husband ﬁve times. Therefore, when you are reborn in another body, it shall be as I have just said.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " That daughter of divine form was born in Drupada's family, as the unblemished Krishna Parshati and is destined to be your wife. O mighty ones! Go to the city of Panchala. There is no doubt that you will be happy in obtaining her as your wife.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having told the Pandavas this, the greatly fortunate grandfather{32}, the great ascetic, bid his farewell to Kunti and Pritha's sons and left.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

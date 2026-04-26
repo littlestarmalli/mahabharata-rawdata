@@ -1,0 +1,183 @@
+{
+  "chapter": 852,
+  "local": 189,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Duryodhana asked, “O Gangeya! How did the one who had been a maiden earlier become Shikhandi? O grandfather! O foremost among men in a battle! Tell me that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Gangeya! How did the one who had been a maiden earlier become Shikhandi? O grandfather! O foremost among men in a battle! Tell me that.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “O Indra among kings! O lord of the earth! The beloved wife and queen of King Drupada did not have any sons. O great king! At that time, King Drupada satisﬁed Shankara for the sake of an offspring. Having determined to bring about our death, he resorted to terrible austerities{77}. He said, ‘O illustrious one! I wish to have a son to exact vengeance on Bhishma.’ But he obtained a daughter from Mahadeva, not a son. The god of gods replied, ‘You will have a female child, who will be male. O lord of the earth! Return. It will not be otherwise.’ He returned to the city and told his wife, ‘O queen! I have made endeavours for a son and have performed great austerities. But Shambhu has said that we will have a daughter who will later become a man. When I repeatedly pleaded with him, Shambhu replied, “That is destiny and it cannot be otherwise. It is fated that way.”’ When her season arrived, King Drupada's spirited wife puriﬁed herself and united with Drupada. As had been decreed by destiny, she conceived at the right time, through Parshata{78}. O lord of the earth! This is what Narada told me. O descendant of the Kuru lineage! O descendant of the Kuru lineage! When the lotus-eyed queen conceived, out of hope for a son, the mighty-armed King Drupada happily tended to his beloved wife. King Drupada was childless. O lord of men! At the right time, Drupada's illustrious queen gave birth to a daughter who was supreme in her beauty. O Indra among kings! The king was without a son and had it proclaimed, ‘A son has been born to me.’ O lord of men! King Drupada concealed the facts and had all the rites performed for a son, as if he had a son. Drupada's queen protected the secret and made every effort to say that a son had been born. Other than Parshata, no one else in the city knew. Out of respect for the words of the god with extraordinary energy{79}, he concealed that it was a daughter and said that it was a son. The king performed all the rites connected with birth and everything else that was decreed, as if it was a male child. He was known as Shikhandi. I alone knew, through a spy, through Narada's words, through the words of the god{80} and through Amba's austerities.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among kings! O lord of the earth! The beloved wife and queen of King Drupada did not have any sons. O great king! At that time, King Drupada satisﬁed Shankara for the sake of an offspring. Having determined to bring about our death, he resorted to terrible austerities{77}. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! I wish to have a son to exact vengeance on Bhishma.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " But he obtained a daughter from Mahadeva, not a son. The god of gods replied, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You will have a female child, who will be male. O lord of the earth! Return. It will not be otherwise.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He returned to the city and told his wife, ",
+          "speaker": "@bhishma",
+          "introduces": "he_returned_to_the_city",
+          "introduces_label": "He returned to the city",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O queen! I have made endeavours for a son and have performed great austerities. But Shambhu has said that we will have a daughter who will later become a man. When I repeatedly pleaded with him, Shambhu replied, ",
+          "speaker": "he_returned_to_the_city",
+          "introduces": "shambhu",
+          "introduces_label": "Shambhu",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“That is destiny and it cannot be otherwise. It is fated that way.”",
+          "speaker": "shambhu",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "he_returned_to_the_city",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When her season arrived, King Drupada's spirited wife puriﬁed herself and united with Drupada. As had been decreed by destiny, she conceived at the right time, through Parshata{78}. O lord of the earth! This is what Narada told me. O descendant of the Kuru lineage! O descendant of the Kuru lineage! When the lotus-eyed queen conceived, out of hope for a son, the mighty-armed King Drupada happily tended to his beloved wife. King Drupada was childless. O lord of men! At the right time, Drupada's illustrious queen gave birth to a daughter who was supreme in her beauty. O Indra among kings! The king was without a son and had it proclaimed, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘A son has been born to me.’",
+          "speaker": "he_returned_to_the_city",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O lord of men! King Drupada concealed the facts and had all the rites performed for a son, as if he had a son. Drupada's queen protected the secret and made every effort to say that a son had been born. Other than Parshata, no one else in the city knew. Out of respect for the words of the god with extraordinary energy{79}, he concealed that it was a daughter and said that it was a son. The king performed all the rites connected with birth and everything else that was decreed, as if it was a male child. He was known as Shikhandi. I alone knew, through a spy, through Narada's words, through the words of the god{80} and through Amba's austerities.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

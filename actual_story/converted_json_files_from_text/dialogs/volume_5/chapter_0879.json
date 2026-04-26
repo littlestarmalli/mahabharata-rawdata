@@ -1,0 +1,163 @@
+{
+  "chapter": 879,
+  "local": 19,
+  "shlokas": 44,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “On seeing the eleven akshouhinis arranged in battle formation, how did Pandava Yudhishthira, possessing fewer soldiers, arrange his counter-formations? Bhishma knew about all vyuhas—those of men, gods, gandharvas and asuras. How did Kounteya Pandava counter them?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On seeing the eleven akshouhinis arranged in battle formation, how did Pandava Yudhishthira, possessing fewer soldiers, arrange his counter-formations? Bhishma knew about all vyuhas—those of men, gods, gandharvas and asuras. How did Kounteya Pandava counter them?”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “On seeing the soldiers of Dhritarashtra's sons arranged in battle formation, Dharmaraja Pandava, with dharma in his soul, spoke to Dhananjaya. ‘O son{46}!  We know from the words of maharshi Brihaspati that a small number of soldiers must be arranged in condensed form, while a larger number can be extended at will. When a small number has to ﬁght with a larger one, the arrangement should be suchimukha{47}.  Compared to those of the enemy, our soldiers are few. O Pandava! Following the words and instructions of the maharshi, arrange the vyuha.’ On hearing the words of Dharmaraja, Phalguna replied, ‘O king! I will arrange a vyuha that is extremely invincible. This immovable vyuha is known by the name of Vajra and has been designed by the wielder of the vajra. Bhima is supreme among wielders of weapons. He is like a turbulent storm. No enemy can withstand him in battle. He will ﬁght at the forefront. That supreme of men will pacify the energy of the enemy's soldiers. He is skilled in all the techniques used in war. He will lead us and ﬁght from the front. On seeing him, all the kings, with Duryodhana at the forefront, will be confused and will retreat, like small animals at the sight of a lion. With him as a wall, all of us will resort to him, like all the immortals resort to the wielder of the vajra, and our fear will be dispelled. Bhima is foremost among the wielders of weapons. Vrikodara is a bull among men and is the performer of terrible deeds. Especially when he is enraged, there is no man in the world who can glance at him. Bhimasena wields a ﬁrm club, with substance like the vajra. When he roams around with great force, he can dry up the ocean. O lord of men! Kekaya, Dhrishtaketu and the valiant Chekitana—these advisers also look towards him. So do Dhritarashtra's sons.’ This is what Bibhatsu said. O venerable one! When Partha spoke in this way, all the soldiers applauded the eloquent one in that ﬁeld of battle. Having spoken in this way, the mighty-armed Dhananjaya did what he had said. Phalguna arranged the forces in the form of the vyuha and advanced.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On seeing the soldiers of Dhritarashtra's sons arranged in battle formation, Dharmaraja Pandava, with dharma in his soul, spoke to Dhananjaya. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son{46}!  We know from the words of maharshi Brihaspati that a small number of soldiers must be arranged in condensed form, while a larger number can be extended at will. When a small number has to ﬁght with a larger one, the arrangement should be suchimukha{47}.  Compared to those of the enemy, our soldiers are few. O Pandava! Following the words and instructions of the maharshi, arrange the vyuha.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing the words of Dharmaraja, Phalguna replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@arjuna",
+          "introduces_label": "Phalguna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I will arrange a vyuha that is extremely invincible. This immovable vyuha is known by the name of Vajra and has been designed by the wielder of the vajra. Bhima is supreme among wielders of weapons. He is like a turbulent storm. No enemy can withstand him in battle. He will ﬁght at the forefront. That supreme of men will pacify the energy of the enemy's soldiers. He is skilled in all the techniques used in war. He will lead us and ﬁght from the front. On seeing him, all the kings, with Duryodhana at the forefront, will be confused and will retreat, like small animals at the sight of a lion. With him as a wall, all of us will resort to him, like all the immortals resort to the wielder of the vajra, and our fear will be dispelled. Bhima is foremost among the wielders of weapons. Vrikodara is a bull among men and is the performer of terrible deeds. Especially when he is enraged, there is no man in the world who can glance at him. Bhimasena wields a ﬁrm club, with substance like the vajra. When he roams around with great force, he can dry up the ocean. O lord of men! Kekaya, Dhrishtaketu and the valiant Chekitana—these advisers also look towards him. So do Dhritarashtra's sons.’",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " This is what Bibhatsu said. O venerable one! When Partha spoke in this way, all the soldiers applauded the eloquent one in that ﬁeld of battle. Having spoken in this way, the mighty-armed Dhananjaya did what he had said. Phalguna arranged the forces in the form of the vyuha and advanced.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“On seeing the advancing army of the Kurus, the mighty army of the Pandavas seemed to be like the overﬂowing, surging and moving Ganga. Bhimasena, Parshata Dhrishtadyumna, Nakula, Sahadeva and valiant Dhrishtaketu were in the vanguard. Surrounded by one akshouhini, the king{48} was at the rear, protecting them from the back with his brothers and sons. Madri's immensely radiant sons protected Bhima's wheels. The swift sons of Droupadi and Subhadra protected the rear. They were protected from the rear by maharatha Dhrishtadyumna of Panchala, together with the brave Prabhadrakas, foremost among rathas. Shikhandi was behind them, protected by Arjuna. O bull among the Bharata lineage! He{49} advanced, determined to bring about Bhishma's destruction. Maharatha Yuyudhana{50} guarded Arjuna's rear and the two from Panchala, Yudhamanyu and Uttamouja, guarded his wheels. Kunti's son, King Yudhishthira, was in the centre of the army, surrounded by large and crazy elephants that were like moving mountains. For the sake of the Pandavas, the valorous Panchala Yajnasena{51} placed himself behind Virata, with one akshouhini. O king! The chariots and great standards bore many signs. They were adorned with the best of gold and looked like the sun and the moon. Asking them to advance, maharatha Dhrishtadyumna, together with his brothers and sons, protected Yudhishthira from the rear. Surpassing all the chariots and many standards on your side and those of the enemy, a giant ape was stationed on Arjuna's standard. Many hundreds and thousands of infantry advanced in front, protecting Bhimasena. They had swords, lances and scimitars in their hands. There were ten thousand elephants, with musth trickling from their temples and mouths. They were brave and were adorned with glittering nets of gold. They were like moving mountains. They ﬂowed like clouds{52}.  They were like mad mountains. They possessed the fragrance of lotuses. They followed the king at the rear, like moving mountains. Bhimasena whirled his terrible club, which was like a parigha{53}.  The invincible and greatminded one was capable of crushing a large army. He was incapable of being looked at, like the sun, and was scorching, like the one with the rays. From a close distance, none of the warriors was capable of looking at him. The vyuha named Vajra was difﬁcult to penetrate and faced every direction{54}.  The bows were like streaks of lightning{55} and this terrible formation was protected by the wielder of the Gandiva. Arranging the army in this counter formation, the Pandavas waited. Protected by the Pandavas, it was invincible in the world of men.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“On seeing the advancing army of the Kurus, the mighty army of the Pandavas seemed to be like the overﬂowing, surging and moving Ganga. Bhimasena, Parshata Dhrishtadyumna, Nakula, Sahadeva and valiant Dhrishtaketu were in the vanguard. Surrounded by one akshouhini, the king{48} was at the rear, protecting them from the back with his brothers and sons. Madri's immensely radiant sons protected Bhima's wheels. The swift sons of Droupadi and Subhadra protected the rear. They were protected from the rear by maharatha Dhrishtadyumna of Panchala, together with the brave Prabhadrakas, foremost among rathas. Shikhandi was behind them, protected by Arjuna. O bull among the Bharata lineage! He{49} advanced, determined to bring about Bhishma's destruction. Maharatha Yuyudhana{50} guarded Arjuna's rear and the two from Panchala, Yudhamanyu and Uttamouja, guarded his wheels. Kunti's son, King Yudhishthira, was in the centre of the army, surrounded by large and crazy elephants that were like moving mountains. For the sake of the Pandavas, the valorous Panchala Yajnasena{51} placed himself behind Virata, with one akshouhini. O king! The chariots and great standards bore many signs. They were adorned with the best of gold and looked like the sun and the moon. Asking them to advance, maharatha Dhrishtadyumna, together with his brothers and sons, protected Yudhishthira from the rear. Surpassing all the chariots and many standards on your side and those of the enemy, a giant ape was stationed on Arjuna's standard. Many hundreds and thousands of infantry advanced in front, protecting Bhimasena. They had swords, lances and scimitars in their hands. There were ten thousand elephants, with musth trickling from their temples and mouths. They were brave and were adorned with glittering nets of gold. They were like moving mountains. They ﬂowed like clouds{52}.  They were like mad mountains. They possessed the fragrance of lotuses. They followed the king at the rear, like moving mountains. Bhimasena whirled his terrible club, which was like a parigha{53}.  The invincible and greatminded one was capable of crushing a large army. He was incapable of being looked at, like the sun, and was scorching, like the one with the rays. From a close distance, none of the warriors was capable of looking at him. The vyuha named Vajra was difﬁcult to penetrate and faced every direction{54}.  The bows were like streaks of lightning{55} and this terrible formation was protected by the wielder of the Gandiva. Arranging the army in this counter formation, the Pandavas waited. Protected by the Pandavas, it was invincible in the world of men.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“At dawn, both sets of soldiers waited for the sun to rise. A wind, with drops of water, began to blow. Though there were no clouds, thunder could be heard. Dry winds began to blow from all directions and carried sharp stones from the ground below. Dust arose and covered the earth in darkness. O bull among the Bharata lineage! Large meteors fell down in an eastern direction. They struck the rising sun and were shattered, with a loud noise. O bull among the Bharata lineage! When the armies were arranged in this way, the sun lost its luminescence and the earth roared and trembled. O supreme among the Bharata lineage! The roar of thunder was repeatedly heard from all the directions. O king! A thick dust arose and nothing could be seen. The giant standards, adorned with nets of bells, golden ornaments and ﬂags, and like the sun in their resplendence, were suddenly struck by the wind. All of them made a jingling sound, like a forest of palm trees. Thus those Pandavas, tigers among men, were stationed, delighted at the prospect of battle. They were in a counter-formation against the army of your sons. O bull among the Bharata lineage! They seemed to suck the marrow out from the warriors{56}.  Bhimasena could be seen at the forefront, with a club in his hand.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“At dawn, both sets of soldiers waited for the sun to rise. A wind, with drops of water, began to blow. Though there were no clouds, thunder could be heard. Dry winds began to blow from all directions and carried sharp stones from the ground below. Dust arose and covered the earth in darkness. O bull among the Bharata lineage! Large meteors fell down in an eastern direction. They struck the rising sun and were shattered, with a loud noise. O bull among the Bharata lineage! When the armies were arranged in this way, the sun lost its luminescence and the earth roared and trembled. O supreme among the Bharata lineage! The roar of thunder was repeatedly heard from all the directions. O king! A thick dust arose and nothing could be seen. The giant standards, adorned with nets of bells, golden ornaments and ﬂags, and like the sun in their resplendence, were suddenly struck by the wind. All of them made a jingling sound, like a forest of palm trees. Thus those Pandavas, tigers among men, were stationed, delighted at the prospect of battle. They were in a counter-formation against the army of your sons. O bull among the Bharata lineage! They seemed to suck the marrow out from the warriors{56}.  Bhimasena could be seen at the forefront, with a club in his hand.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

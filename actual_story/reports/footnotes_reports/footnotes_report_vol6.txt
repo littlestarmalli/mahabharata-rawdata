@@ -1,0 +1,49 @@
+Volume 6 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   21
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              1
+
+
+──────────────────────────────────────────────────────────────────────
+Section [67] Abhimanyu-vadha Parva  (chapters 1009–1028)
+  Refs: 154   Defs: 157
+
+  CASE B — 3 orphan(s):
+    fn 1
+    fn 2
+    fn 3
+
+──────────────────────────────────────────────────────────────────────
+Section [70] Ghatotkacha-vadha Parva  (chapters 1099–1131)
+  Refs: 271   Defs: 272
+
+  CASE B — 1 orphan(s):
+    fn 251
+
+  CASE D — ref sequence gaps: [251]
+
+──────────────────────────────────────────────────────────────────────
+Section [71] Drona-vadha Parva  (chapters 1132–1141)
+  Refs: 101   Defs: 118
+
+  CASE B — 17 orphan(s):
+    fn 102
+    fn 103
+    fn 104
+    fn 105
+    fn 106
+    fn 107
+    fn 108
+    fn 109
+    fn 110
+    fn 111
+    fn 112
+    fn 113
+    fn 114
+    fn 115
+    fn 116
+    fn 117
+    fn 118

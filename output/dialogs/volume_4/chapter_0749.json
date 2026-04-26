@@ -1,0 +1,238 @@
+{
+  "chapter": 749,
+  "local": 86,
+  "shlokas": 23,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Duryodhana said, “Everything that Vidura has said about Krishna is true. Janardana is ﬁrmly devoted to the Parthas and it is impossible to separate them. O Indra among kings! Therefore, the many different kinds of riches you proposed to bestow on Janardana as hospitality should never be given to him. Though Keshava deserves all that, this is not the time and the place. O king! Adhokshaja{45} will think that you are honouring him because of fear. O lord of the earth! It is my certain conviction that anything that causes disrespect should never be undertaken by a wise kshatriya. The divine and lotus-eyed Krishna deserves to be worshipped by the three worlds. I know everything about that. O lord! But one should not act so as to give him anything. That is the right course, now that war has been decided on. War cannot become peace through pretence.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Everything that Vidura has said about Krishna is true. Janardana is ﬁrmly devoted to the Parthas and it is impossible to separate them. O Indra among kings! Therefore, the many different kinds of riches you proposed to bestow on Janardana as hospitality should never be given to him. Though Keshava deserves all that, this is not the time and the place. O king! Adhokshaja{45} will think that you are honouring him because of fear. O lord of the earth! It is my certain conviction that anything that causes disrespect should never be undertaken by a wise kshatriya. The divine and lotus-eyed Krishna deserves to be worshipped by the three worlds. I know everything about that. O lord! But one should not act so as to give him anything. That is the right course, now that war has been decided on. War cannot become peace through pretence.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On hearing these words, Bhishma, the grandfather of the Kurus, addressed these words to the king who was Vichitravirya's son. “Whether he is treated well or maltreated, Janardana will not be angered. Though he is insulted, Keshava is incapable of insulting others. O mighty-armed one! Whatever he has mentally decided as the right course of action cannot be thwarted by anyone through any means. Without any hesitation, we should do what the mighty-armed one asks us to do. Using Vasudeva as our salvation, we must swiftly make peace with the Pandavas. Janardana has dharma in his soul. He is certain to say that which is in conformity with dharma and artha. You should address him in affectionate words, together with your relatives.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On hearing these words, Bhishma, the grandfather of the Kurus, addressed these words to the king who was Vichitravirya's son. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Whether he is treated well or maltreated, Janardana will not be angered. Though he is insulted, Keshava is incapable of insulting others. O mighty-armed one! Whatever he has mentally decided as the right course of action cannot be thwarted by anyone through any means. Without any hesitation, we should do what the mighty-armed one asks us to do. Using Vasudeva as our salvation, we must swiftly make peace with the Pandavas. Janardana has dharma in his soul. He is certain to say that which is in conformity with dharma and artha. You should address him in affectionate words, together with your relatives.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Duryodhana said, “O king! This prosperity is mine alone and there is no circumstance under which I will share it. O grandfather! I cannot bear to share it, and then continue to live. Listen to the great task that I have decided upon. I will capture Janardana, the refuge of the Pandavas. When he is captured, the Vrishnis, the entire earth and the Pandavas will submit. He will be here tomorrow morning. This must be accomplished so that Janardana does not get to know. Tell me how this can be done, so that we do not confront any danger.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Duryodhana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! This prosperity is mine alone and there is no circumstance under which I will share it. O grandfather! I cannot bear to share it, and then continue to live. Listen to the great task that I have decided upon. I will capture Janardana, the refuge of the Pandavas. When he is captured, the Vrishnis, the entire earth and the Pandavas will submit. He will be here tomorrow morning. This must be accomplished so that Janardana does not get to know. Tell me how this can be done, so that we do not confront any danger.”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘When Dhritarashtra and his advisers heard these terrible words about causing violence to Krishna, they were distressed and distracted. Dhritarashtra addressed these words to Duryodhana. “If you are the protector of your subjects, do not speak in this way. This is not eternal dharma. Hrishikesha is a messenger and our beloved relative. He intends no evil towards the Kouravas. How can it be right that he should be captured?”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘When Dhritarashtra and his advisers heard these terrible words about causing violence to Krishna, they were distressed and distracted. Dhritarashtra addressed these words to Duryodhana. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If you are the protector of your subjects, do not speak in this way. This is not eternal dharma. Hrishikesha is a messenger and our beloved relative. He intends no evil towards the Kouravas. How can it be right that he should be captured?”",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “O Dhritarashtra! This extremely evil son of yours is the ultimate. Though he is urged by his well-wishers, he chooses disaster over that which will ensure welfare. Because of his wicked followers, this wicked one has deviated from the path. But you continue to follow him, without paying heed to the words of your well-wishers. If this extremely evil son of yours and his advisers touch Krishna, whose deeds are unsullied, they will be destroyed in an instant. I cannot bear to listen any more to the fruitless words of this wicked, cruel and evilminded one who has discarded dharma.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Dhritarashtra! This extremely evil son of yours is the ultimate. Though he is urged by his well-wishers, he chooses disaster over that which will ensure welfare. Because of his wicked followers, this wicked one has deviated from the path. But you continue to follow him, without paying heed to the words of your well-wishers. If this extremely evil son of yours and his advisers touch Krishna, whose deeds are unsullied, they will be destroyed in an instant. I cannot bear to listen any more to the fruitless words of this wicked, cruel and evilminded one who has discarded dharma.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having said this, the aged one, foremost among the Bharatas, was extremely enraged. Bhishma, whose truth was his valour, arose and left the place.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having said this, the aged one, foremost among the Bharatas, was extremely enraged. Bhishma, whose truth was his valour, arose and left the place.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

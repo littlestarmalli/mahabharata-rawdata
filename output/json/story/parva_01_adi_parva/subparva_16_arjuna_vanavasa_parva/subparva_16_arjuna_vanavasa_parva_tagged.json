@@ -1,0 +1,100 @@
+{
+  "name": "Arjuna-vanavasa Parva",
+  "subparva_number": 16,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 298
+  },
+  "note": "",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "200": {
+      "chapter_number": 200,
+      "global_number": 200,
+      "local_number": 200,
+      "num_shlokas": 23,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_200_tagged.json"
+    },
+    "201": {
+      "chapter_number": 201,
+      "global_number": 201,
+      "local_number": 201,
+      "num_shlokas": 32,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_201_tagged.json"
+    },
+    "202": {
+      "chapter_number": 202,
+      "global_number": 202,
+      "local_number": 202,
+      "num_shlokas": 27,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_202_tagged.json"
+    },
+    "203": {
+      "chapter_number": 203,
+      "global_number": 203,
+      "local_number": 203,
+      "num_shlokas": 30,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_203_tagged.json"
+    },
+    "204": {
+      "chapter_number": 204,
+      "global_number": 204,
+      "local_number": 204,
+      "num_shlokas": 30,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_204_tagged.json"
+    },
+    "205": {
+      "chapter_number": 205,
+      "global_number": 205,
+      "local_number": 205,
+      "num_shlokas": 30,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_205_tagged.json"
+    },
+    "206": {
+      "chapter_number": 206,
+      "global_number": 206,
+      "local_number": 206,
+      "num_shlokas": 34,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_206_tagged.json"
+    },
+    "207": {
+      "chapter_number": 207,
+      "global_number": 207,
+      "local_number": 207,
+      "num_shlokas": 26,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_207_tagged.json"
+    },
+    "208": {
+      "chapter_number": 208,
+      "global_number": 208,
+      "local_number": 208,
+      "num_shlokas": 21,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_208_tagged.json"
+    },
+    "209": {
+      "chapter_number": 209,
+      "global_number": 209,
+      "local_number": 209,
+      "num_shlokas": 24,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_209_tagged.json"
+    },
+    "210": {
+      "chapter_number": 210,
+      "global_number": 210,
+      "local_number": 210,
+      "num_shlokas": 21,
+      "file": "subparva_16_arjuna_vanavasa_parva/chapter_210_tagged.json"
+    }
+  }
+}

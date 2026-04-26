@@ -1,0 +1,100 @@
+{
+  "name": "Sanjaya-Yana Parva",
+  "subparva_number": 50,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 311
+  },
+  "note": "The word yana means going or voyage. So this parva is about Sanjaya�s journey as a messenger. Dhritarashtra sends Sanjaya as an emissary to the Pandavas. This mission doesn�t succeed, though Krishna says that he will go as a messenger to the Kouravas. Yudhishthira asks for five vil-lages (through Sanjaya). Sanjaya returns to Hastinapura.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "685": {
+      "chapter_number": 685,
+      "global_number": 685,
+      "local_number": 22,
+      "num_shlokas": 39,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_685_tagged.json"
+    },
+    "686": {
+      "chapter_number": 686,
+      "global_number": 686,
+      "local_number": 23,
+      "num_shlokas": 27,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_686_tagged.json"
+    },
+    "687": {
+      "chapter_number": 687,
+      "global_number": 687,
+      "local_number": 24,
+      "num_shlokas": 10,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_687_tagged.json"
+    },
+    "688": {
+      "chapter_number": 688,
+      "global_number": 688,
+      "local_number": 25,
+      "num_shlokas": 15,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_688_tagged.json"
+    },
+    "689": {
+      "chapter_number": 689,
+      "global_number": 689,
+      "local_number": 26,
+      "num_shlokas": 28,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_689_tagged.json"
+    },
+    "690": {
+      "chapter_number": 690,
+      "global_number": 690,
+      "local_number": 27,
+      "num_shlokas": 27,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_690_tagged.json"
+    },
+    "691": {
+      "chapter_number": 691,
+      "global_number": 691,
+      "local_number": 28,
+      "num_shlokas": 14,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_691_tagged.json"
+    },
+    "692": {
+      "chapter_number": 692,
+      "global_number": 692,
+      "local_number": 29,
+      "num_shlokas": 51,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_692_tagged.json"
+    },
+    "693": {
+      "chapter_number": 693,
+      "global_number": 693,
+      "local_number": 30,
+      "num_shlokas": 47,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_693_tagged.json"
+    },
+    "694": {
+      "chapter_number": 694,
+      "global_number": 694,
+      "local_number": 31,
+      "num_shlokas": 23,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_694_tagged.json"
+    },
+    "695": {
+      "chapter_number": 695,
+      "global_number": 695,
+      "local_number": 32,
+      "num_shlokas": 30,
+      "file": "subparva_50_sanjaya_yana_parva/chapter_695_tagged.json"
+    }
+  }
+}

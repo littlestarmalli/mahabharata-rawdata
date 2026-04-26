@@ -1,0 +1,230 @@
+{
+  "chapter": 1549,
+  "local": 221,
+  "shlokas": 94,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O king! O grandfather! Tell me about a man's earlier form and his subsequent downfall.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O grandfather! Tell me about a man's earlier form and his subsequent downfall.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O fortunate one! The mind indicates a man's earlier form and what will happen and not happen to him in the future. On this, an ancient history is recounted about a conversation between Shri and Shakra. O Yudhishthira! Listen to this. As he wished, Narada roamed around in the three worlds. He was great in his austerities and could see this world and the supreme one. Though he was an ordinary rishi, he was the equal of those who resided in Brahma's world. He was a great ascetic and was tranquil in his soul. His inﬁnitely blazing energy was like that of Brahma himself. On one occasion, he arose in the morning and wished to purify himself with water. He went to where the Ganga emerges through the gate known as Dhruva{208}. The one with the thousand eyes, the wielder of the vajra and the slayer of Shambara and Paka, also happened to come to the spot where the devarshi was. Both of them were in control of their souls. Having performed their ablutions and meditations, they sat down together. They were seated on the banks of the river, with sand as ﬁne as gold. The devarshi recounted stories of auspicious deeds, tales about good conduct. They were attentive and spoke to each other about these ancient accounts. The sun arose and its net of rays was spread before them. On seeing that full solar disc, they arose. They worshipped the supreme sun, whose task it was to dispel the darkness. At that time, on the further side of the sky, they saw a body of light arise and it blazed like the sun. O descendant of the Bharata lineage! They saw that it was approaching them. There was this unmatched radiance that illuminated the three worlds and it was astride Vishnu's vehicle, with both Suparna{209} and the sun situated there. There was a divine form, attended by apsaras. She was like a gigantic sun or ﬁre herself, with large rays radiating out. Her ornaments were like nakshatras and her garlands dazzled with stars. They saw the goddess Padma Shri herself, stationed on a lotus. The supreme lady descended from her celestial vehicle and approached Shakra, the lord of the three worlds, and rishi Narada. Followed by Narada, Maghavan approached. He joined his hands in salutation and offered himself to the goddess. The one who knew about everything{210} also worshipped the supreme one. O king! The lord of the gods spoke these words to Shri. ‘O one with the beautiful smile! Who are you? For what purpose have you come here? O one with the excellent brows! O fortunate one! From where have you come and where are you going?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O fortunate one! The mind indicates a man's earlier form and what will happen and not happen to him in the future. On this, an ancient history is recounted about a conversation between Shri and Shakra. O Yudhishthira! Listen to this. As he wished, Narada roamed around in the three worlds. He was great in his austerities and could see this world and the supreme one. Though he was an ordinary rishi, he was the equal of those who resided in Brahma's world. He was a great ascetic and was tranquil in his soul. His inﬁnitely blazing energy was like that of Brahma himself. On one occasion, he arose in the morning and wished to purify himself with water. He went to where the Ganga emerges through the gate known as Dhruva{208}. The one with the thousand eyes, the wielder of the vajra and the slayer of Shambara and Paka, also happened to come to the spot where the devarshi was. Both of them were in control of their souls. Having performed their ablutions and meditations, they sat down together. They were seated on the banks of the river, with sand as ﬁne as gold. The devarshi recounted stories of auspicious deeds, tales about good conduct. They were attentive and spoke to each other about these ancient accounts. The sun arose and its net of rays was spread before them. On seeing that full solar disc, they arose. They worshipped the supreme sun, whose task it was to dispel the darkness. At that time, on the further side of the sky, they saw a body of light arise and it blazed like the sun. O descendant of the Bharata lineage! They saw that it was approaching them. There was this unmatched radiance that illuminated the three worlds and it was astride Vishnu's vehicle, with both Suparna{209} and the sun situated there. There was a divine form, attended by apsaras. She was like a gigantic sun or ﬁre herself, with large rays radiating out. Her ornaments were like nakshatras and her garlands dazzled with stars. They saw the goddess Padma Shri herself, stationed on a lotus. The supreme lady descended from her celestial vehicle and approached Shakra, the lord of the three worlds, and rishi Narada. Followed by Narada, Maghavan approached. He joined his hands in salutation and offered himself to the goddess. The one who knew about everything{210} also worshipped the supreme one. O king! The lord of the gods spoke these words to Shri. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful smile! Who are you? For what purpose have you come here? O one with the excellent brows! O fortunate one! From where have you come and where are you going?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri said, ‘In the three worlds, all the mobile and immobile objects, those with supreme souls desire to be united with me and make efforts. I have been born from a lotus and awake at the rays of the sun. I bring prosperity to all beings. I am Padma Shri and I wear a garland of lotuses. O slayer of Bala! I am Lakshmi. I am Bhuti{211}. I am Shri. I am Shraddha and Medha{212}. I am Sannati, Vijiti and Sthiti{213}. I am Dhriti{214}. I am Siddhi{215}. I am Tvidbhuti{216}. I am Svaha and Svadha. I am Samstuti, Niyati and Kriti{217}. I station myself on the standards and at the forefront of the soldiers of victorious kings. I dwell in the abodes, material objects and cities of those who are devoted to dharma. O slayer of Bala! I always dwell with Indras among men, those brave ones who desire victory and do not retreat from the ﬁeld of battle. There are those who are always devoted to dharma, extremely intelligent ones who are devoted to brahmanas and speak the truth. I always dwell with those who are modest and generous in their conduct. I earlier used to dwell with the asuras, when they were bound down by the dharma of truth. However, since their intelligence has turned perverse, it no longer pleases me to live with them.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri said, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In the three worlds, all the mobile and immobile objects, those with supreme souls desire to be united with me and make efforts. I have been born from a lotus and awake at the rays of the sun. I bring prosperity to all beings. I am Padma Shri and I wear a garland of lotuses. O slayer of Bala! I am Lakshmi. I am Bhuti{211}. I am Shri. I am Shraddha and Medha{212}. I am Sannati, Vijiti and Sthiti{213}. I am Dhriti{214}. I am Siddhi{215}. I am Tvidbhuti{216}. I am Svaha and Svadha. I am Samstuti, Niyati and Kriti{217}. I station myself on the standards and at the forefront of the soldiers of victorious kings. I dwell in the abodes, material objects and cities of those who are devoted to dharma. O slayer of Bala! I always dwell with Indras among men, those brave ones who desire victory and do not retreat from the ﬁeld of battle. There are those who are always devoted to dharma, extremely intelligent ones who are devoted to brahmanas and speak the truth. I always dwell with those who are modest and generous in their conduct. I earlier used to dwell with the asuras, when they were bound down by the dharma of truth. However, since their intelligence has turned perverse, it no longer pleases me to live with them.’",
+          "speaker": "@lakshmi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra asked, ‘O one with the beautiful face! What was the conduct of the daityas when you dwelt with them? What did you see that you abandoned the daityas and the danavas?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful face! What was the conduct of the daityas when you dwelt with them? What did you see that you abandoned the daityas and the danavas?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shri replied, ‘There are those who based themselves on their own dharma. They are not dislodged from patience. They take delight in the paths that lead to heaven. I am always attached to those spirited ones. There are those who are engaged in donations, studying, sacriﬁces and the serving of seniors, gods, brahmanas and guests. I always dwell with them. They{218} kept their houses clean. Their women were under control and they offered oblations to the ﬁre. They were self-controlled and served their superiors and brahmanas. They were truthful in speech. They were faithful and conquered their anger. They were generous and did not suffer from jealousy. They never wished to be intolerant towards each other. They were patient and were not tormented at the prosperity of others. They donated and accumulated. They were noble and compassionate. They were extremely content and upright. They were ﬁrm in their devotion and had conquered their senses. Their servants and advisers were satisﬁed. They were grateful and pleasant in speech. They did what should be done and did not cause any injury. They were modest and sought to ensure their vows. On auspicious occasions, they always bathed well, smeared themselves well and ornamented themselves. They were devoted to fasting and austerities. They were cheerful and knowledgable about the brahman. They awoke before the sun arose. They did not sleep before it was night. In the night, they always avoided curds and pounded ground meal{219}. They were brahmacharis. At the right time, they looked at clariﬁed butter and other auspicious objects. They worshipped the brahmanas. They always observed dharma and donated, and always received back in turn. They slept when it was midnight and never slept during the day. They always found delight in giving a share of their possessions to the distressed, those who were without protectors, the aged, the weak, the diseased and women. They always comforted those who were miserable, frightened, anxious, terriﬁed, afﬂicted by disease, those who had been robbed and those who suffered from calamities. They followed what was dharma and did not injure each other. They undertook favourable tasks and served preceptors and the aged. As is appropriate, they worshipped the ancestors, the gods and guests. They ate leftovers and were always devoted to truth and austerities. No one ate alone. No one went to another person's wife. They exhibited compassion towards every being, as if towards one's own self. They never found delight in releasing semen into space, animals, forbidden vaginas, or on sacred days. They were always accomplished in donating and were always upright. They were enthusiastic, without arrogance, extremely affectionate and forgiving. O lord! Truthfulness, generosity, austerities, purity, compassion, gentle speech and lack of injury towards friends—they possessed all these. They were not penetrated by excessive sleep, procrastination, lack of affection, jealousy, rashness, discontent, sorrow and desire. In earlier times, the danavas possessed these qualtiies and I dwelt with them, since the time beings were created. But once the era changed, time turned adverse and they lost those qualities. I saw that they had lost dharma and that their selves had been taken over by desire and anger. There were aged advisers who spoke about what was right and the truth. But they repeatedly laughed at these aged ones, who were superior in all the qualities. When they were seated and the aged ones arrived, they did not stand up and greet and worship them, as they used to earlier. Sons displayed their own power in the presence of the fathers. Enemies became servants and shamelessly proclaimed this fact. They desired to obtain great riches through the performance of reprehensible deeds that were not in accordance with dharma. They spoke loudly in the night. The ﬁre began to blaze downwards{220}. Sons prevailed over their fathers and wives over their husbands. Mothers, fathers, the aged, preceptors, guests and seniors were no longer respected because of their seniority. Children were no longer protected. Without giving away as alms and sacriﬁces and without apportioning shares for ancestors, gods, guests and seniors, people started to eat. The cooks no longer faithfully observed requirements of purity in minds, words or deeds. They ate what was not covered. Grain was scattered around and became food for crows and rats. Milk was left uncovered. They arose with unwashed hands and touched clariﬁed butter{221}. Spades, plants, garments and brass vessels were scattered around and so were all the other objects and implements, with the housewives taking no notice of these. Walls and storehouses were destroyed and no care was taken to repair these. The tethered animals were not given grass and water. While the children and all the servants looked on, the danavas ate, and it was food that should not be eaten. They cooked payasa{222}, krisara{223}, meat and shashkuli{224} for themselves{225}. They cooked what should not be cooked and ate pointless ﬂesh. All of them slept after the sun arose and before it was night. There were quarrels in every house, day and night. Though noble ones were seated there, the ignoble ones were worshipped. They deviated from the tasks of the ashramas and hated each other. There was a mixture{226} and no sorrow on account of this. No difference could be seen between brahmanas who knew about the Vedas and those who were unclear about the chants, those who deserved a great deal of respect and those who deserved no respect. No difference could be seen in behaviour, ornaments, attire, movement or status. There was enjoyment without service and the rites and conduct of bad people were followed. Women wore the attire of men. Men wore the attire of women. They obtained supreme delight in sporting, pleasure and roaming around. Earlier, the prosperous ones had only given to heirs who were deserving. But that was no longer the case. Those who were non-believers became powerful. In a time of difﬁculty, a friend sought the support of a friend. However, even if there was the slightest bit of selﬁsh gain a friend could obtain, he acted against his friend. People were interested in obtaining the riches of others. Even the noble varnas were seen to take up the livelihood of traders. Shudras became rich in austerities. There were others who followed futile rules of studying, without observing any vows. Students no longer served their preceptors. Some preceptors became friends to their students. Fathers and mothers became exhausted from trying to earn a livelihood. The aged no longer had protectors and had to beg food from their sons. There were wise ones there, knowledgable about the Vedas and as deep as the ocean. However, they resorted to agriculture and similar pursuits and ignorant ones started to eat at funeral ceremonies{227}. Every morning, students no longer went to preceptors and asked them excellent questions about the tasks that should be performed. Instead, the roles were reversed. In the presence of the father-in-law and the mother-in-law, daughters-in-law summoned, chastised and instructed their husbands, or having summoned them, conversed with them. Fathers had to take great care to ensure that their sons were kindly disposed. Having divided up the property, they dwelt there in great misery. On seeing that the riches of others were burnt by the ﬁre, stolen by thieves and seized by kings, they laughed from a sense of enmity, even if those others happened to be well-wishers. All of them were ungrateful, non-believers, wicked and intolerant and had intercourse with the wives of their preceptors. They ate what should not be eaten. They were without restraints and violated pledges. They became distressed because of their conduct and walked the path of catastrophe. O Indra of the gods! It is my view that I will not dwell with the danavas. O lord of Shachi! I have myself come before you. Welcome me. O lord of the gods! If you worship me from the forefront, so will the other gods. Seven other goddesses exist wherever I am. They are devoted to me. They follow my instructions and have given themselves to me. There is an eighth, and these eight desire to dwell with me here—Asha, Shraddha, Dhriti, Kanti, Vijiti, Sannati and Kshama{228}. O chastiser of Paka! The eighth, Vritti{229}, is at their forefront. They and I have abandoned the asuras and come to your dominion. We will reside with the thirty gods, who possess steadfast dharma in their souls.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shri replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There are those who based themselves on their own dharma. They are not dislodged from patience. They take delight in the paths that lead to heaven. I am always attached to those spirited ones. There are those who are engaged in donations, studying, sacriﬁces and the serving of seniors, gods, brahmanas and guests. I always dwell with them. They{218} kept their houses clean. Their women were under control and they offered oblations to the ﬁre. They were self-controlled and served their superiors and brahmanas. They were truthful in speech. They were faithful and conquered their anger. They were generous and did not suffer from jealousy. They never wished to be intolerant towards each other. They were patient and were not tormented at the prosperity of others. They donated and accumulated. They were noble and compassionate. They were extremely content and upright. They were ﬁrm in their devotion and had conquered their senses. Their servants and advisers were satisﬁed. They were grateful and pleasant in speech. They did what should be done and did not cause any injury. They were modest and sought to ensure their vows. On auspicious occasions, they always bathed well, smeared themselves well and ornamented themselves. They were devoted to fasting and austerities. They were cheerful and knowledgable about the brahman. They awoke before the sun arose. They did not sleep before it was night. In the night, they always avoided curds and pounded ground meal{219}. They were brahmacharis. At the right time, they looked at clariﬁed butter and other auspicious objects. They worshipped the brahmanas. They always observed dharma and donated, and always received back in turn. They slept when it was midnight and never slept during the day. They always found delight in giving a share of their possessions to the distressed, those who were without protectors, the aged, the weak, the diseased and women. They always comforted those who were miserable, frightened, anxious, terriﬁed, afﬂicted by disease, those who had been robbed and those who suffered from calamities. They followed what was dharma and did not injure each other. They undertook favourable tasks and served preceptors and the aged. As is appropriate, they worshipped the ancestors, the gods and guests. They ate leftovers and were always devoted to truth and austerities. No one ate alone. No one went to another person's wife. They exhibited compassion towards every being, as if towards one's own self. They never found delight in releasing semen into space, animals, forbidden vaginas, or on sacred days. They were always accomplished in donating and were always upright. They were enthusiastic, without arrogance, extremely affectionate and forgiving. O lord! Truthfulness, generosity, austerities, purity, compassion, gentle speech and lack of injury towards friends—they possessed all these. They were not penetrated by excessive sleep, procrastination, lack of affection, jealousy, rashness, discontent, sorrow and desire. In earlier times, the danavas possessed these qualtiies and I dwelt with them, since the time beings were created. But once the era changed, time turned adverse and they lost those qualities. I saw that they had lost dharma and that their selves had been taken over by desire and anger. There were aged advisers who spoke about what was right and the truth. But they repeatedly laughed at these aged ones, who were superior in all the qualities. When they were seated and the aged ones arrived, they did not stand up and greet and worship them, as they used to earlier. Sons displayed their own power in the presence of the fathers. Enemies became servants and shamelessly proclaimed this fact. They desired to obtain great riches through the performance of reprehensible deeds that were not in accordance with dharma. They spoke loudly in the night. The ﬁre began to blaze downwards{220}. Sons prevailed over their fathers and wives over their husbands. Mothers, fathers, the aged, preceptors, guests and seniors were no longer respected because of their seniority. Children were no longer protected. Without giving away as alms and sacriﬁces and without apportioning shares for ancestors, gods, guests and seniors, people started to eat. The cooks no longer faithfully observed requirements of purity in minds, words or deeds. They ate what was not covered. Grain was scattered around and became food for crows and rats. Milk was left uncovered. They arose with unwashed hands and touched clariﬁed butter{221}. Spades, plants, garments and brass vessels were scattered around and so were all the other objects and implements, with the housewives taking no notice of these. Walls and storehouses were destroyed and no care was taken to repair these. The tethered animals were not given grass and water. While the children and all the servants looked on, the danavas ate, and it was food that should not be eaten. They cooked payasa{222}, krisara{223}, meat and shashkuli{224} for themselves{225}. They cooked what should not be cooked and ate pointless ﬂesh. All of them slept after the sun arose and before it was night. There were quarrels in every house, day and night. Though noble ones were seated there, the ignoble ones were worshipped. They deviated from the tasks of the ashramas and hated each other. There was a mixture{226} and no sorrow on account of this. No difference could be seen between brahmanas who knew about the Vedas and those who were unclear about the chants, those who deserved a great deal of respect and those who deserved no respect. No difference could be seen in behaviour, ornaments, attire, movement or status. There was enjoyment without service and the rites and conduct of bad people were followed. Women wore the attire of men. Men wore the attire of women. They obtained supreme delight in sporting, pleasure and roaming around. Earlier, the prosperous ones had only given to heirs who were deserving. But that was no longer the case. Those who were non-believers became powerful. In a time of difﬁculty, a friend sought the support of a friend. However, even if there was the slightest bit of selﬁsh gain a friend could obtain, he acted against his friend. People were interested in obtaining the riches of others. Even the noble varnas were seen to take up the livelihood of traders. Shudras became rich in austerities. There were others who followed futile rules of studying, without observing any vows. Students no longer served their preceptors. Some preceptors became friends to their students. Fathers and mothers became exhausted from trying to earn a livelihood. The aged no longer had protectors and had to beg food from their sons. There were wise ones there, knowledgable about the Vedas and as deep as the ocean. However, they resorted to agriculture and similar pursuits and ignorant ones started to eat at funeral ceremonies{227}. Every morning, students no longer went to preceptors and asked them excellent questions about the tasks that should be performed. Instead, the roles were reversed. In the presence of the father-in-law and the mother-in-law, daughters-in-law summoned, chastised and instructed their husbands, or having summoned them, conversed with them. Fathers had to take great care to ensure that their sons were kindly disposed. Having divided up the property, they dwelt there in great misery. On seeing that the riches of others were burnt by the ﬁre, stolen by thieves and seized by kings, they laughed from a sense of enmity, even if those others happened to be well-wishers. All of them were ungrateful, non-believers, wicked and intolerant and had intercourse with the wives of their preceptors. They ate what should not be eaten. They were without restraints and violated pledges. They became distressed because of their conduct and walked the path of catastrophe. O Indra of the gods! It is my view that I will not dwell with the danavas. O lord of Shachi! I have myself come before you. Welcome me. O lord of the gods! If you worship me from the forefront, so will the other gods. Seven other goddesses exist wherever I am. They are devoted to me. They follow my instructions and have given themselves to me. There is an eighth, and these eight desire to dwell with me here—Asha, Shraddha, Dhriti, Kanti, Vijiti, Sannati and Kshama{228}. O chastiser of Paka! The eighth, Vritti{229}, is at their forefront. They and I have abandoned the asuras and come to your dominion. We will reside with the thirty gods, who possess steadfast dharma in their souls.’",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “Having been addressed by the goddess in these words, Narada, the rishi of the three worlds, and Vasava, the slayer of Vritra, delighted her by welcoming her. The wind, the friend of the ﬁre, began to blow in the abodes of the gods. It bore auspicious fragrances and was pleasant to the touch, bringing happiness to all the senses. The thirty gods stationed themselves in that auspicious spot, desiring to worship her. They wished to see Maghavan seated with Lakshmi. The one with the thousand eyes obtained divinity. He was with Shri and with his well-wisher, the celestial rishi{230}. The bull among the gods arrived there, on a chariot that was yoked to tawny horses and was immediately honoured by all the gods. The powerful Narada noticed the sign that the wielder of the vajra made, one that was mentally approved of by the goddess Shri. The immensely wise one praised the arrival of Shri there as an auspicious event. The ﬁrmament was radiant and showered down amrita on the abode of Svayambhu, the grandfather. Drums sounded, though they had not been struck. All the directions were pleasant. As was appropriate, Vasava showered down rain on the crops. No one deviated from the path of dharma. The earth was ornamented with many stores of jewels. Victorious sounds, voiced and unvoiced, resounded on earth and in heaven. Illustrious men found delight in the rites, performed auspicious deeds and remained established in the path of virtue. Illustrious men, immortals, kinnaras, yakshas and rakshasas were happy and prosperous. Even if there was a wind, ﬂowers, not to speak of fruits, did not drop down from trees before it was the right time. Cows yielded tasty milk whenever it was desired. There was no one who ever spoke ﬁerce words. Such were all the objects of desire that were brought to the gods, with Shakra at the forefront, by Shri. If a person reads this account at an assembly of brahmanas and worships it, desiring prosperity, he will obtain prosperity. O supreme among the Kurus! I was urged by you. These are the supreme indications of prosperity and adversity. I have recounted all of this to you. You should examine the truth about this and follow it.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having been addressed by the goddess in these words, Narada, the rishi of the three worlds, and Vasava, the slayer of Vritra, delighted her by welcoming her. The wind, the friend of the ﬁre, began to blow in the abodes of the gods. It bore auspicious fragrances and was pleasant to the touch, bringing happiness to all the senses. The thirty gods stationed themselves in that auspicious spot, desiring to worship her. They wished to see Maghavan seated with Lakshmi. The one with the thousand eyes obtained divinity. He was with Shri and with his well-wisher, the celestial rishi{230}. The bull among the gods arrived there, on a chariot that was yoked to tawny horses and was immediately honoured by all the gods. The powerful Narada noticed the sign that the wielder of the vajra made, one that was mentally approved of by the goddess Shri. The immensely wise one praised the arrival of Shri there as an auspicious event. The ﬁrmament was radiant and showered down amrita on the abode of Svayambhu, the grandfather. Drums sounded, though they had not been struck. All the directions were pleasant. As was appropriate, Vasava showered down rain on the crops. No one deviated from the path of dharma. The earth was ornamented with many stores of jewels. Victorious sounds, voiced and unvoiced, resounded on earth and in heaven. Illustrious men found delight in the rites, performed auspicious deeds and remained established in the path of virtue. Illustrious men, immortals, kinnaras, yakshas and rakshasas were happy and prosperous. Even if there was a wind, ﬂowers, not to speak of fruits, did not drop down from trees before it was the right time. Cows yielded tasty milk whenever it was desired. There was no one who ever spoke ﬁerce words. Such were all the objects of desire that were brought to the gods, with Shakra at the forefront, by Shri. If a person reads this account at an assembly of brahmanas and worships it, desiring prosperity, he will obtain prosperity. O supreme among the Kurus! I was urged by you. These are the supreme indications of prosperity and adversity. I have recounted all of this to you. You should examine the truth about this and follow it.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

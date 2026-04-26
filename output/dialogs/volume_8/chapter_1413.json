@@ -1,0 +1,155 @@
+{
+  "chapter": 1413,
+  "local": 85,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, ‘O Yudhishthira! In this connection an ancient history is recounted, about the conversation between Brihaspati and Shakra.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘O Yudhishthira! In this connection an ancient history is recounted, about the conversation between Brihaspati and Shakra.",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "'"
+      ],
+      "text": "‘“Shakra asked, ‘O brahmana! What single step can a man take well, so that he becomes pre-eminent among all beings and obtains great glory?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! What single step can a man take well, so that he becomes pre-eminent among all beings and obtains great glory?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brihaspati replied, ‘O Shakra! Pleasant speech is the single good step through which a man becomes pre-eminent among all beings and obtains great glory. O Shakra! This is the single step that brings happiness to all beings and by observing this one always becomes the beloved of all beings. If a person never speaks, if he always has a frown on his face and if his speech is not pleasant, he becomes an object of hatred for all beings. A person who glances ﬁrst, a person who speaks ﬁrst, a person who smiles before speaking, he is the person whom people favour. Everywhere, even if gifts are given, but without pleasant speech, that is like food without seasoning and does not please people. O Shakra! Even if a person does not give anything, but speaks to people in sweet words, he is capable of bringing all the people under his subjugation. Therefore, it is the duty of anyone who wields the rod to be pleasant in speech. That generates results and people do not hate him. Pleasant speech that is soft and sweet and is delivered well is like a good deed and there is nothing that equals it.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brihaspati replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shakra! Pleasant speech is the single good step through which a man becomes pre-eminent among all beings and obtains great glory. O Shakra! This is the single step that brings happiness to all beings and by observing this one always becomes the beloved of all beings. If a person never speaks, if he always has a frown on his face and if his speech is not pleasant, he becomes an object of hatred for all beings. A person who glances ﬁrst, a person who speaks ﬁrst, a person who smiles before speaking, he is the person whom people favour. Everywhere, even if gifts are given, but without pleasant speech, that is like food without seasoning and does not please people. O Shakra! Even if a person does not give anything, but speaks to people in sweet words, he is capable of bringing all the people under his subjugation. Therefore, it is the duty of anyone who wields the rod to be pleasant in speech. That generates results and people do not hate him. Pleasant speech that is soft and sweet and is delivered well is like a good deed and there is nothing that equals it.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “Having been thus addressed by the priest{776}, Shakra acted entirely in this way. O Kounteya! You should also properly follow this.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Having been thus addressed by the priest{776}, Shakra acted entirely in this way. O Kounteya! You should also properly follow this.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

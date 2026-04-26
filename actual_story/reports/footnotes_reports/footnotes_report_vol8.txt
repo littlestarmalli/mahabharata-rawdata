@@ -1,0 +1,53 @@
+Volume 8 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   13
+  Total CASE C (def gaps):                              1
+  Total CASE D (ref gaps):                              14
+
+
+──────────────────────────────────────────────────────────────────────
+Section [79] Aishika Parva  (chapters 1293–1301)
+  Refs: 68   Defs: 69
+
+  CASE B — 1 orphan(s):
+    fn 63
+
+  CASE D — ref sequence gaps: [63]
+
+──────────────────────────────────────────────────────────────────────
+Section [83] Jala-pradanika Parva  (chapters 1328–1456)
+  Refs: 1098   Defs: 1109
+
+  CASE B — 11 orphan(s):
+    fn 136
+    fn 232
+    fn 283
+    fn 297
+    fn 298
+    fn 299
+    fn 409
+    fn 460
+    fn 506
+    fn 779
+    fn 947
+
+  CASE D — ref sequence gaps: [136, 232, 283, 297, 298, 299, 409, 460, 506, 779, 947]
+
+──────────────────────────────────────────────────────────────────────
+Section [84] Raja Dharma Parva  (chapters 1457–1495)
+  Refs: 272   Defs: 272
+
+  CASE C — def sequence gaps: [76]
+
+  CASE D — ref sequence gaps: [76]
+
+──────────────────────────────────────────────────────────────────────
+Section [86] Moksha Dharma Parva  (chapters 1496–1527)
+  Refs: 224   Defs: 225
+
+  CASE B — 1 orphan(s):
+    fn 198
+
+  CASE D — ref sequence gaps: [198]

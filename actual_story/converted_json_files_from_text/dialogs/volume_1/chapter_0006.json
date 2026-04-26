@@ -1,0 +1,98 @@
+{
+  "chapter": 6,
+  "local": 6,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘O Brahmana, having heard Agni's words, the rakshasa assumed the form of a boar and carried her away with the speed of the mind and of thought. Bhrigu's child, who was in her womb, was angry at this violence and fell down from his mother's womb. For this reason, he got the name Chyavana{5}. On seeing the child fall from his mother's womb, blazing like the sun, that rakshasa let go of her, but fell down, burnt to ashes. O Brahmana, O descendant of Bhrigu! Puloma, the lady with the beautiful hips, almost fainted with grief, but picked up Chyavana and walked away. Brahma himself, the grandfather of all the worlds, saw Bhrigu's unblemished wife weeping, eyes ﬁlled with tears. The venerable Brahma, grandfather of all beings, consoled his daughter-in-law and a great river was formed from the tears that fell from her eyes. The river followed the footsteps of the famous Bhrigu's wife. On seeing it follow the path of his son's wife, the venerable grandfather of the world named it himself. He called it Vadhusara and it passed near Chyavana's hermitage. Thus was Chyavana born, the mighty son of Bhrigu.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Brahmana, having heard Agni's words, the rakshasa assumed the form of a boar and carried her away with the speed of the mind and of thought. Bhrigu's child, who was in her womb, was angry at this violence and fell down from his mother's womb. For this reason, he got the name Chyavana{5}. On seeing the child fall from his mother's womb, blazing like the sun, that rakshasa let go of her, but fell down, burnt to ashes. O Brahmana, O descendant of Bhrigu! Puloma, the lady with the beautiful hips, almost fainted with grief, but picked up Chyavana and walked away. Brahma himself, the grandfather of all the worlds, saw Bhrigu's unblemished wife weeping, eyes ﬁlled with tears. The venerable Brahma, grandfather of all beings, consoled his daughter-in-law and a great river was formed from the tears that fell from her eyes. The river followed the footsteps of the famous Bhrigu's wife. On seeing it follow the path of his son's wife, the venerable grandfather of the world named it himself. He called it Vadhusara and it passed near Chyavana's hermitage. Thus was Chyavana born, the mighty son of Bhrigu.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘On seeing Chyavana and also the beautiful young lady there, the angry Bhrigu asked his wife Puloma, “Who told the rakshasa who was here about you, so that he wanted to carry you away? O lady of beautiful smiles! That rakshasa could not have himself known that you were my wife. Tell me who told him, because I wish to curse him in my anger. Who does not fear my curse? Who dared to transgress?” Puloma replied, “O Bhagavan! I was made known to the rakshasa by Agni. Then that rakshasa carried me away, crying like a female osprey. I was freed only through the extraordinary energy of your son. That rakshasa let go of me, fell down on the ground and was burnt to ashes.” Having heard this from Puloma, Bhrigu became very angry. Out of his anger, he cursed Agni that he would be an omnivore{6}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On seeing Chyavana and also the beautiful young lady there, the angry Bhrigu asked his wife Puloma, ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Who told the rakshasa who was here about you, so that he wanted to carry you away? O lady of beautiful smiles! That rakshasa could not have himself known that you were my wife. Tell me who told him, because I wish to curse him in my anger. Who does not fear my curse? Who dared to transgress?”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Puloma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@puloma",
+          "introduces_label": "Puloma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Bhagavan! I was made known to the rakshasa by Agni. Then that rakshasa carried me away, crying like a female osprey. I was freed only through the extraordinary energy of your son. That rakshasa let go of me, fell down on the ground and was burnt to ashes.”",
+          "speaker": "@puloma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having heard this from Puloma, Bhrigu became very angry. Out of his anger, he cursed Agni that he would be an omnivore{6}.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

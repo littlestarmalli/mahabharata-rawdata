@@ -1,0 +1,107 @@
+{
+  "chapter": 834,
+  "local": 171,
+  "shlokas": 9,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhisma said, “O best of the Bharata lineage! I approached my mother, the mother of brave ones and saluting her, told the daughter of the Dasha lineage{5}, ‘I have vanquished the kings and have obtained these daughters of the lord of Kashi for Vichitravirya. I have abducted them in accordance with the norms of viryashulka.’ O king! She inhaled the fragrance of my head. With her eyes ﬁlled with tears, Satyavati told me, ‘O son! It is through good fortune that you have obtained victory.’ With Satyavati's permission, a date was ﬁxed for the marriage. The eldest daughter of the lord of Kashi spoke these bashful words. ‘O Bhishma! You are knowledgeable about dharma and you are skilled in all the sacred texts. You should listen to my words and then act towards me in accordance with dharma. In my mind, I had earlier chosen the lord of Shalva as my groom. Without this being known to my father, he had also chosen me in secret. I desire someone else. O king! O Bhishma! Especially because you are a Kourava, how can you, who have studied the sacred texts, make someone like that live in this household? O bull among the Bharata lineage! Now that you know this, make up your mind about what should be done. O mighty-armed one! You should do that which is appropriate. O lord of the earth! It is evident that King Shalva is waiting for me. O mighty-armed one! O supreme among those who uphold dharma! You should take pity on me. O brave one! We have heard that you are famous in this world for being truthful to your vows.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhisma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhisma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best of the Bharata lineage! I approached my mother, the mother of brave ones and saluting her, told the daughter of the Dasha lineage{5}, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have vanquished the kings and have obtained these daughters of the lord of Kashi for Vichitravirya. I have abducted them in accordance with the norms of viryashulka.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! She inhaled the fragrance of my head. With her eyes ﬁlled with tears, Satyavati told me, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! It is through good fortune that you have obtained victory.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " With Satyavati's permission, a date was ﬁxed for the marriage. The eldest daughter of the lord of Kashi spoke these bashful words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Bhishma! You are knowledgeable about dharma and you are skilled in all the sacred texts. You should listen to my words and then act towards me in accordance with dharma. In my mind, I had earlier chosen the lord of Shalva as my groom. Without this being known to my father, he had also chosen me in secret. I desire someone else. O king! O Bhishma! Especially because you are a Kourava, how can you, who have studied the sacred texts, make someone like that live in this household? O bull among the Bharata lineage! Now that you know this, make up your mind about what should be done. O mighty-armed one! You should do that which is appropriate. O lord of the earth! It is evident that King Shalva is waiting for me. O mighty-armed one! O supreme among those who uphold dharma! You should take pity on me. O brave one! We have heard that you are famous in this world for being truthful to your vows.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

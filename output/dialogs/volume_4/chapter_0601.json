@@ -1,0 +1,184 @@
+{
+  "chapter": 601,
+  "local": 5,
+  "shlokas": 31,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Those brave ones girded their swords and were armed with other weapons. Their quivers were tied. They had guards on their ﬁngers and wrists. They proceeded towards the river Kalindi{39}. On foot, they arrived at its southern bank. The archers lived there, ﬁnding fortiﬁcations in the mountains and the forests. The immensely strong great archers shot many different kinds of deer. To the north of Dasharna and the south of Panchala, the Pandavas passed through Yakrilloma and Shurasena. Attired as hunters, they entered Matsya from the direction of the forest. Having reached that country, Krishna told the king, “Behold. Many footpaths and different kinds of ﬁelds can be seen here. It is clear that Virata's capital is still far away. My fatigue is extremely great. Let us spend the night here.” Yudhishthira replied, “O Dhananjaya! O descendant of the Bharata lineage! Lift Panchali and carry her. Once we free ourselves from this forest, we will settle down in the capital.” Like a king of elephants, Arjuna swiftly raised Droupadi up. Arjuna put her down when they reached the outskirts of the capital. On arriving at the capital, Kounteya{40} asked Arjuna, “Before entering the city, where will we keep our weapons? O son{41}! If we enter the city with our weapons, there is no doubt that we will create anxiety among the people. We have made a promise that even if one of us happens to be discovered, we will have to return to the forest again for twelve years.” Arjuna said, “O Indra among men! On this peak and close to the cremation ground, there is a gigantic shami tree{42}. It is impenetrable because of its fearsome branches and is difﬁcult to climb. O king! Not a single man can be seen here. It is far away from the road and has grown in a forest frequented by animals and predators. Let us hang up our weapons there and then proceed towards the city. O descendant of the Bharata lineage! We will then be able to enjoy ourselves as we please.” O bull among the Bharata lineage! Having thus addressed King Dharmaraja Yudhishthira, he took off his weapons there.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Those brave ones girded their swords and were armed with other weapons. Their quivers were tied. They had guards on their ﬁngers and wrists. They proceeded towards the river Kalindi{39}. On foot, they arrived at its southern bank. The archers lived there, ﬁnding fortiﬁcations in the mountains and the forests. The immensely strong great archers shot many different kinds of deer. To the north of Dasharna and the south of Panchala, the Pandavas passed through Yakrilloma and Shurasena. Attired as hunters, they entered Matsya from the direction of the forest. Having reached that country, Krishna told the king, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Behold. Many footpaths and different kinds of ﬁelds can be seen here. It is clear that Virata's capital is still far away. My fatigue is extremely great. Let us spend the night here.”",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Dhananjaya! O descendant of the Bharata lineage! Lift Panchali and carry her. Once we free ourselves from this forest, we will settle down in the capital.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Like a king of elephants, Arjuna swiftly raised Droupadi up. Arjuna put her down when they reached the outskirts of the capital. On arriving at the capital, Kounteya{40} asked Arjuna, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Before entering the city, where will we keep our weapons? O son{41}! If we enter the city with our weapons, there is no doubt that we will create anxiety among the people. We have made a promise that even if one of us happens to be discovered, we will have to return to the forest again for twelve years.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Indra among men! On this peak and close to the cremation ground, there is a gigantic shami tree{42}. It is impenetrable because of its fearsome branches and is difﬁcult to climb. O king! Not a single man can be seen here. It is far away from the road and has grown in a forest frequented by animals and predators. Let us hang up our weapons there and then proceed towards the city. O descendant of the Bharata lineage! We will then be able to enjoy ourselves as we please.”",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O bull among the Bharata lineage! Having thus addressed King Dharmaraja Yudhishthira, he took off his weapons there.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Partha, descendant of the Kuru lineage, loosened the string of the terrible Gandiva, which made a great roar and slaughtered masses of enemies. With it, alone on a chariot, he had vanquished gods, men and snakes and conquered many opulent countries. Yudhishthira, the brave scorcher of enemies, loosened the bow's undecaying string, one with which he had protected Kurukshetra{43}. Lord Bhimasena loosened the string of the bow with which he had defeated the Panchalas in battle and with which, he alone, had conquered many enemies in the course of his conquest. Enemies were paciﬁed in battle because of the twang of that bow. Mountains were rent asunder with the twang of Bhimasena's bow, which was like that of thunder. O unblemished one! He had used it to oppress the king of Saindhava{44}. The brave Pandava who had roared in battle, loosened the string of the bow with which he had conquered the west{45}. The brave lord Sahadeva, whose conduct was honest{46}, loosened the string of the weapon with which he had conquered the southern direction. With the bows, they laid down their long and yellow swords, their extremely expensive quivers and arrows that were as sharp as razors. Having himself climbed the tree, Nakula deposited these bows. He tied them ﬁrmly with strong nooses to those branches that were extremely strong and wide and where he saw that showers of rain would not enter. The Pandavas also tied a dead body there, so that people would smell the stench of a corpse and avoid the shami tree from a distance. While they were tying the corpse to the tree, the scorchers of enemies were questioned by cowherds and herdsmen. They said, “This is our mother, who is one hundred and eighty years old. This is the dharma of our lineage, one that has been followed by our ancestors.” Then the Parthas, the destroyers of enemies, approached the city.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Partha, descendant of the Kuru lineage, loosened the string of the terrible Gandiva, which made a great roar and slaughtered masses of enemies. With it, alone on a chariot, he had vanquished gods, men and snakes and conquered many opulent countries. Yudhishthira, the brave scorcher of enemies, loosened the bow's undecaying string, one with which he had protected Kurukshetra{43}. Lord Bhimasena loosened the string of the bow with which he had defeated the Panchalas in battle and with which, he alone, had conquered many enemies in the course of his conquest. Enemies were paciﬁed in battle because of the twang of that bow. Mountains were rent asunder with the twang of Bhimasena's bow, which was like that of thunder. O unblemished one! He had used it to oppress the king of Saindhava{44}. The brave Pandava who had roared in battle, loosened the string of the bow with which he had conquered the west{45}. The brave lord Sahadeva, whose conduct was honest{46}, loosened the string of the weapon with which he had conquered the southern direction. With the bows, they laid down their long and yellow swords, their extremely expensive quivers and arrows that were as sharp as razors. Having himself climbed the tree, Nakula deposited these bows. He tied them ﬁrmly with strong nooses to those branches that were extremely strong and wide and where he saw that showers of rain would not enter. The Pandavas also tied a dead body there, so that people would smell the stench of a corpse and avoid the shami tree from a distance. While they were tying the corpse to the tree, the scorchers of enemies were questioned by cowherds and herdsmen. They said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "They",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This is our mother, who is one hundred and eighty years old. This is the dharma of our lineage, one that has been followed by our ancestors.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Then the Parthas, the destroyers of enemies, approached the city.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira gave them the names they would secretly address each other by—Jaya, Jayanta, Vijaya, Jayatsena and Jayadbala. In accordance with the promise that they had made, they entered the great city, to live in disguise in that kingdom for the thirteenth year.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira gave them the names they would secretly address each other by—Jaya, Jayanta, Vijaya, Jayatsena and Jayadbala. In accordance with the promise that they had made, they entered the great city, to live in disguise in that kingdom for the thirteenth year.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

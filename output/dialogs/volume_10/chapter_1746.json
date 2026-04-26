@@ -1,0 +1,270 @@
+{
+  "chapter": 1746,
+  "local": 65,
+  "shlokas": 63,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhisthira asked, “O grandfather! If a brahmana's feet are being scorched by the heat and one gives him footwear, what fruits are obtained? Tell me that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhisthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhisthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandfather! If a brahmana's feet are being scorched by the heat and one gives him footwear, what fruits are obtained? Tell me that.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “If a person is controlled and donates footwear to brahmanas, he is able to overcome all thorns and difﬁculties. O Yudhishthira! He is always placed above his enemies. O lord of the earth! His sparkling vehicle is yoked to mules and is decorated in silver and in gold. O Kounteya! He is stationed atop that. The merit is like that of donating a cart with well-trained mounts.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If a person is controlled and donates footwear to brahmanas, he is able to overcome all thorns and difﬁculties. O Yudhishthira! He is always placed above his enemies. O lord of the earth! His sparkling vehicle is yoked to mules and is decorated in silver and in gold. O Kounteya! He is stationed atop that. The merit is like that of donating a cart with well-trained mounts.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “O Kourava! Tell me once again about the fruits from donating sesamum, donating land, donating cattle and donating food, though you have already recounted it.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kourava! Tell me once again about the fruits from donating sesamum, donating land, donating cattle and donating food, though you have already recounted it.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O Kounteya! Hear about the fruits from donating sesamum. O supreme among the Kuru lineage! It has to be given properly. Listen. Svayambhu created sesamum as the ﬁrst food for the ancestors. Therefore, the party of the ancestors is delighted when sesamum is donated. If a person gives sesamum to brahmanas in the month of Magha{41}, then he does not have to see hell, which is populated by all kinds of unholy creatures. Offering sesamum to the ancestors is like performing all the sacriﬁces, with a desire for the fruits. Without a desire for the fruits, one should never perform a funeral ceremony where sesamum is offered. Sesamum was created from the body of maharshi Kashyapa. O lord! That is the reason the offering of sesamum has divine attributes. They provide nourishment and beauty and destroy sins. That is the reason the gifting of sesamum is superior to all other donations. The intelligent Apastamba{42}, Shankha, Likhita and maharshi Goutama went to heaven after donating sesamum. Brahmanas who are devoted to offering oblations of sesamum, control the urge towards sexual intercourse and perform acts of pravritti where oblations of cattle products are offered, are regarded as equal. It has been said that the donation of sesamum is superior to all other kinds of gifts. It has also been said that among all kinds of gifts, the gift of sesamum leads to inexhaustible fruits. O scorcher of enemies! On an earlier occasion, oblations of clariﬁed butter weren't available. Having offered sesamum seeds, the rishi Kushika went to the supreme destination. O best among the Kuru lineage! I have thus spoken to you about the supreme gift of sesamum. I have also told you about the rules. It is because of those rules that the gift of sesamum is praised.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kounteya! Hear about the fruits from donating sesamum. O supreme among the Kuru lineage! It has to be given properly. Listen. Svayambhu created sesamum as the ﬁrst food for the ancestors. Therefore, the party of the ancestors is delighted when sesamum is donated. If a person gives sesamum to brahmanas in the month of Magha{41}, then he does not have to see hell, which is populated by all kinds of unholy creatures. Offering sesamum to the ancestors is like performing all the sacriﬁces, with a desire for the fruits. Without a desire for the fruits, one should never perform a funeral ceremony where sesamum is offered. Sesamum was created from the body of maharshi Kashyapa. O lord! That is the reason the offering of sesamum has divine attributes. They provide nourishment and beauty and destroy sins. That is the reason the gifting of sesamum is superior to all other donations. The intelligent Apastamba{42}, Shankha, Likhita and maharshi Goutama went to heaven after donating sesamum. Brahmanas who are devoted to offering oblations of sesamum, control the urge towards sexual intercourse and perform acts of pravritti where oblations of cattle products are offered, are regarded as equal. It has been said that the donation of sesamum is superior to all other kinds of gifts. It has also been said that among all kinds of gifts, the gift of sesamum leads to inexhaustible fruits. O scorcher of enemies! On an earlier occasion, oblations of clariﬁed butter weren't available. Having offered sesamum seeds, the rishi Kushika went to the supreme destination. O best among the Kuru lineage! I have thus spoken to you about the supreme gift of sesamum. I have also told you about the rules. It is because of those rules that the gift of sesamum is praised.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“After this, listen to what I have to say about the gods desiring to perform a sacriﬁce. O great king! They went and met Svayambhu Brahma. The gods went and met Brahma, desiring a part of the earth where they might perform the sacriﬁce. O king! They said, ‘We desire an auspicious spot where we can perform the sacriﬁce. O illustrious one! You are the lord of the earth and of heaven. O immensely fortunate one! With your permission, we wish to undertake a sacriﬁce. If the ground is used without permission, the fruits of the sacriﬁce aren't obtained. You are the lord of everything in the universe, mobile and immobile. Therefore, we are seeking your permission.’ Brahma replied, ‘O bulls among the gods! O descendants of Kashyapa! I will give you a part of the earth. You can perform your sacriﬁce at that spot.’ The gods said, ‘O illustrious one! Our wishes have been satisﬁed. We will perform our sacriﬁce and give away large quantities of dakshina. Let this spot always be worshipped by the sages.’ Agastya, Kanva, Bhrigu, Atri, Vrishakapi, Asita and Devala came to the sacriﬁce performed by the gods. O undecaying one! The great-souled gods performed their sacriﬁce. At the right time, the bulls among gods completed the sacriﬁce. The gods performed their sacriﬁce on the slopes of the Himalayas. They earmarked one-sixth share of their sacriﬁce for those who would donate land. If a person donates a small bit of land reverentially, he does not suffer from any hardships and does not have to face any difﬁculties. If a person donates some land with a well-constructed house that is capable of withstanding heat, cold and wind, then even when his merits are exhausted, he is not dislodged from the world of the gods. O king! A wise person who gives such a refuge resides happily with Shakra and obtains greatness in heaven. There may be a learned brahmana who is in control of his senses and has been born in a family of preceptors. If he is given a house in which he resides happily, the donor obtains the best of worlds. O supreme among the Bharata lineage! If a person donates a shelter for cows that is strong and is capable of withstanding cold and rain, then the donor saves seven generations of his lineage{43}. O son! By donating arable land, one obtains prosperous worlds. By donating land that is rich in wealth, one extends one's family and lineage. One should never donate land that is barren or scorched. Nor should one donate land that is near a cremation ground or is populated by wicked people. If a person performs a funeral ceremony for the ancestors in land that is owned by someone else, then the gift of that land and the fruits of the ceremony are both destroyed. Therefore, a learned person will purchase a plot of land and then donate it, even if it is small. The funeral cakes offered to the ancestors then become inexhaustible. Forests, mountains, rivers and tirthas are not owned by anyone. Therefore, ceremonies can be performed there. O lord of the earth! I have spoken to you about the fruits from donating land.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“After this, listen to what I have to say about the gods desiring to perform a sacriﬁce. O great king! They went and met Svayambhu Brahma. The gods went and met Brahma, desiring a part of the earth where they might perform the sacriﬁce. O king! They said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘We desire an auspicious spot where we can perform the sacriﬁce. O illustrious one! You are the lord of the earth and of heaven. O immensely fortunate one! With your permission, we wish to undertake a sacriﬁce. If the ground is used without permission, the fruits of the sacriﬁce aren't obtained. You are the lord of everything in the universe, mobile and immobile. Therefore, we are seeking your permission.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Brahma replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@brahma",
+          "introduces_label": "Brahma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O bulls among the gods! O descendants of Kashyapa! I will give you a part of the earth. You can perform your sacriﬁce at that spot.’",
+          "speaker": "@brahma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The gods said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Our wishes have been satisﬁed. We will perform our sacriﬁce and give away large quantities of dakshina. Let this spot always be worshipped by the sages.’",
+          "speaker": "the_gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Agastya, Kanva, Bhrigu, Atri, Vrishakapi, Asita and Devala came to the sacriﬁce performed by the gods. O undecaying one! The great-souled gods performed their sacriﬁce. At the right time, the bulls among gods completed the sacriﬁce. The gods performed their sacriﬁce on the slopes of the Himalayas. They earmarked one-sixth share of their sacriﬁce for those who would donate land. If a person donates a small bit of land reverentially, he does not suffer from any hardships and does not have to face any difﬁculties. If a person donates some land with a well-constructed house that is capable of withstanding heat, cold and wind, then even when his merits are exhausted, he is not dislodged from the world of the gods. O king! A wise person who gives such a refuge resides happily with Shakra and obtains greatness in heaven. There may be a learned brahmana who is in control of his senses and has been born in a family of preceptors. If he is given a house in which he resides happily, the donor obtains the best of worlds. O supreme among the Bharata lineage! If a person donates a shelter for cows that is strong and is capable of withstanding cold and rain, then the donor saves seven generations of his lineage{43}. O son! By donating arable land, one obtains prosperous worlds. By donating land that is rich in wealth, one extends one's family and lineage. One should never donate land that is barren or scorched. Nor should one donate land that is near a cremation ground or is populated by wicked people. If a person performs a funeral ceremony for the ancestors in land that is owned by someone else, then the gift of that land and the fruits of the ceremony are both destroyed. Therefore, a learned person will purchase a plot of land and then donate it, even if it is small. The funeral cakes offered to the ancestors then become inexhaustible. Forests, mountains, rivers and tirthas are not owned by anyone. Therefore, ceremonies can be performed there. O lord of the earth! I have spoken to you about the fruits from donating land.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O unblemished one! I will next tell you about the donation of cattle. Cows are superior to all ascetics. That is the reason the god Maheshvara performed austerities in their company. O descendant of the Bharata lineage! Together with Soma, they dwell in Brahma's world. That is the supreme destination that successful brahmana rishis seek. O descendant of the Bharata lineage! They provide milk, clariﬁed butter, curds, dung, hides, bones, horns and hair. They tolerate cold and heat and always work. They tolerate the difﬁcult hardships of the monsoon season. With brahmanas, they go to the supreme destination. That is why the learned say that cows and brahmanas are equal. In ancient times, Rantideva performed a sacriﬁce where animals were slaughtered. It is because of the hides of cattle that the river formed came to be known as Charmanvati{44}. O lord of the earth! However, animals are no longer slaughtered and are thought of as gifts. O king! A person who donates them to the best of brahmanas is saved from calamities, hardships and difﬁculties. A person who donates one thousand cows does not have to see hell after death. O lord of men! Such a person obtains victory everywhere. The lord of the thirty gods has spoken of the milk of cows as amrita. Therefore, a person who donates a cow, donates amrita. Those who are knowledgable about the Vedas say that ghee obtained from such milk is the best oblation offered to a ﬁre. Therefore, a person who donates a cow, donates oblations. A bull is like the direct manifestation of heaven. A person who donates it to a brahmana who possesses the qualities obtains greatness in heaven. O bull among the Bharata lineage! A cow is said to be the breath of life among creatures. Therefore, a person who donates a cow, donates the breath of life. Those who are knowledgable about the Vedas have said that a cow is the refuge of creatures. Therefore, a person who donates a cow, donates refuge. A cow must not be donated for slaughter, to someone who kills animals, or to a non-believer. O bull among men! A cow must not be given to someone who earns a living from cattle. Learned ones have said that if a man gives a cow to such perpetrators of wicked deeds, he goes to ever-lasting hell. A cow that is given to a brahmana should not be lean, barren, diseased, defective in limb, exhausted, or one that does not easily calve. A man who properly donates ten thousand cattle enjoys delight with Shakra. A man who donates one hundred thousand cattle obtains the eternal worlds. I have talked about donating cows, donating sesamum and donating land.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O unblemished one! I will next tell you about the donation of cattle. Cows are superior to all ascetics. That is the reason the god Maheshvara performed austerities in their company. O descendant of the Bharata lineage! Together with Soma, they dwell in Brahma's world. That is the supreme destination that successful brahmana rishis seek. O descendant of the Bharata lineage! They provide milk, clariﬁed butter, curds, dung, hides, bones, horns and hair. They tolerate cold and heat and always work. They tolerate the difﬁcult hardships of the monsoon season. With brahmanas, they go to the supreme destination. That is why the learned say that cows and brahmanas are equal. In ancient times, Rantideva performed a sacriﬁce where animals were slaughtered. It is because of the hides of cattle that the river formed came to be known as Charmanvati{44}. O lord of the earth! However, animals are no longer slaughtered and are thought of as gifts. O king! A person who donates them to the best of brahmanas is saved from calamities, hardships and difﬁculties. A person who donates one thousand cows does not have to see hell after death. O lord of men! Such a person obtains victory everywhere. The lord of the thirty gods has spoken of the milk of cows as amrita. Therefore, a person who donates a cow, donates amrita. Those who are knowledgable about the Vedas say that ghee obtained from such milk is the best oblation offered to a ﬁre. Therefore, a person who donates a cow, donates oblations. A bull is like the direct manifestation of heaven. A person who donates it to a brahmana who possesses the qualities obtains greatness in heaven. O bull among the Bharata lineage! A cow is said to be the breath of life among creatures. Therefore, a person who donates a cow, donates the breath of life. Those who are knowledgable about the Vedas have said that a cow is the refuge of creatures. Therefore, a person who donates a cow, donates refuge. A cow must not be donated for slaughter, to someone who kills animals, or to a non-believer. O bull among men! A cow must not be given to someone who earns a living from cattle. Learned ones have said that if a man gives a cow to such perpetrators of wicked deeds, he goes to ever-lasting hell. A cow that is given to a brahmana should not be lean, barren, diseased, defective in limb, exhausted, or one that does not easily calve. A man who properly donates ten thousand cattle enjoys delight with Shakra. A man who donates one hundred thousand cattle obtains the eternal worlds. I have talked about donating cows, donating sesamum and donating land.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O descendant of the Bharata lineage! Now hear about gifts of food. O Kounteya! The donation of food is said to be the best. After donating food, Rantideva went to heaven. O lord of the earth! O lord of men! If a person gives food to someone who is exhausted and hungry, the immensely fortunate one sees Svayambhu's world. O descendant of the Bharata lineage! O lord! By donating gold, garments and horses, a man doesn't obtain the beneﬁt that can be obtained by donating food. Food is the supreme object. It has been held that food is supreme prosperity. Life, power, energy, valour and strength result from food. If a man always donates food single-mindedly, then he does not suffer from any hardship. Parashara said that. O king! After worshipping the gods in the proper way, food must be offered to them. A man offers the gods the food that he himself partakes. If a man donates food in the shuklapaksha of Koumudi{45}, then he can tide over all hardships. After death, he obtains the inﬁnite. O bull among the Bharata lineage! If a person is controlled and offers food to a hungry guest, he obtains the worlds that are meant for those who know about the brahman. A man who donates food manages to cross over every difﬁculty and hardship. He overcomes his sins and cleanses all his wicked deeds. I have thus spoken about the fruits from donation of food, donation of sesamum, donation of land and donation of cattle.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O descendant of the Bharata lineage! Now hear about gifts of food. O Kounteya! The donation of food is said to be the best. After donating food, Rantideva went to heaven. O lord of the earth! O lord of men! If a person gives food to someone who is exhausted and hungry, the immensely fortunate one sees Svayambhu's world. O descendant of the Bharata lineage! O lord! By donating gold, garments and horses, a man doesn't obtain the beneﬁt that can be obtained by donating food. Food is the supreme object. It has been held that food is supreme prosperity. Life, power, energy, valour and strength result from food. If a man always donates food single-mindedly, then he does not suffer from any hardship. Parashara said that. O king! After worshipping the gods in the proper way, food must be offered to them. A man offers the gods the food that he himself partakes. If a man donates food in the shuklapaksha of Koumudi{45}, then he can tide over all hardships. After death, he obtains the inﬁnite. O bull among the Bharata lineage! If a person is controlled and offers food to a hungry guest, he obtains the worlds that are meant for those who know about the brahman. A man who donates food manages to cross over every difﬁculty and hardship. He overcomes his sins and cleanses all his wicked deeds. I have thus spoken about the fruits from donation of food, donation of sesamum, donation of land and donation of cattle.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

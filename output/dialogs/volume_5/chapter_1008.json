@@ -1,0 +1,408 @@
+{
+  "chapter": 1008,
+  "local": 31,
+  "shlokas": 77,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “O Sanjaya! When those divisions were shattered by Pandu's son and ﬂed quickly, what was the state of your mind then? When divisions are shattered and do not see a place where they can make a stand, it is very difﬁcult to counter this. O Sanjaya! Tell me everything about this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! When those divisions were shattered by Pandu's son and ﬂed quickly, what was the state of your mind then? When divisions are shattered and do not see a place where they can make a stand, it is very difﬁcult to counter this. O Sanjaya! Tell me everything about this.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O lord of the earth! Despite this, there were those who wished to bring pleasure to your son. To preserve their fame in this world, those brave ones followed Drona. They raised their weapons and approached Yudhishthira. They performed noble and terrible deeds and were truly fearless. O lord! They detected a weakness in the inﬁnitely energetic Bhimasena, the brave Satyaki and Dhrishtadyumna. The Panchalas cruelly urged, ‘Drona! Drona!’ However, your sons urged all the Kurus, ‘Not Drona!’ One side said, ‘Drona! Drona!’ The other side said, ‘Not Drona!’ The Kurus and the Pandavas seemed to be gambling over Drona. Wherever Drona sought to attack the chariots of the Panchalas, Panchala Dhrishtadyumna stationed himself at those spots. There was a terrible battle where one did not follow the respective divisions. Brave ones clashed against brave ones and roared against the enemy. The enemy was incapable of making the Pandavas tremble there. But because they remembered their own hardships, they made the enemy divisions waver. Though they were modest, they were overcome by anger and driven by their spirit. They were prepared to give up their lives and sought to kill Drona in that great battle. There was a tumultuous battle, in which, those inﬁnitely energetic ones offered their lives as stake. It was as if iron was clashing against rock. Even the aged could not remember a battle like this. O great king! Such had not been witnessed earlier, nor heard of. When those brave ones were slaughtered, the earth trembled, oppressed by the great burden of those two oceans of soldiers. As the armies whirled around, the ﬁrmament seemed to roar and stand still. Ajatashatru angrily advanced against your son. Drona roamed around in that battle. He approached the Pandu army and shattered it with thousands of sharp arrows. They were routed by Drona's extraordinary deeds. Then the commander{113} himself engaged with Drona and there was an extraordinary battle between Drona and Panchala. It is my view that there has never been anything that is equal to this.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth! Despite this, there were those who wished to bring pleasure to your son. To preserve their fame in this world, those brave ones followed Drona. They raised their weapons and approached Yudhishthira. They performed noble and terrible deeds and were truly fearless. O lord! They detected a weakness in the inﬁnitely energetic Bhimasena, the brave Satyaki and Dhrishtadyumna. The Panchalas cruelly urged, ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Drona! Drona!’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " However, your sons urged all the Kurus, ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Not Drona!’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " One side said, ",
+          "speaker": "@sanjaya",
+          "introduces": "one_side",
+          "introduces_label": "One side",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Drona! Drona!’",
+          "speaker": "one_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The other side said, ",
+          "speaker": "@sanjaya",
+          "introduces": "the_other_side",
+          "introduces_label": "The other side",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Not Drona!’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The Kurus and the Pandavas seemed to be gambling over Drona. Wherever Drona sought to attack the chariots of the Panchalas, Panchala Dhrishtadyumna stationed himself at those spots. There was a terrible battle where one did not follow the respective divisions. Brave ones clashed against brave ones and roared against the enemy. The enemy was incapable of making the Pandavas tremble there. But because they remembered their own hardships, they made the enemy divisions waver. Though they were modest, they were overcome by anger and driven by their spirit. They were prepared to give up their lives and sought to kill Drona in that great battle. There was a tumultuous battle, in which, those inﬁnitely energetic ones offered their lives as stake. It was as if iron was clashing against rock. Even the aged could not remember a battle like this. O great king! Such had not been witnessed earlier, nor heard of. When those brave ones were slaughtered, the earth trembled, oppressed by the great burden of those two oceans of soldiers. As the armies whirled around, the ﬁrmament seemed to roar and stand still. Ajatashatru angrily advanced against your son. Drona roamed around in that battle. He approached the Pandu army and shattered it with thousands of sharp arrows. They were routed by Drona's extraordinary deeds. Then the commander{113} himself engaged with Drona and there was an extraordinary battle between Drona and Panchala. It is my view that there has never been anything that is equal to this.",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Like a ﬁre, Nila burnt down the Kuru army. The arrows were the sparks and he was like a ﬁre burning down dry wood. When he was burning down the soldiers, Drona's powerful son, who had wished to have an encounter with him from earlier times{114}, smilingly addressed him. ‘O Nila! What will you gain by burning down these warriors with the rays of your arrows? Fight with me and angrily strike me with your swift arrows.’ Nila's eyes were like the petals of lotuses. He pierced the one whose face was as beautiful as a blooming lotus and whose body was like a collection of lotuses{115}. On being thus suddenly pierced, Drona's son used three sharp and broad-headed arrows to slice down the bow, standard and umbrella of the enemy. Nila swiftly jumped down from his chariot and grasped a shield and a supreme sword, wishing to sever, like a bird{116}, the head of Drona's son from his body. O unblemished one! But Drona's son smiled. He used a broad-headed arrow to sever his head, with a beautiful nose and with earrings, from his body. The face was as radiant as the full moon. The eyes were like the petals of lotuses. The shoulders were elevated and he{117} was tall. He was slain and fell down on the ground. At this, the Pandava soldiers were distressed and became extremely anxious. Blazing in his energy, Nila was killed by the son of the preceptor. O venerable one! All the Pandava maharathas began to think, ‘How will Vasava's son be able to save us from the enemy? The brave one is engaged in ﬁghting with the soldiers in the southern direction, with the remaining soldiers in the samshaptaka and narayana army.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Like a ﬁre, Nila burnt down the Kuru army. The arrows were the sparks and he was like a ﬁre burning down dry wood. When he was burning down the soldiers, Drona's powerful son, who had wished to have an encounter with him from earlier times{114}, smilingly addressed him. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Nila! What will you gain by burning down these warriors with the rays of your arrows? Fight with me and angrily strike me with your swift arrows.’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Nila's eyes were like the petals of lotuses. He pierced the one whose face was as beautiful as a blooming lotus and whose body was like a collection of lotuses{115}. On being thus suddenly pierced, Drona's son used three sharp and broad-headed arrows to slice down the bow, standard and umbrella of the enemy. Nila swiftly jumped down from his chariot and grasped a shield and a supreme sword, wishing to sever, like a bird{116}, the head of Drona's son from his body. O unblemished one! But Drona's son smiled. He used a broad-headed arrow to sever his head, with a beautiful nose and with earrings, from his body. The face was as radiant as the full moon. The eyes were like the petals of lotuses. The shoulders were elevated and he{117} was tall. He was slain and fell down on the ground. At this, the Pandava soldiers were distressed and became extremely anxious. Blazing in his energy, Nila was killed by the son of the preceptor. O venerable one! All the Pandava maharathas began to think, ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How will Vasava's son be able to save us from the enemy? The brave one is engaged in ﬁghting with the soldiers in the southern direction, with the remaining soldiers in the samshaptaka and narayana army.’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “Vrikodara could not tolerate the slaughter of the soldiers. He struck Bahlika with sixty and Karna with ten arrows. Drona wished to kill him and used sharp and iron arrows that were whetted at the tip and penetrated the inner organs to swiftly strike him, wishing to take away his life. Karna pierced him with twelve arrows, Ashvatthama with seven and King Duryodhana with six. But the immensely strong Bhimasena pierced all of them back in return. He struck Drona with ﬁfty arrows, Karna with ten arrows, Duryodhana with twelve and Drona's son with eight swift arrows. Having engaged in that battle, he let out a loud roar. They fought, prepared to give up their lives, and death was easily achieved. Ajatashatru sent many warriors, instructing them to save Bhima. Those inﬁnitely energetic ones approached near Bhimasena. There were Yuyudhana and the others and the two Pandavas who were Madri's sons. Those bulls among men were angry and united. They advanced, wishing to shatter Drona's army, which was protected by the supreme among great archers. Those immensely valorous ones, Bhima and the other rathas, advanced and were ﬁercely received by Drona and the best of rathas. Those brave and immensely strong atirathas were the ornaments of any battle. Outwardly giving up all fear of death, those on your side fought with the Pandavas. Riders killed riders and rathas killed rathas. The battle commenced, lances against lances, and with swords and battleaxes. There was a terrible clash with swords and it led to a cruel carnage. Because of the clash of elephants, the battle became extremely dreadful. Some fell down from elephants. Others fell down from horses, their heads hanging down. O venerable one! Other men fell down from chariots, pierced by arrows. Others were crushed in that encounter and fell down, shorn of their armour. Elephants attacked the chests and crushed the heads. In other places, elephants crushed men who had fallen down. Elephants struck the ground with their tusks and mangled many rathas. Other men were crushed by elephants that were pierced with weapons. Hundreds of elephants roamed around and crushed hundreds of men. There were men with bronze armour on their bodies and horses, chariots and elephants. They fell down and were crushed by elephants, as if they were thick reeds. Kings lay down to sleep on beds made out of the feathers of vultures{118}. They were modest. But having been ripened by time, they lay down on beds of great distress. Advancing on a chariot, the father killed the son. Out of confusion and disregarding all honour, the son killed the father. Wheels of chariots were shattered. Standards were torn. Umbrellas were shredded and brought down. Dragging broken yokes, horses ran away. Arms wielding swords were brought down. Heads sporting earrings were severed. Powerful elephants threw down chariots and crushed them down on the ground. Charioteers struck elephants with iron arrows and brought them down. Severely wounded by elephants, riders fell down from horses. A cruel and great battle raged and it was extremely terrible. ‘Alas, father! Alas, son! Friend, where are you? Stay! Where are you going? Strike! Capture! Kill!’ These and other words mixed with the roars and sounds of laughter and many other kinds of noise were spoken and heard. The blood of men, horses and elephants mingled together. The dust that arose from the ground was paciﬁed{119}. Those who were cowards became distressed. They dragged each other by the hair. There were terrible ﬁghts with ﬁsts. Brave ones fought with nails and teeth, wishing to ﬁnd refuge where no refuge could be found. Heroes raised swords in their arms, but those were severed. So were others holding bows, arrows or goads. Someone loudly challenged another. Someone else ﬂed, running away. Others confronted others and severed the head from the body. Some attacked others with loud roars. Others were severely frightened at the sounds and ﬂed. Some killed the enemy, or those on one's own side, with sharp arrows. Elephants that were like the peaks of mountains were brought down by iron arrows. They lay down, like islands in a river during the summer. There were elephants that exuded musth like mountainous streams. They crushed chariots down on the ground with their feet, together with the horses and the charioteers. There were brave ones who were skilled in the use of weapons. On seeing that they were covered with blood, but were still striking each other, those who were cowards and weak in heart lost their senses. Everyone was distressed and nothing could be distinguished. Despite the dust raised by the soldiers, the cruel battle raged on.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Vrikodara could not tolerate the slaughter of the soldiers. He struck Bahlika with sixty and Karna with ten arrows. Drona wished to kill him and used sharp and iron arrows that were whetted at the tip and penetrated the inner organs to swiftly strike him, wishing to take away his life. Karna pierced him with twelve arrows, Ashvatthama with seven and King Duryodhana with six. But the immensely strong Bhimasena pierced all of them back in return. He struck Drona with ﬁfty arrows, Karna with ten arrows, Duryodhana with twelve and Drona's son with eight swift arrows. Having engaged in that battle, he let out a loud roar. They fought, prepared to give up their lives, and death was easily achieved. Ajatashatru sent many warriors, instructing them to save Bhima. Those inﬁnitely energetic ones approached near Bhimasena. There were Yuyudhana and the others and the two Pandavas who were Madri's sons. Those bulls among men were angry and united. They advanced, wishing to shatter Drona's army, which was protected by the supreme among great archers. Those immensely valorous ones, Bhima and the other rathas, advanced and were ﬁercely received by Drona and the best of rathas. Those brave and immensely strong atirathas were the ornaments of any battle. Outwardly giving up all fear of death, those on your side fought with the Pandavas. Riders killed riders and rathas killed rathas. The battle commenced, lances against lances, and with swords and battleaxes. There was a terrible clash with swords and it led to a cruel carnage. Because of the clash of elephants, the battle became extremely dreadful. Some fell down from elephants. Others fell down from horses, their heads hanging down. O venerable one! Other men fell down from chariots, pierced by arrows. Others were crushed in that encounter and fell down, shorn of their armour. Elephants attacked the chests and crushed the heads. In other places, elephants crushed men who had fallen down. Elephants struck the ground with their tusks and mangled many rathas. Other men were crushed by elephants that were pierced with weapons. Hundreds of elephants roamed around and crushed hundreds of men. There were men with bronze armour on their bodies and horses, chariots and elephants. They fell down and were crushed by elephants, as if they were thick reeds. Kings lay down to sleep on beds made out of the feathers of vultures{118}. They were modest. But having been ripened by time, they lay down on beds of great distress. Advancing on a chariot, the father killed the son. Out of confusion and disregarding all honour, the son killed the father. Wheels of chariots were shattered. Standards were torn. Umbrellas were shredded and brought down. Dragging broken yokes, horses ran away. Arms wielding swords were brought down. Heads sporting earrings were severed. Powerful elephants threw down chariots and crushed them down on the ground. Charioteers struck elephants with iron arrows and brought them down. Severely wounded by elephants, riders fell down from horses. A cruel and great battle raged and it was extremely terrible. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Alas, father! Alas, son! Friend, where are you? Stay! Where are you going? Strike! Capture! Kill!’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " These and other words mixed with the roars and sounds of laughter and many other kinds of noise were spoken and heard. The blood of men, horses and elephants mingled together. The dust that arose from the ground was paciﬁed{119}. Those who were cowards became distressed. They dragged each other by the hair. There were terrible ﬁghts with ﬁsts. Brave ones fought with nails and teeth, wishing to ﬁnd refuge where no refuge could be found. Heroes raised swords in their arms, but those were severed. So were others holding bows, arrows or goads. Someone loudly challenged another. Someone else ﬂed, running away. Others confronted others and severed the head from the body. Some attacked others with loud roars. Others were severely frightened at the sounds and ﬂed. Some killed the enemy, or those on one's own side, with sharp arrows. Elephants that were like the peaks of mountains were brought down by iron arrows. They lay down, like islands in a river during the summer. There were elephants that exuded musth like mountainous streams. They crushed chariots down on the ground with their feet, together with the horses and the charioteers. There were brave ones who were skilled in the use of weapons. On seeing that they were covered with blood, but were still striking each other, those who were cowards and weak in heart lost their senses. Everyone was distressed and nothing could be distinguished. Despite the dust raised by the soldiers, the cruel battle raged on.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The commander{120} said, ‘Make haste. This is the time.’ He swiftly led the Pandavas, who were always full of enterprise. Having been thus instructed, the illustrious Pandaveyas advanced towards Drona's chariot, wishing to kill him, like swans descending on a lake. ‘Seize! Do not ﬂee! Do not be scared! Cut him down!’ These and other sounds were heard in the vicinity of the invincible one's chariot. Drona, Kripa, Karna, Drona's son, King Jayadratha, Vinda and Anuvinda from Avanti and Shalya repulsed them. The Panchalas and the Pandavas were noble in their dharma. They were angry. They were difﬁcult to counter and difﬁcult to resist. Though oppressed by arrows, they did not withdraw from Drona. Drona became extremely enraged and released hundreds of arrows, causing a great carnage among the Chedis, Panchalas and Pandavas. O venerable one! The twang of his bowstring and the slapping of his palms were heard in all the directions. They were like the sound of thunder and caused fright among many of the Pandavas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The commander{120} said, ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Make haste. This is the time.’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He swiftly led the Pandavas, who were always full of enterprise. Having been thus instructed, the illustrious Pandaveyas advanced towards Drona's chariot, wishing to kill him, like swans descending on a lake. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Seize! Do not ﬂee! Do not be scared! Cut him down!’",
+          "speaker": "the_other_side",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " These and other sounds were heard in the vicinity of the invincible one's chariot. Drona, Kripa, Karna, Drona's son, King Jayadratha, Vinda and Anuvinda from Avanti and Shalya repulsed them. The Panchalas and the Pandavas were noble in their dharma. They were angry. They were difﬁcult to counter and difﬁcult to resist. Though oppressed by arrows, they did not withdraw from Drona. Drona became extremely enraged and released hundreds of arrows, causing a great carnage among the Chedis, Panchalas and Pandavas. O venerable one! The twang of his bowstring and the slapping of his palms were heard in all the directions. They were like the sound of thunder and caused fright among many of the Pandavas.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“At this time, having slain the powerful samshaptakas, Jishnu arrived at the spot where Drona was crushing the Pandus. He had crossed many whirlpools made out of arrows and giant lakes made out of blood. Having crossed them and having killed the samshaptakas, Phalguna showed himself. He was the accomplisher of deeds. He was like the sun in his energy. The one with the monkey on his banner was seen to be radiant in his energy. He had dried up the ocean of the samshaptakas with the rays of his weapons. Pandava now scorched the Kurus, like the sun at the destruction of a yuga. All the Kurus were burnt by the energy of Arjuna's weapons, like a comet that has arisen and destroys all beings at the end of a yuga{121}. Elephants, horses, rathas and warriors were struck by the thousands of arrows released by him and oppressed by these arrows, discarded their weapons and fell down on the ground. Some wailed in lamentation. Still others roared. Slain by Partha's arrows, some fell down, deprived of their lives. Remembering the vow of warriors, Arjuna did not kill the warriors who had fallen down, or were falling down, or were retreating. Most of the Kurus were shattered and, devoid of their chariots, were in retreat. They called upon Karna for protection. On discerning the lamentation and the cries for refuge, Adhiratha's son assured them that they need not be frightened and advanced in Arjuna's direction. He was foremost among all the Bharata rathas and was the one who brought delight to all the Bharatas. He was supreme among those who knew about weapons and he invoked the agneya weapon. A mass of blazing arrows was released by the one who wielded a blazing bow. But Dhananjaya repulsed that mass of arrows with his net of arrows. Weapon was countered by weapon and these arrows preserved life.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“At this time, having slain the powerful samshaptakas, Jishnu arrived at the spot where Drona was crushing the Pandus. He had crossed many whirlpools made out of arrows and giant lakes made out of blood. Having crossed them and having killed the samshaptakas, Phalguna showed himself. He was the accomplisher of deeds. He was like the sun in his energy. The one with the monkey on his banner was seen to be radiant in his energy. He had dried up the ocean of the samshaptakas with the rays of his weapons. Pandava now scorched the Kurus, like the sun at the destruction of a yuga. All the Kurus were burnt by the energy of Arjuna's weapons, like a comet that has arisen and destroys all beings at the end of a yuga{121}. Elephants, horses, rathas and warriors were struck by the thousands of arrows released by him and oppressed by these arrows, discarded their weapons and fell down on the ground. Some wailed in lamentation. Still others roared. Slain by Partha's arrows, some fell down, deprived of their lives. Remembering the vow of warriors, Arjuna did not kill the warriors who had fallen down, or were falling down, or were retreating. Most of the Kurus were shattered and, devoid of their chariots, were in retreat. They called upon Karna for protection. On discerning the lamentation and the cries for refuge, Adhiratha's son assured them that they need not be frightened and advanced in Arjuna's direction. He was foremost among all the Bharata rathas and was the one who brought delight to all the Bharatas. He was supreme among those who knew about weapons and he invoked the agneya weapon. A mass of blazing arrows was released by the one who wielded a blazing bow. But Dhananjaya repulsed that mass of arrows with his net of arrows. Weapon was countered by weapon and these arrows preserved life.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dhrishtadyumna, Bhima and maharatha Satyaki approached Karna and each pierced him with three swift arrows. Radheya countered Arjuna's weapon with his own shower of arrows. He then used three tufted arrows to sever the bows of those three. With their weapons gone, those brave ones were like snakes without venom. They hurled javelins from their chariots and roared like lions. Those javelins hurled from their arms were immensely forceful. Those mighty javelins were like snakes and blazed. They descended towards the chariot of Adhiratha's son. But Karna severed them with three swift arrows and powerfully shooting arrows at Partha, roared. Arjuna pierced Radheya with seven swift arrows. With three sharp arrows, he then killed Karna's younger brother. Partha killed Shatrunjaya with six arrows. As Vipatha stood on his chariot, he severed his head with a broad-headed arrow{122}. While the sons of Dhritarashtra looked on, Kiriti single-handedly killed the three, who were foremost among the brothers of the son of the suta. Bhima leapt down from his chariot, like Vinata's son{123}. With a supreme sword, he killed the ﬁfteen who were guarding Karna's ﬂank. He then again ascended his chariot and grasped another bow. He pierced Karna with ten arrows and his charioteer and horses with ﬁve. Dhrishtadyumna grasped a supreme sword and a lustrous shield. With these, he killed Chandravarma and Pourava Brihatkshatra. Panchala then ascended his chariot and grasped another bow. In that battle, he pierced Karna with seventy-three arrows and roared. Shini's descendant grasped another bow that was like Indra's weapon in its radiance. He pierced the suta's son with sixty-four arrows and roared like a lion. With two broad-headed arrows that were released well, he severed Karna's bow. He again pierced Karna in the arms and the chest with three arrows. Radheya was about to be submerged in the ocean that Satyaki represented. At this, Duryodhana, Drona and King Jayadratha rescued him. Dhrishtadyumna, Bhima, Subhadra's son, Arjuna himself, Nakula and Sahadeva began to protect Satyaki in that battle.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dhrishtadyumna, Bhima and maharatha Satyaki approached Karna and each pierced him with three swift arrows. Radheya countered Arjuna's weapon with his own shower of arrows. He then used three tufted arrows to sever the bows of those three. With their weapons gone, those brave ones were like snakes without venom. They hurled javelins from their chariots and roared like lions. Those javelins hurled from their arms were immensely forceful. Those mighty javelins were like snakes and blazed. They descended towards the chariot of Adhiratha's son. But Karna severed them with three swift arrows and powerfully shooting arrows at Partha, roared. Arjuna pierced Radheya with seven swift arrows. With three sharp arrows, he then killed Karna's younger brother. Partha killed Shatrunjaya with six arrows. As Vipatha stood on his chariot, he severed his head with a broad-headed arrow{122}. While the sons of Dhritarashtra looked on, Kiriti single-handedly killed the three, who were foremost among the brothers of the son of the suta. Bhima leapt down from his chariot, like Vinata's son{123}. With a supreme sword, he killed the ﬁfteen who were guarding Karna's ﬂank. He then again ascended his chariot and grasped another bow. He pierced Karna with ten arrows and his charioteer and horses with ﬁve. Dhrishtadyumna grasped a supreme sword and a lustrous shield. With these, he killed Chandravarma and Pourava Brihatkshatra. Panchala then ascended his chariot and grasped another bow. In that battle, he pierced Karna with seventy-three arrows and roared. Shini's descendant grasped another bow that was like Indra's weapon in its radiance. He pierced the suta's son with sixty-four arrows and roared like a lion. With two broad-headed arrows that were released well, he severed Karna's bow. He again pierced Karna in the arms and the chest with three arrows. Radheya was about to be submerged in the ocean that Satyaki represented. At this, Duryodhana, Drona and King Jayadratha rescued him. Dhrishtadyumna, Bhima, Subhadra's son, Arjuna himself, Nakula and Sahadeva began to protect Satyaki in that battle.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Thus the extremely terrible battle between those on your side and that of the enemy raged. It was destructive of all archers. They were prepared to give up their lives. Infantry, chariots, elephants and horses fought with elephants, horses, chariots and infantry. Chariots fought with elephants and infantry, chariots fought with infantry and chariots fought with elephants. Horses fought with horses, elephants with elephants and chariots with chariots. Infantry was seen to be engaged with infantry. Thus did that extremely ﬁerce battle continue and it caused delight to ﬂesh-eating creatures. Those great warriors were without fear and this extended Yama's kingdom. Many men, rathas, horses and elephants were killed there by elephants, rathas, horses and infantry. Elephants were killed by elephants, rathas by armed rathas, horses by horses and large numbers of infantry by infantry. Elephants were slain by rathas, giant horses by the best of elephants, men by horses and horses by the supreme of rathas. Tongues were lolling out. Teeth and eyes were gouged out. Armour and ornaments were shattered. Destroyed, they fell down on the ground. There were many others who were struck down by the best of warriors. They fell down on the ground with fearful visages. They were mangled and crushed by the feet of horses and elephants. They were severely hurt and wounded by the wheels of chariots and hooves. It brought delight to carnivorous beasts, birds and ﬂesh-eaters. There was a terrible carnage of people there. Those extremely strong ones were angry. Using the utmost of their energy, they sought to kill each other. When the strength of both sides was severely diminished, they glanced towards each other, their bodies drenched with blood. The sun was stationed above the mountain on which it sets. O descendant of the Bharata lineage! The armies retreated to their respective camps.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Thus the extremely terrible battle between those on your side and that of the enemy raged. It was destructive of all archers. They were prepared to give up their lives. Infantry, chariots, elephants and horses fought with elephants, horses, chariots and infantry. Chariots fought with elephants and infantry, chariots fought with infantry and chariots fought with elephants. Horses fought with horses, elephants with elephants and chariots with chariots. Infantry was seen to be engaged with infantry. Thus did that extremely ﬁerce battle continue and it caused delight to ﬂesh-eating creatures. Those great warriors were without fear and this extended Yama's kingdom. Many men, rathas, horses and elephants were killed there by elephants, rathas, horses and infantry. Elephants were killed by elephants, rathas by armed rathas, horses by horses and large numbers of infantry by infantry. Elephants were slain by rathas, giant horses by the best of elephants, men by horses and horses by the supreme of rathas. Tongues were lolling out. Teeth and eyes were gouged out. Armour and ornaments were shattered. Destroyed, they fell down on the ground. There were many others who were struck down by the best of warriors. They fell down on the ground with fearful visages. They were mangled and crushed by the feet of horses and elephants. They were severely hurt and wounded by the wheels of chariots and hooves. It brought delight to carnivorous beasts, birds and ﬂesh-eaters. There was a terrible carnage of people there. Those extremely strong ones were angry. Using the utmost of their energy, they sought to kill each other. When the strength of both sides was severely diminished, they glanced towards each other, their bodies drenched with blood. The sun was stationed above the mountain on which it sets. O descendant of the Bharata lineage! The armies retreated to their respective camps.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

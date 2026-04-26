@@ -1,0 +1,55 @@
+{
+  "name": "Shalya Parva",
+  "parva_number": 9,
+  "details": {
+    "num_subparvas": 4,
+    "num_chapters": 64,
+    "num_shlokas": 3315
+  },
+  "subparvas": {
+    "74": {
+      "subparva_number": 74,
+      "name": "Shalya-vadha Parva",
+      "source_volume": 7,
+      "details": {
+        "num_chapters": 16,
+        "num_shlokas": 844
+      },
+      "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+      "file": "parva_09_shalya_parva/subparva_74_shalya_vadha_parva/subparva_74_shalya_vadha_parva.json"
+    },
+    "75": {
+      "subparva_number": 75,
+      "name": "Hrada-pravesha Parva",
+      "source_volume": 7,
+      "details": {
+        "num_chapters": 12,
+        "num_shlokas": 664
+      },
+      "note": "",
+      "file": "parva_09_shalya_parva/subparva_75_hrada_pravesha_parva/subparva_75_hrada_pravesha_parva.json"
+    },
+    "76": {
+      "subparva_number": 76,
+      "name": "Tirtha-yatra Parva",
+      "source_volume": 7,
+      "details": {
+        "num_chapters": 25,
+        "num_shlokas": 1261
+      },
+      "note": "The chapters have two numbers, the first being the sequential numbering of the chapters right from the beginning. The second one, the num-ber within brackets, is the sequential numbering of the chapters within Aranyaka Parva. Tirtha means a sacred place of pilgrimage and yatra means a journey. This section is thus primarily about the journey to sacred places of pilgrimage like Pushkara, Prabhasa, Dvaravati, Vinasana, Rudrakoti, Kurukshetra, Mrigadhuma, Naimisha, Saptasarasvata, Prithudaka, Samnihiti, Shakambhari, Suvarnaksha, Varanasi, Gaya, Shalagrama, Rishabha, Gokarna, Prayaga, Gandhamadana and Kailasa. It also has the stories of Agastya, Tndra and Vritra, Sagara and Bhagiratha, Rishyashringa, Parashurama and Kartyavirya, Chyavana and Sukanya, Mandhata, Jantu, Shibi Ushinara, Ashtavakra, Yavakrita and the account of the encounter between Hanuman and Bhima.",
+      "file": "parva_09_shalya_parva/subparva_76_tirtha_yatra_parva/subparva_76_tirtha_yatra_parva.json"
+    },
+    "77": {
+      "subparva_number": 77,
+      "name": "Gada-yuddha Parva",
+      "source_volume": 7,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 546
+      },
+      "note": "Yuddha means battle or fight and the section is named after a fight between Bhima and the yakshas. In this section, the Pandavas visit the sage Vrishaparva on Mount Gandhamadana and then travel to the hermitage of the sage Arshtishena, where they dwell, waiting for Arjuna�s return. Reminiscent of Section 33, Droupadi sends Bhima to search for celestial ?owers. Bhima fights with yakshas and rakshasas and kills the rakshasa Maniman. The Pandavas meet Kubera and Tndra. Arjuna returns and recounts his adventures, repeating much of what has al-ready been said in Sections 37 and 32 (Volume 7). These parts of Section 35 are not only repetitive, and sometimes inconsistent, they don�t quite seem to belong. The only new information is about Arjuna�s fight with the nivatakavacha demons and the demons who inhabited Hiranyapura.",
+      "file": "parva_09_shalya_parva/subparva_77_gada_yuddha_parva/subparva_77_gada_yuddha_parva.json"
+    }
+  }
+}

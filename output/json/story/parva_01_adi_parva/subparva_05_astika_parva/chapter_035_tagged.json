@@ -1,0 +1,139 @@
+{
+  "chapter_number": 35,
+  "global_number": 35,
+  "local_number": 35,
+  "num_shlokas": 13,
+  "paragraphs": {
+    "1": {
+      "raw": "Souti said, ‘O best of the twice-born! When the snakes heard Elapatra’s words, they were delighted, and applauded. From that day, Vasuki took great care of that maiden Jaratkaru, his sister, and was relieved. Not long after this, all the gods and the asuras churned Varuna’s abode{115}. The serpent Vasuki, strongest of the strong, became the rope used for churning. After this work was over, he appeared before the grandfather. The gods and Vasuki told the grandfather, “O illustrious lord! Vasuki is suffering because of the fear of the curse. O God! He desires the welfare of his relatives, but the spike from his mother’s curse pierces his heart. Please draw it out. The king of the snakes always does that which is pleasing to us and is our benefactor. O lord of the gods! Please grant him a favour and pacify the fever in his mind.”",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Souti said,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘O best of the twice-born! When the snakes heard Elapatra’s words, they were delighted, and applauded. From that day, Vasuki took great care of that maiden Jaratkaru, his sister, and was relieved. Not long after this, all the gods and the asuras churned Varuna’s abode{115}. The serpent Vasuki, strongest of the strong, became the rope used for churning. After this work was over, he appeared before the grandfather.",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "The gods and Vasuki told the grandfather",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_gods_and_vasuki",
+          "text": "“O illustrious lord! Vasuki is suffering because of the fear of the curse. O God! He desires the welfare of his relatives, but the spike from his mother’s curse pierces his heart. Please draw it out. The king of the snakes always does that which is pleasing to us and is our benefactor. O lord of the gods! Please grant him a favour and pacify the fever in his mind.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Brahma said, “O immortal ones! I have myself mentally thought about what you have said and had earlier inspired the snake Elapatra to utter those words. The time has come. Let the king of the snakes carry out those words. Only the wicked ones will be destroyed, not those who follow the path of dharma. The Brahmana Jaratkaru has been born and is engaged in austerities. At the appropriate time, let him{116} give away his sister Jaratkaru. O gods! What the snake Elapatra proposed for the welfare of the snakes is true. It cannot be otherwise.”’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "Brahma said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@brahma",
+          "text": "“O immortal ones! I have myself mentally thought about what you have said and had earlier inspired the snake Elapatra to utter those words. The time has come. Let the king of the snakes carry out those words. Only the wicked ones will be destroyed, not those who follow the path of dharma. The Brahmana Jaratkaru has been born and is engaged in austerities. At the appropriate time, let him{116} give away his sister Jaratkaru. O gods! What the snake Elapatra proposed for the welfare of the snakes is true. It cannot be otherwise.”",
+          "color": "#854ED9",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "Souti said, ‘On hearing the grandfather’s words, the king of the snakes appointed a large number of snakes to keep a continuous watch on Jaratkaru. He said, “When Lord Jaratkaru exhibits the desire for a wife, come immediately and inform me. Our future welfare depends on this.”’",
+      "frame": 0,
+      "speaker": "@ugrasrava",
+      "speaker_name": "Souti",
+      "color": "#E8B86D",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "Souti said,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "‘On hearing the grandfather’s words,",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@ugrasrava",
+          "text": "the king of the snakes appointed a large number of snakes to keep a continuous watch on Jaratkaru. He said",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_king_of_the_snakes",
+          "text": "“When Lord Jaratkaru exhibits the desire for a wife, come immediately and inform me. Our future welfare depends on this.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@ugrasrava",
+          "text": "’",
+          "color": "#E8B86D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

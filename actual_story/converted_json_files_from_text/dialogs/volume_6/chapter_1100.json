@@ -1,0 +1,236 @@
+{
+  "chapter": 1100,
+  "local": 123,
+  "shlokas": 41,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “O Sanjaya! When this was the state of the brave ones on my side, what did Bhima do? O Sanjaya! Tell me everything about that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Sanjaya! When this was the state of the brave ones on my side, what did Bhima do? O Sanjaya! Tell me everything about that.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “After Bhimasena was rendered without a chariot and made to suffer the stakes that were Karna's words, he was overcome by great intolerance and spoke these words to Phalguna. ‘O Dhananjaya! While you looked on, Karna repeatedly told me that I was a eunuch and stupid and that I was a glutton. He said that I did not possess skills with a weapon and that I should not ﬁght. He said that I was a child who got distressed in battle. O descendant of the Bharata lineage! Someone who speaks to me in this way will be killed by me. O mighty-armed one! You know the vows that you and I have taken together. O Kounteya! There is no doubt that what they mean to you, are also what they mean to me{20}. O best of men! Remembering my words, kill him. O Dhananjaya! Act so that your pledge comes true.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“After Bhimasena was rendered without a chariot and made to suffer the stakes that were Karna's words, he was overcome by great intolerance and spoke these words to Phalguna. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Dhananjaya! While you looked on, Karna repeatedly told me that I was a eunuch and stupid and that I was a glutton. He said that I did not possess skills with a weapon and that I should not ﬁght. He said that I was a child who got distressed in battle. O descendant of the Bharata lineage! Someone who speaks to me in this way will be killed by me. O mighty-armed one! You know the vows that you and I have taken together. O Kounteya! There is no doubt that what they mean to you, are also what they mean to me{20}. O best of men! Remembering my words, kill him. O Dhananjaya! Act so that your pledge comes true.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Having heard the words of the inﬁnitely valorous Bhima, Arjuna advanced towards Karna in that battle and spoke to him. ‘O Karna! O Karna! O son of a suta! Your sight is useless. You praise yourself. O one whose intelligence is based on adharma! Listen to what I am going to tell you now. There are two outcomes brave ones face in a battle, victory or defeat. O Radheya! That is always the case, even if Vasava himself were to ﬁght. You were rendered close to death by Yuyudhana. You were without a chariot and exposed. Through chance, you deprived Bhimasena of his chariot. O Radheya! But the words that you spoke to Bhima were adharma. The brave ones who know about the dharma of ﬁghting protect, to the best of their capacity, those who are running away at the end of a battle. In the battle, when all the soldiers looked on and so did Keshava and I, there were several occasions when Bhimasena robbed you of a chariot. However, the descendant of the Pandu lineage did not utter a single harsh word to you. But you made Vrikodara hear many harsh words. And when he was not in my sight, you killed Subhadra's son. You will reap the fruits of those offences today. O evil-minded one! It was for your own destruction that you severed his{21} bow then. O foolish one! You will be killed by me, with your servants, soldiers and mounts. Do everything that you wish to, because a great calamity confronts you. In your very sight, I will kill Vrishasena{22} in this battle. If any of these other kings are confused in their intelligence and advance against me, I will kill all of them. I swear this truthfully, on my weapons. You are stupid and devoid of wisdom. But you pride yourself in this battle. On seeing you brought down, the wicked Duryodhana will lament grievously.’ When Arjuna swore that he would kill Karna's son, a great and tumultuous uproar arose among all the rathas. There was great fear in that ﬁerce battle. The rays of the thousand-rayed one became dim as it approached the mountain{23}.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Having heard the words of the inﬁnitely valorous Bhima, Arjuna advanced towards Karna in that battle and spoke to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Karna! O Karna! O son of a suta! Your sight is useless. You praise yourself. O one whose intelligence is based on adharma! Listen to what I am going to tell you now. There are two outcomes brave ones face in a battle, victory or defeat. O Radheya! That is always the case, even if Vasava himself were to ﬁght. You were rendered close to death by Yuyudhana. You were without a chariot and exposed. Through chance, you deprived Bhimasena of his chariot. O Radheya! But the words that you spoke to Bhima were adharma. The brave ones who know about the dharma of ﬁghting protect, to the best of their capacity, those who are running away at the end of a battle. In the battle, when all the soldiers looked on and so did Keshava and I, there were several occasions when Bhimasena robbed you of a chariot. However, the descendant of the Pandu lineage did not utter a single harsh word to you. But you made Vrikodara hear many harsh words. And when he was not in my sight, you killed Subhadra's son. You will reap the fruits of those offences today. O evil-minded one! It was for your own destruction that you severed his{21} bow then. O foolish one! You will be killed by me, with your servants, soldiers and mounts. Do everything that you wish to, because a great calamity confronts you. In your very sight, I will kill Vrishasena{22} in this battle. If any of these other kings are confused in their intelligence and advance against me, I will kill all of them. I swear this truthfully, on my weapons. You are stupid and devoid of wisdom. But you pride yourself in this battle. On seeing you brought down, the wicked Duryodhana will lament grievously.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When Arjuna swore that he would kill Karna's son, a great and tumultuous uproar arose among all the rathas. There was great fear in that ﬁerce battle. The rays of the thousand-rayed one became dim as it approached the mountain{23}.",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O king! Hrishikesha was stationed at the head of the battle. He embraced Bibhatsu, who had accomplished his pledge, and said, ‘O Jishnu! It is through good fortune that your great vow has been accomplished. It is through good fortune that the wicked Vriddhakshatra has been slain, together with his son. O descendant of the Bharata lineage! Confronting the army of the sons of Dhritarashtra in battle, even the army of the gods would lose its senses. O Jishnu! One should not doubt this. O tiger among men! Even if I think about it, I do not see any other man in the worlds who is your equal, in terms of ﬁghting with this army. There are many who are extremely powerful, your equals and superiors. These lords of the earth have assembled because of the son of Dhritarashtra. They are armoured. But they could not advance against your angry person in the battle. Your valour and strength are like that of Rudra and the Destroyer. There is no one else who could have exhibited such valour in battle. O unblemished one! O scorcher of enemies! There is no one like you and you accomplished this alone. Once the evil-minded Karna has been killed, with his followers, and you have defeated and slain that enemy, I will praise you even more.’ Arjuna replied, ‘O Madhava! It is through your favours that this vow of mine has been accomplished. It was one that even the gods would have found difﬁcult to fulﬁl. O Madhava! This victory is not a surprise for those who have you as a protector. It is through your favours that Yudhishthira will obtain the entire earth. O Varshneya! O lord! This is because of your power. This victory is yours. O Madhusudana! Our prosperity has been brought by you.’ Having been thus addressed, Krishna smiled gently and urged the steeds slowly, showing Partha the ﬁeld of battle, in all its cruelty.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O king! Hrishikesha was stationed at the head of the battle. He embraced Bibhatsu, who had accomplished his pledge, and said, ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Jishnu! It is through good fortune that your great vow has been accomplished. It is through good fortune that the wicked Vriddhakshatra has been slain, together with his son. O descendant of the Bharata lineage! Confronting the army of the sons of Dhritarashtra in battle, even the army of the gods would lose its senses. O Jishnu! One should not doubt this. O tiger among men! Even if I think about it, I do not see any other man in the worlds who is your equal, in terms of ﬁghting with this army. There are many who are extremely powerful, your equals and superiors. These lords of the earth have assembled because of the son of Dhritarashtra. They are armoured. But they could not advance against your angry person in the battle. Your valour and strength are like that of Rudra and the Destroyer. There is no one else who could have exhibited such valour in battle. O unblemished one! O scorcher of enemies! There is no one like you and you accomplished this alone. Once the evil-minded Karna has been killed, with his followers, and you have defeated and slain that enemy, I will praise you even more.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Arjuna replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Madhava! It is through your favours that this vow of mine has been accomplished. It was one that even the gods would have found difﬁcult to fulﬁl. O Madhava! This victory is not a surprise for those who have you as a protector. It is through your favours that Yudhishthira will obtain the entire earth. O Varshneya! O lord! This is because of your power. This victory is yours. O Madhusudana! Our prosperity has been brought by you.’",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having been thus addressed, Krishna smiled gently and urged the steeds slowly, showing Partha the ﬁeld of battle, in all its cruelty.",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Krishna said, ‘Desiring victory in the battle and great fame, there are many brave kings who are lying down on the ground, struck by your arrows. Their weapons and ornaments are strewn around. Horses, chariots and elephants are in distress. Their armour has been shattered and they are faced with great grief. Some are still alive. Others have lost their lives. But even the kings who are dead seem to be alive because of the supreme radiance that they possess. Their arrows are gold-tufted and they have many sharp weapons. Look. The earth is covered with mounts and weapons. There are armour, shields, garlands and heads decorated with earrings. There are headdresses and crowns, garlands of ﬂowers and jewels that are worn on crowns. There are strings around the neck and armlets, extremely radiant and made out of gold. O descendant of the Bharata lineage! There are many other colourful ornaments that make the earth beautiful. There are fans and whisks and colourful standards, horses, chariots and elephants. Many cushions from the horses are scattered around. There are different kinds of carpets and extremely expensive bumpers. Behold. The earth is littered with these and looks like a picture. Those who rode on elephants have been fallen down, along with the elephants. They look like lions that have been dislodged from mountain peaks by thunder. Look at the others. There are horse riders on the earth, together with the horses. There are large numbers of foot soldiers and infantry, their bodies covered with wounds.’ Having shown Kiriti the ﬁeld of battle, Krishna blew on Panchajanya, delighting those who had assembled on their side.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Krishna said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Desiring victory in the battle and great fame, there are many brave kings who are lying down on the ground, struck by your arrows. Their weapons and ornaments are strewn around. Horses, chariots and elephants are in distress. Their armour has been shattered and they are faced with great grief. Some are still alive. Others have lost their lives. But even the kings who are dead seem to be alive because of the supreme radiance that they possess. Their arrows are gold-tufted and they have many sharp weapons. Look. The earth is covered with mounts and weapons. There are armour, shields, garlands and heads decorated with earrings. There are headdresses and crowns, garlands of ﬂowers and jewels that are worn on crowns. There are strings around the neck and armlets, extremely radiant and made out of gold. O descendant of the Bharata lineage! There are many other colourful ornaments that make the earth beautiful. There are fans and whisks and colourful standards, horses, chariots and elephants. Many cushions from the horses are scattered around. There are different kinds of carpets and extremely expensive bumpers. Behold. The earth is littered with these and looks like a picture. Those who rode on elephants have been fallen down, along with the elephants. They look like lions that have been dislodged from mountain peaks by thunder. Look at the others. There are horse riders on the earth, together with the horses. There are large numbers of foot soldiers and infantry, their bodies covered with wounds.’",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having shown Kiriti the ﬁeld of battle, Krishna blew on Panchajanya, delighting those who had assembled on their side.”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

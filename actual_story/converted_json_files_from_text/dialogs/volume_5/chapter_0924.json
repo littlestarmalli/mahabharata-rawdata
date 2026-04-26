@@ -1,0 +1,129 @@
+{
+  "chapter": 924,
+  "local": 64,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Bhishma said, ‘O great king! Hear this hymn from me. It was chanted by Brahma himself and, in ancient times, recounted to those on earth by the brahmarshis and the gods. “You are the god of the sadhyas. You are the illustrious god who is the lord of all the gods. You know about the creator of the worlds. Thus did Narada speak about you. Markandeya has described you as the past, the present and the future. You are the sacriﬁce among all sacriﬁces. You are austerity among all austerities. You are the god of all the gods. Thus did the illustrious Bhrigu describe you. You are the terrible and ancient form of Vishnu, the lord of all beings. You are Vasudeva among the Vasus. You are the one who established Shakra. You are the god of the gods and the god of all beings. Thus did Dvaipayana speak of you. In earlier times, at the time of the creation of all beings, you have been spoken of as Daksha Prajapati. You are the creator of all the worlds. Thus did Angiras speak of you. That which is not manifest is your body. That which is manifest is established in your mind. The gods have been created from your words. Thus did Devala speak of you. Your head extends up to heaven. Your two arms hold up the earth. The three worlds are in your stomach. You are the eternal Purusha. Men who are puriﬁed through austerities know of you in this way. To rishis who are satisﬁed with knowledge of the soul, you are truth. O Madhusudana! You are sole refuge of generous royal sages who do not retreat from the ﬁeld of battle and who resort to the supreme forms of dharma.” O son! This is the nature of Keshava and I have recounted it you, both brieﬂy and in detail. With affection in your mind, turn towards Keshava.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great king! Hear this hymn from me. It was chanted by Brahma himself and, in ancient times, recounted to those on earth by the brahmarshis and the gods. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“You are the god of the sadhyas. You are the illustrious god who is the lord of all the gods. You know about the creator of the worlds. Thus did Narada speak about you. Markandeya has described you as the past, the present and the future. You are the sacriﬁce among all sacriﬁces. You are austerity among all austerities. You are the god of all the gods. Thus did the illustrious Bhrigu describe you. You are the terrible and ancient form of Vishnu, the lord of all beings. You are Vasudeva among the Vasus. You are the one who established Shakra. You are the god of the gods and the god of all beings. Thus did Dvaipayana speak of you. In earlier times, at the time of the creation of all beings, you have been spoken of as Daksha Prajapati. You are the creator of all the worlds. Thus did Angiras speak of you. That which is not manifest is your body. That which is manifest is established in your mind. The gods have been created from your words. Thus did Devala speak of you. Your head extends up to heaven. Your two arms hold up the earth. The three worlds are in your stomach. You are the eternal Purusha. Men who are puriﬁed through austerities know of you in this way. To rishis who are satisﬁed with knowledge of the soul, you are truth. O Madhusudana! You are sole refuge of generous royal sages who do not retreat from the ﬁeld of battle and who resort to the supreme forms of dharma.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O son! This is the nature of Keshava and I have recounted it you, both brieﬂy and in detail. With affection in your mind, turn towards Keshava.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O great king! Having heard this sacred account, your son formed a high opinion of Keshava and the maharatha Pandavas. O great king! Bhishma, Shantanu's son, again spoke to him. ‘O son! You have heard about the glory of the great-souled Keshava and about the essence of Nara. You had asked me about them. You have heard about the reasons why Nara and Narayana have been born among men and why those two brave ones cannot be vanquished or slain in battle. O king! Nor can the Pandavas be worsted in battle. Krishna is ﬁrm in his devotion to the illustrious Pandavas. O Indra among kings! That is the reason I am telling you that you should strive for peace with the Pandavas. Enjoy the earth, with your powerful brothers around you. If you disregard the gods Nara and Narayana, you will be destroyed.’ O lord of the earth! Having spoken in this way, your father became silent. Having taken his leave of the king, he left to sleep for the night. The great-souled king bowed to him and left for his own camp. O bull among the Bharata lineage! He spent the night on a white bed.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! Having heard this sacred account, your son formed a high opinion of Keshava and the maharatha Pandavas. O great king! Bhishma, Shantanu's son, again spoke to him. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! You have heard about the glory of the great-souled Keshava and about the essence of Nara. You had asked me about them. You have heard about the reasons why Nara and Narayana have been born among men and why those two brave ones cannot be vanquished or slain in battle. O king! Nor can the Pandavas be worsted in battle. Krishna is ﬁrm in his devotion to the illustrious Pandavas. O Indra among kings! That is the reason I am telling you that you should strive for peace with the Pandavas. Enjoy the earth, with your powerful brothers around you. If you disregard the gods Nara and Narayana, you will be destroyed.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O lord of the earth! Having spoken in this way, your father became silent. Having taken his leave of the king, he left to sleep for the night. The great-souled king bowed to him and left for his own camp. O bull among the Bharata lineage! He spent the night on a white bed.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

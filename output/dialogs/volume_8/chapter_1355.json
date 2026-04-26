@@ -1,0 +1,199 @@
+{
+  "chapter": 1355,
+  "local": 27,
+  "shlokas": 32,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “Abhimanyu was a child and was killed. So were the sons of Droupadi, Dhrishtadyumna and the two lords of the earth, Virata and Drupada. In the battle, so were Vasushena{186}, knowledgeable about dharma, King Dhrishtaketu and other kings who had come from many countries. I am unable to free myself from the sorrow of having caused the slaughter of my relatives. I am tormented. Because of my ﬁerce greed for the kingdom, I have brought about the destruction of my own lineage. I played on Gangeya's{187} lap and rolled around there. Because of my greed for the kingdom, I have brought him down. I saw him whirled around by Partha's{188} arrows, trembling as if he had been struck by thunder, but glancing only towards Shikhandi. The tall grandfather, lion among men, was like an aged lion. When I saw him covered by sharp arrows, my mind was distressed. Because of the arrows, he fell down from his chariot. He sat down, facing the east, whirled around like a mountain. At that time, I was overcome by dejection. With a bow and arrows in his hand, Kouravya fought for many days with Bhargava, in a great battle in Kurukshetra{189}. For the sake of the maidens, in Varanasi, the brave son of the river had single-handedly fought a battle against the assembled kshatriya kings{190}. With the power of his weapons, he had scorched the unassailable king and emperor, Ugrayudha{191}. He has been brought down by me in the battle. He could himself decide on his time of death. Using his arrows, he did not bring down Panchala Shikhandi, but was brought down by Arjuna. O supreme among sages{192}! When I saw him lying down on the ground, covered in blood, a terrible fever overcame me. As children, we were protected and reared by him. I was wicked and greedy for the kingdom. I have slain my senior. For the sake of a temporary kingdom, I have foolishly killed him.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Abhimanyu was a child and was killed. So were the sons of Droupadi, Dhrishtadyumna and the two lords of the earth, Virata and Drupada. In the battle, so were Vasushena{186}, knowledgeable about dharma, King Dhrishtaketu and other kings who had come from many countries. I am unable to free myself from the sorrow of having caused the slaughter of my relatives. I am tormented. Because of my ﬁerce greed for the kingdom, I have brought about the destruction of my own lineage. I played on Gangeya's{187} lap and rolled around there. Because of my greed for the kingdom, I have brought him down. I saw him whirled around by Partha's{188} arrows, trembling as if he had been struck by thunder, but glancing only towards Shikhandi. The tall grandfather, lion among men, was like an aged lion. When I saw him covered by sharp arrows, my mind was distressed. Because of the arrows, he fell down from his chariot. He sat down, facing the east, whirled around like a mountain. At that time, I was overcome by dejection. With a bow and arrows in his hand, Kouravya fought for many days with Bhargava, in a great battle in Kurukshetra{189}. For the sake of the maidens, in Varanasi, the brave son of the river had single-handedly fought a battle against the assembled kshatriya kings{190}. With the power of his weapons, he had scorched the unassailable king and emperor, Ugrayudha{191}. He has been brought down by me in the battle. He could himself decide on his time of death. Using his arrows, he did not bring down Panchala Shikhandi, but was brought down by Arjuna. O supreme among sages{192}! When I saw him lying down on the ground, covered in blood, a terrible fever overcame me. As children, we were protected and reared by him. I was wicked and greedy for the kingdom. I have slain my senior. For the sake of a temporary kingdom, I have foolishly killed him.",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The great archer, the preceptor, was worshipped by all the kings. I advanced against him in the battle and wickedly lied to him about his son{193}. My limbs burn because the preceptor told me, ‘O king! Tell me truthfully whether my son is alive.’ Expecting that I would speak the truth, the brahmana asked me. I lied, by hiding the fact that it was an elephant. Because of my extreme avarice for the kingdom, I was evil and caused the death of my preceptor. In the battle, I put a cloak on the truth. I told my preceptor, ‘Ashvatthama has been killed,’ though it was an elephant that had been brought down. Having perpetrated such a terrible deed, what worlds will I go to now?",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The great archer, the preceptor, was worshipped by all the kings. I advanced against him in the battle and wickedly lied to him about his son{193}. My limbs burn because the preceptor told me, ",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Tell me truthfully whether my son is alive.’",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Expecting that I would speak the truth, the brahmana asked me. I lied, by hiding the fact that it was an elephant. Because of my extreme avarice for the kingdom, I was evil and caused the death of my preceptor. In the battle, I put a cloak on the truth. I told my preceptor, ",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Ashvatthama has been killed,’",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " though it was an elephant that had been brought down. Having perpetrated such a terrible deed, what worlds will I go to now?",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Karna did not retreat from the battle and I caused him to be killed. He was my ﬁerce elder brother. Who is more evil-acting than me?",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Karna did not retreat from the battle and I caused him to be killed. He was my ﬁerce elder brother. Who is more evil-acting than me?",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Abhimanyu was a child. He was like a lion born in the mountains. In my greed, I made him penetrate the formation that was protected by Drona. I have been as guilty as one who kills a foetus. Since then, I have not been able to glance at Bibhatsu or Pundarikaksha Krishna. I feel extremely sorry for Droupadi. Her ﬁve sons have been killed. She is oppressed by grief and is like the earth when it has lost ﬁve mountains. I have my share in the sins. I am the destroyer of the earth. Seated here, I will dry up my body. Know that I am the slayer of my seniors. I will fast to death here, so that I am not reborn as a destroyer of the lineage{194}. I will not eat or drink anything. O one who is rich in austerities! Right here, I will dry up my beloved breath of life. Go wherever you wish and grant me this permission. I seek everyone's leave, so that I can cast aside this body.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Abhimanyu was a child. He was like a lion born in the mountains. In my greed, I made him penetrate the formation that was protected by Drona. I have been as guilty as one who kills a foetus. Since then, I have not been able to glance at Bibhatsu or Pundarikaksha Krishna. I feel extremely sorry for Droupadi. Her ﬁve sons have been killed. She is oppressed by grief and is like the earth when it has lost ﬁve mountains. I have my share in the sins. I am the destroyer of the earth. Seated here, I will dry up my body. Know that I am the slayer of my seniors. I will fast to death here, so that I am not reborn as a destroyer of the lineage{194}. I will not eat or drink anything. O one who is rich in austerities! Right here, I will dry up my beloved breath of life. Go wherever you wish and grant me this permission. I seek everyone's leave, so that I can cast aside this body.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Partha was distracted because of sorrow on account of his relatives. Vyasa, supreme among sages, restrained him and said, “O great king! You should not indulge in this excessive sorrow. O lord! I am telling you again that all this was destiny. The union and separation of living beings is certain. They are like bubbles in the water, which are there, and then are not there. Everything ends in destruction. They rise, accumulate and then fall. Union ends in dissolution. Death is the end of life. Laziness brings temporary happiness, but ends in sorrow. Industry may seem to lead to sorrow, but gives rise to happiness. Afﬂuence, prosperity, modesty, fortitude and success are based on industriousness. Well-wishers do not ensure happiness. Ill-wishers do not ensure sorrow. Wisdom does not ensure artha. Nor is happiness ensured by wealth. O Kounteya! You have been created by the creator for tasks. Undertake them. O king! Success results from that. Otherwise, you will not have control over your atman.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Partha was distracted because of sorrow on account of his relatives. Vyasa, supreme among sages, restrained him and said, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great king! You should not indulge in this excessive sorrow. O lord! I am telling you again that all this was destiny. The union and separation of living beings is certain. They are like bubbles in the water, which are there, and then are not there. Everything ends in destruction. They rise, accumulate and then fall. Union ends in dissolution. Death is the end of life. Laziness brings temporary happiness, but ends in sorrow. Industry may seem to lead to sorrow, but gives rise to happiness. Afﬂuence, prosperity, modesty, fortitude and success are based on industriousness. Well-wishers do not ensure happiness. Ill-wishers do not ensure sorrow. Wisdom does not ensure artha. Nor is happiness ensured by wealth. O Kounteya! You have been created by the creator for tasks. Undertake them. O king! Success results from that. Otherwise, you will not have control over your atman.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

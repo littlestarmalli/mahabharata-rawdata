@@ -1,0 +1,220 @@
+{
+  "chapter": 393,
+  "local": 96,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Lomasha said, “O Kouravya! Knowing that King Shrutarvana had riches greater than those of any other king, Agastya went to him to beg for riches. Having heard of the arrival of the one who had been born in a pot{391}, the king went out with his advisers to the borders of his kingdom, to receive him with great respect. After having offered gifts to the guest in the prescribed manner, the king joined his hands in salutation and respectfully asked him about the reason for his arrival. Agastya said, ‘O lord of the earth! Know that I have come to you for riches. According to your capacity, give me a share, without taking away from others.’ Giving him a complete account of his income and expenditure, the king replied, ‘Now that you know, take from me whatever riches you desire.’ The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Lomasha said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@lomasha",
+          "introduces_label": "Lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kouravya! Knowing that King Shrutarvana had riches greater than those of any other king, Agastya went to him to beg for riches. Having heard of the arrival of the one who had been born in a pot{391}, the king went out with his advisers to the borders of his kingdom, to receive him with great respect. After having offered gifts to the guest in the prescribed manner, the king joined his hands in salutation and respectfully asked him about the reason for his arrival. Agastya said, ",
+          "speaker": "@lomasha",
+          "introduces": "@agastya",
+          "introduces_label": "Agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth! Know that I have come to you for riches. According to your capacity, give me a share, without taking away from others.’",
+          "speaker": "@agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Giving him a complete account of his income and expenditure, the king replied, ",
+          "speaker": "@lomasha",
+          "introduces": "the_king",
+          "introduces_label": "the king",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Now that you know, take from me whatever riches you desire.’",
+          "speaker": "the_king",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings.",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Therefore, taking Shrutarvana with him, he went to Vadhryashva. He received them at the borders of his kingdom, in accordance with the prescribed rites. Vadhryashva offered them the gifts due to guests and water for washing the feet, and with their permission, asked them the reason for their arrival. Agastya said, ‘O lord of the earth! Know that we have come to you with a desire for riches. According to your capacity, give us a share, without taking away from others.’ Then the king gave them a complete account of his income and expenditure and said, ‘Now that you know, take whatever is left.’ The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings. Then the three of them—Agastya, Shrutarvana and King Vadhryashva—went to Purukutsa's son Trasadasyu, the possessor of great riches. O great king! On hearing of their arrival, Trasadasyu received them, together with his mounts, at the borders of his kingdom, in the prescribed manner. The supreme of kings from the Ikshvaku lineage showed them his respects in the appropriate fashion. When they were comfortable, he asked them the reason for their arrival. Agastya said, ‘O lord of the earth! Know that we have come to you with a desire for riches. According to your capacity, give us a share, without taking away from others.’ The king gave them a complete account of his income and expenditure and said, ‘Now that you know, take whatever is left.’ The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings. O great king! Then all those kings looked at one another. Together, they spoke to the great sage, ‘O brahmana! There is a rich danava named Ilvala on earth. Let us all go to him now and ask for riches.’ O king! The thought of asking riches from Ilvala seemed to them to be a proper one. So they went to Ilvala together.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Therefore, taking Shrutarvana with him, he went to Vadhryashva. He received them at the borders of his kingdom, in accordance with the prescribed rites. Vadhryashva offered them the gifts due to guests and water for washing the feet, and with their permission, asked them the reason for their arrival. Agastya said, ",
+          "speaker": "@lomasha",
+          "introduces": "@agastya",
+          "introduces_label": "Agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth! Know that we have come to you with a desire for riches. According to your capacity, give us a share, without taking away from others.’",
+          "speaker": "@agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then the king gave them a complete account of his income and expenditure and said, ",
+          "speaker": "@lomasha",
+          "introduces": "the_king_gave_them_a_complete_account_of_his_income_and_expenditure",
+          "introduces_label": "the king gave them a complete account of his income and expenditure",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Now that you know, take whatever is left.’",
+          "speaker": "the_king_gave_them_a_complete_account_of_his_income_and_expenditure",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings. Then the three of them—Agastya, Shrutarvana and King Vadhryashva—went to Purukutsa's son Trasadasyu, the possessor of great riches. O great king! On hearing of their arrival, Trasadasyu received them, together with his mounts, at the borders of his kingdom, in the prescribed manner. The supreme of kings from the Ikshvaku lineage showed them his respects in the appropriate fashion. When they were comfortable, he asked them the reason for their arrival. Agastya said, ",
+          "speaker": "@lomasha",
+          "introduces": "@agastya",
+          "introduces_label": "Agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth! Know that we have come to you with a desire for riches. According to your capacity, give us a share, without taking away from others.’",
+          "speaker": "@agastya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The king gave them a complete account of his income and expenditure and said, ",
+          "speaker": "@lomasha",
+          "introduces": "the_king_gave_them_a_complete_account_of_his_income_and_expenditure",
+          "introduces_label": "The king gave them a complete account of his income and expenditure",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Now that you know, take whatever is left.’",
+          "speaker": "the_king_gave_them_a_complete_account_of_his_income_and_expenditure",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The brahmana looked on both sides impartially. On seeing that the income was equal to the expenditure, he thought that if he took anything away, he would cause oppression to beings. O great king! Then all those kings looked at one another. Together, they spoke to the great sage, ",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! There is a rich danava named Ilvala on earth. Let us all go to him now and ask for riches.’",
+          "speaker": "the_king_gave_them_a_complete_account_of_his_income_and_expenditure",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! The thought of asking riches from Ilvala seemed to them to be a proper one. So they went to Ilvala together.”",
+          "speaker": "@lomasha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

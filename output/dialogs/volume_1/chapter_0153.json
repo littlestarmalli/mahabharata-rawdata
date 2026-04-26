@@ -1,0 +1,105 @@
+{
+  "chapter": 153,
+  "local": 153,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya said, ‘O Brahmana! After killing the demon named Baka, what did the Pandavas, those tigers among men, do?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Brahmana! After killing the demon named Baka, what did the Pandavas, those tigers among men, do?’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O king! After killing the demon named Baka, they lived in the house of that Brahmana, engaging themselves in studies about the supreme brahman. A few days later, a Brahmana who was rigid in the practice of his vows came to live in that Brahmana's house. That learned bull among Brahmanas, always hospitable towards guests, duly worshipped him and gave him a place to live in his house. Then those bulls among men, the Pandavas, and Kunti, requested the Brahmana to tell them about his wonderful experiences. He told them about many countries, places of pilgrimage, rivers, many kings and many wonderful cities.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! After killing the demon named Baka, they lived in the house of that Brahmana, engaging themselves in studies about the supreme brahman. A few days later, a Brahmana who was rigid in the practice of his vows came to live in that Brahmana's house. That learned bull among Brahmanas, always hospitable towards guests, duly worshipped him and gave him a place to live in his house. Then those bulls among men, the Pandavas, and Kunti, requested the Brahmana to tell them about his wonderful experiences. He told them about many countries, places of pilgrimage, rivers, many kings and many wonderful cities.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O Janamejaya! When these accounts were over, the Brahmana told them about the wonderful svayamvara{1} of Yajnasena's{2} daughter in the land of Panchala and the births of Dhrishtadyumna and Shikhandi and also that of Krishna{3}, who was born from Drupada's great sacriﬁce and not from any woman's womb. Hearing of these wonderful events that had happened in this world, those bulls among men{4} asked the great-souled one{5} to narrate these accounts in greater detail. “How did Drupada's son, Dhrishtadyumna's birth take place from the ﬁre? How did Krishna's wonderful birth take place from the middle of the altar? How did he{6} learn the usage of all weapons from the great archer Drona? How did the great friendship between those two{7} break up?” O king! Having been thus asked by those bulls among men, the Brahmana recounted in detail the story of Droupadi's birth.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Janamejaya! When these accounts were over, the Brahmana told them about the wonderful svayamvara{1} of Yajnasena's{2} daughter in the land of Panchala and the births of Dhrishtadyumna and Shikhandi and also that of Krishna{3}, who was born from Drupada's great sacriﬁce and not from any woman's womb. Hearing of these wonderful events that had happened in this world, those bulls among men{4} asked the great-souled one{5} to narrate these accounts in greater detail. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“How did Drupada's son, Dhrishtadyumna's birth take place from the ﬁre? How did Krishna's wonderful birth take place from the middle of the altar? How did he{6} learn the usage of all weapons from the great archer Drona? How did the great friendship between those two{7} break up?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! Having been thus asked by those bulls among men, the Brahmana recounted in detail the story of Droupadi's birth.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

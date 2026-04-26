@@ -1,0 +1,87 @@
+{
+  "chapter": 1876,
+  "local": 41,
+  "shlokas": 5,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“‘Brahma said, “Mahat originated ﬁrst and then came Ahamkara{145}. The sense of 'I am' originated and is known as the second creation. It is said that Ahamkara is the reason behind the creation of beings. Prajapati is the essence of energy and consciousness behind the creation of subjects. He is the god who is the creator of the gods through his mental powers. He is the creator of the three worlds. This is said to be the sense of ego, ‘I am all this.’ There are sages who have cleansed their souls and are always devoted to the knowledge of adhyatma. They have obtained success and the eternal worlds through studying and sacriﬁces. The qualities are attached to the sense of Ahamkara. It is in this way that the creator of beings creates all creatures. It is this that causes all the transformations and all movement. It is through his own energy that he illuminates the universe.”’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘Brahma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brahma",
+          "introduces_label": "Brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Mahat originated ﬁrst and then came Ahamkara{145}. The sense of 'I am' originated and is known as the second creation. It is said that Ahamkara is the reason behind the creation of beings. Prajapati is the essence of energy and consciousness behind the creation of subjects. He is the god who is the creator of the gods through his mental powers. He is the creator of the three worlds. This is said to be the sense of ego, ",
+          "speaker": "@brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 5,
+          "text": "‘I am all this.’",
+          "speaker": "@brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": " There are sages who have cleansed their souls and are always devoted to the knowledge of adhyatma. They have obtained success and the eternal worlds through studying and sacriﬁces. The qualities are attached to the sense of Ahamkara. It is in this way that the creator of beings creates all creatures. It is this that causes all the transformations and all movement. It is through his own energy that he illuminates the universe.”",
+          "speaker": "@brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

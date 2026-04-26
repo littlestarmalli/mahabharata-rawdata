@@ -1,0 +1,1534 @@
+{
+  "name": "Arjuna-vanavasa Parva",
+  "subparva_number": 16,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 298
+  },
+  "note": "",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "200": {
+      "global_number": 200,
+      "local_number": 200,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya said, ‘O one blessed with the power of austerities! All those great-souled Pandavas are my ancestors. After obtaining the kingdom of Indraprastha, what did those great-souled ones do? Those ﬁve rulers of men had a common wife in Krishna{1}. How did their lawful wife Droupadi follow their wishes? How did they, the immensely fortunate ones, prevent dissension among themselves? How did they behave with one another after they had united with Krishna? O one blessed with the power of austerities! I wish to hear all this in detail.’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya said,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘O one blessed with the power of austerities! All those great-souled Pandavas are my ancestors. After obtaining the kingdom of Indraprastha, what did those great-souled ones do? Those ﬁve rulers of men had a common wife in Krishna{1}. How did their lawful wife Droupadi follow their wishes? How did they, the immensely fortunate ones, prevent dissension among themselves? How did they behave with one another after they had united with Krishna? O one blessed with the power of austerities! I wish to hear all this in detail.’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘With Dhritarashtra’s permission, the Pandavas, tigers among men and scorchers of enemies, obtained the kingdom and sported in pleasure with Krishna. Having obtained the kingdom, the immensely energetic and truthful Yudhishthira ruled over the earth in accordance with dharma{2}, together with his brothers. Having defeated their enemies, the immensely wise sons of Pandu, always devoted to truth and dharma, lived there in supreme happiness. Seated on extremely expensive royal thrones, those bulls among men performed all the duties towards the citizens.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘With Dhritarashtra’s permission, the Pandavas, tigers among men and scorchers of enemies, obtained the kingdom and sported in pleasure with Krishna. Having obtained the kingdom, the immensely energetic and truthful Yudhishthira ruled over the earth in accordance with dharma{2}, together with his brothers. Having defeated their enemies, the immensely wise sons of Pandu, always devoted to truth and dharma, lived there in supreme happiness. Seated on extremely expensive royal thrones, those bulls among men performed all the duties towards the citizens.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘When those great-souled ones were thus seated together, devarshi{3} Narada{4}, who was travelling as he willed, happened to come there. Yudhishthira offered him his own excellent seat. As is prescribed, the wise Yudhishthira himself gave him offerings{5} and once the devarshi was seated, reported the state of the kingdom. The rishi{6} happily accepted the homage and blessing him, asked him to be seated. Thus instructed, King Yudhishthira sat down. He sent word to Krishna that the illustrious one had arrived. Hearing this, Droupadi carefully puriﬁed herself and went to the place where Narada and the Pandavas were assembled. That follower of dharma, Drupada’s daughter, paid homage at the devarshi’s feet and stood before him with joined palms, appropriately covered. The illustrious Narada, supreme among rishis, always truthful and with dharma in his heart, pronounced his blessings on the unblemished princess and then asked her to leave.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When those great-souled ones were thus seated together, devarshi{3} Narada{4}, who was travelling as he willed, happened to come there. Yudhishthira offered him his own excellent seat. As is prescribed, the wise Yudhishthira himself gave him offerings{5} and once the devarshi was seated, reported the state of the kingdom. The rishi{6} happily accepted the homage and blessing him, asked him to be seated. Thus instructed, King Yudhishthira sat down. He sent word to Krishna that the illustrious one had arrived. Hearing this, Droupadi carefully puriﬁed herself and went to the place where Narada and the Pandavas were assembled. That follower of dharma, Drupada’s daughter, paid homage at the devarshi’s feet and stood before him with joined palms, appropriately covered. The illustrious Narada, supreme among rishis, always truthful and with dharma in his heart, pronounced his blessings on the unblemished princess and then asked her to leave.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘When Krishna had left, the illustrious rishi told the Pandavas, with Yudhishthira at their head, “The immensely famous daughter of Panchala{7} is a single wife to all of you, in accordance with dharma. You must lay down a rule among yourselves, lest there be dissension. In ancient times, there were two asura{8} brothers named Sunda and Upasunda who were famous in the three worlds{9}. They were always together and were incapable of being killed by anyone else, except each other. They ruled over the same kingdom. They lived in the same house. They slept on the same bed. They sat in the same seat. They ate off the same plate. But they killed each other over Tilottama. O Yudhishthira! Therefore, seek to protect the friendship you have for each other and act so that there is no dissension amongst you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When Krishna had left, the illustrious rishi told the Pandavas, with Yudhishthira at their head,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“The immensely famous daughter of Panchala{7} is a single wife to all of you, in accordance with dharma. You must lay down a rule among yourselves, lest there be dissension. In ancient times, there were two asura{8} brothers named Sunda and Upasunda who were famous in the three worlds{9}. They were always together and were incapable of being killed by anyone else, except each other. They ruled over the same kingdom. They lived in the same house. They slept on the same bed. They sat in the same seat. They ate off the same plate. But they killed each other over Tilottama. O Yudhishthira! Therefore, seek to protect the friendship you have for each other and act so that there is no dissension amongst you.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Yudhishthira replied, “O great sage! Whose sons were the asuras Sunda and Upasunda? How did the dissension originate? Why did they kill each other? They killed each other over desire for Tilottama. Whose apsara{10}, daughter of the gods, was she? O one blessed with the power of austerities! O Brahmana! We are greatly curious and wish to hear everything in detail. Please tell us.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O great sage! Whose sons were the asuras Sunda and Upasunda? How did the dissension originate? Why did they kill each other? They killed each other over desire for Tilottama. Whose apsara{10}, daughter of the gods, was she? O one blessed with the power of austerities! O Brahmana! We are greatly curious and wish to hear everything in detail. Please tell us.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "201": {
+      "global_number": 201,
+      "local_number": 201,
+      "num_shlokas": 32,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Narada said, “O Yudhishthira, son of Pritha{11}! Then together with your brothers, listen to this ancient account, exactly as it happened. In ancient times, in the great asura Hiranyakashipu’s{12} lineage, there was a powerful and energetic lord of the daityas{13} named Nikumba. He had two immensely valorous sons who were terrible in their prowess. They never ate unless they were together and never went anywhere without each other. They always did what was pleasurable to the other and always spoke pleasantly to the other. They were similar in behaviour and conduct; like one divided into two. Similar in action and inclination, they grew up as immensely valorous and adopted the identical resolution of conquering the three worlds. After consecration, they went to the Vindhya mountains and practised terrible austerities there. They were exhausted with hunger and thirst. Their hair was matted and they were dressed in the bark of trees. But they continued to perform austerities until they acquired powers. They covered all their limbs with ﬁlth and lived on air. They offered their own ﬂesh into the ﬁre. They stood on the tips of their toes. Raising their arms and without blinking, they observed their vows for a long period. Heated by the power of the length of their austerities, an extraordinary incident occurred. The Vindhya began to belch out smoke.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“O Yudhishthira, son of Pritha{11}! Then together with your brothers, listen to this ancient account, exactly as it happened. In ancient times, in the great asura Hiranyakashipu’s{12} lineage, there was a powerful and energetic lord of the daityas{13} named Nikumba. He had two immensely valorous sons who were terrible in their prowess. They never ate unless they were together and never went anywhere without each other. They always did what was pleasurable to the other and always spoke pleasantly to the other. They were similar in behaviour and conduct; like one divided into two. Similar in action and inclination, they grew up as immensely valorous and adopted the identical resolution of conquering the three worlds. After consecration, they went to the Vindhya mountains and practised terrible austerities there. They were exhausted with hunger and thirst. Their hair was matted and they were dressed in the bark of trees. But they continued to perform austerities until they acquired powers. They covered all their limbs with ﬁlth and lived on air. They offered their own ﬂesh into the ﬁre. They stood on the tips of their toes. Raising their arms and without blinking, they observed their vows for a long period. Heated by the power of the length of their austerities, an extraordinary incident occurred. The Vindhya began to belch out smoke.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“On seeing the terrible power of their austerities, the gods were frightened. The gods created various obstacles to prevent them from attaining their vows. They repeatedly tempted them with jewels and beautiful women. But the two of them stood ﬁrm against these temptations. Then the gods used the power of Maya{14} on the two greatsouls, wherein their sisters, mothers, wives and relatives, trembling and frightened, were oppressed by a rakshasa{15} who chased them with a spear. Their hair and ornaments were dishevelled and their garments fell loose. The women seemed to be running towards them, exclaiming, ‘Save us!’ But even this could not break the vows of the ones who were great in their vows. When they were not shocked or grieved at this, the women and the demon all vanished.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“On seeing the terrible power of their austerities, the gods were frightened. The gods created various obstacles to prevent them from attaining their vows. They repeatedly tempted them with jewels and beautiful women. But the two of them stood ﬁrm against these temptations. Then the gods used the power of Maya{14} on the two greatsouls, wherein their sisters, mothers, wives and relatives, trembling and frightened, were oppressed by a rakshasa{15} who chased them with a spear. Their hair and ornaments were dishevelled and their garments fell loose. The women seemed to be running towards them, exclaiming, ‘Save us!’ But even this could not break the vows of the ones who were great in their vows. When they were not shocked or grieved at this, the women and the demon all vanished.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“Then Brahma himself appeared before the great asuras. He who is the grandfather of all the worlds asked them to seek a boon. On seeing the god and grandfather, Sunda and Upasunda, those two brothers who were ﬁrm in their valour, stood before him with their hands joined. Together, they then spoke to the illustrious god. ‘O grandfather! If you are pleased with our austerities, then may we possess the knowledge of delusion and the knowledge of all weapons. May we be strong and may we have the power to change our form at will. If the illustrious lord is pleased with us, may we be immortal.’ Brahma replied, ‘Except for being immortal, everything else will be the way you wish. Choose a means of death that will make you the equal of the immortals. Since you have performed these austerities with an objective in mind, the boon of immortality cannot be granted to you. You have undertaken these austerities with a view to conquering the three worlds. O, lords of the daityas! For this reason, I cannot grant you the boon that you desire.’ Sunda and Upasunda said, ‘O, grandfather! Then let us not face any fear from any being, anything mobile or immobile, any object in the three worlds, other than each other.’ The grandfather replied, ‘I can grant you this boon, the way you have wished it. Your deaths will occur the way you have indicated.’ Having then granted them this boon, Brahma then asked them to refrain from austerities and returned to his world.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“Then Brahma himself appeared before the great asuras. He who is the grandfather of all the worlds asked them to seek a boon. On seeing the god and grandfather, Sunda and Upasunda, those two brothers who were ﬁrm in their valour, stood before him with their hands joined. Together, they then spoke to the illustrious god. ‘O grandfather! If you are pleased with our austerities, then may we possess the knowledge of delusion and the knowledge of all weapons. May we be strong and may we have the power to change our form at will. If the illustrious lord is pleased with us, may we be immortal.’ Brahma replied, ‘Except for being immortal, everything else will be the way you wish. Choose a means of death that will make you the equal of the immortals. Since you have performed these austerities with an objective in mind, the boon of immortality cannot be granted to you. You have undertaken these austerities with a view to conquering the three worlds. O, lords of the daityas! For this reason, I cannot grant you the boon that you desire.’ Sunda and Upasunda said, ‘O, grandfather! Then let us not face any fear from any being, anything mobile or immobile, any object in the three worlds, other than each other.’ The grandfather replied, ‘I can grant you this boon, the way you have wished it. Your deaths will occur the way you have indicated.’ Having then granted them this boon, Brahma then asked them to refrain from austerities and returned to his world.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“Having obtained those boons, the two brothers, the lords of the daityas, who could no longer be slain by anyone in the worlds, then returned to their home. On seeing that the great asuras had obtained the boons and were successful in getting what they desired, all their well-wishers were extremely happy. The two great asuras cut off their matted locks. They wore crowns and dressed themselves in expensive ornaments and unblemished garments. Though it was not the right season, they observed the koumudi{16} festival. The lords of the daityas and their wellwishers happily enjoyed themselves in the festivities. In house after house were heard the words, ‘eat’, ‘feed’, ‘pleasure’, ‘sing’, ‘drink’ and ‘give’. There were great bouts of drinking. A roar arose from the clapping of hands. The entire city of the daityas went wild with joy. As the daityas, who could assume any form at will, sported themselves in varied amusements, many years passed. But it seemed like a single day.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“Having obtained those boons, the two brothers, the lords of the daityas, who could no longer be slain by anyone in the worlds, then returned to their home. On seeing that the great asuras had obtained the boons and were successful in getting what they desired, all their well-wishers were extremely happy. The two great asuras cut off their matted locks. They wore crowns and dressed themselves in expensive ornaments and unblemished garments. Though it was not the right season, they observed the koumudi{16} festival. The lords of the daityas and their wellwishers happily enjoyed themselves in the festivities. In house after house were heard the words, ‘eat’, ‘feed’, ‘pleasure’, ‘sing’, ‘drink’ and ‘give’. There were great bouts of drinking. A roar arose from the clapping of hands. The entire city of the daityas went wild with joy. As the daityas, who could assume any form at will, sported themselves in varied amusements, many years passed. But it seemed like a single day.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "’",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        }
+      }
+    },
+    "202": {
+      "global_number": 202,
+      "local_number": 202,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Narada said, “When the festivities ended, the two great ones wished to conquer the three worlds. Having obtained the permission of their well-wishers and elders among the daityas, arranging their army and having sought counsel and performed the required rites, they set out in the night, when the constellation Magha{17} was in the ascendant. A large army of daityas went with them, carrying clubs, pikes, spears, all following the same dharma{18}. Charanas{19} sung their praises in auspicious songs that wished them victory. They set out with happiness in their hearts. The two daityas could assume any form at will and were intoxicated at the prospect of war. They rose into the sky and went to the habitation of the gods. Knowing that they were coming and aware of the boon that they had obtained from the illustrious one, the gods ﬂed heaven{20} and went to Brahma’s world. With their terrible valour, they conquered Indra’s world and defeated masses of yakshas{21} and rakshas{22} and beings that frequent the sky. The two great asuras then vanquished the nagas{23} who dwell in the interior regions of the earth, all those who live in the oceans and all the mleccha{24} races.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“When the festivities ended, the two great ones wished to conquer the three worlds. Having obtained the permission of their well-wishers and elders among the daityas, arranging their army and having sought counsel and performed the required rites, they set out in the night, when the constellation Magha{17} was in the ascendant. A large army of daityas went with them, carrying clubs, pikes, spears, all following the same dharma{18}. Charanas{19} sung their praises in auspicious songs that wished them victory. They set out with happiness in their hearts. The two daityas could assume any form at will and were intoxicated at the prospect of war. They rose into the sky and went to the habitation of the gods. Knowing that they were coming and aware of the boon that they had obtained from the illustrious one, the gods ﬂed heaven{20} and went to Brahma’s world. With their terrible valour, they conquered Indra’s world and defeated masses of yakshas{21} and rakshas{22} and beings that frequent the sky. The two great asuras then vanquished the nagas{23} who dwell in the interior regions of the earth, all those who live in the oceans and all the mleccha{24} races.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“The two who were terrible in their rule, wished to subjugate the entire earth. They summoned their soldiers and uttered these harsh words. ‘With their great sacriﬁces and offerings, the rajarshis{25} and brahmanas increase the energy, strength and prosperity of the gods. Because of these acts, they cause injury to the asuras. Together, we must attack and completely destroy them.’ Having thus ordered them on the eastern shores of the great ocean, they set out in all directions with this cruel resolution in mind. The two powerful ones killed those who sacriﬁced and brahmanas who ofﬁciated at sacriﬁces, wherever they were seen. In hermitages of rishis who had controlled their souls, their soldiers grasped the sacriﬁcial ﬁres and ﬂung them irreverently away. Because of the boon granted to them, the curses of the great-souled and angry ascetics had no effect. When the brahmanas saw that their curses had no effect, like when arrows strike stone, they gave up their vows and ﬂed in all directions. Like snakes ﬂeeing at the approach of Vinata’s son{26}, those on earth who were successful in austerities and were self-controlled and calm, ran away. All the hermitages were destroyed, the pots and ladles were broken and scattered. The entire universe was empty, as if it was the time of ﬁnal destruction.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“The two who were terrible in their rule, wished to subjugate the entire earth. They summoned their soldiers and uttered these harsh words. ‘With their great sacriﬁces and offerings, the rajarshis{25} and brahmanas increase the energy, strength and prosperity of the gods. Because of these acts, they cause injury to the asuras. Together, we must attack and completely destroy them.’ Having thus ordered them on the eastern shores of the great ocean, they set out in all directions with this cruel resolution in mind. The two powerful ones killed those who sacriﬁced and brahmanas who ofﬁciated at sacriﬁces, wherever they were seen. In hermitages of rishis who had controlled their souls, their soldiers grasped the sacriﬁcial ﬁres and ﬂung them irreverently away. Because of the boon granted to them, the curses of the great-souled and angry ascetics had no effect. When the brahmanas saw that their curses had no effect, like when arrows strike stone, they gave up their vows and ﬂed in all directions. Like snakes ﬂeeing at the approach of Vinata’s son{26}, those on earth who were successful in austerities and were self-controlled and calm, ran away. All the hermitages were destroyed, the pots and ladles were broken and scattered. The entire universe was empty, as if it was the time of ﬁnal destruction.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“When the rajarshis and rishis disappeared into hiding, the great asuras united in their decision to kill. They changed their forms and assumed ones of mad, rutting elephants with their temples oozing, and sent those who were in inaccessible regions to Yama’s abode. Sometimes they became lions and yet again, tigers. They also became invisible. With these forms, they slaughtered the rishis wherever they found them. Sacriﬁces and studying ceased and the brahmanas were exterminated. The earth bereft of festivals and sacriﬁces cried out in fear. All buying and selling ended. The worship of the gods was stopped. Sacred rites and marriages were not observed. Agriculture and the tending of cattle ended. Cities and hermitages were destroyed. Strewn with bones and skeletons, the earth was terrible to behold. Ceremonies for the ancestors were no longer observed. The sacred chants ceased. The universe was terrible and loathsome to behold. On witnessing these acts of Sunda and Upasunda, the moon, the sun, the planets, the stars, the constellations and the dwellers of heaven were depressed. Thus subjugating all the directions with their terrible acts, the two daityas lived in Kurukshetra, after vanquishing every enemy.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“When the rajarshis and rishis disappeared into hiding, the great asuras united in their decision to kill. They changed their forms and assumed ones of mad, rutting elephants with their temples oozing, and sent those who were in inaccessible regions to Yama’s abode. Sometimes they became lions and yet again, tigers. They also became invisible. With these forms, they slaughtered the rishis wherever they found them. Sacriﬁces and studying ceased and the brahmanas were exterminated. The earth bereft of festivals and sacriﬁces cried out in fear. All buying and selling ended. The worship of the gods was stopped. Sacred rites and marriages were not observed. Agriculture and the tending of cattle ended. Cities and hermitages were destroyed. Strewn with bones and skeletons, the earth was terrible to behold. Ceremonies for the ancestors were no longer observed. The sacred chants ceased. The universe was terrible and loathsome to behold. On witnessing these acts of Sunda and Upasunda, the moon, the sun, the planets, the stars, the constellations and the dwellers of heaven were depressed. Thus subjugating all the directions with their terrible acts, the two daityas lived in Kurukshetra, after vanquishing every enemy.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "’",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "203": {
+      "global_number": 203,
+      "local_number": 203,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Narada said, “On witnessing this great destruction, all the devarshis, the siddhas{27} and the supreme rishis were extremely distressed. They were ones who had conquered anger, mastered their souls and senses. Stirred by compassion for the universe, they went to the grandfather’s abode. There they saw the grandfather seated with the gods, surrounded by siddhas and brahmarshis{28}. The god Mahadeva{29} was there, with Agni{30} and Vayu{31}. The moon{32} and the sun{33} were there and Dharma and Parameshthi{34} and Budha{35}. The vaikhanasas{36} were there and the valakhilyas{37}, those who had resorted to the forest, the marichipas{38}, the unborn ones, those who were not deluded and other ascetics who were born from energy. All these rishis were paying homage to the grandfather. All the maharshis{39} went there and recounted the deeds of Sunda and Upasunda—what they had done, how they had done it, and in what order. Having recounted everything to the grandfather, all the masses of gods and the supreme rishis pressed him to act.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“On witnessing this great destruction, all the devarshis, the siddhas{27} and the supreme rishis were extremely distressed. They were ones who had conquered anger, mastered their souls and senses. Stirred by compassion for the universe, they went to the grandfather’s abode. There they saw the grandfather seated with the gods, surrounded by siddhas and brahmarshis{28}. The god Mahadeva{29} was there, with Agni{30} and Vayu{31}. The moon{32} and the sun{33} were there and Dharma and Parameshthi{34} and Budha{35}. The vaikhanasas{36} were there and the valakhilyas{37}, those who had resorted to the forest, the marichipas{38}, the unborn ones, those who were not deluded and other ascetics who were born from energy. All these rishis were paying homage to the grandfather. All the maharshis{39} went there and recounted the deeds of Sunda and Upasunda—what they had done, how they had done it, and in what order. Having recounted everything to the grandfather, all the masses of gods and the supreme rishis pressed him to act.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“On hearing all their words, the grandfather thought for an instant, trying to decide what should be done. Determining how they might be killed, he summoned Vishvakarma{40}. When he saw Vishvakarma, the grandfather ordered, ‘O, great ascetic! Create a lady who will be desired.’ Paying homage to the grandfather and listening attentively to his words, he thought about it and carefully created a divine damsel. First he carefully collected whatever was beautiful in the three worlds, mobile or immobile. He placed millions of gems on her body. The divine beauty that he created was the essence of gems. She was created by Vishvakarma with a great deal of diligence and was unmatched in beauty among all the women in the three worlds. There wasn’t the tiniest part of her body that wasn’t perfect in the wealth of its beauty and that failed to attract the gaze of the beholder. She was like Shri{41} herself, beautiful and desirable. She captivated the eyes and the hearts of all beings. Because she had been created bit by bit from the essence of all gems, the grandfather gave her the name of Tilottama{42}. The grandfather said, ‘O Tilottama! Go to the asuras Sunda and Upasunda. O fortunate one! Seduce them with your desirable beauty. Act in a way so that you create dissension among the two of them, when they see how perfect your beauty is.’ She agreed to do this.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“On hearing all their words, the grandfather thought for an instant, trying to decide what should be done. Determining how they might be killed, he summoned Vishvakarma{40}. When he saw Vishvakarma, the grandfather ordered, ‘O, great ascetic! Create a lady who will be desired.’ Paying homage to the grandfather and listening attentively to his words, he thought about it and carefully created a divine damsel. First he carefully collected whatever was beautiful in the three worlds, mobile or immobile. He placed millions of gems on her body. The divine beauty that he created was the essence of gems. She was created by Vishvakarma with a great deal of diligence and was unmatched in beauty among all the women in the three worlds. There wasn’t the tiniest part of her body that wasn’t perfect in the wealth of its beauty and that failed to attract the gaze of the beholder. She was like Shri{41} herself, beautiful and desirable. She captivated the eyes and the hearts of all beings. Because she had been created bit by bit from the essence of all gems, the grandfather gave her the name of Tilottama{42}. The grandfather said, ‘O Tilottama! Go to the asuras Sunda and Upasunda. O fortunate one! Seduce them with your desirable beauty. Act in a way so that you create dissension among the two of them, when they see how perfect your beauty is.’ She agreed to do this.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“Paying homage to the grandfather, she circumabulated the gods assembled there. The illustrious one{43} faced the east, Maheshvara{44} faced the south. The other gods faced the north, while all the rishis faced various directions. But while she was thus circumabulating the gods, only Indra and the illustrious god Sthanu{45} managed to maintain their composure. But so great was his{46} desire to see her as she passed by his side, that another face with eyes having curved lashes emerged from the southern side. When she went behind him, another face emerged from the western side and when she went north, another face emerged on the northern side. For the great Indra too, one thousand large and red-tinted eyes appeared everywhere, on his back and on his sides. Thus, in ancient times, Mahadeva Sthanu came to possess four faces and the slayer of Bala{47} came to possess a thousand eyes. As Tilottama walked around, all the masses of gods and the rishis turned their faces in the direction that she followed. But for the god who was the grandfather, the eyes of all the great-souled ones were on her body. When the one with richness of beauty left for her appointed task, all the gods and the supreme rishis thought that the act had already been accomplished. After Tilottama had departed, the one with the welfare of the worlds in his mind{48}, asked all the gods and the rishis to leave.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“Paying homage to the grandfather, she circumabulated the gods assembled there. The illustrious one{43} faced the east, Maheshvara{44} faced the south. The other gods faced the north, while all the rishis faced various directions. But while she was thus circumabulating the gods, only Indra and the illustrious god Sthanu{45} managed to maintain their composure. But so great was his{46} desire to see her as she passed by his side, that another face with eyes having curved lashes emerged from the southern side. When she went behind him, another face emerged from the western side and when she went north, another face emerged on the northern side. For the great Indra too, one thousand large and red-tinted eyes appeared everywhere, on his back and on his sides. Thus, in ancient times, Mahadeva Sthanu came to possess four faces and the slayer of Bala{47} came to possess a thousand eyes. As Tilottama walked around, all the masses of gods and the rishis turned their faces in the direction that she followed. But for the god who was the grandfather, the eyes of all the great-souled ones were on her body. When the one with richness of beauty left for her appointed task, all the gods and the supreme rishis thought that the act had already been accomplished. After Tilottama had departed, the one with the welfare of the worlds in his mind{48}, asked all the gods and the rishis to leave.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "’",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        }
+      }
+    },
+    "204": {
+      "global_number": 204,
+      "local_number": 204,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Narada said, “After conquering the earth, the two daityas had no other enemies or concerns. Having subjugated the three worlds, their desire had been attained. They were delighted at having robbed the gods, the gandharvas{49}, yakshas, nagas, kings and rakshas of all their gems and when they saw that they had not a single rival left, they were supremely content. Like the immortals, they gave up all endeavours and spent their time in pleasures, with women, garlands, fragrances, food, and delicacies in copious quantities, drink and various other objects that give rise to enjoyment. Like the immortals, they sported in their inner quarters, gardens, mountains and groves and in whatever region that struck their fancy.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Narada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“After conquering the earth, the two daityas had no other enemies or concerns. Having subjugated the three worlds, their desire had been attained. They were delighted at having robbed the gods, the gandharvas{49}, yakshas, nagas, kings and rakshas of all their gems and when they saw that they had not a single rival left, they were supremely content. Like the immortals, they gave up all endeavours and spent their time in pleasures, with women, garlands, fragrances, food, and delicacies in copious quantities, drink and various other objects that give rise to enjoyment. Like the immortals, they sported in their inner quarters, gardens, mountains and groves and in whatever region that struck their fancy.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“One day, they went to sport in a rocky plain on the Vindhya Mountains that was dense with shala{50} trees crested with blossoming ﬂowers. After every divine object of desire had been brought, the two contentedly sat on supreme seats, with beautiful women around them. Wishing to please the two, the women danced to the sound of music and delighted them with songs sung in their praise.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“One day, they went to sport in a rocky plain on the Vindhya Mountains that was dense with shala{50} trees crested with blossoming ﬂowers. After every divine object of desire had been brought, the two contentedly sat on supreme seats, with beautiful women around them. Wishing to please the two, the women danced to the sound of music and delighted them with songs sung in their praise.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“It was then that Tilottama appeared, plucking ﬂowers in the forest. She was dressed in a single red garment, an attire that was very seductive. Gathering karnikara ﬂowers along the banks of the river, she slowly approached the place where the two great asuras were. They had drunk the best of wine and their eyes were red. On seeing the one with the beautiful hips, they were struck by desire. They instantly left their seats and went to where she was. Filled with desire, they both asked for her favours. Sunda grasped the right hand of the one with the beautiful brows. Upasunda grasped Tilottama’s left hand. They were intoxicated with the boon they had received, with their physical strength, with the riches and gems they possessed and with the wine they had drunk. Intoxicated with this madness and with the madness of desire, they contracted their brows and spoke to each other. ‘She is my wife and your superior,’ said Sunda. ‘She is my wife and your sister-in-law,’ replied Upasunda. In their anger, they shouted at each other, ‘She is mine, not yours.’ Overcome by desire for her, they grasped their terrible clubs. Uttering the words, ‘I was the ﬁrst{51},’ they attacked each other. Struck by those terrible clubs, both of them fell down on the ground. With blood streaming from their bodies, they looked like two suns dislodged from the sky. Then the women and the masses of daityas ﬂed. Miserable and shuddering with fright, all of them took refuge in the nether regions.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“It was then that Tilottama appeared, plucking ﬂowers in the forest. She was dressed in a single red garment, an attire that was very seductive. Gathering karnikara ﬂowers along the banks of the river, she slowly approached the place where the two great asuras were. They had drunk the best of wine and their eyes were red. On seeing the one with the beautiful hips, they were struck by desire. They instantly left their seats and went to where she was. Filled with desire, they both asked for her favours. Sunda grasped the right hand of the one with the beautiful brows. Upasunda grasped Tilottama’s left hand. They were intoxicated with the boon they had received, with their physical strength, with the riches and gems they possessed and with the wine they had drunk. Intoxicated with this madness and with the madness of desire, they contracted their brows and spoke to each other. ‘She is my wife and your superior,’ said Sunda. ‘She is my wife and your sister-in-law,’ replied Upasunda. In their anger, they shouted at each other, ‘She is mine, not yours.’ Overcome by desire for her, they grasped their terrible clubs. Uttering the words, ‘I was the ﬁrst{51},’ they attacked each other. Struck by those terrible clubs, both of them fell down on the ground. With blood streaming from their bodies, they looked like two suns dislodged from the sky. Then the women and the masses of daityas ﬂed. Miserable and shuddering with fright, all of them took refuge in the nether regions.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“Then the pure-souled grandfather arrived, with the gods and the maharshis and praised Tilottama. Brahma was pleased to grant her a boon. Delighted with her, the grandfather said, ‘O, fortunate one! You will roam in the world of the adityas{52}. Your energy will be so great that no one will be able to look at you for a long time.’ Having granted this boon to her, the grandfather of all the worlds, instated Indra in the three worlds. The illustrious one then departed for Brahma’s world.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "“Then the pure-souled grandfather arrived, with the gods and the maharshis and praised Tilottama. Brahma was pleased to grant her a boon. Delighted with her, the grandfather said, ‘O, fortunate one! You will roam in the world of the adityas{52}. Your energy will be so great that no one will be able to look at you for a long time.’ Having granted this boon to her, the grandfather of all the worlds, instated Indra in the three worlds. The illustrious one then departed for Brahma’s world.",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘“Those two were always together, they were always united with the same objective. But in their anger, they killed each other over Tilottama. O, supreme among the Bharata lineage! Out of my affection for you, I am telling you, so that there is no dissension among you because of Droupadi. O, fortunate ones! If you wish to please me, act accordingly.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "‘",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 5
+            },
+            {
+              "type": "speech",
+              "speaker": "@narada",
+              "text": "“Those two were always together, they were always united with the same objective. But in their anger, they killed each other over Tilottama. O, supreme among the Bharata lineage! Out of my affection for you, I am telling you, so that there is no dissension among you because of Droupadi. O, fortunate ones! If you wish to please me, act accordingly.”",
+              "color": "#CBF3F0",
+              "opacity": 1.0,
+              "depth": 6
+            },
+            {
+              "type": "narration",
+              "speaker": "@narada",
+              "text": "’",
+              "color": "#CBF3F0",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "6": {
+          "raw": "Vaishampayana said, ‘O, king! Having been thus addressed by the great-souled maharshi Narada, they consulted with each other and arrived at a rule, in the inﬁnitely energetic devarshi Narada’s presence. If any one of them set eyes on Droupadi when she was lying with any one of the others, he would retire to the forest and live the life of a brahmachari{53} for twelve years. After the Pandavas, who always followed dharma, had established this rule, the great sage Narada was happy and went where he wished to go. O, descendant of the Bharata lineage! In earlier times, thus requested by Narada, they established a rule and no dissension arose between them.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O, king! Having been thus addressed by the great-souled maharshi Narada, they consulted with each other and arrived at a rule, in the inﬁnitely energetic devarshi Narada’s presence. If any one of them set eyes on Droupadi when she was lying with any one of the others, he would retire to the forest and live the life of a brahmachari{53} for twelve years. After the Pandavas, who always followed dharma, had established this rule, the great sage Narada was happy and went where he wished to go. O, descendant of the Bharata lineage! In earlier times, thus requested by Narada, they established a rule and no dissension arose between them.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "205": {
+      "global_number": 205,
+      "local_number": 205,
+      "num_shlokas": 30,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘After having established an agreement in this way, the Pandavas lived there. With the strength of their weapons, they brought under their sovereignty many kings. Krishna followed the wishes of all the ﬁve sons of Pritha, who were lions among men and immeasurable in their energy. She was extremely happy with the ﬁve valourous ones as her husbands, like Sarasvati{54} with her elephants{55}, and they were also delighted with her. Since the great-souled Pandavas abided by dharma, all the Kurus{56} increased in prosperity, were bereft of sin and were happy.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After having established an agreement in this way, the Pandavas lived there. With the strength of their weapons, they brought under their sovereignty many kings. Krishna followed the wishes of all the ﬁve sons of Pritha, who were lions among men and immeasurable in their energy. She was extremely happy with the ﬁve valourous ones as her husbands, like Sarasvati{54} with her elephants{55}, and they were also delighted with her. Since the great-souled Pandavas abided by dharma, all the Kurus{56} increased in prosperity, were bereft of sin and were happy.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘O, lord of the earth! O, supreme among kings! After a long time had passed, thieves robbed a brahmana’s cattle. When his wealth was thus stolen, the brahmana lost his senses in anger. He went to Khandavaprastha and angrily reproved the Pandavas. “O Pandavas! Mean, cruel and mindless thieves are forcibly robbing me of my wealth of cattle in your kingdom. Pursue them. The sacriﬁcial offerings of a peaceful brahmana are being carried away by crows. The inferior jackal has invaded the deserted cave of a tiger. A brahmana’s riches are being taken away by thieves. Dharma and artha{57} will be destroyed. I am crying for help. Take up your arms.” As the miserable brahmana cried out to the Pandavas, Kunti’s son Dhananjaya{58} heard his words.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O, lord of the earth! O, supreme among kings! After a long time had passed, thieves robbed a brahmana’s cattle. When his wealth was thus stolen, the brahmana lost his senses in anger. He went to Khandavaprastha and angrily reproved the Pandavas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Pandavas! Mean, cruel and mindless thieves are forcibly robbing me of my wealth of cattle in your kingdom. Pursue them. The sacriﬁcial offerings of a peaceful brahmana are being carried away by crows. The inferior jackal has invaded the deserted cave of a tiger. A brahmana’s riches are being taken away by thieves. Dharma and artha{57} will be destroyed. I am crying for help. Take up your arms.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "As the miserable brahmana cried out to the Pandavas, Kunti’s son Dhananjaya{58} heard his words.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘On hearing the words, the mighty-armed one told the brahmana not to fear. But Dharmaraja Yudhishthira was then lying with Krishna in the room where the great-souled Pandavas kept their weapons. The Pandava{59} was unable to enter the room. But he was also unable to go away as the wailing brahmana repeatedly urged him with his words. Kunti’s son reﬂected in sorrow, “This ascetic brahmana’s riches are being robbed. It is certainly my duty to dry his tears. If I do not protect someone who is weeping at our door, the great adharma of negligence will taint the king{60}. If I fail to protect, the adharma of our failing to protect will certainly be established in all the worlds. But it is also certain that if I enter the room without the permission of King Ajatashatru{61}, I will do him a great injury and I must be banished to the forest. There will either be great adharma or death in the forest. But dharma must be upheld, even if there is destruction of the body.” O lord of the earth! Having thus resolved, Kunti’s son Dhananjaya entered the room and took the king’s permission.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On hearing the words, the mighty-armed one told the brahmana not to fear. But Dharmaraja Yudhishthira was then lying with Krishna in the room where the great-souled Pandavas kept their weapons. The Pandava{59} was unable to enter the room. But he was also unable to go away as the wailing brahmana repeatedly urged him with his words. Kunti’s son reﬂected in sorrow,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“This ascetic brahmana’s riches are being robbed. It is certainly my duty to dry his tears. If I do not protect someone who is weeping at our door, the great adharma of negligence will taint the king{60}. If I fail to protect, the adharma of our failing to protect will certainly be established in all the worlds. But it is also certain that if I enter the room without the permission of King Ajatashatru{61}, I will do him a great injury and I must be banished to the forest. There will either be great adharma or death in the forest. But dharma must be upheld, even if there is destruction of the body.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O lord of the earth! Having thus resolved, Kunti’s son Dhananjaya entered the room and took the king’s permission.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Grasping his bow, he happily told the brahmana, “O brahmana! Let us go quickly, so that those mean thieves do not go too far away and I can return your riches to you, from the hands of the robbers.” The mighty-armed one, with bow and armour and riding a chariot with ﬂags, pierced the thieves with arrows and recovered the riches. Thus helping the brahmana and returning his riches of cattle to him, the Pandava obtained fame. The valorous Savyasachi{62}, scorcher of enemies, returned to the city. He paid his homage to all his superiors and was in turn praised by them. He then told Dharmaraja, “O, lord! Grant me permission to observe my vow. On seeing you, I have violated the rule and I must go and dwell in the forest, because that is the rule we made.” On suddenly hearing these unpleasant words, Dharmaraja was afﬂicted by grief and in a sorrowful voice, asked, “Why?” Yudhisthira told his brother Gudakesha{63}, a brother who never suffered from decay, “O unblemised one! If I am one with authority, listen to my words. O brave one! I know all the reasons why you entered the room and caused me displeasure and I have not felt any injury. There is no sin if a younger brother enters where the elder brother is lying with his wife. However, if an elder brother enters a room where the younger brother is lying with his wife, that is improper. O mighty-armed one! Refrain, listen to my words and do as I say. Your dharma has not suffered and no injury has been done to me.” Arjuna replied, “I have also heard from you that dharma must not be observed through pretences. I will not waver from the truth. The truth is my weapon.” With the king’s permission, he was consecrated in the rites of brahmacharya and went away to live in the forest for twelve years.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Grasping his bow, he happily told the brahmana",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@bow",
+              "text": "“O brahmana! Let us go quickly, so that those mean thieves do not go too far away and I can return your riches to you, from the hands of the robbers.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The mighty-armed one, with bow and armour and riding a chariot with ﬂags, pierced the thieves with arrows and recovered the riches. Thus helping the brahmana and returning his riches of cattle to him, the Pandava obtained fame. The valorous Savyasachi{62}, scorcher of enemies, returned to the city. He paid his homage to all his superiors and was in turn praised by them. He then told Dharmaraja,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O, lord! Grant me permission to observe my vow. On seeing you, I have violated the rule and I must go and dwell in the forest, because that is the rule we made.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On suddenly hearing these unpleasant words, Dharmaraja was afﬂicted by grief and in a sorrowful voice, asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Why?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Yudhisthira told his brother Gudakesha{63}, a brother who never suffered from decay,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O unblemised one! If I am one with authority, listen to my words. O brave one! I know all the reasons why you entered the room and caused me displeasure and I have not felt any injury. There is no sin if a younger brother enters where the elder brother is lying with his wife. However, if an elder brother enters a room where the younger brother is lying with his wife, that is improper. O mighty-armed one! Refrain, listen to my words and do as I say. Your dharma has not suffered and no injury has been done to me.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“I have also heard from you that dharma must not be observed through pretences. I will not waver from the truth. The truth is my weapon.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "With the king’s permission, he was consecrated in the rites of brahmacharya and went away to live in the forest for twelve years.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "206": {
+      "global_number": 206,
+      "local_number": 206,
+      "num_shlokas": 34,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When the mighty-armed one who extended the fame of the Kuru lineage departed, greatsouled brahmanas who knew the Vedas, were knowledgeable in the vedangas{64}, those who were devoted to contemplation of the supreme being, those who were immersed in the supreme lord and bards who knew the ancient tales followed him. O king! There were also raconteurs, ascetics, those who dwelt in the forests and brahmanas who read divine tales in melodious voices. Surrounded by these and many others who were skilled in recounting stories, Pandu’s son travelled like Vasava{65} surrounded by the Maruts{66}. O descendant of the Bharata lineage! The bull among Bharatas saw beautiful and colourful woods, lakes, rivers, oceans, countries and sacred places of pilgrimage. Reaching the source of the Ganga, the lord began to live there. O Janamejaya! Now listen, as I tell you, about the wonderful act that the pure-souled charioteer, who was foremost among the Pandus, performed.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When the mighty-armed one who extended the fame of the Kuru lineage departed, greatsouled brahmanas who knew the Vedas, were knowledgeable in the vedangas{64}, those who were devoted to contemplation of the supreme being, those who were immersed in the supreme lord and bards who knew the ancient tales followed him. O king! There were also raconteurs, ascetics, those who dwelt in the forests and brahmanas who read divine tales in melodious voices. Surrounded by these and many others who were skilled in recounting stories, Pandu’s son travelled like Vasava{65} surrounded by the Maruts{66}. O descendant of the Bharata lineage! The bull among Bharatas saw beautiful and colourful woods, lakes, rivers, oceans, countries and sacred places of pilgrimage. Reaching the source of the Ganga, the lord began to live there. O Janamejaya! Now listen, as I tell you, about the wonderful act that the pure-souled charioteer, who was foremost among the Pandus, performed.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘O descendant of the Bharata lineage! When Kunti’s son lived there with the brahmanas, the brahmanas performed many agnihotras{67}. O king! The ﬁres were kindled and blazed as offerings were made into them. Offerings of ﬂowers were made on both sides of the river by the learned and great-souled ones who were always unwavering in their vows and they successfully consecrated there. As a result of this, the source of the Ganga became extremely beautiful.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! When Kunti’s son lived there with the brahmanas, the brahmanas performed many agnihotras{67}. O king! The ﬁres were kindled and blazed as offerings were made into them. Offerings of ﬂowers were made on both sides of the river by the learned and great-souled ones who were always unwavering in their vows and they successfully consecrated there. As a result of this, the source of the Ganga became extremely beautiful.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘One day, when this was going on, the son of Kunti and Pandu entered the Ganga to have a bath. O king! He performed his ablutions and offered water to his grandfathers. He was about to climb out of the water, wishing to perform rites to the ﬁre. O great king! The mighty-armed one was grasped and pulled into the water by Ulupi, daughter of the king of the nagas, who could travel where she willed. There, in the revered palace of the naga named Kouravya{68}, the Pandava saw a ﬁre that had been built up well. Kunti’s son Dhananjaya performed his rites in that ﬁre. Witnessing the unhesitating offering of oblations, Hutashana{69} was satisﬁed.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘One day, when this was going on, the son of Kunti and Pandu entered the Ganga to have a bath. O king! He performed his ablutions and offered water to his grandfathers. He was about to climb out of the water, wishing to perform rites to the ﬁre. O great king! The mighty-armed one was grasped and pulled into the water by Ulupi, daughter of the king of the nagas, who could travel where she willed. There, in the revered palace of the naga named Kouravya{68}, the Pandava saw a ﬁre that had been built up well. Kunti’s son Dhananjaya performed his rites in that ﬁre. Witnessing the unhesitating offering of oblations, Hutashana{69} was satisﬁed.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘After having performed his rites before the ﬁre, Kunti’s son smilingly uttered these words to the daughter of the naga king. “O beautiful one! O timid one! How did you perform such a courageous act? What beautiful land is this? Whom do you belong to and whose daughter are you?” Ulupi replied, “O Partha! The serpent Kouravya is descended from the lineage of Airavata. I am his daughter and a serpent named Ulupi. O Kounteya{70}! I saw you descend into the water to have a bath and was robbed of my senses by the god of love{71}. O descendant of the Kuru lineage! The god of love is churning me. I am yet a maiden. Please me today by giving yourself to me.” Arjuna said, “O fortunate one! I have been commanded by Dharmaraja{72} to observe brahmacharya for twelve years and do not have control over myself. O dweller in the water! I do wish to do that which brings you pleasure. But never before this have I spoken that which is untrue. O serpent-maiden! How can I bring pleasure to you and yet not do that which is untrue? How can I not violate dharma?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After having performed his rites before the ﬁre, Kunti’s son smilingly uttered these words to the daughter of the naga king.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O beautiful one! O timid one! How did you perform such a courageous act? What beautiful land is this? Whom do you belong to and whose daughter are you?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Ulupi replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@ulupi",
+              "text": "“O Partha! The serpent Kouravya is descended from the lineage of Airavata. I am his daughter and a serpent named Ulupi. O Kounteya{70}! I saw you descend into the water to have a bath and was robbed of my senses by the god of love{71}. O descendant of the Kuru lineage! The god of love is churning me. I am yet a maiden. Please me today by giving yourself to me.”",
+              "color": "#79D94E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“O fortunate one! I have been commanded by Dharmaraja{72} to observe brahmacharya for twelve years and do not have control over myself. O dweller in the water! I do wish to do that which brings you pleasure. But never before this have I spoken that which is untrue. O serpent-maiden! How can I bring pleasure to you and yet not do that which is untrue? How can I not violate dharma?”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Ulupi replied, “O Pandava! I know why you are roaming the earth. I know that you are observing brahmacharya on the instructions of your superior. This was the rule you made among yourselves for Drupada’s daughter, that anyone deluded enough to enter would retire to the forest and observe brahmacharya for a period of twelve years. The exile is therefore for the sake of Droupadi. You are observing that dharma. But in this case, dharma does not suffer. O large-eyed one! It is your duty to save those who are distressed. By saving me, dharma is not violated. O Arjuna! Even if there is a slight transgression of dharma, by granting me life, you will achieve greater dharma. O Partha! O lord! I desire you. Desire me in return. That is the view of those who are rigid in their vows. Know that if you do not do this, I will certainly die. O mighty-armed one! Grant me life and achieve supreme dharma. O supreme among men! I am now seeking refuge with you. O Kounteya! You have always protected those who are weak and without protectors. I am miserable and weeping and am seeking refuge with you. I am overcome with desire and am seeking you. Do that which is pleasurable to me. Satisfy my desire by giving yourself to me.” Hearing these words Kounteya then did what she wanted, accepting dharma to be the reason. The powerful one spent the night in the palace of the serpent. When the sun rose, he too arose from Kouravya’s abode.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Ulupi replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@ulupi",
+              "text": "“O Pandava! I know why you are roaming the earth. I know that you are observing brahmacharya on the instructions of your superior. This was the rule you made among yourselves for Drupada’s daughter, that anyone deluded enough to enter would retire to the forest and observe brahmacharya for a period of twelve years. The exile is therefore for the sake of Droupadi. You are observing that dharma. But in this case, dharma does not suffer. O large-eyed one! It is your duty to save those who are distressed. By saving me, dharma is not violated. O Arjuna! Even if there is a slight transgression of dharma, by granting me life, you will achieve greater dharma. O Partha! O lord! I desire you. Desire me in return. That is the view of those who are rigid in their vows. Know that if you do not do this, I will certainly die. O mighty-armed one! Grant me life and achieve supreme dharma. O supreme among men! I am now seeking refuge with you. O Kounteya! You have always protected those who are weak and without protectors. I am miserable and weeping and am seeking refuge with you. I am overcome with desire and am seeking you. Do that which is pleasurable to me. Satisfy my desire by giving yourself to me.”",
+              "color": "#79D94E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words Kounteya then did what she wanted, accepting dharma to be the reason. The powerful one spent the night in the palace of the serpent. When the sun rose, he too arose from Kouravya’s abode.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "207": {
+      "global_number": 207,
+      "local_number": 207,
+      "num_shlokas": 26,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O, descendant of the Bharata lineage! The son of the wielder of the vajra{73} told the brahmanas everything and left for the slopes of the Himalayas. He ﬁrst went to Agastya’s banyan tree and then to Vasishtha’s mountain. Kounteya performed his ablutions on Bhrigu’s peak. He donated a thousand cows at sacred places of pilgrimage. That supreme among Kurus gave houses to brahmanas. That supreme among men then bathed at the place of pilgrimage known as Hiranyabindu and saw the best of mountains and sacred places. O descendant of the Bharata lineage! That best of men then descended, accompanied by brahmanas. That bull of the Bharata lineage then left for the eastern direction. O descendant of the Bharata lineage! One after another, the best of the Kurus saw many places of pilgrimage and the beautiful river Utpalini in the Naimisha forest—and the famous rivers Nanda, Upananda and Koushiki, the great rivers Gaya and Ganga. Having seen all these places of pilgrimage and having puriﬁed himself, he donated riches to the brahmanas. He went to every sacred place of pilgrimage in Anga, Vanga and Kalinga. Having seen them in the proper fashion, he gave away riches. O descendant of the Bharata lineage! When he approached the gates of the kingdom of Kalinga, the brahmanas who had followed the Pandava took their leave and departed. But with their permission, Kunti’s son, the valorous Dhananjaya, went on as far as the ocean, with only a few companions with him.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O, descendant of the Bharata lineage! The son of the wielder of the vajra{73} told the brahmanas everything and left for the slopes of the Himalayas. He ﬁrst went to Agastya’s banyan tree and then to Vasishtha’s mountain. Kounteya performed his ablutions on Bhrigu’s peak. He donated a thousand cows at sacred places of pilgrimage. That supreme among Kurus gave houses to brahmanas. That supreme among men then bathed at the place of pilgrimage known as Hiranyabindu and saw the best of mountains and sacred places. O descendant of the Bharata lineage! That best of men then descended, accompanied by brahmanas. That bull of the Bharata lineage then left for the eastern direction. O descendant of the Bharata lineage! One after another, the best of the Kurus saw many places of pilgrimage and the beautiful river Utpalini in the Naimisha forest—and the famous rivers Nanda, Upananda and Koushiki, the great rivers Gaya and Ganga. Having seen all these places of pilgrimage and having puriﬁed himself, he donated riches to the brahmanas. He went to every sacred place of pilgrimage in Anga, Vanga and Kalinga. Having seen them in the proper fashion, he gave away riches. O descendant of the Bharata lineage! When he approached the gates of the kingdom of Kalinga, the brahmanas who had followed the Pandava took their leave and departed. But with their permission, Kunti’s son, the valorous Dhananjaya, went on as far as the ocean, with only a few companions with him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Passing beyond Kalinga, the lord saw many beautiful countries, and followers of dharma. He went and saw Mahendra Mountain, adorned with ascetics. Travelling slowly along the shores of the ocean, he arrived in Manalura. Having seen all the sacred places of pilgrimage there, the mighty-armed one went to visit the king who was the lord of Manalura—King Chitravahana, who was devoted to dharma. He had a beautiful daughter named Chitrangada. When he saw Chitravahana’s daughter of the beautiful hips, roaming around in the city at will, he was struck by desire. He went to the king and told him what he wished. The king then spoke to him in a placatory voice, “A king named Prabhamkara was once born in our lineage. He had no sons and performed supreme austerities for the sake of offspring. On witnessing his terrible austerities and homage, the god Mahadeva Umapati{74} Shankara was satisﬁed. The great lord granted him the boon that only a single offspring would be born in every generation of this lineage. Since then, in succession, only a single offspring has been born in our lineage. All my ancestors before me had sons. But a daughter was born to me and it is certain that she will have to carry forward my lineage. O supreme among men! I have always thought of her as my son. O bull among the Bharata lineage! In accordance with what is prescribed, I have therefore made her my putrika{75}. The son, the perpetuator of this lineage, will be the bride price. O Pandava! You can take her, as long as you agree to this condition.” Agreeing to this condition, he accepted the daughter and Kounteya lived in that city for three winters.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Passing beyond Kalinga, the lord saw many beautiful countries, and followers of dharma. He went and saw Mahendra Mountain, adorned with ascetics. Travelling slowly along the shores of the ocean, he arrived in Manalura. Having seen all the sacred places of pilgrimage there, the mighty-armed one went to visit the king who was the lord of Manalura—King Chitravahana, who was devoted to dharma. He had a beautiful daughter named Chitrangada. When he saw Chitravahana’s daughter of the beautiful hips, roaming around in the city at will, he was struck by desire. He went to the king and told him what he wished.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The king then spoke to him in a placatory voice",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king_then",
+              "text": "“A king named Prabhamkara was once born in our lineage. He had no sons and performed supreme austerities for the sake of offspring. On witnessing his terrible austerities and homage, the god Mahadeva Umapati{74} Shankara was satisﬁed. The great lord granted him the boon that only a single offspring would be born in every generation of this lineage. Since then, in succession, only a single offspring has been born in our lineage. All my ancestors before me had sons. But a daughter was born to me and it is certain that she will have to carry forward my lineage. O supreme among men! I have always thought of her as my son. O bull among the Bharata lineage! In accordance with what is prescribed, I have therefore made her my putrika{75}. The son, the perpetuator of this lineage, will be the bride price. O Pandava! You can take her, as long as you agree to this condition.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Agreeing to this condition, he accepted the daughter and Kounteya lived in that city for three winters.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "208": {
+      "global_number": 208,
+      "local_number": 208,
+      "num_shlokas": 21,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The bull of the Bharata lineage then went to the sacred places of pilgrimage to the south, near the ocean. These sacred places were adorned with ascetics. However, these ascetics stayed away from ﬁve places of pilgrimage that had been frequented by ascetics in earlier times—Agastyatirtha, Soubhadra, the immensely purifying Poulama, the calm Karandhama that provided the fruits of a horse-sacriﬁce and the great tirtha{76} Bharadvaja, which washes away all sins. On seeing these places of pilgrimage abandoned and shunned by intelligent sages who were devoted to dharma, the Pandava who was Kuru’s descendant joined his hands in salutation and asked the ascetics, “Why have those who are learned in the brahman abandoned these tirthas?” The ascetics replied, “O descendant of the Kuru lineage! Five crocodiles live in them and drag away those who are blessed with the power of austerities. That is the reason these tirthas are abandoned.” On hearing this, the mightyarmed and valorous one, supreme among men, went to see these tirthas, though the ascetics tried to restrain him.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The bull of the Bharata lineage then went to the sacred places of pilgrimage to the south, near the ocean. These sacred places were adorned with ascetics. However, these ascetics stayed away from ﬁve places of pilgrimage that had been frequented by ascetics in earlier times—Agastyatirtha, Soubhadra, the immensely purifying Poulama, the calm Karandhama that provided the fruits of a horse-sacriﬁce and the great tirtha{76} Bharadvaja, which washes away all sins. On seeing these places of pilgrimage abandoned and shunned by intelligent sages who were devoted to dharma,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the Pandava who was Kuru’s descendant joined his hands in salutation and asked the ascetics",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_pandava_who_was_kuru",
+              "text": "“Why have those who are learned in the brahman abandoned these tirthas?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The ascetics replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_ascetics",
+              "text": "“O descendant of the Kuru lineage! Five crocodiles live in them and drag away those who are blessed with the power of austerities. That is the reason these tirthas are abandoned.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing this, the mightyarmed and valorous one, supreme among men, went to see these tirthas, though the ascetics tried to restrain him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘He went to Soubhadra, named after a maharshi, and supreme among tirthas. The brave one, scorcher of enemies, swiftly immersed himself to have a bath. At that, a giant crocodile that lived in the water came and grasped Kunti’s son Dhananjaya, tiger among men. But the mighty-armed Kounteya, supreme among those who are strong, seized the aquatic creature which began to struggle and got out of the water. O king! As soon as the famous Arjuna dragged the crocodile out, it turned into a beautiful woman, adorned in every ornament, radiant, charming, divine of form and alluring. On witnessing this great and extraordinary event, Kunti’s son Dhananjaya was extremely pleased and asked the lady, “O, fortunate one! Who are you and how did you come to live in the water? Why have you been committing such great sins earlier?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "He went to Soubhadra, named after a maharshi, and supreme among tirthas. The brave one, scorcher of enemies, swiftly immersed himself to have a bath. At that, a giant crocodile that lived in the water came and grasped Kunti’s son Dhananjaya, tiger among men. But the mighty-armed Kounteya, supreme among those who are strong, seized the aquatic creature which began to struggle and got out of the water. O king! As soon as the famous Arjuna dragged the crocodile out, it turned into a beautiful woman, adorned in every ornament, radiant, charming, divine of form and alluring. On witnessing this great and extraordinary event,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti’s son Dhananjaya was extremely pleased and asked the lady",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O, fortunate one! Who are you and how did you come to live in the water? Why have you been committing such great sins earlier?”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The lady replied, “O mighty-armed one! I am an apsara who used to roam in the forests of the gods. I am the extremely powerful Varga, always the favourite of the lord of riches{77}. I had four beautiful friends, all capable of going anywhere at will. With them, I was once going to the abode of the protector of the worlds{78}. On our way, all of us saw a brahmana who was rigid in his vows. He was extremely handsome and was studying alone, in his solitude. O king! That entire forest was radiant with the energy of his austerities. Like the sun, he seemed to have illuminated that entire region. On witnessing the extraordinary sight of his terrible austerities, we descended in that region, so as to bring impediments to his pursuit of austerities. O descendant of the Bharata lineage! I, Sourabheyi, Samichi, Budbuda and Lata went to the brahmana at the same time. We sang and laughed and sought to tempt the brahmana. O brave one! But he did not pay any attention to us, even for an instant. The immensely energetic and pure one did not waver and was ﬁxed in his austerities. O bull among kshatriyas! But the brahmana was angered and cursed us that we would become crocodiles and live in the water for a hundred years.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The lady replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_lady",
+              "text": "“O mighty-armed one! I am an apsara who used to roam in the forests of the gods. I am the extremely powerful Varga, always the favourite of the lord of riches{77}. I had four beautiful friends, all capable of going anywhere at will. With them, I was once going to the abode of the protector of the worlds{78}. On our way, all of us saw a brahmana who was rigid in his vows. He was extremely handsome and was studying alone, in his solitude. O king! That entire forest was radiant with the energy of his austerities. Like the sun, he seemed to have illuminated that entire region. On witnessing the extraordinary sight of his terrible austerities, we descended in that region, so as to bring impediments to his pursuit of austerities. O descendant of the Bharata lineage! I, Sourabheyi, Samichi, Budbuda and Lata went to the brahmana at the same time. We sang and laughed and sought to tempt the brahmana. O brave one! But he did not pay any attention to us, even for an instant. The immensely energetic and pure one did not waver and was ﬁxed in his austerities. O bull among kshatriyas! But the brahmana was angered and cursed us that we would become crocodiles and live in the water for a hundred years.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "209": {
+      "global_number": 209,
+      "local_number": 209,
+      "num_shlokas": 24,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Varga said, “O supreme among those of the Bharata lineage! We were all extremely distressed and sought the refuge of the brahmana, who was blessed with the power of austerities and never decayed. We said, ‘O brahmana! The god of love made us arrogant because of our youth and beauty. We did what should not be done. Please forgive us. That we had come to tempt a self-controlled one blessed with the power of austerities, who is rigid in his vows, is sufﬁcient death for us. Those who think about dharma are of the view that women should not be slain. You are learned in dharma and because of that dharma, do not kill us. O you who are learned in dharma! It is said that a brahmana is a friend to all beings. Let this saying of the learned come true and bring welfare. Those who are good protect those who seek their refuge. We have sought refuge with you. You should therefore forgive us.’”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Varga said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@varga",
+              "text": "“O supreme among those of the Bharata lineage! We were all extremely distressed and sought the refuge of the brahmana, who was blessed with the power of austerities and never decayed. We said, ‘O brahmana! The god of love made us arrogant because of our youth and beauty. We did what should not be done. Please forgive us. That we had come to tempt a self-controlled one blessed with the power of austerities, who is rigid in his vows, is sufﬁcient death for us. Those who think about dharma are of the view that women should not be slain. You are learned in dharma and because of that dharma, do not kill us. O you who are learned in dharma! It is said that a brahmana is a friend to all beings. Let this saying of the learned come true and bring welfare. Those who are good protect those who seek their refuge. We have sought refuge with you. You should therefore forgive us.’”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O brave one! At these words the brahmana, the performer of good deeds and with dharma in his soul, and as resplendent as the sun and the moon, was paciﬁed. The brahmana said, “The words hundreds, thousands and forever are always used to indicate eternity. But the word hundred used by me should be understood as a limited period and not as eternity. Becoming crocodiles, you will seize and drag men down into the water. But a supreme man will drag you out of the water and onto land and you will then regain your earlier forms. Never before have I uttered a falsehood, not even in jest. From now on, all these tirthas will be famous everywhere as the tirthas of women. Those who are learned will know them to be sacred and the cleansers of all sins.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O brave one! At these words the brahmana, the performer of good deeds and with dharma in his soul, and as resplendent as the sun and the moon,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "was paciﬁed. The brahmana said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@was_paci",
+              "text": "“The words hundreds, thousands and forever are always used to indicate eternity. But the word hundred used by me should be understood as a limited period and not as eternity. Becoming crocodiles, you will seize and drag men down into the water. But a supreme man will drag you out of the water and onto land and you will then regain your earlier forms. Never before have I uttered a falsehood, not even in jest. From now on, all these tirthas will be famous everywhere as the tirthas of women. Those who are learned will know them to be sacred and the cleansers of all sins.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Varga said, “We then paid our homages to the brahmana and circumambulated him. We left that region in misery, thinking, ‘When and how soon will we meet the man who will return our earlier forms?’ O descendant of the Bharata lineage! While we were thus thinking, the immensely fortunate devarshi Narada appeared instantly before us. O Partha! On seeing the devarshi whose radiance is inﬁnite, all of us were ﬁlled with joy. Paying our homages to him, we stood there, with misery on our faces. He asked us the reason for our sorrow and we told him everything. Having heard exactly what had happened, he spoke to us. ‘There are ﬁve tirthas in the southern marshes of the ocean. They are sacred and beautiful. Go there immediately and live there. Pandava Dhananjaya, tiger among men, pure of soul, will certainly arrive there soon and free you from your misery.’ O brave one! On hearing these words, all of us came here. O unblemished one! It is true that you have set me free today. But my four friends are still there in the other waters. O brave one! Perform a good deed and set them all free.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Varga said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@varga",
+              "text": "“We then paid our homages to the brahmana and circumambulated him. We left that region in misery, thinking, ‘When and how soon will we meet the man who will return our earlier forms?’ O descendant of the Bharata lineage! While we were thus thinking, the immensely fortunate devarshi Narada appeared instantly before us. O Partha! On seeing the devarshi whose radiance is inﬁnite, all of us were ﬁlled with joy. Paying our homages to him, we stood there, with misery on our faces. He asked us the reason for our sorrow and we told him everything. Having heard exactly what had happened, he spoke to us. ‘There are ﬁve tirthas in the southern marshes of the ocean. They are sacred and beautiful. Go there immediately and live there. Pandava Dhananjaya, tiger among men, pure of soul, will certainly arrive there soon and free you from your misery.’ O brave one! On hearing these words, all of us came here. O unblemished one! It is true that you have set me free today. But my four friends are still there in the other waters. O brave one! Perform a good deed and set them all free.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘O lord of the earth! Then the brave one, the best of the Pandavas, happily freed them all from that curse. O king! On ascending from the waters, the apsaras regained their own forms and looked as they had earlier. Purifying those tirthas and permitting them to leave, the lord went to the city of Manalura to see Chitrangada again. Through her, he had given birth to a son named King Babhruvahana. O king! Having seen him, the Pandava left for Gokarna.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O lord of the earth! Then the brave one, the best of the Pandavas, happily freed them all from that curse. O king! On ascending from the waters, the apsaras regained their own forms and looked as they had earlier. Purifying those tirthas and permitting them to leave, the lord went to the city of Manalura to see Chitrangada again. Through her, he had given birth to a son named King Babhruvahana. O king! Having seen him, the Pandava left for Gokarna.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "210": {
+      "global_number": 210,
+      "local_number": 210,
+      "num_shlokas": 21,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Then, one after another, the immensely powerful one visited all the other tirthas that were to the west and all those that were on the shores of the western ocean. Having visited them, he reached Prabhasa. When Madhusudana{79} heard that the invincible Bibhatsu{80} had reached the region of Prabhasa after visiting all the tirthas, Madhava{81} went to meet him, unknown to Kounteya. Krishna and Pandava saw each other in Prabhasa. They embraced each other and asked about each other’s welfare. Then the beloved friends, who were like the rishis Nara and Narayana of yore{82}, sat down in the forest.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then, one after another, the immensely powerful one visited all the other tirthas that were to the west and all those that were on the shores of the western ocean. Having visited them, he reached Prabhasa. When Madhusudana{79} heard that the invincible Bibhatsu{80} had reached the region of Prabhasa after visiting all the tirthas, Madhava{81} went to meet him, unknown to Kounteya. Krishna and Pandava saw each other in Prabhasa. They embraced each other and asked about each other’s welfare. Then the beloved friends, who were like the rishis Nara and Narayana of yore{82}, sat down in the forest.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Then Vasudeva asked Arjuna about what he had been up to and about why the Pandava was visiting all the tirthas. Thereupon, Arjuna recounted to him exactly what had happened. On hearing this, the lord Varshneya{83} approved. As they desired, Krishna and Pandava sported themselves in Prabhasa. They then went to the mountain Raivataka, to live there for some time. On Krishna’s instructions, men had already decorated the mountain and stored it with a lot of food. Accepting everything that was offered, Pandava Arjuna, together with Vasudeva, watched the actors and dancers. Having given them permission to leave in accordance with the proper form, the immensely radiant Pandava went to sleep on a well-made and divine bed. O descendant of the Bharata lineage! He told Satvata{84} about the tirthas, mountains, rivers and forests he had seen. O Janamejaya! As he was thus speaking, lying on a bed that was like heaven, sleep crept up on Kounteya. He was awakened in the morning, with the sweet sounds of singing and the sounds of the veena{85}, chants and blessings. After he had performed the necessary acts, Varshneya greeted him happily.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then Vasudeva asked Arjuna about what he had been up to and about why the Pandava was visiting all the tirthas. Thereupon, Arjuna recounted to him exactly what had happened. On hearing this, the lord Varshneya{83} approved. As they desired, Krishna and Pandava sported themselves in Prabhasa. They then went to the mountain Raivataka, to live there for some time. On Krishna’s instructions, men had already decorated the mountain and stored it with a lot of food. Accepting everything that was offered, Pandava Arjuna, together with Vasudeva, watched the actors and dancers. Having given them permission to leave in accordance with the proper form, the immensely radiant Pandava went to sleep on a well-made and divine bed. O descendant of the Bharata lineage! He told Satvata{84} about the tirthas, mountains, rivers and forests he had seen. O Janamejaya! As he was thus speaking, lying on a bed that was like heaven, sleep crept up on Kounteya. He was awakened in the morning, with the sweet sounds of singing and the sounds of the veena{85}, chants and blessings. After he had performed the necessary acts, Varshneya greeted him happily.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Riding on a golden chariot, they set off for Dvaraka. O Janamejaya! In order to pay homage to Kunti’s son, even the huts of Dvaraka had been decorated. The citizens of Dvaraka were eager to see Kounteya and came out in hundreds and thousands onto the road followed by kings. There was a great common assemblage of Bhojas, Vrishnis and Andhakas and hundreds and thousands of their women looked on. Having been respectfully worshipped by all the Bhojas, Vrishnis and Andhakas, he returned homage to those who deserved it, and was welcomed by everyone. All the young men paid their respects to the brave one, in the proper form. Those who were of his own age, embraced him again and again. With Krishna, he spent many nights in Krishna’s beautiful home, full of jewels and every object of pleasure.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Riding on a golden chariot, they set off for Dvaraka. O Janamejaya! In order to pay homage to Kunti’s son, even the huts of Dvaraka had been decorated. The citizens of Dvaraka were eager to see Kounteya and came out in hundreds and thousands onto the road followed by kings. There was a great common assemblage of Bhojas, Vrishnis and Andhakas and hundreds and thousands of their women looked on. Having been respectfully worshipped by all the Bhojas, Vrishnis and Andhakas, he returned homage to those who deserved it, and was welcomed by everyone. All the young men paid their respects to the brave one, in the proper form. Those who were of his own age, embraced him again and again. With Krishna, he spent many nights in Krishna’s beautiful home, full of jewels and every object of pleasure.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Putra Darshana Parva",
+  "subparva_number": 91,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 234
+  },
+  "note": "Putra means son and darshana means sight. Vyasa uses the power of his austerities to show everyone the dead warriors, including the sons of Dhritarashtra and Gandhari. That explains the name of this parva. After visiting Dhritarashtra, Gandhari and Kunti, the Pandavas return to Hastinapura.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1967": {
+      "chapter_number": 1967,
+      "global_number": 1967,
+      "local_number": 36,
+      "num_shlokas": 33,
+      "file": "subparva_91_putra_darshana_parva/chapter_1967_tagged.json"
+    },
+    "1968": {
+      "chapter_number": 1968,
+      "global_number": 1968,
+      "local_number": 37,
+      "num_shlokas": 18,
+      "file": "subparva_91_putra_darshana_parva/chapter_1968_tagged.json"
+    },
+    "1969": {
+      "chapter_number": 1969,
+      "global_number": 1969,
+      "local_number": 38,
+      "num_shlokas": 23,
+      "file": "subparva_91_putra_darshana_parva/chapter_1969_tagged.json"
+    },
+    "1970": {
+      "chapter_number": 1970,
+      "global_number": 1970,
+      "local_number": 39,
+      "num_shlokas": 24,
+      "file": "subparva_91_putra_darshana_parva/chapter_1970_tagged.json"
+    },
+    "1971": {
+      "chapter_number": 1971,
+      "global_number": 1971,
+      "local_number": 40,
+      "num_shlokas": 21,
+      "file": "subparva_91_putra_darshana_parva/chapter_1971_tagged.json"
+    },
+    "1972": {
+      "chapter_number": 1972,
+      "global_number": 1972,
+      "local_number": 41,
+      "num_shlokas": 28,
+      "file": "subparva_91_putra_darshana_parva/chapter_1972_tagged.json"
+    },
+    "1973": {
+      "chapter_number": 1973,
+      "global_number": 1973,
+      "local_number": 42,
+      "num_shlokas": 17,
+      "file": "subparva_91_putra_darshana_parva/chapter_1973_tagged.json"
+    },
+    "1974": {
+      "chapter_number": 1974,
+      "global_number": 1974,
+      "local_number": 43,
+      "num_shlokas": 18,
+      "file": "subparva_91_putra_darshana_parva/chapter_1974_tagged.json"
+    },
+    "1975": {
+      "chapter_number": 1975,
+      "global_number": 1975,
+      "local_number": 44,
+      "num_shlokas": 52,
+      "file": "subparva_91_putra_darshana_parva/chapter_1975_tagged.json"
+    }
+  }
+}

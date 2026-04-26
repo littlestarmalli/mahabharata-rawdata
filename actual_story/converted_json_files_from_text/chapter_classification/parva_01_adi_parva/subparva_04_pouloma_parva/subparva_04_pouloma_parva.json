@@ -1,0 +1,76 @@
+{
+  "name": "Pouloma Parva",
+  "subparva_number": 4,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 153
+  },
+  "note": "The meat of the Mahabharata doesn�t start in this parva, since one is still on the snake-sacrifice. Tndeed, this parva is mostly about the Bhar-gava lineage, descended from the great sage Bhrigu. Bhrigu�s son was the famous Shukra or Shukracharya and so was the sage Chyavana. Bhrigu married Puloma and anyone descended from Puloma is called Pouloma. That is how this parva obtains its name. The chapters in this parva take us down Bhrigu�s lineage, through Chyavana, Pramati, Ruru and Shunaka.",
+  "chapters": {
+    "4": {
+      "chapter_number": 4,
+      "global_number": 4,
+      "local_number": 4,
+      "num_shlokas": 11,
+      "file": "subparva_04_pouloma_parva/chapter_004.json"
+    },
+    "5": {
+      "chapter_number": 5,
+      "global_number": 5,
+      "local_number": 5,
+      "num_shlokas": 26,
+      "file": "subparva_04_pouloma_parva/chapter_005.json"
+    },
+    "6": {
+      "chapter_number": 6,
+      "global_number": 6,
+      "local_number": 6,
+      "num_shlokas": 16,
+      "file": "subparva_04_pouloma_parva/chapter_006.json"
+    },
+    "7": {
+      "chapter_number": 7,
+      "global_number": 7,
+      "local_number": 7,
+      "num_shlokas": 26,
+      "file": "subparva_04_pouloma_parva/chapter_007.json"
+    },
+    "8": {
+      "chapter_number": 8,
+      "global_number": 8,
+      "local_number": 8,
+      "num_shlokas": 22,
+      "file": "subparva_04_pouloma_parva/chapter_008.json"
+    },
+    "9": {
+      "chapter_number": 9,
+      "global_number": 9,
+      "local_number": 9,
+      "num_shlokas": 22,
+      "file": "subparva_04_pouloma_parva/chapter_009.json"
+    },
+    "10": {
+      "chapter_number": 10,
+      "global_number": 10,
+      "local_number": 10,
+      "num_shlokas": 8,
+      "file": "subparva_04_pouloma_parva/chapter_010.json"
+    },
+    "11": {
+      "chapter_number": 11,
+      "global_number": 11,
+      "local_number": 11,
+      "num_shlokas": 17,
+      "file": "subparva_04_pouloma_parva/chapter_011.json"
+    },
+    "12": {
+      "chapter_number": 12,
+      "global_number": 12,
+      "local_number": 12,
+      "num_shlokas": 5,
+      "file": "subparva_04_pouloma_parva/chapter_012.json"
+    }
+  }
+}

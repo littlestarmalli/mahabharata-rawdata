@@ -1,0 +1,30 @@
+{
+  "name": "Rajya-labha Parva",
+  "subparva_number": 15,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 50
+  },
+  "note": "and there are only fifty shlokas. Rajya-labha means the acquisition of the kingdom.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "199": {
+      "chapter_number": 199,
+      "global_number": 199,
+      "local_number": 199,
+      "num_shlokas": 50,
+      "file": "subparva_15_rajya_labha_parva/chapter_199_tagged.json"
+    }
+  }
+}

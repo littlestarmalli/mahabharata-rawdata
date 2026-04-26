@@ -1,0 +1,85 @@
+{
+  "chapter": 554,
+  "local": 257,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘After they had suffered incomparable miseries because Krishna had been abducted, what did the Pandavas, tigers among men, do?’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After they had suffered incomparable miseries because Krishna had been abducted, what did the Pandavas, tigers among men, do?’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having freed Krishna and vanquished Jayadratha, Dharmaraja Yudhishthira sat down with the masses of sages. In the midst of those maharshis, who listened and lamented, the descendant of the Pandu lineage spoke these words to Markandeya. “O illustrious one! I think that time, and destiny created by the gods, is inevitable for all beings and cannot be transgressed. Our wife is learned about dharma and conducts herself according to dharma. How can she have been touched in this way, like a false allegation of theft against a pure one? She has never committed an evil deed. She has never committed an act that can be censured. Droupadi has always practised the greatest form of dharma among brahmanas. The foolish King Jayadratha abducted her by force. Because of that abduction of her, he had the hair on his head shaved off. He was defeated in battle, with all his companions. It is true that we have got her back after killing the Saindhava forces. But the act of abduction, while we were distracted, has sullied us. This life in the forest is full of misery. We sustain ourselves through hunting. This means that those who live in the forest cause violence to those of the deer family. This exile has been brought about by relatives who resorted to falsehood. Is there any other man who is more unfortunate than I? Have you seen, or heard of, any such one earlier?”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having freed Krishna and vanquished Jayadratha, Dharmaraja Yudhishthira sat down with the masses of sages. In the midst of those maharshis, who listened and lamented, the descendant of the Pandu lineage spoke these words to Markandeya. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! I think that time, and destiny created by the gods, is inevitable for all beings and cannot be transgressed. Our wife is learned about dharma and conducts herself according to dharma. How can she have been touched in this way, like a false allegation of theft against a pure one? She has never committed an evil deed. She has never committed an act that can be censured. Droupadi has always practised the greatest form of dharma among brahmanas. The foolish King Jayadratha abducted her by force. Because of that abduction of her, he had the hair on his head shaved off. He was defeated in battle, with all his companions. It is true that we have got her back after killing the Saindhava forces. But the act of abduction, while we were distracted, has sullied us. This life in the forest is full of misery. We sustain ourselves through hunting. This means that those who live in the forest cause violence to those of the deer family. This exile has been brought about by relatives who resorted to falsehood. Is there any other man who is more unfortunate than I? Have you seen, or heard of, any such one earlier?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

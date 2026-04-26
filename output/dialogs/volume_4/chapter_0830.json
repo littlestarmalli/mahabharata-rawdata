@@ -1,0 +1,57 @@
+{
+  "chapter": 830,
+  "local": 167,
+  "shlokas": 14,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Bhishma said, ‘O great king! All the ﬁve sons of Droupadi are maharathas. It is my view that Virata's son, Uttara, is also a great ratha. O great king! Abhimanyu is the leader of leaders among rathas. He will be the equal of Partha in battle, perhaps even of Vasudeva. He is skilled and colourful in the use of weapons. He is spirited and ﬁrm in his valour. He will remember the hardships his fathers faced and display his valour. The brave Madhava Satyaki is the leader of leaders among rathas. He is the most intolerant among the Vrishni warriors. He has conquered all fear. O king! I think that Uttamouja is a great ratha and that the valiant Yudhamanyu, bull among men, is a foremost ratha. They have many thousands of chariots, elephants and horses. To bring pleasure to Kunti's son, they will ﬁght along with the Pandavas and against your soldiers, willing to give up their lives. O Indra among kings! O descendant of the Bharata lineage! O king! They will be like the ﬁre and the wind, helping each other. The aged Virata and Drupada are invincible in battle. It is my view that those extremely valiant bulls among men are maharathas. Though they are aged in years, they are devoted to the dharma of kshatriyas. They will strive with their extreme capacity to walk the path travelled by heroes. O Indra among kings! They have an alliance with them and possess valour and strength. They follow the conduct of aryas. They are great archers. They are bound by the noose of affection. O bull among men! Because of various reasons, all mighty-armed men become brave or cowards. But these two are ﬁrm in their affection towards Partha, they are united in their purpose. O lord among men! They will act with all their strength, giving up their lives against the enemy. They each control a separate akshouhini and will strive ﬁercely. They will protect their relatives and perform great deeds. O descendant of the Bharata lineage! They are great archers and are heroes in this world. They will give up their own lives. While preserving their resolutions, they will perform great exploits.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great king! All the ﬁve sons of Droupadi are maharathas. It is my view that Virata's son, Uttara, is also a great ratha. O great king! Abhimanyu is the leader of leaders among rathas. He will be the equal of Partha in battle, perhaps even of Vasudeva. He is skilled and colourful in the use of weapons. He is spirited and ﬁrm in his valour. He will remember the hardships his fathers faced and display his valour. The brave Madhava Satyaki is the leader of leaders among rathas. He is the most intolerant among the Vrishni warriors. He has conquered all fear. O king! I think that Uttamouja is a great ratha and that the valiant Yudhamanyu, bull among men, is a foremost ratha. They have many thousands of chariots, elephants and horses. To bring pleasure to Kunti's son, they will ﬁght along with the Pandavas and against your soldiers, willing to give up their lives. O Indra among kings! O descendant of the Bharata lineage! O king! They will be like the ﬁre and the wind, helping each other. The aged Virata and Drupada are invincible in battle. It is my view that those extremely valiant bulls among men are maharathas. Though they are aged in years, they are devoted to the dharma of kshatriyas. They will strive with their extreme capacity to walk the path travelled by heroes. O Indra among kings! They have an alliance with them and possess valour and strength. They follow the conduct of aryas. They are great archers. They are bound by the noose of affection. O bull among men! Because of various reasons, all mighty-armed men become brave or cowards. But these two are ﬁrm in their affection towards Partha, they are united in their purpose. O lord among men! They will act with all their strength, giving up their lives against the enemy. They each control a separate akshouhini and will strive ﬁercely. They will protect their relatives and perform great deeds. O descendant of the Bharata lineage! They are great archers and are heroes in this world. They will give up their own lives. While preserving their resolutions, they will perform great exploits.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

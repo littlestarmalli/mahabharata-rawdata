@@ -1,0 +1,222 @@
+{
+  "chapter": 143,
+  "local": 143,
+  "shlokas": 38,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhimasena said, “The rakshasas remember their enmity and use delusions{20}. O Hidimba! Therefore, you also follow the path that your brother has taken.” Yudhishthira said, “O tiger among men! O Bhima! Do not kill a woman even in anger. O Pandava! Following the righteous path is more important than preservation of the physical body. You have killed the immensely powerful rakshasa who came here with the intention of killing us. What can his sister do to us, even if she is angry?”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhimasena said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhima",
+          "introduces_label": "Bhimasena",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The rakshasas remember their enmity and use delusions{20}. O Hidimba! Therefore, you also follow the path that your brother has taken.”",
+          "speaker": "@bhima",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O tiger among men! O Bhima! Do not kill a woman even in anger. O Pandava! Following the righteous path is more important than preservation of the physical body. You have killed the immensely powerful rakshasa who came here with the intention of killing us. What can his sister do to us, even if she is angry?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Thereupon, Hidimba respectfully saluted Kunti and Yudhishthira with joined hands and told Kunti, “O honoured lady! You are familiar with the pangs women suffer through Ananga{21}. O fortunate lady! I am now suffering those pangs for Bhimasena. I have suffered that great misery, waiting for the right time. But now that time has come and I expect my happiness. O fortunate lady! I have left my friends, relatives and my designated path. I have chosen your son, this tiger among men, as my husband. O illustrious lady! Will the choice of a woman be rejected because of the way I speak? O greatly fortunate lady! Whether you think me stupid or whether you think that I am devoted to you, please unite me with your son, my husband. O fortunate lady! Let me go as I wish, taking this god-like one. Trust me that I shall bring him back here. Whenever you think of me, I shall immediately come to you and swiftly carry these bulls among men on my shoulders, over pastures and difﬁcult terrain, wherever you wish to go. Please take pity on me and let Bhimasena make love to me. It is in accordance with what is right that one should preserve oneself from disaster and act accordingly, by whatever means. One who follows this righteous path in calamities is supreme among those who know what is right. Calamities are the greatest danger to what is right and to righteous ones. What preserves life is holy and, therefore, what grants life is what is holy. The means through which this righteousness is ensured can never deserve condemnation{22}.” Yudhishthira replied, “O Hidimba! There is no doubt that what you have said is true. O lady with the slender waist! Act in accordance with the righteous path, as you have described it to be. O fortunate lady! When he has bathed, performed his ablutions and ﬁnished all rites, he will make love to you until the sun sets. O you who are swift as the mind! Have your pleasure with him, as you wish, during the day. But you must bring Bhimasena back every night.” Having taken an oath to do this, the rakshasi Hidimba then took Bhimasena up and rose into the sky.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thereupon, Hidimba respectfully saluted Kunti and Yudhishthira with joined hands and told Kunti, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O honoured lady! You are familiar with the pangs women suffer through Ananga{21}. O fortunate lady! I am now suffering those pangs for Bhimasena. I have suffered that great misery, waiting for the right time. But now that time has come and I expect my happiness. O fortunate lady! I have left my friends, relatives and my designated path. I have chosen your son, this tiger among men, as my husband. O illustrious lady! Will the choice of a woman be rejected because of the way I speak? O greatly fortunate lady! Whether you think me stupid or whether you think that I am devoted to you, please unite me with your son, my husband. O fortunate lady! Let me go as I wish, taking this god-like one. Trust me that I shall bring him back here. Whenever you think of me, I shall immediately come to you and swiftly carry these bulls among men on my shoulders, over pastures and difﬁcult terrain, wherever you wish to go. Please take pity on me and let Bhimasena make love to me. It is in accordance with what is right that one should preserve oneself from disaster and act accordingly, by whatever means. One who follows this righteous path in calamities is supreme among those who know what is right. Calamities are the greatest danger to what is right and to righteous ones. What preserves life is holy and, therefore, what grants life is what is holy. The means through which this righteousness is ensured can never deserve condemnation{22}.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Yudhishthira replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Hidimba! There is no doubt that what you have said is true. O lady with the slender waist! Act in accordance with the righteous path, as you have described it to be. O fortunate lady! When he has bathed, performed his ablutions and ﬁnished all rites, he will make love to you until the sun sets. O you who are swift as the mind! Have your pleasure with him, as you wish, during the day. But you must bring Bhimasena back every night.”",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having taken an oath to do this, the rakshasi Hidimba then took Bhimasena up and rose into the sky.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Assuming the most beautiful of forms, adorned in every kind of ornament and sometimes breaking out in sweet music, she pleasured with the Pandava on beautiful mountain peaks cared for by the gods and always frequented by animals and birds; and also in forests and mountain passes with ﬂowering trees and creepers; in beautiful ponds adorned with lotuses and water lilies; in islands on rivers where the gravel was like lapis lazuli and in mountain streams where the woods and the water were pure; on the shores of the ocean with jewels and gold; in beautiful cities and in forests with large shala trees; in forests sacred to the gods and the peaks of mountains; in the dwelling places of the guhyakas and the hermitages of ascetics; and along the waters of Lake Manasa{23}, abounding in ﬂowers and fruit in all seasons. Assuming a beautiful form, she pleasured with the Pandava. In every such place, the one who was as swift as the mind, pleasured with Bhima.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Assuming the most beautiful of forms, adorned in every kind of ornament and sometimes breaking out in sweet music, she pleasured with the Pandava on beautiful mountain peaks cared for by the gods and always frequented by animals and birds; and also in forests and mountain passes with ﬂowering trees and creepers; in beautiful ponds adorned with lotuses and water lilies; in islands on rivers where the gravel was like lapis lazuli and in mountain streams where the woods and the water were pure; on the shores of the ocean with jewels and gold; in beautiful cities and in forests with large shala trees; in forests sacred to the gods and the peaks of mountains; in the dwelling places of the guhyakas and the hermitages of ascetics; and along the waters of Lake Manasa{23}, abounding in ﬂowers and fruit in all seasons. Assuming a beautiful form, she pleasured with the Pandava. In every such place, the one who was as swift as the mind, pleasured with Bhima.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘From Bhimasena, the rakshasi then gave birth to an immensely powerful son. He had a fearful appearance, with terrible eyes, a large mouth and ears like spikes. His form was distorted. His lips were brown as copper and his teeth were sharp, with great strength in them. He had mighty arms, possessed great energy and was born extremely valorous, a great archer. He had great speed, with gigantic size and was a conqueror of enemies, greatly skilled in the powers of delusion. Though born from a man, with great speed and great strength, he had nothing human in him. He surpassed all pishachas and other such creatures, not to speak of humans. O lord of men! Although a child, by human standards he seemed to be a fully grown youth. He became a powerful and supreme hero, skilled in the use of all the weapons that are known.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘From Bhimasena, the rakshasi then gave birth to an immensely powerful son. He had a fearful appearance, with terrible eyes, a large mouth and ears like spikes. His form was distorted. His lips were brown as copper and his teeth were sharp, with great strength in them. He had mighty arms, possessed great energy and was born extremely valorous, a great archer. He had great speed, with gigantic size and was a conqueror of enemies, greatly skilled in the powers of delusion. Though born from a man, with great speed and great strength, he had nothing human in him. He surpassed all pishachas and other such creatures, not to speak of humans. O lord of men! Although a child, by human standards he seemed to be a fully grown youth. He became a powerful and supreme hero, skilled in the use of all the weapons that are known.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Rakshasa women give birth on the day they conceive. They are capable of assuming any form they want and they can adopt many different forms. The child who had grown and become a supreme archer, then saluted his father and mother by touching their feet. They gave him a name. His mother said, “He is shiny like a pot{24},” and his name became Ghatotkacha. Ghatotkacha was devoted to the Pandavas and they always loved him. He became one of them. Knowing that the prescribed time of her stay with them was over, Hidimba made another agreement with them{25} and went where she wanted. Ghatotkacha, the best of rakshasas, told his father that he would come whenever he was required and left for the north. He had been created by the great-souled Maghavan{26} as a powerful antagonist against the great-souled maharatha Karna.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Rakshasa women give birth on the day they conceive. They are capable of assuming any form they want and they can adopt many different forms. The child who had grown and become a supreme archer, then saluted his father and mother by touching their feet. They gave him a name. His mother said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "his_mother",
+          "introduces_label": "His mother",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“He is shiny like a pot{24},”",
+          "speaker": "his_mother",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " and his name became Ghatotkacha. Ghatotkacha was devoted to the Pandavas and they always loved him. He became one of them. Knowing that the prescribed time of her stay with them was over, Hidimba made another agreement with them{25} and went where she wanted. Ghatotkacha, the best of rakshasas, told his father that he would come whenever he was required and left for the north. He had been created by the great-souled Maghavan{26} as a powerful antagonist against the great-souled maharatha Karna.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

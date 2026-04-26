@@ -1,0 +1,202 @@
+{
+  "chapter": 45,
+  "local": 45,
+  "shlokas": 28,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Shounaka asked, ‘At that time, what did King Janamejaya ask his ministers about his father's ascent to heaven? Tell me that again in detail.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Shounaka asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shounaka",
+          "introduces_label": "Shounaka",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At that time, what did King Janamejaya ask his ministers about his father's ascent to heaven? Tell me that again in detail.’",
+          "speaker": "@shounaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti replied, ‘O Brahmana! Hear what the king asked his ministers and all that they told him about Parikshit's death. Janamejaya said, “You know all that happened to my father and how my greatly illustrious father came about his death. When I have heard all about my father in complete detail from you, I shall learn all that is good and not that which is evil.”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Brahmana! Hear what the king asked his ministers and all that they told him about Parikshit's death. Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You know all that happened to my father and how my greatly illustrious father came about his death. When I have heard all about my father in complete detail from you, I shall learn all that is good and not that which is evil.”",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Being asked by the great-souled King Janamejaya, the virtuous and wise ministers replied, “Your father was devoted to dharma, great-souled and a protector of his subjects. Hear how that great-souled one led his life. The four varnas were respectively established in their own dharmas and the king, who was himself well versed with dharma protected them there, in accordance with the dictates of dharma. Illustrious and with inﬁnite might, he protected the goddess earth. He hated no one. Nor did anyone hate him. Like Prajapati himself, he treated all beings impartially. O king! Established in their respective duties, the Brahmanas, the Kshatriyas, the Vaishyas and the Shudras were protected impartially by the king. He maintained widows, orphans, the disabled and the poor. He was handsome and like another moon to all creatures. Through that truthful and greatly powerful king, everyone was content and blessed with good fortune. The king became Sharadvata's student in the science of weapons{140}. O Janamejaya! Govinda{141} loved your father. He was immensely famous and loved by all the worlds. He was born in Uttara's womb when the Kuru lineage was almost destroyed. Therefore, Soubhadra's{142} powerful son came to be known as Parikshit. The king was learned in royal norms of dharma and artha and had all the qualities. He was in control of his senses and of himself. He was intelligent and was served by those who were wise. He had great wisdom and was completely familiar with the norms of righteous conduct. He had conquered the six vices{143}. Your father protected his subjects for sixty years. His end was preordained, through a snake, and it couldn't be avoided. O best of men! After him, you have lawfully ascended this ancestral kingdom of the Kurus and will rule for 1000 years. O protector of every being! You were instated when you were a child.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Being asked by the great-souled King Janamejaya, the virtuous and wise ministers replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "wise_ministers",
+          "introduces_label": "wise ministers",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Your father was devoted to dharma, great-souled and a protector of his subjects. Hear how that great-souled one led his life. The four varnas were respectively established in their own dharmas and the king, who was himself well versed with dharma protected them there, in accordance with the dictates of dharma. Illustrious and with inﬁnite might, he protected the goddess earth. He hated no one. Nor did anyone hate him. Like Prajapati himself, he treated all beings impartially. O king! Established in their respective duties, the Brahmanas, the Kshatriyas, the Vaishyas and the Shudras were protected impartially by the king. He maintained widows, orphans, the disabled and the poor. He was handsome and like another moon to all creatures. Through that truthful and greatly powerful king, everyone was content and blessed with good fortune. The king became Sharadvata's student in the science of weapons{140}. O Janamejaya! Govinda{141} loved your father. He was immensely famous and loved by all the worlds. He was born in Uttara's womb when the Kuru lineage was almost destroyed. Therefore, Soubhadra's{142} powerful son came to be known as Parikshit. The king was learned in royal norms of dharma and artha and had all the qualities. He was in control of his senses and of himself. He was intelligent and was served by those who were wise. He had great wisdom and was completely familiar with the norms of righteous conduct. He had conquered the six vices{143}. Your father protected his subjects for sixty years. His end was preordained, through a snake, and it couldn't be avoided. O best of men! After him, you have lawfully ascended this ancestral kingdom of the Kurus and will rule for 1000 years. O protector of every being! You were instated when you were a child.”",
+          "speaker": "wise_ministers",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Janamejaya said, “In our lineage, no king has ever been born who did not look after the welfare of his subjects and please them. Consider especially the conduct of my grandfathers{144}, who were always devoted to a great life. How did my father, who was like them, come to his end? Describe it accurately to me. I wish to hear it.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Janamejaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In our lineage, no king has ever been born who did not look after the welfare of his subjects and please them. Consider especially the conduct of my grandfathers{144}, who were always devoted to a great life. How did my father, who was like them, come to his end? Describe it accurately to me. I wish to hear it.”",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘Thus asked by the king, the ministers, who were always engaged in that which brought pleasure to the king, told him everything that had happened. The ministers said, “O king! Your father was always addicted to hunting, like the greatly fortunate warrior and great archer, Pandu. He handed over all matters concerning the running of the kingdom to us. On one occasion, he was roaming in the forest and pierced a deer with an arrow. Having thus shot the deer, he pursued it deep into the forest, alone and on foot, with his sword, quiver and bow ready. But your father could not ﬁnd that lost deer deep inside the forest. He was sixty years old and aged and felt tired and hungry. He then saw a great sage in that great forest. The lord of kings asked the sage, who at that time was observing a vow of silence and thus the sage did not reply to any of the questions. In his vow of silence, the sage sat motionless and peaceful like a piece of wood, and hungry and thirsty and not knowing that the sage was observing a vow of silence, the king became angry with the sage. Being angry, your father insulted the sage. O best of the Bharata lineage! With the end of his bow, he picked up a dead snake from the ground and placed it around the shoulders of that pure-souled sage. But that wise one did not utter a word, good or bad, and did not become angry. He remained as he was, with the snake around his shoulders.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Thus asked by the king, the ministers, who were always engaged in that which brought pleasure to the king, told him everything that had happened. The ministers said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_ministers",
+          "introduces_label": "The ministers",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Your father was always addicted to hunting, like the greatly fortunate warrior and great archer, Pandu. He handed over all matters concerning the running of the kingdom to us. On one occasion, he was roaming in the forest and pierced a deer with an arrow. Having thus shot the deer, he pursued it deep into the forest, alone and on foot, with his sword, quiver and bow ready. But your father could not ﬁnd that lost deer deep inside the forest. He was sixty years old and aged and felt tired and hungry. He then saw a great sage in that great forest. The lord of kings asked the sage, who at that time was observing a vow of silence and thus the sage did not reply to any of the questions. In his vow of silence, the sage sat motionless and peaceful like a piece of wood, and hungry and thirsty and not knowing that the sage was observing a vow of silence, the king became angry with the sage. Being angry, your father insulted the sage. O best of the Bharata lineage! With the end of his bow, he picked up a dead snake from the ground and placed it around the shoulders of that pure-souled sage. But that wise one did not utter a word, good or bad, and did not become angry. He remained as he was, with the snake around his shoulders.”",
+          "speaker": "the_ministers",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

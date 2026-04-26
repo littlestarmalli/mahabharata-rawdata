@@ -1,0 +1,20 @@
+{
+  "name": "Rajya-labha Parva",
+  "subparva_number": 15,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 50
+  },
+  "note": "and there are only fifty shlokas. Rajya-labha means the acquisition of the kingdom.",
+  "chapters": {
+    "199": {
+      "chapter_number": 199,
+      "global_number": 199,
+      "local_number": 199,
+      "num_shlokas": 50,
+      "file": "subparva_15_rajya_labha_parva/chapter_199.json"
+    }
+  }
+}

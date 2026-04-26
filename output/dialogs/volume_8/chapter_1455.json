@@ -1,0 +1,145 @@
+{
+  "chapter": 1455,
+  "local": 127,
+  "shlokas": 10,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “As you have spoken, I have not obtained enough of this amrita. O grandfather! Therefore, speak to me again about dharma.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“As you have spoken, I have not obtained enough of this amrita. O grandfather! Therefore, speak to me again about dharma.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “On this, an ancient history is recounted about a conversation between Goutama and the great-souled Yama. Goutama's great hermitage was on Mount Pariyatra and Goutama dwelt there for some time. Listen to this. Goutama tormented himself through austerities for sixty thousand years. The cleansed and ascetic sage performed severe austerities. O tiger among men! Yama, the guardian of the world, went to him there. As sage Goutama performed those excellent austerities, he looked at the rishi. Because of his energy, the brahmana rishi realized that Yama had arrived. The one who was rich in austerities joined his hands in salutation and advanced towards him. Dharmaraja{1099} looked towards that bull among men and bowed down before him. Dharma asked him, ‘What can I do for you?’ Goutama asked, ‘How can one free oneself of the debts due to the mother and the father? How can a man quickly obtain the auspicious worlds, which are so difﬁcult to obtain?’ Yama replied, ‘Austerities, purity, constant devotion to truth and dharma, constant worship of the mother and the father are the tasks one should be attached to. One must perform many horse sacriﬁces, with dakshina for the ofﬁciating priests. A man will then obtain worlds that are extraordinary to behold.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“On this, an ancient history is recounted about a conversation between Goutama and the great-souled Yama. Goutama's great hermitage was on Mount Pariyatra and Goutama dwelt there for some time. Listen to this. Goutama tormented himself through austerities for sixty thousand years. The cleansed and ascetic sage performed severe austerities. O tiger among men! Yama, the guardian of the world, went to him there. As sage Goutama performed those excellent austerities, he looked at the rishi. Because of his energy, the brahmana rishi realized that Yama had arrived. The one who was rich in austerities joined his hands in salutation and advanced towards him. Dharmaraja{1099} looked towards that bull among men and bowed down before him. Dharma asked him, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Dharma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What can I do for you?’",
+          "speaker": "@yama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Goutama asked, ",
+          "speaker": "@bhishma",
+          "introduces": "@kripa",
+          "introduces_label": "Goutama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How can one free oneself of the debts due to the mother and the father? How can a man quickly obtain the auspicious worlds, which are so difﬁcult to obtain?’",
+          "speaker": "@kripa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Yama replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@yama",
+          "introduces_label": "Yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Austerities, purity, constant devotion to truth and dharma, constant worship of the mother and the father are the tasks one should be attached to. One must perform many horse sacriﬁces, with dakshina for the ofﬁciating priests. A man will then obtain worlds that are extraordinary to behold.’",
+          "speaker": "@yama",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "chapter": 1497,
+  "local": 169,
+  "shlokas": 37,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “This time, which brings about the destruction of all beings, moves on. O grandfather! What is the supreme beneﬁt one should try for? Tell me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This time, which brings about the destruction of all beings, moves on. O grandfather! What is the supreme beneﬁt one should try for? Tell me.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, an ancient history is recounted. This is a conversation between a father and a son. O Yudhishthira! Listen to it. O Partha! There was a certain brahmana who was devoted to studying. He had an intelligent son named Medhavin{11}. The son was accomplished in the objective of moksha dharma and was also conversant with the true nature of the world. He spoke to his father, who was engaged in the act of studying. ‘O father! Since the lifespan of beings passes so quickly and men are destroyed, what should a wise person do? O father! Tell me about proper yoga and about the progressive way one should follow dharma.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, an ancient history is recounted. This is a conversation between a father and a son. O Yudhishthira! Listen to it. O Partha! There was a certain brahmana who was devoted to studying. He had an intelligent son named Medhavin{11}. The son was accomplished in the objective of moksha dharma and was also conversant with the true nature of the world. He spoke to his father, who was engaged in the act of studying. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O father! Since the lifespan of beings passes so quickly and men are destroyed, what should a wise person do? O father! Tell me about proper yoga and about the progressive way one should follow dharma.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The father replied, ‘O son! In brahmacharya, one must study the Vedas. Then, one must desire sons, so that the ancestors can be saved. Next, one must accept the sacriﬁcial ﬁre and perform sacriﬁces, in accordance with the prescribed rites. Finally, one must enter the forest and strive as a hermit.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The father replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_father",
+          "introduces_label": "The father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! In brahmacharya, one must study the Vedas. Then, one must desire sons, so that the ancestors can be saved. Next, one must accept the sacriﬁcial ﬁre and perform sacriﬁces, in accordance with the prescribed rites. Finally, one must enter the forest and strive as a hermit.’",
+          "speaker": "the_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The son asked, ‘The world is surrounded from all sides and is afﬂicted. A fall is certain. How can you speak with such patience?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The son asked, ",
+          "speaker": "@bhishma",
+          "introduces": "the_son",
+          "introduces_label": "The son",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The world is surrounded from all sides and is afﬂicted. A fall is certain. How can you speak with such patience?’",
+          "speaker": "the_son",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The father replied, ‘How is the world afﬂicted? By what is it surrounded? Why is fall certain? Why are you scaring me?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The father replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_father",
+          "introduces_label": "The father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How is the world afﬂicted? By what is it surrounded? Why is fall certain? Why are you scaring me?’",
+          "speaker": "the_father",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The son said, ‘The world is afﬂicted by death. It is surrounded by old age. Day and night, there is downfall. How can you not comprehend this? I know that death does not wait for anyone{12}. How can I wait for it, with my feet tied in that net? As one night follows another night, the lifespan is decreased. Being like a ﬁsh in shallow water, how can one then be happy? The learned person knows that every day is fruitless. Before all desires are satisﬁed, a man encounters death. It is as if a ram is inattentive and is roaming around, feeding on young grass, when a she-wolf grabs him and conveys him to death. Do what is best today, lest you are overtaken by death. Death attracts, even if tasks are left incomplete. Tomorrow's task should be done today, the afternoon's in the forenoon. Death does not wait, to see if a task has been done or is yet undone. Who knows that he will not be approached by death today itself? When one is young, one must accept the pursuit of dharma as the only reason for remaining alive{13}. Observing dharma, one obtains deeds in this world and happiness after death. Overcome by confusion, one strives for the sake of sons and wives. In an attempt to sustain them, one performs desirable and undesirable acts. A man thinks in his mind that sons and animals are important and is devoted to this. While he is thus asleep, death grasps him, like an extremely powerful tiger. He has still not been satisﬁed by obtaining the objects of desire. Nevertheless, like a tiger grabbing an animal, death takes him away and goes. He is still thinking about the tasks that have been done, those which have been done and those which have partly been done. While he is attached to happiness in this death, he comes under the subjugation of death. This happens even before he has obtained the fruits of the deeds that have been completed. He is attached to the ﬁeld, the shop and the home and attached to the fruits of deeds, but death takes him and goes away. There is death, old age and disease—and many other reasons for misery. All of them dwell in the body. How can you then remain, as if you are healthy? From the moment a being is born, death and old age pursue him, to bring about his end. Everything, mobile and immobile, is afﬂicted by these two. The learned texts have said that the pleasure{14} from attachment to dwelling in homes in villages and habitations is just like death. However, this can be contained in the forest. The attachment to villages and habitations binds one down with ropes. The performer of good deeds can sever these. But the performer of evil deeds cannot sever these. A person who does not unnecessarily injure beings through thoughts, words and deeds, is not destroyed by those who seek to take away life and wealth. He is not tied down by his action. When the soldiers of death advance, nothing can withstand them, with the exception of truth and the abandonment of falsehood. There is amrita in truth. Therefore, one must follow the vow of truth and be devoted to the yoga of truth. There is delight, peace and tranquility in truth. It is through truth that one triumphs over death. Both immortality and death exist in the body. Through confusion, one obtains death. Through truth, one obtains immortality. That is the reason I am non-violent and pursuing the truth. I have cast aside desire and anger. I am impartial towards happiness and unhappiness. I am tranquil and look on death, as if I am immortal. I will be a hermit who will be devoted to sacriﬁces for peace, sacriﬁces for the brahman, sacriﬁces through words and sacriﬁces through deeds, thereby making myself awaken. How can one perform such violent sacriﬁces that involve the slaughter of animals? How can a wise person acts like a ﬂesh-eater, injure himself internally, and observe the sacriﬁces of kshatriyas? If a person is singleminded in his words, thoughts, austerities, renunciation and yoga and follows these well, he obtains everything. There is no sight that is equal to knowledge. There is no strength that is equal to knowledge. There is no misery that is like that of attachment. There is no joy that is equal to renunciation. My atman has been generated from the atman{15}. Though I have no offspring, I will base myself on the atman{16}. My salvation will come from the atman, not from offspring. There are no riches for a brahmana that are equal to solitude and truth. Basing himself on good conduct, not chastising anyone, resorting to uprightness—he performs the supreme rites. Where are your riches? Where are your relatives? Where are your wives? O brahmana! They will all die. Your atman is hidden inside a cave. Where have your grandfather and your father gone{17}?’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The son said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_son",
+          "introduces_label": "The son",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The world is afﬂicted by death. It is surrounded by old age. Day and night, there is downfall. How can you not comprehend this? I know that death does not wait for anyone{12}. How can I wait for it, with my feet tied in that net? As one night follows another night, the lifespan is decreased. Being like a ﬁsh in shallow water, how can one then be happy? The learned person knows that every day is fruitless. Before all desires are satisﬁed, a man encounters death. It is as if a ram is inattentive and is roaming around, feeding on young grass, when a she-wolf grabs him and conveys him to death. Do what is best today, lest you are overtaken by death. Death attracts, even if tasks are left incomplete. Tomorrow's task should be done today, the afternoon's in the forenoon. Death does not wait, to see if a task has been done or is yet undone. Who knows that he will not be approached by death today itself? When one is young, one must accept the pursuit of dharma as the only reason for remaining alive{13}. Observing dharma, one obtains deeds in this world and happiness after death. Overcome by confusion, one strives for the sake of sons and wives. In an attempt to sustain them, one performs desirable and undesirable acts. A man thinks in his mind that sons and animals are important and is devoted to this. While he is thus asleep, death grasps him, like an extremely powerful tiger. He has still not been satisﬁed by obtaining the objects of desire. Nevertheless, like a tiger grabbing an animal, death takes him away and goes. He is still thinking about the tasks that have been done, those which have been done and those which have partly been done. While he is attached to happiness in this death, he comes under the subjugation of death. This happens even before he has obtained the fruits of the deeds that have been completed. He is attached to the ﬁeld, the shop and the home and attached to the fruits of deeds, but death takes him and goes away. There is death, old age and disease—and many other reasons for misery. All of them dwell in the body. How can you then remain, as if you are healthy? From the moment a being is born, death and old age pursue him, to bring about his end. Everything, mobile and immobile, is afﬂicted by these two. The learned texts have said that the pleasure{14} from attachment to dwelling in homes in villages and habitations is just like death. However, this can be contained in the forest. The attachment to villages and habitations binds one down with ropes. The performer of good deeds can sever these. But the performer of evil deeds cannot sever these. A person who does not unnecessarily injure beings through thoughts, words and deeds, is not destroyed by those who seek to take away life and wealth. He is not tied down by his action. When the soldiers of death advance, nothing can withstand them, with the exception of truth and the abandonment of falsehood. There is amrita in truth. Therefore, one must follow the vow of truth and be devoted to the yoga of truth. There is delight, peace and tranquility in truth. It is through truth that one triumphs over death. Both immortality and death exist in the body. Through confusion, one obtains death. Through truth, one obtains immortality. That is the reason I am non-violent and pursuing the truth. I have cast aside desire and anger. I am impartial towards happiness and unhappiness. I am tranquil and look on death, as if I am immortal. I will be a hermit who will be devoted to sacriﬁces for peace, sacriﬁces for the brahman, sacriﬁces through words and sacriﬁces through deeds, thereby making myself awaken. How can one perform such violent sacriﬁces that involve the slaughter of animals? How can a wise person acts like a ﬂesh-eater, injure himself internally, and observe the sacriﬁces of kshatriyas? If a person is singleminded in his words, thoughts, austerities, renunciation and yoga and follows these well, he obtains everything. There is no sight that is equal to knowledge. There is no strength that is equal to knowledge. There is no misery that is like that of attachment. There is no joy that is equal to renunciation. My atman has been generated from the atman{15}. Though I have no offspring, I will base myself on the atman{16}. My salvation will come from the atman, not from offspring. There are no riches for a brahmana that are equal to solitude and truth. Basing himself on good conduct, not chastising anyone, resorting to uprightness—he performs the supreme rites. Where are your riches? Where are your relatives? Where are your wives? O brahmana! They will all die. Your atman is hidden inside a cave. Where have your grandfather and your father gone{17}?’",
+          "speaker": "the_son",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “O king! Hearing the words of the son, the father acted accordingly. You should also conduct yourself in that way, observing the dharma of truth.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Hearing the words of the son, the father acted accordingly. You should also conduct yourself in that way, observing the dharma of truth.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

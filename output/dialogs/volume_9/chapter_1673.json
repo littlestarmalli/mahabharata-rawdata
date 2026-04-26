@@ -1,0 +1,222 @@
+{
+  "chapter": 1673,
+  "local": 345,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “Progressively, he passed through many wonderful groves, places of pilgrimage and lakes and arrived before a sage. The brahmana asked him about the serpent the other brahmana had spoken about. Having been duly instructed, he proceeded again. He was clear about his intention and went to the residence of the famous serpent. Having reached, he exclaimed, ‘I am here. Is there anyone here?’ The serpent's wife was devoted to her husband. She was beautiful and devoted to dharma. She came and showed herself to the brahmana. She was devoted to dharma and following the prescribed rites, honoured him. She said, ‘Welcome. What can I do for you?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Progressively, he passed through many wonderful groves, places of pilgrimage and lakes and arrived before a sage. The brahmana asked him about the serpent the other brahmana had spoken about. Having been duly instructed, he proceeded again. He was clear about his intention and went to the residence of the famous serpent. Having reached, he exclaimed, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am here. Is there anyone here?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The serpent's wife was devoted to her husband. She was beautiful and devoted to dharma. She came and showed herself to the brahmana. She was devoted to dharma and following the prescribed rites, honoured him. She said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "She",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Welcome. What can I do for you?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘I was exhausted. But your gentle words of reverence have swept that away. I wish to see your lord, the supreme serpent. This is my supreme task. This is the fruit that I desire. That is the reason I have come here now, to the serpent's abode.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I was exhausted. But your gentle words of reverence have swept that away. I wish to see your lord, the supreme serpent. This is my supreme task. This is the fruit that I desire. That is the reason I have come here now, to the serpent's abode.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The serpent's wife said, ‘O honourable one! He has gone for a month, to bear Surya's chariot. O brahmana! There is no doubt that he will return in ﬁfteen days and show himself to you. I have told you the reason why the noble one is not here. That being the case, what else can I do for you? Tell me that.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The serpent's wife said, ",
+          "speaker": "@bhishma",
+          "introduces": "the_serpent's_wife",
+          "introduces_label": "The serpent's wife",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O honourable one! He has gone for a month, to bear Surya's chariot. O brahmana! There is no doubt that he will return in ﬁfteen days and show himself to you. I have told you the reason why the noble one is not here. That being the case, what else can I do for you? Tell me that.’",
+          "speaker": "the_serpent's_wife",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The brahmana replied, ‘O virtuous one! That is the reason why I decided to come here. O goddess! I will wait for him to return and dwell in that great forest. When he returns, tell him I have come here, anxious to see him. You should also tell me when he returns. O beautiful one! Till then, I will reside on the banks of the Gomati. I will spend the time, following the practice of living on a restrained diet.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The brahmana replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O virtuous one! That is the reason why I decided to come here. O goddess! I will wait for him to return and dwell in that great forest. When he returns, tell him I have come here, anxious to see him. You should also tell me when he returns. O beautiful one! Till then, I will reside on the banks of the Gomati. I will spend the time, following the practice of living on a restrained diet.’",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “The brahmana repeatedly entreated the serpent's wife in this way. The bull among brahmanas then went to the banks of the river.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The brahmana repeatedly entreated the serpent's wife in this way. The bull among brahmanas then went to the banks of the river.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

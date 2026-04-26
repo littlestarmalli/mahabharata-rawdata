@@ -1,0 +1,122 @@
+{
+  "chapter": 1752,
+  "local": 71,
+  "shlokas": 12,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O lord! When speaking about the rishi Nachiketa, you have told me about the greatness of donating cows and you have also instructed me about cattle. O grandfather! O immensely intelligent one! You have also told me about the hardship that the great-souled Nriga faced because of a single transgression. He had to dwell in Dvaravati for a long time. I have learnt how Krishna became the cause of his liberation. O lord! However, I still have a doubt about the world of cows. I wish to hear the truth about what is obtained by those who donate cows.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! When speaking about the rishi Nachiketa, you have told me about the greatness of donating cows and you have also instructed me about cattle. O grandfather! O immensely intelligent one! You have also told me about the hardship that the great-souled Nriga faced because of a single transgression. He had to dwell in Dvaravati for a long time. I have learnt how Krishna became the cause of his liberation. O lord! However, I still have a doubt about the world of cows. I wish to hear the truth about what is obtained by those who donate cows.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, there is an ancient history about what the god Shatakratu asked the one who was born from the lotus.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, there is an ancient history about what the god Shatakratu asked the one who was born from the lotus.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Shakra said, ‘I have a doubt about the prosperity seen by those who reside in Goloka{72} and it transcending that experienced by the residents of the world of heaven. O illustrious one! O unblemished one! What is the world of cows like? Tell me. I desire to know about where the donors of cows go and reside. What fruits do they obtain? What are the supreme qualities there? How do men go there, freed from anxiety? For how long does a donor of cows enjoy those fruits? Do they donate a lot, or do they donate a little? What is it for those who donate a lot? What is it for those who donate a little? How do those who donate none become like those who donate cows? Tell me. O lord! How do those who donate a lot become equal to those who donate a little? O lord! How do those who donate a little become like those who donate a lot? When cattle are given, what kind of dakshina is superior? O illustrious one! You should tell me the truth about this.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Shakra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Shakra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have a doubt about the prosperity seen by those who reside in Goloka{72} and it transcending that experienced by the residents of the world of heaven. O illustrious one! O unblemished one! What is the world of cows like? Tell me. I desire to know about where the donors of cows go and reside. What fruits do they obtain? What are the supreme qualities there? How do men go there, freed from anxiety? For how long does a donor of cows enjoy those fruits? Do they donate a lot, or do they donate a little? What is it for those who donate a lot? What is it for those who donate a little? How do those who donate none become like those who donate cows? Tell me. O lord! How do those who donate a lot become equal to those who donate a little? O lord! How do those who donate a little become like those who donate a lot? When cattle are given, what kind of dakshina is superior? O illustrious one! You should tell me the truth about this.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

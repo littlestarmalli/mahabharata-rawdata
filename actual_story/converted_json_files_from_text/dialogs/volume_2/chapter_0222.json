@@ -1,0 +1,256 @@
+{
+  "chapter": 222,
+  "local": 222,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Jarita said, “The rat emerged from this hole. The little creature was seized by a hawk in its claws and carried away. Therefore, you have nothing to be scared of.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Jarita said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@jarita",
+          "introduces_label": "Jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The rat emerged from this hole. The little creature was seized by a hawk in its claws and carried away. Therefore, you have nothing to be scared of.”",
+          "speaker": "@jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Sharngakas replied, “We do not know for certain that the rat was carried away by a hawk. There may be others there and we have every reason to fear them. It is not certain that the ﬁre will reach this place. The wind can be seen to be turning. O mother! But there is no doubt that the creatures in the hole will kill us. O mother! An uncertain death is superior to one that is certain. Take to the sky as you should. You will have other handsome sons.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Sharngakas replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_sharngakas",
+          "introduces_label": "The Sharngakas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“We do not know for certain that the rat was carried away by a hawk. There may be others there and we have every reason to fear them. It is not certain that the ﬁre will reach this place. The wind can be seen to be turning. O mother! But there is no doubt that the creatures in the hole will kill us. O mother! An uncertain death is superior to one that is certain. Take to the sky as you should. You will have other handsome sons.”",
+          "speaker": "the_sharngakas",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Jarita said, “I myself saw the powerful hawk approach the hole, roam around, and then ﬂy away from the hole with the rat. I swiftly ﬂew after the hawk, pronouncing blessings on it for having taken the rat away from the hole. ‘O king of hawks! Since you are ﬂying away with our hated enemy, may you reside in heaven, golden, and without any enemies.’ When the hungry bird had ﬁnished eating, with its permission, I returned home. O sons! Enter the hole conﬁdently, there is nothing you should fear. It is certain that I have seen the hawk carry away the rat.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Jarita said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@jarita",
+          "introduces_label": "Jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I myself saw the powerful hawk approach the hole, roam around, and then ﬂy away from the hole with the rat. I swiftly ﬂew after the hawk, pronouncing blessings on it for having taken the rat away from the hole. ",
+          "speaker": "@jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king of hawks! Since you are ﬂying away with our hated enemy, may you reside in heaven, golden, and without any enemies.’",
+          "speaker": "@jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When the hungry bird had ﬁnished eating, with its permission, I returned home. O sons! Enter the hole conﬁdently, there is nothing you should fear. It is certain that I have seen the hawk carry away the rat.”",
+          "speaker": "@jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Sharngakas replied, “O mother! We do not know whether the rat has really been carried away by the hawk. Without knowing, we cannot enter the hole.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Sharngakas replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_sharngakas",
+          "introduces_label": "The Sharngakas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O mother! We do not know whether the rat has really been carried away by the hawk. Without knowing, we cannot enter the hole.”",
+          "speaker": "the_sharngakas",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Jarita said, “I know that the rat has been carried away by the hawk. Therefore, there is no fear and do as I say.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Jarita said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@jarita",
+          "introduces_label": "Jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I know that the rat has been carried away by the hawk. Therefore, there is no fear and do as I say.”",
+          "speaker": "@jarita",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The Sharngakas replied, “It is not that you are trying to free us from our great fear through a falsehood. When a person's knowledge is muddled, his acts do not result from intelligence. You have received no favours from us. You do not even know who we are. Who are we to you that you are trying to save us through so much suffering to yourself? You are young and beautiful and are capable of ﬁnding a husband. Follow your husband and you will obtain handsome sons. We will enter the ﬁre and attain the beautiful worlds. If the ﬁre does not consume us, you will come back to us again.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The Sharngakas replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_sharngakas",
+          "introduces_label": "The Sharngakas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is not that you are trying to free us from our great fear through a falsehood. When a person's knowledge is muddled, his acts do not result from intelligence. You have received no favours from us. You do not even know who we are. Who are we to you that you are trying to save us through so much suffering to yourself? You are young and beautiful and are capable of ﬁnding a husband. Follow your husband and you will obtain handsome sons. We will enter the ﬁre and attain the beautiful worlds. If the ﬁre does not consume us, you will come back to us again.”",
+          "speaker": "the_sharngakas",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having been thus addressed, the Sharnga left her sons in Khandava and swiftly went to the regions where there was no ﬁre and no fear. The blazing ﬁre with its piercing ﬂames arrived at the place where the Sharngakas, Mandapala's sons, were. The Sharngakas saw the ﬂames blazing in their energy. Jaritari addressed these words, so that the ﬁre could hear.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having been thus addressed, the Sharnga left her sons in Khandava and swiftly went to the regions where there was no ﬁre and no fear. The blazing ﬁre with its piercing ﬂames arrived at the place where the Sharngakas, Mandapala's sons, were. The Sharngakas saw the ﬂames blazing in their energy. Jaritari addressed these words, so that the ﬁre could hear.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

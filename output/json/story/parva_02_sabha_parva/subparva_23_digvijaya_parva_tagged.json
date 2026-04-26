@@ -1,0 +1,888 @@
+{
+  "name": "Digvijaya Parva",
+  "subparva_number": 23,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 7,
+    "num_shlokas": 191
+  },
+  "note": "The word digvijaya means the conquest of the directions, that is, the conquest of the world. This section is therefore about the conquest undertaken by the Pandavas.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "248": {
+      "global_number": 248,
+      "local_number": 23,
+      "num_shlokas": 26,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Partha had obtained the supreme bow, the two inexhaustible quivers, the chariot, the ﬂag and the sabha. He told Yudhishthira, “O king! I have the bow, weapons, arrows, valour, allies, land, fame and strength and whatever men desire and ﬁnd difﬁcult to obtain. O supreme among kings! I think we should act so as to extend our treasury. I wish to make other kings pay us tribute. On an auspicious day, moment and nakshatra, I will set out to conquer the region protected by Dhanada{1}.” On hearing Dhananjaya, Dharmaraja Yudhishthira replied in words that were soft and grave. “O bull among the Bharata lineage! Go, but only after brahmanas have uttered benedictions on you, so that our well-wishers may be delighted and our enemies immersed in grief. O Partha! Your victory is certain. Your desires will undoubtedly be fulﬁlled.” Having heard this, Partha set out with a large army. He set out on the divine chariot, performer of extraordinary deeds, given by Agni. In similar fashion, Bhimasena and the twins, bulls among men, also worshipped Dharmaraja and set out with their armies. The son of the one who vanquished Paka{2} conquered all the regions protected by the lord of wealth—Bhimasena the east, Sahadeva the south and Nakula, skilled in the use of all weapons, conquered the west. O king! Dharmaraja Yudhishthira remained in Khandavaprastha.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Partha had obtained the supreme bow, the two inexhaustible quivers, the chariot,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the ﬂag and the sabha. He told Yudhishthira",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the",
+              "text": "“O king! I have the bow, weapons, arrows, valour, allies, land, fame and strength and whatever men desire and ﬁnd difﬁcult to obtain. O supreme among kings! I think we should act so as to extend our treasury. I wish to make other kings pay us tribute. On an auspicious day, moment and nakshatra, I will set out to conquer the region protected by Dhanada{1}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing Dhananjaya,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dharmaraja Yudhishthira replied in words that were soft and grave",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dharmaraja_yudhishthira",
+              "text": "“O bull among the Bharata lineage! Go, but only after brahmanas have uttered benedictions on you, so that our well-wishers may be delighted and our enemies immersed in grief. O Partha! Your victory is certain. Your desires will undoubtedly be fulﬁlled.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard this, Partha set out with a large army. He set out on the divine chariot, performer of extraordinary deeds, given by Agni. In similar fashion, Bhimasena and the twins, bulls among men, also worshipped Dharmaraja and set out with their armies. The son of the one who vanquished Paka{2} conquered all the regions protected by the lord of wealth—Bhimasena the east, Sahadeva the south and Nakula, skilled in the use of all weapons, conquered the west. O king! Dharmaraja Yudhishthira remained in Khandavaprastha.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Janamejaya said, ‘O brahmana! Please tell me in great detail the directions of their conquests, because I never tire of hearing about the great characters of my ancestors.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O brahmana! Please tell me in great detail the directions of their conquests, because I never tire of hearing about the great characters of my ancestors.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Vaishampayana said, ‘The sons of Pritha conquered the earth at the same time. I will ﬁrst tell you about Dhananjaya’s conquest. With great force, the mighty-armed Dhananjaya ﬁrst conquered the kings of the land of Kuninda{3}. After conquering the Anartas{4}, Kalakutas and Kunindas, he placed Sumandala, the conqueror of evil, in charge of the rear of his army. O king! Together with him, Savyasachi, the scorcher of enemies, vanquished the land of Shakala{5} and King Prativindhya, the king of Shakala. Shakala was one of the seven regions{6} and there was a tumultuous battle between Arjuna and the armies of the kings of Shakala{7}. O bull among the Bharata lineage! After defeating all of them, the mighty archer attacked Pragjyotisha{8}. O lord of the earth! There was a mighty king named Bhagadatta there and the great-souled Pandava fought a great battle with him. Pragjyotisha was surrounded by kiratas, chinas{9} and many other warriors who lived along the shores of the ocean{10}. Having continuously fought with Dhananjaya for eight days and ﬁnding him to be still untiring on the ﬁeld of battle, the king smilingly said, “O mighty-armed one! O descendant of the Kuru lineage! O son of the chastiser of Paka! This blazing valour in battle is appropriate for you. O son{11}! I am a friend of Indra of the gods and can withstand Shakra in battle. But I cannot withstand you in battle. O Pandava! What is it that you want? What can I do for you? O mighty-armed one! O son! Tell me. I will do what you wish.” Arjuna replied, “King Yudhishthira, the son of dharma, is a bull among the Kurus. I wish that he may become the sovereign and others pay him tribute. You are my father’s friend and have been affectionate towards me too. Therefore, I cannot command you. Please pay it{12} happily.” Bhagadatta said, “O son of Kunti! You are to me the way King Yudhishthira is. I will do all that. What else can I do for you?”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The sons of Pritha conquered the earth at the same time. I will ﬁrst tell you about Dhananjaya’s conquest. With great force, the mighty-armed Dhananjaya ﬁrst conquered the kings of the land of Kuninda{3}. After conquering the Anartas{4}, Kalakutas and Kunindas, he placed Sumandala, the conqueror of evil, in charge of the rear of his army. O king! Together with him, Savyasachi, the scorcher of enemies, vanquished the land of Shakala{5} and King Prativindhya, the king of Shakala. Shakala was one of the seven regions{6} and there was a tumultuous battle between Arjuna and the armies of the kings of Shakala{7}. O bull among the Bharata lineage! After defeating all of them, the mighty archer attacked Pragjyotisha{8}. O lord of the earth! There was a mighty king named Bhagadatta there and the great-souled Pandava fought a great battle with him. Pragjyotisha was surrounded by kiratas, chinas{9} and many other warriors who lived along the shores of the ocean{10}. Having continuously fought with Dhananjaya for eight days and ﬁnding him to be still untiring on the ﬁeld of battle,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the king smilingly said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king_smilingly",
+              "text": "“O mighty-armed one! O descendant of the Kuru lineage! O son of the chastiser of Paka! This blazing valour in battle is appropriate for you. O son{11}! I am a friend of Indra of the gods and can withstand Shakra in battle. But I cannot withstand you in battle. O Pandava! What is it that you want? What can I do for you? O mighty-armed one! O son! Tell me. I will do what you wish.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“King Yudhishthira, the son of dharma, is a bull among the Kurus. I wish that he may become the sovereign and others pay him tribute. You are my father’s friend and have been affectionate towards me too. Therefore, I cannot command you. Please pay it{12} happily.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhagadatta said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhagadatta",
+              "text": "“O son of Kunti! You are to me the way King Yudhishthira is. I will do all that. What else can I do for you?”",
+              "color": "#D98C4E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "249": {
+      "global_number": 249,
+      "local_number": 24,
+      "num_shlokas": 27,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Having thus conquered him, Kunti’s son, the mighty-armed Dhananjaya then went towards the north, protected by the lord of riches{13}. Kounteya, bull among men, conquered the inner mountains, the outer mountains and the upper mountains. Having conquered all the mountains and all the kings who lived there, he brought them under his sway and extracted riches from all of them. O king! Having won the riches and the loyalty of those kings, he marched with them against Brihanta, who lived in Kuluta. The earth trembled with the sound of his supreme drums, the clatter of the edges of his chariot wheels and the roar of his elephants.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having thus conquered him, Kunti’s son, the mighty-armed Dhananjaya then went towards the north, protected by the lord of riches{13}. Kounteya, bull among men, conquered the inner mountains, the outer mountains and the upper mountains. Having conquered all the mountains and all the kings who lived there, he brought them under his sway and extracted riches from all of them. O king! Having won the riches and the loyalty of those kings, he marched with them against Brihanta, who lived in Kuluta. The earth trembled with the sound of his supreme drums, the clatter of the edges of his chariot wheels and the roar of his elephants.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The young Brihanta came out from his city with a fourfold army to do battle with Pandava. The battle between Brihanta and Dhananjaya was a great one. But Brihanta was unable to withstand Pandava’s valour. Realizing that Kounteya could not be beaten down, the lord of the mountains{14}, whose intelligence was limited{15}, brought him all his riches. O king! Having established the kingdom, he set out with Kuluta{16} and swiftly threw Senabindu out of his kingdom. He then subjugated Modapura, Vamadeva, Sudamana, Susamkula and the northern Kulutas and their kings. O king! Having brought those men under Dharmaraja’s rule, Dhananjaya then conquered ﬁve countries. On arriving in Divahprastha, Senabindu’s great capital, the lord{17} set up a base there, with his fourfold army. Surrounded by them, that bull among men marched against King Vishvagashva Pourava. O king! After conquering in battle the brave warriors from the mountains, he used his ﬂag-bearing troops to subjugate the city protected by Pourava. After vanquishing Pourava, Pandava defeated the seven mountain-dwelling dacoit tribes known as Utsavasamketa{18}. Then that bull among kshatriyas defeated the valorous kshatriyas from Kashmir and Lohita, using ten encircling armies. O king! Kounteya then took on the Trigartas, the Darvas, the Kokanadas and many other kshatriyas who attacked him collectively. The descendant of the Kuru lineage then conquered the charming city of Abhisari and defeated in battle Rochamana, who lived in Urasha. The son of the chastiser of Paka then conquered beautiful Simhapure, protected by Chitrayudhasura. Then, Kiriti{19}, bull among the Pandavas and descendant of the Kuru lineage, conquered the Suhmas{20} and the Cholas{21} with his entire army. The descendant of the Kuru lineage then conquered Bahlika{22} with supreme valour. They were difﬁcult to defeat, so there was a great battle. Phalgu{23} Pandava, son of the chastiser of Paka, then took a select force and defeated the Daradas and the Kambojas{24}. The lord then defeated the bandits who live towards the north-east and those who live in the forests. Thereafter, the son of the chastiser of Paka subjugated the Lohas, the superior Kambojas and the northern Rishikas. The battle in Rishika, between the superior Rishikas and Partha was a fearful one, like the battle known as tarakamaya{25}. O king! After defeating the Rishikas in the ﬁeld of battle, he extracted eight horses that had the colour of a parrot’s breast. There were some others that had the colours of peacocks and still others that had both colours. Having thus conquered in battle the Himalaya and Nishkuta Mountains, the bull among men arrived at the white mountains and began to live there.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The young Brihanta came out from his city with a fourfold army to do battle with Pandava. The battle between Brihanta and Dhananjaya was a great one. But Brihanta was unable to withstand Pandava’s valour. Realizing that Kounteya could not be beaten down, the lord of the mountains{14}, whose intelligence was limited{15}, brought him all his riches. O king! Having established the kingdom, he set out with Kuluta{16} and swiftly threw Senabindu out of his kingdom. He then subjugated Modapura, Vamadeva, Sudamana, Susamkula and the northern Kulutas and their kings. O king! Having brought those men under Dharmaraja’s rule, Dhananjaya then conquered ﬁve countries. On arriving in Divahprastha, Senabindu’s great capital, the lord{17} set up a base there, with his fourfold army. Surrounded by them, that bull among men marched against King Vishvagashva Pourava. O king! After conquering in battle the brave warriors from the mountains, he used his ﬂag-bearing troops to subjugate the city protected by Pourava. After vanquishing Pourava, Pandava defeated the seven mountain-dwelling dacoit tribes known as Utsavasamketa{18}. Then that bull among kshatriyas defeated the valorous kshatriyas from Kashmir and Lohita, using ten encircling armies. O king! Kounteya then took on the Trigartas, the Darvas, the Kokanadas and many other kshatriyas who attacked him collectively. The descendant of the Kuru lineage then conquered the charming city of Abhisari and defeated in battle Rochamana, who lived in Urasha. The son of the chastiser of Paka then conquered beautiful Simhapure, protected by Chitrayudhasura. Then, Kiriti{19}, bull among the Pandavas and descendant of the Kuru lineage, conquered the Suhmas{20} and the Cholas{21} with his entire army. The descendant of the Kuru lineage then conquered Bahlika{22} with supreme valour. They were difﬁcult to defeat, so there was a great battle. Phalgu{23} Pandava, son of the chastiser of Paka, then took a select force and defeated the Daradas and the Kambojas{24}. The lord then defeated the bandits who live towards the north-east and those who live in the forests. Thereafter, the son of the chastiser of Paka subjugated the Lohas, the superior Kambojas and the northern Rishikas. The battle in Rishika, between the superior Rishikas and Partha was a fearful one, like the battle known as tarakamaya{25}. O king! After defeating the Rishikas in the ﬁeld of battle, he extracted eight horses that had the colour of a parrot’s breast. There were some others that had the colours of peacocks and still others that had both colours. Having thus conquered in battle the Himalaya and Nishkuta Mountains, the bull among men arrived at the white mountains and began to live there.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "250": {
+      "global_number": 250,
+      "local_number": 25,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O descendant of the Bharata lineage! After having crossed the white mountains, the brave one arrived at the land where the Kimpurushas lived. They were protected by Drumaputra. There was a great battle in which many kshatriyas were slain. The best of the Pandavas won and extracted tribute. The son of the chastiser of Paka used his army and determination to conquer the region known as Hataka, protected by Guhyaka. Having won them over with conciliation, he set his eyes on the supreme Laka Manasa. He also saw all the places sacred to the rishis. On reaching Manasa, the lord Pandava conquered the regions around Hataka, protected by the gandharvas. As tribute, he obtained from the city of the gandharvas supreme horses that were the colour of partridges and speckled, with eyes like those of frogs. Pandava, son of the chastiser of Paka, then arrived at the northern country of Harivarsha and wished to conquer it too.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O descendant of the Bharata lineage! After having crossed the white mountains, the brave one arrived at the land where the Kimpurushas lived. They were protected by Drumaputra. There was a great battle in which many kshatriyas were slain. The best of the Pandavas won and extracted tribute. The son of the chastiser of Paka used his army and determination to conquer the region known as Hataka, protected by Guhyaka. Having won them over with conciliation, he set his eyes on the supreme Laka Manasa. He also saw all the places sacred to the rishis. On reaching Manasa, the lord Pandava conquered the regions around Hataka, protected by the gandharvas. As tribute, he obtained from the city of the gandharvas supreme horses that were the colour of partridges and speckled, with eyes like those of frogs. Pandava, son of the chastiser of Paka, then arrived at the northern country of Harivarsha and wished to conquer it too.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘On seeing him, some doorkeepers appeared. They were giant in form, great in valour and immense in strength. They smilingly told him, “O Partha! You are incapable of conquering this city in any way. O Achyuta{26}! If you desire your own welfare, turn back. You already have enough. Any human who enters this city must certainly die. O valorous one! We are pleased with you. Your conquests are already many. O Arjuna! Nothing can be seen here that is left for you to conquer. This is the land of the Northern Kurus and there cannot be any wars here. O Kounteya! Even if you enter, you will not be able to see anything. Nothing that is here can be seen with human eyes. O tiger among men! O descendant of the Bharata lineage! However, if there is anything else that you wish, please tell us. We will do your bidding.” Having been thus addressed, Arjuna, son of the chastiser of Paka said, “I wish that the intelligent Dharmaraja should become an emperor. I shall not enter this land if it is restricted to humans. But let something be given by you as tribute to Yudhishthira.” Then they gave him divine garments, divine ornaments and divine hides and skins as tribute.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing him, some doorkeepers appeared. They were giant in form,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "great in valour and immense in strength. They smilingly told him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@great_in_valour_and",
+              "text": "“O Partha! You are incapable of conquering this city in any way. O Achyuta{26}! If you desire your own welfare, turn back. You already have enough. Any human who enters this city must certainly die. O valorous one! We are pleased with you. Your conquests are already many. O Arjuna! Nothing can be seen here that is left for you to conquer. This is the land of the Northern Kurus and there cannot be any wars here. O Kounteya! Even if you enter, you will not be able to see anything. Nothing that is here can be seen with human eyes. O tiger among men! O descendant of the Bharata lineage! However, if there is anything else that you wish, please tell us. We will do your bidding.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, Arjuna,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "son of the chastiser of Paka said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@son_of_the_chastiser",
+              "text": "“I wish that the intelligent Dharmaraja should become an emperor. I shall not enter this land if it is restricted to humans. But let something be given by you as tribute to Yudhishthira.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then they gave him divine garments, divine ornaments and divine hides and skins as tribute.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Thus did that tiger among men conquer the northern regions. He fought many great battles, with kshatriyas, and also with bandits. Having conquered those kings, he extracted tribute from them and obtained a lot of riches and many jewels, together with horses that had the colour of partridges, were speckled, or had the colour of parrot feathers or those of peacocks. They were all as swift as the wind. O king! Surrounded by a gigantic fourfold army, the brave one returned again to the supreme city of Shakraprastha.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Thus did that tiger among men conquer the northern regions. He fought many great battles, with kshatriyas, and also with bandits. Having conquered those kings, he extracted tribute from them and obtained a lot of riches and many jewels, together with horses that had the colour of partridges, were speckled, or had the colour of parrot feathers or those of peacocks. They were all as swift as the wind. O king! Surrounded by a gigantic fourfold army, the brave one returned again to the supreme city of Shakraprastha.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "251": {
+      "global_number": 251,
+      "local_number": 26,
+      "num_shlokas": 16,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘At the same time, the valorous Bhimasena took his leave from Dharmaraja and left for the eastern direction. That tiger among the Bharata lineage had with him a great circle of forces, capable of oppressing the enemy’s kingdom. He marched out to increase the enemy’s sorrow. Pandava, tiger among kings, ﬁrst went to the city of Panchala and used various means of conciliation to win the Panchalas over. Then that valorous one, bull among men, defeated the Gandakis and the Videhas{27} and after some time, went on to Dasharna{28}. There, King Sudharma of Dasharna performed a feat that makes one’s hair stand up—he had a great duel with Bhima without any weapons{29}. On witnessing this deed, Bhimasena, the scorcher of enemies, made the immensely strong Sudharma the supreme general. O king! Bhima, terrible in valour, then marched towards the east and that large army seemed to make the earth tremble. O king! That warrior, strongest among the strong, defeated in battle Rochamana, the lord of Ashvamedha, and his younger brother. Without exerting terrible force in vanquishing him, the immensely valorous Kounteya{30}, descendant of the Kuru lineage, then conquered the eastern regions. He then went south to the great city of the Pulindas and conquered Sukumara and Sumitra, the lord of men. O Janamejaya! Then, on Dharmaraja’s command, that bull among the Bharata lineage advanced on the immensely brave Shishupala.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘At the same time, the valorous Bhimasena took his leave from Dharmaraja and left for the eastern direction. That tiger among the Bharata lineage had with him a great circle of forces, capable of oppressing the enemy’s kingdom. He marched out to increase the enemy’s sorrow. Pandava, tiger among kings, ﬁrst went to the city of Panchala and used various means of conciliation to win the Panchalas over. Then that valorous one, bull among men, defeated the Gandakis and the Videhas{27} and after some time, went on to Dasharna{28}. There, King Sudharma of Dasharna performed a feat that makes one’s hair stand up—he had a great duel with Bhima without any weapons{29}. On witnessing this deed, Bhimasena, the scorcher of enemies, made the immensely strong Sudharma the supreme general. O king! Bhima, terrible in valour, then marched towards the east and that large army seemed to make the earth tremble. O king! That warrior, strongest among the strong, defeated in battle Rochamana, the lord of Ashvamedha, and his younger brother. Without exerting terrible force in vanquishing him, the immensely valorous Kounteya{30}, descendant of the Kuru lineage, then conquered the eastern regions. He then went south to the great city of the Pulindas and conquered Sukumara and Sumitra, the lord of men. O Janamejaya! Then, on Dharmaraja’s command, that bull among the Bharata lineage advanced on the immensely brave Shishupala.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having heard of Pandava’s{31} intention, the king of Chedi{32}, the scorcher of enemies, came out of his city and welcomed him. O great king! When the bulls among the Kuru and Chedi lineages met, they asked about the welfare of each other’s lineages. O lord of the people! The king of Chedi then smilingly offered his kingdom and told Bhima, “O unblemished one! What do you wish to do?” Bhima then told him about Dharmaraja’s wish and that lord of men acted accordingly{33}. O king! Bhima spent thirty nights there as Shishupala’s guest. After that, he left with his army and his mounts.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard of Pandava’s{31} intention, the king of Chedi{32}, the scorcher of enemies, came out of his city and welcomed him. O great king! When the bulls among the Kuru and Chedi lineages met, they asked about the welfare of each other’s lineages.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "O lord of the people! The king of Chedi then smilingly offered his kingdom and told Bhima",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@o_lord_of_the",
+              "text": "“O unblemished one! What do you wish to do?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Bhima then told him about Dharmaraja’s wish and that lord of men acted accordingly{33}. O king! Bhima spent thirty nights there as Shishupala’s guest. After that, he left with his army and his mounts.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "252": {
+      "global_number": 252,
+      "local_number": 27,
+      "num_shlokas": 28,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Then that destroyer of enemies vanquished Kumara Shrenimana and Brihadbala, the lord of Koshala. In Ayodhya, the best of the Pandavas defeated, without having to perform very terrible deeds, the righteous and extremely strong Dirghaprajna. The lord then subjugated the land of Gopalakaccha, the northern Sottamas and the king who was the lord of the Mallas. Along the slopes of the Himalayas, the powerful one then ran into Jaradgava and in a short while, brought the entire country under his power. The bull among men defeated many countries in this fashion and conquered Unnata and the mountains of Kukshimanta. Pandava, great in valour and supreme among those who are strong, defeated in battle Subandhu, the king of Kashi, one who never retreated from battle. The mighty-armed Bhima, terrible in deeds and bull among the Pandavas, used his power to conquer Kratha, lord of the kings in the region of Suparshva, in battle. Then he conquered the immensely energetic Matsyas, the immensely strong Malayas, the invincible Gayas and all the lands with animals everywhere{34}. The mighty-armed one repulsed Mardavika and Mahidhara and having marched towards the north, conquered the foothills. The strong Kounteya used his strength to defeat the land of the Vatsas, the lord of the Bhargas, the lord of the Nishadas and many other owners of the land, led by Manimana. Pandava Bhima then conquered the southern Mallas and Bhogavanta, without having to expend terrible effort. The lord, tiger among men, used conciliation, without the need for terrible deeds, to win over the Sharmakas and the Varmakasa and King Janaka of Videha, the lord of the earth. Spending time in Videha, Kounteya Pandava defeated the seven lords of the kiratas in the region around Mount Indra.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then that destroyer of enemies vanquished Kumara Shrenimana and Brihadbala, the lord of Koshala. In Ayodhya, the best of the Pandavas defeated, without having to perform very terrible deeds, the righteous and extremely strong Dirghaprajna. The lord then subjugated the land of Gopalakaccha, the northern Sottamas and the king who was the lord of the Mallas. Along the slopes of the Himalayas, the powerful one then ran into Jaradgava and in a short while, brought the entire country under his power. The bull among men defeated many countries in this fashion and conquered Unnata and the mountains of Kukshimanta. Pandava, great in valour and supreme among those who are strong, defeated in battle Subandhu, the king of Kashi, one who never retreated from battle. The mighty-armed Bhima, terrible in deeds and bull among the Pandavas, used his power to conquer Kratha, lord of the kings in the region of Suparshva, in battle. Then he conquered the immensely energetic Matsyas, the immensely strong Malayas, the invincible Gayas and all the lands with animals everywhere{34}. The mighty-armed one repulsed Mardavika and Mahidhara and having marched towards the north, conquered the foothills. The strong Kounteya used his strength to defeat the land of the Vatsas, the lord of the Bhargas, the lord of the Nishadas and many other owners of the land, led by Manimana. Pandava Bhima then conquered the southern Mallas and Bhogavanta, without having to expend terrible effort. The lord, tiger among men, used conciliation, without the need for terrible deeds, to win over the Sharmakas and the Varmakasa and King Janaka of Videha, the lord of the earth. Spending time in Videha, Kounteya Pandava defeated the seven lords of the kiratas in the region around Mount Indra.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘After that, the valorous Kounteya defeated the Suhmas and the eastern Suhmas in battle{35} and marched on towards Magadha. Defeating Danda and Dandadhara and many kings, he attacked Girivraja, with all of them on his side. O king! Having subjugated Jarasandha’s son and extracted tribute from him, the powerful one marched with all of them against Karna{36}. The earth trembled with his fourfold army. The best of the Pandavas fought with Karna, the destroyer of enemies. O descendant of the Bharata lineage! He vanquished Karna in battle and brought him under his sway. He then defeated the powerful kings who lived in the mountains. Later, in a great battle, using only the strength of his arms{37}, Pandava defeated the immensely strong Modagiri. O king! He then defeated the immensely strong and brave Vasudeva, the king of Poundra and the immensely energetic king who dwelt in the marshes along the Koushiki{38}. Both these warriors were terrible in valour and were surrounded by large armies. O great king! He then attacked the king of Vanga{39}. He vanquished Samudrasena and King Chandrasena, the king of Tamralipta{40} and Kacha, the ruler of Vanga. The bull among the Bharata lineage conquered the ruler of the Suhmas, all those who lived along the ocean and all the mlecchas.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After that, the valorous Kounteya defeated the Suhmas and the eastern Suhmas in battle{35} and marched on towards Magadha. Defeating Danda and Dandadhara and many kings, he attacked Girivraja, with all of them on his side. O king! Having subjugated Jarasandha’s son and extracted tribute from him, the powerful one marched with all of them against Karna{36}. The earth trembled with his fourfold army. The best of the Pandavas fought with Karna, the destroyer of enemies. O descendant of the Bharata lineage! He vanquished Karna in battle and brought him under his sway. He then defeated the powerful kings who lived in the mountains. Later, in a great battle, using only the strength of his arms{37}, Pandava defeated the immensely strong Modagiri. O king! He then defeated the immensely strong and brave Vasudeva, the king of Poundra and the immensely energetic king who dwelt in the marshes along the Koushiki{38}. Both these warriors were terrible in valour and were surrounded by large armies. O great king! He then attacked the king of Vanga{39}. He vanquished Samudrasena and King Chandrasena, the king of Tamralipta{40} and Kacha, the ruler of Vanga. The bull among the Bharata lineage conquered the ruler of the Suhmas, all those who lived along the ocean and all the mlecchas.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Having thus conquered many countries and extracting riches from them, Pavana’s powerful son{41} then reached the Louhitya{42}. He extracted tributes and riches of all kinds from all the kings of the mlecchas who lived in islands in the ocean—sandalwood, aloe, garments, the best of gems and pearls, gold, silver, diamonds and priceless coral. They showered the Pandava{43}, whose spirit was boundless, with great riches that amounted to hundreds of millions{44}. Returning to Indraprastha, Bhima, terrible in valour, tendered all those riches to Dharmaraja.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having thus conquered many countries and extracting riches from them, Pavana’s powerful son{41} then reached the Louhitya{42}. He extracted tributes and riches of all kinds from all the kings of the mlecchas who lived in islands in the ocean—sandalwood, aloe, garments, the best of gems and pearls, gold, silver, diamonds and priceless coral. They showered the Pandava{43}, whose spirit was boundless, with great riches that amounted to hundreds of millions{44}. Returning to Indraprastha, Bhima, terrible in valour, tendered all those riches to Dharmaraja.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "253": {
+      "global_number": 253,
+      "local_number": 28,
+      "num_shlokas": 55,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘In similar fashion, after worshipping Dharmaraja, Sahadeva left for the south with a large army. The lord ﬁrst conquered the entire land of the Shurasenas{45}. The descendant of the Kuru lineage, supreme among powerful ones, then subjugated the king of Matsya{46}. In a great battle, he defeated Dantavakra, emperor among kings. Having forced him to pay tribute, he restored the throne to him. He then vanquished Sukumara and King Sumitra and conquered the other Matsyas and the Patachcharas. The illustrious one swiftly conquered the country of the nishadas and Goshringa, supreme among mountains. Then he defeated King Shrenimana. After conquering the new country, he marched against Kuntibhoja and he{47} happily accepted the suzerainty{48}. On the banks of the Charmanvati{49} he encountered King Jambaka’s son{50}, who had earlier been defeated by Vasudeva because of an earlier enmity. O descendant of the Bharata lineage! He instantly engaged in a battle with Bhoja and having defeated him, marched towards the south.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘In similar fashion, after worshipping Dharmaraja, Sahadeva left for the south with a large army. The lord ﬁrst conquered the entire land of the Shurasenas{45}. The descendant of the Kuru lineage, supreme among powerful ones, then subjugated the king of Matsya{46}. In a great battle, he defeated Dantavakra, emperor among kings. Having forced him to pay tribute, he restored the throne to him. He then vanquished Sukumara and King Sumitra and conquered the other Matsyas and the Patachcharas. The illustrious one swiftly conquered the country of the nishadas and Goshringa, supreme among mountains. Then he defeated King Shrenimana. After conquering the new country, he marched against Kuntibhoja and he{47} happily accepted the suzerainty{48}. On the banks of the Charmanvati{49} he encountered King Jambaka’s son{50}, who had earlier been defeated by Vasudeva because of an earlier enmity. O descendant of the Bharata lineage! He instantly engaged in a battle with Bhoja and having defeated him, marched towards the south.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having extracted tribute and many riches from them{51}, he took all these and advanced towards the Narmada. The powerful and valorous son of the Ashvins defeated in battle Vinda and Anuvinda from Avanti{52}, who were surrounded by large armies. Having extracted riches from them, he advanced towards the city of Mahishmati{53}. The powerful Pandava Sahadeva, bull among men, engaged in battle King Nila there. The great battle struck terror in the hearts of the fearful. It destroyed armies and threatened life. The illustrious god of ﬁre provided succour to his enemy. Horses, chariots, elephants, soldiers and armour from Sahadeva’s army were seen to be blazing. The mind of the descendant of the Kuru lineage was bewildered. O Janamejaya! He was incapable of giving a ﬁtting reply.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having extracted tribute and many riches from them{51}, he took all these and advanced towards the Narmada. The powerful and valorous son of the Ashvins defeated in battle Vinda and Anuvinda from Avanti{52}, who were surrounded by large armies. Having extracted riches from them, he advanced towards the city of Mahishmati{53}. The powerful Pandava Sahadeva, bull among men, engaged in battle King Nila there. The great battle struck terror in the hearts of the fearful. It destroyed armies and threatened life. The illustrious god of ﬁre provided succour to his enemy. Horses, chariots, elephants, soldiers and armour from Sahadeva’s army were seen to be blazing. The mind of the descendant of the Kuru lineage was bewildered. O Janamejaya! He was incapable of giving a ﬁtting reply.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "Janamejaya asked, ‘Why did the illustrious Agni become Sahadeva’s adversary in war? O brahmana! He was seeking to accomplish a sacriﬁce.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked, ‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Why did the illustrious Agni become Sahadeva’s adversary in war? O brahmana! He was seeking to accomplish a sacriﬁce.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana replied, ‘It is said that the illustrious god of ﬁre lived in Mahishmati and was once caught in an act of adultery. In earlier times, after he had sported himself as he willed in the disguise of a brahmana, he was brought before King Nila{54}. The virtuous king ordered him to be punished in accordance with the sacred texts and the illustrious ﬁre-god blazed up in anger. On seeing this, the king was surprised and bowed his head before the wise one{55}. At this, the illustrious ﬁre-god bestowed his favours on the king. The one who achieves the end of all sacriﬁces offered a boon to the king and the lord of the earth asked for the boon that his forces might always be free from fear. O king! Ever since then, whenever ignorant kings have tried to conquer that city, they have been consumed instantly by the ﬁre. O extender of the Kuru lineage! From that day, the women from the city of Mahishmati became unacceptable{56}. Because of Agni’s boon, the women could no longer be restricted{57}. They are their own mistresses{58} and act as they will. O supreme among men! O great king! From that day, out of fear of Agni, all kings have avoided that kingdom.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana replied, ‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "It is said that the illustrious god of ﬁre lived in Mahishmati and was once caught in an act of adultery. In earlier times, after he had sported himself as he willed in the disguise of a brahmana, he was brought before King Nila{54}. The virtuous king ordered him to be punished in accordance with the sacred texts and the illustrious ﬁre-god blazed up in anger. On seeing this, the king was surprised and bowed his head before the wise one{55}. At this, the illustrious ﬁre-god bestowed his favours on the king. The one who achieves the end of all sacriﬁces offered a boon to the king and the lord of the earth asked for the boon that his forces might always be free from fear. O king! Ever since then, whenever ignorant kings have tried to conquer that city, they have been consumed instantly by the ﬁre. O extender of the Kuru lineage! From that day, the women from the city of Mahishmati became unacceptable{56}. Because of Agni’s boon, the women could no longer be restricted{57}. They are their own mistresses{58} and act as they will. O supreme among men! O great king! From that day, out of fear of Agni, all kings have avoided that kingdom.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘O king! The virtuous Sahadeva saw that his soldiers were engulfed in fear and surrounded by the ﬁre, they trembled like a mountain. He touched water and made himself pure and then spoke to Pavaka{59}. “O Pavaka! O one with the black trails! I worship you and it is for your sake that I have undertaken this task. You are the mouth of the gods. You are the sacriﬁce. You purify and you are the puriﬁer. You are the bearer of sacriﬁcial offerings. It is from you that the Vedas have come into being and thus it is that you are known as Jataveda. O bearer of sacriﬁcial offerings! Please do not cause an obstruction to this sacriﬁce.” Having uttered these words, Madri’s son spread kusha grass on the ground. O descendant of the Bharata lineage! In accordance with the prescribed rituals, that tiger among men sat down before the advancing ﬁre, before all his frightened and anxious troops. Like the great ocean which does not cross the shoreline, the ﬁre did not cross him. The ﬁre approached Sahadeva, god among men and descendant of the Kuru lineage, and spoke to him in affectionate words, “O descendant of the Kuru lineage! Arise. I acted thus only to test you. I know all your intentions and those of Dharma’s son{60}. O supreme among the Bharata lineage! However, I am bound to protect this city, as long as there are heirs to carry forward King Nila’s lineage. O Pandava! However, I will accomplish what you desire in your heart.” Then Madri’s son arose with a happy heart. Bowing his head and joining his hands in salutation, the bull among men worshipped Pavaka. When Pavaka retreated, King Nila arrived and welcomed Sahadava, tiger among men and lord of all warriors. He{61} accepted the homage and made him a tributary. Then Madri’s victorious son advanced in a southern direction.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! The virtuous Sahadeva saw that his soldiers were engulfed in fear and surrounded by the ﬁre, they trembled like a mountain. He touched water and made himself pure and then spoke to Pavaka{59}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Pavaka! O one with the black trails! I worship you and it is for your sake that I have undertaken this task. You are the mouth of the gods. You are the sacriﬁce. You purify and you are the puriﬁer. You are the bearer of sacriﬁcial offerings. It is from you that the Vedas have come into being and thus it is that you are known as Jataveda. O bearer of sacriﬁcial offerings! Please do not cause an obstruction to this sacriﬁce.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having uttered these words, Madri’s son spread kusha grass on the ground. O descendant of the Bharata lineage! In accordance with the prescribed rituals, that tiger among men sat down before the advancing ﬁre, before all his frightened and anxious troops. Like the great ocean which does not cross the shoreline, the ﬁre did not cross him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The ﬁre approached Sahadeva, god among men and descendant of the Kuru lineage, and spoke to him in affectionate words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the",
+              "text": "“O descendant of the Kuru lineage! Arise. I acted thus only to test you. I know all your intentions and those of Dharma’s son{60}. O supreme among the Bharata lineage! However, I am bound to protect this city, as long as there are heirs to carry forward King Nila’s lineage. O Pandava! However, I will accomplish what you desire in your heart.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then Madri’s son arose with a happy heart. Bowing his head and joining his hands in salutation, the bull among men worshipped Pavaka. When Pavaka retreated, King Nila arrived and welcomed Sahadava, tiger among men and lord of all warriors. He{61} accepted the homage and made him a tributary. Then Madri’s victorious son advanced in a southern direction.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘He vanquished the immensely energetic Traipuras{62}. The mighty-armed one conquered the lord of Potana. With a great deal of effort, the mighty-armed one then subjugated Ahriti, king of Surashtra{63}, whose preceptor was Koushika. While in the region of Surashtra, the intelligent one sent an ambassador to King Rukmin Bhishmaka of Bhojakata, who had great standing, was devoted to dharma and was a friend of Indra himself. O king! For the sake of Vasudeva{64}, the mighty-armed king and his sons happily accepted the suzerainty.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "He vanquished the immensely energetic Traipuras{62}. The mighty-armed one conquered the lord of Potana. With a great deal of effort, the mighty-armed one then subjugated Ahriti, king of Surashtra{63}, whose preceptor was Koushika. While in the region of Surashtra, the intelligent one sent an ambassador to King Rukmin Bhishmaka of Bhojakata, who had great standing, was devoted to dharma and was a friend of Indra himself. O king! For the sake of Vasudeva{64}, the mighty-armed king and his sons happily accepted the suzerainty.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Taking a lot of riches, the lord of war went from there to Shurparaka and the region named Upakrita, ruled by a clan. The immensely energetic and immensely strong one conquered them and the region of Dandaka{65}. The immensely wise one conquered and brought under his sway the kings who are born from mleccha wombs and live in islands in the ocean, the man-eating nishadas, the Karnapravaranas, those known as the Kalamukhas and who are a cross between men and rakshasas, all of the Kolla mountains, Murachipattana, the island known as Tamra, Mount Ramaka and King Timingila. He used messengers to subjugate and obtain tribute from the forest-dwelling men who had only one leg{66} and the cities of Samjayanti, Picchanda and Karahataka. Likewise, he used messengers to subjugate and obtain tribute from the Pandya, the Dravidas, the Chodras{67}, the Keralas, the Andhras, the Talavanas, the Kalingas, the Ushtrakarnikas, the Antakhis{68}, the Romas{69} and the city of the Greeks{70}. O lord of kings! Madri’s intelligent son then went to Bharukaccha{71}. He sent envoys to the great-souled Poulastya Vibhishana{72}. The conqueror of enemies and one with dharma in his heart{73} used conciliation and knowing this to be determined by destiny, the intelligent lord{74} happily accepted the suzerainty and sent many kinds of riches—ﬁrstly sandalwood and aloe, and then divine ornaments, expensive garments and priceless jewels.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Taking a lot of riches, the lord of war went from there to Shurparaka and the region named Upakrita, ruled by a clan. The immensely energetic and immensely strong one conquered them and the region of Dandaka{65}. The immensely wise one conquered and brought under his sway the kings who are born from mleccha wombs and live in islands in the ocean, the man-eating nishadas, the Karnapravaranas, those known as the Kalamukhas and who are a cross between men and rakshasas, all of the Kolla mountains, Murachipattana, the island known as Tamra, Mount Ramaka and King Timingila. He used messengers to subjugate and obtain tribute from the forest-dwelling men who had only one leg{66} and the cities of Samjayanti, Picchanda and Karahataka. Likewise, he used messengers to subjugate and obtain tribute from the Pandya, the Dravidas, the Chodras{67}, the Keralas, the Andhras, the Talavanas, the Kalingas, the Ushtrakarnikas, the Antakhis{68}, the Romas{69} and the city of the Greeks{70}. O lord of kings! Madri’s intelligent son then went to Bharukaccha{71}. He sent envoys to the great-souled Poulastya Vibhishana{72}. The conqueror of enemies and one with dharma in his heart{73} used conciliation and knowing this to be determined by destiny, the intelligent lord{74} happily accepted the suzerainty and sent many kinds of riches—ﬁrstly sandalwood and aloe, and then divine ornaments, expensive garments and priceless jewels.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘Then the powerful and intelligent Sahadeva returned. He thus subjugated with conciliation and conquest. After making the kings pay tribute, the conqueror of enemies returned. O king! O Janamejaya! O bull among the Bharata lineage! He handed all of this over to Dharmaraja and having accomplished his task, lived happily there.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then the powerful and intelligent Sahadeva returned. He thus subjugated with conciliation and conquest. After making the kings pay tribute, the conqueror of enemies returned. O king! O Janamejaya! O bull among the Bharata lineage! He handed all of this over to Dharmaraja and having accomplished his task, lived happily there.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "254": {
+      "global_number": 254,
+      "local_number": 29,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘I will now describe the deeds and conquests of Nakula and how that lord vanquished the region that had once been conquered by Vasudeva{75}. Taking a large army with him, the intelligent one left Khandavaprastha and headed towards the west. The earth trembled with the lion-like roars of his warriors and sounds made by the edges of his chariot wheels.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘I will now describe the deeds and conquests of Nakula and how that lord vanquished the region that had once been conquered by Vasudeva{75}. Taking a large army with him, the intelligent one left Khandavaprastha and headed towards the west. The earth trembled with the lion-like roars of his warriors and sounds made by the edges of his chariot wheels.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘He ﬁrst marched on the prosperous and beautiful Rohitaka, beloved of Kartikeya. It was rich in cattle, horses, wealth and grain. There was a great battle there with the Mattamayuraka warriors. The immensely radiant one then conquered the desert region, the land known as Sairishaka that was rich in grain, Maheccha, the Shibis, the Trigartas, the Ambashthas, the Malavas, the ﬁve groups of Karpatas and the brahmanas known as Madhyamikaya and Vatadhana. Having circled again, that bull among men defeated the clans known as Utsavasamketa who dwelt in the forests of Pushkara, the immensely powerful Gramaneyas who lived on the banks of the Sindhu{76}, the clans of shudras and abhiras{77} who lived along the Sarasvati{78}, all those who live on ﬁsh and all those who live in the mountains, the land of the ﬁve rivers, the western Paryatas, the northern Jyotika, the city named Vrindataka and Dvarapala. The immensely radiant one defeated them all and the Harhunas and all the kings who dwelt to the west.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "He ﬁrst marched on the prosperous and beautiful Rohitaka, beloved of Kartikeya. It was rich in cattle, horses, wealth and grain. There was a great battle there with the Mattamayuraka warriors. The immensely radiant one then conquered the desert region, the land known as Sairishaka that was rich in grain, Maheccha, the Shibis, the Trigartas, the Ambashthas, the Malavas, the ﬁve groups of Karpatas and the brahmanas known as Madhyamikaya and Vatadhana. Having circled again, that bull among men defeated the clans known as Utsavasamketa who dwelt in the forests of Pushkara, the immensely powerful Gramaneyas who lived on the banks of the Sindhu{76}, the clans of shudras and abhiras{77} who lived along the Sarasvati{78}, all those who live on ﬁsh and all those who live in the mountains, the land of the ﬁve rivers, the western Paryatas, the northern Jyotika, the city named Vrindataka and Dvarapala. The immensely radiant one defeated them all and the Harhunas and all the kings who dwelt to the west.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Having brought all this under his rule, the Pandava{79} sent messengers to Vasudeva and he{80} and his ten kingdoms accepted his{81} rule. Then he marched to Shakala, the city of the Madras. Using conciliation, the powerful one made an ally of his maternal uncle Shalya{82}. O lord of the earth! The king honoured him, as was due to a deserving guest. The lord of warriors took a large quantity of riches and departed. He then defeated the extremely fearful mlecchas who lived along the sides of the ocean, the Pahlavas and the Barbaras{83}. Having conquered all these kings and extracted tribute, Nakula, supreme among men, returned. O great king! Such were the riches collected by the great-souled one that ten thousand camels carried it with difﬁculty. In Indraprastha, Madri’s brave and fortunate son went to Yudhishthira and offered the riches to him. Thus did Nakula, bull among the Bharata lineage, conquer the western regions, protected by Varuna and conquered earlier by Vasudeva{84}.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having brought all this under his rule, the Pandava{79} sent messengers to Vasudeva and he{80} and his ten kingdoms accepted his{81} rule. Then he marched to Shakala, the city of the Madras. Using conciliation, the powerful one made an ally of his maternal uncle Shalya{82}. O lord of the earth! The king honoured him, as was due to a deserving guest. The lord of warriors took a large quantity of riches and departed. He then defeated the extremely fearful mlecchas who lived along the sides of the ocean, the Pahlavas and the Barbaras{83}. Having conquered all these kings and extracted tribute, Nakula, supreme among men, returned. O great king! Such were the riches collected by the great-souled one that ten thousand camels carried it with difﬁculty. In Indraprastha, Madri’s brave and fortunate son went to Yudhishthira and offered the riches to him. Thus did Nakula, bull among the Bharata lineage, conquer the western regions, protected by Varuna and conquered earlier by Vasudeva{84}.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

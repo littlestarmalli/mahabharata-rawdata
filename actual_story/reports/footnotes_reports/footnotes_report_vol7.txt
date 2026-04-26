@@ -1,0 +1,39 @@
+Volume 7 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   7
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              6
+
+
+──────────────────────────────────────────────────────────────────────
+Section [73] Karna-vadha Parva  (chapters 1151–1219)
+  Refs: 816   Defs: 821
+
+  CASE B — 5 orphan(s):
+    fn 1
+    fn 121
+    fn 136
+    fn 202
+    fn 444
+
+  CASE D — ref sequence gaps: [121, 136, 202, 444]
+
+──────────────────────────────────────────────────────────────────────
+Section [74] Shalya-vadha Parva  (chapters 1220–1235)
+  Refs: 113   Defs: 114
+
+  CASE B — 1 orphan(s):
+    fn 85
+
+  CASE D — ref sequence gaps: [85]
+
+──────────────────────────────────────────────────────────────────────
+Section [76] Tirtha-yatra Parva  (chapters 1248–1272)
+  Refs: 224   Defs: 225
+
+  CASE B — 1 orphan(s):
+    fn 108
+
+  CASE D — ref sequence gaps: [108]

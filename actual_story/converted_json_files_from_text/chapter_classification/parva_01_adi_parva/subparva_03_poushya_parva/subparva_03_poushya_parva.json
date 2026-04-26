@@ -1,0 +1,20 @@
+{
+  "name": "Poushya Parva",
+  "subparva_number": 3,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 195
+  },
+  "note": "It is the story of Poushya. After the first two sections, which are really summaries and no more, Section 3 is where the main story of the Mahabharata should begin. But not only is this section mostly in prose, unlike the rest of the Mahab-harata, it has little to do with the main story, since it has all kinds of incidents that don�t quite belong. All this section does is set up the snake-sacrifice.",
+  "chapters": {
+    "3": {
+      "chapter_number": 3,
+      "global_number": 3,
+      "local_number": 3,
+      "num_shlokas": 195,
+      "file": "subparva_03_poushya_parva/chapter_003.json"
+    }
+  }
+}

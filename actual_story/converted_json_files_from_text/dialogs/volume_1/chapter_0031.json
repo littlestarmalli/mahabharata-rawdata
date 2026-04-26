@@ -1,0 +1,85 @@
+{
+  "chapter": 31,
+  "local": 31,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Shounaka said, ‘O, son of a suta! You have told us why the snakes were cursed by their mother. You have told us why Vinata was cursed by her son. You have told us about the boons granted to Kadru and Vinata by their husband. You have given us the names of the two birds who were born from Vinata. O son of a suta! But you have not told us the names of the snakes. We wish to hear their names, at least those who are chief among them.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Shounaka said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@shounaka",
+          "introduces_label": "Shounaka",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O, son of a suta! You have told us why the snakes were cursed by their mother. You have told us why Vinata was cursed by her son. You have told us about the boons granted to Kadru and Vinata by their husband. You have given us the names of the two birds who were born from Vinata. O son of a suta! But you have not told us the names of the snakes. We wish to hear their names, at least those who are chief among them.’",
+          "speaker": "@shounaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘O one who is blessed with the power of austerities! The names of the snakes are many. I will not mention all their names, but only the main ones. Listen. The ﬁrst one to be born was Shesha and Vasuki came after him. Then Airavata, Takshaka, Karkotaka, Dhananjaya, Kaliya, Maninaga, the snake Apurana, Pinjaraka, Elapatra, Vamana, Nila, Anila, Kalmasha, Shabala, Aryaka, Adika, Shalapotaka, Sumanomukha, Dadhimukha, Vimalapindaka, Apta, Kotanaka, Shankha, Valishikha, Nishthayunaka, Hemaguha, Nahusha, Pingala, Bahyakarna, Hastipada, Mudgarapindaka, Kambala, Ashvatara, Kaliyaka, Vritta, Samvartaka, the two snakes known as Padma, Shankhanaka, Sphandaka, Kshemaka, Pindaraka, Karavira, Pushpadamshtra, Haridraka, Aparajita, Jyotika, Shrivaha, Kauravya, Dhritarashtra{105}, Pushkara, Shalyaka, Virajas, Subahu, the mighty Shalipinda, Hastibhadra, Pitharaka, Kumuda, Kumudaksha, Tittiri, Halika, Karkara, Akarakara, Mukhara, Konavasana, Kunjara, Kurara, Prabhakara, Kundodara and Mahodara.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O one who is blessed with the power of austerities! The names of the snakes are many. I will not mention all their names, but only the main ones. Listen. The ﬁrst one to be born was Shesha and Vasuki came after him. Then Airavata, Takshaka, Karkotaka, Dhananjaya, Kaliya, Maninaga, the snake Apurana, Pinjaraka, Elapatra, Vamana, Nila, Anila, Kalmasha, Shabala, Aryaka, Adika, Shalapotaka, Sumanomukha, Dadhimukha, Vimalapindaka, Apta, Kotanaka, Shankha, Valishikha, Nishthayunaka, Hemaguha, Nahusha, Pingala, Bahyakarna, Hastipada, Mudgarapindaka, Kambala, Ashvatara, Kaliyaka, Vritta, Samvartaka, the two snakes known as Padma, Shankhanaka, Sphandaka, Kshemaka, Pindaraka, Karavira, Pushpadamshtra, Haridraka, Aparajita, Jyotika, Shrivaha, Kauravya, Dhritarashtra{105}, Pushkara, Shalyaka, Virajas, Subahu, the mighty Shalipinda, Hastibhadra, Pitharaka, Kumuda, Kumudaksha, Tittiri, Halika, Karkara, Akarakara, Mukhara, Konavasana, Kunjara, Kurara, Prabhakara, Kundodara and Mahodara.",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘O best of the twice-born! I have told you the names of the chief snakes. Since there are too many names, I have not told you the names of the others. O one blessed with austerities! I believe the progeny and the offspring of the progeny to be innumerable. Therefore, I will not mention them. O one blessed with austerities! There are many thousands, millions{106} and hundreds of millions{107} of snakes in the world. One cannot recount all their numbers.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O best of the twice-born! I have told you the names of the chief snakes. Since there are too many names, I have not told you the names of the others. O one blessed with austerities! I believe the progeny and the offspring of the progeny to be innumerable. Therefore, I will not mention them. O one blessed with austerities! There are many thousands, millions{106} and hundreds of millions{107} of snakes in the world. One cannot recount all their numbers.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

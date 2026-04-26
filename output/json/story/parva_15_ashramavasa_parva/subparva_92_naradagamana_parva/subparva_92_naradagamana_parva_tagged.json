@@ -1,0 +1,44 @@
+{
+  "name": "Naradagamana Parva",
+  "subparva_number": 92,
+  "source_volume": 10,
+  "details": {
+    "num_chapters": 3,
+    "num_shlokas": 91
+  },
+  "note": "Agamana means arrival and this parva is about Narada�s arrival. Narada arrives and tells the Pandavas that Dhritarashtra, Gandhari and Kunti have been killed in a forest fire and Sanjaya has gone off to the Himalayas.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1976": {
+      "chapter_number": 1976,
+      "global_number": 1976,
+      "local_number": 45,
+      "num_shlokas": 44,
+      "file": "subparva_92_naradagamana_parva/chapter_1976_tagged.json"
+    },
+    "1977": {
+      "chapter_number": 1977,
+      "global_number": 1977,
+      "local_number": 46,
+      "num_shlokas": 20,
+      "file": "subparva_92_naradagamana_parva/chapter_1977_tagged.json"
+    },
+    "1978": {
+      "chapter_number": 1978,
+      "global_number": 1978,
+      "local_number": 47,
+      "num_shlokas": 27,
+      "file": "subparva_92_naradagamana_parva/chapter_1978_tagged.json"
+    }
+  }
+}

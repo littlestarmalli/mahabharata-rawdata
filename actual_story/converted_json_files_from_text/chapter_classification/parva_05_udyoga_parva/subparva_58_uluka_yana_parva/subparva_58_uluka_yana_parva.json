@@ -1,0 +1,41 @@
+{
+  "name": "Uluka-Yana Parva",
+  "subparva_number": 58,
+  "source_volume": 4,
+  "file_path": "output/volumes/volume_4_chapters.txt",
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 101
+  },
+  "note": "Yana means moving or journey as a verb and conveyance as a noun. The parva is so named because Duryodhana sends Uluka as a messenger to the Pandavas.",
+  "chapters": {
+    "820": {
+      "chapter_number": 820,
+      "global_number": 820,
+      "local_number": 157,
+      "num_shlokas": 18,
+      "file": "subparva_58_uluka_yana_parva/chapter_820.json"
+    },
+    "821": {
+      "chapter_number": 821,
+      "global_number": 821,
+      "local_number": 158,
+      "num_shlokas": 41,
+      "file": "subparva_58_uluka_yana_parva/chapter_821.json"
+    },
+    "822": {
+      "chapter_number": 822,
+      "global_number": 822,
+      "local_number": 159,
+      "num_shlokas": 13,
+      "file": "subparva_58_uluka_yana_parva/chapter_822.json"
+    },
+    "823": {
+      "chapter_number": 823,
+      "global_number": 823,
+      "local_number": 160,
+      "num_shlokas": 29,
+      "file": "subparva_58_uluka_yana_parva/chapter_823.json"
+    }
+  }
+}

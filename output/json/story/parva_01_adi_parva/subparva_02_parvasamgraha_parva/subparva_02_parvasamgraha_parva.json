@@ -1,0 +1,20 @@
+{
+  "name": "Parvasamgraha Parva",
+  "subparva_number": 2,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 243
+  },
+  "note": "It too was clearly a later addition. It gives two listings of the Mahabharata in the eighteen-parva and the 700-parva classifications. There is also a very brief summary of the highlights of the story.",
+  "chapters": {
+    "2": {
+      "chapter_number": 2,
+      "global_number": 2,
+      "local_number": 2,
+      "num_shlokas": 243,
+      "file": "subparva_02_parvasamgraha_parva/chapter_002.json"
+    }
+  }
+}

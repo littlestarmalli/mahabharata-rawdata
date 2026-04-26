@@ -1,0 +1,62 @@
+{
+  "name": "Digvijaya Parva",
+  "subparva_number": 23,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 7,
+    "num_shlokas": 191
+  },
+  "note": "The word digvijaya means the conquest of the directions, that is, the conquest of the world. This section is therefore about the conquest undertaken by the Pandavas.",
+  "chapters": {
+    "248": {
+      "chapter_number": 248,
+      "global_number": 248,
+      "local_number": 23,
+      "num_shlokas": 26,
+      "file": "subparva_23_digvijaya_parva/chapter_248.json"
+    },
+    "249": {
+      "chapter_number": 249,
+      "global_number": 249,
+      "local_number": 24,
+      "num_shlokas": 27,
+      "file": "subparva_23_digvijaya_parva/chapter_249.json"
+    },
+    "250": {
+      "chapter_number": 250,
+      "global_number": 250,
+      "local_number": 25,
+      "num_shlokas": 20,
+      "file": "subparva_23_digvijaya_parva/chapter_250.json"
+    },
+    "251": {
+      "chapter_number": 251,
+      "global_number": 251,
+      "local_number": 26,
+      "num_shlokas": 16,
+      "file": "subparva_23_digvijaya_parva/chapter_251.json"
+    },
+    "252": {
+      "chapter_number": 252,
+      "global_number": 252,
+      "local_number": 27,
+      "num_shlokas": 28,
+      "file": "subparva_23_digvijaya_parva/chapter_252.json"
+    },
+    "253": {
+      "chapter_number": 253,
+      "global_number": 253,
+      "local_number": 28,
+      "num_shlokas": 55,
+      "file": "subparva_23_digvijaya_parva/chapter_253.json"
+    },
+    "254": {
+      "chapter_number": 254,
+      "global_number": 254,
+      "local_number": 29,
+      "num_shlokas": 19,
+      "file": "subparva_23_digvijaya_parva/chapter_254.json"
+    }
+  }
+}

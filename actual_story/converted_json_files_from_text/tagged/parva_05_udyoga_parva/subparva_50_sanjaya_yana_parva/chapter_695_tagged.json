@@ -1,0 +1,162 @@
+{
+  "chapter_number": 695,
+  "global_number": 695,
+  "local_number": 32,
+  "num_shlokas": 30,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘With the permission of Pandava, Sanjaya then departed, having carried out all the instructions of the great-souled Dhritarashtra. Having reached Hastinapura, he entered swiftly and reaching the inner quarters, told the gatekeeper, “O gatekeeper! Tell Dhritarashtra that I have returned after meeting the Pandavas. If he is awake, tell him that Kshatta{110} wishes to enter after the king knows about his return.” The gatekeeper said, “O lord of the earth! I bow down before you. Sanjaya is here and is waiting at the gate, wishing to meet you. Your messenger has returned, after meeting the Pandavas. O king! Issue orders about what he should do.” Dhritarashtra replied, “Tell him that I am well and am waiting for him. Let Sanjaya be welcome and let him enter. I have always been ready for him. Why is Kshatta waiting at the gate then?” With the king’s permission, the son of a suta entered the large palace that was protected by wise and brave aryas. The king who was Vichitravirya’s son was seated on a throne and he joined his hands in salutation. Sanjaya said, “O lord of the earth! I am Sanjaya and I am bowing down before you. I have returned after meeting the Pandavas, gods among men. Yudhishthira, Pandu’s intelligent son, has greeted you and has asked about your welfare. O king! He has affectionately asked about your sons and wishes to know if you are happy with your sons and grandsons, and with your well-wishers and advisers, and with all those who are earning a living through you.” Dhritarashtra replied, “O son{111}! O Sanjaya! I am greeting you on your return. Is Partha Ajatashatru happy? Is the king well with his sons, his advisers and the younger Kouravas{112}?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘With the permission of Pandava, Sanjaya then departed, having carried out all the instructions of the great-souled Dhritarashtra.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Having reached Hastinapura, he entered swiftly and reaching the inner quarters, told the gatekeeper",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@hastinapura",
+          "text": "“O gatekeeper! Tell Dhritarashtra that I have returned after meeting the Pandavas. If he is awake, tell him that Kshatta{110} wishes to enter after the king knows about his return.”",
+          "color": "#4ED9A0",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The gatekeeper said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_gatekeeper",
+          "text": "“O lord of the earth! I bow down before you. Sanjaya is here and is waiting at the gate, wishing to meet you. Your messenger has returned, after meeting the Pandavas. O king! Issue orders about what he should do.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“Tell him that I am well and am waiting for him. Let Sanjaya be welcome and let him enter. I have always been ready for him. Why is Kshatta waiting at the gate then?”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "With the king’s permission, the son of a suta entered the large palace that was protected by wise and brave aryas. The",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "king who was Vichitravirya’s son was seated on a throne and he joined his hands in salutation. Sanjaya said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@who_was_vichitravirya",
+          "text": "“O lord of the earth! I am Sanjaya and I am bowing down before you. I have returned after meeting the Pandavas, gods among men. Yudhishthira, Pandu’s intelligent son, has greeted you and has asked about your welfare. O king! He has affectionately asked about your sons and wishes to know if you are happy with your sons and grandsons, and with your well-wishers and advisers, and with all those who are earning a living through you.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dhritarashtra replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dhritarashtra",
+          "text": "“O son{111}! O Sanjaya! I am greeting you on your return. Is Partha Ajatashatru happy? Is the king well with his sons, his advisers and the younger Kouravas{112}?”",
+          "color": "#9B8BB4",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Sanjaya said, “Pandu’s son is well with his advisers, even more than you had had known him earlier. The intelligent one does that which ensures dharma and artha. He is extremely learned, has foresight and follows good conduct. The non-violent Pandava is devoted to supreme dharma. He thinks that dharma is superior to riches. O descendant of the Bharata lineage! Those who know him know that he will not follow happiness or pleasure that is against the norms of dharma. A man is controlled by others{113}, like a wooden puppet on a string. When I witness Pandava’s hardships, I think that earlier karma{114} determines the destiny of beings. On seeing the taints of your deeds, with the evil it leads to and its terrible form, I think that as long as a man desires that which is right, a man obtains praise. Ajatashatru has given up evil, like a snake discards its useless skin. Having transferred sins to you, the brave Yudhishthira is resplendent in his conduct. O king! Learn how your deeds have harmed you. They are not united with dharma and artha and are not the conduct of aryas. O king! You have only obtained ill fame. That evil cannot be removed and will be with you in the hereafter. You have ignored them and have followed your son and wish to obtain an objective that is impossible to attain. The earth has loudly proclaimed that this is adharma. O foremost among those of the Bharata lineage! This was not an act that was worthy of you. One who is weak in intelligence, one who is born from an inferior lineage, one who is violent, one who remembers enmity for a long time, one who does not know about the conduct of kshatriyas and one who is weak in valour, such a person will not be able to overcome the disaster that adharma brings. One who is born in a noble lineage, one who follows dharma, one who is famous, one who is greatly learned, one who is in control of his soul and one who places dharma and artha over everything else, such a person lives happily. In no other way, can one overcome destiny. How can one who has intelligent advisers, who are well versed in the canons of dharma and artha, be foolish enough to commit such a violent act, as if one did not possess all the good counsel? These learned advisers have assembled together and have always advised about your tasks. They have arrived at the ﬁrm conviction that the hell that will wreak the destruction of the Kurus is imminent. The Kurus will be destroyed before their time, if Ajatashatru counters the evil with evil and passes on the evil to you. There will be censure for you in this world. Was it not in accordance with the will of the gods that Partha set his eyes on the supreme world{115}? He ascended there, and was honoured. There is no doubt that this wasn’t because of human action. In examining the qualities of deeds, that which has been and that which will be, King Bali came to the conclusion that the present was transient{116}. He decided that destiny was the root cause of everything. The eyes, the ears, the nose, the skin and the tongue—these are the sources of knowledge for beings. When the thirst has been quenched, these are content. Therefore, one should happily control them{117}. There are others who think that if performed well, a man’s deeds take on forms of their own. The child is the outcome of the deeds of the mother and the father and in due course, grows through the intake of food. O king! One is subject to pleasant and unpleasant, happiness and unhappiness, censure and praise. One censures others for committing a crime and praises them for good conduct. I censure you for discord among the Bharatas. This will lead to the destruction of many beings. Because of the crimes of your deeds, the Kurus will be burnt up, like the one with the black form{118} burns up dry wood. O king! O Indra among kings! Among all those in this world, you alone have come under the control of the sons that were born to you. At the time of the gambling match, you praised the one whose soul was overtaken by desire. Now witness the calamity that has been brought down on him. O Indra among men! You accepted those who are unworthy. O king! You rejected those who are worthy. O Kouravya! You are now feeble and are incapable of protecting this extensive earth. I am exhausted from the speed of the chariot. O lion among men! I seek your permission to sleep. In the assembly hall tomorrow, the assembled Kurus will listen to the words that Ajatashatru has sent.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Sanjaya said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Pandu’s son is well with his advisers, even more than you had had known him earlier. The intelligent one does that which ensures dharma and artha. He is extremely learned, has foresight and follows good conduct. The non-violent Pandava is devoted to supreme dharma. He thinks that dharma is superior to riches. O descendant of the Bharata lineage! Those who know him know that he will not follow happiness or pleasure that is against the norms of dharma. A man is controlled by others{113}, like a wooden puppet on a string. When I witness Pandava’s hardships, I think that earlier karma{114} determines the destiny of beings. On seeing the taints of your deeds, with the evil it leads to and its terrible form, I think that as long as a man desires that which is right, a man obtains praise. Ajatashatru has given up evil, like a snake discards its useless skin. Having transferred sins to you, the brave Yudhishthira is resplendent in his conduct. O king! Learn how your deeds have harmed you. They are not united with dharma and artha and are not the conduct of aryas. O king! You have only obtained ill fame. That evil cannot be removed and will be with you in the hereafter. You have ignored them and have followed your son and wish to obtain an objective that is impossible to attain. The earth has loudly proclaimed that this is adharma. O foremost among those of the Bharata lineage! This was not an act that was worthy of you. One who is weak in intelligence, one who is born from an inferior lineage, one who is violent, one who remembers enmity for a long time, one who does not know about the conduct of kshatriyas and one who is weak in valour, such a person will not be able to overcome the disaster that adharma brings. One who is born in a noble lineage, one who follows dharma, one who is famous, one who is greatly learned, one who is in control of his soul and one who places dharma and artha over everything else, such a person lives happily. In no other way, can one overcome destiny. How can one who has intelligent advisers, who are well versed in the canons of dharma and artha, be foolish enough to commit such a violent act, as if one did not possess all the good counsel? These learned advisers have assembled together and have always advised about your tasks. They have arrived at the ﬁrm conviction that the hell that will wreak the destruction of the Kurus is imminent. The Kurus will be destroyed before their time, if Ajatashatru counters the evil with evil and passes on the evil to you. There will be censure for you in this world. Was it not in accordance with the will of the gods that Partha set his eyes on the supreme world{115}? He ascended there, and was honoured. There is no doubt that this wasn’t because of human action. In examining the qualities of deeds, that which has been and that which will be, King Bali came to the conclusion that the present was transient{116}. He decided that destiny was the root cause of everything. The eyes, the ears, the nose, the skin and the tongue—these are the sources of knowledge for beings. When the thirst has been quenched, these are content. Therefore, one should happily control them{117}. There are others who think that if performed well, a man’s deeds take on forms of their own. The child is the outcome of the deeds of the mother and the father and in due course, grows through the intake of food. O king! One is subject to pleasant and unpleasant, happiness and unhappiness, censure and praise. One censures others for committing a crime and praises them for good conduct. I censure you for discord among the Bharatas. This will lead to the destruction of many beings. Because of the crimes of your deeds, the Kurus will be burnt up, like the one with the black form{118} burns up dry wood. O king! O Indra among kings! Among all those in this world, you alone have come under the control of the sons that were born to you. At the time of the gambling match, you praised the one whose soul was overtaken by desire. Now witness the calamity that has been brought down on him. O Indra among men! You accepted those who are unworthy. O king! You rejected those who are worthy. O Kouravya! You are now feeble and are incapable of protecting this extensive earth. I am exhausted from the speed of the chariot. O lion among men! I seek your permission to sleep. In the assembly hall tomorrow, the assembled Kurus will listen to the words that Ajatashatru has sent.”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

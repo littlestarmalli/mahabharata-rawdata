@@ -1,0 +1,99 @@
+{
+  "chapter": 1668,
+  "local": 340,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O grandfather! You have spoken about dharma and the sacred dharma of moksha that one must seek refuge with. Among the different ashramas, you should now tell me what is the best kind of dharma.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandfather! You have spoken about dharma and the sacred dharma of moksha that one must seek refuge with. Among the different ashramas, you should now tell me what is the best kind of dharma.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “If followed, all kinds of dharma lead to heaven and yield the fruits of truth. There are many doors to dharma and no rites in the world are fruitless. O supreme among the Bharata lineage! Whoever determines that he should follow one particular mode, decides that all the others are not worth knowing. O tiger among men! In this connection, you should listen to an account. In ancient times, Narada, the rishi of the gods, and Shakra spoke about this. O king! Narada, the rishi of the gods, had obtained success and was revered by the three worlds. He progressively roamed around the worlds, like a wind that is not restrained. O great archer! On one occasion, he went to the abode of the king of the gods. The great Indra honoured him well and welcomed him. After some time, when he was seated, Shachi's lord{1371} asked him, ‘O brahmana rishi! O unblemished one! Have you seen anything wonderful? O brahmana rishi! You wander amidst the mobile and immobile objects of the three worlds, always curious. You have obtained success and are like a witness to what transpires. O devarshi! There is nothing in the worlds that is unknown to you. Tell me about anything that you might have heard, felt or seen.’ O king! Narada, supreme among eloquent ones, was seated. At this, he told Indra of the gods about an extensive account. I will tell it to you as that supreme among brahmanas described it. He recounted this account when he was asked. You too should listen to this.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If followed, all kinds of dharma lead to heaven and yield the fruits of truth. There are many doors to dharma and no rites in the world are fruitless. O supreme among the Bharata lineage! Whoever determines that he should follow one particular mode, decides that all the others are not worth knowing. O tiger among men! In this connection, you should listen to an account. In ancient times, Narada, the rishi of the gods, and Shakra spoke about this. O king! Narada, the rishi of the gods, had obtained success and was revered by the three worlds. He progressively roamed around the worlds, like a wind that is not restrained. O great archer! On one occasion, he went to the abode of the king of the gods. The great Indra honoured him well and welcomed him. After some time, when he was seated, Shachi's lord{1371} asked him, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana rishi! O unblemished one! Have you seen anything wonderful? O brahmana rishi! You wander amidst the mobile and immobile objects of the three worlds, always curious. You have obtained success and are like a witness to what transpires. O devarshi! There is nothing in the worlds that is unknown to you. Tell me about anything that you might have heard, felt or seen.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O king! Narada, supreme among eloquent ones, was seated. At this, he told Indra of the gods about an extensive account. I will tell it to you as that supreme among brahmanas described it. He recounted this account when he was asked. You too should listen to this.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

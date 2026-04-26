@@ -1,0 +1,68 @@
+{
+  "chapter": 738,
+  "local": 75,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhagavan said, “To determine your intentions, I spoke to you out of affection, not to belittle you, or to display my learning, or out of anger, or because I doubted you. I know your greatness of spirit. I know the strength you possess. I know your deeds and I am not trying to ﬁnd fault with you. O Pandava! The qualities I see in you are a thousand times more than those you see yourself. You have been born in a lineage that is worshipped by all the kings. You are surrounded by relatives and well-wishers. O Bhima! That is the kind of person you are. O Vrikodara! There are those who question dharma and seeking to draw a distinction between destiny and human endeavour, fail to arrive at a conclusion. The same reasons that lead a man to succeed also bring about his failure. The consequences of human action are always uncertain. Even wise ones, competent to judge matters, may decide in one way, though the consequences are the opposite. This is like the changing direction of the wind in the sky. The deeds performed by a man may be well thought out, well advised and conducted well. But destiny may act in a contrary way. Then again, human endeavour can counter what destiny has done, or not done. O descendant of the Bharata lineage! This is like cold and heat, hunger and thirst{16}. And yet again, a man may undertake deeds that are thought out well and these are not countered by destiny. These are the signs of destiny and human endeavour{17}. O Pandava! The world cannot sustain itself through anything other than action. A man who knows this will act, regardless of the fruits, determined by both endeavour and destiny. He who possesses this intelligence will engage in his own deeds. He will not suffer from failure, or exult at success. O Bhimasena! This is all that I meant to say. We cannot be certain of complete success in a battle with the Kurus. Since destiny constantly changes, one should not let go of the reins. Nor should one fall prey to despair and exhaustion. That is all that I meant to say.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhagavan said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@krishna",
+          "introduces_label": "Bhagavan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“To determine your intentions, I spoke to you out of affection, not to belittle you, or to display my learning, or out of anger, or because I doubted you. I know your greatness of spirit. I know the strength you possess. I know your deeds and I am not trying to ﬁnd fault with you. O Pandava! The qualities I see in you are a thousand times more than those you see yourself. You have been born in a lineage that is worshipped by all the kings. You are surrounded by relatives and well-wishers. O Bhima! That is the kind of person you are. O Vrikodara! There are those who question dharma and seeking to draw a distinction between destiny and human endeavour, fail to arrive at a conclusion. The same reasons that lead a man to succeed also bring about his failure. The consequences of human action are always uncertain. Even wise ones, competent to judge matters, may decide in one way, though the consequences are the opposite. This is like the changing direction of the wind in the sky. The deeds performed by a man may be well thought out, well advised and conducted well. But destiny may act in a contrary way. Then again, human endeavour can counter what destiny has done, or not done. O descendant of the Bharata lineage! This is like cold and heat, hunger and thirst{16}. And yet again, a man may undertake deeds that are thought out well and these are not countered by destiny. These are the signs of destiny and human endeavour{17}. O Pandava! The world cannot sustain itself through anything other than action. A man who knows this will act, regardless of the fruits, determined by both endeavour and destiny. He who possesses this intelligence will engage in his own deeds. He will not suffer from failure, or exult at success. O Bhimasena! This is all that I meant to say. We cannot be certain of complete success in a battle with the Kurus. Since destiny constantly changes, one should not let go of the reins. Nor should one fall prey to despair and exhaustion. That is all that I meant to say.",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O Pandava! I will go to Dhritarashtra tomorrow morning. I will try to bring about peace without sacriﬁcing your interests. If I succeed in obtaining peace, I will attain inﬁnite fame. Your desires will be satisﬁed and their supreme welfare will be ensured. But if the Kurus stick to their resolution and do not listen to my words, there will be war and terrible deeds will ensue. O Bhimasena! In that war the burden will be on you. Arjuna will have the responsibility of guiding the chariot and the others will be dragged along. I will be Bibhatsu's charioteer in that war. That is what Arjuna desires, because I do not myself wish to ﬁght. O Vrikodara! It was because I had some doubt about your intentions that I provoked you and addressed you as an eunuch. It was to ignite your energy.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O Pandava! I will go to Dhritarashtra tomorrow morning. I will try to bring about peace without sacriﬁcing your interests. If I succeed in obtaining peace, I will attain inﬁnite fame. Your desires will be satisﬁed and their supreme welfare will be ensured. But if the Kurus stick to their resolution and do not listen to my words, there will be war and terrible deeds will ensue. O Bhimasena! In that war the burden will be on you. Arjuna will have the responsibility of guiding the chariot and the others will be dragged along. I will be Bibhatsu's charioteer in that war. That is what Arjuna desires, because I do not myself wish to ﬁght. O Vrikodara! It was because I had some doubt about your intentions that I provoked you and addressed you as an eunuch. It was to ignite your energy.”",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

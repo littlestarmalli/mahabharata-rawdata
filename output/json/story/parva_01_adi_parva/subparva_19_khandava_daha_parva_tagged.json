@@ -1,0 +1,2207 @@
+{
+  "name": "Khandava-daha Parva",
+  "subparva_number": 19,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 12,
+    "num_shlokas": 344
+  },
+  "note": "Chaper 279: 40 shlokas The word daha means to burn and, as a noun, also means a fire or a con?agration in the forest. So this parva is about the burning of the Khandava forest by Arjuna and Krishna. It has also stories of the survivors, Ashvasena, Maya and the Sharngaka birds.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "214": {
+      "global_number": 214,
+      "local_number": 214,
+      "num_shlokas": 32,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On the orders of King Dhritarashtra and those of Shantanu’s son{1}, they lived in Indraprastha and brought under their rule many kings. All the people lived happily in Dharmaraja’s refuge, like souls in bodies that have auspicious marks and perform deeds{2}. That bull among Bharatas{3} served dharma, artha and kama equally, looking upon the three as relatives, like one’s own self. It was as if dharma, artha and kama had become personiﬁed on earth and with them, the king became like a fourth{4}. The vedas found a great student, the sacriﬁces a great performer and the castes{5} a pure protector in this ruler of men. Lakshmi{6} was established. Intelligence was revered. Dharma found a relative everywhere and extended on earth. With his four brothers, the king shone with radiance, like a great sacriﬁce assisted by the four vedas. Dhoumya and other brahmanas surrounded him and paid homage, like the chief immortals, each equal to Brihaspati, worshipers of Prajapati{7}. In the eyes and the hearts of the subjects, owing to their great affection, Dharmaraja was equal to the unblemished full moon. The subjects didn’t love him only because he was their king. They also bore him affection because of his deeds. Pritha’s intelligent son was always sweet in speech. He never uttered words that were improper, untrue, malicious or unpleasant. The immensely energetic and supreme one of the Bharata lineage found pleasure in devoting himself to the welfare of all the worlds, treating everyone like his own self. Through their great energy, all the Pandavas lived happily, devoid of distress, pacifying all the kings.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On the orders of King Dhritarashtra and those of Shantanu’s son{1}, they lived in Indraprastha and brought under their rule many kings. All the people lived happily in Dharmaraja’s refuge, like souls in bodies that have auspicious marks and perform deeds{2}. That bull among Bharatas{3} served dharma, artha and kama equally, looking upon the three as relatives, like one’s own self. It was as if dharma, artha and kama had become personiﬁed on earth and with them, the king became like a fourth{4}. The vedas found a great student, the sacriﬁces a great performer and the castes{5} a pure protector in this ruler of men. Lakshmi{6} was established. Intelligence was revered. Dharma found a relative everywhere and extended on earth. With his four brothers, the king shone with radiance, like a great sacriﬁce assisted by the four vedas. Dhoumya and other brahmanas surrounded him and paid homage, like the chief immortals, each equal to Brihaspati, worshipers of Prajapati{7}. In the eyes and the hearts of the subjects, owing to their great affection, Dharmaraja was equal to the unblemished full moon. The subjects didn’t love him only because he was their king. They also bore him affection because of his deeds. Pritha’s intelligent son was always sweet in speech. He never uttered words that were improper, untrue, malicious or unpleasant. The immensely energetic and supreme one of the Bharata lineage found pleasure in devoting himself to the welfare of all the worlds, treating everyone like his own self. Through their great energy, all the Pandavas lived happily, devoid of distress, pacifying all the kings.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘After a few days, Bibhatsu told Krishna, “O Krishna! Warm days are here. Let us go towards the Yamuna. O Madhusudana! O Janardana! If you agree, let us sport there with our friends and return in the evening.” Vasudeva replied, “O Kunti’s son! O Pritha’s son! That is my wish too. As long as we desire, let us sport with our friends in the water.” O descendant of the Bharata lineage! After consulting and obtaining Dharmaraja’s permission, Partha, Govinda and their friends set out.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After a few days,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bibhatsu told Krishna",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“O Krishna! Warm days are here. Let us go towards the Yamuna. O Madhusudana! O Janardana! If you agree, let us sport there with our friends and return in the evening.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O Kunti’s son! O Pritha’s son! That is my wish too. As long as we desire, let us sport with our friends in the water.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! After consulting and obtaining Dharmaraja’s permission, Partha, Govinda and their friends set out.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘They reached that beautiful pleasure ground, dotted with many trees and adorned with many tall houses, like Purandara’s{8} abode. Flavoured and expensive food and drinks were spread out and many perfumed garlands were adorned for Varshneya{9} and Partha. They entered the place that was stocked with many pure and brilliant gems. O descendant of the Bharata lineage! All of them began to sport as they pleased. Some women sported in the woods, others in the water and some others in the houses, wherever it pleased Krishna and Partha. In great intoxication, Droupadi and Subhadra gave away expensive garments and ornaments to the women. Some danced in great delight, others shouted. Some of the women laughed, others drank the excellent wine. Some began to weep, others fought among themselves. Some whispered secrets to each other and jested. The woods became the scene of prosperity, ﬁlled all around with the beautiful music of ﬂutes, veenas and drums.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘They reached that beautiful pleasure ground, dotted with many trees and adorned with many tall houses, like Purandara’s{8} abode. Flavoured and expensive food and drinks were spread out and many perfumed garlands were adorned for Varshneya{9} and Partha. They entered the place that was stocked with many pure and brilliant gems. O descendant of the Bharata lineage! All of them began to sport as they pleased. Some women sported in the woods, others in the water and some others in the houses, wherever it pleased Krishna and Partha. In great intoxication, Droupadi and Subhadra gave away expensive garments and ornaments to the women. Some danced in great delight, others shouted. Some of the women laughed, others drank the excellent wine. Some began to weep, others fought among themselves. Some whispered secrets to each other and jested. The woods became the scene of prosperity, ﬁlled all around with the beautiful music of ﬂutes, veenas and drums.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘While this was going on, the descendants of Kuru and Dasharha{10} went to a beautiful region that was not far off. O king! Having gone there, the two great-souled Krishnas{11}, conquerors of enemy cities, seated themselves on very expensive seats. Partha and Madhava amused themselves by recounting to each other the many deeds of valour and love they had performed earlier. When Vasudeva and Dhananjaya were thus happily seated together, like the two Ashvins{12} in heaven, a brahmana arrived. He was like a tall shala tree and his complexion was like heated gold. His beard was reddish brown and his limbs were well proportioned. His hair was matted and his attire was dark. He was radiant like the young sun{13} and his eyes were like lotus leaves. His complexion was tawny and he blazed with energy. On seeing that supreme among brahmanas approach, the two Krishnas, Arjuna and Vasudeva, quickly stood up.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "While this was going on, the descendants of Kuru and Dasharha{10} went to a beautiful region that was not far off. O king! Having gone there, the two great-souled Krishnas{11}, conquerors of enemy cities, seated themselves on very expensive seats. Partha and Madhava amused themselves by recounting to each other the many deeds of valour and love they had performed earlier. When Vasudeva and Dhananjaya were thus happily seated together, like the two Ashvins{12} in heaven, a brahmana arrived. He was like a tall shala tree and his complexion was like heated gold. His beard was reddish brown and his limbs were well proportioned. His hair was matted and his attire was dark. He was radiant like the young sun{13} and his eyes were like lotus leaves. His complexion was tawny and he blazed with energy. On seeing that supreme among brahmanas approach, the two Krishnas, Arjuna and Vasudeva, quickly stood up.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "215": {
+      "global_number": 215,
+      "local_number": 215,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘He then spoke to Arjuna and Vasudeva of the Satvata lineage. “You two, who are now so near the Khandava tract, are supreme in the world. I am a voracious brahmana who always eats unlimited quantities. O descendants of Vrishni and Pritha! I beg you. Give me enough food to satisfy myself.” Having been thus addressed, Krishna and Pandava told him, “Tell us what kind of food will satisfy you. We will try to bring it for you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘He then spoke to Arjuna and Vasudeva of the Satvata lineage.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“You two, who are now so near the Khandava tract, are supreme in the world. I am a voracious brahmana who always eats unlimited quantities. O descendants of Vrishni and Pritha! I beg you. Give me enough food to satisfy myself.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Krishna and Pandava told him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna_and_pandava",
+              "text": "“Tell us what kind of food will satisfy you. We will try to bring it for you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having been thus addressed, the illustrious brahmana then told the warriors, who had asked him about the kind of food that should be prepared for him, “I do not eat ordinary food. Know me to be the ﬁre. Therefore, seek to bring me the food that is appropriate for me. This Khandava tract is always protected by Indra. So I am unable to burn it down because that great-souled one protects it. His friend, the naga Takshaka lives there with his kin and is protected by the wielder of the vajra and many other beings are also incidentally protected. Though I always wish to burn it down, I cannot do so because of Shakra’s{14} energy. Whenever he sees me ablaze, he pours down ﬂoods of rain from the clouds. Though I earnestly wish to consume it, I cannot thus burn it down. Since the two of you are skilled in the use of arms, I have now come to you for help. I will now be able to burn Khandava down and that is the food I desire from you. You know about supreme weapons. Restrain the showers on all sides. Restrain all the creatures{15}.” On hearing these words, Bibhatsu told the ﬁre, who wished to burn down Khandava, despite being restrained by Shatakratu{16}. “I have many excellent and divine weapons with which I am capable of ﬁghting many wielders of the vajra. O illustrious one! But I do not possess a bow that can bear the strength of my arms and withstand the strength and speed I bring to battle. Because of my speed, I need arrows that are inexhaustible. My chariot cannot bear all the arrows that I desire. I want divine horses that are white and as swift as the wind. And a chariot that will shine like the sun in its energy and will thunder like the clouds. Nor does Krishna possess a weapon that can equal his valour and Madhava requires one to kill the nagas and demons{17} in battle. O illustrious one! Tell us the means so that we may be successful and are able to restrain Indra from raining down on this extensive forest. O ﬁre! We are ready to act according to our prowess. O illustrious one! But you should give us the means that can support us.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, the illustrious brahmana then told the warriors, who had asked him about the kind of food that should be prepared for him,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“I do not eat ordinary food. Know me to be the ﬁre. Therefore, seek to bring me the food that is appropriate for me. This Khandava tract is always protected by Indra. So I am unable to burn it down because that great-souled one protects it. His friend, the naga Takshaka lives there with his kin and is protected by the wielder of the vajra and many other beings are also incidentally protected. Though I always wish to burn it down, I cannot do so because of Shakra’s{14} energy. Whenever he sees me ablaze, he pours down ﬂoods of rain from the clouds. Though I earnestly wish to consume it, I cannot thus burn it down. Since the two of you are skilled in the use of arms, I have now come to you for help. I will now be able to burn Khandava down and that is the food I desire from you. You know about supreme weapons. Restrain the showers on all sides. Restrain all the creatures{15}.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing these words, Bibhatsu told the ﬁre, who wished to burn down Khandava, despite being restrained by Shatakratu{16}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“I have many excellent and divine weapons with which I am capable of ﬁghting many wielders of the vajra. O illustrious one! But I do not possess a bow that can bear the strength of my arms and withstand the strength and speed I bring to battle. Because of my speed, I need arrows that are inexhaustible. My chariot cannot bear all the arrows that I desire. I want divine horses that are white and as swift as the wind. And a chariot that will shine like the sun in its energy and will thunder like the clouds. Nor does Krishna possess a weapon that can equal his valour and Madhava requires one to kill the nagas and demons{17} in battle. O illustrious one! Tell us the means so that we may be successful and are able to restrain Indra from raining down on this extensive forest. O ﬁre! We are ready to act according to our prowess. O illustrious one! But you should give us the means that can support us.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "216": {
+      "global_number": 216,
+      "local_number": 216,
+      "num_shlokas": 34,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Having been thus addressed, the illustrious ﬁre, with the smoke as his banner, remembered Varuna, the lord of the worlds, Aditi’s son and the god who lives in the water and is the lord of the waters. Knowing that he had been remembered, he too appeared before the ﬁre. The smoke-crested one paid homage to the lord of the waters, the fourth lokapala{18}, the protector and the great god and said, “Quickly give me the bow, the two quivers and the chariot bearing the ﬂag of a monkey that were obtained from King Soma. Partha will accomplish a great task with Gandiva{19} and Vasudeva with the chakra{20}. For that reason, let those be given to them.” Varuna told the ﬁre, “I will give them.” Then he gave him that extraordinary gem of a bow, endowed with great valour and capable of extending fame and deeds. It was incapable of being hurt by any weapon, but could destroy all weapons. It was the chief of all weapons and was the destroyer of enemy armies. It alone was equal to one hundred thousand and was the extender of kingdoms. It was radiant, smooth and unblemished everywhere and adorned with many colours. For an eternity, it had been worshipped by the gods, the danavas and the gandharvas. He also gave him two inexhaustible quivers and a chariot with divine horses, with a monkey on the banner. The horses were silvery and were from the land of the gandharvas. They were in golden harnesses, as swift as the wind or the mind, and resembled white clouds. Every weapon was laden onto the chariot and it was incapable of being vanquished by the gods or the danavas. It was radiant, with a thunderous roar and was enchanting to all beings. Through his ascetic powers, it was created by Prajapati Bhoumana{21}, the lord of the worlds. Its form was like that of the sun and could not be gazed at. It was on this that Lord Soma had ascended when he vanquished the danavas. It was radiant in its beauty and was gigantic, like an elephant or a cloud. On this supreme of chariots was mounted an excellent ﬂagpole, golden and resplendent like Shakra’s weapon. On the ﬂagpole was a divine monkey marked with the signs of the lion and the tiger. It seemed to roar out from that adorned perch. There were many other great beings on that ﬂag and their roars made enemy soldiers lose their senses.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having been thus addressed, the illustrious ﬁre, with the smoke as his banner, remembered Varuna, the lord of the worlds, Aditi’s son and the god who lives in the water and is the lord of the waters. Knowing that he had been remembered, he too appeared before the ﬁre. The smoke-crested one paid homage to the lord of the waters, the fourth lokapala{18},",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the protector and the great god and said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_protector_and_the_great",
+              "text": "“Quickly give me the bow, the two quivers and the chariot bearing the ﬂag of a monkey that were obtained from King Soma. Partha will accomplish a great task with Gandiva{19} and Vasudeva with the chakra{20}. For that reason, let those be given to them.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Varuna told the ﬁre",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@varuna",
+              "text": "“I will give them.”",
+              "color": "#7F4ED9",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then he gave him that extraordinary gem of a bow, endowed with great valour and capable of extending fame and deeds. It was incapable of being hurt by any weapon, but could destroy all weapons. It was the chief of all weapons and was the destroyer of enemy armies. It alone was equal to one hundred thousand and was the extender of kingdoms. It was radiant, smooth and unblemished everywhere and adorned with many colours. For an eternity, it had been worshipped by the gods, the danavas and the gandharvas. He also gave him two inexhaustible quivers and a chariot with divine horses, with a monkey on the banner. The horses were silvery and were from the land of the gandharvas. They were in golden harnesses, as swift as the wind or the mind, and resembled white clouds. Every weapon was laden onto the chariot and it was incapable of being vanquished by the gods or the danavas. It was radiant, with a thunderous roar and was enchanting to all beings. Through his ascetic powers, it was created by Prajapati Bhoumana{21}, the lord of the worlds. Its form was like that of the sun and could not be gazed at. It was on this that Lord Soma had ascended when he vanquished the danavas. It was radiant in its beauty and was gigantic, like an elephant or a cloud. On this supreme of chariots was mounted an excellent ﬂagpole, golden and resplendent like Shakra’s weapon. On the ﬂagpole was a divine monkey marked with the signs of the lion and the tiger. It seemed to roar out from that adorned perch. There were many other great beings on that ﬂag and their roars made enemy soldiers lose their senses.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Then Partha circumambulated that supreme chariot, adorned with many pennants. He worshipped all the gods and attired in armour, with guards for his ﬁngers and wrists, and with a sword slung against his chest, ascended it, like a virtuous man on a vimana{22}. Arjuna was extremely delighted when be grasped the Gandiva, the divine and supreme of bows, created by Brahma in ancient times. Paying his homage to the ﬁre, the valorous one grasped the bow with great force and strung it. When the powerful Pandava strung the bow, the hearts of those who heard the sound trembled. Having obtained the chariot, the bow and the two inexhaustible quivers, Kounteya thought himself to be powerful and accomplished for the task. Then the ﬁre gave Krishna the chakra, with a vajra at its centre. On receiving this ﬁery and desirable weapon, he too became accomplished. The ﬁre said, “O Madhusudana! There is no doubt that with this weapon you will be victorious in battle, even over those who are not human. It is certain that in the destruction of great enemies—humans, gods, rakshasas, pishachas, daityas, nagas—you will be the superior in battle. O Madhava! Whenever you hurl it at an enemy in the course of battle, it will irresistibly kill and return again to your hand.” The illustrious Varuna also gave Hari a terrible club named Koumadaki{23}, the destroyer of daityas, with the roar of the thunder.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then Partha circumambulated that supreme chariot, adorned with many pennants. He worshipped all the gods and attired in armour, with guards for his ﬁngers and wrists, and with a sword slung against his chest, ascended it, like a virtuous man on a vimana{22}. Arjuna was extremely delighted when be grasped the Gandiva, the divine and supreme of bows, created by Brahma in ancient times. Paying his homage to the ﬁre, the valorous one grasped the bow with great force and strung it. When the powerful Pandava strung the bow, the hearts of those who heard the sound trembled. Having obtained the chariot, the bow and the two inexhaustible quivers, Kounteya thought himself to be powerful and accomplished for the task. Then the ﬁre gave Krishna the chakra, with a vajra at its centre. On receiving this ﬁery and desirable weapon, he too became accomplished.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The ﬁre said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the",
+              "text": "“O Madhusudana! There is no doubt that with this weapon you will be victorious in battle, even over those who are not human. It is certain that in the destruction of great enemies—humans, gods, rakshasas, pishachas, daityas, nagas—you will be the superior in battle. O Madhava! Whenever you hurl it at an enemy in the course of battle, it will irresistibly kill and return again to your hand.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The illustrious Varuna also gave Hari a terrible club named Koumadaki{23}, the destroyer of daityas, with the roar of the thunder.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The delighted Krishna and Arjuna told the ﬁre, “O illustrious one! We are now armed with weapons and know their use. We are mounted on chariots with ﬂags. We are eager to ﬁght all the gods and demons together, not to speak of a single wielder of the vajra who wishes to ﬁght for the sake of a naga.” Arjuna said, “O ﬁre! When the powerful Varshneya releases the chakra in battle, there is nothing in the three worlds that Janardana cannot vanquish. Having obtained the bow Gandiva and these two inexhaustible quivers, I am also capable of vanquishing the worlds in battle. O lord! Blaze as you wish and encircle this great forest. We are capable of helping you in your task.” Having been thus addressed by Dasharha and Arjuna, the illustrious one assumed his energetic form and began to consume the forest. He surrounded it from all sides with his seven ﬂames. As terrible as the ﬁre at the end of a yuga, he began to angrily consume Khandava. O bull among the Bharata lineage! When he surrounded the forest from all sides, he roared like the clouds and burnt all the beings. O descendant of the Bharata lineage! The blazing forest looked like Meru, king of the mountains, golden in its great radiance.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The delighted Krishna and Arjuna told the ﬁre",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_delighted_krishna_and",
+              "text": "“O illustrious one! We are now armed with weapons and know their use. We are mounted on chariots with ﬂags. We are eager to ﬁght all the gods and demons together, not to speak of a single wielder of the vajra who wishes to ﬁght for the sake of a naga.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“O ﬁre! When the powerful Varshneya releases the chakra in battle, there is nothing in the three worlds that Janardana cannot vanquish. Having obtained the bow Gandiva and these two inexhaustible quivers, I am also capable of vanquishing the worlds in battle. O lord! Blaze as you wish and encircle this great forest. We are capable of helping you in your task.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed by Dasharha and Arjuna, the illustrious one assumed his energetic form and began to consume the forest. He surrounded it from all sides with his seven ﬂames. As terrible as the ﬁre at the end of a yuga, he began to angrily consume Khandava. O bull among the Bharata lineage! When he surrounded the forest from all sides, he roared like the clouds and burnt all the beings. O descendant of the Bharata lineage! The blazing forest looked like Meru, king of the mountains, golden in its great radiance.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "217": {
+      "global_number": 217,
+      "local_number": 217,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Those two tigers among men stationed themselves on their chariots on both sides of the forest and a great slaughter of all beings began in every direction. Wherever they saw a creature that dwelt in Khandava trying to escape, those two heroes pursued it. No hole could be seen in the swift power of the chariots{24}. Those two excellent chariots and the two charioteers seemed to be as one. As Khandava blazed, thousands of beings leapt in the ten{25} directions, uttering frightened yells. Some were burnt in one spot. Some were scorched. The eyes burst out for some. Some withered away. Some lost their minds and scattered. Some clung to their sons, others to their fathers and mothers. Out of affection, they were unable to let go and perished. Others rose up in their thousands, their forms distorted. But they were whirled around and again ﬂung into the ﬁre. Some rolled on the ground, their wings, eyes and feet scorched. They were seen there, their bodies destroyed. O descendant of the Bharata lineage! All the waterbodies began to boil. In their thousands, the turtles and the ﬁshes were seen dead. In that destruction of beings in the forest, the burning bodies seemed like ﬂaming torches. Those that ascended upwards were cut to pieces by Partha’s arrows, as he laughingly ﬂung them back into the ﬂames. Uttering loud wails, their bodies pierced everywhere by arrows, from above, they were swiftly ﬂung back again into the ﬁre. Pierced by arrows and in ﬂames, the sounds made by the forest-dwellers was heard, like the ocean when it was churned. The huge ﬂames of the delighted ﬁre rose up into the sky and created great consternation among the dwellers of heaven. They sought refuge with the thousand-eyed Purandara{26}, the king of the gods. The gods said, “O lord of the immortals! Why is the ﬁre burning all these people? Is it the case that the end of the worlds has arrived?” Having heard this, the slayer of Vritra{27} himself looked down.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Those two tigers among men stationed themselves on their chariots on both sides of the forest and a great slaughter of all beings began in every direction. Wherever they saw a creature that dwelt in Khandava trying to escape, those two heroes pursued it. No hole could be seen in the swift power of the chariots{24}. Those two excellent chariots and the two charioteers seemed to be as one. As Khandava blazed, thousands of beings leapt in the ten{25} directions, uttering frightened yells. Some were burnt in one spot. Some were scorched. The eyes burst out for some. Some withered away. Some lost their minds and scattered. Some clung to their sons, others to their fathers and mothers. Out of affection, they were unable to let go and perished. Others rose up in their thousands, their forms distorted. But they were whirled around and again ﬂung into the ﬁre. Some rolled on the ground, their wings, eyes and feet scorched. They were seen there, their bodies destroyed. O descendant of the Bharata lineage! All the waterbodies began to boil. In their thousands, the turtles and the ﬁshes were seen dead. In that destruction of beings in the forest, the burning bodies seemed like ﬂaming torches. Those that ascended upwards were cut to pieces by Partha’s arrows, as he laughingly ﬂung them back into the ﬂames. Uttering loud wails, their bodies pierced everywhere by arrows, from above, they were swiftly ﬂung back again into the ﬁre. Pierced by arrows and in ﬂames, the sounds made by the forest-dwellers was heard, like the ocean when it was churned. The huge ﬂames of the delighted ﬁre rose up into the sky and created great consternation among the dwellers of heaven. They sought refuge with the thousand-eyed Purandara{26},",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the king of the gods. The gods said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king_of_the_gods",
+              "text": "“O lord of the immortals! Why is the ﬁre burning all these people? Is it the case that the end of the worlds has arrived?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard this, the slayer of Vritra{27} himself looked down.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Harivahana{28} set out to save Khandava. Covering the sky with a great mass of clouds in many forms, the lord of the gods and the wielder of the vajra began to pour down rain. The thousand-eyed one showered down rain on the ﬁre raging in Khandava from hundreds and thousands of clouds, in shafts as thick as the axles{29}. But the heat of the ﬁre dried up these showers before they reached. Not a single one reached the ﬁre. Then the slayer of Namuchi{30} became very angry with the ﬁre. He again started to rain down, in many torrents. Then the ﬂames fought with those showers, mingled with smoke and lightning. With the sound of the roar, that forest became terrible to look at.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Harivahana{28} set out to save Khandava. Covering the sky with a great mass of clouds in many forms, the lord of the gods and the wielder of the vajra began to pour down rain. The thousand-eyed one showered down rain on the ﬁre raging in Khandava from hundreds and thousands of clouds, in shafts as thick as the axles{29}. But the heat of the ﬁre dried up these showers before they reached. Not a single one reached the ﬁre. Then the slayer of Namuchi{30} became very angry with the ﬁre. He again started to rain down, in many torrents. Then the ﬂames fought with those showers, mingled with smoke and lightning. With the sound of the roar, that forest became terrible to look at.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "218": {
+      "global_number": 218,
+      "local_number": 218,
+      "num_shlokas": 50,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Summoning his splendid weapons, Pandava Bibhatsu, repulsed the shower of rain with a shower of arrows. Pandava covered every side of Khandava with his arrows and drove away that rain from that forest. When the sky was covered with Savyasachi’s arrows, not a single being could escape from there.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Summoning his splendid weapons, Pandava Bibhatsu, repulsed the shower of rain with a shower of arrows. Pandava covered every side of Khandava with his arrows and drove away that rain from that forest. When the sky was covered with Savyasachi’s arrows, not a single being could escape from there.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Takshaka, the immensely powerful king of the serpents, wasn’t in the ﬂaming forest then. He had gone to Kurukshetra. But Takshaka’s powerful son Ashvasena was there. He made great efforts to escape from the ﬁre. However, oppressed by Kounteya’s arrows, he didn’t succeed in getting out. But his mother, daughter of the serpents, tried to save him. She ﬁrst swallowed his head. Then she began to swallow his tail and in her haste to save her son, the serpent lady rose up. When Pandava saw this, he sliced off her head with a sharp arrow{31}. The lord of the gods saw this. Acting as saviour, the wielder of the vajra unleashed a shower of rain on Pandava and when this dazed him, Ashvasena instantly escaped. O descendant of the Bharata lineage! On seeing this terrible power of maya and having been deprived by the serpent, he cut down all the serpents into two and three pieces. Angrily, Bibhatsu cursed the serpent that had escaped and so did the ﬁre and Vasudeva, to the effect that he would never attain fame.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Takshaka, the immensely powerful king of the serpents, wasn’t in the ﬂaming forest then. He had gone to Kurukshetra. But Takshaka’s powerful son Ashvasena was there. He made great efforts to escape from the ﬁre. However, oppressed by Kounteya’s arrows, he didn’t succeed in getting out. But his mother, daughter of the serpents, tried to save him. She ﬁrst swallowed his head. Then she began to swallow his tail and in her haste to save her son, the serpent lady rose up. When Pandava saw this, he sliced off her head with a sharp arrow{31}. The lord of the gods saw this. Acting as saviour, the wielder of the vajra unleashed a shower of rain on Pandava and when this dazed him, Ashvasena instantly escaped. O descendant of the Bharata lineage! On seeing this terrible power of maya and having been deprived by the serpent, he cut down all the serpents into two and three pieces. Angrily, Bibhatsu cursed the serpent that had escaped and so did the ﬁre and Vasudeva, to the effect that he would never attain fame.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then Jishnu remembered the deception that had been played on him. He was angered and seeking to ﬁght with the thousand-eyed one, covered the sky with his sharp arrows. On seeing Phalguna’s{32} wrath, the king of the gods unleashed his own blazing missile and it ﬂashed across the entire sky. Then winds with terrible roars churned all the oceans. Masses of clouds, mingled with torrents of rain, were created. To counter them, Arjuna unleashed his own supreme weapon. The one who had the knowledge used a mantra to invoke the vayavya weapon. In an instant, it destroyed the energy and might of Indra’s clouds, rain and thunder. The clouds dried, the lightning died and the dark sky was paciﬁed. Cool and pleasant winds began to blow and the sun’s orbit returned to normal. Delighted that there was no opposition any more and with the many offerings being made, the ﬁre blazed up again and ﬁlled the world with its roar.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then Jishnu remembered the deception that had been played on him. He was angered and seeking to ﬁght with the thousand-eyed one, covered the sky with his sharp arrows. On seeing Phalguna’s{32} wrath, the king of the gods unleashed his own blazing missile and it ﬂashed across the entire sky. Then winds with terrible roars churned all the oceans. Masses of clouds, mingled with torrents of rain, were created. To counter them, Arjuna unleashed his own supreme weapon. The one who had the knowledge used a mantra to invoke the vayavya weapon. In an instant, it destroyed the energy and might of Indra’s clouds, rain and thunder. The clouds dried, the lightning died and the dark sky was paciﬁed. Cool and pleasant winds began to blow and the sun’s orbit returned to normal. Delighted that there was no opposition any more and with the many offerings being made, the ﬁre blazed up again and ﬁlled the world with its roar.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘On seeing that the ﬁre was protected by the two Krishnas, many feathered beings of the Suparna{33} lineage, including Garuda, rose up into the sky, eager to attack the warriors Krishna and Pandava with their wings, beaks and claws, as tough as the vajra. Many serpents also descended near Pandava, spewing terrible and ﬂaming venom from their mouths. As soon as he saw these sky-dwelling creatures, Partha angrily cut them down with his arrows. Benumbed, their bodies fell into the ﬂaming ﬁre. At that, the gods, the gandharvas, the yakshas, the rakshasas and the serpents rose up, uttering loud roars and desiring to ﬁght. They were armed with iron clubs, chakras and bhushundis{34}, with lightning in them. They were intent on killing Krishna and Partha, their great energy benumbed by their anger. Though they unleashed a fearful shower of weapons, Bibhatsu churned their upper limbs with his sharp arrows. The immensely energetic Krishna, destroyer of enemies, then wrought a great slaughter of daityas and danavas with his chakra. Pierced by arrows and struck with the force of the chakra, many powerful ones were paciﬁed, like waves that reach a shore.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing that the ﬁre was protected by the two Krishnas, many feathered beings of the Suparna{33} lineage, including Garuda, rose up into the sky, eager to attack the warriors Krishna and Pandava with their wings, beaks and claws, as tough as the vajra. Many serpents also descended near Pandava, spewing terrible and ﬂaming venom from their mouths. As soon as he saw these sky-dwelling creatures, Partha angrily cut them down with his arrows. Benumbed, their bodies fell into the ﬂaming ﬁre. At that, the gods, the gandharvas, the yakshas, the rakshasas and the serpents rose up, uttering loud roars and desiring to ﬁght. They were armed with iron clubs, chakras and bhushundis{34}, with lightning in them. They were intent on killing Krishna and Partha, their great energy benumbed by their anger. Though they unleashed a fearful shower of weapons, Bibhatsu churned their upper limbs with his sharp arrows. The immensely energetic Krishna, destroyer of enemies, then wrought a great slaughter of daityas and danavas with his chakra. Pierced by arrows and struck with the force of the chakra, many powerful ones were paciﬁed, like waves that reach a shore.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Then Shakra, the great lord of the thirty gods{35}, was angered. Riding a white elephant, he charged at them. Grasping lightning, he hurled his vajra weapon with great force and the slayer of demons announced to the gods that the two had been killed. On seeing that the king of the gods was about to hurl the great lightning, the gods grasped all their respective weapons—King Yama his kaladanda{36}, the god of wealth his shibika{37}, Varuna his pasha{38}, Shiva his vichakra{39}, the two Ashvins luminiscent oshadhi{40}, Dhata his dhanu{41}, Jaya his musala{42}, the immensely strong Tvashta a mountain, Amsha his shakti{43} and the god of death{44} his parashva{45}. Aryaman grasped a fearful parigha{46} and walked around. Mitra stood there, grasping a chakra that was as sharp as a razor. O lord of the earth! Pusha, Bhaga and Savita grabbed bows and swords and rushed at Krishna and Partha. O supreme among men! The Rudras, the powerful Maruts, the Vishvadevas, the Sadhyas resplendent in their energy, and many other gods armed with diverse weapons advanced towards Krishna and Partha, in a desire to kill them. O descendant of the Bharata lineage! In that great battle, wonderful omens were witnessed, equal to those seen when all beings were exterminated at the end of a yuga.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then Shakra, the great lord of the thirty gods{35}, was angered. Riding a white elephant, he charged at them. Grasping lightning, he hurled his vajra weapon with great force and the slayer of demons announced to the gods that the two had been killed. On seeing that the king of the gods was about to hurl the great lightning, the gods grasped all their respective weapons—King Yama his kaladanda{36}, the god of wealth his shibika{37}, Varuna his pasha{38}, Shiva his vichakra{39}, the two Ashvins luminiscent oshadhi{40}, Dhata his dhanu{41}, Jaya his musala{42}, the immensely strong Tvashta a mountain, Amsha his shakti{43} and the god of death{44} his parashva{45}. Aryaman grasped a fearful parigha{46} and walked around. Mitra stood there, grasping a chakra that was as sharp as a razor. O lord of the earth! Pusha, Bhaga and Savita grabbed bows and swords and rushed at Krishna and Partha. O supreme among men! The Rudras, the powerful Maruts, the Vishvadevas, the Sadhyas resplendent in their energy, and many other gods armed with diverse weapons advanced towards Krishna and Partha, in a desire to kill them. O descendant of the Bharata lineage! In that great battle, wonderful omens were witnessed, equal to those seen when all beings were exterminated at the end of a yuga.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘The two Achyutas{47} saw the angry Shakra and the assemblage of the other gods. Those fearless and invincible warriors stood there, their bows ready. When they saw the gods advancing from every direction, they angrily repulsed them with arrows that were like the vajra. Repeatedly, the resolutions of the gods were shattered. In fear, they gave up the battle and sought refuge with Shakra. On seeing the gods repulsed by Madhava and Arjuna, the sages who dwell in heaven were astonished. Shakra was also extremely pleased at witnessing their constant prowess in battle and engaged in ﬁghting them once again. In an attempt to question Savyasachi’s valour, the chastiser of Paka{48} then cast down a gigantic shower of rocks. But intolerantly, Arjuna countered that shower. On seeing that his act was unsuccessful, Shatakratu, the king of the gods, increased the strength of his shower. But the son of the chastiser of Paka brought great pleasure to his father by destroying that shower of rocks with his swift arrows. Wishing to kill Pandu’s son, Shakra then uprooted with his bare hands a giant peak of Mandara, with all its trees, and ﬂung it. But Arjuna immediately splintered that peak of the mountain into a thousand pieces with his swift and straight, ﬁre-tipped arrows. The sight of that mountain splintering was like that of the sky breaking, with the sun, the moon and the planets. Pieces of that giant mountain fell on the forest and killed many beings who lived in Khandava.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The two Achyutas{47} saw the angry Shakra and the assemblage of the other gods. Those fearless and invincible warriors stood there, their bows ready. When they saw the gods advancing from every direction, they angrily repulsed them with arrows that were like the vajra. Repeatedly, the resolutions of the gods were shattered. In fear, they gave up the battle and sought refuge with Shakra. On seeing the gods repulsed by Madhava and Arjuna, the sages who dwell in heaven were astonished. Shakra was also extremely pleased at witnessing their constant prowess in battle and engaged in ﬁghting them once again. In an attempt to question Savyasachi’s valour, the chastiser of Paka{48} then cast down a gigantic shower of rocks. But intolerantly, Arjuna countered that shower. On seeing that his act was unsuccessful, Shatakratu, the king of the gods, increased the strength of his shower. But the son of the chastiser of Paka brought great pleasure to his father by destroying that shower of rocks with his swift arrows. Wishing to kill Pandu’s son, Shakra then uprooted with his bare hands a giant peak of Mandara, with all its trees, and ﬂung it. But Arjuna immediately splintered that peak of the mountain into a thousand pieces with his swift and straight, ﬁre-tipped arrows. The sight of that mountain splintering was like that of the sky breaking, with the sun, the moon and the planets. Pieces of that giant mountain fell on the forest and killed many beings who lived in Khandava.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "219": {
+      "global_number": 219,
+      "local_number": 219,
+      "num_shlokas": 40,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘The inhabitants of Khandava were frightened at the fall of the mountain—danavas, rakshasas, serpents, hyenas, bears, elephants in rut, tigers, lions with manes, deer, buffaloes, hundreds of birds and other forest-dwellers. In great alarm, they and many other beings slithered away. They saw the raging ﬁre and the two Krishnas, their weapons ready and the terrible roar scared them. Janardana let ﬂy his chakra, radiant with its own energy, and small creatures, danavas and nishacharas{49} were instantly cut down in hundreds and hurled into the ﬁre. Mangled by Krishna’s chakra and covered with fat and blood, the rakshasas then seemed to be like twilight clouds. O descendant of the Bharata lineage! Varshneya was like destiny, killing pishachas, birds, serpents and animals in their thousands. Released from the hand of Krishna, the slayer of enemies, the chakra repeatedly killed many beings and returned to his hand. O descendant of the Bharata lineage! As he went about killing all the beings, the form of he, who is the soul of all beings, became dreadful.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The inhabitants of Khandava were frightened at the fall of the mountain—danavas, rakshasas, serpents, hyenas, bears, elephants in rut, tigers, lions with manes, deer, buffaloes, hundreds of birds and other forest-dwellers. In great alarm, they and many other beings slithered away. They saw the raging ﬁre and the two Krishnas, their weapons ready and the terrible roar scared them. Janardana let ﬂy his chakra, radiant with its own energy, and small creatures, danavas and nishacharas{49} were instantly cut down in hundreds and hurled into the ﬁre. Mangled by Krishna’s chakra and covered with fat and blood, the rakshasas then seemed to be like twilight clouds. O descendant of the Bharata lineage! Varshneya was like destiny, killing pishachas, birds, serpents and animals in their thousands. Released from the hand of Krishna, the slayer of enemies, the chakra repeatedly killed many beings and returned to his hand. O descendant of the Bharata lineage! As he went about killing all the beings, the form of he, who is the soul of all beings, became dreadful.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘All the assembled gods and danavas could not vanquish Krishna and Pandava in battle. Nor could the gods save the forest with their strength or quench the ﬁre, so they retreated. On seeing how the masses of gods had been turned away, Shatakratu was extremely pleased and praised Krishna and Pandava. When the gods were repulsed, a disembodied voice spoke to Shatakratu in a loud and deep tone. “Your friend Takshaka, supreme among serpents, is not here. At the time of Khandava’s burning, he had gone to Kurukshetra. O Shakra! Listen to my words. You cannot defeat Vasudeva and Arjuna when they are steadfast in battle. They are the gods Nara and Narayana, famous in heaven. You yourself know their bravery and their valour. These two supreme and ancient sages are invincible in battle and cannot be conquered in any of the worlds. They deserve the worship of all the gods, asuras, yakshas, rakshas, gandharvas, humans, kinnaras{50} and serpents. O, Vasava{51}! Therefore, depart from here with the gods. The destruction of Khandava is destined.” Having heard these words and knowing them to be true, the lord of the immortals gave up his anger and jealousy and returned to heaven. O king! On seeing the great-souled Shatakratu leave, all the other dwellers of heaven also departed. When the two warriors, Vasudeva and Arjuna, saw the king of the gods leave with the other gods, they roared like lions.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "All the assembled gods and danavas could not vanquish Krishna and Pandava in battle. Nor could the gods save the forest with their strength or quench the ﬁre, so they retreated. On seeing how the masses of gods had been turned away, Shatakratu was extremely pleased and praised Krishna and Pandava. When the gods were repulsed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "a disembodied voice spoke to Shatakratu in a loud and deep tone",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@a_disembodied_voice",
+              "text": "“Your friend Takshaka, supreme among serpents, is not here. At the time of Khandava’s burning, he had gone to Kurukshetra. O Shakra! Listen to my words. You cannot defeat Vasudeva and Arjuna when they are steadfast in battle. They are the gods Nara and Narayana, famous in heaven. You yourself know their bravery and their valour. These two supreme and ancient sages are invincible in battle and cannot be conquered in any of the worlds. They deserve the worship of all the gods, asuras, yakshas, rakshas, gandharvas, humans, kinnaras{50} and serpents. O, Vasava{51}! Therefore, depart from here with the gods. The destruction of Khandava is destined.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard these words and knowing them to be true, the lord of the immortals gave up his anger and jealousy and returned to heaven. O king! On seeing the great-souled Shatakratu leave, all the other dwellers of heaven also departed. When the two warriors, Vasudeva and Arjuna, saw the king of the gods leave with the other gods, they roared like lions.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘O king! Krishna and Pandava were delighted that the king of the gods had left. Fearlessly, they continued with burning the forest. Having vanquished the gods the way the wind scatters the clouds, Arjuna used showers of arrows to kill the beings who lived in Khandava. Not a single being could escape from there, they were cut down by Savyasachi’s arrows. Even the greatest of beings could not look upon the invincible Arjuna in battle, not to speak of engaging him in a ﬁght. Like the god of death himself, he pierced one with a hundred arrows and a hundred with one, and dead, they descended into the ﬂames. They found no refuge along the banks, or in the uneven plains, or in the abodes of the ancestors and the gods. The heat increased and thousands of herds of beings cried out loudly in pain. Elephants, deer and birds cried out and the sound scared those who lived in the Ganga and the ocean. No one dared gaze at the mighty-armed Arjuna and the immensely strong Krishna, let alone ﬁghting with them. With his chakra, Hari slew rakshasas, danavas and nagas and those who ventured along solitary paths. The heads and trunks sliced with the force of the chakra, the giant bodies fell into the mouth of the blazing ﬁre. Aided by the ﬂesh, torrents of blood and fat, the ﬂames rose up into the sky, without a trace of smoke. Agni’s eyes blazed, his tongue blazed and his wide-open mouth also blazed. The hair stood up, drinking up the fat of life, the eyes were tawny. The ﬁre fed on the nectar that Krishna and Arjuna had provided and was extremely happy, satiated and contented.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Krishna and Pandava were delighted that the king of the gods had left. Fearlessly, they continued with burning the forest. Having vanquished the gods the way the wind scatters the clouds, Arjuna used showers of arrows to kill the beings who lived in Khandava. Not a single being could escape from there, they were cut down by Savyasachi’s arrows. Even the greatest of beings could not look upon the invincible Arjuna in battle, not to speak of engaging him in a ﬁght. Like the god of death himself, he pierced one with a hundred arrows and a hundred with one, and dead, they descended into the ﬂames. They found no refuge along the banks, or in the uneven plains, or in the abodes of the ancestors and the gods. The heat increased and thousands of herds of beings cried out loudly in pain. Elephants, deer and birds cried out and the sound scared those who lived in the Ganga and the ocean. No one dared gaze at the mighty-armed Arjuna and the immensely strong Krishna, let alone ﬁghting with them. With his chakra, Hari slew rakshasas, danavas and nagas and those who ventured along solitary paths. The heads and trunks sliced with the force of the chakra, the giant bodies fell into the mouth of the blazing ﬁre. Aided by the ﬂesh, torrents of blood and fat, the ﬂames rose up into the sky, without a trace of smoke. Agni’s eyes blazed, his tongue blazed and his wide-open mouth also blazed. The hair stood up, drinking up the fat of life, the eyes were tawny. The ﬁre fed on the nectar that Krishna and Arjuna had provided and was extremely happy, satiated and contented.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Then Madhusudana saw an asura named Maya suddenly attempting to escape from Takshaka’s abode. The ﬁre’s charioteer was the wind and assuming the form of a hermit with matted hair and roaring like clouds, he pursued him with the intention of consuming him. Vasudeva stood with his chakra raised, ready to kill. O descendant of the Bharata lineage! On seeing the raised chakra and the ﬁre ready to consume him, Maya cried out, “O Arjuna! Save me.” Hearing these scared words, Arjuna replied, “Do not be frightened.” O descendant of the Bharata lineage! Partha’s words seemed to instil new life into Maya. Maya was Namuchi’s{52} brother. When Partha told Maya he need not fear, Dasharha no longer desired to kill him and the ﬁre did not burn him either. In that ﬂaming forest, Agni did not burn six beings—Ashvasena, Maya and the four Sharngakas{53}.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then Madhusudana saw an asura named Maya suddenly attempting to escape from Takshaka’s abode. The ﬁre’s charioteer was the wind and assuming the form of a hermit with matted hair and roaring like clouds, he pursued him with the intention of consuming him. Vasudeva stood with his chakra raised, ready to kill. O descendant of the Bharata lineage! On seeing the raised chakra and the ﬁre ready to consume him, Maya cried out,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Arjuna! Save me.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these scared words,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“Do not be frightened.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! Partha’s words seemed to instil new life into Maya. Maya was Namuchi’s{52} brother. When Partha told Maya he need not fear, Dasharha no longer desired to kill him and the ﬁre did not burn him either. In that ﬂaming forest, Agni did not burn six beings—Ashvasena, Maya and the four Sharngakas{53}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "220": {
+      "global_number": 220,
+      "local_number": 220,
+      "num_shlokas": 32,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘O brahmana! Why did Agni, the ﬁre, not burn the Sharngakas when that forest was blazing? Tell me at once. O, brahmana! You have recounted the reason why Ashvasena and the danava Maya were not burnt. But you have not told us the reason for the Sharngakas. O, brahmana! It is extraordinary that the Sharngakas escaped from destruction. Recount to us why they were not destroyed in the conﬂagaration.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O brahmana! Why did Agni, the ﬁre, not burn the Sharngakas when that forest was blazing? Tell me at once. O, brahmana! You have recounted the reason why Ashvasena and the danava Maya were not burnt. But you have not told us the reason for the Sharngakas. O, brahmana! It is extraordinary that the Sharngakas escaped from destruction. Recount to us why they were not destroyed in the conﬂagaration.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O descendant of the Bharata lineage! I will tell you everything exactly about why Agni did not consume the Sharngakas. O king! There was a great rishi renowned by the name of Mandapala. He was learned in dharma, rigid in his vows and chief among ascetics. He followed the path of the rishis who held up their seed{54}, was devoted to studying the sacred texts and dharma, was an ascetic and had achieved control over his senses. O descendant of the Bharata lineage! Having attained the ﬁnal goal of ascetism, he gave up his human body and went to the world of the ancestors. But he did not ﬁnd the fruits of his acts there. The dwellers of heaven were seated around Dharmaraja{55} and he asked them, “Why have I not attained the worlds that should have been the fruit of my asceticism? What have I not done that this should be the fruit of my actions? O dwellers of heaven! I will do that which will get me the fruits of my asceticism and open that which is now closed. Tell me.” The gods replied, “O brahmana! Hear about the debts men are undoubtedly born with—to rituals, brahmacharya{56} and offspring, and these are respectively discharged through sacriﬁces, austerities and progeny. You are an ascetic and you have performed sacriﬁces. But you did not have any offspring. Because you did not have offspring, these worlds are closed to you. Therefore, have progeny and you will enjoy these worlds for an eternity. O sage! A son saves a father from the hell known as put{57}. O supreme among brahmanas! Therefore, try to obtain offspring.” On hearing these words of the dwellers of heaven, Mandapala began to wonder how he might obtain a large number of offspring swiftly. After thinking about this, he concluded that birds give birth to many offspring.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O descendant of the Bharata lineage! I will tell you everything exactly about why Agni did not consume the Sharngakas. O king! There was a great rishi renowned by the name of Mandapala. He was learned in dharma, rigid in his vows and chief among ascetics. He followed the path of the rishis who held up their seed{54}, was devoted to studying the sacred texts and dharma, was an ascetic and had achieved control over his senses. O descendant of the Bharata lineage! Having attained the ﬁnal goal of ascetism, he gave up his human body and went to the world of the ancestors. But he did not ﬁnd",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the fruits of his acts there. The dwellers of heaven were seated around Dharmaraja{55} and he asked them",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_fruits_of_his_acts",
+              "text": "“Why have I not attained the worlds that should have been the fruit of my asceticism? What have I not done that this should be the fruit of my actions? O dwellers of heaven! I will do that which will get me the fruits of my asceticism and open that which is now closed. Tell me.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The gods replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_gods",
+              "text": "“O brahmana! Hear about the debts men are undoubtedly born with—to rituals, brahmacharya{56} and offspring, and these are respectively discharged through sacriﬁces, austerities and progeny. You are an ascetic and you have performed sacriﬁces. But you did not have any offspring. Because you did not have offspring, these worlds are closed to you. Therefore, have progeny and you will enjoy these worlds for an eternity. O sage! A son saves a father from the hell known as put{57}. O supreme among brahmanas! Therefore, try to obtain offspring.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing these words of the dwellers of heaven, Mandapala began to wonder how he might obtain a large number of offspring swiftly. After thinking about this, he concluded that birds give birth to many offspring.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘So he became a Sharngaka bird and united with a female Sharngaka bird named Jarita. Through her, he had four sons who were knowledgable about the brahman. While these young sons were still inside their eggs, the sage deserted them there in that forest with their mother and went off after Lapita{58}. O descendant of the Bharata lineage! When the immensely illustrious one went off after Lapita, out of affection for her children, Jarita became very thoughtful and anxious. O king! Those sons, the infant rishis still in their eggs, had undeservedly been abandoned by their father in Khandava forest. But out of love for her sons, Jarita could not discard them and after they were born, brought them up in her own way{59}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "So he became a Sharngaka bird and united with a female Sharngaka bird named Jarita. Through her, he had four sons who were knowledgable about the brahman. While these young sons were still inside their eggs, the sage deserted them there in that forest with their mother and went off after Lapita{58}. O descendant of the Bharata lineage! When the immensely illustrious one went off after Lapita, out of affection for her children, Jarita became very thoughtful and anxious. O king! Those sons, the infant rishis still in their eggs, had undeservedly been abandoned by their father in Khandava forest. But out of love for her sons, Jarita could not discard them and after they were born, brought them up in her own way{59}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘After some time, the rishi Mandapala was wandering in the forest with Lapita and he saw Agni advance towards Khandava to consume it. Knowing his resolution and knowing his sons were still young, the brahmana sage prayed to the greatly energetic ﬁre, lord of the world, scared about the protection of his sons. Mandapala said, “O Agni! You are the mouth of all the gods, you are the one who carries sacriﬁcial offerings. You are the puriﬁer who dwells invisibly in all living beings. The learned have said that you are one and have again said that you are three{60}. They think of you in eight forms{61} and imagine you as the one who carries sacriﬁcial offerings. The supreme rishis say that you have created the entire universe. O ﬁre! The universe is based on you and without you, it will be destroyed instantly. It is after paying homage to you that the brahmanas go to the eternal worlds they have earned through their actions, together with their wives and sons. O Agni! It is said that you are the ﬁre in the clouds in the sky, in their lightning. The ﬂames that emerge from you burn down all beings. O immensely radiant one! O Jataveda{62}! You have created everything in this universe. Everything, mobile and immobile, every action and everything that exists is based on you. You have determined the ancient waters, everything in the universe is based on you. The offerings to the gods and the offerings to the ancestors, as prescribed, are based on you. O Agni! You are the one who burns down, you are Dhata{63}, you are Brihaspati{64}. You are the two Ashvins, the two Yamas{65}, Mitra, Soma and Anila{66}.” O king! Having been thus prayed to by Mandapala, Agni was satisﬁed with the immeasurably energetic sage. With happiness in his heart, he asked him, “What good can I do for you?” With hands joined in salutation, Mandapala told the ﬁre, “When you burn Khandava forest, please spare my sons.” The illustrious bearer of sacriﬁcial offerings gave him his word and at that time, he blazed into Khandava, wishing to consume it.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After some time, the rishi Mandapala was wandering in the forest with Lapita and he saw Agni advance towards Khandava to consume it. Knowing his resolution and knowing his sons were still young, the brahmana sage prayed to the greatly energetic ﬁre, lord of the world,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "scared about the protection of his sons. Mandapala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@about_the_protection",
+              "text": "“O Agni! You are the mouth of all the gods, you are the one who carries sacriﬁcial offerings. You are the puriﬁer who dwells invisibly in all living beings. The learned have said that you are one and have again said that you are three{60}. They think of you in eight forms{61} and imagine you as the one who carries sacriﬁcial offerings. The supreme rishis say that you have created the entire universe. O ﬁre! The universe is based on you and without you, it will be destroyed instantly. It is after paying homage to you that the brahmanas go to the eternal worlds they have earned through their actions, together with their wives and sons. O Agni! It is said that you are the ﬁre in the clouds in the sky, in their lightning. The ﬂames that emerge from you burn down all beings. O immensely radiant one! O Jataveda{62}! You have created everything in this universe. Everything, mobile and immobile, every action and everything that exists is based on you. You have determined the ancient waters, everything in the universe is based on you. The offerings to the gods and the offerings to the ancestors, as prescribed, are based on you. O Agni! You are the one who burns down, you are Dhata{63}, you are Brihaspati{64}. You are the two Ashvins, the two Yamas{65}, Mitra, Soma and Anila{66}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O king! Having been thus prayed to by Mandapala, Agni was satisﬁed with the immeasurably energetic sage.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "With happiness in his heart, he asked him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@with_happiness_in_his",
+              "text": "“What good can I do for you?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "With hands joined in salutation,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Mandapala told the ﬁre",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@mandapala",
+              "text": "“When you burn Khandava forest, please spare my sons.”",
+              "color": "#5F4ED9",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The illustrious bearer of sacriﬁcial offerings gave him his word and at that time, he blazed into Khandava, wishing to consume it.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "221": {
+      "global_number": 221,
+      "local_number": 221,
+      "num_shlokas": 21,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When the ﬁre blazed up, the Sharngakas were extremely distressed, miserable and extremely anxious, because they could not ﬁnd any means of escaping. O lord of men! Listening to her young sons, their ascetic mother Jarita was stricken with grief and began to lament.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When the ﬁre blazed up, the Sharngakas were extremely distressed, miserable and extremely anxious, because they could not ﬁnd any means of escaping. O lord of men! Listening to her young sons, their ascetic mother Jarita was stricken with grief and began to lament.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Jarita said, “This terrible ﬁre is burning the inside of the forest and advancing towards us. It has blazed up the entire universe and is increasing my misery. My children still have imperfect understanding; they are without feathers and feet. Yet they are the ultimate refuge of our ancestors and are tugging at me. The blazing ﬁre is advancing, licking the tall trees with its tongue and creating terror. My sons still do not have strength and are unable to escape. Nor can I escape somewhere else, taking my sons with me. I cannot abandon them and my heart is distressed. Which one of my sons will I leave and which will I take with me? What should I do? O my sons! What do you think? Even after thinking a lot, I can ﬁnd no means of escape for you. I will now cover you with my body and die with you. In earlier times, your cruel father abandoned you, uttering these words, ‘My lineage will be established on Jaritari, because he is the eldest. Sarisrikva will have offspring, extending the lineage of my ancestors. Stambamitra will practise austerities and Drona will be supreme in knowledge of the brahman.’ Who will I take with me and leave and who will suffer the greatest of calamities?” She was bereft of judgement because she did not know what was the right course of action. Through her own thoughts she did not see any means whereby her sons might escape from the ﬁre.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“This terrible ﬁre is burning the inside of the forest and advancing towards us. It has blazed up the entire universe and is increasing my misery. My children still have imperfect understanding; they are without feathers and feet. Yet they are the ultimate refuge of our ancestors and are tugging at me. The blazing ﬁre is advancing, licking the tall trees with its tongue and creating terror. My sons still do not have strength and are unable to escape. Nor can I escape somewhere else, taking my sons with me. I cannot abandon them and my heart is distressed. Which one of my sons will I leave and which will I take with me? What should I do? O my sons! What do you think? Even after thinking a lot, I can ﬁnd no means of escape for you. I will now cover you with my body and die with you. In earlier times, your cruel father abandoned you, uttering these words, ‘My lineage will be established on Jaritari, because he is the eldest. Sarisrikva will have offspring, extending the lineage of my ancestors. Stambamitra will practise austerities and Drona will be supreme in knowledge of the brahman.’ Who will I take with me and leave and who will suffer the greatest of calamities?”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "She was bereft of judgement because she did not know what was the right course of action. Through her own thoughts she did not see any means whereby her sons might escape from the ﬁre.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘When she had spoken in this way, the four Sharngakas spoke to their mother. “O mother! Give up your love for us and go to a place where there is no ﬁre. If we are destroyed, you will have other sons. O mother! But if you are destroyed, there will be no progeny in our lineage. O mother! After taking into consideration these two outcomes, the time has come for you to do that which is best for our lineage. Out of love for your sons, do not do anything that will destroy our lineage. The act of our father, who wishes to attain the worlds, must not amount to nothing.” Jarita replied, “Near this tree, there is a rat hole in the ground. Swiftly enter the hole and you will suffer no fear from the ﬁre there. O sons! When you have entered it, I will cover the hole with dirt. That is the only means that I can think of to counter the blazing ﬁre. When the ﬁre has died out, I will return and remove the mass of dirt. If you wish to escape from the ﬁre, listen to these words of mine.” The Sharngakas said, “We are only masses of ﬂesh, without feathers, and the carnivorous rat will destroy us. On beholding this fear, we cannot enter. We do not know how we can escape being burnt by the ﬁre or being eaten by the rat. How can our father attain fulﬁlment and how can our mother survive? The dwellers of the sky will either be destroyed in the hole by the rat or by the ﬁre. Considering both the possibilities, it is better to be burnt than to be eaten. To die from being eaten by a rat in a hole is a most miserable death. But destruction of the body by ﬁre has been sanctioned by the learned.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When she had spoken in this way,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the four Sharngakas spoke to their mother",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_four_sharngakas",
+              "text": "“O mother! Give up your love for us and go to a place where there is no ﬁre. If we are destroyed, you will have other sons. O mother! But if you are destroyed, there will be no progeny in our lineage. O mother! After taking into consideration these two outcomes, the time has come for you to do that which is best for our lineage. Out of love for your sons, do not do anything that will destroy our lineage. The act of our father, who wishes to attain the worlds, must not amount to nothing.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“Near this tree, there is a rat hole in the ground. Swiftly enter the hole and you will suffer no fear from the ﬁre there. O sons! When you have entered it, I will cover the hole with dirt. That is the only means that I can think of to counter the blazing ﬁre. When the ﬁre has died out, I will return and remove the mass of dirt. If you wish to escape from the ﬁre, listen to these words of mine.”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The Sharngakas said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sharngakas",
+              "text": "“We are only masses of ﬂesh, without feathers, and the carnivorous rat will destroy us. On beholding this fear, we cannot enter. We do not know how we can escape being burnt by the ﬁre or being eaten by the rat. How can our father attain fulﬁlment and how can our mother survive? The dwellers of the sky will either be destroyed in the hole by the rat or by the ﬁre. Considering both the possibilities, it is better to be burnt than to be eaten. To die from being eaten by a rat in a hole is a most miserable death. But destruction of the body by ﬁre has been sanctioned by the learned.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "222": {
+      "global_number": 222,
+      "local_number": 222,
+      "num_shlokas": 18,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Jarita said, “The rat emerged from this hole. The little creature was seized by a hawk in its claws and carried away. Therefore, you have nothing to be scared of.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“The rat emerged from this hole. The little creature was seized by a hawk in its claws and carried away. Therefore, you have nothing to be scared of.”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The Sharngakas replied, “We do not know for certain that the rat was carried away by a hawk. There may be others there and we have every reason to fear them. It is not certain that the ﬁre will reach this place. The wind can be seen to be turning. O mother! But there is no doubt that the creatures in the hole will kill us. O mother! An uncertain death is superior to one that is certain. Take to the sky as you should. You will have other handsome sons.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The Sharngakas replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sharngakas",
+              "text": "“We do not know for certain that the rat was carried away by a hawk. There may be others there and we have every reason to fear them. It is not certain that the ﬁre will reach this place. The wind can be seen to be turning. O mother! But there is no doubt that the creatures in the hole will kill us. O mother! An uncertain death is superior to one that is certain. Take to the sky as you should. You will have other handsome sons.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Jarita said, “I myself saw the powerful hawk approach the hole, roam around, and then ﬂy away from the hole with the rat. I swiftly ﬂew after the hawk, pronouncing blessings on it for having taken the rat away from the hole. ‘O king of hawks! Since you are ﬂying away with our hated enemy, may you reside in heaven, golden, and without any enemies.’ When the hungry bird had ﬁnished eating, with its permission, I returned home. O sons! Enter the hole conﬁdently, there is nothing you should fear. It is certain that I have seen the hawk carry away the rat.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“I myself saw the powerful hawk approach the hole, roam around, and then ﬂy away from the hole with the rat. I swiftly ﬂew after the hawk, pronouncing blessings on it for having taken the rat away from the hole. ‘O king of hawks! Since you are ﬂying away with our hated enemy, may you reside in heaven, golden, and without any enemies.’ When the hungry bird had ﬁnished eating, with its permission, I returned home. O sons! Enter the hole conﬁdently, there is nothing you should fear. It is certain that I have seen the hawk carry away the rat.”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘The Sharngakas replied, “O mother! We do not know whether the rat has really been carried away by the hawk. Without knowing, we cannot enter the hole.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The Sharngakas replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sharngakas",
+              "text": "“O mother! We do not know whether the rat has really been carried away by the hawk. Without knowing, we cannot enter the hole.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Jarita said, “I know that the rat has been carried away by the hawk. Therefore, there is no fear and do as I say.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“I know that the rat has been carried away by the hawk. Therefore, there is no fear and do as I say.”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘The Sharngakas replied, “It is not that you are trying to free us from our great fear through a falsehood. When a person’s knowledge is muddled, his acts do not result from intelligence. You have received no favours from us. You do not even know who we are. Who are we to you that you are trying to save us through so much suffering to yourself? You are young and beautiful and are capable of ﬁnding a husband. Follow your husband and you will obtain handsome sons. We will enter the ﬁre and attain the beautiful worlds. If the ﬁre does not consume us, you will come back to us again.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The Sharngakas replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sharngakas",
+              "text": "“It is not that you are trying to free us from our great fear through a falsehood. When a person’s knowledge is muddled, his acts do not result from intelligence. You have received no favours from us. You do not even know who we are. Who are we to you that you are trying to save us through so much suffering to yourself? You are young and beautiful and are capable of ﬁnding a husband. Follow your husband and you will obtain handsome sons. We will enter the ﬁre and attain the beautiful worlds. If the ﬁre does not consume us, you will come back to us again.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "Vaishampayana said, ‘Having been thus addressed, the Sharnga left her sons in Khandava and swiftly went to the regions where there was no ﬁre and no fear. The blazing ﬁre with its piercing ﬂames arrived at the place where the Sharngakas, Mandapala’s sons, were. The Sharngakas saw the ﬂames blazing in their energy. Jaritari addressed these words, so that the ﬁre could hear.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having been thus addressed, the Sharnga left her sons in Khandava and swiftly went to the regions where there was no ﬁre and no fear. The blazing ﬁre with its piercing ﬂames arrived at the place where the Sharngakas, Mandapala’s sons, were. The Sharngakas saw the ﬂames blazing in their energy. Jaritari addressed these words, so that the ﬁre could hear.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "223": {
+      "global_number": 223,
+      "local_number": 223,
+      "num_shlokas": 25,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Jaritari said, “The intelligent man stays awake before difﬁcult times. When the difﬁcult time arrives, there is no suffering at all. But he who is not intelligent and is not sensible knows nothing and suffers because of difﬁculties when a difﬁcult time arrives.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jaritari said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jaritari",
+              "text": "“The intelligent man stays awake before difﬁcult times. When the difﬁcult time arrives, there is no suffering at all. But he who is not intelligent and is not sensible knows nothing and suffers because of difﬁculties when a difﬁcult time arrives.”",
+              "color": "#D9A74E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Sarisrikva said, “You are implacable and intelligent. The time has come when our lives are endangered. There is no doubt that only one among many is wise and brave.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sarisrikva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@sarisrikva",
+              "text": "“You are implacable and intelligent. The time has come when our lives are endangered. There is no doubt that only one among many is wise and brave.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Stambamitra said, “The eldest is the protector, because the eldest saves in times of difﬁculty. If the eldest one does not know, what can the younger ones do?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Stambamitra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@stambamitra",
+              "text": "“The eldest is the protector, because the eldest saves in times of difﬁculty. If the eldest one does not know, what can the younger ones do?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Drona said, “The one with the golden seed{67} is swiftly advancing towards our abode in ﬂames. The seven tongues of the ﬁre are lean and are eagerly licking.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drona said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@drona",
+              "text": "“The one with the golden seed{67} is swiftly advancing towards our abode in ﬂames. The seven tongues of the ﬁre are lean and are eagerly licking.”",
+              "color": "#2D6A4F",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "Vaishampayana said, ‘At these words of his brother, Jaritari folded his hands on his forehead in salutation. O king! Listen to the way he praised the ﬁre.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘At these words of his brother, Jaritari folded his hands on his forehead in salutation. O king! Listen to the way he praised the ﬁre.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Jaritari said, “You are the soul of the wind, the puriﬁer{68}. You are the body of the creepers. O virile one{69}! You are the source of the water. The water is also your source. O most powerful one! Your ﬂames are like the rays of the sun and they go above and below, and on every side.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jaritari said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@jaritari",
+              "text": "“You are the soul of the wind, the puriﬁer{68}. You are the body of the creepers. O virile one{69}! You are the source of the water. The water is also your source. O most powerful one! Your ﬂames are like the rays of the sun and they go above and below, and on every side.”",
+              "color": "#D9A74E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Sarisrikva said, “O you with the clouds in your banner! Our mother has ignored us and we do not know our father. Our wings have still not grown. O Agni! We have no protector but for you. You are the only hero and, therefore, protect us. O Agni! We are seeking refuge with you. In your benevolent form and in your seven ﬂames, therefore, protect us. O Jataveda! You alone are the one that heats. O god! You alone are the one who heats the heavens. O bearer of sacriﬁcial offerings! Protect us young rishis today and bypass this place.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sarisrikva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@sarisrikva",
+              "text": "“O you with the clouds in your banner! Our mother has ignored us and we do not know our father. Our wings have still not grown. O Agni! We have no protector but for you. You are the only hero and, therefore, protect us. O Agni! We are seeking refuge with you. In your benevolent form and in your seven ﬂames, therefore, protect us. O Jataveda! You alone are the one that heats. O god! You alone are the one who heats the heavens. O bearer of sacriﬁcial offerings! Protect us young rishis today and bypass this place.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘Stambamitra said, “O Agni! You alone are everything. The entire universe is established in you. You sustain all beings and you hold up everything that exists. O Agni! You are the bearer of all sacriﬁcial offerings. You alone are the supreme sacriﬁcial offering. The learned ones offer sacriﬁces to you, knowing you to be one and many. O bearer of sacriﬁcial offerings! You are the creator of the three worlds. When the time arrives{70}, you kindle them and cook afresh. You are the mother of the entire universe. O Agni! You are the one in whom everything is established again. O lord of the universe! You remain inside and digest the food that beings eat{71}. Everything is established in you and you are always cooking and always expanding.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Stambamitra said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@stambamitra",
+              "text": "“O Agni! You alone are everything. The entire universe is established in you. You sustain all beings and you hold up everything that exists. O Agni! You are the bearer of all sacriﬁcial offerings. You alone are the supreme sacriﬁcial offering. The learned ones offer sacriﬁces to you, knowing you to be one and many. O bearer of sacriﬁcial offerings! You are the creator of the three worlds. When the time arrives{70}, you kindle them and cook afresh. You are the mother of the entire universe. O Agni! You are the one in whom everything is established again. O lord of the universe! You remain inside and digest the food that beings eat{71}. Everything is established in you and you are always cooking and always expanding.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘Drona said, “O Jataveda! You are the sun with its rays. You suck up the water from the earth and the juices that are born in the ground. O Shukra! You take them all and return them again in the form of rain when it is time and cause everything to grow. O Shukra! It is from you that the verdant creepers grow again. The ponds, the seas and the giant oceans are born. O you whose rays are piercing! We are always dependent on Varuna{72}. Be benevolent and be our protector. Do not destroy us today. O ﬁre! Your eyes have the colour of copper. Your neck is red and your trail is black. Save us, like the houses on the shores of the ocean{73}.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drona said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@drona",
+              "text": "“O Jataveda! You are the sun with its rays. You suck up the water from the earth and the juices that are born in the ground. O Shukra! You take them all and return them again in the form of rain when it is time and cause everything to grow. O Shukra! It is from you that the verdant creepers grow again. The ponds, the seas and the giant oceans are born. O you whose rays are piercing! We are always dependent on Varuna{72}. Be benevolent and be our protector. Do not destroy us today. O ﬁre! Your eyes have the colour of copper. Your neck is red and your trail is black. Save us, like the houses on the shores of the ocean{73}.”",
+              "color": "#2D6A4F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "10": {
+          "raw": "Vaishampayana said, ‘When he had been thus addressed by Drona of the unsullied deeds, Jataveda spoke to Drona, remembering the promise he had made to Mandapala. Agni said, “O Drona! You are a rishi. What you have uttered is the Brahman{74}. I will do what you desire and you have nothing to fear. Mandapala had mentioned all this to me earlier and had asked me to spare his sons when I consumed the forest. The word that I gave him and the words that you have just spoken are both of great importance. Therefore, tell me what I should do. O fortunate one! O brahmana! O illustrious one! I am extremely pleased with your praise.” Drona replied, “O Shukra! These cats cause us trouble all the time. O bearer of sacriﬁcial offerings! Place them and all their relatives between your teeth.” O Janamejaya! After granting leave to the Sharngakas, Agni acted accordingly. Blazing up, he consumed the Khandava forest.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When he had been thus addressed by Drona of the unsullied deeds, Jataveda spoke to Drona,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "remembering the promise he had made to Mandapala. Agni said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_promise_he",
+              "text": "“O Drona! You are a rishi. What you have uttered is the Brahman{74}. I will do what you desire and you have nothing to fear. Mandapala had mentioned all this to me earlier and had asked me to spare his sons when I consumed the forest. The word that I gave him and the words that you have just spoken are both of great importance. Therefore, tell me what I should do. O fortunate one! O brahmana! O illustrious one! I am extremely pleased with your praise.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drona replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@drona",
+              "text": "“O Shukra! These cats cause us trouble all the time. O bearer of sacriﬁcial offerings! Place them and all their relatives between your teeth.”",
+              "color": "#2D6A4F",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O Janamejaya! After granting leave to the Sharngakas, Agni acted accordingly. Blazing up, he consumed the Khandava forest.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "224": {
+      "global_number": 224,
+      "local_number": 224,
+      "num_shlokas": 32,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘O descendant of the Kuru lineage! Mandapala had meanwhile begun to worry about his sons. Although he had spoken about them to the one with the piercing rays, his mind was still anxious. In his anxiety for his sons, he told Lapita, “O Lapita! My sons are still incapable of escaping. When the ﬁre grows in strength and the wind blows swiftly, my sons will be incapable of freeing themselves. Their ascetic mother will be incapable of saving them. She will suffer misery when she sees that she cannot save her sons. My sons are incapable of running or ﬂying. She will run around, lamenting her misery. How is my son Jaritari? How is Sarisrikva? How are Stambamitra and Drona and how is that ascetic?” Thus, rishi Mandapala lamented in that forest.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O descendant of the Kuru lineage! Mandapala had meanwhile begun to worry about his sons. Although he had spoken about them to the one with the piercing rays, his mind was still anxious.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "In his anxiety for his sons, he told Lapita",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@in_his_anxiety_for",
+              "text": "“O Lapita! My sons are still incapable of escaping. When the ﬁre grows in strength and the wind blows swiftly, my sons will be incapable of freeing themselves. Their ascetic mother will be incapable of saving them. She will suffer misery when she sees that she cannot save her sons. My sons are incapable of running or ﬂying. She will run around, lamenting her misery. How is my son Jaritari? How is Sarisrikva? How are Stambamitra and Drona and how is that ascetic?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus, rishi Mandapala lamented in that forest.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘O descendant of the Bharata lineage! In her jealousy, Lapita replied in these words, “You need not suffer anxiety on account of your sons. You have yourself told me that they are powerful and energetic rishis. They have nothing to fear from the ﬂames. In my presence, you spoke to Agni on their behalf. The great-souled and blazing one gave you his promise. Being the protector of the world, he will never utter a falsehood. They are eloquent in speech and your anxiety is not because of them. You are anxious because you are thinking of my enemy{75}. It is certain that you do not love me as much as you loved her earlier. It can never be right that one with two parties should display no love towards his relative, even when the one close to him suffers. Go to Jarita, for whom you are suffering. I will wander around alone here, like one who is allied with a wretch{76}.” Mandapala replied, “I am not wandering around in this world because of the reasons you believe. I am roaming around for the sake of offspring and those I have are now facing suffering. He who casts off that which he has, for the sake of that which might be there, is stupid and the world disregards him. Do what you desire. These blazing ﬂames of Agni are licking the giant trees and are giving birth to a hateful and malevolent sorrow in my heart.” After the ﬂames had passed by that spot, Jarita, who was attached to her sons, swiftly returned to the place where her sons were. Weeping and miserable in the forest, she saw that all her sons were well, having escaped from the ﬁre. On seeing them, she wept again and again. She embraced her sons one by one and they too wept.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! In her jealousy,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Lapita replied in these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@lapita",
+              "text": "“You need not suffer anxiety on account of your sons. You have yourself told me that they are powerful and energetic rishis. They have nothing to fear from the ﬂames. In my presence, you spoke to Agni on their behalf. The great-souled and blazing one gave you his promise. Being the protector of the world, he will never utter a falsehood. They are eloquent in speech and your anxiety is not because of them. You are anxious because you are thinking of my enemy{75}. It is certain that you do not love me as much as you loved her earlier. It can never be right that one with two parties should display no love towards his relative, even when the one close to him suffers. Go to Jarita, for whom you are suffering. I will wander around alone here, like one who is allied with a wretch{76}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Mandapala replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@mandapala",
+              "text": "“I am not wandering around in this world because of the reasons you believe. I am roaming around for the sake of offspring and those I have are now facing suffering. He who casts off that which he has, for the sake of that which might be there, is stupid and the world disregards him. Do what you desire. These blazing ﬂames of Agni are licking the giant trees and are giving birth to a hateful and malevolent sorrow in my heart.”",
+              "color": "#5F4ED9",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After the ﬂames had passed by that spot, Jarita, who was attached to her sons, swiftly returned to the place where her sons were. Weeping and miserable in the forest, she saw that all her sons were well, having escaped from the ﬁre. On seeing them, she wept again and again. She embraced her sons one by one and they too wept.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘O descendant of the Bharata lineage! At that time, Mandapala suddenly arrived there. But none of his sons displayed any signs of greeting. He spoke to each one of them again and again and also to Jarita. But none of them uttered a single word to the rishi, good or bad. Mandapala asked, “Which one of you is my eldest son and who is the one born after that? Who is the one in the middle and who is the youngest? I am speaking to you in misery. Why aren’t you replying to me? I left you to the ﬁre, but I did not ﬁnd any peace.” Jarita replied, “What do you have to do with the eldest one or with the one who came after him? What do you have to do with the one in the middle or with the youngest who is an ascetic? You had left me miserable in every way and gone away. Go back to the young Lapita, the one with the beautiful smile.” Mandapala said, “Other than a different man, there is nothing in this world that is more fatal to women than a co-wife. Even the fortunate Arundhati, renowned in all the worlds and devoted to her vows, was distrustful of the supreme rishi Vasishtha. He was pure of heart and always devoted to her welfare. But she was ill disposed towards that saptarshi{77} and because of that insult, she is now a tiny star that is like ﬁre covered with smoke. She is sometimes visible and sometimes invisible and is seen as an evil omen. You yourself had a connection with me to obtain offspring. Now it has come to this that you give up what you once desired and have become like her. A man should never commit the act of trusting a woman, even if she happens to be a wife. Once a woman has obtained sons, she no longer pays attention to her duties.” At this, all his sons came and paid homage to him. O king! And he too provided reassurances to his sons.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O descendant of the Bharata lineage! At that time, Mandapala suddenly arrived there. But none of his sons displayed any signs of greeting. He spoke to each one of them again and again and also to Jarita. But none of them uttered a single word to the rishi,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "good or bad. Mandapala asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@good_or_bad",
+              "text": "“Which one of you is my eldest son and who is the one born after that? Who is the one in the middle and who is the youngest? I am speaking to you in misery. Why aren’t you replying to me? I left you to the ﬁre, but I did not ﬁnd any peace.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Jarita replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@jarita",
+              "text": "“What do you have to do with the eldest one or with the one who came after him? What do you have to do with the one in the middle or with the youngest who is an ascetic? You had left me miserable in every way and gone away. Go back to the young Lapita, the one with the beautiful smile.”",
+              "color": "#67D94E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Mandapala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@mandapala",
+              "text": "“Other than a different man, there is nothing in this world that is more fatal to women than a co-wife. Even the fortunate Arundhati, renowned in all the worlds and devoted to her vows, was distrustful of the supreme rishi Vasishtha. He was pure of heart and always devoted to her welfare. But she was ill disposed towards that saptarshi{77} and because of that insult, she is now a tiny star that is like ﬁre covered with smoke. She is sometimes visible and sometimes invisible and is seen as an evil omen. You yourself had a connection with me to obtain offspring. Now it has come to this that you give up what you once desired and have become like her. A man should never commit the act of trusting a woman, even if she happens to be a wife. Once a woman has obtained sons, she no longer pays attention to her duties.”",
+              "color": "#5F4ED9",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At this, all his sons came and paid homage to him. O king! And he too provided reassurances to his sons.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "225": {
+      "global_number": 225,
+      "local_number": 225,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Mandapala said, “I kept the ﬁre informed about your protection and Agni had earlier given me his word. On account of Agni’s promise, the devotion to dharma that is there in your mother and the great energy that is there in you, I had not come here earlier. O sons! You had no reason to worry about your death. All of you are rishis, learned in the knowledge of the brahman. The ﬁre knows that well enough.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Mandapala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@mandapala",
+              "text": "“I kept the ﬁre informed about your protection and Agni had earlier given me his word. On account of Agni’s promise, the devotion to dharma that is there in your mother and the great energy that is there in you, I had not come here earlier. O sons! You had no reason to worry about your death. All of you are rishis, learned in the knowledge of the brahman. The ﬁre knows that well enough.”",
+              "color": "#5F4ED9",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O descendant of the Bharata lineage! Having thus reassured his sons, Mandapala took his wife with him and leaving that region, went to another region. The illustrious lord with the piercing rays consumed the kindling Khandava forest, with the assistance of the two Krishnas and brought terror to beings and the world. The ﬁre drank up rivers of fat and marrow. Agni was extremely satisﬁed and appeared before Arjuna.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O descendant of the Bharata lineage! Having thus reassured his sons, Mandapala took his wife with him and leaving that region, went to another region. The illustrious lord with the piercing rays consumed the kindling Khandava forest, with the assistance of the two Krishnas and brought terror to beings and the world. The ﬁre drank up rivers of fat and marrow. Agni was extremely satisﬁed and appeared before Arjuna.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then, surrounded by masses of Maruts, the illustrious lord of the gods descended from the sky and spoke these words to Partha and Madhava, “You have accomplished a feat that is difﬁcult, even for the immortals. I am pleased. Choose boons that are difﬁcult to obtain and beyond what humans can get.” Partha asked for the boon that he might get all of Shakra’s weapons. Then Shakra ﬁxed the time for the receiving. “O Pandava! When the illustrious Mahadeva will be pleased with you, that is when I will give you all the weapons. O descendant of the Kuru lineage! O Dhananjaya! I will myself know when that time has arrived. Because of your great asceticism, I will then bestow on you all my agneya{78} and all my vayavya weapons and all my other weapons and you will accept them.” Vasudeva asked for the boon that he might always be loving towards Partha. The lord of the gods happily granted this boon. Having done so, the god who was the lord of the Maruts, took his leave of the ﬁre and returned to heaven with the thirty gods.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then, surrounded by masses of Maruts,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the illustrious lord of the gods descended from the sky and spoke these words to Partha and Madhava",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_illustrious_lord_of_the",
+              "text": "“You have accomplished a feat that is difﬁcult, even for the immortals. I am pleased. Choose boons that are difﬁcult to obtain and beyond what humans can get.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Partha asked for the boon that he might get all of Shakra’s weapons. Then Shakra ﬁxed the time for the receiving.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Pandava! When the illustrious Mahadeva will be pleased with you, that is when I will give you all the weapons. O descendant of the Kuru lineage! O Dhananjaya! I will myself know when that time has arrived. Because of your great asceticism, I will then bestow on you all my agneya{78} and all my vayavya weapons and all my other weapons and you will accept them.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva asked for the boon that he might always be loving towards Partha. The lord of the gods happily granted this boon. Having done so, the god who was the lord of the Maruts, took his leave of the ﬁre and returned to heaven with the thirty gods.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Having consumed the forest with its animals and birds for ﬁve days and one, the ﬁre was extremely satiated and ceased. He had eaten ﬂesh and drunk fat and blood. O lord of the world! He was ﬁlled with extreme joy and spoke to them. “O warriors! O tigers among men! You have gratiﬁed me to the point of extreme bliss. You now have my leave to go where you want.” O bull among the Bharata lineage! Having been thus granted leave by the greatsouled ﬁre, the threesome of Arjuna, Vasudeva and the danava Maya wandered around for some time. They then seated themselves on the banks of the beautiful river.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having consumed the forest with its animals and birds for ﬁve days and one, the ﬁre was extremely satiated and ceased. He had eaten ﬂ",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "esh and drunk fat and blood. O lord of the world! He was ﬁlled with extreme joy and spoke to them",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@esh_and_drunk_fat",
+              "text": "“O warriors! O tigers among men! You have gratiﬁed me to the point of extreme bliss. You now have my leave to go where you want.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O bull among the Bharata lineage! Having been thus granted leave by the greatsouled ﬁre, the threesome of Arjuna, Vasudeva and the danava Maya wandered around for some time. They then seated themselves on the banks of the beautiful river.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "chapter": 1542,
+  "local": 214,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “Brahmanas who observe vows sometimes eat the food that is offered as an oblation. O grandfather! What happens if a brahmana possesses this desire?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Brahmanas who observe vows sometimes eat the food that is offered as an oblation. O grandfather! What happens if a brahmana possesses this desire?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O Yudhishthira! If one eats after following the Vedas, it is different. But if one commits the act of eating in violation of the three Vedas, then one's vows are destroyed.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhishthira! If one eats after following the Vedas, it is different. But if one commits the act of eating in violation of the three Vedas, then one's vows are destroyed.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “Ordinary people say that fasting is like austerities. O great king! Is this really austerity? What are austerities?” ‘Bhishma replied, “People think that fasting for months or fortnights are austerities. But the virtuous do not regard them as austerities. Instead, they are an impediment in getting to know about the atman. Renunciation and becoming the disciple of a virtuous person is the supreme austerity. Such a person is always fasting and such a person is always a brahmachari. Such a brahmana will always become a sage and will always worship the gods. O descendant of the Bharata lineage! Even if he lives in a family{154}, he will always desire and dream of dharma. He will never eat ﬂesh and will always meditate on the auspicious. He will always desire amrita and will never cause violence for food. He will always be devoted to guests and will always be like one who survives on leftovers.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Ordinary people say that fasting is like austerities. O great king! Is this really austerity? What are austerities?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 2,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@yudhishthira",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“People think that fasting for months or fortnights are austerities. But the virtuous do not regard them as austerities. Instead, they are an impediment in getting to know about the atman. Renunciation and becoming the disciple of a virtuous person is the supreme austerity. Such a person is always fasting and such a person is always a brahmachari. Such a brahmana will always become a sage and will always worship the gods. O descendant of the Bharata lineage! Even if he lives in a family{154}, he will always desire and dream of dharma. He will never eat ﬂesh and will always meditate on the auspicious. He will always desire amrita and will never cause violence for food. He will always be devoted to guests and will always be like one who survives on leftovers.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “How can one fast and be a brahmachari all the time? How can one always be devoted to guests and survive on leftovers?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“How can one fast and be a brahmachari all the time? How can one always be devoted to guests and survive on leftovers?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “If a person eats in the morning and eats again in the evening, without eating anything in between, he will be regarded as fasting all the time. If a brahmana goes to his wife only at the time of her season, he is a brahmachari, as long as that man always speaks the truth and is always devoted to wisdom. A person who does not pointlessly eat meat is said to be a vegetarian{155}. He will always be generous and pure by not dreaming or sleeping during the day. O Yudhishthira! Know that if a person only eats what has been left after the servants and guests have eaten is like a person who subsists on amrita. If a brahmana never eats until they{156} have eaten, through that act of not eating, he conquers heaven. If one survives on the leftovers after gods, ancestors, servants and guests have eaten, that is said to be like surviving on what is left at a sacriﬁce. They always obtain inﬁnite worlds. With Brahma, the apsaras and the residents of heaven present themselves in their homes. They share their food with the gods and the ancestors.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If a person eats in the morning and eats again in the evening, without eating anything in between, he will be regarded as fasting all the time. If a brahmana goes to his wife only at the time of her season, he is a brahmachari, as long as that man always speaks the truth and is always devoted to wisdom. A person who does not pointlessly eat meat is said to be a vegetarian{155}. He will always be generous and pure by not dreaming or sleeping during the day. O Yudhishthira! Know that if a person only eats what has been left after the servants and guests have eaten is like a person who subsists on amrita. If a brahmana never eats until they{156} have eaten, through that act of not eating, he conquers heaven. If one survives on the leftovers after gods, ancestors, servants and guests have eaten, that is said to be like surviving on what is left at a sacriﬁce. They always obtain inﬁnite worlds. With Brahma, the apsaras and the residents of heaven present themselves in their homes. They share their food with the gods and the ancestors.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "They ﬁnd delight with their sons and grandsons and obtain the supreme objective.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "They ﬁnd delight with their sons and grandsons and obtain the supreme objective.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

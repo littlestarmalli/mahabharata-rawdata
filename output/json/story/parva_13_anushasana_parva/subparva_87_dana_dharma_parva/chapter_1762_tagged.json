@@ -1,0 +1,339 @@
+{
+  "chapter_number": 1762,
+  "global_number": 1762,
+  "local_number": 81,
+  "num_shlokas": 26,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Yudhishthira said, “I have heard that cow dung has Shri{112} in it. I have a great doubt about this and wish to hear about it.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Yudhishthira said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@yudhishthira",
+          "text": "“I have heard that cow dung has Shri{112} in it. I have a great doubt about this and wish to hear about it.”",
+          "color": "#F4D35E",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Bhishma replied, “O supreme among the Bharata lineage! O king! In this connection, an ancient history is recounted about a conversation between cows and Shri. Shri assumed a beautiful form and entered amidst cattle. The cows were astounded on seeing her wealth of beauty.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“O supreme among the Bharata lineage! O king! In this connection, an ancient history is recounted about a conversation between cows and Shri. Shri assumed a beautiful form and entered amidst cattle. The cows were astounded on seeing her wealth of beauty.",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“The cattle asked, ‘O goddess! Who are you? Where have you come from? How do you possess a beauty that is unmatched on earth? O immensely fortunate one! We are astounded at the wealth of your beauty. We wish to know who you are and where you will go. O one with the extremely beautiful complexion! Tell us the entire truth.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The cattle asked, ‘O goddess! Who are you? Where have you come from? How do you possess a beauty that is unmatched on earth? O immensely fortunate one! We are astounded at the wealth of your beauty. We wish to know who you are and where you will go. O one with the extremely beautiful complexion! Tell us the entire truth.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘“Shri replied, ‘O fortunate ones! I am loved by the worlds. I am famous by the name of Shri. When I abandoned the daityas, they were destroyed for eternity. Having obtained me, Indra, Vivasvat, Soma, Vishnu, the water{113} and Agni have obtained prosperity and so have the rishis and the other gods. O cattle! Those who hate me are destroyed in every way. They suffer misery and are devoid of dharma, artha and kama. O cattle! These are my powers. Know that I am the one who grants happiness. I wish to always dwell in each of you. O unblemished ones! I have come here to pray that you should be united with Shri.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Shri replied, ‘O fortunate ones! I am loved by the worlds. I am famous by the name of Shri. When I abandoned the daityas, they were destroyed for eternity. Having obtained me, Indra, Vivasvat, Soma, Vishnu, the water{113} and Agni have obtained prosperity and so have the rishis and the other gods. O cattle! Those who hate me are destroyed in every way. They suffer misery and are devoid of dharma, artha and kama. O cattle! These are my powers. Know that I am the one who grants happiness. I wish to always dwell in each of you. O unblemished ones! I have come here to pray that you should be united with Shri.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘“The cows replied, ‘You are temporary and ﬁckle. You dwell with many ordinary people. O fortunate one! We do not desire you. Go wherever it pleases you. We think ourselves to be beautiful in every way. Why do we need you now? Go wherever you want. You have already made us successful.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The cows replied, ‘You are temporary and ﬁckle. You dwell with many ordinary people. O fortunate one! We do not desire you. Go wherever it pleases you. We think ourselves to be beautiful in every way. Why do we need you now? Go wherever you want. You have already made us successful.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘“Shri said, ‘O cattle! Pardon me, but shouldn’t you welcome me? Why don’t you accept me? I am extremely difﬁcult to obtain. O ones who follow excellent vows in the world! It is certain that a saying in the worlds is true. “If one presents oneself voluntarily, one is refused.” Men, gods, danavas, gandharvas, serpents and rakshasas get me after performing great and ﬁerce austerities. O cattle! Pardon me and accept me. O amiable ones! I am not ignored by anything mobile and immobile in the three worlds.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Shri said, ‘O cattle! Pardon me, but shouldn’t you welcome me? Why don’t you accept me? I am extremely difﬁcult to obtain. O ones who follow excellent vows in the world! It is certain that a saying in the worlds is true.",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“If one presents oneself voluntarily, one is refused.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 6
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "Men, gods, danavas, gandharvas, serpents and rakshasas get me after performing great and ﬁerce austerities. O cattle! Pardon me and accept me. O amiable ones! I am not ignored by anything mobile and immobile in the three worlds.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘“The cattle replied, ‘O goddess! We are not disrespecting you. Nor are we slighting you. You are temporary and ﬁckle. That is the reason we are forsaking you. What is the need to speak a lot? Go wherever you wish. O unblemished one! All of us possess beautiful forms. Why do we need you?’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“The cattle replied, ‘O goddess! We are not disrespecting you. Nor are we slighting you. You are temporary and ﬁckle. That is the reason we are forsaking you. What is the need to speak a lot? Go wherever you wish. O unblemished one! All of us possess beautiful forms. Why do we need you?’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 6
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘“Shri said, ‘O ones who grant honours! Refused by you, I will be ignored in all the worlds. Show me your favours. O immensely fortunate ones! You offer protection to those who seek refuge. I am without blemish. Save the one who is always worshipped. O auspicious ones! I desire your respect and will always reside with you. I wish to dwell in any of your limbs, irrespective of how ugly it is. O unblemished ones! Indeed, I do not perceive that any of your limbs is ugly. You are sacred, auspicious and extremely fortunate. Grant me a place. You should indicate one of your limbs where I may dwell.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Shri said, ‘O ones who grant honours! Refused by you, I will be ignored in all the worlds. Show me your favours. O immensely fortunate ones! You offer protection to those who seek refuge. I am without blemish. Save the one who is always worshipped. O auspicious ones! I desire your respect and will always reside with you. I wish to dwell in any of your limbs, irrespective of how ugly it is. O unblemished ones! Indeed, I do not perceive that any of your limbs is ugly. You are sacred, auspicious and extremely fortunate. Grant me a place. You should indicate one of your limbs where I may dwell.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 7
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘Bhishma continued, “Thus addressed, the auspicious cattle were overcome with compassion. O lord of men! All of them consulted each other and spoke to Shri. ‘O illustrious one! It is indeed our task that we should show you respect. O auspicious one! Therefore, reside in our urine and dung. Both of these are sacred.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma continued",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "“Thus addressed, the auspicious cattle were overcome with compassion. O lord of men! All of them consulted each other and spoke to Shri. ‘O illustrious one! It is indeed our task that we should show you respect. O auspicious one! Therefore, reside in our urine and dung. Both of these are sacred.’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 7
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘“Shri replied, ‘It is through good fortune that you have shown me your favours and your grace. O fortunate ones! It shall be that way. O ones who grant happiness! I have been honoured by you.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Shri replied, ‘It is through good fortune that you have shown me your favours and your grace. O fortunate ones! It shall be that way. O ones who grant happiness! I have been honoured by you.’”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 8
+        }
+      ]
+    },
+    "11": {
+      "raw": "‘Bhishma continued, “O descendant of the Bharata lineage! This was the agreement between Shri and the cattle. While they looked on, she disappeared. O son! I have thus described to you the greatness of cow dung. I will again tell you about the greatness of cattle. Listen to me.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "‘",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "attribution",
+          "speaker": "@bhishma",
+          "text": "Bhishma continued",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“O descendant of the Bharata lineage! This was the agreement between Shri and the cattle. While they looked on, she disappeared. O son! I have thus described to you the greatness of cow dung. I will again tell you about the greatness of cattle. Listen to me.”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 8
+        },
+        {
+          "type": "narration",
+          "speaker": "@bhishma",
+          "text": "’",
+          "color": "#457B9D",
+          "opacity": 0.4,
+          "depth": 7
+        }
+      ]
+    }
+  }
+}

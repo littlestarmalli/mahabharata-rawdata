@@ -1,0 +1,67 @@
+{
+  "chapter": 981,
+  "local": 4,
+  "shlokas": 15,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Sanjaya said, “When he spoke in this way, the aged grandfather of the Kurus heard him. His mind was delighted and he spoke words that were appropriate to the time and the place. ‘May you be established amidst your wellwishers, like the ocean among rivers, the sun among all stellar bodies, truth among the virtuous, fertile ground among seeds and clouds among all beings. May your relatives depend on you, like the immortals on the one with a thousand eyes{19}. Through the strength of your own arms and your valour, you did what brought pleasure to Dhritarashtra's son. O Karna! You went to Rajapura and killed the Kambojas{20}. You went to Girivraja{21} and vanquished the kings, with Nagnajit at the forefront, and the Ambashthas, the Videhas and the Gandharas. O Karna! In earlier times, you brought those who dwelt in the Himalayas and Kiratas, who were harsh in battle, under Duryodhana's suzerainty. In every such place, you fought for Duryodhana's welfare. O brave one! O Karna! You conquered many greatly energetic ones. O son{22}! Just as Duryodhana, with his relatives, his kin and his friends, is the refuge of the Kouravas, so are you. I am granting you an auspicious permission. Go and ﬁght with the enemy. Lead the Kurus in battle and bring victory to Duryodhana. You are like my grandson, just as Duryodhana is. According to dharma, all of us are yours, just as we are his{23}. O best of men! Learned ones say that in this world, association with the virtuous is more important than a relationship resulting from birth. Do not make your relationship with the Kurus false. Protect Duryodhana's army, as if it were your own.’ On hearing these words, Vaikartana Karna honoured his feet and quickly went to the spot where the warriors were. He saw that large and extensive mass of men. The broad-chested and well-armed soldiers were arranged in battle formation. On seeing the great archer, Karna, arrive for battle, the Kurus honoured him. They slapped their arms and roared like lions. They twanged their bows and made other kinds of sounds.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When he spoke in this way, the aged grandfather of the Kurus heard him. His mind was delighted and he spoke words that were appropriate to the time and the place. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘May you be established amidst your wellwishers, like the ocean among rivers, the sun among all stellar bodies, truth among the virtuous, fertile ground among seeds and clouds among all beings. May your relatives depend on you, like the immortals on the one with a thousand eyes{19}. Through the strength of your own arms and your valour, you did what brought pleasure to Dhritarashtra's son. O Karna! You went to Rajapura and killed the Kambojas{20}. You went to Girivraja{21} and vanquished the kings, with Nagnajit at the forefront, and the Ambashthas, the Videhas and the Gandharas. O Karna! In earlier times, you brought those who dwelt in the Himalayas and Kiratas, who were harsh in battle, under Duryodhana's suzerainty. In every such place, you fought for Duryodhana's welfare. O brave one! O Karna! You conquered many greatly energetic ones. O son{22}! Just as Duryodhana, with his relatives, his kin and his friends, is the refuge of the Kouravas, so are you. I am granting you an auspicious permission. Go and ﬁght with the enemy. Lead the Kurus in battle and bring victory to Duryodhana. You are like my grandson, just as Duryodhana is. According to dharma, all of us are yours, just as we are his{23}. O best of men! Learned ones say that in this world, association with the virtuous is more important than a relationship resulting from birth. Do not make your relationship with the Kurus false. Protect Duryodhana's army, as if it were your own.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words, Vaikartana Karna honoured his feet and quickly went to the spot where the warriors were. He saw that large and extensive mass of men. The broad-chested and well-armed soldiers were arranged in battle formation. On seeing the great archer, Karna, arrive for battle, the Kurus honoured him. They slapped their arms and roared like lions. They twanged their bows and made other kinds of sounds.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

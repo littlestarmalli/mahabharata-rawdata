@@ -1,0 +1,170 @@
+{
+  "name": "Udyoga Parva",
+  "subparva_number": 49,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 21,
+    "num_shlokas": 575
+  },
+  "note": "This section is also known as Udyoga Parva. It has 575 shlokas and twenty-one chapters. There are consultations in Drupada�s court about the next course of action. In preparation for war, the Kurus and the Pandavas send word to their allies. However, Drupada�s priest is sent to the Kurus as a messenger. Duryodhana and Arjuna go to Krishna to seek his help. Arjuna opts for the unarmed Krishna, who will not take part in the fight and Duryodhana happily accepts Krishna�s large army. Balarama says that he will remain neutral, while Kritavarma helps Duryodhana. Duryodhana persuades Shalya to switch to the Kourava side. However, Shalya promises Yudhishthi-ra that he will distract Karna when Karna and Arjuna fight. Shalya tells the Pandavas the story of Trishira, Vritra, Tndra and Nahusha. The Kouravas assemble eleven akshouhinis of soldiers, while the Pandavas assemble seven akshouhinis. Drupada�s priest delivers the message. Dhri-tarashtra promises to re?ect on this and send Sanjaya back as a messenger.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "664": {
+      "chapter_number": 664,
+      "global_number": 664,
+      "local_number": 1,
+      "num_shlokas": 25,
+      "file": "subparva_49_udyoga_parva/chapter_664_tagged.json"
+    },
+    "665": {
+      "chapter_number": 665,
+      "global_number": 665,
+      "local_number": 2,
+      "num_shlokas": 13,
+      "file": "subparva_49_udyoga_parva/chapter_665_tagged.json"
+    },
+    "666": {
+      "chapter_number": 666,
+      "global_number": 666,
+      "local_number": 3,
+      "num_shlokas": 23,
+      "file": "subparva_49_udyoga_parva/chapter_666_tagged.json"
+    },
+    "667": {
+      "chapter_number": 667,
+      "global_number": 667,
+      "local_number": 4,
+      "num_shlokas": 27,
+      "file": "subparva_49_udyoga_parva/chapter_667_tagged.json"
+    },
+    "668": {
+      "chapter_number": 668,
+      "global_number": 668,
+      "local_number": 5,
+      "num_shlokas": 18,
+      "file": "subparva_49_udyoga_parva/chapter_668_tagged.json"
+    },
+    "669": {
+      "chapter_number": 669,
+      "global_number": 669,
+      "local_number": 6,
+      "num_shlokas": 18,
+      "file": "subparva_49_udyoga_parva/chapter_669_tagged.json"
+    },
+    "670": {
+      "chapter_number": 670,
+      "global_number": 670,
+      "local_number": 7,
+      "num_shlokas": 36,
+      "file": "subparva_49_udyoga_parva/chapter_670_tagged.json"
+    },
+    "671": {
+      "chapter_number": 671,
+      "global_number": 671,
+      "local_number": 8,
+      "num_shlokas": 37,
+      "file": "subparva_49_udyoga_parva/chapter_671_tagged.json"
+    },
+    "672": {
+      "chapter_number": 672,
+      "global_number": 672,
+      "local_number": 9,
+      "num_shlokas": 52,
+      "file": "subparva_49_udyoga_parva/chapter_672_tagged.json"
+    },
+    "673": {
+      "chapter_number": 673,
+      "global_number": 673,
+      "local_number": 10,
+      "num_shlokas": 47,
+      "file": "subparva_49_udyoga_parva/chapter_673_tagged.json"
+    },
+    "674": {
+      "chapter_number": 674,
+      "global_number": 674,
+      "local_number": 11,
+      "num_shlokas": 22,
+      "file": "subparva_49_udyoga_parva/chapter_674_tagged.json"
+    },
+    "675": {
+      "chapter_number": 675,
+      "global_number": 675,
+      "local_number": 12,
+      "num_shlokas": 32,
+      "file": "subparva_49_udyoga_parva/chapter_675_tagged.json"
+    },
+    "676": {
+      "chapter_number": 676,
+      "global_number": 676,
+      "local_number": 13,
+      "num_shlokas": 25,
+      "file": "subparva_49_udyoga_parva/chapter_676_tagged.json"
+    },
+    "677": {
+      "chapter_number": 677,
+      "global_number": 677,
+      "local_number": 14,
+      "num_shlokas": 15,
+      "file": "subparva_49_udyoga_parva/chapter_677_tagged.json"
+    },
+    "678": {
+      "chapter_number": 678,
+      "global_number": 678,
+      "local_number": 15,
+      "num_shlokas": 32,
+      "file": "subparva_49_udyoga_parva/chapter_678_tagged.json"
+    },
+    "679": {
+      "chapter_number": 679,
+      "global_number": 679,
+      "local_number": 16,
+      "num_shlokas": 34,
+      "file": "subparva_49_udyoga_parva/chapter_679_tagged.json"
+    },
+    "680": {
+      "chapter_number": 680,
+      "global_number": 680,
+      "local_number": 17,
+      "num_shlokas": 20,
+      "file": "subparva_49_udyoga_parva/chapter_680_tagged.json"
+    },
+    "681": {
+      "chapter_number": 681,
+      "global_number": 681,
+      "local_number": 18,
+      "num_shlokas": 25,
+      "file": "subparva_49_udyoga_parva/chapter_681_tagged.json"
+    },
+    "682": {
+      "chapter_number": 682,
+      "global_number": 682,
+      "local_number": 19,
+      "num_shlokas": 32,
+      "file": "subparva_49_udyoga_parva/chapter_682_tagged.json"
+    },
+    "683": {
+      "chapter_number": 683,
+      "global_number": 683,
+      "local_number": 20,
+      "num_shlokas": 21,
+      "file": "subparva_49_udyoga_parva/chapter_683_tagged.json"
+    },
+    "684": {
+      "chapter_number": 684,
+      "global_number": 684,
+      "local_number": 21,
+      "num_shlokas": 21,
+      "file": "subparva_49_udyoga_parva/chapter_684_tagged.json"
+    }
+  }
+}

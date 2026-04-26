@@ -1,0 +1,188 @@
+{
+  "chapter_number": 433,
+  "global_number": 433,
+  "local_number": 136,
+  "num_shlokas": 18,
+  "paragraphs": {
+    "1": {
+      "raw": "‘“Yavakrita said, ‘O father! The Vedas will become manifest in both you and me. I have obtained other boons through which we will be superior to others.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "“Yavakrita said, ‘O father! The Vedas will become manifest in both you and me. I have obtained other boons through which we will be superior to others.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“Bharadvaja replied, ‘O son! Since you have obtained all the boons that you desired, you must be proud. But once you are ﬁlled with pride, you will soon be miserably destroyed. O son! On this, an account recited by the gods is cited. In ancient times, there was a valorous sage by the name of Valadhi. He was afﬂicted by grief over his son and engaged in difﬁcult austerities so that he might obtain a son who was immortal. He obtained this. But though the gods showed him their favours, they did not make him the equal of the immortals. “A mortal one can never be immortal and life must be subject to causes{642}.” Valadhi said, “O supreme among the gods! These mountains have been established for an eternal time and are indestructible. They will determine my son’s span of life{643}.” Later, a son was born to him. His name was Medhavi and he was prone to anger. Having heard about his origins, he became insolent and insulted the rishis. He roamed the earth, causing injury to the sages. Then he met the immensely energetic and intelligent Dhanushaksha. Medhavi insulted him and the valorous one cursed him. “Be reduced to ashes.” But at these words, he was not reduced to ashes. On seeing that Medhavi was not hurt, the valorous Dhanukaksha caused the determinant of his life to be shattered by buffaloes. When the determinant was destroyed, the child instantly died. The father grasped his dead son and began to lament. On seeing him loudly lament in great misery, all the ancient sages who were learned in the Vedas, recited a verse. Listen to it. “Under no circumstances, can one who is mortal change his destiny. Dhanushaksha shattered the mountains with buffaloes.” Having thus obtained boons, young ascetics are ﬁlled with pride and swiftly meet their destruction. Do not become like them. Raibhya is immensely valorous and his sons are like that. O son! Therefore, be careful that you do not cross him. O son! If he is angered, he can crush you with his wrath. Raibhya is a learned ascetic and a great rishi prone to anger.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "“Bharadvaja replied, ‘O son! Since you have obtained all the boons that you desired, you must be proud. But once you are ﬁlled with pride, you will soon be miserably destroyed. O son! On this, an account recited by the gods is cited. In ancient times, there was a valorous sage by the name of Valadhi. He was afﬂicted by grief over his son and engaged in difﬁcult austerities so that he might obtain a son who was immortal. He obtained this. But though the gods showed him their favours, they did not make him the equal of the immortals.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“A mortal one can never be immortal and life must be subject to causes{642}.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Valadhi said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@valadhi",
+          "text": "“O supreme among the gods! These mountains have been established for an eternal time and are indestructible. They will determine my son’s span of life{643}.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Later, a son was born to him. His name was Medhavi and he was prone to anger. Having heard about his origins, he became insolent and insulted the rishis. He roamed the earth, causing injury to the sages. Then he met the immensely energetic and intelligent Dhanushaksha. Medhavi insulted him and the valorous one cursed him.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Be reduced to ashes.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "But at these words, he was not reduced to ashes. On seeing that Medhavi was not hurt, the valorous Dhanukaksha caused the determinant of his life to be shattered by buffaloes. When the determinant was destroyed, the child instantly died. The father grasped his dead son and began to lament. On seeing him loudly lament in great misery, all the ancient sages who were learned in the Vedas, recited a verse. Listen to it.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Under no circumstances, can one who is mortal change his destiny. Dhanushaksha shattered the mountains with buffaloes.”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Having thus obtained boons, young ascetics are ﬁlled with pride and swiftly meet their destruction. Do not become like them. Raibhya is immensely valorous and his sons are like that. O son! Therefore, be careful that you do not cross him. O son! If he is angered, he can crush you with his wrath. Raibhya is a learned ascetic and a great rishi prone to anger.’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“Yavakrita replied, ‘O father! I will do as you say. Have no anxiety on my account. You are my father and I will honour Raibhya as I honour you.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@vaishampayana",
+          "text": "“Yavakrita replied, ‘O father! I will do as you say. Have no anxiety on my account. You are my father and I will honour Raibhya as I honour you.’”",
+          "color": "#7EB8F7",
+          "opacity": 1.0,
+          "depth": 4
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘Lomasha said, “Having thus replied to his father in sweet words, Yavakrita, who had nothing to fear, took great pleasure in causing injury to other rishis.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Lomasha said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@lomasha",
+          "text": "“Having thus replied to his father in sweet words, Yavakrita, who had nothing to fear, took great pleasure in causing injury to other rishis.”",
+          "color": "#4E59D9",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    }
+  }
+}

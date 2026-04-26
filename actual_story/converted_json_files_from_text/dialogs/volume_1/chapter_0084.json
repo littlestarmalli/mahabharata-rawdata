@@ -1,0 +1,237 @@
+{
+  "chapter": 84,
+  "local": 84,
+  "shlokas": 21,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yayati said, “I am Yayati, Nahusha's son and Puru's father. Disrespect for all beings has dislodged me from the world of the gods, the siddhas and the rishis. My merit diminished, I am falling. Since I am older than you in age, I was not the ﬁrst to greet you. He who is senior in learning, austerities or birth is older and is worshipped by the Brahmanas.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yayati said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I am Yayati, Nahusha's son and Puru's father. Disrespect for all beings has dislodged me from the world of the gods, the siddhas and the rishis. My merit diminished, I am falling. Since I am older than you in age, I was not the ﬁrst to greet you. He who is senior in learning, austerities or birth is older and is worshipped by the Brahmanas.”",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Ashtaka replied, “O king! You say that he who is older in age deserves the respect of others and that is the reason you did not greet ﬁrst. But it is also said that the worship of Brahmanas is for him who is senior in learning and austerities.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Ashtaka replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtaka",
+          "introduces_label": "Ashtaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! You say that he who is older in age deserves the respect of others and that is the reason you did not greet ﬁrst. But it is also said that the worship of Brahmanas is for him who is senior in learning and austerities.”",
+          "speaker": "@ashtaka",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yayati said, “It is said that evil deeds destroy the merit of good deeds and vanity leads to the evil worlds. The righteous never follow evil and act so as to increase their virtue. I myself had great riches{160}. But all that is gone now and I will not get it back, despite my best efforts. One who learns from this fate will be wise and righteous. In the world of the living, men have different dispositions, but depending on destiny, their power and efforts may amount to nothing. Knowing that destiny is supreme, the learned say that the wise are content with what they obtain. Happiness and misery are determined by destiny and are beyond one's control and powers. Knowing that destiny is supreme, one should not be miserable or happy. The wise are always equable, without misery in grief and exultation in happiness. Knowing that destiny is supreme, grief and exultation are pointless. O Ashtaka! I never tremble in fear. Nor is my mind ever affected by anxiety. For I know that it will certainly be the way the creator has determined for me. Insects{161}, those born from eggs, vegetables, reptiles, worms, ﬁsh, stones, wood and everything, when freed from action, are reunited with nature. I know that happiness and unhappiness are not eternal. O Ashtaka! Knowing this, why should I grieve? We never know what should be done to avoid misery. Therefore, I am not concerned and give up grief.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yayati said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It is said that evil deeds destroy the merit of good deeds and vanity leads to the evil worlds. The righteous never follow evil and act so as to increase their virtue. I myself had great riches{160}. But all that is gone now and I will not get it back, despite my best efforts. One who learns from this fate will be wise and righteous. In the world of the living, men have different dispositions, but depending on destiny, their power and efforts may amount to nothing. Knowing that destiny is supreme, the learned say that the wise are content with what they obtain. Happiness and misery are determined by destiny and are beyond one's control and powers. Knowing that destiny is supreme, one should not be miserable or happy. The wise are always equable, without misery in grief and exultation in happiness. Knowing that destiny is supreme, grief and exultation are pointless. O Ashtaka! I never tremble in fear. Nor is my mind ever affected by anxiety. For I know that it will certainly be the way the creator has determined for me. Insects{161}, those born from eggs, vegetables, reptiles, worms, ﬁsh, stones, wood and everything, when freed from action, are reunited with nature. I know that happiness and unhappiness are not eternal. O Ashtaka! Knowing this, why should I grieve? We never know what should be done to avoid misery. Therefore, I am not concerned and give up grief.”",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Ashtaka replied, “O lord of kings! Tell me in detail the accurate accounts of the worlds that you enjoyed and where you spent time. You speak of dharma like one who knows the subject.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Ashtaka replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ashtaka",
+          "introduces_label": "Ashtaka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of kings! Tell me in detail the accurate accounts of the worlds that you enjoyed and where you spent time. You speak of dharma like one who knows the subject.”",
+          "speaker": "@ashtaka",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yayati said, “I was a king, ruling over the entire earth as my kingdom. I acquired many great worlds and those beyond them. I lived there for 1000 years and then ascended to a superior world. That beautiful world was the capital of Puruhuta{162}. It had 1000 gates and extended for 1000 yojanas. I lived there for 1000 years and then ascended to a superior world. I attained that world, which was divine and without decay. It was the world of Prajapati, one that is difﬁcult to attain. I lived there for 1000 years and then ascended to a superior world. That was the abode of the god of the gods{163}. I lived in that world, as I wished. The thirty gods have paid me homage. I have rivalled the gods in power and glory. In Nandana, I could assume any form at will. For a million years I sported with apsaras, in mountains with ﬂowering trees and fragrant scents. I lived there in divine happiness for a large number of years, beyond counting. Then a messenger of the gods, terrible in visage, shouted to me thrice in a deep voice, ‘Ruined, ruined, ruined’. O king{164}! I remember that I fell from Nandana with my merits diminished. O lord of men! I heard the voices of the gods in the sky, lamenting and mourning. ‘Yayati of sacred fame and sacred deeds has had his merit diminished and is falling. What misfortune!’ When I was falling, I asked them, ‘Where are the righteous ones among whom I shall fall?’ They pointed me to this sacriﬁcial ground that belongs to you. On seeing it, I came here quickly. I smelt the fragrance of ghee wafting up from the sacriﬁcial ground. I saw the smoke rising up and was reassured.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yayati said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yayati",
+          "introduces_label": "Yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I was a king, ruling over the entire earth as my kingdom. I acquired many great worlds and those beyond them. I lived there for 1000 years and then ascended to a superior world. That beautiful world was the capital of Puruhuta{162}. It had 1000 gates and extended for 1000 yojanas. I lived there for 1000 years and then ascended to a superior world. I attained that world, which was divine and without decay. It was the world of Prajapati, one that is difﬁcult to attain. I lived there for 1000 years and then ascended to a superior world. That was the abode of the god of the gods{163}. I lived in that world, as I wished. The thirty gods have paid me homage. I have rivalled the gods in power and glory. In Nandana, I could assume any form at will. For a million years I sported with apsaras, in mountains with ﬂowering trees and fragrant scents. I lived there in divine happiness for a large number of years, beyond counting. Then a messenger of the gods, terrible in visage, shouted to me thrice in a deep voice, ",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Ruined, ruined, ruined’",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": ". O king{164}! I remember that I fell from Nandana with my merits diminished. O lord of men! I heard the voices of the gods in the sky, lamenting and mourning. ",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Yayati of sacred fame and sacred deeds has had his merit diminished and is falling. What misfortune!’",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " When I was falling, I asked them, ",
+          "speaker": "@yayati",
+          "introduces": "unknown",
+          "introduces_label": "I",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Where are the righteous ones among whom I shall fall?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " They pointed me to this sacriﬁcial ground that belongs to you. On seeing it, I came here quickly. I smelt the fragrance of ghee wafting up from the sacriﬁcial ground. I saw the smoke rising up and was reassured.”",
+          "speaker": "@yayati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

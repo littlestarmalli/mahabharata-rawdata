@@ -1,0 +1,79 @@
+{
+  "chapter": 1486,
+  "local": 158,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “I know what non-violence is. I have always seen it among the virtuous. O descendant of the Bharata lineage! However, I do not comprehend violent men and their deeds. Like men avoid thorns, pits and ﬁre, a man must avoid a man who performs violent deeds. O descendant of the Bharata lineage! A violent person is always the worst, in this world and in the next. O Kouravya! Therefore, tell me what dharma has determined about such a person.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I know what non-violence is. I have always seen it among the virtuous. O descendant of the Bharata lineage! However, I do not comprehend violent men and their deeds. Like men avoid thorns, pits and ﬁre, a man must avoid a man who performs violent deeds. O descendant of the Bharata lineage! A violent person is always the worst, in this world and in the next. O Kouravya! Therefore, tell me what dharma has determined about such a person.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “His intentions may be hidden. But his deeds are known. He slanders others, but is censured. He binds others, but is himself tied down. He boasts about his acts of generosity. But he is unfair, inferior, fraudulent and deceitful. He does not share his pleasures. He is insolent. He and his companions are boastful. Such a man suspects everyone. He is foolish and miserly. He always praises his own group and creates enmity in the ashramas, mixing them up. He always indulges in violence and has no particular good qualities or bad ones. He is extremely boastful and spirited. He is extremely greedy and is the perpetrator of violent deeds. If there is a person of good conduct who is devoted to dharma and possesses the qualities, he regards such a person as wicked. Judging on the basis of his own character, he does not trust anyone. Even if the taints of others are hidden, he divulges them. Even if his faults and conduct are similar, he does not talk about them. He thinks that a person who does him good has been cleverly deceived. Even if he gives away riches at the right time to someone who has helped him, he repents this. While others watch, he eats food, licks and enjoys such good food. If a person eats in this way, the learned know him as violent. If there is a person who ﬁrst gives food to brahmanas and then eats, together with his well-wishers, such a person obtains the inﬁnite in this world and heaven after death. O foremost among the Bharata lineage! The nature of a violent person has been recounted. A man who desires beneﬁt must always avoid such a person.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“His intentions may be hidden. But his deeds are known. He slanders others, but is censured. He binds others, but is himself tied down. He boasts about his acts of generosity. But he is unfair, inferior, fraudulent and deceitful. He does not share his pleasures. He is insolent. He and his companions are boastful. Such a man suspects everyone. He is foolish and miserly. He always praises his own group and creates enmity in the ashramas, mixing them up. He always indulges in violence and has no particular good qualities or bad ones. He is extremely boastful and spirited. He is extremely greedy and is the perpetrator of violent deeds. If there is a person of good conduct who is devoted to dharma and possesses the qualities, he regards such a person as wicked. Judging on the basis of his own character, he does not trust anyone. Even if the taints of others are hidden, he divulges them. Even if his faults and conduct are similar, he does not talk about them. He thinks that a person who does him good has been cleverly deceived. Even if he gives away riches at the right time to someone who has helped him, he repents this. While others watch, he eats food, licks and enjoys such good food. If a person eats in this way, the learned know him as violent. If there is a person who ﬁrst gives food to brahmanas and then eats, together with his well-wishers, such a person obtains the inﬁnite in this world and heaven after death. O foremost among the Bharata lineage! The nature of a violent person has been recounted. A man who desires beneﬁt must always avoid such a person.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "chapter_number": 821,
+  "global_number": 821,
+  "local_number": 158,
+  "num_shlokas": 41,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Sanjaya said, “The son of the gambler reached the spot where the soldiers of the Pandavas were encamped. He approached the Pandavyas and spoke to Yudhishthira, ‘You know about the words spoken by messengers and the words I speak are in accordance with the instructions of Duryodhana. Therefore, on hearing them, you should not be angry.’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@author",
+          "text": "‘",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@author",
+          "text": "Sanjaya said",
+          "color": "#C8B8A2",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“The son of the gambler reached the spot where the soldiers of the Pandavas were encamped. He approached the Pandavyas and spoke to Yudhishthira, ‘You know about the words spoken by messengers and the words I speak are in accordance with the instructions of Duryodhana. Therefore, on hearing them, you should not be angry.’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“Yudhishthira replied, ‘O Uluka! Do not be afraid. Speak, without any anxiety. What are the thoughts of Dhritarashtra’s avaricious and short-sighted son?’”",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Yudhishthira replied, ‘O Uluka! Do not be afraid. Speak, without any anxiety. What are the thoughts of Dhritarashtra’s avaricious and short-sighted son?’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 3
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Sanjaya said, “Then, in the midst of the radiant and great-souled Pandavas, all the Srinjayas, the famous Krishna, Drupada and his sons, Virata and all the other lords of the earth, he{3} spoke these words. ‘The great-souled king who is Dhritarashtra’s son has conveyed these words. O Yudhishthira! While the brave ones among the Kurus hear, listen to them. “You were defeated in a game of dice and Krishna was brought into the assembly hall. A man who prides himself on his manliness should be angered because of this. You were banished for twelve years in the forest, exiled from your hearth. You lived for another year as Virata’s servant. O Pandava! Be enraged at the robbing of the kingdom and your exile in the forest. Remember Droupadi’s molestation and be a man. O Pandava! Though impotent, Bhimasena took an oath. If he is capable, let him drink Duhshasana’s blood. The weapons have been consecrated. Kurukshetra is free of mud. The roads have been levelled. The soldiers have been paid. Tomorrow, together with Keshava, ﬁght. How can you boast without encountering Bhishma in battle? That is like a foolish person who is attempting to climb Mount Gandhamadana. Drona is foremost among warriors. He is the equal of Shachi’s consort{4} in battle. O Partha! Without vanquishing him in battle, how can you hope to win back your kingdom? He is the preceptor who wields the brahma bow. He is skilled in both the Vedas{5}. He is a champion who cannot be dislodged in battle. One cannot hope to separate him from his soliders. O Partha! It is a great delusion to think that Drona can be defeated. We have never heard that Mount Meru has been overturned by the wind. Or perhaps the wind will move Meru and the sky may fall down on the earth. If what you have said is to come true, the yugas will have to be reversed now. Having encountered the terrible and deadly weapons of either of them{6}, which elephant, horse or man will be able to return home safely? How can any being that touches the ground with its feet remain alive in the ﬁeld of battle? You are like a frog that lives in its well. You do not know that an army of kings has assembled. It is invincible and is like an army of the gods. It is protected by Indras among men, like heaven is by the thirty gods. There are those from the east and the west, the south and the north. There are Kambojas, Shakas, Khasas, Shalvas, Matsyas, Kurus from the middle regions, Mlecchas, Pulindas, Dravidas, Andhras and Kanchyas. There is this extensive mass of warriors. Like the Ganga, it is incapable of being crossed. I am stationed in the midst of my army of elephants. Why are you so stupid and feeble-minded that you wish to ﬁght with us?”’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@sanjaya",
+          "text": "Sanjaya said",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "“Then, in the midst of the radiant and great-souled Pandavas, all the Srinjayas, the famous Krishna, Drupada and his sons, Virata and all the other lords of the earth, he{3} spoke these words. ‘The great-souled king who is Dhritarashtra’s son has conveyed these words. O Yudhishthira! While the brave ones among the Kurus hear, listen to them.",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“You were defeated in a game of dice and Krishna was brought into the assembly hall. A man who prides himself on his manliness should be angered because of this. You were banished for twelve years in the forest, exiled from your hearth. You lived for another year as Virata’s servant. O Pandava! Be enraged at the robbing of the kingdom and your exile in the forest. Remember Droupadi’s molestation and be a man. O Pandava! Though impotent, Bhimasena took an oath. If he is capable, let him drink Duhshasana’s blood. The weapons have been consecrated. Kurukshetra is free of mud. The roads have been levelled. The soldiers have been paid. Tomorrow, together with Keshava, ﬁght. How can you boast without encountering Bhishma in battle? That is like a foolish person who is attempting to climb Mount Gandhamadana. Drona is foremost among warriors. He is the equal of Shachi’s consort{4} in battle. O Partha! Without vanquishing him in battle, how can you hope to win back your kingdom? He is the preceptor who wields the brahma bow. He is skilled in both the Vedas{5}. He is a champion who cannot be dislodged in battle. One cannot hope to separate him from his soliders. O Partha! It is a great delusion to think that Drona can be defeated. We have never heard that Mount Meru has been overturned by the wind. Or perhaps the wind will move Meru and the sky may fall down on the earth. If what you have said is to come true, the yugas will have to be reversed now. Having encountered the terrible and deadly weapons of either of them{6}, which elephant, horse or man will be able to return home safely? How can any being that touches the ground with its feet remain alive in the ﬁeld of battle? You are like a frog that lives in its well. You do not know that an army of kings has assembled. It is invincible and is like an army of the gods. It is protected by Indras among men, like heaven is by the thirty gods. There are those from the east and the west, the south and the north. There are Kambojas, Shakas, Khasas, Shalvas, Matsyas, Kurus from the middle regions, Mlecchas, Pulindas, Dravidas, Andhras and Kanchyas. There is this extensive mass of warriors. Like the Ganga, it is incapable of being crossed. I am stationed in the midst of my army of elephants. Why are you so stupid and feeble-minded that you wish to ﬁght with us?”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘“Having spoken these words to Dharma’s son, King Yudhishthira, Uluka turned towards Jishnu and said, ‘O Arjuna! Fight without boasting. What is the need to boast so much? Success is the outcome of action. Success does not come about through boasting. O Dhananjaya! In this world, if success came about because of boasting rather than action, everyone would be successful. Even the wretched can boast a lot. I know that Vasudeva is your aide. I know that Gandiva is as tall as a palm tree. I know that there is no warrior who is your equal. Knowing all this, I took away your kingdom. Great success is not obtained because of the circle of dharma. Through his thoughts, the creator brings all beings under his control. While you lamented, I enjoyed this kingdom for thirteen years. I will rule it again for a longer time, after killing you, with your relatives. Where was your Gandiva when you were defeated at the game of dice and made a slave? O Phalguna! Where was Bhimasena’s strength then? You were not saved by Bhimasena’s club or Partha and his Gandiva. Without the unblemished Krishna{7}, there would have been no deliverance. It was the beautiful one who freed you from your servitude. You were then engaged in work undertaken by subhumans, tasks that are performed by slaves. I then rightly said that you were like barren sesamum seeds. Did Partha not wear a braid in Virata’s city then? Kounteya Bhimasena exhausted himself as a cook in Virata’s kitchen then. That showed my manliness. That is the way kshatriyas punish kshatriyas who ﬂee from the ﬁeld of battle. They are consigned to the ranks of gamblers. They are restricted to kitchens. They are made to wear braids. O Phalguna! Out of fear for Vasudeva, or out of fear for you, I will not hand over the kingdom to you. Together with Keshava, ﬁght. Illusion, magical tricks and terrible deceptions will not frighten me. I have gathered up my weapons to do battle and they will only make me roar back in return. One thousand Vasudevas and one hundred Phalgunas may attack me. But I will use invincible arrows to drive them away in the ten directions. Go and ﬁght with Bhishma. Break your head against a mountain. Swim across this deep ocean of men, using your arms. Sharadvata{8} is a giant ﬁsh. Vivimshati is a school of ﬁsh. Brihadbala is a giant wave. Soumadatti is a timingila{9}. Duhshasana is the ﬂood. Shala and Shalya are the ﬁsh. Sushena and Chitrayudha are the serpentine crocodiles. Jayadratha is the mountain. Purumitra is the depth. Durmarshana is the water. Shakuni is the shore. These weapons are like ﬂows in this ocean of warriors. You will be immersed in it and your senses will be destroyed through exhaustion. Together with all your relatives, you will be slain. You will then grieve and lament all of this. Your mind will then turn away, like an unholy one from heaven. O Partha! You will refrain from any thoughts about ruling the earth. This kingdom will be extremely difﬁcult for you to rule. It will be like the achievement of heaven by someone who has no austerities.’”’",
+      "frame": -1,
+      "speaker": "@author",
+      "speaker_name": "Author",
+      "color": "#C8B8A2",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "‘",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "speech",
+          "speaker": "@sanjaya",
+          "text": "“Having spoken these words to Dharma’s son, King Yudhishthira, Uluka turned towards Jishnu and said, ‘O Arjuna! Fight without boasting. What is the need to boast so much? Success is the outcome of action. Success does not come about through boasting. O Dhananjaya! In this world, if success came about because of boasting rather than action, everyone would be successful. Even the wretched can boast a lot. I know that Vasudeva is your aide. I know that Gandiva is as tall as a palm tree. I know that there is no warrior who is your equal. Knowing all this, I took away your kingdom. Great success is not obtained because of the circle of dharma. Through his thoughts, the creator brings all beings under his control. While you lamented, I enjoyed this kingdom for thirteen years. I will rule it again for a longer time, after killing you, with your relatives. Where was your Gandiva when you were defeated at the game of dice and made a slave? O Phalguna! Where was Bhimasena’s strength then? You were not saved by Bhimasena’s club or Partha and his Gandiva. Without the unblemished Krishna{7}, there would have been no deliverance. It was the beautiful one who freed you from your servitude. You were then engaged in work undertaken by subhumans, tasks that are performed by slaves. I then rightly said that you were like barren sesamum seeds. Did Partha not wear a braid in Virata’s city then? Kounteya Bhimasena exhausted himself as a cook in Virata’s kitchen then. That showed my manliness. That is the way kshatriyas punish kshatriyas who ﬂee from the ﬁeld of battle. They are consigned to the ranks of gamblers. They are restricted to kitchens. They are made to wear braids. O Phalguna! Out of fear for Vasudeva, or out of fear for you, I will not hand over the kingdom to you. Together with Keshava, ﬁght. Illusion, magical tricks and terrible deceptions will not frighten me. I have gathered up my weapons to do battle and they will only make me roar back in return. One thousand Vasudevas and one hundred Phalgunas may attack me. But I will use invincible arrows to drive them away in the ten directions. Go and ﬁght with Bhishma. Break your head against a mountain. Swim across this deep ocean of men, using your arms. Sharadvata{8} is a giant ﬁsh. Vivimshati is a school of ﬁsh. Brihadbala is a giant wave. Soumadatti is a timingila{9}. Duhshasana is the ﬂood. Shala and Shalya are the ﬁsh. Sushena and Chitrayudha are the serpentine crocodiles. Jayadratha is the mountain. Purumitra is the depth. Durmarshana is the water. Shakuni is the shore. These weapons are like ﬂows in this ocean of warriors. You will be immersed in it and your senses will be destroyed through exhaustion. Together with all your relatives, you will be slain. You will then grieve and lament all of this. Your mind will then turn away, like an unholy one from heaven. O Partha! You will refrain from any thoughts about ruling the earth. This kingdom will be extremely difﬁcult for you to rule. It will be like the achievement of heaven by someone who has no austerities.’”",
+          "color": "#A8D5A2",
+          "opacity": 1.0,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@sanjaya",
+          "text": "’",
+          "color": "#A8D5A2",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    }
+  }
+}

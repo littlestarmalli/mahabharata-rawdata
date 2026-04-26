@@ -1,0 +1,924 @@
+{
+  "name": "Shishupala-vadha Parva",
+  "subparva_number": 26,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 191
+  },
+  "note": "Since vadha means killing this section is about the killing of Shishupala.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "262": {
+      "global_number": 262,
+      "local_number": 37,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On seeing that ocean of kings angrily agitated like the sea, Yudhisthira spoke to the old Bhishma, best among those who are intelligent and the grandfather of the Kurus. It was like the greatly energetic Puruhuta{1} speaking to Brihaspati. “This great ocean of kings is agitated with anger. O grandfather! Tell me what I should do now. O grandfather! Tell me now, in detail and completely, what I must do to prevent an obstruction to the sacriﬁce, so that the welfare of the subjects is ensured.” When Dharmaraja Yudhishthira, knowledgeable in dharma, uttered these words, Bhishma, the grandfather of the Kurus, thus spoke to him, “O tiger among the Kuru lineage! Do not be frightened. Can a dog kill a lion? I have already chosen a path that is auspicious and in conformity with good policy. All these rulers of the earth bark like a pack of dogs around a sleeping lion. O son! Like dogs angrily barking before a lion, they stand before the sleeping lion of the Vrishni lineage. As long as the lion Achyuta is asleep, this bull among Chedis and like a lion himself, makes those others seem like lions. O best of kings! O son! Shishupala has limited sense. Through he who is the soul of everything{2}, he desires to take all these kings to Yama’s abode. O descendant of the Bharata lineage! It is certain that Adhokshaja{3} will take away Shishupala’s energy. O Kounteya! O supreme among intelligent ones! You will be fortunate. The intelligence of the king of Chedi, and that of all these kings, has gone astray. Whomever that tiger among men{4} wishes to take, his intelligence goes as astray as that of the king of Chedi. O Yudhisthira! Madhava is the creator and the destroyer of the four kinds of beings that exist in the three worlds.” O descendant of the Bharata lineage! Having heard these words, the king of Chedi replied to Bhishma in a harsh tone.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On seeing that ocean of kings angrily agitated like the sea, Yudhisthira spoke to the old Bhishma, best among those who are intelligent and the grandfather of the Kurus. It was like the greatly energetic Puruhuta{1} speaking to Brihaspati.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“This great ocean of kings is agitated with anger. O grandfather! Tell me what I should do now. O grandfather! Tell me now, in detail and completely, what I must do to prevent an obstruction to the sacriﬁce, so that the welfare of the subjects is ensured.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When Dharmaraja Yudhishthira,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "knowledgeable in dharma, uttered these words, Bhishma, the grandfather of the Kurus, thus spoke to him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@knowledgeable_in_dharma",
+              "text": "“O tiger among the Kuru lineage! Do not be frightened. Can a dog kill a lion? I have already chosen a path that is auspicious and in conformity with good policy. All these rulers of the earth bark like a pack of dogs around a sleeping lion. O son! Like dogs angrily barking before a lion, they stand before the sleeping lion of the Vrishni lineage. As long as the lion Achyuta is asleep, this bull among Chedis and like a lion himself, makes those others seem like lions. O best of kings! O son! Shishupala has limited sense. Through he who is the soul of everything{2}, he desires to take all these kings to Yama’s abode. O descendant of the Bharata lineage! It is certain that Adhokshaja{3} will take away Shishupala’s energy. O Kounteya! O supreme among intelligent ones! You will be fortunate. The intelligence of the king of Chedi, and that of all these kings, has gone astray. Whomever that tiger among men{4} wishes to take, his intelligence goes as astray as that of the king of Chedi. O Yudhisthira! Madhava is the creator and the destroyer of the four kinds of beings that exist in the three worlds.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! Having heard these words, the king of Chedi replied to Bhishma in a harsh tone.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "263": {
+      "global_number": 263,
+      "local_number": 38,
+      "num_shlokas": 40,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Shishupala said, “You are old and you deﬁle your lineage. You try to frighten all these kings with your threats. Are you not ashamed? You are supreme among all the Kurus. But since you live in the third state{5}, it is but appropriate that you should offer advice that runs counter to dharma. O Bhishma! With you at the forefront, it is but natural that the Kouravas should be like a boat tied to a boat, or like a blind man following the blind. You have once again injured our minds by specially recounting this one’s deeds, such as the killing of Putana{6} and so on. O Bhishma! You are arrogant and stupid. If you wish to praise Keshava, why does your tongue not splinter into a hundred parts? O Bhishma! You are supposed to be old in wisdom. Yet you wish to praise a cowherd. His evil repute is recounted by even those who are like children among men{7}. O Bhishma! If he killed a vulture{8} when he was a child, what is extraordinary? Ashva and Vrishabha{9} weren’t skilled in the art of war. O Bhishma! What is extraordinary if he kicked down an inanimate wooden cart with his foot{10}? O Bhishma! It is my view that there was nothing remarkable in holding up Govardhana mountain for a week{11}. It was nothing but an anthill. O Bhishma! When we hear from you that he ate great quantities of food while sporting on a mountain top, we are astonished even more. You are knowledgeable in dharma. What can be more extraordinary than killing the greatly strong Kamsa, whose food he had partaken? O Bhishma! O wretch of the Kuru lineage! You do not know dharma. I will now tell you the words of the righteous ones, since you do not seem to have heard them.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Shishupala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "“You are old and you deﬁle your lineage. You try to frighten all these kings with your threats. Are you not ashamed? You are supreme among all the Kurus. But since you live in the third state{5}, it is but appropriate that you should offer advice that runs counter to dharma. O Bhishma! With you at the forefront, it is but natural that the Kouravas should be like a boat tied to a boat, or like a blind man following the blind. You have once again injured our minds by specially recounting this one’s deeds, such as the killing of Putana{6} and so on. O Bhishma! You are arrogant and stupid. If you wish to praise Keshava, why does your tongue not splinter into a hundred parts? O Bhishma! You are supposed to be old in wisdom. Yet you wish to praise a cowherd. His evil repute is recounted by even those who are like children among men{7}. O Bhishma! If he killed a vulture{8} when he was a child, what is extraordinary? Ashva and Vrishabha{9} weren’t skilled in the art of war. O Bhishma! What is extraordinary if he kicked down an inanimate wooden cart with his foot{10}? O Bhishma! It is my view that there was nothing remarkable in holding up Govardhana mountain for a week{11}. It was nothing but an anthill. O Bhishma! When we hear from you that he ate great quantities of food while sporting on a mountain top, we are astonished even more. You are knowledgeable in dharma. What can be more extraordinary than killing the greatly strong Kamsa, whose food he had partaken? O Bhishma! O wretch of the Kuru lineage! You do not know dharma. I will now tell you the words of the righteous ones, since you do not seem to have heard them.",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“O Bhishma! Righteous, honest and virtuous ones have always instructed us, that in this world, one should not use weapons against women, cattle, brahmanas, those whose food has been partaken and those who seek refuge. It seems all this has been wasted on you. You speak to me about Keshava, praising him as old in wisdom, old and superior. O supreme among the Kuru lineage! Do I not know anything? O Bhishma! How does the killer of a cow{12}, and the killer of a woman{13}, deserve praise? ‘He is foremost among all intelligent ones.’ ‘He is the lord of this universe.’ Hearing these words of yours, Janardana believes them to be true. But it is certain that all this is false. Even if a raconteur sings praises many times, those praises aren’t praise for the raconteur. Like bhulingas{14} and vultures, every being acts according to its nature. There is no doubt that your nature is vile. The Pandavas think Krishna deserves worship. They must also be evil. You show them the path. You speak of dharma. But though you know about dharma, you have strayed from that path. O Bhishma! Which learned one, with dharma in his heart and supreme among all learned ones, will act as you have, ignoring the precepts of dharma?",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "‘",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "“O Bhishma! Righteous, honest and virtuous ones have always instructed us, that in this world, one should not use weapons against women, cattle, brahmanas, those whose food has been partaken and those who seek refuge. It seems all this has been wasted on you. You speak to me about Keshava, praising him as old in wisdom, old and superior. O supreme among the Kuru lineage! Do I not know anything? O Bhishma! How does the killer of a cow{12}, and the killer of a woman{13}, deserve praise? ‘He is foremost among all intelligent ones.’ ‘He is the lord of this universe.’ Hearing these words of yours, Janardana believes them to be true. But it is certain that all this is false. Even if a raconteur sings praises many times, those praises aren’t praise for the raconteur. Like bhulingas{14} and vultures, every being acts according to its nature. There is no doubt that your nature is vile. The Pandavas think Krishna deserves worship. They must also be evil. You show them the path. You speak of dharma. But though you know about dharma, you have strayed from that path. O Bhishma! Which learned one, with dharma in his heart and supreme among all learned ones, will act as you have, ignoring the precepts of dharma?",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“O Bhishma! If you think you know dharma and think yourself to be wise in intelligence, why did you abduct the maiden Amba? She desired someone else. Your brother Vichitravirya followed the path indicated by the righteous ones. That king did not accept the maiden you had abducted. He is the one on whose wives others had to beget children{15}. You believe yourself to be wise. But in your sight, others fathered offspring. That is not the path of the righteous. O Bhishma! Where is your dharma? Your brahmacharya is in vain. There is no doubt that you uphold it as a result of delusion or impotency. I do not see you as one who knows dharma. I do not see you prospering. You have not served the old{16}, or those who speak of dharma. Offerings, alms, studying and sacriﬁces characterized by a lot of dakshina—these are not worth a sixteenth of what is obtained through a son. O Bhishma! Whatever is obtained through many vows and fasts certainly goes in vain if one does not have a son. You do not have offspring. You are old. You utter false words in the name of dharma. Like the swan in the story, you will now be killed by your own relatives.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "‘",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "“O Bhishma! If you think you know dharma and think yourself to be wise in intelligence, why did you abduct the maiden Amba? She desired someone else. Your brother Vichitravirya followed the path indicated by the righteous ones. That king did not accept the maiden you had abducted. He is the one on whose wives others had to beget children{15}. You believe yourself to be wise. But in your sight, others fathered offspring. That is not the path of the righteous. O Bhishma! Where is your dharma? Your brahmacharya is in vain. There is no doubt that you uphold it as a result of delusion or impotency. I do not see you as one who knows dharma. I do not see you prospering. You have not served the old{16}, or those who speak of dharma. Offerings, alms, studying and sacriﬁces characterized by a lot of dakshina—these are not worth a sixteenth of what is obtained through a son. O Bhishma! Whatever is obtained through many vows and fasts certainly goes in vain if one does not have a son. You do not have offspring. You are old. You utter false words in the name of dharma. Like the swan in the story, you will now be killed by your own relatives.",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“O Bhishma! Learned men in ancient times told this story. So that you can hear, I will now recount it completely. In ancient times, an old swan lived near the ocean. He always spoke of dharma and instructed the birds. But his conduct was otherwise. ‘Practise dharma and avoid evil.’ These were the words the birds heard from that expounder of dharma. O Bhishma! For the sake of dharma, the other birds brought him food, creatures that lived in the sea{17}. O Bhishma! Those birds also left all their eggs with him and then roamed in the waters of the sea. But the evil one ate all those eggs. That swan was always attentive to his own interests, while the others were negligent. He ate all the eggs of others. When the number of eggs declined, an extremely intelligent one{18} was suspicious and kept a watch on him. Having witnessed the swan’s evil act, the bird was extremely unhappy and spoke about it to all the other birds. O descendant of the Kuru lineage! Those birds assembled. When they witnessed it themselves, they killed the untruthful swan. O Bhishma! Since your conduct is like that of the swan, these angry lords of the earth will kill you, like the birds killed the swan. O Bhishma! O descendant of the Bharata lineage! Men who know the ancient tales sing a song about this. I will repeat it for you exactly. ‘O one who rides on the chariot of wings! Your act of eating the eggs contradicts your words. You will be killed in anger, because your soul shows your falsehood.’”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "‘",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "speech",
+              "speaker": "@shishupala",
+              "text": "“O Bhishma! Learned men in ancient times told this story. So that you can hear, I will now recount it completely. In ancient times, an old swan lived near the ocean. He always spoke of dharma and instructed the birds. But his conduct was otherwise. ‘Practise dharma and avoid evil.’ These were the words the birds heard from that expounder of dharma. O Bhishma! For the sake of dharma, the other birds brought him food, creatures that lived in the sea{17}. O Bhishma! Those birds also left all their eggs with him and then roamed in the waters of the sea. But the evil one ate all those eggs. That swan was always attentive to his own interests, while the others were negligent. He ate all the eggs of others. When the number of eggs declined, an extremely intelligent one{18} was suspicious and kept a watch on him. Having witnessed the swan’s evil act, the bird was extremely unhappy and spoke about it to all the other birds. O descendant of the Kuru lineage! Those birds assembled. When they witnessed it themselves, they killed the untruthful swan. O Bhishma! Since your conduct is like that of the swan, these angry lords of the earth will kill you, like the birds killed the swan. O Bhishma! O descendant of the Bharata lineage! Men who know the ancient tales sing a song about this. I will repeat it for you exactly. ‘O one who rides on the chariot of wings! Your act of eating the eggs contradicts your words. You will be killed in anger, because your soul shows your falsehood.’”",
+              "color": "#D98F4E",
+              "opacity": 1.0,
+              "depth": 5
+            },
+            {
+              "type": "narration",
+              "speaker": "@shishupala",
+              "text": "’",
+              "color": "#D98F4E",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        }
+      }
+    },
+    "264": {
+      "global_number": 264,
+      "local_number": 39,
+      "num_shlokas": 20,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Shishupala said, “I held in great esteem the immensely strong King Jarasandha. He did not wish to ﬁght with this one{19}, saying that he was no more than a servant. Who will regard as praiseworthy the act of killing Jarasandha, undertaken by Keshava, together with Bhimasena and Arjuna? Entering through a way that was no gate and disguised as a brahmana, Krishna saw the inﬂuence of the wise Jarasandha. Since he knew the nature of the brahman and was himself devoted to dharma, he ﬁrst offered the evil one water to wash his feet, but it was refused. O descendant of the Kuru lineage! Jarasandha invited Krishna, Bhima and Dhananjaya to partake of food, but Krishna acted in a contrary way{20}. You fool! If this one is the lord of the universe, as you think him to be, why did he not consider himself to be a brahmana? What is amazing to me is that though you make the Pandavas veer away from the path of the truth, yet they regard you as a righteous one. O descendant of the Bharata lineage! Or perhaps it is not strange that you, old and like a woman, are regarded as their guide in all matters.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Shishupala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@shishupala",
+              "text": "“I held in great esteem the immensely strong King Jarasandha. He did not wish to ﬁght with this one{19}, saying that he was no more than a servant. Who will regard as praiseworthy the act of killing Jarasandha, undertaken by Keshava, together with Bhimasena and Arjuna? Entering through a way that was no gate and disguised as a brahmana, Krishna saw the inﬂuence of the wise Jarasandha. Since he knew the nature of the brahman and was himself devoted to dharma, he ﬁrst offered the evil one water to wash his feet, but it was refused. O descendant of the Kuru lineage! Jarasandha invited Krishna, Bhima and Dhananjaya to partake of food, but Krishna acted in a contrary way{20}. You fool! If this one is the lord of the universe, as you think him to be, why did he not consider himself to be a brahmana? What is amazing to me is that though you make the Pandavas veer away from the path of the truth, yet they regard you as a righteous one. O descendant of the Bharata lineage! Or perhaps it is not strange that you, old and like a woman, are regarded as their guide in all matters.”",
+              "color": "#D98F4E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘When he heard these long words, harsh and spoken harshly, the powerful Bhimasena, supreme among those who are strong, was angered. His eyes were naturally large, like lotuses. Because of anger, they became dilated and copper-red. All the kings saw him knit his brows in three furrows, like the three-coursed Ganga{21} on the three peaks of his forehead. They saw his face, teeth gnashed in anger, like destiny about to consume all beings at the end of a yuga. The strong-minded one was about to swiftly arise. But the strong-armed Bhishma restrained him, like Ishvara{22} checking Mahasena{23}. O descendant of the Bharata lineage! Bhima was soon paciﬁed by Bhishma. The teacher calmed his anger with various words. That destroyer of enemies could not transgress Bhishma’s words, like the ocean never crosses the shoreline, even though it is swollen after the rains. O lord of men! Though Bhimasena was angry with Shishupala, that brave one{24} did not tremble and remained steadfast in his manliness. Though that destroyer of enemies{25} kept jumping up, he{26} did not even think about him, like a lion ignoring small deer. On seeing Bhimasena, terrible in valour, thus angered, the powerful king of Chedi uttered words of jest, “O Bhishma! Let him go. Let all these lords of men watch him consumed by my power, like moths before a ﬂame.” On hearing these words of the king of Chedi, Bhishma, supreme among those of the Kuru lineage and supreme among those who are intelligent, spoke these words to Bhima.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When he heard these long words, harsh and spoken harshly, the powerful Bhimasena, supreme among those who are strong, was angered. His eyes were naturally large, like lotuses. Because of anger, they became dilated and copper-red. All the kings saw him knit his brows in three furrows, like the three-coursed Ganga{21} on the three peaks of his forehead. They saw his face, teeth gnashed in anger, like destiny about to consume all beings at the end of a yuga. The strong-minded one was about to swiftly arise. But the strong-armed Bhishma restrained him, like Ishvara{22} checking Mahasena{23}. O descendant of the Bharata lineage! Bhima was soon paciﬁed by Bhishma. The teacher calmed his anger with various words. That destroyer of enemies could not transgress Bhishma’s words, like the ocean never crosses the shoreline, even though it is swollen after the rains. O lord of men! Though Bhimasena was angry with Shishupala, that brave one{24} did not tremble and remained steadfast in his manliness. Though that destroyer of enemies{25} kept jumping up, he{26} did not even think about him, like a lion ignoring small deer. On seeing Bhimasena, terrible in valour, thus angered, the powerful king of Chedi uttered words of jest,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Bhishma! Let him go. Let all these lords of men watch him consumed by my power, like moths before a ﬂame.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing these words of the king of Chedi, Bhishma, supreme among those of the Kuru lineage and supreme among those who are intelligent, spoke these words to Bhima.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "265": {
+      "global_number": 265,
+      "local_number": 40,
+      "num_shlokas": 23,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Bhishma said, “This one{27} was born in the royal lineage of Chedi with three eyes and four arms. As soon as he was born, he screamed and brayed like an ass. His father and mother, and their relatives, were struck with fear on seeing his malformed body and resolved to abandon him. The hearts of the king, his wife, his advisers and his priests were befuddled with anxiety. However, a disembodied voice spoke. ‘O king! This son that has been born will be fortunate and supreme in strength. Therefore, do not be scared of him. Carefully tend to the child. O lord of men! His death will not be at your hands. The time has not yet come. The one who will bring about his death with weapons has also been born.’ On hearing these invisible words, the mother became anxious as a result of affection for her son and said, ‘With hands joined in salutation, I bow down before the one who has uttered these words about my son. Please let him speak some more. I wish to know who will bring about my son’s death.’ At that, the invisible voice spoke again. ‘There is one on whose lap this child will be placed, whereupon the extra arms will fall down on the ground like ﬁve-headed snakes and the third eye on the forehead will disappear. He will be the slayer.’ On hearing of the three eyes and four arms and the invisible words, all the kings on earth came to see him.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhishma said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@bhishma",
+              "text": "“This one{27} was born in the royal lineage of Chedi with three eyes and four arms. As soon as he was born, he screamed and brayed like an ass. His father and mother, and their relatives, were struck with fear on seeing his malformed body and resolved to abandon him. The hearts of the king, his wife, his advisers and his priests were befuddled with anxiety. However, a disembodied voice spoke. ‘O king! This son that has been born will be fortunate and supreme in strength. Therefore, do not be scared of him. Carefully tend to the child. O lord of men! His death will not be at your hands. The time has not yet come. The one who will bring about his death with weapons has also been born.’ On hearing these invisible words, the mother became anxious as a result of affection for her son and said, ‘With hands joined in salutation, I bow down before the one who has uttered these words about my son. Please let him speak some more. I wish to know who will bring about my son’s death.’ At that, the invisible voice spoke again. ‘There is one on whose lap this child will be placed, whereupon the extra arms will fall down on the ground like ﬁve-headed snakes and the third eye on the forehead will disappear. He will be the slayer.’ On hearing of the three eyes and four arms and the invisible words, all the kings on earth came to see him.",
+              "color": "#457B9D",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“The lord of the earth showed them homage as they arrived, in accordance with what they deserved and placed his son separately on each king’s lap, one after another. But though the child ascended thousands of laps, what had been said did not come to pass. Then the Yadavas Samkarshana{28} and Janardana went to the capital of the Chedi kingdom to see the Yadavi who was their father’s sister{29}. Rama and Keshava honoured every king in accordance with rank and superiority, inquired about everyone’s welfare and seated themselves. After the two warriors had been shown homage, the queen herself placed her son on Damodara’s{30} lap, with a pleasure that was more than usual. As soon as the child was placed on his lap, the extra arms fell off and the eye on the forehead sank{31}. On seeing this, she was miserable and frightened and prayed to Krishna for a boon. ‘O Krishna! O mighty-armed one! I am afﬂicted with fear. Please grant me a boon. You provide relief to everyone who is oppressed. You are the refuge of everyone who is frightened.’ ‘Do not be afraid,’ Janardana told his father’s sister. ‘O aunt! What boon will I give you? What shall I do? I will obey your words, be it possible or impossible.’ At these words, she told Krishna, the son{32} of the Yadu lineage, ‘O immensely strong one! Please pardon Shishupala’s transgressions.’ Krishna replied, ‘O aunt! I will pardon one hundred offences of your son, even if they are offences that deserve death. Therefore, do not grieve.’ O brave one! Such is this evil king Shishupala, evil in intelligence. Insolent because of Govinda’s boon, he can now challenge you{33}.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@bhishma",
+              "text": "‘",
+              "color": "#457B9D",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhishma",
+              "text": "“The lord of the earth showed them homage as they arrived, in accordance with what they deserved and placed his son separately on each king’s lap, one after another. But though the child ascended thousands of laps, what had been said did not come to pass. Then the Yadavas Samkarshana{28} and Janardana went to the capital of the Chedi kingdom to see the Yadavi who was their father’s sister{29}. Rama and Keshava honoured every king in accordance with rank and superiority, inquired about everyone’s welfare and seated themselves. After the two warriors had been shown homage, the queen herself placed her son on Damodara’s{30} lap, with a pleasure that was more than usual. As soon as the child was placed on his lap, the extra arms fell off and the eye on the forehead sank{31}. On seeing this, she was miserable and frightened and prayed to Krishna for a boon. ‘O Krishna! O mighty-armed one! I am afﬂicted with fear. Please grant me a boon. You provide relief to everyone who is oppressed. You are the refuge of everyone who is frightened.’ ‘Do not be afraid,’ Janardana told his father’s sister. ‘O aunt! What boon will I give you? What shall I do? I will obey your words, be it possible or impossible.’ At these words, she told Krishna, the son{32} of the Yadu lineage, ‘O immensely strong one! Please pardon Shishupala’s transgressions.’ Krishna replied, ‘O aunt! I will pardon one hundred offences of your son, even if they are offences that deserve death. Therefore, do not grieve.’ O brave one! Such is this evil king Shishupala, evil in intelligence. Insolent because of Govinda’s boon, he can now challenge you{33}.”",
+              "color": "#457B9D",
+              "opacity": 1.0,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@bhishma",
+              "text": "’",
+              "color": "#457B9D",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        }
+      }
+    },
+    "266": {
+      "global_number": 266,
+      "local_number": 41,
+      "num_shlokas": 33,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Bhishma said, “The Chedi king’s intention of challenging Achyuta is not his own. There is no doubt that Krishna, lord of the universe, determined this. O Bhimasena! What king on earth dares abuse me now, as this deﬁler of his lineage has done, had it not been for incitement by destiny? O mighty-armed one! It is certain that he is but a small part of Hari’s energy and the greatly famous Hari wishes to reclaim it. O tiger among the Kuru lineage! It is for this reason that the evil-minded king of Chedi roars like a tiger, without thinking about all of us.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhishma said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhishma",
+              "text": "“The Chedi king’s intention of challenging Achyuta is not his own. There is no doubt that Krishna, lord of the universe, determined this. O Bhimasena! What king on earth dares abuse me now, as this deﬁler of his lineage has done, had it not been for incitement by destiny? O mighty-armed one! It is certain that he is but a small part of Hari’s energy and the greatly famous Hari wishes to reclaim it. O tiger among the Kuru lineage! It is for this reason that the evil-minded king of Chedi roars like a tiger, without thinking about all of us.”",
+              "color": "#457B9D",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘Having heard these words of Bhishma, the Chedi could not tolerate them and again spoke to Bhishma in anger.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having heard these words of Bhishma, the Chedi could not tolerate them and again spoke to Bhishma in anger.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Shishupala said, “O Bhishma! Let our enemies possess the inﬂuence that Keshava possesses{34}. You always arise and praise him like a bard. O Bhishma! If your mind ﬁnds pleasure in praising others, then praise the real kings, leaving out Janardana. Praise Darada of Bahlika, supreme among kings. When he was born, he tore the earth asunder. O Bhishma! Praise this Karna. He is the wielder of a mighty bow. He equals the thousand-eyed one in strength and is the ruler of Vanga and Anga. O Bhishma! Always praise Drona and Drouni{35}. The father and son are maharathas, supreme among brahmanas, and worthy of praise. O Bhishma! It is my view that if either of them is enraged, he can annihilate the earth, with all its mobile and immobile objects. O Bhishma! I do not see a lord of men who is Drona’s equal in battle, or that of Ashvatthama’s. Why don’t you wish to praise them? O Bhishma! Since your mind is always ﬁxed on praising, why don’t you praise Shalya and the other rulers of earth? O king! But what can I do if you fail to heed the old ones. You have not heard what they, knowledgeable in dharma, said in ancient times. There are four things that must not be done—self-censure, worship of oneself, censure of others and worship of others{36}. These are not done by those who follow proper conduct. O Bhishma! If in your continual delusion you praise Keshava out of devotion towards him, no one will approve. How can you establish the entire universe in this evil-minded protector of herds, Bhoja’s{37} servant? O descendant of the Bharata lineage! Or perhaps your devotion is not a natural one. Have I not mentioned the bhulinga bird earlier? O Bhishma! The bhulinga bird lives on the other side of the Himalayas. What it spoke was always devoid of meaning. ‘Do not act out of extreme courage’ was what it always said. But in folly, it always acted out of extreme courage. O Bhishma! That foolish bird used to pick out pieces of ﬂesh that stuck between the teeth of a feeding lion. O Bhishma! There is no doubt that the bird’s life was dependent on the lion’s pleasure. You are based in what is not dharma and always speak like it. O Bhishma! There is no doubt that you live at the pleasure of these lords of the earth. There is no one like you, engaged in deeds that the worlds abhor.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Shishupala said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@shishupala",
+              "text": "“O Bhishma! Let our enemies possess the inﬂuence that Keshava possesses{34}. You always arise and praise him like a bard. O Bhishma! If your mind ﬁnds pleasure in praising others, then praise the real kings, leaving out Janardana. Praise Darada of Bahlika, supreme among kings. When he was born, he tore the earth asunder. O Bhishma! Praise this Karna. He is the wielder of a mighty bow. He equals the thousand-eyed one in strength and is the ruler of Vanga and Anga. O Bhishma! Always praise Drona and Drouni{35}. The father and son are maharathas, supreme among brahmanas, and worthy of praise. O Bhishma! It is my view that if either of them is enraged, he can annihilate the earth, with all its mobile and immobile objects. O Bhishma! I do not see a lord of men who is Drona’s equal in battle, or that of Ashvatthama’s. Why don’t you wish to praise them? O Bhishma! Since your mind is always ﬁxed on praising, why don’t you praise Shalya and the other rulers of earth? O king! But what can I do if you fail to heed the old ones. You have not heard what they, knowledgeable in dharma, said in ancient times. There are four things that must not be done—self-censure, worship of oneself, censure of others and worship of others{36}. These are not done by those who follow proper conduct. O Bhishma! If in your continual delusion you praise Keshava out of devotion towards him, no one will approve. How can you establish the entire universe in this evil-minded protector of herds, Bhoja’s{37} servant? O descendant of the Bharata lineage! Or perhaps your devotion is not a natural one. Have I not mentioned the bhulinga bird earlier? O Bhishma! The bhulinga bird lives on the other side of the Himalayas. What it spoke was always devoid of meaning. ‘Do not act out of extreme courage’ was what it always said. But in folly, it always acted out of extreme courage. O Bhishma! That foolish bird used to pick out pieces of ﬂesh that stuck between the teeth of a feeding lion. O Bhishma! There is no doubt that the bird’s life was dependent on the lion’s pleasure. You are based in what is not dharma and always speak like it. O Bhishma! There is no doubt that you live at the pleasure of these lords of the earth. There is no one like you, engaged in deeds that the worlds abhor.”",
+              "color": "#D98F4E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘O king! Having heard these bitter words of the king of Chedi, Bhishma uttered these words, so that the king of Chedi could hear. “I truly live at the pleasure of these lords of the earth, I who do not consider these kings as equal to even straw.” Hearing these words of Bhishma, the kings became angry. Some of them trembled, and others censured Bhishma. On hearing Bhishma’s words, some mighty archers exclaimed, “Though old, this Bhishma is insolent and sinful. He deserves no pardon. Let all the angry kings assemble together and kill the evil-minded Bhishma like an animal, or burn him in a ﬁre made out of straw.” Hearing these words, the intelligent Bhishma, the grandfather of the Kurus, spoke thus to the lords of the earth. “O lords of the earth! I do not see an end to these words, since there will be more words. Therefore, all of you listen to me. Whether you kill me like an animal or burn me in a ﬁre made out of straw, I place this foot of mine on all your heads. Govinda Achyuta is here. We have offered him worship. If anyone’s mind propels him towards death, let him challenge in battle Madhava Krishna, the wielder of the bow and the club, until he is brought down and his body merges with that of the god.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Having heard these bitter words of the king of Chedi, Bhishma uttered these words, so that the king of Chedi could hear.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“I truly live at the pleasure of these lords of the earth, I who do not consider these kings as equal to even straw.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words of Bhishma, the kings became angry. Some of them trembled, and others censured Bhishma. On hearing Bhishma’s words,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "some mighty archers exclaimed",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@some_mighty_archers",
+              "text": "“Though old, this Bhishma is insolent and sinful. He deserves no pardon. Let all the angry kings assemble together and kill the evil-minded Bhishma like an animal, or burn him in a ﬁre made out of straw.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Hearing these words, the intelligent Bhishma, the grandfather of the Kurus, spoke thus to the lords of the earth",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@words",
+              "text": "“O lords of the earth! I do not see an end to these words, since there will be more words. Therefore, all of you listen to me. Whether you kill me like an animal or burn me in a ﬁre made out of straw, I place this foot of mine on all your heads. Govinda Achyuta is here. We have offered him worship. If anyone’s mind propels him towards death, let him challenge in battle Madhava Krishna, the wielder of the bow and the club, until he is brought down and his body merges with that of the god.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "267": {
+      "global_number": 267,
+      "local_number": 42,
+      "num_shlokas": 60,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘On hearing these words of Bhishma, the immensely valorous king of Chedi desired to ﬁght with Vasudeva and spoke to Vasudeva, “O Janardana! I am challenging you to battle. Come and ﬁght with me, until I have killed you, along with all the Pandavas. O Krishna! Together with you, the Pandavas also deserve to be killed, since they have passed over the kings and worshipped you, who is not a king. O Krishna! It is my view that I must kill them. The evil-minded ones have acted like children and have offered homage to an undeserving one who is a slave and not a king.” Having uttered these words, that tiger among kings stood up and roared in anger.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘On hearing these words of Bhishma,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the immensely valorous king of Chedi desired to ﬁght with Vasudeva and spoke to Vasudeva",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_immensely_valorous_king_of",
+              "text": "“O Janardana! I am challenging you to battle. Come and ﬁght with me, until I have killed you, along with all the Pandavas. O Krishna! Together with you, the Pandavas also deserve to be killed, since they have passed over the kings and worshipped you, who is not a king. O Krishna! It is my view that I must kill them. The evil-minded ones have acted like children and have offered homage to an undeserving one who is a slave and not a king.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having uttered these words, that tiger among kings stood up and roared in anger.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Having heard these words, in the presence of all the kings and the Pandavas, Krishna replied in a soft voice. “O kings! This son of a lady of the Satvata lineage{38} is a great enemy of the Satvata clan. Though we have never done him harm, the cruel-minded one always seeks to injure us. O kings! Hearing that we had gone to the city of Pragjyotisha, this cruel one came and burnt down Dvaraka, though he is my father’s sister’s son. When the royal ones from Bhoja were sporting themselves on Mount Raivataka, he killed and captured all of them and took them to his own city. With certain evil in his heart, he wished to obstruct my father’s sacriﬁce and stole the horse of the ashvamedha{39}, though it was surrounded by guards. The famous Babhru’s{40} wife-to-be was travelling to the Souvira region to be married. But out of delusion and desire, he abducted her. He was cruelly disposed towards his maternal uncle, the ascetic Karusha and used his powers of maya to abduct Bhadra of Vishala{41}. For the sake of my father’s sister, I have borne a great deal of unhappiness. However, it is fortunate that this is happening before all these kings. You are now witness to the malevolence he bears towards me. Know also the deeds that he has performed secretly. I can no longer pardon his offence today. He deserves to be killed only because of his insolence in front of this assembly of kings. Desiring a speedy death, this fool once offered himself to Rukmini{42}. But the fool did not obtain her, the way a shudra cannot hear the Vedas.” Having heard these words of Vasudeva, all the assembled kings began to censure the king of Chedi.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard these words, in the presence of all the kings and the Pandavas,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Krishna replied in a soft voice",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O kings! This son of a lady of the Satvata lineage{38} is a great enemy of the Satvata clan. Though we have never done him harm, the cruel-minded one always seeks to injure us. O kings! Hearing that we had gone to the city of Pragjyotisha, this cruel one came and burnt down Dvaraka, though he is my father’s sister’s son. When the royal ones from Bhoja were sporting themselves on Mount Raivataka, he killed and captured all of them and took them to his own city. With certain evil in his heart, he wished to obstruct my father’s sacriﬁce and stole the horse of the ashvamedha{39}, though it was surrounded by guards. The famous Babhru’s{40} wife-to-be was travelling to the Souvira region to be married. But out of delusion and desire, he abducted her. He was cruelly disposed towards his maternal uncle, the ascetic Karusha and used his powers of maya to abduct Bhadra of Vishala{41}. For the sake of my father’s sister, I have borne a great deal of unhappiness. However, it is fortunate that this is happening before all these kings. You are now witness to the malevolence he bears towards me. Know also the deeds that he has performed secretly. I can no longer pardon his offence today. He deserves to be killed only because of his insolence in front of this assembly of kings. Desiring a speedy death, this fool once offered himself to Rukmini{42}. But the fool did not obtain her, the way a shudra cannot hear the Vedas.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having heard these words of Vasudeva, all the assembled kings began to censure the king of Chedi.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Having heard these words, the powerful Shishupala burst into laughter and uttered these scornful words. “O Krishna! Are you not ashamed to recount this, especially before all these kings? Rukmini was mine ﬁrst{43}. O Madhusudana! No self-respecting man but you will admit before respectable ones that his wife had been someone else’s ﬁrst. O Krishna! Pardon me. Whether you pardon me or whether you show me respect, whether you bear friendship or enmity towards me, what can you possibly do to me?” When he was talking in this way, the illustrious Madhusudana, the destroyer of his enemies, angrily sliced off his head with the chakra. The mighty-armed one fell down like a mountain struck by the vajra. The kings saw a terrible energy rise up from the body of the Chedi king. O great king! It was like the sun rising in the sky. O lord of men! That energy then paid homage to the lotuseyed Krishna, worshipped by the worlds, and entered his body. On seeing the energy enter the mighty-armed one, supreme among all beings, all of the lords of the earth thought that this was extraordinary. When the Chedi was killed by Krishna, the cloudless sky poured forth rain. The earth trembled and blazing lightning struck. Some of those lords of the earth did not speak a word. At a time when these indescribable things were happening, they looked on at Janardana. Some angrily rubbed one hand with the tip of another. Others bit their lips, losing their senses in anger. But there were other kings who privately praised Varshneya. Some were angry. Others were in the middle{44}. The maharshis were delighted and went to Keshava and praised him. So did the great-souled brahmanas and the immensely powerful kings.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having heard these words, the powerful Shishupala burst into laughter and uttered these scornful words.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Krishna! Are you not ashamed to recount this, especially before all these kings? Rukmini was mine ﬁrst{43}. O Madhusudana! No self-respecting man but you will admit before respectable ones that his wife had been someone else’s ﬁrst. O Krishna! Pardon me. Whether you pardon me or whether you show me respect, whether you bear friendship or enmity towards me, what can you possibly do to me?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When he was talking in this way, the illustrious Madhusudana, the destroyer of his enemies, angrily sliced off his head with the chakra. The mighty-armed one fell down like a mountain struck by the vajra. The kings saw a terrible energy rise up from the body of the Chedi king. O great king! It was like the sun rising in the sky. O lord of men! That energy then paid homage to the lotuseyed Krishna, worshipped by the worlds, and entered his body. On seeing the energy enter the mighty-armed one, supreme among all beings, all of the lords of the earth thought that this was extraordinary. When the Chedi was killed by Krishna, the cloudless sky poured forth rain. The earth trembled and blazing lightning struck. Some of those lords of the earth did not speak a word. At a time when these indescribable things were happening, they looked on at Janardana. Some angrily rubbed one hand with the tip of another. Others bit their lips, losing their senses in anger. But there were other kings who privately praised Varshneya. Some were angry. Others were in the middle{44}. The maharshis were delighted and went to Keshava and praised him. So did the great-souled brahmanas and the immensely powerful kings.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Pandava{45} then instructed his brothers to perform the funeral rites for the brave lord of the earth who had been Damaghosha’s son. The brothers followed these instructions. Then Partha{46}, with all the other lords of the earth, instated his{47} son in the kingdom of Chedi.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Pandava{45} then instructed his brothers to perform the funeral rites for the brave lord of the earth who had been Damaghosha’s son. The brothers followed these instructions. Then Partha{46}, with all the other lords of the earth, instated his{47} son in the kingdom of Chedi.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘O king! Then occurred the sacriﬁce of the king of the Kurus and brought prosperity to everyone and joy to the young, with an abundance of opulence—with great quantities of riches and grain, large amounts of food and eatables, auspicious in its beginnings and with the obstructions to peace removed. It was protected by Keshava. Until the great sacriﬁce of rajasuya was completed, the mighty-armed Janardana, the lord Shouri, the wielder of the sharnga{48}, chakra and club, guarded it. On completion, after Dharmaraja Yudhishthira had bathed{49}, all the kshatriya kings came to him and uttered these words. “O Ajamidha{50}! O one who is knowledgeable in dharma! Your prosperity has been extended. You have obtained sovereignty. Your fame has been extended. O Indra among kings! With this deed, you have accomplished a great act for dharma. O tiger among men! We crave your leave. We have been shown homage in every way we desire. We now wish to return to our own kingdoms. Please grant us leave.” On hearing these words of the kings, Dharmaraja Yudhishthira worshipped each king as he deserved and told all his brothers, “All these kings have assembled here out of their own pleasure. These scorchers of enemies are now leaving for their own kingdoms and are seeking my permission. O fortunate ones! Conduct these kings to the ends of our kingdom.” The Pandavas were always followers of dharma. Hearing their brother’s instructions, they followed each principal king, as each one deserved. O king! The powerful Dhrishtadyumna quickly conducted Virata, the maharatha Dhananjaya the great-souled Yajnasena{51}, the immensely strong Bhimasena, Bhishma and Dhritarashtra, the great warrior Sahadeva the brave, Drona and his son, Nakula Subala and his son and the sons of Droupadi and Subhadra{52} the kings of the mountains. Other bulls among the kshatriyas conducted other kshatriyas. And worshipped properly, all the brahmanas departed.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! Then occurred the sacriﬁce of the king of the Kurus and brought prosperity to everyone and joy to the young, with an abundance of opulence—with great quantities of riches and grain, large amounts of food and eatables, auspicious in its beginnings and with the obstructions to peace removed. It was protected by Keshava. Until the great sacriﬁce of rajasuya was completed, the mighty-armed Janardana, the lord Shouri, the wielder of the sharnga{48}, chakra and club, guarded it. On completion, after Dharmaraja Yudhishthira had bathed{49}, all the kshatriya kings came to him and uttered these words.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Ajamidha{50}! O one who is knowledgeable in dharma! Your prosperity has been extended. You have obtained sovereignty. Your fame has been extended. O Indra among kings! With this deed, you have accomplished a great act for dharma. O tiger among men! We crave your leave. We have been shown homage in every way we desire. We now wish to return to our own kingdoms. Please grant us leave.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing these words of the kings,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dharmaraja Yudhishthira worshipped each king as he deserved and told all his brothers",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dharmaraja_yudhishthira_worshipped_each",
+              "text": "“All these kings have assembled here out of their own pleasure. These scorchers of enemies are now leaving for their own kingdoms and are seeking my permission. O fortunate ones! Conduct these kings to the ends of our kingdom.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The Pandavas were always followers of dharma. Hearing their brother’s instructions, they followed each principal king, as each one deserved. O king! The powerful Dhrishtadyumna quickly conducted Virata, the maharatha Dhananjaya the great-souled Yajnasena{51}, the immensely strong Bhimasena, Bhishma and Dhritarashtra, the great warrior Sahadeva the brave, Drona and his son, Nakula Subala and his son and the sons of Droupadi and Subhadra{52} the kings of the mountains. Other bulls among the kshatriyas conducted other kshatriyas. And worshipped properly, all the brahmanas departed.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘O bull among the Bharata lineage! On the departure of all the lords among kings and the brahmanas, the powerful Vasudeva spoke to Yudhishthira. “O son of the Kuru lineage{53}! I seek your leave to go to Dvaraka. Through good fortune, you have achieved rajasuya, supreme among sacriﬁces.” Having been thus addressed, Dharmaraja told Madhusudana, “O Govinda! It is through your favour that I have achieved this supreme sacriﬁce. Through your grace, all the kshatriyas have come under my sway and have attended upon me, bringing rich tributes. O brave one! Without you, we will ﬁnd no pleasure. But of course you must go to the city of Dvaravati.” Having been thus addressed, the greatly famous Hari, with the righteous Yudhishthira with him, went to Pritha and affectionately said, “O father’s sister! Your sons have now obtained sovereignty and have obtained success and great riches. You should be pleased. Please grant me leave so that I can return to Dvaraka.” Keshava then bade farewell to Subhadra and Droupadi. Then, accompanied by Yudhishthira, he came out of the inner quarters. O great king! After he had bathed and prayed and the brahmanas had blessed him, Daruka yoked the beautifully constructed chariot that looked like a cloud and came. It had the great Garuda{54} on the banner. The great-souled Pundariksha then circumambulated it and ascending, departed for the city of Dvaravati. The fortunate Dharmaraja Yudhishthira, accompanied by his brothers, followed the immensely strong Vasudeva on foot. Then Pundariksha Hari stopped the supreme chariot for a moment and spoke to Yudhishthira, Kunti’s son. “O lord of the earth! Always remain steadfast in protecting your subjects, just as the god of rain{55} protects all beings and a large tree protects all birds. May you be the refuge of your relatives, like the thousand-eyed one{56} is of the immortals.” After conversing with each other, Krishna and the Pandavas took each other’s leave and went to their houses. O king! When Krishna, supreme among the Satvatas, had left for Dvaravati, only Duryodhana and Soubala{57} Shakuni, bulls among men, remained in that celestial sabha.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O bull among the Bharata lineage! On the departure of all the lords among kings and the brahmanas,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the powerful Vasudeva spoke to Yudhishthira",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_powerful_vasudeva",
+              "text": "“O son of the Kuru lineage{53}! I seek your leave to go to Dvaraka. Through good fortune, you have achieved rajasuya, supreme among sacriﬁces.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dharmaraja told Madhusudana",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Govinda! It is through your favour that I have achieved this supreme sacriﬁce. Through your grace, all the kshatriyas have come under my sway and have attended upon me, bringing rich tributes. O brave one! Without you, we will ﬁnd no pleasure. But of course you must go to the city of Dvaravati.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, the greatly famous Hari, with the righteous Yudhishthira with him,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "went to Pritha and affectionately said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@went_to_pritha_and",
+              "text": "“O father’s sister! Your sons have now obtained sovereignty and have obtained success and great riches. You should be pleased. Please grant me leave so that I can return to Dvaraka.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Keshava then bade farewell to Subhadra and Droupadi. Then, accompanied by Yudhishthira, he came out of the inner quarters. O great king! After he had bathed and prayed and the brahmanas had blessed him, Daruka yoked the beautifully constructed chariot that looked like a cloud and came. It had the great Garuda{54} on the banner. The great-souled Pundariksha then circumambulated it and ascending, departed for the city of Dvaravati. The fortunate Dharmaraja Yudhishthira, accompanied by his brothers, followed the immensely strong Vasudeva on foot.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Then Pundariksha Hari stopped the supreme chariot for a moment and spoke to Yudhishthira, Kunti’s son",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@pundariksha_hari_stopped",
+              "text": "“O lord of the earth! Always remain steadfast in protecting your subjects, just as the god of rain{55} protects all beings and a large tree protects all birds. May you be the refuge of your relatives, like the thousand-eyed one{56} is of the immortals.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "After conversing with each other, Krishna and the Pandavas took each other’s leave and went to their houses. O king! When Krishna, supreme among the Satvatas, had left for Dvaravati, only Duryodhana and Soubala{57} Shakuni, bulls among men, remained in that celestial sabha.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

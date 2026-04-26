@@ -1,0 +1,100 @@
+{
+  "name": "Kundala-aharana Parva",
+  "subparva_number": 43,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 294
+  },
+  "note": "Kundala is an earring and Karna was naturally born with kundalas. Aharana means seizing or taking. Pritha (Kunti) serves Durvasa and ob-tains a boon. Through this, she invokes Surya and Karna is born. When she abandons Karna, he is adopted and raised by a charioteer. Karna is born with natural armour and earrings that make him invincible. Tndra asks for these, and in return, gives Karna an invincible spear.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "581": {
+      "chapter_number": 581,
+      "global_number": 581,
+      "local_number": 284,
+      "num_shlokas": 39,
+      "file": "subparva_43_kundala_aharana_parva/chapter_581_tagged.json"
+    },
+    "582": {
+      "chapter_number": 582,
+      "global_number": 582,
+      "local_number": 285,
+      "num_shlokas": 17,
+      "file": "subparva_43_kundala_aharana_parva/chapter_582_tagged.json"
+    },
+    "583": {
+      "chapter_number": 583,
+      "global_number": 583,
+      "local_number": 286,
+      "num_shlokas": 20,
+      "file": "subparva_43_kundala_aharana_parva/chapter_583_tagged.json"
+    },
+    "584": {
+      "chapter_number": 584,
+      "global_number": 584,
+      "local_number": 287,
+      "num_shlokas": 29,
+      "file": "subparva_43_kundala_aharana_parva/chapter_584_tagged.json"
+    },
+    "585": {
+      "chapter_number": 585,
+      "global_number": 585,
+      "local_number": 288,
+      "num_shlokas": 19,
+      "file": "subparva_43_kundala_aharana_parva/chapter_585_tagged.json"
+    },
+    "586": {
+      "chapter_number": 586,
+      "global_number": 586,
+      "local_number": 289,
+      "num_shlokas": 23,
+      "file": "subparva_43_kundala_aharana_parva/chapter_586_tagged.json"
+    },
+    "587": {
+      "chapter_number": 587,
+      "global_number": 587,
+      "local_number": 290,
+      "num_shlokas": 26,
+      "file": "subparva_43_kundala_aharana_parva/chapter_587_tagged.json"
+    },
+    "588": {
+      "chapter_number": 588,
+      "global_number": 588,
+      "local_number": 291,
+      "num_shlokas": 28,
+      "file": "subparva_43_kundala_aharana_parva/chapter_588_tagged.json"
+    },
+    "589": {
+      "chapter_number": 589,
+      "global_number": 589,
+      "local_number": 292,
+      "num_shlokas": 27,
+      "file": "subparva_43_kundala_aharana_parva/chapter_589_tagged.json"
+    },
+    "590": {
+      "chapter_number": 590,
+      "global_number": 590,
+      "local_number": 293,
+      "num_shlokas": 23,
+      "file": "subparva_43_kundala_aharana_parva/chapter_590_tagged.json"
+    },
+    "591": {
+      "chapter_number": 591,
+      "global_number": 591,
+      "local_number": 294,
+      "num_shlokas": 43,
+      "file": "subparva_43_kundala_aharana_parva/chapter_591_tagged.json"
+    }
+  }
+}

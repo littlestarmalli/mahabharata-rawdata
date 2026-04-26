@@ -1,0 +1,163 @@
+{
+  "chapter": 173,
+  "local": 173,
+  "shlokas": 24,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Arjuna said, “Why did King Kalmashapada himself call and instruct his wife to go to his preceptor, supreme among those who are learned in the Vedas? Why did the great-souled maharshi Vashishtha, who knew the path of supreme dharma, agree to go to a woman who was forbidden? Why were these acts done earlier? I wish to know. Tell me in detail.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arjuna said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Why did King Kalmashapada himself call and instruct his wife to go to his preceptor, supreme among those who are learned in the Vedas? Why did the great-souled maharshi Vashishtha, who knew the path of supreme dharma, agree to go to a woman who was forbidden? Why were these acts done earlier? I wish to know. Tell me in detail.”",
+          "speaker": "@arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The gandharva said, “O Dhananjaya! O one who cannot be repulsed! Listen to my answer to your question about the unassailable Vashishtha and King Mitrasaha{120}. O best of the Bharata lineage! I have already told you how the king was cursed by Shakti, Vashishtha's great-souled son. Thus, under the inﬂuence of that curse, the king, that scorcher of enemies, came out of the city with his wife, his eyes rolling with anger. He went to a deserted forest with his wife and roamed around there. Under the inﬂuence of the curse, he roamed around in that forest, frequented by many beasts and other animals, overgrown with many plants and creepers, dense with many large trees and echoing with horrible howls. Once, obsessed with extreme hunger and exhausted, he saw in a lonely part of the forest a Brahmana and a brahmani, about to engage in an act of sexual union. Seeing him, the pair was frightened and ran away, their desire unsatisﬁed.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The gandharva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_gandharva",
+          "introduces_label": "The gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Dhananjaya! O one who cannot be repulsed! Listen to my answer to your question about the unassailable Vashishtha and King Mitrasaha{120}. O best of the Bharata lineage! I have already told you how the king was cursed by Shakti, Vashishtha's great-souled son. Thus, under the inﬂuence of that curse, the king, that scorcher of enemies, came out of the city with his wife, his eyes rolling with anger. He went to a deserted forest with his wife and roamed around there. Under the inﬂuence of the curse, he roamed around in that forest, frequented by many beasts and other animals, overgrown with many plants and creepers, dense with many large trees and echoing with horrible howls. Once, obsessed with extreme hunger and exhausted, he saw in a lonely part of the forest a Brahmana and a brahmani, about to engage in an act of sexual union. Seeing him, the pair was frightened and ran away, their desire unsatisﬁed.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Pursuing them, the king forcibly grabbed the Brahmana. Seeing that her husband had thus been seized, the brahmani said, ‘O king who is always rigid in his vows! Listen to what I have to say. It is known in all the worlds that you have been born in the solar dynasty. You have always been established in the path of dharma and you have always served your preceptors. O unassailable one! Though you have been deprived of your senses through a curse, do not commit an evil act. When my season had come, I was about to unite with my husband so as to obtain offspring. But I have not been successful and have great need. O best of kings! Be merciful to me and let my husband go.’ While she was crying thus, the king cruelly ate up her husband, the way a tiger devours a deer. On account of her anger, tears fell from her eyes on the ground and became a blazing ﬁre that burnt up everything there. Grief-stricken and enraged at the death of her husband, the brahmani cursed rajarshi Kalmashapada, ‘O evil-minded one! Today, you have cruelly devoured before my own eyes my illustrious and beloved husband, even though I was not satisﬁed. Therefore, through my curse, you will meet with instant death when you unite with your wife when she is in season. Rishi Vashishtha, whose sons you have eaten, will unite with your wife and she will give birth to a son. O worst of kings! That son will perpetuate your lineage.’ Having thus cursed the king, that fortunate lady of the Angirasa lineage entered the ﬂaming ﬁre in his presence.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Pursuing them, the king forcibly grabbed the Brahmana. Seeing that her husband had thus been seized, the brahmani said, ",
+          "speaker": "the_gandharva",
+          "introduces": "the_brahmani",
+          "introduces_label": "the brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king who is always rigid in his vows! Listen to what I have to say. It is known in all the worlds that you have been born in the solar dynasty. You have always been established in the path of dharma and you have always served your preceptors. O unassailable one! Though you have been deprived of your senses through a curse, do not commit an evil act. When my season had come, I was about to unite with my husband so as to obtain offspring. But I have not been successful and have great need. O best of kings! Be merciful to me and let my husband go.’",
+          "speaker": "the_brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " While she was crying thus, the king cruelly ate up her husband, the way a tiger devours a deer. On account of her anger, tears fell from her eyes on the ground and became a blazing ﬁre that burnt up everything there. Grief-stricken and enraged at the death of her husband, the brahmani cursed rajarshi Kalmashapada, ",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O evil-minded one! Today, you have cruelly devoured before my own eyes my illustrious and beloved husband, even though I was not satisﬁed. Therefore, through my curse, you will meet with instant death when you unite with your wife when she is in season. Rishi Vashishtha, whose sons you have eaten, will unite with your wife and she will give birth to a son. O worst of kings! That son will perpetuate your lineage.’",
+          "speaker": "the_brahmani",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having thus cursed the king, that fortunate lady of the Angirasa lineage entered the ﬂaming ﬁre in his presence.",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O scorcher of enemies! The immensely fortunate Vashishtha knew all this through his great austerities and his powers of knowledge that come through yoga. After a long time, the rajarshi was freed from the curse and went to his wife Madayanti when she was in season, but she repulsed him. Deluded by the curse, the king had no recollection of the curse. On hearing the lady's words, that best of kings remembered the curse and was greatly alarmed. O best of the Bharata lineage! It was for this reason that the king requested Vashishtha to accept his own wife, because he suffered from the curse.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O scorcher of enemies! The immensely fortunate Vashishtha knew all this through his great austerities and his powers of knowledge that come through yoga. After a long time, the rajarshi was freed from the curse and went to his wife Madayanti when she was in season, but she repulsed him. Deluded by the curse, the king had no recollection of the curse. On hearing the lady's words, that best of kings remembered the curse and was greatly alarmed. O best of the Bharata lineage! It was for this reason that the king requested Vashishtha to accept his own wife, because he suffered from the curse.”",
+          "speaker": "the_gandharva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

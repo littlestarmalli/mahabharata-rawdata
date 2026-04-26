@@ -1,0 +1,118 @@
+{
+  "name": "Jatugriha-daha Parva",
+  "subparva_number": 8,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 15,
+    "num_shlokas": 373
+  },
+  "note": "Jatu is lac and griha is house. This parva is about the burning down of the house of lac.",
+  "chapters": {
+    "124": {
+      "chapter_number": 124,
+      "global_number": 124,
+      "local_number": 124,
+      "num_shlokas": 33,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_124.json"
+    },
+    "125": {
+      "chapter_number": 125,
+      "global_number": 125,
+      "local_number": 125,
+      "num_shlokas": 32,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_125.json"
+    },
+    "126": {
+      "chapter_number": 126,
+      "global_number": 126,
+      "local_number": 126,
+      "num_shlokas": 39,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_126.json"
+    },
+    "127": {
+      "chapter_number": 127,
+      "global_number": 127,
+      "local_number": 127,
+      "num_shlokas": 24,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_127.json"
+    },
+    "128": {
+      "chapter_number": 128,
+      "global_number": 128,
+      "local_number": 128,
+      "num_shlokas": 18,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_128.json"
+    },
+    "129": {
+      "chapter_number": 129,
+      "global_number": 129,
+      "local_number": 129,
+      "num_shlokas": 18,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_129.json"
+    },
+    "130": {
+      "chapter_number": 130,
+      "global_number": 130,
+      "local_number": 130,
+      "num_shlokas": 20,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_130.json"
+    },
+    "131": {
+      "chapter_number": 131,
+      "global_number": 131,
+      "local_number": 131,
+      "num_shlokas": 18,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_131.json"
+    },
+    "132": {
+      "chapter_number": 132,
+      "global_number": 132,
+      "local_number": 132,
+      "num_shlokas": 19,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_132.json"
+    },
+    "133": {
+      "chapter_number": 133,
+      "global_number": 133,
+      "local_number": 133,
+      "num_shlokas": 30,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_133.json"
+    },
+    "134": {
+      "chapter_number": 134,
+      "global_number": 134,
+      "local_number": 134,
+      "num_shlokas": 28,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_134.json"
+    },
+    "135": {
+      "chapter_number": 135,
+      "global_number": 135,
+      "local_number": 135,
+      "num_shlokas": 21,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_135.json"
+    },
+    "136": {
+      "chapter_number": 136,
+      "global_number": 136,
+      "local_number": 136,
+      "num_shlokas": 19,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_136.json"
+    },
+    "137": {
+      "chapter_number": 137,
+      "global_number": 137,
+      "local_number": 137,
+      "num_shlokas": 23,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_137.json"
+    },
+    "138": {
+      "chapter_number": 138,
+      "global_number": 138,
+      "local_number": 138,
+      "num_shlokas": 31,
+      "file": "subparva_08_jatugriha_daha_parva/chapter_138.json"
+    }
+  }
+}

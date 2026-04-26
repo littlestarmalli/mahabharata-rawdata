@@ -1,0 +1,30 @@
+{
+  "name": "Jatasura-vadha Parva",
+  "subparva_number": 34,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 0
+  },
+  "note": "Vadha means to kill or slay and this section is about Bhima killing the demon named Jatasura.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "451": {
+      "chapter_number": 451,
+      "global_number": 451,
+      "local_number": 154,
+      "num_shlokas": null,
+      "file": "subparva_34_jatasura_vadha_parva/chapter_451_tagged.json"
+    }
+  }
+}

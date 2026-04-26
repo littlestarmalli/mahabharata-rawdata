@@ -1,0 +1,82 @@
+{
+  "chapter_number": 806,
+  "global_number": 806,
+  "local_number": 143,
+  "num_shlokas": 12,
+  "paragraphs": {
+    "1": {
+      "raw": "‘Karna said, “I am Karna, the son of Radha and Adhiratha, and I salute you. Tell me. Why have you come here? What can I do for you?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Karna said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@karna",
+          "text": "“I am Karna, the son of Radha and Adhiratha, and I salute you. Tell me. Why have you come here? What can I do for you?”",
+          "color": "#F77F00",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Kunti replied, “You are the son of Kunti, not of Radha. And Adhiratha is not your father. O Karna! You have not been born in a lineage of sutas. Know these words of mine to be true. While I was still a maiden, I gave birth to you. In Kuntibhoja’s abode, you were the ﬁrst one I carried in my womb. O Partha! You are my son. The duty of the god Tapana Virochana{51} is to produce light. O Karna, supreme among those who wield weapons! He gave birth to you through me. You were born with earrings and armour. You were born as the son of a god, surrounded in radiance. You were born as my invincible son, in my father’s house. Because of your ignorance, you do not know your true brothers. Since you are my son, you should not serve the sons of Dhritarashtra. O son! It is the determination of dharma that the fruits of dharma accrue to men who satisfy their fathers, or their one-eyed mother{52}. Earlier, Arjuna earned prosperity for Yudhishthira and the sons of Dhritarashtra robbed it because of their greed. Separate yourself from them and enjoy it. Today, let the Kurus witness the fraternal union between Karna and Arjuna. Let those who are evil bow down. Let Karna and Arjuna be like Rama{53} and Janardana. If the two of you are united in your minds, what can you not achieve in this world? O Karna! Surrounded by your ﬁve brothers, you will shine, like Brahma surrounded by the Vedas and the ﬁve Vedangas{54}. You have all the qualities. You are the eldest and the best among all the relatives. The words ‘son of a suta’ will no longer be used for you. You will be a valiant Partha.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Kunti replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@kunti",
+          "text": "“You are the son of Kunti, not of Radha. And Adhiratha is not your father. O Karna! You have not been born in a lineage of sutas. Know these words of mine to be true. While I was still a maiden, I gave birth to you. In Kuntibhoja’s abode, you were the ﬁrst one I carried in my womb. O Partha! You are my son. The duty of the god Tapana Virochana{51} is to produce light. O Karna, supreme among those who wield weapons! He gave birth to you through me. You were born with earrings and armour. You were born as the son of a god, surrounded in radiance. You were born as my invincible son, in my father’s house. Because of your ignorance, you do not know your true brothers. Since you are my son, you should not serve the sons of Dhritarashtra. O son! It is the determination of dharma that the fruits of dharma accrue to men who satisfy their fathers, or their one-eyed mother{52}. Earlier, Arjuna earned prosperity for Yudhishthira and the sons of Dhritarashtra robbed it because of their greed. Separate yourself from them and enjoy it. Today, let the Kurus witness the fraternal union between Karna and Arjuna. Let those who are evil bow down. Let Karna and Arjuna be like Rama{53} and Janardana. If the two of you are united in your minds, what can you not achieve in this world? O Karna! Surrounded by your ﬁve brothers, you will shine, like Brahma surrounded by the Vedas and the ﬁve Vedangas{54}. You have all the qualities. You are the eldest and the best among all the relatives. The words ‘son of a suta’ will no longer be used for you. You will be a valiant Partha.”",
+          "color": "#E9C46A",
+          "opacity": 1.0,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

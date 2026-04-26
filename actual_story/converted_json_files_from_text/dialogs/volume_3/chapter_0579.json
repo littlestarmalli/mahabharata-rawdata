@@ -1,0 +1,489 @@
+{
+  "chapter": 579,
+  "local": 282,
+  "shlokas": 44,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Markandeya said, “Meanwhile, the immensely strong Dyumatsena had regained his eyesight. He was happy in his heart and could see everything. O bull among men! He went to all the hermitages with his wife Shaibya and was extremely afﬂicted because of his son. The couple of them went to all the hermitages, rivers, forests and lakes and searched in all those regions. They looked up whenever they heard a sound, thinking that it was their son and rushed there, saying, ‘Satyavan is coming with Savitri.’ Their feet became split and rough, wounded, bleeding and pierced. Their limbs were sore from kusha grass and thorns. They ran around, as if mad. All the brahmanas who lived in the hermitages came to them, comforting and surrounding them. They brought them back to their own hermitage. There, the aged ones rich in austerities surrounded him, together with his wife. They comforted him, recounting wonderful tales about former kings. The aged ones, desirous of seeing their son, were comforted. But they remembered accounts of their son when he was young and were extremely miserable.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Meanwhile, the immensely strong Dyumatsena had regained his eyesight. He was happy in his heart and could see everything. O bull among men! He went to all the hermitages with his wife Shaibya and was extremely afﬂicted because of his son. The couple of them went to all the hermitages, rivers, forests and lakes and searched in all those regions. They looked up whenever they heard a sound, thinking that it was their son and rushed there, saying, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Satyavan is coming with Savitri.’",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Their feet became split and rough, wounded, bleeding and pierced. Their limbs were sore from kusha grass and thorns. They ran around, as if mad. All the brahmanas who lived in the hermitages came to them, comforting and surrounding them. They brought them back to their own hermitage. There, the aged ones rich in austerities surrounded him, together with his wife. They comforted him, recounting wonderful tales about former kings. The aged ones, desirous of seeing their son, were comforted. But they remembered accounts of their son when he was young and were extremely miserable.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Oppressed by grief, they again began to lament in piteous tones and weep. ‘Alas, son! Alas, faithful daughterin-law! Where are you? Where are you?’ Suvarcha said, ‘Satyavan must be alive. His wife Savitri has austerities, self-control and conduct.’ Goutama said, ‘I have studied the Vedas, together with their branches, and I have accumulated great austerities. I have practised brahmacharya when young. I have satisﬁed my superiors and the ﬁre. With self-control, I have observed all the vows. I have lived on the wind and have fasted. I have done everything that ensures welfare. Because of those austerities, I know everything that has been intended. Know this to be the truth. Satyavan is alive.’ The disciple{191} said, ‘The words that have emerged from the mouth of my preceptor can never be false. Therefore, Satyavan must be alive.’ The rishis said, ‘Savitri is a wife who bears all the auspicious marks. She has no signs of widowhood. Therefore, Satyavan must be alive.’ Bharadvaja said, ‘His wife Savitri is endowed with austerities, self-control and conduct. Therefore, Satyavan must be alive.’ Dalbhya said, ‘Since you have regained your eyesight and since Savitri completed her vow without partaking of food, Satyavan must be alive.’ Mandavya said, ‘From the way animals and birds are speaking in the tranquil directions and from the way you conduct yourself as a king, Satyavan must be alive.’ Dhoumya said, ‘Your son is loved by the people and has all the qualities. He has all the signs of a long life. Satyavan must be alive.’ Thus comforted by those truthful and eloquent ascetics and reﬂecting about what they had said, he{192} remained there.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Oppressed by grief, they again began to lament in piteous tones and weep. ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Alas, son! Alas, faithful daughterin-law! Where are you? Where are you?’",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Suvarcha said, ",
+          "speaker": "@markandeya",
+          "introduces": "@suvarcha",
+          "introduces_label": "Suvarcha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Satyavan must be alive. His wife Savitri has austerities, self-control and conduct.’",
+          "speaker": "@suvarcha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Goutama said, ",
+          "speaker": "@markandeya",
+          "introduces": "@kripa",
+          "introduces_label": "Goutama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have studied the Vedas, together with their branches, and I have accumulated great austerities. I have practised brahmacharya when young. I have satisﬁed my superiors and the ﬁre. With self-control, I have observed all the vows. I have lived on the wind and have fasted. I have done everything that ensures welfare. Because of those austerities, I know everything that has been intended. Know this to be the truth. Satyavan is alive.’",
+          "speaker": "@kripa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The disciple{191} said, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The words that have emerged from the mouth of my preceptor can never be false. Therefore, Satyavan must be alive.’",
+          "speaker": "@kripa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The rishis said, ",
+          "speaker": "@markandeya",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Savitri is a wife who bears all the auspicious marks. She has no signs of widowhood. Therefore, Satyavan must be alive.’",
+          "speaker": "@sages",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bharadvaja said, ",
+          "speaker": "@markandeya",
+          "introduces": "@bharadvaja",
+          "introduces_label": "Bharadvaja",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘His wife Savitri is endowed with austerities, self-control and conduct. Therefore, Satyavan must be alive.’",
+          "speaker": "@bharadvaja",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Dalbhya said, ",
+          "speaker": "@markandeya",
+          "introduces": "dalbhya",
+          "introduces_label": "Dalbhya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Since you have regained your eyesight and since Savitri completed her vow without partaking of food, Satyavan must be alive.’",
+          "speaker": "dalbhya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Mandavya said, ",
+          "speaker": "@markandeya",
+          "introduces": "mandavya",
+          "introduces_label": "Mandavya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘From the way animals and birds are speaking in the tranquil directions and from the way you conduct yourself as a king, Satyavan must be alive.’",
+          "speaker": "mandavya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Dhoumya said, ",
+          "speaker": "@markandeya",
+          "introduces": "@dhoumya",
+          "introduces_label": "Dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Your son is loved by the people and has all the qualities. He has all the signs of a long life. Satyavan must be alive.’",
+          "speaker": "@dhoumya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus comforted by those truthful and eloquent ascetics and reﬂecting about what they had said, he{192} remained there.",
+          "speaker": "@markandeya",
+          "introduces": "comforted_by_those_truthful_and_eloquent_ascetics_and_reﬂecting_about_what_they_had",
+          "introduces_label": "comforted by those truthful and eloquent ascetics and reﬂecting about what they had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“In a short while, Savitri, accompanied by her husband Satyavan, returned to the hermitage in the night and entered it cheerfully. The brahmanas said, ‘O lord of the earth! We have seen you reunited with your son. You have regained your eyesight. The reunion with your son, the sight of Savitri and the regaining of your eyesight—these three blessings will extend your prosperity. It will certainly happen as we have said. We are repeatedly saying that you will swiftly extend in prosperity.’ O Partha! All the brahmanas then kindled a ﬁre and took their seats around King Dyumatsena. Shaibya, Satyavan and Savitri were standing to one side. But with the permission of everyone, they happily seated themselves. O Partha! Then all the residents of the forest, who were seated with the king, were driven by curiosity and asked the king's son, ‘O illustrious one! Why did you not return home with your wife earlier? Why have you returned so late in the night? What obstacle stood in the way? O son of a king! Your father and mother were tormented and so were we. There must have been a reason for this. Therefore, tell us everything.’ Satyavan replied, ‘With my father's permission, I went out with Savitri. When chopping down wood in the forest, my head started to ache. I know that, afﬂicted with pain, I slept for a long time. Never before have I slept for such a long time. Thinking that all of you might be tormented on my account, I returned so late in the night. That is the reason and there is no other.’ Goutama said, ‘Your father Dyumatsena's eyesight was restored suddenly. You do not know the reason for that. Therefore, Savitri must speak. O Savitri! We wish to hear. You know the entire truth. I know you Savitri. You are like Savitri{193} in your energy. You know the reason behind everything. Therefore, speak the truth. If there is nothing that is a secret from you, tell us everything.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“In a short while, Savitri, accompanied by her husband Satyavan, returned to the hermitage in the night and entered it cheerfully. The brahmanas said, ",
+          "speaker": "@markandeya",
+          "introduces": "the_brahmanas",
+          "introduces_label": "The brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth! We have seen you reunited with your son. You have regained your eyesight. The reunion with your son, the sight of Savitri and the regaining of your eyesight—these three blessings will extend your prosperity. It will certainly happen as we have said. We are repeatedly saying that you will swiftly extend in prosperity.’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Partha! All the brahmanas then kindled a ﬁre and took their seats around King Dyumatsena. Shaibya, Satyavan and Savitri were standing to one side. But with the permission of everyone, they happily seated themselves. O Partha! Then all the residents of the forest, who were seated with the king, were driven by curiosity and asked the king's son, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O illustrious one! Why did you not return home with your wife earlier? Why have you returned so late in the night? What obstacle stood in the way? O son of a king! Your father and mother were tormented and so were we. There must have been a reason for this. Therefore, tell us everything.’",
+          "speaker": "the_brahmanas",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Satyavan replied, ",
+          "speaker": "@markandeya",
+          "introduces": "@satyavan",
+          "introduces_label": "Satyavan",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘With my father's permission, I went out with Savitri. When chopping down wood in the forest, my head started to ache. I know that, afﬂicted with pain, I slept for a long time. Never before have I slept for such a long time. Thinking that all of you might be tormented on my account, I returned so late in the night. That is the reason and there is no other.’",
+          "speaker": "@satyavan",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Goutama said, ",
+          "speaker": "@markandeya",
+          "introduces": "@kripa",
+          "introduces_label": "Goutama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Your father Dyumatsena's eyesight was restored suddenly. You do not know the reason for that. Therefore, Savitri must speak. O Savitri! We wish to hear. You know the entire truth. I know you Savitri. You are like Savitri{193} in your energy. You know the reason behind everything. Therefore, speak the truth. If there is nothing that is a secret from you, tell us everything.’",
+          "speaker": "@kripa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Savitri said, ‘It is exactly the way you know it to be. There is nothing that is beyond your thoughts. There is nothing that is a secret from me. Therefore, hear the truth. The great-souled Narada had foretold the death of my husband. Since today was the appointed time, I did not leave his side. When he fell asleep, Yama himself arrived with his attendants. Having bound him, he headed in the direction inhabited by the ancestors. I then began to satisfy the illustrious god with truthful words. He granted me ﬁve boons and listen to what they were. I obtained two boons for my father-in-law, the return of his eyesight and his kingdom. I obtained a hundred sons for my father and a hundred sons for myself. My husband Satyavan obtained a life of four hundred years. I steadfastly observed the vow for the sake of my husband's life. I have now described to you all the reasons in detail, exactly as they occurred and how that great misery of mine has ended in happiness.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Savitri said, ",
+          "speaker": "@markandeya",
+          "introduces": "@savitri",
+          "introduces_label": "Savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘It is exactly the way you know it to be. There is nothing that is beyond your thoughts. There is nothing that is a secret from me. Therefore, hear the truth. The great-souled Narada had foretold the death of my husband. Since today was the appointed time, I did not leave his side. When he fell asleep, Yama himself arrived with his attendants. Having bound him, he headed in the direction inhabited by the ancestors. I then began to satisfy the illustrious god with truthful words. He granted me ﬁve boons and listen to what they were. I obtained two boons for my father-in-law, the return of his eyesight and his kingdom. I obtained a hundred sons for my father and a hundred sons for myself. My husband Satyavan obtained a life of four hundred years. I steadfastly observed the vow for the sake of my husband's life. I have now described to you all the reasons in detail, exactly as they occurred and how that great misery of mine has ended in happiness.’",
+          "speaker": "@savitri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The rishis said, ‘The king's lineage was immersed in calamity, in a pond full of darkness. O virtuous one! You are of good conduct. You have borne up the sacred dharma. You were born in a noble lineage and you have raised it up again.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The rishis said, ",
+          "speaker": "@markandeya",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The king's lineage was immersed in calamity, in a pond full of darkness. O virtuous one! You are of good conduct. You have borne up the sacred dharma. You were born in a noble lineage and you have raised it up again.’",
+          "speaker": "@sages",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Markandeya said, “The assembled rishis honoured and praised that best of women. They took their leave of that Indra among kings and his son. Then they returned to their own abodes through auspicious routes.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The assembled rishis honoured and praised that best of women. They took their leave of that Indra among kings and his son. Then they returned to their own abodes through auspicious routes.”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

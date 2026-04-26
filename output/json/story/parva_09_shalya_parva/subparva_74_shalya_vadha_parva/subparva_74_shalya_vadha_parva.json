@@ -1,0 +1,125 @@
+{
+  "name": "Shalya-vadha Parva",
+  "subparva_number": 74,
+  "source_volume": 7,
+  "file_path": "output/volumes/volume_7_chapters.txt",
+  "details": {
+    "num_chapters": 16,
+    "num_shlokas": 844
+  },
+  "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+  "chapters": {
+    "1220": {
+      "chapter_number": 1220,
+      "global_number": 1220,
+      "local_number": 1,
+      "num_shlokas": 52,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1220.json"
+    },
+    "1221": {
+      "chapter_number": 1221,
+      "global_number": 1221,
+      "local_number": 2,
+      "num_shlokas": 65,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1221.json"
+    },
+    "1222": {
+      "chapter_number": 1222,
+      "global_number": 1222,
+      "local_number": 3,
+      "num_shlokas": 50,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1222.json"
+    },
+    "1223": {
+      "chapter_number": 1223,
+      "global_number": 1223,
+      "local_number": 4,
+      "num_shlokas": 50,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1223.json"
+    },
+    "1224": {
+      "chapter_number": 1224,
+      "global_number": 1224,
+      "local_number": 5,
+      "num_shlokas": 27,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1224.json"
+    },
+    "1225": {
+      "chapter_number": 1225,
+      "global_number": 1225,
+      "local_number": 6,
+      "num_shlokas": 41,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1225.json"
+    },
+    "1226": {
+      "chapter_number": 1226,
+      "global_number": 1226,
+      "local_number": 7,
+      "num_shlokas": 44,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1226.json"
+    },
+    "1227": {
+      "chapter_number": 1227,
+      "global_number": 1227,
+      "local_number": 8,
+      "num_shlokas": 46,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1227.json"
+    },
+    "1228": {
+      "chapter_number": 1228,
+      "global_number": 1228,
+      "local_number": 9,
+      "num_shlokas": 65,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1228.json"
+    },
+    "1229": {
+      "chapter_number": 1229,
+      "global_number": 1229,
+      "local_number": 10,
+      "num_shlokas": 56,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1229.json"
+    },
+    "1230": {
+      "chapter_number": 1230,
+      "global_number": 1230,
+      "local_number": 11,
+      "num_shlokas": 63,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1230.json"
+    },
+    "1231": {
+      "chapter_number": 1231,
+      "global_number": 1231,
+      "local_number": 12,
+      "num_shlokas": 45,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1231.json"
+    },
+    "1232": {
+      "chapter_number": 1232,
+      "global_number": 1232,
+      "local_number": 13,
+      "num_shlokas": 45,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1232.json"
+    },
+    "1233": {
+      "chapter_number": 1233,
+      "global_number": 1233,
+      "local_number": 14,
+      "num_shlokas": 41,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1233.json"
+    },
+    "1234": {
+      "chapter_number": 1234,
+      "global_number": 1234,
+      "local_number": 15,
+      "num_shlokas": 67,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1234.json"
+    },
+    "1235": {
+      "chapter_number": 1235,
+      "global_number": 1235,
+      "local_number": 16,
+      "num_shlokas": 87,
+      "file": "subparva_74_shalya_vadha_parva/chapter_1235.json"
+    }
+  }
+}

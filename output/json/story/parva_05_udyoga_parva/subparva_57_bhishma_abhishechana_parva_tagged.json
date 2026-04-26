@@ -1,0 +1,603 @@
+{
+  "name": "Bhishma-Abhishechana Parva",
+  "subparva_number": 57,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 4,
+    "num_shlokas": 122
+  },
+  "note": "Vadha means the act of killing. This section is so named because it is about the killing of Bhishma. The first ten days of the battle have Bhish-ma as the commander-in-chief. This section thus describes the first ten days of the battle. On the first day, Virata�s son, Uttara, is killed. The second day has the Pandavas victorious, the highlight being Bhima�s destruction of the Kalingas. There is a ding-dong battle on the third day, with Bhishma triumphant initially (which is when Krishna decides to take up arms), followed by Arjuna�s victory. The Pandavas triumph on the fourth day and fourteen of Duryodhana�s brothers are killed by Bhima. While there is a lot of fighting on the fifth day, the highlight is Bhurishrava�s killing of ten of Satyaki�s sons. On balance, the Pandava side is more successful on the sixth day. While there is a great deal of fighting, there is nothing that merits a special mention on the seventh day. On the eighth day, Bhima kills eight of Duryodhana�s brothers. Tra-vat, Arjuna�s son, kills several of Shakuni�s brothers and is himself killed by the rakshasa Alambusa. Bhima again kills nine of Duryodhana�s brothers. On the ninth day, the Pandavas eventually get the worst of it. Krishna decides to kill Bhishma and is restrained by Arjuna. The Pan-davas consult Bhishma about how he may be killed and are advised to use Shikhandi. The tenth day is marked by Bhishma�s downfall. CHAPTER 901(41)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "816": {
+      "global_number": 816,
+      "local_number": 153,
+      "num_shlokas": 35,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Dhritarashtra’s son joined his hands in salutation and spoke these words to Shantanu’s son, Bhishma, accompanied by all the lords of the earth. “When there is a war, without a general, even a large army is destroyed like a nest of ants. The views of two leaders are rarely identical and they seek to rival each other in valour and fame. O immensely wise one! It is said that all the brahmanas once assembled together. They raised kusha grass as ﬂags and attacked the inﬁnitely energetic Haihayas. O grandfather! They were followed by the vaishyas and the shudras. The three varnas were on one side. On the other side, there were the bulls among the kshatriyas. In that war, the three varnas were repulsed again and again. Though the kshatriyas were alone, they triumphed over that giant army. O grandfather! The supreme among brahmanas asked the kshatriyas about this and the ones who knew about dharma told them about the precise reason. ‘In war, we listen to a single one who is immensely intelligent. All of you separately follow your own inclinations.’ Then the brahmanas made a single brahmana their general. He was brave and skilled in policy and they defeated the kshatriyas. Those who choose a single skilled and brave one, untainted and devoted to their welfare, as their general are victorious over the enemies in battle. You are the equal of Ushanas{1}. You have always been my well-wisher. You cannot be led astray. You are established in dharma. Become our general. You are like a sun to those who shine. You are like a moon to the herbs. You are like Kubera to the yakshas. You are like Vasava to the Maruts. You are like Meru to the mountains. You are like Suparna{2} to the birds. You are like Kumara{3} to the demons{4}. You are like the bearer of oblations{5} to the Vasus. When we are protected by you, like the residents of heaven are by Shakra, we will certainly be invincible, even to the thirty gods. You march in front of us, like the son of the ﬁre{6} leads the gods. We will follow you, like cows follow a bull.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Dhritarashtra’s son joined his hands in salutation and spoke these words to Shantanu’s son, Bhishma, accompanied by all the lords of the earth.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“When there is a war, without a general, even a large army is destroyed like a nest of ants. The views of two leaders are rarely identical and they seek to rival each other in valour and fame. O immensely wise one! It is said that all the brahmanas once assembled together. They raised kusha grass as ﬂags and attacked the inﬁnitely energetic Haihayas. O grandfather! They were followed by the vaishyas and the shudras. The three varnas were on one side. On the other side, there were the bulls among the kshatriyas. In that war, the three varnas were repulsed again and again. Though the kshatriyas were alone, they triumphed over that giant army. O grandfather! The supreme among brahmanas asked the kshatriyas about this and the ones who knew about dharma told them about the precise reason. ‘In war, we listen to a single one who is immensely intelligent. All of you separately follow your own inclinations.’ Then the brahmanas made a single brahmana their general. He was brave and skilled in policy and they defeated the kshatriyas. Those who choose a single skilled and brave one, untainted and devoted to their welfare, as their general are victorious over the enemies in battle. You are the equal of Ushanas{1}. You have always been my well-wisher. You cannot be led astray. You are established in dharma. Become our general. You are like a sun to those who shine. You are like a moon to the herbs. You are like Kubera to the yakshas. You are like Vasava to the Maruts. You are like Meru to the mountains. You are like Suparna{2} to the birds. You are like Kumara{3} to the demons{4}. You are like the bearer of oblations{5} to the Vasus. When we are protected by you, like the residents of heaven are by Shakra, we will certainly be invincible, even to the thirty gods. You march in front of us, like the son of the ﬁre{6} leads the gods. We will follow you, like cows follow a bull.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Bhishma replied, “O mighty-armed one! O descendant of the Bharata lineage! It is exactly as you say. However, you and the Pandavas are equal before me. O lord of men! I must speak about their welfare also. However, because I have pledged to do so, I must ﬁght in your cause. I do not see any other warrior on earth who is my equal, with the exception of that tiger among men, Kunti’s son, Dhananjaya. He is mighty-armed. He knows all the divine weapons. However, Pandava will never ﬁght me openly in the war. In an instant, through the strength of my weapons, I can make this entire universe destitute of men, gods, asuras and rakshasas. O lord of men! But Pandu’s sons cannot be slain by me. Therefore, I will always slay ten thousand warriors every day. O descendant of the Kuru lineage! Unless they kill me ﬁrst in an encounter, in this way, I will bring about their downfall. O king! There is one condition under which I will willingly become your general, not otherwise. You should hear about this. O lord of the earth! Let Karna or me ﬁght ﬁrst. This son of a suta always seeks to rival me in battle.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhishma replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhishma",
+              "text": "“O mighty-armed one! O descendant of the Bharata lineage! It is exactly as you say. However, you and the Pandavas are equal before me. O lord of men! I must speak about their welfare also. However, because I have pledged to do so, I must ﬁght in your cause. I do not see any other warrior on earth who is my equal, with the exception of that tiger among men, Kunti’s son, Dhananjaya. He is mighty-armed. He knows all the divine weapons. However, Pandava will never ﬁght me openly in the war. In an instant, through the strength of my weapons, I can make this entire universe destitute of men, gods, asuras and rakshasas. O lord of men! But Pandu’s sons cannot be slain by me. Therefore, I will always slay ten thousand warriors every day. O descendant of the Kuru lineage! Unless they kill me ﬁrst in an encounter, in this way, I will bring about their downfall. O king! There is one condition under which I will willingly become your general, not otherwise. You should hear about this. O lord of the earth! Let Karna or me ﬁght ﬁrst. This son of a suta always seeks to rival me in battle.”",
+              "color": "#457B9D",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Karna said, “O king! As long as Gangeya{7} is alive, I will never ﬁght. I will ﬁght with the one who wields the Gandiva only after Bhishma has been killed.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Karna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@karna",
+              "text": "“O king! As long as Gangeya{7} is alive, I will never ﬁght. I will ﬁght with the one who wields the Gandiva only after Bhishma has been killed.”",
+              "color": "#F77F00",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘In the prescribed way, Dhritarashtra’s son then consecrated Bhishma, the giver of large quantities of dakshina, as the general and he blazed forth. On the king’s instructions, drums and conch shells were sounded in hundreds and thousands. Eager men played musical instruments. There were many types of roars like lions and the noise of mounts. A shower of blood and mud descended from the sky. There were storms and the earth trembled. There was the sound of elephants trumpeting. All this made the minds of all the warriors downcast. There were invisible voices. Meteors streaked through the sky. Jackals uttered fearful howls. The directions seemed to blaze. O king! When the king consecrated Gangeya as the general, there were terrible portents in hundreds. After consecrating Bhishma, the destroyer of enemy forces, as the general, he{8} made the foremost of brahmanas recite and gave them a lot of cattle and gold. Strengthened by their benedictions and surrounded by his soldiers, he placed the son of the water in the forefront and marched out with his brothers. With a large army, he went to Kurukshetra. With Karna, Kourava surveyed Kurushetra. O lord of men! He then set up camp in a level spot. This region was pleasant and without salinity. There was plenty of fodder and kindling. The camp was as radiant as Hastinapura itself.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘In the prescribed way, Dhritarashtra’s son then consecrated Bhishma, the giver of large quantities of dakshina, as the general and he blazed forth. On the king’s instructions, drums and conch shells were sounded in hundreds and thousands. Eager men played musical instruments. There were many types of roars like lions and the noise of mounts. A shower of blood and mud descended from the sky. There were storms and the earth trembled. There was the sound of elephants trumpeting. All this made the minds of all the warriors downcast. There were invisible voices. Meteors streaked through the sky. Jackals uttered fearful howls. The directions seemed to blaze. O king! When the king consecrated Gangeya as the general, there were terrible portents in hundreds. After consecrating Bhishma, the destroyer of enemy forces, as the general, he{8} made the foremost of brahmanas recite and gave them a lot of cattle and gold. Strengthened by their benedictions and surrounded by his soldiers, he placed the son of the water in the forefront and marched out with his brothers. With a large army, he went to Kurukshetra. With Karna, Kourava surveyed Kurushetra. O lord of men! He then set up camp in a level spot. This region was pleasant and without salinity. There was plenty of fodder and kindling. The camp was as radiant as Hastinapura itself.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "817": {
+      "global_number": 817,
+      "local_number": 154,
+      "num_shlokas": 34,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya said, ‘Bhishma, great in soul and son of the water, was supreme among those who wielded weapons. He was the grandfather of the Bharatas and was like a standard for the entire earth. He was Brihaspati’s equal in intelligence. He was the earth’s equal in forgiveness. He was the ocean’s equal in gravity. He was the equal of the Himalayas in steadfastness. He was like a Prajapati in generosity. He was like the sun in energy. In destroying enemies with a shower of arrows, he was like the great Indra. He was consecrated in that terrible sacriﬁce of war, which made the body hair stand up, for many nights. On hearing this, what did mighty-armed King Yudhishthira, supreme among all wielders of weapons, say? What did Bhimasena, Arjuna and Krishna say?’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Bhishma, great in soul and son of the water, was supreme among those who wielded weapons. He was the grandfather of the Bharatas and was like a standard for the entire earth. He was Brihaspati’s equal in intelligence. He was the earth’s equal in forgiveness. He was the ocean’s equal in gravity. He was the equal of the Himalayas in steadfastness. He was like a Prajapati in generosity. He was like the sun in energy. In destroying enemies with a shower of arrows, he was like the great Indra. He was consecrated in that terrible sacriﬁce of war, which made the body hair stand up, for many nights. On hearing this, what did mighty-armed King Yudhishthira, supreme among all wielders of weapons, say? What did Bhimasena, Arjuna and Krishna say?’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana replied, ‘Yudhishthira was immensely intelligent and was skilled about dharma and artha to be followed in times of calamities. He summoned all his brothers and Satvata Vasudeva. The foremost among speakers spoke these comforting words. “Survey the army. Be attentive and armoured. Our ﬁrst battle will be with the grandfather. Therefore, look for seven leaders for the army{9}.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana replied,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Yudhishthira was immensely intelligent and was skilled about dharma and artha to be followed in times of calamities. He summoned all his brothers and Satvata Vasudeva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The foremost among speakers spoke these comforting words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_foremost_among_speakers",
+              "text": "“Survey the army. Be attentive and armoured. Our ﬁrst battle will be with the grandfather. Therefore, look for seven leaders for the army{9}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Vasudeva said, “O bull among the Bharata lineage! Now that the time has come, you have spoken what should be said. The words that you have spoken are appropriate. O mighty-armed one! What you have proposed as the next step appeals to me. Let us choose seven leaders for your army and consecrate them.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vasudeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@krishna",
+              "text": "“O bull among the Bharata lineage! Now that the time has come, you have spoken what should be said. The words that you have spoken are appropriate. O mighty-armed one! What you have proposed as the next step appeals to me. Let us choose seven leaders for your army and consecrate them.”",
+              "color": "#6C5CE7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "4": {
+          "raw": "Vaishampayana said, ‘Then Yudhishthira summoned Drupada, Virata, the bull among the Shinis{10}, Dhrishtadyumna of Panchala, King Dhrishtaketu, Shikhandi of Panchala and Sahadeva of Magadha. These seven brave and great archers were delighted at the prospect of war. In the appropriate fashion, he consecrated them as the leaders of his army and Dhrishtadyumna as the overall general. He{11} arose from the ﬁre for Drona’s destruction. When all those great-souled ones were assembled together, Gudakesha Dhananjaya was made the lord of the generals. Sankarshana’s{12} younger brother, the handsome and immensely intelligent Janardana, was made Arjuna’s guide and the controller of his horses.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then Yudhishthira summoned Drupada, Virata, the bull among the Shinis{10}, Dhrishtadyumna of Panchala, King Dhrishtaketu, Shikhandi of Panchala and Sahadeva of Magadha. These seven brave and great archers were delighted at the prospect of war. In the appropriate fashion, he consecrated them as the leaders of his army and Dhrishtadyumna as the overall general. He{11} arose from the ﬁre for Drona’s destruction. When all those great-souled ones were assembled together, Gudakesha Dhananjaya was made the lord of the generals. Sankarshana’s{12} younger brother, the handsome and immensely intelligent Janardana, was made Arjuna’s guide and the controller of his horses.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘On seeing that a great battle was imminent, the wielder of the plough{13} entered King Pandava’s residence, in the company of Akrura and the others, Gada, Samba, Ulmuka and so on, with Rukmini’s son{14} and Akrura’s son led by Charudeshna. The mighty-armed one was protected by the foremost among the Vrishnis, who arrived like tigers intoxicated with their strength, like the Maruts protect Vasava. He was dressed in a blue silk garment and he was like the summit of Mount Kailasa. The illustrious one’s gait was like that of a lion. His eyes were red with intoxication. On seeing him, Dharmaraja and the immensely radiant Keshava arose and so did Partha Vrikodara, the performer of terrible deeds, the wielder of the Gandiva, and all the other kings who were present there. All of them approached and worshipped the one who had the plough as a weapon. With Vasudeva leading the way, King Pandava grasped him by the hand and all of them welcomed him. The one with the plough as a weapon saluted Virata, Drupada and the elders. The destroyer of enemies then sat down with Yudhishthira.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On seeing that a great battle was imminent, the wielder of the plough{13} entered King Pandava’s residence, in the company of Akrura and the others, Gada, Samba, Ulmuka and so on, with Rukmini’s son{14} and Akrura’s son led by Charudeshna. The mighty-armed one was protected by the foremost among the Vrishnis, who arrived like tigers intoxicated with their strength, like the Maruts protect Vasava. He was dressed in a blue silk garment and he was like the summit of Mount Kailasa. The illustrious one’s gait was like that of a lion. His eyes were red with intoxication. On seeing him, Dharmaraja and the immensely radiant Keshava arose and so did Partha Vrikodara, the performer of terrible deeds, the wielder of the Gandiva, and all the other kings who were present there. All of them approached and worshipped the one who had the plough as a weapon. With Vasudeva leading the way, King Pandava grasped him by the hand and all of them welcomed him. The one with the plough as a weapon saluted Virata, Drupada and the elders. The destroyer of enemies then sat down with Yudhishthira.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Rohini’s son{15} glanced at Vasudeva. When all the kings were seated around him, he said, “There will be an extremely fearful and terrible slaughter of men. I think that this is certainly because of destiny and is incapable of being averted. When you emerge from the battle with your well-wishers, I hope that I will see you again, without disease and without injuries on your bodies. There is no doubt that all the assembled kshatriya kings have been cooked by fate. There will be a great slaughter, with ﬂesh, blood and mud. I repeatedly spoke to Vasudeva in private. ‘O Madhusudana! Behave impartially towards your relatives. The Pandavas and King Duryodhana are the same to us. Therefore, if he wishes, you should help him again and again.’ But because of you, Madhusudana did not act in accordance with my words. He has looked towards Dhananjaya and been devoted to you in every sentiment. O descendant of the Bharata lineage! It is my view that the victory of the Pandavas is certain, because that is what Vasudeva has decided. Without Krishna, I have no interest in looking at this world. Therefore, I have followed whatever Keshava desires. But both these brave ones, Bhima and King Duryodhana, skilled in ﬁghting with clubs, are my students and are equal in my affection. Therefore, I will visit the sacred tirthas along the Sarasvati. I cannot remain indifferent to the destruction of the Kouravas.” Having spoken this, the mighty-armed one took his leave of the Pandavas. Rama left to visit the tirthas, asking Madhusudana to return.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Rohini’s son{15} glanced at Vasudeva.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "When all the kings were seated around him, he said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@all_the_kings",
+              "text": "“There will be an extremely fearful and terrible slaughter of men. I think that this is certainly because of destiny and is incapable of being averted. When you emerge from the battle with your well-wishers, I hope that I will see you again, without disease and without injuries on your bodies. There is no doubt that all the assembled kshatriya kings have been cooked by fate. There will be a great slaughter, with ﬂesh, blood and mud. I repeatedly spoke to Vasudeva in private. ‘O Madhusudana! Behave impartially towards your relatives. The Pandavas and King Duryodhana are the same to us. Therefore, if he wishes, you should help him again and again.’ But because of you, Madhusudana did not act in accordance with my words. He has looked towards Dhananjaya and been devoted to you in every sentiment. O descendant of the Bharata lineage! It is my view that the victory of the Pandavas is certain, because that is what Vasudeva has decided. Without Krishna, I have no interest in looking at this world. Therefore, I have followed whatever Keshava desires. But both these brave ones, Bhima and King Duryodhana, skilled in ﬁghting with clubs, are my students and are equal in my affection. Therefore, I will visit the sacred tirthas along the Sarasvati. I cannot remain indifferent to the destruction of the Kouravas.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spoken this, the mighty-armed one took his leave of the Pandavas. Rama left to visit the tirthas, asking Madhusudana to return.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "818": {
+      "global_number": 818,
+      "local_number": 155,
+      "num_shlokas": 38,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘At that time, the great-souled King Bhishmaka Hiranyalomna, who was a friend of Indra himself, arrived. He was the immensely famous lord of the Bhojas and Ahritis and was the lord of the southern region{16}. His son was famous in the world as Rukmi. The lion of the kimpurushas lived on Gandhamadana and he became his student and learnt the entire science of war, with its four branches, from him{17}. The mighty-armed one obtained the great Indra’s bow, which was divine and indestructible, and equal to Gandiva and Sharnga{18} in energy. Those who reside in heaven possess three divine bows—Varuna’s Gandiva, the great Indra’s bow Vijaya and Vishnu’s Sharnga, which is said to be a celestial bow that is full of energy. Krishna wields it and strikes terror in the soldiers of enemies. The son of the chastiser of Paka{19} obtained Gandiva from the ﬁre god in Khandava. The immensely energetic Rukmi obtained Vijaya from Druma. Hrishikesha obtained the supreme bow Sharnga after destroying the nooses of Mura, killing the energetic Mura, killing Naraka, the son of the earth, and obtaining sixteen thousand women and many jewels{20}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘At that time, the great-souled King Bhishmaka Hiranyalomna, who was a friend of Indra himself, arrived. He was the immensely famous lord of the Bhojas and Ahritis and was the lord of the southern region{16}. His son was famous in the world as Rukmi. The lion of the kimpurushas lived on Gandhamadana and he became his student and learnt the entire science of war, with its four branches, from him{17}. The mighty-armed one obtained the great Indra’s bow, which was divine and indestructible, and equal to Gandiva and Sharnga{18} in energy. Those who reside in heaven possess three divine bows—Varuna’s Gandiva, the great Indra’s bow Vijaya and Vishnu’s Sharnga, which is said to be a celestial bow that is full of energy. Krishna wields it and strikes terror in the soldiers of enemies. The son of the chastiser of Paka{19} obtained Gandiva from the ﬁre god in Khandava. The immensely energetic Rukmi obtained Vijaya from Druma. Hrishikesha obtained the supreme bow Sharnga after destroying the nooses of Mura, killing the energetic Mura, killing Naraka, the son of the earth, and obtaining sixteen thousand women and many jewels{20}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Rukmi obtained the bow Vijaya, which roared like a cloud and was capable of terrifying the universe. He came to the Pandavas. The brave one was insolent of the strength of his arms and had not forgiven the earlier instance of Rukmini being abducted by the intelligent Vasudeva. He had taken an oath that he would not return without killing Janardana. He had collected a giant army with four branches{21}, capable of attacking at a great distance. With this, he had pursued Varshneya, supreme among those who wield all weapons, wishing to kill him. It possessed many weapons and armour and was like the overﬂowing Ganga. He attacked Varshneya, the lord and master of all yoga. O king! But he was repulsed and ashamed. He did not return to Kundina{22}. At the spot where the destroyer of enemy heroes was vanquished by Krishna in battle, he constructed a supreme city by the name of Bhojakata{23}. It had a large army and many horses and elephants. O king! This city is still famous on earth by the name of Bhojakata. Surrounded by a large army, the immensely valorous king of Bhoja came to the Pandavas with an akshouhini. He possessed armour, a sword, arrows, a bow, guards for his palms, a chariot and a ﬂag that had the complexion of the sun. He entered that large camp of soldiers. When the Pandavyas got to know, to bring pleasure to Vasudeva, King Yudhishthira arose and honoured him. On being shown respect by the sons of Pandu and having received the appropriate homage, he saluted all of them in return. After he had rested with his soldiers, in the midst of those brave ones, he spoke to Kunti’s son, Dhananjaya, “O Pandava! If you are afraid, I will stand as your aide on the ﬁeld of battle. In the course of the war, I will help you so that your enemies will not be able to bear it. There is no man on this earth who is equal to me in valour. O Phalguna! When I have killed your enemies in battle, I will hand them over to you.” Having been thus addressed in the presence of Dharmaraja and Keshava, in the hearing of all the kings of the earth and the others, the intelligent Kounteya glanced towards Vasudeva and Pandava Dharmaraja. He laughed and spoke in a tone of friendliness. “O brave one! At the time of the expedition with the cattle, I fought with the immensely powerful gandharvas. Who was my aide then and who was my friend then? I fought in the terrible battle of Khandava, infested by gods and danavas. Who was my aide then? I fought in a battle with the Nivatakavachas and the Kalakeya danavas. Who was my aide then? O son{24}! I fought with many Kurus in the city of Virata. Who was my aide then? In battle, I am indebted to Rudra, Shakra, Vaishravana{25}, Yama, Varuna, the ﬁre god, Kripa, Drona and Madhava. I ﬁrmly wield the divine bow Gandiva, full of energy. I possess inexhaustible quivers. I am sustained by divine weapons. I have been born in the lineage of the Kouravas. In particular, I am Pandu’s son. I call myself Drona’s student. Vasudeva is my aide. How can I cause ill fame to myself by saying that I am afraid? O tiger among men! I cannot speak such words to the wielder of the vajra himself. O mighty-armed one! I am not frightened. I do not need your help. Go wherever you wish to. Or remain here, if it so pleases you.” Rukmi then returned with that army, which was like an ocean. O bull among the Bharata lineage! In a similar fashion, he approached Duryodhana. Arriving there, that lord of the earth spoke in the same way. But since he prided himself on his valour, he was rebuffed there too{26}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Rukmi obtained the bow Vijaya, which roared like a cloud and was capable of terrifying the universe. He came to the Pandavas. The brave one was insolent of the strength of his arms and had not forgiven the earlier instance of Rukmini being abducted by the intelligent Vasudeva. He had taken an oath that he would not return without killing Janardana. He had collected a giant army with four branches{21}, capable of attacking at a great distance. With this, he had pursued Varshneya, supreme among those who wield all weapons, wishing to kill him. It possessed many weapons and armour and was like the overﬂowing Ganga. He attacked Varshneya, the lord and master of all yoga. O king! But he was repulsed and ashamed. He did not return to Kundina{22}. At the spot where the destroyer of enemy heroes was vanquished by Krishna in battle, he constructed a supreme city by the name of Bhojakata{23}. It had a large army and many horses and elephants. O king! This city is still famous on earth by the name of Bhojakata. Surrounded by a large army, the immensely valorous king of Bhoja came to the Pandavas with an akshouhini. He possessed armour, a sword, arrows, a bow, guards for his palms, a chariot and a ﬂag that had the complexion of the sun. He entered that large camp of soldiers. When the Pandavyas got to know, to bring pleasure to Vasudeva, King Yudhishthira arose and honoured him. On being shown respect by the sons of Pandu and having received the appropriate homage, he saluted all",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "of them in return. After he had rested with his soldiers, in the midst of those brave ones, he spoke to Kunti’s son, Dhananjaya",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@of_them_in_return",
+              "text": "“O Pandava! If you are afraid, I will stand as your aide on the ﬁeld of battle. In the course of the war, I will help you so that your enemies will not be able to bear it. There is no man on this earth who is equal to me in valour. O Phalguna! When I have killed your enemies in battle, I will hand them over to you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed in the presence of Dharmaraja and Keshava, in the hearing of all the kings of the earth and the others,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the intelligent Kounteya glanced towards Vasudeva and Pandava Dharmaraja. He laughed and spoke in a tone of friendliness",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_intelligent_kounteya_glanced_towards",
+              "text": "“O brave one! At the time of the expedition with the cattle, I fought with the immensely powerful gandharvas. Who was my aide then and who was my friend then? I fought in the terrible battle of Khandava, infested by gods and danavas. Who was my aide then? I fought in a battle with the Nivatakavachas and the Kalakeya danavas. Who was my aide then? O son{24}! I fought with many Kurus in the city of Virata. Who was my aide then? In battle, I am indebted to Rudra, Shakra, Vaishravana{25}, Yama, Varuna, the ﬁre god, Kripa, Drona and Madhava. I ﬁrmly wield the divine bow Gandiva, full of energy. I possess inexhaustible quivers. I am sustained by divine weapons. I have been born in the lineage of the Kouravas. In particular, I am Pandu’s son. I call myself Drona’s student. Vasudeva is my aide. How can I cause ill fame to myself by saying that I am afraid? O tiger among men! I cannot speak such words to the wielder of the vajra himself. O mighty-armed one! I am not frightened. I do not need your help. Go wherever you wish to. Or remain here, if it so pleases you.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Rukmi then returned with that army, which was like an ocean. O bull among the Bharata lineage! In a similar fashion, he approached Duryodhana. Arriving there, that lord of the earth spoke in the same way. But since he prided himself on his valour, he was rebuffed there too{26}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘O great king! Thus, two of them withdrew from the war—the Varshneya who was Rohini’s son and Rukmi, the lord of the earth. Rama went on a visit to the tirthas and after Bhishmaka’s son had also departed, the Pandavas again seated themselves in consultations. O descendant of the Bharata lineage! Frequented by all the kings, Dharmaraja’s assembly looked like the ﬁrmament glittering with stars, with the moon lording over it.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O great king! Thus, two of them withdrew from the war—the Varshneya who was Rohini’s son and Rukmi, the lord of the earth. Rama went on a visit to the tirthas and after Bhishmaka’s son had also departed, the Pandavas again seated themselves in consultations. O descendant of the Bharata lineage! Frequented by all the kings, Dharmaraja’s assembly looked like the ﬁrmament glittering with stars, with the moon lording over it.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "819": {
+      "global_number": 819,
+      "local_number": 156,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘O bull among brahmanas! When the soldiers and battle formations had been marshalled in Kurukshetra, driven by destiny, what did the Kurus do?’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Janamejaya asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O bull among brahmanas! When the soldiers and battle formations had been marshalled in Kurukshetra, driven by destiny, what did the Kurus do?’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘O bull among the Bharata lineage! The soldiers and battle formations were ready. O great king! Dhritarashtra spoke these words to Sanjaya. “O Sanjaya! Come and tell me everything and omit nothing, about the marshalling of soldiers in the armies of the Kurus and the Pandavas. I think that destiny is supreme and human endeavour amounts to nothing. I know about the taints and great destruction a war will give rise to. But I am not able to restrain my foolish son, who was deceitful in gambling with the dice. I am incapable of restraining him and ensuring my own self-interest. O suta! I have the intelligence to foresee these evils. But when I meet Duryodhana, my mind becomes perverse. O Sanjaya! That being the case, what is going to happen will occur. That apart, the revered dharma of a kshatriya is to give up his life in battle.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O bull among the Bharata lineage! The soldiers and battle formations were ready.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "O great king! Dhritarashtra spoke these words to Sanjaya",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@o_great_king",
+              "text": "“O Sanjaya! Come and tell me everything and omit nothing, about the marshalling of soldiers in the armies of the Kurus and the Pandavas. I think that destiny is supreme and human endeavour amounts to nothing. I know about the taints and great destruction a war will give rise to. But I am not able to restrain my foolish son, who was deceitful in gambling with the dice. I am incapable of restraining him and ensuring my own self-interest. O suta! I have the intelligence to foresee these evils. But when I meet Duryodhana, my mind becomes perverse. O Sanjaya! That being the case, what is going to happen will occur. That apart, the revered dharma of a kshatriya is to give up his life in battle.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Sanjaya said, “O great king! The question that you have posed is deserving of you. But it is not proper that you should lay the entire blame on Duryodhana. O king! Listen especially to what I have to say on this. If a man confronts a calamity because of his own evil deeds, he should not ascribe the fault to time or destiny. O great king! If a man commits every deed that is reprehensible, because of having committed those censurable crimes, he deserves to be killed by all the worlds. O foremost among men! When the Pandavas and their advisers were deceitfully defeated in the game of dice, they bore their hardships because of their respect for you. Hear from me about the slaughter that will happen in the course of the war of horses, elephants and inﬁnitely energetic kings. O great king! Be steadfast when you hear about the destruction of all the worlds and the slaughter of all beings in the great war. Do not be distracted. A man is not the agent of his good or evil deeds. A man is like a wooden puppet on a string. Some are controlled by the great lord, others by the wishes of destiny, and still others because of their earlier deeds. These three different sources can be seen.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sanjaya said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@sanjaya",
+              "text": "“O great king! The question that you have posed is deserving of you. But it is not proper that you should lay the entire blame on Duryodhana. O king! Listen especially to what I have to say on this. If a man confronts a calamity because of his own evil deeds, he should not ascribe the fault to time or destiny. O great king! If a man commits every deed that is reprehensible, because of having committed those censurable crimes, he deserves to be killed by all the worlds. O foremost among men! When the Pandavas and their advisers were deceitfully defeated in the game of dice, they bore their hardships because of their respect for you. Hear from me about the slaughter that will happen in the course of the war of horses, elephants and inﬁnitely energetic kings. O great king! Be steadfast when you hear about the destruction of all the worlds and the slaughter of all beings in the great war. Do not be distracted. A man is not the agent of his good or evil deeds. A man is like a wooden puppet on a string. Some are controlled by the great lord, others by the wishes of destiny, and still others because of their earlier deeds. These three different sources can be seen.”",
+              "color": "#A8D5A2",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

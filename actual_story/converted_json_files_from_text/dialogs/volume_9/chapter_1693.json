@@ -1,0 +1,600 @@
+{
+  "chapter": 1693,
+  "local": 12,
+  "shlokas": 49,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O king! When there is intercourse between a woman and a man, who feels the greater pleasure from this? I have a doubt about this and you should tell me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! When there is intercourse between a woman and a man, who feels the greater pleasure from this? I have a doubt about this and you should tell me.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this connection, the ancient history of a conversation between Bhangashvana and Shakra is recounted, as if there was an old enmity between them. In ancient times, there was a rajarshi named Bhangashvana and he was extremely devoted to dharma. O tiger among men! He was without a son and performed a sacriﬁce for the sake of obtaining a son. The immensely strong one performed a sacriﬁce named Agnishtu{79}, one that is hated by Indra. Mortal beings who desire sons perform this, as atonement for their sins. The immensely fortunate Indra, lord of the gods, got to know about this sacriﬁce. Though the rajarshi was controlled in his soul, he began to search for an internal weakness. After some time, the king went out on a hunt. Taking this to be an opportunity, Shakra confused the king. Confused by Indra, the rajarshi wandered around, alone on his horse. The king could not determine any of the directions and was afﬂicted by hunger and thirst. Afﬂicted by thirst and exhaustion, the king wandered around, here and there. He then saw a beautiful lake and it was full of excellent water. O son! Having alighted from the horse, he made it drink from the lake. When the horse had drunk, the best among kings tied it to a tree. Descending into the lake, the king bathed and assumed the form of a woman. On seeing that he had turned into a woman, the best among kings was ashamed. He was anxious in his senses and consciousness. His entire self was immersed in thoughts. ‘How will I climb onto the horse? How will I return to the city? Because of the sacriﬁce named Agnishtu, one hundred sons have been born from my loins. They have been born as immensely strong ones. What will I tell them, or my wives, well-wishers and the inhabitants of the city and the country? Rishis who have seen the truth about dharma have said that mildness, gentleness and timidity are the qualities of women. The attributes of men are exertion, harshness and valour. Why has my manliness been destroyed and why have I obtained womanhood? Because of these traits of having become a woman, I am no longer interested in climbing onto the horse again.’ With a great deal of effort, the lord of men managed to climb onto the horse. O son! O supreme among kings! Having assumed the form of a woman, he returned to the city.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this connection, the ancient history of a conversation between Bhangashvana and Shakra is recounted, as if there was an old enmity between them. In ancient times, there was a rajarshi named Bhangashvana and he was extremely devoted to dharma. O tiger among men! He was without a son and performed a sacriﬁce for the sake of obtaining a son. The immensely strong one performed a sacriﬁce named Agnishtu{79}, one that is hated by Indra. Mortal beings who desire sons perform this, as atonement for their sins. The immensely fortunate Indra, lord of the gods, got to know about this sacriﬁce. Though the rajarshi was controlled in his soul, he began to search for an internal weakness. After some time, the king went out on a hunt. Taking this to be an opportunity, Shakra confused the king. Confused by Indra, the rajarshi wandered around, alone on his horse. The king could not determine any of the directions and was afﬂicted by hunger and thirst. Afﬂicted by thirst and exhaustion, the king wandered around, here and there. He then saw a beautiful lake and it was full of excellent water. O son! Having alighted from the horse, he made it drink from the lake. When the horse had drunk, the best among kings tied it to a tree. Descending into the lake, the king bathed and assumed the form of a woman. On seeing that he had turned into a woman, the best among kings was ashamed. He was anxious in his senses and consciousness. His entire self was immersed in thoughts. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How will I climb onto the horse? How will I return to the city? Because of the sacriﬁce named Agnishtu, one hundred sons have been born from my loins. They have been born as immensely strong ones. What will I tell them, or my wives, well-wishers and the inhabitants of the city and the country? Rishis who have seen the truth about dharma have said that mildness, gentleness and timidity are the qualities of women. The attributes of men are exertion, harshness and valour. Why has my manliness been destroyed and why have I obtained womanhood? Because of these traits of having become a woman, I am no longer interested in climbing onto the horse again.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " With a great deal of effort, the lord of men managed to climb onto the horse. O son! O supreme among kings! Having assumed the form of a woman, he returned to the city.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“His sons, wives, servants and the inhabitants of the city and the countryside were extremely surprised on seeing him and wanted to know what had happened. The rajarshi, supreme among eloquent ones, had assumed the form of a woman and spoke to them. ‘I went out on a hunt, surrounded by a strong army. Confounded by destiny, I was confused and entered a terrible forest. That forest was extremely fearful. I was afﬂicted by thirst and had lost my senses. I then saw a beautiful lake that was populated by birds. Having bathed there, I assumed the form of a woman. There is no doubt that this is nothing but destiny. This must be because I am not content with my sons, my wives and my riches.’ The best among kings, who had assumed the form of a woman, then spoke to his sons. ‘O sons! Happily enjoy this kingdom. I will leave for the forest.’ Consecrating those one hundred sons, the king left for the forest.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“His sons, wives, servants and the inhabitants of the city and the countryside were extremely surprised on seeing him and wanted to know what had happened. The rajarshi, supreme among eloquent ones, had assumed the form of a woman and spoke to them. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I went out on a hunt, surrounded by a strong army. Confounded by destiny, I was confused and entered a terrible forest. That forest was extremely fearful. I was afﬂicted by thirst and had lost my senses. I then saw a beautiful lake that was populated by birds. Having bathed there, I assumed the form of a woman. There is no doubt that this is nothing but destiny. This must be because I am not content with my sons, my wives and my riches.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The best among kings, who had assumed the form of a woman, then spoke to his sons. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O sons! Happily enjoy this kingdom. I will leave for the forest.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Consecrating those one hundred sons, the king left for the forest.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O son! That woman arrived in an ascetic's hermitage. Through that ascetic and in that hermitage, she gave birth to one hundred sons. Collecting these sons, she returned to her house and told her earlier sons, ‘You are my sons when I was a man. I have obtained these one hundred sons as a woman. O sons! With fraternal sentiments, enjoy this kingdom together.’ Together, they began to enjoy the kingdom, like brothers. Seeing that they were enjoying that excellent kingdom with brotherly affection, Indra of the gods began to think. He was overcome with anger. ‘I seem to have done a good turn to this rajarshi, instead of injuring him{80}.’ Assuming the form of a brahmana, Shatakratu, the king of the gods, went to the city, hoping to spread dissension among the princes. He said, ‘There is no fraternal affection among brothers, even if they happen to be sons of the same father. On account of the kingdom, there was conﬂict between the gods and the asuras, though both were Kashyapa's sons. You are the sons of Bhangashvana. The others are the sons of the ascetic. The gods and the asuras were the sons of Kashyapa. This paternal kingdom is yours. It should not be enjoyed by the sons of the ascetic.’ With Indra having spread dissension, they fought against each other and killed each other.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O son! That woman arrived in an ascetic's hermitage. Through that ascetic and in that hermitage, she gave birth to one hundred sons. Collecting these sons, she returned to her house and told her earlier sons, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You are my sons when I was a man. I have obtained these one hundred sons as a woman. O sons! With fraternal sentiments, enjoy this kingdom together.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Together, they began to enjoy the kingdom, like brothers. Seeing that they were enjoying that excellent kingdom with brotherly affection, Indra of the gods began to think. He was overcome with anger. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I seem to have done a good turn to this rajarshi, instead of injuring him{80}.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Assuming the form of a brahmana, Shatakratu, the king of the gods, went to the city, hoping to spread dissension among the princes. He said, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘There is no fraternal affection among brothers, even if they happen to be sons of the same father. On account of the kingdom, there was conﬂict between the gods and the asuras, though both were Kashyapa's sons. You are the sons of Bhangashvana. The others are the sons of the ascetic. The gods and the asuras were the sons of Kashyapa. This paternal kingdom is yours. It should not be enjoyed by the sons of the ascetic.’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " With Indra having spread dissension, they fought against each other and killed each other.",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Hearing this, the ascetic lady{81} was tormented and started to lament. In the disguise of a brahmana, Indra arrived there and asked her, ‘O one with the beautiful face! Why are you tormented by grief and why are you weeping?’ Seeing the brahmana, the woman piteously replied, ‘O brahmana! Two hundred of my sons have been brought down by destiny. O brahmana! I used to be a king and had one hundred sons. O supreme among brahmanas! They were born from me and were handsome and valiant. On one occasion, I went out for a hunt and was confused in the desolate forest. O supreme among brahmanas! Having bathed in a lake, I assumed the form of a woman. Having established my sons in the kingdom, I departed for the forest. In the form of a woman, through a great-souled ascetic, I obtained one hundred sons. O brahmana! They were born in the hermitage and were conveyed by me to the city. O brahmana! Because of destiny, enmity was generated between them. O Indra among brahmanas! I have been overwhelmed by destiny and that is the reason I am grieving.’ Seeing that she was afﬂicted, Indra spoke these harsh words. ‘O fortunate one! Earlier, you caused me great hardship and your pain has been caused by me. O evil-minded one! You did not invoke Indra through a sacriﬁce and you showed me disrespect. I am Indra. O evil-minded one! That is the reason you have caused an enmity between us.’ Seeing Indra, the rajarshi fell at his feet and bowed her head down. She said, ‘O best among the gods! Be paciﬁed. That sacriﬁce was performed for the sake of a son. O tiger among the gods! There was no intention to injure you and therefore, you should pardon me.’ Seeing that she had prostrated herself, Indra was satisﬁed and granted her a boon. ‘O king! Tell me. Which of your sons do you wish to bring back to life, those born while you were a woman, or those born while you were a man?’ The ascetic lady joined her hands in salutation and replied to Indra, ‘O Vasava! Let the ones born while I was a woman come back to life.’ Surprised and pleased at this, Indra again asked the woman, ‘Why do you dislike the sons you obtained while you were a man? Why is it that you entertain greater affection for those who were born while you were a woman? I wish to hear the reason behind this. You should tell me.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Hearing this, the ascetic lady{81} was tormented and started to lament. In the disguise of a brahmana, Indra arrived there and asked her, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the beautiful face! Why are you tormented by grief and why are you weeping?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Seeing the brahmana, the woman piteously replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_woman_piteously",
+          "introduces_label": "the woman piteously",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Two hundred of my sons have been brought down by destiny. O brahmana! I used to be a king and had one hundred sons. O supreme among brahmanas! They were born from me and were handsome and valiant. On one occasion, I went out for a hunt and was confused in the desolate forest. O supreme among brahmanas! Having bathed in a lake, I assumed the form of a woman. Having established my sons in the kingdom, I departed for the forest. In the form of a woman, through a great-souled ascetic, I obtained one hundred sons. O brahmana! They were born in the hermitage and were conveyed by me to the city. O brahmana! Because of destiny, enmity was generated between them. O Indra among brahmanas! I have been overwhelmed by destiny and that is the reason I am grieving.’",
+          "speaker": "the_woman_piteously",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Seeing that she was afﬂicted, Indra spoke these harsh words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! Earlier, you caused me great hardship and your pain has been caused by me. O evil-minded one! You did not invoke Indra through a sacriﬁce and you showed me disrespect. I am Indra. O evil-minded one! That is the reason you have caused an enmity between us.’",
+          "speaker": "the_woman_piteously",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Seeing Indra, the rajarshi fell at his feet and bowed her head down. She said, ",
+          "speaker": "@bhishma",
+          "introduces": "unknown",
+          "introduces_label": "She",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O best among the gods! Be paciﬁed. That sacriﬁce was performed for the sake of a son. O tiger among the gods! There was no intention to injure you and therefore, you should pardon me.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Seeing that she had prostrated herself, Indra was satisﬁed and granted her a boon. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Tell me. Which of your sons do you wish to bring back to life, those born while you were a woman, or those born while you were a man?’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The ascetic lady joined her hands in salutation and replied to Indra, ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Vasava! Let the ones born while I was a woman come back to life.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Surprised and pleased at this, Indra again asked the woman, ",
+          "speaker": "@bhishma",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Why do you dislike the sons you obtained while you were a man? Why is it that you entertain greater affection for those who were born while you were a woman? I wish to hear the reason behind this. You should tell me.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The woman replied, ‘The affection borne by a woman is much greater than that borne by a man. O Shakra! Therefore, the ones born while I was a woman should come back to life.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The woman replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_woman",
+          "introduces_label": "The woman",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The affection borne by a woman is much greater than that borne by a man. O Shakra! Therefore, the ones born while I was a woman should come back to life.’",
+          "speaker": "the_woman",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “Addressed thus, Indra was delighted and spoke these words. ‘O one who speaks the truth! All of your sons will come back to life. O Indra among kings! O one excellent in vows! Ask for another boon that you desire. Ask for whatever you wish, the state of a man, or the state of a woman.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Addressed thus, Indra was delighted and spoke these words. ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one who speaks the truth! All of your sons will come back to life. O Indra among kings! O one excellent in vows! Ask for another boon that you desire. Ask for whatever you wish, the state of a man, or the state of a woman.’",
+          "speaker": "the_woman",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The women replied, ‘O Shakra! O Vasava! If it pleases you, I wish to remain as a woman.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The women replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_women",
+          "introduces_label": "The women",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shakra! O Vasava! If it pleases you, I wish to remain as a woman.’",
+          "speaker": "the_women",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma continued, “Hearing this, Indra of the gods replied to the woman, ‘O lord! Why do you wish to give up your manhood? Why does remaining a woman please you?’ Thus addressed, the supreme among kings, who was in the form of a woman, replied, ‘In an act of intercourse, the pleasure obtained by a woman is greater than that obtained by a man. O Shakra! That is the reason why I desire to remain as a woman. O supreme among gods! Truthfully, there is greater pleasure in being a woman. O lord of the thirty gods! I am content with this state of being a woman. Let me go.’ Hearing this response to what he had asked, he agreed and returned to heaven. O great king! Thus, it is said that women obtain the greater pleasure.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Hearing this, Indra of the gods replied to the woman, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord! Why do you wish to give up your manhood? Why does remaining a woman please you?’",
+          "speaker": "the_women",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed, the supreme among kings, who was in the form of a woman, replied, ",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In an act of intercourse, the pleasure obtained by a woman is greater than that obtained by a man. O Shakra! That is the reason why I desire to remain as a woman. O supreme among gods! Truthfully, there is greater pleasure in being a woman. O lord of the thirty gods! I am content with this state of being a woman. Let me go.’",
+          "speaker": "the_women",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Hearing this response to what he had asked, he agreed and returned to heaven. O great king! Thus, it is said that women obtain the greater pleasure.”",
+          "speaker": "@bhishma",
+          "introduces": "hearing_this_response_to_what_he_had",
+          "introduces_label": "Hearing this response to what he had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

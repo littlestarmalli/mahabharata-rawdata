@@ -1,0 +1,438 @@
+{
+  "chapter": 1250,
+  "local": 31,
+  "shlokas": 60,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra asked, “Thus, my son, the lord of the earth, was censured. The scorcher of enemies is naturally intolerant. What did he do? He has never heard reprimands like these earlier. He has been revered by all the worlds with the respect that is due to a king. O Sanjaya! You have seen how the entire earth, with mlecchas and those who live in mountainous regions, depended on him for favours. Such a person was censured, especially by the sons of Pandu. He was alone and without servants, in a secluded spot. On hearing the words repeatedly spoken by the victorious ones, what did he tell the Pandaveyas? O Sanjaya! Tell me everything about that.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Thus, my son, the lord of the earth, was censured. The scorcher of enemies is naturally intolerant. What did he do? He has never heard reprimands like these earlier. He has been revered by all the worlds with the respect that is due to a king. O Sanjaya! You have seen how the entire earth, with mlecchas and those who live in mountainous regions, depended on him for favours. Such a person was censured, especially by the sons of Pandu. He was alone and without servants, in a secluded spot. On hearing the words repeatedly spoken by the victorious ones, what did he tell the Pandaveyas? O Sanjaya! Tell me everything about that.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya replied, “O king! O Indra among kings! Your son was thus censured by Yudhishthira and his brothers. The lord of men heard those words, which were like poison. Inside the water, he repeatedly let out long and hot sighs. Inside the water, the king repeatedly wrung his hands. Then, having made up his mind to ﬁght, he replied to the king{15}. ‘O Parthas! All of you are served by well-wishers. You possess chariots and mounts. I am alone and miserable. I have been deprived of a chariot. My mounts have been slain. I am without weapons and am surrounded by many rathas. Without weapons, even if I wish to ﬁght, how can I single-handedly ﬁght on foot? O Yudhishthira! Fight with me one at a time. It is not appropriate that one should single-handedly ﬁght with many warriors simultaneously, especially when one is without armour, exhausted and miserable. I am severely wounded in my limbs. My soldiers and mounts are exhausted. O king! I am not frightened of you, or Partha Vrikodara, or Phalguna, or Vasudeva, or the Panchalas, or the twins, or Yuyudhana, or of any of the other soldiers. Single-handedly and wrathfully, I am interested in ﬁghting against all of you. O lord! The deeds of all virtuous men have a source in dharma. Fame follows dharma and I will observe this. I am telling you that I will arise and ﬁght against all of you in the battle. Like a year encounters all the seasons, I will encounter all of you in due course. This is despite you possessing chariots and weapons and me not possessing weapons and a chariot. When night is over, the sun destroys the radiance of all the nakshatras. O Pandavas! Wait. O bull among the Bharata lineage! Today, I will free myself of the debt I owe to the illustrious kshatriyas{16} —Bahlika, Drona, Bhishma, the great-souled Karna, the brave Jayadratha and Bhagadatta, Shalya, the king of Madra, Bhurishrava, my sons, Shakuni Soubala, my friends, well-wishers and kin. I will kill you and your brothers and free myself of that debt today.’ Having said this, the lord of men stopped.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O Indra among kings! Your son was thus censured by Yudhishthira and his brothers. The lord of men heard those words, which were like poison. Inside the water, he repeatedly let out long and hot sighs. Inside the water, the king repeatedly wrung his hands. Then, having made up his mind to ﬁght, he replied to the king{15}. ",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Parthas! All of you are served by well-wishers. You possess chariots and mounts. I am alone and miserable. I have been deprived of a chariot. My mounts have been slain. I am without weapons and am surrounded by many rathas. Without weapons, even if I wish to ﬁght, how can I single-handedly ﬁght on foot? O Yudhishthira! Fight with me one at a time. It is not appropriate that one should single-handedly ﬁght with many warriors simultaneously, especially when one is without armour, exhausted and miserable. I am severely wounded in my limbs. My soldiers and mounts are exhausted. O king! I am not frightened of you, or Partha Vrikodara, or Phalguna, or Vasudeva, or the Panchalas, or the twins, or Yuyudhana, or of any of the other soldiers. Single-handedly and wrathfully, I am interested in ﬁghting against all of you. O lord! The deeds of all virtuous men have a source in dharma. Fame follows dharma and I will observe this. I am telling you that I will arise and ﬁght against all of you in the battle. Like a year encounters all the seasons, I will encounter all of you in due course. This is despite you possessing chariots and weapons and me not possessing weapons and a chariot. When night is over, the sun destroys the radiance of all the nakshatras. O Pandavas! Wait. O bull among the Bharata lineage! Today, I will free myself of the debt I owe to the illustrious kshatriyas{16} —Bahlika, Drona, Bhishma, the great-souled Karna, the brave Jayadratha and Bhagadatta, Shalya, the king of Madra, Bhurishrava, my sons, Shakuni Soubala, my friends, well-wishers and kin. I will kill you and your brothers and free myself of that debt today.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, the lord of men stopped.",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Yudhisthira said, ‘O Suyodhana! It is through good fortune that you have learnt about the dharma of kshatriyas. O great-armed one! It is through good fortune that your mind has turned towards ﬁghting. O Kouravya! It is good fortune that you are brave and it is good fortune that you know about ﬁghting, since you have single-handedly decided to engage all of us in an encounter. Fight with us one at a time, with whatever weapon you wish. While you ﬁght thus, all the others will remain as spectators. O brave one! I am also granting your desire. If you kill any one of us, the kingdom will be yours. Otherwise, be slain and obtain heaven.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Yudhisthira said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhisthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Suyodhana! It is through good fortune that you have learnt about the dharma of kshatriyas. O great-armed one! It is through good fortune that your mind has turned towards ﬁghting. O Kouravya! It is good fortune that you are brave and it is good fortune that you know about ﬁghting, since you have single-handedly decided to engage all of us in an encounter. Fight with us one at a time, with whatever weapon you wish. While you ﬁght thus, all the others will remain as spectators. O brave one! I am also granting your desire. If you kill any one of us, the kingdom will be yours. Otherwise, be slain and obtain heaven.’",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Duryodhana replied, ‘If you are granting me the boon of ﬁghting one at a time, as a weapon, I am choosing the club that I am wielding. Let any one of the brothers come forward, whoever thinks he is capable of ﬁghting me with a club on foot. Let him ﬁght with me. There are many wonderful battles that are fought through circular motions of chariots. This wonderful and great duel on foot, with clubs, will be the only one of its kind. As a ﬁght progresses, men often wish to change weapons. But with your permission, let that not be the case{17}. O mighty-armed one! With a club, I will defeat you and your younger brothers, the Panchalas, the Srinjayas and your other soldiers.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Duryodhana replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If you are granting me the boon of ﬁghting one at a time, as a weapon, I am choosing the club that I am wielding. Let any one of the brothers come forward, whoever thinks he is capable of ﬁghting me with a club on foot. Let him ﬁght with me. There are many wonderful battles that are fought through circular motions of chariots. This wonderful and great duel on foot, with clubs, will be the only one of its kind. As a ﬁght progresses, men often wish to change weapons. But with your permission, let that not be the case{17}. O mighty-armed one! With a club, I will defeat you and your younger brothers, the Panchalas, the Srinjayas and your other soldiers.’",
+          "speaker": "@duryodhana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Yudhisthira said, ‘O Gandhari's son! O Suyodhana! Arise! Arise and ﬁght with me. O powerful one! With the club, ﬁght with us one at a time. O Gandhari's son! Be a man and ﬁght well. Even if you are as fast as thought, you will not remain alive today.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Yudhisthira said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhisthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Gandhari's son! O Suyodhana! Arise! Arise and ﬁght with me. O powerful one! With the club, ﬁght with us one at a time. O Gandhari's son! Be a man and ﬁght well. Even if you are as fast as thought, you will not remain alive today.’",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “Your son, tiger among men, could not tolerate this. From inside the waters, he sighed like an immense serpent. He was repeatedly urged by the goad of the words. He could not tolerate those words, like an intelligent horse cannot bear a whip. The valiant one agitated the waters and forcefully grasped the club, which was heavy, with the essence of stone and decorated with gold. He arose from inside the waters, like an Indra of serpents that was sighing. He penetrated the waters that had been converted to stone, with the iron club on his shoulder. Your son arose, like the sun scorching with its rays. The club was heavy and made out of iron. It was decorated with molten gold. Dhritarashtra's immensely strong son grasped it. With the club in his hand, he looked like a mountain with a peak. He was like the enraged wielder of the trident{18}, stationed among subjects. With the club in his hand, the descendant of the Bharata lineage was as resplendent as the scorching sun. The mighty-armed scorcher of enemies arose, with the club in his hand. All the beings thought that he was Yama, with a staff in his hand. He was like Shakra with the vajra in his hand, or like Hara with the trident in his hand. O lord of men! All the Panchalas saw your son. When they saw him arise, all the Panchalas and Pandaveyas were delighted and grasped each other's palms. Your son, Duryodhana, thought that this was a mark of disrespect. He dilated his eyes in rage and glanced towards the Pandavas. There were three lines on his forehead and he bit his lower lip. He addressed the Pandavas and Keshava. ‘O Pandavas! I will reply to your taunts today. With the Panchalas, I will soon slay you and convey you to Yama's eternal abode.’ Having arisen from the water, your son, Duryodhana, stood there, with the club in his hand and with blood ﬂowing from his body. He was drenched in blood and water and his body was as beautiful as an exuding mountain{19}. When the brave one arose with the club, the Pandavas thought that he was an enraged Vaivasvata, with Kimkara in his hand{20}. His voice thundered like the clouds, or like the bellows of a delighted bull. With the club, the valiant one challenged the Parthas to battle.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Your son, tiger among men, could not tolerate this. From inside the waters, he sighed like an immense serpent. He was repeatedly urged by the goad of the words. He could not tolerate those words, like an intelligent horse cannot bear a whip. The valiant one agitated the waters and forcefully grasped the club, which was heavy, with the essence of stone and decorated with gold. He arose from inside the waters, like an Indra of serpents that was sighing. He penetrated the waters that had been converted to stone, with the iron club on his shoulder. Your son arose, like the sun scorching with its rays. The club was heavy and made out of iron. It was decorated with molten gold. Dhritarashtra's immensely strong son grasped it. With the club in his hand, he looked like a mountain with a peak. He was like the enraged wielder of the trident{18}, stationed among subjects. With the club in his hand, the descendant of the Bharata lineage was as resplendent as the scorching sun. The mighty-armed scorcher of enemies arose, with the club in his hand. All the beings thought that he was Yama, with a staff in his hand. He was like Shakra with the vajra in his hand, or like Hara with the trident in his hand. O lord of men! All the Panchalas saw your son. When they saw him arise, all the Panchalas and Pandaveyas were delighted and grasped each other's palms. Your son, Duryodhana, thought that this was a mark of disrespect. He dilated his eyes in rage and glanced towards the Pandavas. There were three lines on his forehead and he bit his lower lip. He addressed the Pandavas and Keshava. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Pandavas! I will reply to your taunts today. With the Panchalas, I will soon slay you and convey you to Yama's eternal abode.’",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having arisen from the water, your son, Duryodhana, stood there, with the club in his hand and with blood ﬂowing from his body. He was drenched in blood and water and his body was as beautiful as an exuding mountain{19}. When the brave one arose with the club, the Pandavas thought that he was an enraged Vaivasvata, with Kimkara in his hand{20}. His voice thundered like the clouds, or like the bellows of a delighted bull. With the club, the valiant one challenged the Parthas to battle.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Duryodhana said, ‘O Yudhishthira! You will ﬁght with me one at a time. O brave one! It is not appropriate that one should single-handedly ﬁght with many warriors, especially when one is devoid of armour, exhausted, covered with water, severely wounded in the limbs and without mounts and soldiers.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Duryodhana said, ",
+          "speaker": "@sanjaya",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Yudhishthira! You will ﬁght with me one at a time. O brave one! It is not appropriate that one should single-handedly ﬁght with many warriors, especially when one is devoid of armour, exhausted, covered with water, severely wounded in the limbs and without mounts and soldiers.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Yudhishthira replied, ‘O Suyodhana! Where did this wisdom of yours disappear, when many maharathas united and slew Abhimanyu in the battle? O brave one! Don armour and tie your hair. O descendant of the Bharata lineage! Take everything else that you need. O brave one! I will grant you another of your wishes. If you can kill any of the ﬁve Pandavas with whom you wish to ﬁght, you will be king. Otherwise, be slain and obtain heaven. O brave one! With the exception of your life in battle, what else do you desire?’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Yudhishthira replied, ",
+          "speaker": "@sanjaya",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Suyodhana! Where did this wisdom of yours disappear, when many maharathas united and slew Abhimanyu in the battle? O brave one! Don armour and tie your hair. O descendant of the Bharata lineage! Take everything else that you need. O brave one! I will grant you another of your wishes. If you can kill any of the ﬁve Pandavas with whom you wish to ﬁght, you will be king. Otherwise, be slain and obtain heaven. O brave one! With the exception of your life in battle, what else do you desire?’",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “O king! Your son then picked up golden armour and a colourful helmet that was decorated with gold. He fastened the helmet and the sparkling and golden armour. O king! Your son dazzled like a golden mountain. O king! In the ﬁeld of battle, he was armoured and wielded the club. Your son, Duryodhana, spoke to all the Pandavas. ‘Among all the brothers, let anyone ﬁght with me with a club. O bull among the Bharata lineage{21}! I am willing to ﬁght with Sahadeva, Bhima, Nakula, Phalguna, or with you. Having obtained an opportunity to ﬁght, I will be victorious in the ﬁeld of battle. Today, I will accomplish the extremely difﬁcult task of bringing an end to the hostilities. O tiger among men! I will use my club, tied in golden cloth. I think that there is no one who is equal to me in ﬁghting with a club. With the club, I will kill all those who advance against me. Let the one who wishes to ﬁght against me, pick up a club.’” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Your son then picked up golden armour and a colourful helmet that was decorated with gold. He fastened the helmet and the sparkling and golden armour. O king! Your son dazzled like a golden mountain. O king! In the ﬁeld of battle, he was armoured and wielded the club. Your son, Duryodhana, spoke to all the Pandavas. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Among all the brothers, let anyone ﬁght with me with a club. O bull among the Bharata lineage{21}! I am willing to ﬁght with Sahadeva, Bhima, Nakula, Phalguna, or with you. Having obtained an opportunity to ﬁght, I will be victorious in the ﬁeld of battle. Today, I will accomplish the extremely difﬁcult task of bringing an end to the hostilities. O tiger among men! I will use my club, tied in golden cloth. I think that there is no one who is equal to me in ﬁghting with a club. With the club, I will kill all those who advance against me. Let the one who wishes to ﬁght against me, pick up a club.’",
+          "speaker": "@yudhishthira",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

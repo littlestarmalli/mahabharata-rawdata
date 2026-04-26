@@ -1,0 +1,20 @@
+{
+  "name": "Anukramanika Parva",
+  "subparva_number": 1,
+  "source_volume": 1,
+  "file_path": "output/volumes/volume_1_chapters.txt",
+  "details": {
+    "num_chapters": 1,
+    "num_shlokas": 210
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "chapters": {
+    "1": {
+      "chapter_number": 1,
+      "global_number": 1,
+      "local_number": 1,
+      "num_shlokas": 210,
+      "file": "subparva_01_anukramanika_parva/chapter_001.json"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "chapter": 1502,
+  "local": 174,
+  "shlokas": 20,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “O grandfather! Tell me about donations, sacriﬁces, tormenting oneself through austerities and the serving of seniors.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O grandfather! Tell me about donations, sacriﬁces, tormenting oneself through austerities and the serving of seniors.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “If one's soul turns towards what is not beneﬁcial, if the mind is immersed in sin, then one performs wicked deeds and has to suffer from great hardships. Those perpetrators of wicked deeds are born poor. They starve in the midst of famine. They face difﬁculties amidst hardships. They are terriﬁed in the midst of fear. They become dead in the midst of death. The performers of auspicious deeds are wealthy. They are festive amidst festivities. They obtain heaven in celestial regions. They obtain bliss in the midst of happiness. They are devoted and self-controlled. Non-believers are bound by their hands and dispatched to desolate spots frequented by predatory beasts and elephants, full of fear from snakes and thieves. What else should one say about them? However, there are those who speak agreeably towards gods and guests. They are affectionate towards virtuous people. The tranquility of their souls takes them along paths that are travelled by those who are correct{49}. Those who do not ﬁnd reasons in dharma are like shrivelled grain among grains, termites{50} among birds and the worst among men. Ordained destiny follows and swiftly pursues a person, sleeping when he sleeps and accompanying him in everything that he does. It stands when he stands. It walks when he walks. It acts whenever he acts and follows him like a shadow. Whatever acts a man may have done earlier, it has been apportioned that he must enjoy the consequences. Destiny protects the fruits of his own deeds and ﬂings him into these. From every direction, time naturally attracts all beings. At the right time, without being goaded, ﬂowers and fruits blossom on their own. Like that, the consequences of earlier deeds cannot be withdrawn. Repeatedly, destiny determines honour and disrespect, gain and loss, decay and growth, until those have been exhausted. One has oneself determined one's unhappiness. One has oneself determined one's happiness. From the moment one lies down in the womb, one enjoys the outcome of earlier bodies. Whether it is in childhood, youth or old age, whatever auspicious and inauspicious deeds are performed by a person, in exactly that way, he will enjoy this, from one birth to another. A calf seeks out its mother, even in the midst of one thousand cows. In that way, deeds performed earlier follow the doer. A piece of cloth is drenched in water{51}. Like that, subsequent puriﬁcation through fasting, austerities and repentance can lead to a long period of inﬁnite happiness. One can dwell in a hermitage and perform austerities for a long time. One can wash away sins through dharma and be successful in attaining one's wishes. Like birds in the sky and like ﬁsh in the water, the footsteps of a person who is wise in his learning cannot be discerned. There is no need to talk about any other acts of transgression. One must delicately perform the tasks that will ensure one's own welfare.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If one's soul turns towards what is not beneﬁcial, if the mind is immersed in sin, then one performs wicked deeds and has to suffer from great hardships. Those perpetrators of wicked deeds are born poor. They starve in the midst of famine. They face difﬁculties amidst hardships. They are terriﬁed in the midst of fear. They become dead in the midst of death. The performers of auspicious deeds are wealthy. They are festive amidst festivities. They obtain heaven in celestial regions. They obtain bliss in the midst of happiness. They are devoted and self-controlled. Non-believers are bound by their hands and dispatched to desolate spots frequented by predatory beasts and elephants, full of fear from snakes and thieves. What else should one say about them? However, there are those who speak agreeably towards gods and guests. They are affectionate towards virtuous people. The tranquility of their souls takes them along paths that are travelled by those who are correct{49}. Those who do not ﬁnd reasons in dharma are like shrivelled grain among grains, termites{50} among birds and the worst among men. Ordained destiny follows and swiftly pursues a person, sleeping when he sleeps and accompanying him in everything that he does. It stands when he stands. It walks when he walks. It acts whenever he acts and follows him like a shadow. Whatever acts a man may have done earlier, it has been apportioned that he must enjoy the consequences. Destiny protects the fruits of his own deeds and ﬂings him into these. From every direction, time naturally attracts all beings. At the right time, without being goaded, ﬂowers and fruits blossom on their own. Like that, the consequences of earlier deeds cannot be withdrawn. Repeatedly, destiny determines honour and disrespect, gain and loss, decay and growth, until those have been exhausted. One has oneself determined one's unhappiness. One has oneself determined one's happiness. From the moment one lies down in the womb, one enjoys the outcome of earlier bodies. Whether it is in childhood, youth or old age, whatever auspicious and inauspicious deeds are performed by a person, in exactly that way, he will enjoy this, from one birth to another. A calf seeks out its mother, even in the midst of one thousand cows. In that way, deeds performed earlier follow the doer. A piece of cloth is drenched in water{51}. Like that, subsequent puriﬁcation through fasting, austerities and repentance can lead to a long period of inﬁnite happiness. One can dwell in a hermitage and perform austerities for a long time. One can wash away sins through dharma and be successful in attaining one's wishes. Like birds in the sky and like ﬁsh in the water, the footsteps of a person who is wise in his learning cannot be discerned. There is no need to talk about any other acts of transgression. One must delicately perform the tasks that will ensure one's own welfare.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "chapter": 1844,
+  "local": 9,
+  "shlokas": 37,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Indra asked, ‘O Brihaspati! Are you sleeping happily? Are your attendants doing what brings you pleasure? O brahmana! Do you desire the happiness of the gods? Are the gods protecting you?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Brihaspati! Are you sleeping happily? Are your attendants doing what brings you pleasure? O brahmana! Do you desire the happiness of the gods? Are the gods protecting you?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brihaspati replied, ‘O great Indra! I sleep happily in my bed. My attendants do what brings me pleasure. O Shakra! I desire the happiness of the gods. The gods protect me extremely well.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brihaspati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O great Indra! I sleep happily in my bed. My attendants do what brings me pleasure. O Shakra! I desire the happiness of the gods. The gods protect me extremely well.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra asked, ‘What is the reason for your mental or physical grief? Why are you pale and faded now? O brahmana! Tell me about all those who have caused you misery, so that I can kill them.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘What is the reason for your mental or physical grief? Why are you pale and faded now? O brahmana! Tell me about all those who have caused you misery, so that I can kill them.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brihaspati replied, ‘O Maghavan! I am restless because Marutta will perform a great sacriﬁce, at which, excellent dakshina will be offered. I have heard that Samvarta will be the ofﬁciating priest. However, I desire that he should not be the ofﬁciating priest.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brihaspati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Maghavan! I am restless because Marutta will perform a great sacriﬁce, at which, excellent dakshina will be offered. I have heard that Samvarta will be the ofﬁciating priest. However, I desire that he should not be the ofﬁciating priest.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra said, ‘O brahmana! O one who knows about mantras! Having become the foremost priest of the gods, you have obtained all the objects of desire. O brahmana! You have transcended birth and death. What can Samvarta do to you now?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! O one who knows about mantras! Having become the foremost priest of the gods, you have obtained all the objects of desire. O brahmana! You have transcended birth and death. What can Samvarta do to you now?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brihaspati replied, ‘Whenever one sees signs of prosperity in a rival, one is miserable. That is the reason, with the gods, you attack and kill the asuras and their relatives. O Indra of the gods! Listen. I am pale in complexion at the prosperity of my rival. O Maghavan! Use every means to restrain Samvarta and King Marutta.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brihaspati replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Whenever one sees signs of prosperity in a rival, one is miserable. That is the reason, with the gods, you attack and kill the asuras and their relatives. O Indra of the gods! Listen. I am pale in complexion at the prosperity of my rival. O Maghavan! Use every means to restrain Samvarta and King Marutta.’",
+          "speaker": "@brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra said, ‘O Jataveda{24}! Come here. I am asking you to go to Marutta and render Brihaspati to him. Tell him that Brihaspati will be his ofﬁciating priest and make him like one who is immortal.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Jataveda{24}! Come here. I am asking you to go to Marutta and render Brihaspati to him. Tell him that Brihaspati will be his ofﬁciating priest and make him like one who is immortal.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘O Shakra! I will go there as your messenger and offer Brihaspati to Marutta. In this way, I will make Puruhuta's words come true and will do what brings pleasure to Brihaspati.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shakra! I will go there as your messenger and offer Brihaspati to Marutta. In this way, I will make Puruhuta's words come true and will do what brings pleasure to Brihaspati.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vyasa continued, “The great-souled one, with the smoke on his standard, departed as he wished. He whirled and roared, like the wind shattering the wood at the end of the winter, breaking down forests, trees and plants.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vyasa continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vyasa",
+          "introduces_label": "Vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The great-souled one, with the smoke on his standard, departed as he wished. He whirled and roared, like the wind shattering the wood at the end of the winter, breaking down forests, trees and plants.",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Marutta said, ‘I see something extraordinary. The ﬁre god has arrived in his personiﬁed form. O sage{25}! Offer him a seat, water for washing the feet, a cow and water for drinking.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Marutta said, ",
+          "speaker": "@vyasa",
+          "introduces": "@marutta",
+          "introduces_label": "Marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I see something extraordinary. The ﬁre god has arrived in his personiﬁed form. O sage{25}! Offer him a seat, water for washing the feet, a cow and water for drinking.’",
+          "speaker": "@marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘O unblemished one! I am happy to accept the seat, water and water for washing the feet. Know that I have come here as a messenger instructed by Indra.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O unblemished one! I am happy to accept the seat, water and water for washing the feet. Know that I have come here as a messenger instructed by Indra.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 12,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Marutta asked, ‘O one with the smoke on the standard! Is the intelligent king of the gods happy? Is he pleased with us? Are the other gods under his subjugation? O god! Accurately, tell me everything.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Marutta asked, ",
+          "speaker": "@vyasa",
+          "introduces": "@marutta",
+          "introduces_label": "Marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O one with the smoke on the standard! Is the intelligent king of the gods happy? Is he pleased with us? Are the other gods under his subjugation? O god! Accurately, tell me everything.’",
+          "speaker": "@marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 13,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘O Indra among kings! Shakra is extremely happy. He is pleased with you and wishes to free you from old age. O king! All the other gods are under his subjugation. Hear the message of the king of the gods. He has sent me here so that Brihaspati can be handed over to Marutta. O king! Let him be the preceptor and the ofﬁciating priest for your sacriﬁce. You are mortal. But he will make you immortal.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra among kings! Shakra is extremely happy. He is pleased with you and wishes to free you from old age. O king! All the other gods are under his subjugation. Hear the message of the king of the gods. He has sent me here so that Brihaspati can be handed over to Marutta. O king! Let him be the preceptor and the ofﬁciating priest for your sacriﬁce. You are mortal. But he will make you immortal.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 14,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Marutta said, ‘This brahmana, Samvarta, will be my ofﬁciating priest. I join my hands in salutation before Brihaspati{26}. He has been the ofﬁciating priest for a god, the great Indra. It is not appropriate that the virtuous one should now be an ofﬁciating priest for someone who is mortal.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Marutta said, ",
+          "speaker": "@vyasa",
+          "introduces": "@marutta",
+          "introduces_label": "Marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘This brahmana, Samvarta, will be my ofﬁciating priest. I join my hands in salutation before Brihaspati{26}. He has been the ofﬁciating priest for a god, the great Indra. It is not appropriate that the virtuous one should now be an ofﬁciating priest for someone who is mortal.’",
+          "speaker": "@marutta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 15,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘If Brihaspati is your ofﬁciating priest, through the favours of the king of the gods, you will obtain the worlds and greatness in the world of the gods. It is certain that you will conquer heaven and obtain fame. O Indra among men! If Brihaspati is your ofﬁciating priest, you will now win all the human and celestial worlds and the great worlds of Prajapati and you will also conquer the entire kingdom of heaven.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘If Brihaspati is your ofﬁciating priest, through the favours of the king of the gods, you will obtain the worlds and greatness in the world of the gods. It is certain that you will conquer heaven and obtain fame. O Indra among men! If Brihaspati is your ofﬁciating priest, you will now win all the human and celestial worlds and the great worlds of Prajapati and you will also conquer the entire kingdom of heaven.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 16,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Samvarta said, ‘You must never again come here to offer Brihaspati to Marutta. O Pavaka{27}! Listen to me. If you do so, I will be enraged and will burn you down with my terrible sight.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Samvarta said, ",
+          "speaker": "@vyasa",
+          "introduces": "samvarta",
+          "introduces_label": "Samvarta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘You must never again come here to offer Brihaspati to Marutta. O Pavaka{27}! Listen to me. If you do so, I will be enraged and will burn you down with my terrible sight.’",
+          "speaker": "samvarta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 17,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vyasa continued, “The one with the smoke on his standard was terriﬁed at the prospect of being burnt down. He trembled like the leaves of a ﬁg tree. He went back to the gods. The great-souled Shakra saw that the ﬁre god was in Brihaspati's company and asked, ‘O Jataveda! Did you go and offer Brihaspati to Marutta? What did the king who wishes to perform a sacriﬁce say? How did he receive your words?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vyasa continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vyasa",
+          "introduces_label": "Vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The one with the smoke on his standard was terriﬁed at the prospect of being burnt down. He trembled like the leaves of a ﬁg tree. He went back to the gods. The great-souled Shakra saw that the ﬁre god was in Brihaspati's company and asked, ",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Jataveda! Did you go and offer Brihaspati to Marutta? What did the king who wishes to perform a sacriﬁce say? How did he receive your words?’",
+          "speaker": "samvarta",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 18,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘Marutta did not ﬁnd your words appealing. He joined his hands in salutation before Brihaspati and said, “This Samvarta will be my ofﬁciating priest.” He repeatedly glanced towards me and spoke these words. He said he was not interested in obtaining the worlds of men or gods or the great worlds of Prajapati. He had no such desire.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Marutta did not ﬁnd your words appealing. He joined his hands in salutation before Brihaspati and said, ",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“This Samvarta will be my ofﬁciating priest.”",
+          "speaker": "@agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " He repeatedly glanced towards me and spoke these words. He said he was not interested in obtaining the worlds of men or gods or the great worlds of Prajapati. He had no such desire.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 19,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra said, ‘Go and meet the king again. Tell him these words of mine. They are for his own good. If he still does not act in accordance with my words, I will strike him down with the vajra.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@vyasa",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Go and meet the king again. Tell him these words of mine. They are for his own good. If he still does not act in accordance with my words, I will strike him down with the vajra.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 20,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘Let the king of the gandharvas go there as your messenger. O Vasava! I am frightened of going there. Samvarta has observed brahmacharya. He was angry. He cast a wrathful and ﬁerce glance at me and said, “If you come here again, to hand over Brihaspati to Marutta, I will burn you down with my ﬁerce sight.” O Shakra! Full of great rage, this is what he told me.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Let the king of the gandharvas go there as your messenger. O Vasava! I am frightened of going there. Samvarta has observed brahmacharya. He was angry. He cast a wrathful and ﬁerce glance at me and said, ",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“If you come here again, to hand over Brihaspati to Marutta, I will burn you down with my ﬁerce sight.”",
+          "speaker": "@agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O Shakra! Full of great rage, this is what he told me.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 21,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra said, ‘O Jataveda! You are the one who burns things down. There is no one else who can reduce anything to ashes. All the worlds are terriﬁed of touching you. O bearer of oblations! What you have said cannot be believed.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@vyasa",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Jataveda! You are the one who burns things down. There is no one else who can reduce anything to ashes. All the worlds are terriﬁed of touching you. O bearer of oblations! What you have said cannot be believed.’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 22,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘O Indra of the gods! O Shakra! Through your own strength, you have enveloped everything on earth and in heaven. That being the case, how was Vritra able to seize the three worlds?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra of the gods! O Shakra! Through your own strength, you have enveloped everything on earth and in heaven. That being the case, how was Vritra able to seize the three worlds?’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 23,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Indra said, ‘When I am angered, I can crush all immobile objects into fragments. O Vahni! However, I do not drink soma offered by an enemy. I do not release the vajra at someone who is weak{28}. But how can a man who strikes me be happy? I have banished the kalakeyas{29} to earth and have ﬂung down the danavas from the ﬁrmament. I brought to an end Prahlada's residence in heaven. How can a mortal strike me and remain happy?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Indra said, ",
+          "speaker": "@vyasa",
+          "introduces": "@indra",
+          "introduces_label": "Indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘When I am angered, I can crush all immobile objects into fragments. O Vahni! However, I do not drink soma offered by an enemy. I do not release the vajra at someone who is weak{28}. But how can a man who strikes me be happy? I have banished the kalakeyas{29} to earth and have ﬂung down the danavas from the ﬁrmament. I brought to an end Prahlada's residence in heaven. How can a mortal strike me and remain happy?’",
+          "speaker": "@indra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 24,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Agni replied, ‘Chyavana ofﬁciated at Sharyati's sacriﬁce. With the Ashvins, he accepted the soma alone{30}. O great Indra! Do you remember that earlier occasion? You were enraged and tried to prevent Sharyati's sacriﬁce. O Purandara! You struck rishi Chyavana with the extremely terrible vajra. That brahmana was overcome with rage. Through the powers of his austerities, he seized your arm, with the vajra. In his anger, he created an enemy who was terrible in form in every way. This was the asura named Mada and the universe was his form. On seeing him, you closed your eyes in fear. One of the jaws of that great danava was on earth and the other extended up to heaven. He had one thousand teeth that extended for one hundred yojanas. These were extremely sharp and terrible in form. There were four teeth that extended for two hundred yojanas. These were round and gigantic, with complexions like silver pillars. He gnashed those teeth and pursued you, wishing to slay you with an upraised and ﬁerce spear. On seeing that terrible form, all the others looked on at a spectacle that had never been seen before. O slayer of danavas! At that time, you were terriﬁed. You joined your hands in salutation and sought refuge with the maharshi. The strength of brahmanas is superior to the strength of kshatriyas. There is nothing that is superior to a brahmana. I know the truth about the energy of brahmanas. O Shakra! Therefore, I do not desire to go before Samvarta.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Agni replied, ",
+          "speaker": "@vyasa",
+          "introduces": "@agni",
+          "introduces_label": "Agni",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Chyavana ofﬁciated at Sharyati's sacriﬁce. With the Ashvins, he accepted the soma alone{30}. O great Indra! Do you remember that earlier occasion? You were enraged and tried to prevent Sharyati's sacriﬁce. O Purandara! You struck rishi Chyavana with the extremely terrible vajra. That brahmana was overcome with rage. Through the powers of his austerities, he seized your arm, with the vajra. In his anger, he created an enemy who was terrible in form in every way. This was the asura named Mada and the universe was his form. On seeing him, you closed your eyes in fear. One of the jaws of that great danava was on earth and the other extended up to heaven. He had one thousand teeth that extended for one hundred yojanas. These were extremely sharp and terrible in form. There were four teeth that extended for two hundred yojanas. These were round and gigantic, with complexions like silver pillars. He gnashed those teeth and pursued you, wishing to slay you with an upraised and ﬁerce spear. On seeing that terrible form, all the others looked on at a spectacle that had never been seen before. O slayer of danavas! At that time, you were terriﬁed. You joined your hands in salutation and sought refuge with the maharshi. The strength of brahmanas is superior to the strength of kshatriyas. There is nothing that is superior to a brahmana. I know the truth about the energy of brahmanas. O Shakra! Therefore, I do not desire to go before Samvarta.’",
+          "speaker": "@agni",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

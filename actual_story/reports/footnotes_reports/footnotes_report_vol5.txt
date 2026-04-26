@@ -1,0 +1,76 @@
+Volume 5 Footnote Cross-Check Report (section-aware)
+======================================================================
+
+  Total CASE A (missing defs → placeholders inserted): 0
+  Total CASE B (orphan defs  → marked with comment):   44
+  Total CASE C (def gaps):                              0
+  Total CASE D (ref gaps):                              31
+
+
+──────────────────────────────────────────────────────────────────────
+Section [61] Jambukhanda-Vinirmana Parva  (chapters 861–871)
+  Refs: 156   Defs: 158
+
+  CASE B — 2 orphan(s):
+    fn 81
+    fn 98
+
+  CASE D — ref sequence gaps: [81, 98]
+
+──────────────────────────────────────────────────────────────────────
+Section [63] Bhagavad Gita Parva  (chapters 874–900)
+  Refs: 604   Defs: 634
+
+  CASE B — 30 orphan(s):
+    fn 122
+    fn 132
+    fn 161
+    fn 216
+    fn 218
+    fn 246
+    fn 273
+    fn 284
+    fn 307
+    fn 329
+    fn 357
+    fn 412
+    fn 437
+    fn 438
+    fn 440
+    fn 457
+    fn 494
+    fn 504
+    fn 523
+    fn 547
+    fn 548
+    fn 579
+    fn 582
+    fn 584
+    fn 585
+    fn 589
+    fn 592
+    fn 597
+    fn 633
+    fn 634
+
+  CASE D — ref sequence gaps: [122, 132, 161, 216, 218, 246, 273, 284, 307, 329, 357, 412, 437, 438, 440, 457, 494, 504, 523, 547, 548, 579, 582, 584, 585, 589, 592, 597]
+
+──────────────────────────────────────────────────────────────────────
+Section [66] Samshaptaka-vadha Parva  (chapters 993–1007)
+  Refs: 111   Defs: 123
+
+  CASE B — 12 orphan(s):
+    fn 66
+    fn 113
+    fn 114
+    fn 115
+    fn 116
+    fn 117
+    fn 118
+    fn 119
+    fn 120
+    fn 121
+    fn 122
+    fn 123
+
+  CASE D — ref sequence gaps: [66]

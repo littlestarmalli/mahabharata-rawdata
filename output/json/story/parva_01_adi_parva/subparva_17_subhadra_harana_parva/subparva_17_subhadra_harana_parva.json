@@ -1,0 +1,27 @@
+{
+  "name": "Subhadra-harana Parva",
+  "subparva_number": 17,
+  "source_volume": 2,
+  "file_path": "output/volumes/volume_2_chapters.txt",
+  "details": {
+    "num_chapters": 2,
+    "num_shlokas": 57
+  },
+  "note": "The word harana means abduction. So this parva is about Subhadra�s abduction. This is a very short parva.",
+  "chapters": {
+    "211": {
+      "chapter_number": 211,
+      "global_number": 211,
+      "local_number": 211,
+      "num_shlokas": 25,
+      "file": "subparva_17_subhadra_harana_parva/chapter_211.json"
+    },
+    "212": {
+      "chapter_number": 212,
+      "global_number": 212,
+      "local_number": 212,
+      "num_shlokas": 32,
+      "file": "subparva_17_subhadra_harana_parva/chapter_212.json"
+    }
+  }
+}

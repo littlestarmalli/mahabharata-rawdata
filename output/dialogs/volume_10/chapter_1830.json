@@ -1,0 +1,79 @@
+{
+  "chapter": 1830,
+  "local": 149,
+  "shlokas": 13,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira said, “If a person is unfortunate, even if he is strong, he does not obtain riches. However, if fortunate, even a weak person, or a child, obtains riches. When it is not the time for getting, even if one who makes exertions, one obtains nothing. And when it is the time for getting, even if one doesn't exert oneself, one obtains great riches. It can be seen that there are hundreds of men who make fruitless efforts. O supreme among the Bharata lineage! Had a mortal person been able to get all the fruits through exertions, why doesn't he get them? Why are men unable to get those? It is seen that a man makes efforts, but is unsuccessful, despite resorting to the path of making hundreds of attempts to acquire riches. However, another person doesn't resort to that path and is happy. Men who avoid perverse deeds are seen to be without riches. However, it is also seen that there are other people who resort to adharma and are rich. Even after studying all the sacred texts on good policy, one can be seen to be devoid of policy. An unaccomplished person is appointed as an adviser. What is the reason for this? There is an apparently learned person who is devoid of learning. A rich person faces hardships. If a man can obtain happiness by resorting to learning, a learned person should not be devoid of learning. Nor should he have to resort to an inferior person for subsistence. A man conquers thirst by resorting to water. If learning brought joy, then a man would not resort to ignorance. If one's time has not come, one does not die, even if one has been pierced by a hundred arrows. However, if the time has come, a person does not live, even if he is touched by the tip of a blade of grass.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If a person is unfortunate, even if he is strong, he does not obtain riches. However, if fortunate, even a weak person, or a child, obtains riches. When it is not the time for getting, even if one who makes exertions, one obtains nothing. And when it is the time for getting, even if one doesn't exert oneself, one obtains great riches. It can be seen that there are hundreds of men who make fruitless efforts. O supreme among the Bharata lineage! Had a mortal person been able to get all the fruits through exertions, why doesn't he get them? Why are men unable to get those? It is seen that a man makes efforts, but is unsuccessful, despite resorting to the path of making hundreds of attempts to acquire riches. However, another person doesn't resort to that path and is happy. Men who avoid perverse deeds are seen to be without riches. However, it is also seen that there are other people who resort to adharma and are rich. Even after studying all the sacred texts on good policy, one can be seen to be devoid of policy. An unaccomplished person is appointed as an adviser. What is the reason for this? There is an apparently learned person who is devoid of learning. A rich person faces hardships. If a man can obtain happiness by resorting to learning, a learned person should not be devoid of learning. Nor should he have to resort to an inferior person for subsistence. A man conquers thirst by resorting to water. If learning brought joy, then a man would not resort to ignorance. If one's time has not come, one does not die, even if one has been pierced by a hundred arrows. However, if the time has come, a person does not live, even if he is touched by the tip of a blade of grass.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “In this world, if one has made attempts and does not obtain riches, one should resort to ﬁerce austerities. Austerities lead to germination{1443}. One obtains objects of pleasure through donations. One becomes intelligent by serving the aged. One obtains a long life through non-violence. The learned ones have said this. Therefore, one must donate, not seek, and worship those who follow dharma. One must be pure and pleasant in speech and not show injury towards any creature. There is proof that power, happiness and unhappiness result from one's own nature, even among mosquitoes, insects and ants. O Yudhishthira! Therefore, be patient.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“In this world, if one has made attempts and does not obtain riches, one should resort to ﬁerce austerities. Austerities lead to germination{1443}. One obtains objects of pleasure through donations. One becomes intelligent by serving the aged. One obtains a long life through non-violence. The learned ones have said this. Therefore, one must donate, not seek, and worship those who follow dharma. One must be pure and pleasant in speech and not show injury towards any creature. There is proof that power, happiness and unhappiness result from one's own nature, even among mosquitoes, insects and ants. O Yudhishthira! Therefore, be patient.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

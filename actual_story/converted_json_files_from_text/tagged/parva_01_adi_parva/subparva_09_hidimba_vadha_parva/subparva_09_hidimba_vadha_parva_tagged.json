@@ -1,0 +1,65 @@
+{
+  "name": "Hidimba-vadha Parva",
+  "subparva_number": 9,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 169
+  },
+  "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "139": {
+      "chapter_number": 139,
+      "global_number": 139,
+      "local_number": 139,
+      "num_shlokas": 32,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_139_tagged.json"
+    },
+    "140": {
+      "chapter_number": 140,
+      "global_number": 140,
+      "local_number": 140,
+      "num_shlokas": 21,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_140_tagged.json"
+    },
+    "141": {
+      "chapter_number": 141,
+      "global_number": 141,
+      "local_number": 141,
+      "num_shlokas": 24,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_141_tagged.json"
+    },
+    "142": {
+      "chapter_number": 142,
+      "global_number": 142,
+      "local_number": 142,
+      "num_shlokas": 34,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_142_tagged.json"
+    },
+    "143": {
+      "chapter_number": 143,
+      "global_number": 143,
+      "local_number": 143,
+      "num_shlokas": 38,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_143_tagged.json"
+    },
+    "144": {
+      "chapter_number": 144,
+      "global_number": 144,
+      "local_number": 144,
+      "num_shlokas": 20,
+      "file": "subparva_09_hidimba_vadha_parva/chapter_144_tagged.json"
+    }
+  }
+}

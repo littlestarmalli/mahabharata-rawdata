@@ -1,0 +1,44 @@
+{
+  "name": "Ashramavasa Parva",
+  "parva_number": 15,
+  "details": {
+    "num_subparvas": 3,
+    "num_chapters": 47,
+    "num_shlokas": 1062
+  },
+  "subparvas": {
+    "90": {
+      "subparva_number": 90,
+      "name": "Ashrama-Vasa Parva",
+      "source_volume": 10,
+      "details": {
+        "num_chapters": 35,
+        "num_shlokas": 737
+      },
+      "note": "Ashrama-Vasa Parva means more or less the same as Ashrama-Vasika Parva. A bit more accurately, Ashrama-Vasika means residents of the forest, while Ashrama-Vasa means residence in the forest. Dhritarashtra, Gandhari, Sanjaya, Vidura and Kunti leave for the forest. Vidura dies and merges into Yudhishthira.",
+      "file": "parva_15_ashramavasa_parva/subparva_90_ashrama_vasa_parva/subparva_90_ashrama_vasa_parva.json"
+    },
+    "91": {
+      "subparva_number": 91,
+      "name": "Putra Darshana Parva",
+      "source_volume": 10,
+      "details": {
+        "num_chapters": 9,
+        "num_shlokas": 234
+      },
+      "note": "Putra means son and darshana means sight. Vyasa uses the power of his austerities to show everyone the dead warriors, including the sons of Dhritarashtra and Gandhari. That explains the name of this parva. After visiting Dhritarashtra, Gandhari and Kunti, the Pandavas return to Hastinapura.",
+      "file": "parva_15_ashramavasa_parva/subparva_91_putra_darshana_parva/subparva_91_putra_darshana_parva.json"
+    },
+    "92": {
+      "subparva_number": 92,
+      "name": "Naradagamana Parva",
+      "source_volume": 10,
+      "details": {
+        "num_chapters": 3,
+        "num_shlokas": 91
+      },
+      "note": "Agamana means arrival and this parva is about Narada�s arrival. Narada arrives and tells the Pandavas that Dhritarashtra, Gandhari and Kunti have been killed in a forest fire and Sanjaya has gone off to the Himalayas.",
+      "file": "parva_15_ashramavasa_parva/subparva_92_naradagamana_parva/subparva_92_naradagamana_parva.json"
+    }
+  }
+}

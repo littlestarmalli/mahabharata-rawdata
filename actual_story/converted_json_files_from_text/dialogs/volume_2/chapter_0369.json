@@ -1,0 +1,294 @@
+{
+  "chapter": 369,
+  "local": 72,
+  "shlokas": 30,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Damayanti said, ‘O Keshini! Go and ﬁnd out who the driver of that chariot is. He is seated by the side of the chariot. He is malformed and has short arms. O fortunate one! Approach him and gently ask his about his welfare. O unblemished one! Ask and ﬁnd out everything about this man. I have great anxiety that this is King Nala, because my mind is satisﬁed and my heart is calm. O one with the beautiful waist! In the course of the conversation, use Parnada's words. O unblemished one! Pay attention to his reply.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Damayanti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@damayanti",
+          "introduces_label": "Damayanti",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Keshini! Go and ﬁnd out who the driver of that chariot is. He is seated by the side of the chariot. He is malformed and has short arms. O fortunate one! Approach him and gently ask his about his welfare. O unblemished one! Ask and ﬁnd out everything about this man. I have great anxiety that this is King Nala, because my mind is satisﬁed and my heart is calm. O one with the beautiful waist! In the course of the conversation, use Parnada's words. O unblemished one! Pay attention to his reply.’",
+          "speaker": "@damayanti",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Brihadashva said, “Then that female messenger carefully went to Bahuka, while the fortunate Damayanti looked on from the palace. Keshini said, ‘O Indra among men! Welcome. I wish you all welfare. Damayanti has asked a question. O bull among men! Listen to it attentively. When did you leave? Why have you come here? Tell me everything truthfully. The daughter of Vidarbha wishes to know.’ Bahuka replied, ‘The famous king of Koshala heard that Damayanti will hold a second svayamvara tomorrow. O beautiful one! On hearing this, the king set out with excellent steeds that are as swift as the wind and are capable of travelling a hundred yojanas. I am his charioteer.’ Keshini asked, ‘Who is the third man in your group? Whose is he and where has he come from? Why did this task have to be performed by you?’ Bahuka replied, ‘He was the charioteer of Punyashloka and is famous by the name of Varshneya. O beautiful one! When Nala ﬂed, he went to Bhangasvari. I am skilled in handling horses and am an expert cook. Rituparna appointed me as his charioteer and his cook.’ Keshini asked, ‘Does Varshneya know where King Nala has gone? O Bahuka! Has he said anything in your presence?’ Bahuka replied, ‘Having brought the children of the evil-acting Nala here, he went away where he desired and has no knowledge of Nishadha. O famous one! There is no other man who knows anything about Nala. The lord of the earth roams the world in disguise, in a different form. Nala alone knows where he is, and the lady who is like his second self. Nala never reveals his signs in any way.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Brihadashva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihadashva",
+          "introduces_label": "Brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Then that female messenger carefully went to Bahuka, while the fortunate Damayanti looked on from the palace. Keshini said, ",
+          "speaker": "@brihadashva",
+          "introduces": "keshini",
+          "introduces_label": "Keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Indra among men! Welcome. I wish you all welfare. Damayanti has asked a question. O bull among men! Listen to it attentively. When did you leave? Why have you come here? Tell me everything truthfully. The daughter of Vidarbha wishes to know.’",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bahuka replied, ",
+          "speaker": "@brihadashva",
+          "introduces": "@nala",
+          "introduces_label": "Bahuka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The famous king of Koshala heard that Damayanti will hold a second svayamvara tomorrow. O beautiful one! On hearing this, the king set out with excellent steeds that are as swift as the wind and are capable of travelling a hundred yojanas. I am his charioteer.’",
+          "speaker": "@nala",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Keshini asked, ",
+          "speaker": "@brihadashva",
+          "introduces": "keshini",
+          "introduces_label": "Keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who is the third man in your group? Whose is he and where has he come from? Why did this task have to be performed by you?’",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bahuka replied, ",
+          "speaker": "@brihadashva",
+          "introduces": "@nala",
+          "introduces_label": "Bahuka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘He was the charioteer of Punyashloka and is famous by the name of Varshneya. O beautiful one! When Nala ﬂed, he went to Bhangasvari. I am skilled in handling horses and am an expert cook. Rituparna appointed me as his charioteer and his cook.’",
+          "speaker": "@nala",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Keshini asked, ",
+          "speaker": "@brihadashva",
+          "introduces": "keshini",
+          "introduces_label": "Keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Does Varshneya know where King Nala has gone? O Bahuka! Has he said anything in your presence?’",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bahuka replied, ",
+          "speaker": "@brihadashva",
+          "introduces": "@nala",
+          "introduces_label": "Bahuka",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Having brought the children of the evil-acting Nala here, he went away where he desired and has no knowledge of Nishadha. O famous one! There is no other man who knows anything about Nala. The lord of the earth roams the world in disguise, in a different form. Nala alone knows where he is, and the lady who is like his second self. Nala never reveals his signs in any way.’",
+          "speaker": "@nala",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Keshini said, ‘The brahmana who earlier went to Ayodhya repeatedly uttered the words spoken by a lady “O gambler! O loved one! You are the one who sliced off half my garment. Where are you? You abandoned your beloved wife in a deserted region. It is in accordance with your instructions that she is still awaiting you, clad only in half a garment. The lady is tormented by grief. O lord of the earth! She repeatedly weeps because of that sorrow. O brave one! Show her your favour and reply to her words.” O immensely intelligent one! Speak and recount her beloved tale. The unblemished daughter of Vidarbha wishes to hear those words. Ever since she heard the reply you gave to the brahmana then, Vidarbha's daughter has been desirous of hearing the words you uttered again.’ O descendant of the Kuru lineage! When Keshini said this to Nala, his heart suffered and his eyes were ﬁlled with tears. Having suppressed his grief, the tormented lord of the earth again spoke those words in a voice that was choked with tears, ‘Though they confront great calamity, women of a good lineage protect themselves through their own efforts and there is no doubt that they win heaven for themselves. Even if they are abandoned by their husbands, they are never angry. Faithful women sustain their lives with their armour as character. He was trying to sustain his life and a bird stole his garment. He is tormented by anguish and a dark one should not be angry. Whether she is treated well or whether she is treated badly, she sees her husband without his kingdom and without prosperity, hungry and addicted to vice.’ O descendant of the Bharata lineage! As he spoke these words, Nala was extremely miserable. He could not restrain his tears and began to weep. Then Keshini went away and told Damayanti everything that he had said, including the transformation that had come over him.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Keshini said, ",
+          "speaker": "@brihadashva",
+          "introduces": "keshini",
+          "introduces_label": "Keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The brahmana who earlier went to Ayodhya repeatedly uttered the words spoken by a lady ",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O gambler! O loved one! You are the one who sliced off half my garment. Where are you? You abandoned your beloved wife in a deserted region. It is in accordance with your instructions that she is still awaiting you, clad only in half a garment. The lady is tormented by grief. O lord of the earth! She repeatedly weeps because of that sorrow. O brave one! Show her your favour and reply to her words.”",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O immensely intelligent one! Speak and recount her beloved tale. The unblemished daughter of Vidarbha wishes to hear those words. Ever since she heard the reply you gave to the brahmana then, Vidarbha's daughter has been desirous of hearing the words you uttered again.’",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Kuru lineage! When Keshini said this to Nala, his heart suffered and his eyes were ﬁlled with tears. Having suppressed his grief, the tormented lord of the earth again spoke those words in a voice that was choked with tears, ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Though they confront great calamity, women of a good lineage protect themselves through their own efforts and there is no doubt that they win heaven for themselves. Even if they are abandoned by their husbands, they are never angry. Faithful women sustain their lives with their armour as character. He was trying to sustain his life and a bird stole his garment. He is tormented by anguish and a dark one should not be angry. Whether she is treated well or whether she is treated badly, she sees her husband without his kingdom and without prosperity, hungry and addicted to vice.’",
+          "speaker": "keshini",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O descendant of the Bharata lineage! As he spoke these words, Nala was extremely miserable. He could not restrain his tears and began to weep. Then Keshini went away and told Damayanti everything that he had said, including the transformation that had come over him.”",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

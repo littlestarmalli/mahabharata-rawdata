@@ -1,0 +1,215 @@
+{
+  "chapter": 365,
+  "local": 68,
+  "shlokas": 24,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Brihadashva said, “After a long time, a brahmana by the name of Parnada returned to the city and told Bhima's daughter, ‘O Damayanti! I searched for Nishadha day and night and went to the city of Ayodhya. I presented myself before Bhangasvari{172}. O beautiful one! In a public place, I repeated those words before the immensely fortunate Rituparna, exactly as you had asked me to. On hearing those words, Rituparna, lord of men, did not reply. Nor did any of his courtiers respond, though those words were repeated by me several times. Then the king gave me permission to leave. A man named Bahuka is in Rituparna's service. He is the king's charioteer and is deformed and has short arms. He is skilled in driving vehicles swiftly and he is accomplished in cooking. When I was alone, he spoke a few words to me. He sighed several times and wept repeatedly. He asked me about my welfare and then addressed me in these words, “Though they confront great calamity, women of a good lineage protect themselves through their own efforts and there is no doubt that they win heaven for themselves. Even if they are abandoned by their husbands, they are never angry. He was trying to sustain his life and a bird stole his garment. He is tormented by anguish and a dark one should not be angry. Whether she is treated well or whether she is treated badly, when she sees her husband without his kingdom and without prosperity, a dark one should not be angry.” On hearing these words of his, I instantly returned here. Having heard this, you decide and inform the king.’ O lord of the earth! Damayanti listened to Parnada's words with tears in her eyes.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Brihadashva said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@brihadashva",
+          "introduces_label": "Brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“After a long time, a brahmana by the name of Parnada returned to the city and told Bhima's daughter, ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Damayanti! I searched for Nishadha day and night and went to the city of Ayodhya. I presented myself before Bhangasvari{172}. O beautiful one! In a public place, I repeated those words before the immensely fortunate Rituparna, exactly as you had asked me to. On hearing those words, Rituparna, lord of men, did not reply. Nor did any of his courtiers respond, though those words were repeated by me several times. Then the king gave me permission to leave. A man named Bahuka is in Rituparna's service. He is the king's charioteer and is deformed and has short arms. He is skilled in driving vehicles swiftly and he is accomplished in cooking. When I was alone, he spoke a few words to me. He sighed several times and wept repeatedly. He asked me about my welfare and then addressed me in these words, ",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Though they confront great calamity, women of a good lineage protect themselves through their own efforts and there is no doubt that they win heaven for themselves. Even if they are abandoned by their husbands, they are never angry. He was trying to sustain his life and a bird stole his garment. He is tormented by anguish and a dark one should not be angry. Whether she is treated well or whether she is treated badly, when she sees her husband without his kingdom and without prosperity, a dark one should not be angry.”",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " On hearing these words of his, I instantly returned here. Having heard this, you decide and inform the king.’",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O lord of the earth! Damayanti listened to Parnada's words with tears in her eyes.",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“She went to her mother and secretly told her, ‘O mother! Bhima should under no circumstances get to know about these words. In your presence, I wish to employ Sudeva, supreme among brahmanas. King Bhima should not know what my intentions are. If you wish to bring about my pleasure, you must act in this way. Let Sudeva go quickly. Let him perform the auspicious ceremonies that united me with my relatives. Let Sudeva go without delay. O mother! Let him go to the city of Ayodhya and bring Nala back here.’ Later, after Parnada, supreme among brahmanas, had rested, the beautiful daughter of Vidarbha worshipped him and gave him a lot of riches. She said, ‘O brahmana! When Nala comes here, I will give you even greater riches. O supreme among brahmanas! You have done so much for me. No one else will ever be able to accomplish more. It is because of this that I will soon be reunited with my husband.’ Thus addressed by her, the high-minded one paid her his respects and pronounced auspicious blessings over her. Having accomplished his purpose, he returned home.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“She went to her mother and secretly told her, ",
+          "speaker": "@brihadashva",
+          "introduces": "she_went_to_her_mother_and_secretly",
+          "introduces_label": "She went to her mother and secretly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O mother! Bhima should under no circumstances get to know about these words. In your presence, I wish to employ Sudeva, supreme among brahmanas. King Bhima should not know what my intentions are. If you wish to bring about my pleasure, you must act in this way. Let Sudeva go quickly. Let him perform the auspicious ceremonies that united me with my relatives. Let Sudeva go without delay. O mother! Let him go to the city of Ayodhya and bring Nala back here.’",
+          "speaker": "she_went_to_her_mother_and_secretly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Later, after Parnada, supreme among brahmanas, had rested, the beautiful daughter of Vidarbha worshipped him and gave him a lot of riches. She said, ",
+          "speaker": "@brihadashva",
+          "introduces": "unknown",
+          "introduces_label": "She",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! When Nala comes here, I will give you even greater riches. O supreme among brahmanas! You have done so much for me. No one else will ever be able to accomplish more. It is because of this that I will soon be reunited with my husband.’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Thus addressed by her, the high-minded one paid her his respects and pronounced auspicious blessings over her. Having accomplished his purpose, he returned home.",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O Yudhishthira! Then Damayanti summoned that brahmana{173} again. In her mother's presence and engulfed by misery and sorrow, she told him, ‘O Sudeva! Go to King Rituparna who lives in the city of Ayodhya and tell him, “Bhima's daughter Damayanti wishes for a husband again and will again hold a svayamvara. All the kings and the princes are going there. Having computed the time, this will be held tomorrow. O destroyer of enemies! If it is possible, go there quickly. She will choose a second husband at the time of sunrise, because it is not known whether the valiant Nala is dead or alive.”’ O great king! As he had been instructed, the brahmana Sudeva then went to King Rituparna and told him what he had been asked to.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O Yudhishthira! Then Damayanti summoned that brahmana{173} again. In her mother's presence and engulfed by misery and sorrow, she told him, ",
+          "speaker": "@brihadashva",
+          "introduces": "unknown",
+          "introduces_label": "she",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Sudeva! Go to King Rituparna who lives in the city of Ayodhya and tell him, ",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Bhima's daughter Damayanti wishes for a husband again and will again hold a svayamvara. All the kings and the princes are going there. Having computed the time, this will be held tomorrow. O destroyer of enemies! If it is possible, go there quickly. She will choose a second husband at the time of sunrise, because it is not known whether the valiant Nala is dead or alive.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O great king! As he had been instructed, the brahmana Sudeva then went to King Rituparna and told him what he had been asked to.”",
+          "speaker": "@brihadashva",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

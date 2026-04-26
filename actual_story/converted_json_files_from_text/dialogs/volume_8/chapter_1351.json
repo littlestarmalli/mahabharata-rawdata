@@ -1,0 +1,78 @@
+{
+  "chapter": 1351,
+  "local": 23,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O descendant of the Bharata lineage! Thus addressed by Gudakesha{172}, Kouravya Kounteya did not say anything in reply. Dvaipayana said, “O Yudhishthira! Bibhatsu's{173} words are completely true. It has been said in the sacred texts that supreme dharma is vested in the status of a householder. O one who knows about dharma! In accordance with the sacred texts and following the stipulations, follow your own dharma. It is not recommended that you should give up the status of a householder and go to the forest. The gods, the ancestors, the rishis and the servants always sustain themselves on the householder. O lord of the earth! Support them. Birds, animals and other beings also owe their sustenance to householders. O lord of the earth! Therefore, garhasthya is the best of the ashramas. Among the four ashramas, it is the most difﬁcult one to follow. O Partha! Those who are weak in their senses ﬁnd it difﬁcult to follow. Since you are not distracted, follow it. You possess all the knowledge of the Vedas. You have performed great austerities. You should therefore bear the burden of the kingdom of your father and grandfathers. O great king! Austerities, sacriﬁces, learning, begging, deprivation of the senses, meditation, solitude in conduct, contentment and donations—in a desire to be successful, these should be followed by brahmanas, to the best of their ability. Though it is already known to you, I will now tell you what it is for kshatriyas: sacriﬁces, learning, exertion, lack of contentment about one's prosperity, wielding the ﬁerce rod of chastisement, protecting subjects, knowledge of the Vedas, performing all the austerities, good conduct, the earning of many material objects and giving them to the deserving. O lord of the earth! These are the duties for kings. We have heard that, when performed well, they bring success in this world and in that world{174}. O Kounteya! Among these, wielding the rod of chastisement is said to be the best. There is always strength in the kshatriya and the rod is based on that strength. O king! These endeavours bring success for kshatriyas. On this, there is a chant sung by Brihaspati. ‘Like a snake swallowing up animals in their holes, the earth swallows up peaceful kings and brahmanas who do not leave their homes.’ It has been heard that rajarshi Sudyumna wielded the rod and obtained supreme success, like Daksha, the son of Prachetasa{175}.”’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O descendant of the Bharata lineage! Thus addressed by Gudakesha{172}, Kouravya Kounteya did not say anything in reply. Dvaipayana said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vyasa",
+          "introduces_label": "Dvaipayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Yudhishthira! Bibhatsu's{173} words are completely true. It has been said in the sacred texts that supreme dharma is vested in the status of a householder. O one who knows about dharma! In accordance with the sacred texts and following the stipulations, follow your own dharma. It is not recommended that you should give up the status of a householder and go to the forest. The gods, the ancestors, the rishis and the servants always sustain themselves on the householder. O lord of the earth! Support them. Birds, animals and other beings also owe their sustenance to householders. O lord of the earth! Therefore, garhasthya is the best of the ashramas. Among the four ashramas, it is the most difﬁcult one to follow. O Partha! Those who are weak in their senses ﬁnd it difﬁcult to follow. Since you are not distracted, follow it. You possess all the knowledge of the Vedas. You have performed great austerities. You should therefore bear the burden of the kingdom of your father and grandfathers. O great king! Austerities, sacriﬁces, learning, begging, deprivation of the senses, meditation, solitude in conduct, contentment and donations—in a desire to be successful, these should be followed by brahmanas, to the best of their ability. Though it is already known to you, I will now tell you what it is for kshatriyas: sacriﬁces, learning, exertion, lack of contentment about one's prosperity, wielding the ﬁerce rod of chastisement, protecting subjects, knowledge of the Vedas, performing all the austerities, good conduct, the earning of many material objects and giving them to the deserving. O lord of the earth! These are the duties for kings. We have heard that, when performed well, they bring success in this world and in that world{174}. O Kounteya! Among these, wielding the rod of chastisement is said to be the best. There is always strength in the kshatriya and the rod is based on that strength. O king! These endeavours bring success for kshatriyas. On this, there is a chant sung by Brihaspati. ",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Like a snake swallowing up animals in their holes, the earth swallows up peaceful kings and brahmanas who do not leave their homes.’",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " It has been heard that rajarshi Sudyumna wielded the rod and obtained supreme success, like Daksha, the son of Prachetasa{175}.”",
+          "speaker": "@vyasa",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

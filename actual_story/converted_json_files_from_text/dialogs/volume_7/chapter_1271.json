@@ -1,0 +1,215 @@
+{
+  "chapter": 1271,
+  "local": 52,
+  "shlokas": 21,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘The rishis said, “O Rama! Samantapanchaka has been spoken of as Prajapati's eternal northern altar. In earlier times, the residents of heaven, the granters of great boons, performed a great sacriﬁce there. The intelligent and great-souled Kuru, best among royal sages and inﬁnite in his energy, cheerfully cultivated this ﬁeld. That is the reason this is known as Kurukshetra{218}.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The rishis said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Rama! Samantapanchaka has been spoken of as Prajapati's eternal northern altar. In earlier times, the residents of heaven, the granters of great boons, performed a great sacriﬁce there. The intelligent and great-souled Kuru, best among royal sages and inﬁnite in his energy, cheerfully cultivated this ﬁeld. That is the reason this is known as Kurukshetra{218}.”",
+          "speaker": "@sages",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Rama asked, “Why did the great-souled Kuru cultivate this ﬁeld? O stores of austerities! I wish to hear this. Tell me.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Rama asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@parashurama",
+          "introduces_label": "Rama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Why did the great-souled Kuru cultivate this ﬁeld? O stores of austerities! I wish to hear this. Tell me.”",
+          "speaker": "@parashurama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The rishis replied, “O Rama! In earlier times, Kuru was always engaged in tilling this. On seeing this, Shakra came from heaven and asked him the reason. ‘O king! Why are you making this supreme effort? O rajarshi! What is the reason for you to till this ﬁeld?’ Kuru said, ‘O Shatakratu! Men who die in this ﬁeld will go to the worlds reserved for those with meritorious deeds. They will be cleansed of their sins.’ Laughing at this, the lord Shakra returned to heaven. The rajarshi was not distressed and continued to plough the earth. Shatakratu repeatedly came to him and repeatedly received the same reply. Disgusted, he repeatedly went away. The king continued to till the earth with great perseverance. Shakra told the other gods what the rajarshi was up to. On hearing this, the gods spoke these words to the one with one thousand eyes. ‘O Shakra! If you can, grant the rajarshi a boon and stop him. If men can die here and go to heaven, without dutifully giving us a share in the sacriﬁces, we will have no existence left.’ Shakra came to the rajarshi and told him, ‘Do not make any more efforts. Listen to my words. O king! Men who fast here and give up their bodies, with all their senses intact, or those who are killed in battle, will certainly go to heaven. O Indra among kings! O immensely intelligent one! They will enjoy heaven.’ King Kuru agreed to the words that Shakra had spoken. Having taken his leave and delighted in his mind, the slayer of Bala swiftly returned to heaven. O best among the Yadu lineage! In ancient times, this was thus ploughed by the rajarshi. Shakra promised great merits to those who give up their lives here. Shakra, the lord of the gods, himself composed a song about Kurukshetra and sang it. O one with the plough as his weapon! Listen to this. ‘The dust of Kurukshetra, when blown away by the wind, will convey even those who perform wicked deeds to the supreme objective.’ Bulls among the gods, supreme among the brahmanas, Nriga{219} and the best among kings, lions among men, have performed extremely expensive sacriﬁces here. They have given up their bodies and attained excellent ends. The region between Tarantuka and Arantuka, between Rama's lakes and Machakruka, is Kurukshetra Samantapanchaka{220}. It is known as Prajapati's northern altar. It is sacred, extremely auspicious and is revered by the residents of heaven. It possesses all the qualities of heaven. Therefore, all the lords of the earth who are slain here obtain the ends earmarked for great-souled ones.” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The rishis replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@sages",
+          "introduces_label": "The rishis",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Rama! In earlier times, Kuru was always engaged in tilling this. On seeing this, Shakra came from heaven and asked him the reason. ",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! Why are you making this supreme effort? O rajarshi! What is the reason for you to till this ﬁeld?’",
+          "speaker": "@sages",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Kuru said, ",
+          "speaker": "@sages",
+          "introduces": "@kuru",
+          "introduces_label": "Kuru",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shatakratu! Men who die in this ﬁeld will go to the worlds reserved for those with meritorious deeds. They will be cleansed of their sins.’",
+          "speaker": "@kuru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Laughing at this, the lord Shakra returned to heaven. The rajarshi was not distressed and continued to plough the earth. Shatakratu repeatedly came to him and repeatedly received the same reply. Disgusted, he repeatedly went away. The king continued to till the earth with great perseverance. Shakra told the other gods what the rajarshi was up to. On hearing this, the gods spoke these words to the one with one thousand eyes. ",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Shakra! If you can, grant the rajarshi a boon and stop him. If men can die here and go to heaven, without dutifully giving us a share in the sacriﬁces, we will have no existence left.’",
+          "speaker": "@kuru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Shakra came to the rajarshi and told him, ",
+          "speaker": "@sages",
+          "introduces": "shakra_came_to_the_rajarshi",
+          "introduces_label": "Shakra came to the rajarshi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Do not make any more efforts. Listen to my words. O king! Men who fast here and give up their bodies, with all their senses intact, or those who are killed in battle, will certainly go to heaven. O Indra among kings! O immensely intelligent one! They will enjoy heaven.’",
+          "speaker": "shakra_came_to_the_rajarshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " King Kuru agreed to the words that Shakra had spoken. Having taken his leave and delighted in his mind, the slayer of Bala swiftly returned to heaven. O best among the Yadu lineage! In ancient times, this was thus ploughed by the rajarshi. Shakra promised great merits to those who give up their lives here. Shakra, the lord of the gods, himself composed a song about Kurukshetra and sang it. O one with the plough as his weapon! Listen to this. ",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The dust of Kurukshetra, when blown away by the wind, will convey even those who perform wicked deeds to the supreme objective.’",
+          "speaker": "shakra_came_to_the_rajarshi",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Bulls among the gods, supreme among the brahmanas, Nriga{219} and the best among kings, lions among men, have performed extremely expensive sacriﬁces here. They have given up their bodies and attained excellent ends. The region between Tarantuka and Arantuka, between Rama's lakes and Machakruka, is Kurukshetra Samantapanchaka{220}. It is known as Prajapati's northern altar. It is sacred, extremely auspicious and is revered by the residents of heaven. It possesses all the qualities of heaven. Therefore, all the lords of the earth who are slain here obtain the ends earmarked for great-souled ones.”",
+          "speaker": "@sages",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

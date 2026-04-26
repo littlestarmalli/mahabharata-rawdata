@@ -1,0 +1,190 @@
+{
+  "chapter": 1273,
+  "local": 54,
+  "shlokas": 44,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O Janamejaya! Thus did that terrible encounter take place. In misery, King Dhritarashtra spoke these words. “Rama{1} reached the spot where the duel with the clubs was to take place. O Sanjaya! On seeing this, how did my son ﬁght back against Bhima?”",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O Janamejaya! Thus did that terrible encounter take place. In misery, King Dhritarashtra spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Rama{1} reached the spot where the duel with the clubs was to take place. O Sanjaya! On seeing this, how did my son ﬁght back against Bhima?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Sanjaya said, “Seeing that Rama was present, your son, the mighty-armed and valiant Duryodhana, who desired to ﬁght, was delighted. O descendant of the Bharata lineage! On seeing the wielder of the plough, the king{2} stood up, ﬁlled with great delight. He{3} told Yudhishthira, ‘O lord of the earth! I will swiftly go to Samantapanchaka. In the world of the gods, it is known as Prajapati's northern sacriﬁcial altar. It is eternal and the most sacred spot in the three worlds. It is certain that someone who is killed there will attain heaven{4}.’ O great king! Yudhishthira, Kunti's son, agreed to these words. The brave lord{5} advanced in the direction of Samantapanchaka. At this, King Duryodhana also picked up a gigantic club. The immensely radiant and intolerant one advanced on foot, with the Pandavas. As he advanced on foot, armoured and mailed, and with the club in his hand, the gods in the ﬁrmament uttered words of praise and honoured him. On seeing this, the men who were bards were also ﬁlled with joy. Surrounded by the Pandavas, the king of the Kurus, your son, advanced—adopting the gait of a crazy king of elephants. Conch shells sounded and there was the great roar of drums. The brave ones roared like lions and ﬁlled all the directions. With your son, they went to the western direction that had been appointed. Having gone there, they spread themselves out in all the directions. This was a supreme tirtha on the southern banks of the Sarasvati. At that spot, the ground was not sandy and they chose this for the encounter.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Sanjaya said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@sanjaya",
+          "introduces_label": "Sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Seeing that Rama was present, your son, the mighty-armed and valiant Duryodhana, who desired to ﬁght, was delighted. O descendant of the Bharata lineage! On seeing the wielder of the plough, the king{2} stood up, ﬁlled with great delight. He{3} told Yudhishthira, ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O lord of the earth! I will swiftly go to Samantapanchaka. In the world of the gods, it is known as Prajapati's northern sacriﬁcial altar. It is eternal and the most sacred spot in the three worlds. It is certain that someone who is killed there will attain heaven{4}.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O great king! Yudhishthira, Kunti's son, agreed to these words. The brave lord{5} advanced in the direction of Samantapanchaka. At this, King Duryodhana also picked up a gigantic club. The immensely radiant and intolerant one advanced on foot, with the Pandavas. As he advanced on foot, armoured and mailed, and with the club in his hand, the gods in the ﬁrmament uttered words of praise and honoured him. On seeing this, the men who were bards were also ﬁlled with joy. Surrounded by the Pandavas, the king of the Kurus, your son, advanced—adopting the gait of a crazy king of elephants. Conch shells sounded and there was the great roar of drums. The brave ones roared like lions and ﬁlled all the directions. With your son, they went to the western direction that had been appointed. Having gone there, they spread themselves out in all the directions. This was a supreme tirtha on the southern banks of the Sarasvati. At that spot, the ground was not sandy and they chose this for the encounter.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “Bhima was armoured and grasped an extremely thick club. O great king! In that resplendent form, he looked like Garuda. O king! For the encounter, your son ﬁxed a helmet and was clad in golden armour. He was as dazzling as a golden mountain. The brave Bhima and Duryodhana were both attired in armour. In that encounter, they were as resplendent as angry elephants. Those two brothers, bulls among men, were stationed in that ﬁeld of battle. O great king! They were as beautiful as the rising moon and the sun. They glanced towards each other, like two angry and giant elephants. O king! Wishing to kill each other, they burnt each other down with their eyes. O king! Delighted, Kourava{6} grasped the club. O king! His eyes were red with anger. He sighed and licked the corners of his mouth. The valiant King Duryodhana also grasped a club. He glanced towards Bhimasena, like an elephant towards another elephant. The valiant Bhima also picked up one{7} that possessed the essence of stone and challenged the king, like a lion against another lion in the forest. Duryodhana and Vrikodara raised the clubs in their hands. In that encounter, they looked like mountains with peaks. Both of them were extremely angry and were terrible in their valour. In battling with clubs, both of them were the disciples of Rohini's intelligent son. They were the equals of each other in their deeds, like Yama and Vasava. In their deeds, they were the equals of the immensely strong Varuna. O great king! As warriors, they were the equals of Madhu and Kaitabha{8}. In their deeds in a battle, they were the equals of Sunda and Upansunda{9}. Those scorchers of enemies were like Destiny and like Death. They rushed towards each other, like two crazy and giant elephants, as if they were proud and maddened in the autumn season, desiring to have intercourse{10}. O bull among the Bharata lineage! They were like crazy elephants that wished to defeat each other. Like blazing serpents, they seemed to vomit out the poison of wrath towards each other. Those scorchers of enemies angrily glanced towards each other. Both those tigers of the Bharata lineage were full of valour. In ﬁghting with clubs, those two destroyers of enemies were as unassailable as lions. Those two brave warriors were difﬁcult to withstand, like tigers armed with claws and teeth. They were like two agitated oceans, impossible to cross, that were about to destroy beings. The angry maharathas scorched, like the one with the red limbs and rays{11}. The great-souled and immensely strong ones blazed. The best ones among the Kuru lineage were like two suns that had arisen at the time of destruction. They were as angry as tigers and roared like monsoon clouds. The mighty-armed ones were as cheerful as lions with manes. They were as angry as elephants and ﬂamed like the ﬁre. The great-souled ones were seen to be like mountains with peaks. Their lips were swollen in rage and they glanced towards each other. With clubs in their hands, those best of men clashed against each other. Both of them were extremely delighted and also revered each other{12}. They seemed to neigh like well-trained horses and trumpet like elephants. Duryodhana and Vrikodara bellowed like bulls. Those two best of men were as strong as daityas.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Bhima was armoured and grasped an extremely thick club. O great king! In that resplendent form, he looked like Garuda. O king! For the encounter, your son ﬁxed a helmet and was clad in golden armour. He was as dazzling as a golden mountain. The brave Bhima and Duryodhana were both attired in armour. In that encounter, they were as resplendent as angry elephants. Those two brothers, bulls among men, were stationed in that ﬁeld of battle. O great king! They were as beautiful as the rising moon and the sun. They glanced towards each other, like two angry and giant elephants. O king! Wishing to kill each other, they burnt each other down with their eyes. O king! Delighted, Kourava{6} grasped the club. O king! His eyes were red with anger. He sighed and licked the corners of his mouth. The valiant King Duryodhana also grasped a club. He glanced towards Bhimasena, like an elephant towards another elephant. The valiant Bhima also picked up one{7} that possessed the essence of stone and challenged the king, like a lion against another lion in the forest. Duryodhana and Vrikodara raised the clubs in their hands. In that encounter, they looked like mountains with peaks. Both of them were extremely angry and were terrible in their valour. In battling with clubs, both of them were the disciples of Rohini's intelligent son. They were the equals of each other in their deeds, like Yama and Vasava. In their deeds, they were the equals of the immensely strong Varuna. O great king! As warriors, they were the equals of Madhu and Kaitabha{8}. In their deeds in a battle, they were the equals of Sunda and Upansunda{9}. Those scorchers of enemies were like Destiny and like Death. They rushed towards each other, like two crazy and giant elephants, as if they were proud and maddened in the autumn season, desiring to have intercourse{10}. O bull among the Bharata lineage! They were like crazy elephants that wished to defeat each other. Like blazing serpents, they seemed to vomit out the poison of wrath towards each other. Those scorchers of enemies angrily glanced towards each other. Both those tigers of the Bharata lineage were full of valour. In ﬁghting with clubs, those two destroyers of enemies were as unassailable as lions. Those two brave warriors were difﬁcult to withstand, like tigers armed with claws and teeth. They were like two agitated oceans, impossible to cross, that were about to destroy beings. The angry maharathas scorched, like the one with the red limbs and rays{11}. The great-souled and immensely strong ones blazed. The best ones among the Kuru lineage were like two suns that had arisen at the time of destruction. They were as angry as tigers and roared like monsoon clouds. The mighty-armed ones were as cheerful as lions with manes. They were as angry as elephants and ﬂamed like the ﬁre. The great-souled ones were seen to be like mountains with peaks. Their lips were swollen in rage and they glanced towards each other. With clubs in their hands, those best of men clashed against each other. Both of them were extremely delighted and also revered each other{12}. They seemed to neigh like well-trained horses and trumpet like elephants. Duryodhana and Vrikodara bellowed like bulls. Those two best of men were as strong as daityas.",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘ “O king! Duryodhana spoke to Yudhishthira, who was stationed with the Srinjayas, like a scorching sun. ‘O best of kings! Be seated and witness this encounter that will take place between me and Bhima.’ At this, that large circle of kings sat down. They were seen to be as beautiful as a collection of gods in the ﬁrmament. O great king! Honoured by them from every direction, Keshava's mighty-armed and handsome elder brother seated himself in their midst. The fair-complexioned one with the blue garments was beautiful in the midst of the kings, like the full moon in the night, surrounded by the stars. O great king! With clubs in their hands, they{13} were unassailable. They were stationed there and censured each other with ﬁerce words. Having spoken those unpleasant words towards each other, those two brave bulls of the Kuru lineage glanced towards each other, like Vritra and Shakra in a battle.” ’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘ ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! Duryodhana spoke to Yudhishthira, who was stationed with the Srinjayas, like a scorching sun. ",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O best of kings! Be seated and witness this encounter that will take place between me and Bhima.’",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " At this, that large circle of kings sat down. They were seen to be as beautiful as a collection of gods in the ﬁrmament. O great king! Honoured by them from every direction, Keshava's mighty-armed and handsome elder brother seated himself in their midst. The fair-complexioned one with the blue garments was beautiful in the midst of the kings, like the full moon in the night, surrounded by the stars. O great king! With clubs in their hands, they{13} were unassailable. They were stationed there and censured each other with ﬁerce words. Having spoken those unpleasant words towards each other, those two brave bulls of the Kuru lineage glanced towards each other, like Vritra and Shakra in a battle.”",
+          "speaker": "@sanjaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " ’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

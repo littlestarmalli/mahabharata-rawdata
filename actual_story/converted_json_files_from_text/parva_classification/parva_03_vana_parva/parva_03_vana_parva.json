@@ -1,0 +1,187 @@
+{
+  "name": "Vana Parva",
+  "parva_number": 3,
+  "details": {
+    "num_subparvas": 16,
+    "num_chapters": 299,
+    "num_shlokas": 10152
+  },
+  "subparvas": {
+    "29": {
+      "subparva_number": 29,
+      "name": "Aranyaka Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 327
+      },
+      "note": "The first section within Aranyaka Parva is also called Aranyaka Parva, the word aranyaka having already been explained.",
+      "file": "parva_03_vana_parva/subparva_29_aranyaka_parva/subparva_29_aranyaka_parva.json"
+    },
+    "30": {
+      "subparva_number": 30,
+      "name": "Kirmira-vadha Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 0
+      },
+      "note": "Kirmira was a rakshasa mentioned in the last section and as already explained the word vadha means killing. So this section is about the killing of Kirmira.",
+      "file": "parva_03_vana_parva/subparva_30_kirmira_vadha_parva/subparva_30_kirmira_vadha_parva.json"
+    },
+    "31": {
+      "subparva_number": 31,
+      "name": "Kairata Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 30,
+        "num_shlokas": 1150
+      },
+      "note": "Kiratas, as mentioned earlier, are mountain-dwellers who make a living through hunting. This section is so named because Shiva assumed the form of a kirata and fought with Arjuna.",
+      "file": "parva_03_vana_parva/subparva_31_kairata_parva/subparva_31_kairata_parva.json"
+    },
+    "32": {
+      "subparva_number": 32,
+      "name": "Indralokabhigamana Parva",
+      "source_volume": 2,
+      "details": {
+        "num_chapters": 37,
+        "num_shlokas": 1175
+      },
+      "note": "Indraloka means Tndra�s world and abhigamana means to go or visit. So this section is about the visit to Tndra�s world, meaning Arjuna�s visit to Tndra�s world.",
+      "file": "parva_03_vana_parva/subparva_32_indralokabhigamana_parva/subparva_32_indralokabhigamana_parva.json"
+    },
+    "33": {
+      "subparva_number": 33,
+      "name": "Tirtha-yatra Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 74,
+        "num_shlokas": 2422
+      },
+      "note": "The chapters have two numbers, the first being the sequential numbering of the chapters right from the beginning. The second one, the num-ber within brackets, is the sequential numbering of the chapters within Aranyaka Parva. Tirtha means a sacred place of pilgrimage and yatra means a journey. This section is thus primarily about the journey to sacred places of pilgrimage like Pushkara, Prabhasa, Dvaravati, Vinasana, Rudrakoti, Kurukshetra, Mrigadhuma, Naimisha, Saptasarasvata, Prithudaka, Samnihiti, Shakambhari, Suvarnaksha, Varanasi, Gaya, Shalagrama, Rishabha, Gokarna, Prayaga, Gandhamadana and Kailasa. It also has the stories of Agastya, Tndra and Vritra, Sagara and Bhagiratha, Rishyashringa, Parashurama and Kartyavirya, Chyavana and Sukanya, Mandhata, Jantu, Shibi Ushinara, Ashtavakra, Yavakrita and the account of the encounter between Hanuman and Bhima.",
+      "file": "parva_03_vana_parva/subparva_33_tirtha_yatra_parva/subparva_33_tirtha_yatra_parva.json"
+    },
+    "34": {
+      "subparva_number": 34,
+      "name": "Jatasura-vadha Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 0
+      },
+      "note": "Vadha means to kill or slay and this section is about Bhima killing the demon named Jatasura.",
+      "file": "parva_03_vana_parva/subparva_34_jatasura_vadha_parva/subparva_34_jatasura_vadha_parva.json"
+    },
+    "35": {
+      "subparva_number": 35,
+      "name": "Yaksha-yuddha Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 18,
+        "num_shlokas": 727
+      },
+      "note": "Yuddha means battle or fight and the section is named after a fight between Bhima and the yakshas. In this section, the Pandavas visit the sage Vrishaparva on Mount Gandhamadana and then travel to the hermitage of the sage Arshtishena, where they dwell, waiting for Arjuna�s return. Reminiscent of Section 33, Droupadi sends Bhima to search for celestial ?owers. Bhima fights with yakshas and rakshasas and kills the rakshasa Maniman. The Pandavas meet Kubera and Tndra. Arjuna returns and recounts his adventures, repeating much of what has al-ready been said in Sections 37 and 32 (Volume 7). These parts of Section 35 are not only repetitive, and sometimes inconsistent, they don�t quite seem to belong. The only new information is about Arjuna�s fight with the nivatakavacha demons and the demons who inhabited Hiranyapura.",
+      "file": "parva_03_vana_parva/subparva_35_yaksha_yuddha_parva/subparva_35_yaksha_yuddha_parva.json"
+    },
+    "36": {
+      "subparva_number": 36,
+      "name": "Ajagara Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 6,
+        "num_shlokas": 201
+      },
+      "note": "Ajagara means a boa constrictor, literally something that swallows a goat (aja). The Pandavas retrace their steps to Vrishaparva�s hermitage and Badari and then go to visit King Subahu. From there, they go to the origins of the Yamuna and Dvaitavana, on the banks of the Sarasvati. Bhima is then grasped by Nahusha in the form of a boa and this is why this section is called Ajagara Parva. The highlight of this section is a dialogue between Yudhishthira and Nahusha, in the form of a boa.",
+      "file": "parva_03_vana_parva/subparva_36_ajagara_parva/subparva_36_ajagara_parva.json"
+    },
+    "37": {
+      "subparva_number": 37,
+      "name": "Markandeya Samasya Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 43,
+        "num_shlokas": 1694
+      },
+      "note": "The Pandavas return to Kamyaka and are visited by Krishna and then by the sage Markandeya. The word samasya means the completion or filling up of that which is incomplete. This section is so named because of a long conversation between the Pandavas and Markandeya. It has the stories of Manu, the ?ood and the fish, details about the four yugas (eras) and different kinds of fires, the stories of Vamadeva, Tndradyum-na, Dhundhumara, Koushika, Angiras and Skanda.",
+      "file": "parva_03_vana_parva/subparva_37_markandeya_samasya_parva/subparva_37_markandeya_samasya_parva.json"
+    },
+    "38": {
+      "subparva_number": 38,
+      "name": "Droupadi-Satyabhama Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 3,
+        "num_shlokas": 88
+      },
+      "note": "Harana means abduction and this parva is about Droupadi�s abduction by Jayadratha. Jayadratha abducts Droupadi. The Pandavas defeat Jayadratha and free Droupadi, shaving Jayadratha�s head in the process. Jayadratha obtains a boon from Shiva. This section then tells the story of the Ramayana and Savitri and Satyavan, where Savitri brings her husband, Satyavan, back from the land of the dead.",
+      "file": "parva_03_vana_parva/subparva_38_droupadi_satyabhama_parva/subparva_38_droupadi_satyabhama_parva.json"
+    },
+    "39": {
+      "subparva_number": 39,
+      "name": "Ghoshayatra Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 19,
+        "num_shlokas": 519
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_03_vana_parva/subparva_39_ghoshayatra_parva/subparva_39_ghoshayatra_parva.json"
+    },
+    "40": {
+      "subparva_number": 40,
+      "name": "Mriga-Svapna-Bhaya Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 0
+      },
+      "note": "Mriga means deer. Deer appear to Yudhishthira in a dream (svapna) and tell him about their fears (bhaya), requesting the Pan-davas to relocate from Dvaitavana.",
+      "file": "parva_03_vana_parva/subparva_40_mriga_svapna_bhaya_parva/subparva_40_mriga_svapna_bhaya_parva.json"
+    },
+    "41": {
+      "subparva_number": 41,
+      "name": "Vrihi-Drounika Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 3,
+        "num_shlokas": 117
+      },
+      "note": "Vrihi means rice, or a grain of rice. Drouni or drona means a vessel, as well as a measure of capacity. Vyasa visits the Pandavas and tells them the story of Mudgala, who lived on a measure (drona) of rice (vrihi) and was generous enough to give it away. Mudgala was tested by the sage Durvasa and turned down an opportunity to go to heaven.",
+      "file": "parva_03_vana_parva/subparva_41_vrihi_drounika_parva/subparva_41_vrihi_drounika_parva.json"
+    },
+    "42": {
+      "subparva_number": 42,
+      "name": "Droupadi-harana Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 36,
+        "num_shlokas": 1247
+      },
+      "note": "Harana means abduction and this parva is about Droupadi�s abduction by Jayadratha. Jayadratha abducts Droupadi. The Pandavas defeat Jayadratha and free Droupadi, shaving Jayadratha�s head in the process. Jayadratha obtains a boon from Shiva. This section then tells the story of the Ramayana and Savitri and Satyavan, where Savitri brings her husband, Satyavan, back from the land of the dead.",
+      "file": "parva_03_vana_parva/subparva_42_droupadi_harana_parva/subparva_42_droupadi_harana_parva.json"
+    },
+    "43": {
+      "subparva_number": 43,
+      "name": "Kundala-aharana Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 11,
+        "num_shlokas": 294
+      },
+      "note": "Kundala is an earring and Karna was naturally born with kundalas. Aharana means seizing or taking. Pritha (Kunti) serves Durvasa and ob-tains a boon. Through this, she invokes Surya and Karna is born. When she abandons Karna, he is adopted and raised by a charioteer. Karna is born with natural armour and earrings that make him invincible. Tndra asks for these, and in return, gives Karna an invincible spear.",
+      "file": "parva_03_vana_parva/subparva_43_kundala_aharana_parva/subparva_43_kundala_aharana_parva.json"
+    },
+    "44": {
+      "subparva_number": 44,
+      "name": "Aranyaka-parvan Parva",
+      "source_volume": 3,
+      "details": {
+        "num_chapters": 5,
+        "num_shlokas": 191
+      },
+      "note": "The first section within Aranyaka Parva is also called Aranyaka Parva, the word aranyaka having already been explained.",
+      "file": "parva_03_vana_parva/subparva_44_aranyaka_parvan_parva/subparva_44_aranyaka_parvan_parva.json"
+    }
+  }
+}

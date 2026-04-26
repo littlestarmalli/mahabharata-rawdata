@@ -1,0 +1,839 @@
+{
+  "chapter_number": 1865,
+  "global_number": 1865,
+  "local_number": 30,
+  "num_shlokas": 31,
+  "paragraphs": {
+    "1": {
+      "raw": "‘“The ancestors said, “In this connection, an ancient history is recounted. O supreme among brahmanas! Having heard the truth about this, decide on your course of action. There was a rajarshi named Alarka and he was extremely great in his austerities. He was knowledgable about dharma and devoted to the truth. He was greatsouled and extremely great in his vows. Seizing his bow, he conquered the earth, up to the frontiers of the ocean. Having performed this extremely difﬁcult task, his mind turned towards what was subtle. He sat down at the foot of a tree. O immensely intelligent one! Forgetting that extremely large kingdom, his thoughts turned towards what was subtle.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "“",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "The ancestors said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“In this connection, an ancient history is recounted. O supreme among brahmanas! Having heard the truth about this, decide on your course of action. There was a rajarshi named Alarka and he was extremely great in his austerities. He was knowledgable about dharma and devoted to the truth. He was greatsouled and extremely great in his vows. Seizing his bow, he conquered the earth, up to the frontiers of the ocean. Having performed this extremely difﬁcult task, his mind turned towards what was subtle. He sat down at the foot of a tree. O immensely intelligent one! Forgetting that extremely large kingdom, his thoughts turned towards what was subtle.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘“‘“Alarka said, ‘Strength has been generated in my mind. When one conquers the mind, victory is certain. Elsewhere, when surrounded by enemies, I shot arrows. If my mind assumes a ﬁckle form and tries to distract me in every possible way, I will unleash extremely sharp-pointed arrows towards it.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘Strength has been generated in my mind. When one conquers the mind, victory is certain. Elsewhere, when surrounded by enemies, I shot arrows. If my mind assumes a ﬁckle form and tries to distract me in every possible way, I will unleash extremely sharp-pointed arrows towards it.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 5
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“‘“The mind replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 5
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The mind replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 7
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 6
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 7
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 8
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘“‘“Alarka said, ‘I inhale many kinds of smells and receive them. Therefore, I will release sharp arrows towards my nose.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 8
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 9
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘I inhale many kinds of smells and receive them. Therefore, I will release sharp arrows towards my nose.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 10
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘“‘“The nose replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 10
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 11
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The nose replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 12
+        }
+      ]
+    },
+    "7": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 11
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 12
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 12
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 13
+        }
+      ]
+    },
+    "8": {
+      "raw": "‘“‘“Alarka said, ‘I enjoy many kinds of tastes and receive them. Therefore, I will release sharp arrows towards my tongue.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 13
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 14
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘I enjoy many kinds of tastes and receive them. Therefore, I will release sharp arrows towards my tongue.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 15
+        }
+      ]
+    },
+    "9": {
+      "raw": "‘“‘“The tongue replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 15
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 16
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The tongue replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 17
+        }
+      ]
+    },
+    "10": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 16
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 17
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 17
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 18
+        }
+      ]
+    },
+    "11": {
+      "raw": "‘“‘“Alarka said, ‘I touch with my skin and receive the sensation of touch. Therefore, I will bring the skin down with many arrows shafted with the feathers of herons.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 18
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 19
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘I touch with my skin and receive the sensation of touch. Therefore, I will bring the skin down with many arrows shafted with the feathers of herons.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 20
+        }
+      ]
+    },
+    "12": {
+      "raw": "‘“‘“The skin replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 20
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 21
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The skin replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 22
+        }
+      ]
+    },
+    "13": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 21
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 22
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 22
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 23
+        }
+      ]
+    },
+    "14": {
+      "raw": "‘“‘“Alarka said, ‘I hear many kinds of sound and receive them. Therefore, I will release sharp arrows towards my ears.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 23
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 24
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘I hear many kinds of sound and receive them. Therefore, I will release sharp arrows towards my ears.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 25
+        }
+      ]
+    },
+    "15": {
+      "raw": "‘“‘“The ears replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 25
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 26
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The ears replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 27
+        }
+      ]
+    },
+    "16": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 26
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 27
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 27
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 28
+        }
+      ]
+    },
+    "17": {
+      "raw": "‘“‘“Alarka said, ‘I see many kinds of attributes and receive them. Therefore, I will release sharp arrows towards my eyes.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 28
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 29
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘I see many kinds of attributes and receive them. Therefore, I will release sharp arrows towards my eyes.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 30
+        }
+      ]
+    },
+    "18": {
+      "raw": "‘“‘“The eyes replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 30
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 31
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The eyes replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die. Consider other arrows with which you can strike at me.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 32
+        }
+      ]
+    },
+    "19": {
+      "raw": "‘“‘The ancestors continued, “Hearing these words, he thought and spoke these words.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 31
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 32
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 32
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Hearing these words, he thought and spoke these words.",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 33
+        }
+      ]
+    },
+    "20": {
+      "raw": "‘“‘“Alarka said, ‘There are many kinds of devotion, but wisdom constraints them. Therefore, I will release sharp arrows towards my intelligence.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 33
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 34
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“Alarka said, ‘There are many kinds of devotion, but wisdom constraints them. Therefore, I will release sharp arrows towards my intelligence.’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 35
+        }
+      ]
+    },
+    "21": {
+      "raw": "‘“‘“The intelligence replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die.’”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 35
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 36
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The intelligence replied, ‘O Alarka! Those arrows will never be able to pierce me. They will pierce your inner organs instead. With your inner organs pierced, you will die.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 37
+        }
+      ]
+    },
+    "22": {
+      "raw": "‘“‘The ancestors continued, “At this, Alarka engaged in terrible, supreme and extremely difﬁcult austerities. However, he was unable to touch those seven{120} with his arrows. The lord controlled himself and began to think. O supreme among brahmanas! Alarka thought for a long time. The supreme among intelligent ones could not think of anything that was better than, and superior to, yoga. Single-minded and without moving, he resorted to yoga. Using a single arrow, the valiant one quickly slew his senses. Immersing his atman in yoga, he obtained supreme success. Astounded, the rajarshi chanted this song. ‘Alas! It was a hardship that I formerly served the kingdom. I only got to know later that yoga brings supreme bliss.’ O Rama! You should also know this. Do not kill the kshatriyas. If you wish what is beneﬁcial for you, engage in terrible austerities.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 36
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "“‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 37
+        },
+        {
+          "type": "attribution",
+          "speaker": "@the_ancestors",
+          "text": "The ancestors continued",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 37
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“At this, Alarka engaged in terrible, supreme and extremely difﬁcult austerities. However, he was unable to touch those seven{120} with his arrows. The lord controlled himself and began to think. O supreme among brahmanas! Alarka thought for a long time. The supreme among intelligent ones could not think of anything that was better than, and superior to, yoga. Single-minded and without moving, he resorted to yoga. Using a single arrow, the valiant one quickly slew his senses. Immersing his atman in yoga, he obtained supreme success. Astounded, the rajarshi chanted this song. ‘Alas! It was a hardship that I formerly served the kingdom. I only got to know later that yoga brings supreme bliss.’ O Rama! You should also know this. Do not kill the kshatriyas. If you wish what is beneﬁcial for you, engage in terrible austerities.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 38
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 37
+        }
+      ]
+    },
+    "23": {
+      "raw": "‘“The brahmana continued, ‘Having been thus addressed by his ancestors, Jamadagni’s son engaged in terrible austerities. Having resorted to those, the immensely fortunate one obtained success that is extremely difﬁcult to obtain.’”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "‘",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 37
+        },
+        {
+          "type": "speech",
+          "speaker": "@the_ancestors",
+          "text": "“The brahmana continued, ‘Having been thus addressed by his ancestors, Jamadagni’s son engaged in terrible austerities. Having resorted to those, the immensely fortunate one obtained success that is extremely difﬁcult to obtain.’”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 38
+        },
+        {
+          "type": "narration",
+          "speaker": "@the_ancestors",
+          "text": "’",
+          "color": "#888888",
+          "opacity": 0.4,
+          "depth": 37
+        }
+      ]
+    }
+  }
+}

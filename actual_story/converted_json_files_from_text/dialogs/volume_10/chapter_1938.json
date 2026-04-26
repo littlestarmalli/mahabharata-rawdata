@@ -1,0 +1,136 @@
+{
+  "chapter": 1938,
+  "local": 7,
+  "shlokas": 19,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Dhritarashtra said, “O Pandava! Touch me with your hands again and embrace me. O lotus-eyed one! I have regained my senses through your touch. O lord of men! I wish to inhale the fragrance of your head. If you touch me with your hands, I will not give up my life. It is the eighth hour and time for me to eat. O tiger among Kurus! Having not eaten, I am incapable of moving. I have committed a great deal of exertion in seeking your permission. O son! That is the reason I was weak and seemed to have lost my senses. O lord! The touch of your hand has been like the touch of amrita. O extender of the Kuru lineage! I think that I have got back my life again.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Dhritarashtra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Pandava! Touch me with your hands again and embrace me. O lotus-eyed one! I have regained my senses through your touch. O lord of men! I wish to inhale the fragrance of your head. If you touch me with your hands, I will not give up my life. It is the eighth hour and time for me to eat. O tiger among Kurus! Having not eaten, I am incapable of moving. I have committed a great deal of exertion in seeking your permission. O son! That is the reason I was weak and seemed to have lost my senses. O lord! The touch of your hand has been like the touch of amrita. O extender of the Kuru lineage! I think that I have got back my life again.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana continued, ‘O descendant of the Bharata lineage! Thus addressed by his father's elder brother, Kounteya gently and affectionately touched him all over the body. At this, King Dhritarashtra regained his senses. He embraced Pandava with his arms and inhaled the fragrance of his head. In great sorrow, Vidura and all the others wept loudly. However, since they were overcome with sorrow, the Pandavas had nothing to say to the king or to Gandhari, who was knowledgable about dharma and bore the severe mental pain. Kunti and the other women were also extremely distressed. In their great grief, they tried to restrain the king. Tears of sorrow ﬂowed down their faces. They surrounded him and stood there. Yet again, Dhritarashtra spoke these words to Yudhishthira. “O king! O bull among the Bharata lineage! I seek your permission to become an ascetic. O son! My mind is full of distress and I have been thinking about this repeatedly. O son! You should not cause me greater grief.” This is what the Indra among the Kouravas told the Pandava. At this, a great sound of lamentation arose among all the warriors. Dharma's son saw that the king was wan and faded, exhausted with the fasting, as if he was made out of only skin and bones. The mighty-armed one embraced his father. He shed tears of sorrow and again spoke these words. “O best among men! I do not desire to remain alive, nor do I wish for the earth. O king! O scorcher of enemies! If I have done what you wish and if you are fond of me, if you love me and wish to gratify me, then stay with us and eat something.” The immensely energetic king told Dharma's son, “O son! If you wish that I should eat something, with your permission, I shall.” Dhritarashtra, Indra among kings, told Yudhishthira this. Satyavati's son, the rishi Vyasa, arrived and spoke these words.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana continued, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O descendant of the Bharata lineage! Thus addressed by his father's elder brother, Kounteya gently and affectionately touched him all over the body. At this, King Dhritarashtra regained his senses. He embraced Pandava with his arms and inhaled the fragrance of his head. In great sorrow, Vidura and all the others wept loudly. However, since they were overcome with sorrow, the Pandavas had nothing to say to the king or to Gandhari, who was knowledgable about dharma and bore the severe mental pain. Kunti and the other women were also extremely distressed. In their great grief, they tried to restrain the king. Tears of sorrow ﬂowed down their faces. They surrounded him and stood there. Yet again, Dhritarashtra spoke these words to Yudhishthira. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O king! O bull among the Bharata lineage! I seek your permission to become an ascetic. O son! My mind is full of distress and I have been thinking about this repeatedly. O son! You should not cause me greater grief.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " This is what the Indra among the Kouravas told the Pandava. At this, a great sound of lamentation arose among all the warriors. Dharma's son saw that the king was wan and faded, exhausted with the fasting, as if he was made out of only skin and bones. The mighty-armed one embraced his father. He shed tears of sorrow and again spoke these words. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best among men! I do not desire to remain alive, nor do I wish for the earth. O king! O scorcher of enemies! If I have done what you wish and if you are fond of me, if you love me and wish to gratify me, then stay with us and eat something.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The immensely energetic king told Dharma's son, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O son! If you wish that I should eat something, with your permission, I shall.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Dhritarashtra, Indra among kings, told Yudhishthira this. Satyavati's son, the rishi Vyasa, arrived and spoke these words.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

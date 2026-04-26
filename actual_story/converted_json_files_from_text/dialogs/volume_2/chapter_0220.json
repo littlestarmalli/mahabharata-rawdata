@@ -1,0 +1,215 @@
+{
+  "chapter": 220,
+  "local": 220,
+  "shlokas": 32,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Janamejaya asked, ‘O brahmana! Why did Agni, the ﬁre, not burn the Sharngakas when that forest was blazing? Tell me at once. O, brahmana! You have recounted the reason why Ashvasena and the danava Maya were not burnt. But you have not told us the reason for the Sharngakas. O, brahmana! It is extraordinary that the Sharngakas escaped from destruction. Recount to us why they were not destroyed in the conﬂagaration.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Janamejaya asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@janamejaya",
+          "introduces_label": "Janamejaya",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O brahmana! Why did Agni, the ﬁre, not burn the Sharngakas when that forest was blazing? Tell me at once. O, brahmana! You have recounted the reason why Ashvasena and the danava Maya were not burnt. But you have not told us the reason for the Sharngakas. O, brahmana! It is extraordinary that the Sharngakas escaped from destruction. Recount to us why they were not destroyed in the conﬂagaration.’",
+          "speaker": "@janamejaya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O descendant of the Bharata lineage! I will tell you everything exactly about why Agni did not consume the Sharngakas. O king! There was a great rishi renowned by the name of Mandapala. He was learned in dharma, rigid in his vows and chief among ascetics. He followed the path of the rishis who held up their seed{54}, was devoted to studying the sacred texts and dharma, was an ascetic and had achieved control over his senses. O descendant of the Bharata lineage! Having attained the ﬁnal goal of ascetism, he gave up his human body and went to the world of the ancestors. But he did not ﬁnd the fruits of his acts there. The dwellers of heaven were seated around Dharmaraja{55} and he asked them, “Why have I not attained the worlds that should have been the fruit of my asceticism? What have I not done that this should be the fruit of my actions? O dwellers of heaven! I will do that which will get me the fruits of my asceticism and open that which is now closed. Tell me.” The gods replied, “O brahmana! Hear about the debts men are undoubtedly born with—to rituals, brahmacharya{56} and offspring, and these are respectively discharged through sacriﬁces, austerities and progeny. You are an ascetic and you have performed sacriﬁces. But you did not have any offspring. Because you did not have offspring, these worlds are closed to you. Therefore, have progeny and you will enjoy these worlds for an eternity. O sage! A son saves a father from the hell known as put{57}. O supreme among brahmanas! Therefore, try to obtain offspring.” On hearing these words of the dwellers of heaven, Mandapala began to wonder how he might obtain a large number of offspring swiftly. After thinking about this, he concluded that birds give birth to many offspring.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O descendant of the Bharata lineage! I will tell you everything exactly about why Agni did not consume the Sharngakas. O king! There was a great rishi renowned by the name of Mandapala. He was learned in dharma, rigid in his vows and chief among ascetics. He followed the path of the rishis who held up their seed{54}, was devoted to studying the sacred texts and dharma, was an ascetic and had achieved control over his senses. O descendant of the Bharata lineage! Having attained the ﬁnal goal of ascetism, he gave up his human body and went to the world of the ancestors. But he did not ﬁnd the fruits of his acts there. The dwellers of heaven were seated around Dharmaraja{55} and he asked them, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Why have I not attained the worlds that should have been the fruit of my asceticism? What have I not done that this should be the fruit of my actions? O dwellers of heaven! I will do that which will get me the fruits of my asceticism and open that which is now closed. Tell me.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The gods replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O brahmana! Hear about the debts men are undoubtedly born with—to rituals, brahmacharya{56} and offspring, and these are respectively discharged through sacriﬁces, austerities and progeny. You are an ascetic and you have performed sacriﬁces. But you did not have any offspring. Because you did not have offspring, these worlds are closed to you. Therefore, have progeny and you will enjoy these worlds for an eternity. O sage! A son saves a father from the hell known as put{57}. O supreme among brahmanas! Therefore, try to obtain offspring.”",
+          "speaker": "the_gods",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " On hearing these words of the dwellers of heaven, Mandapala began to wonder how he might obtain a large number of offspring swiftly. After thinking about this, he concluded that birds give birth to many offspring.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘So he became a Sharngaka bird and united with a female Sharngaka bird named Jarita. Through her, he had four sons who were knowledgable about the brahman. While these young sons were still inside their eggs, the sage deserted them there in that forest with their mother and went off after Lapita{58}. O descendant of the Bharata lineage! When the immensely illustrious one went off after Lapita, out of affection for her children, Jarita became very thoughtful and anxious. O king! Those sons, the infant rishis still in their eggs, had undeservedly been abandoned by their father in Khandava forest. But out of love for her sons, Jarita could not discard them and after they were born, brought them up in her own way{59}.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘So he became a Sharngaka bird and united with a female Sharngaka bird named Jarita. Through her, he had four sons who were knowledgable about the brahman. While these young sons were still inside their eggs, the sage deserted them there in that forest with their mother and went off after Lapita{58}. O descendant of the Bharata lineage! When the immensely illustrious one went off after Lapita, out of affection for her children, Jarita became very thoughtful and anxious. O king! Those sons, the infant rishis still in their eggs, had undeservedly been abandoned by their father in Khandava forest. But out of love for her sons, Jarita could not discard them and after they were born, brought them up in her own way{59}.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘After some time, the rishi Mandapala was wandering in the forest with Lapita and he saw Agni advance towards Khandava to consume it. Knowing his resolution and knowing his sons were still young, the brahmana sage prayed to the greatly energetic ﬁre, lord of the world, scared about the protection of his sons. Mandapala said, “O Agni! You are the mouth of all the gods, you are the one who carries sacriﬁcial offerings. You are the puriﬁer who dwells invisibly in all living beings. The learned have said that you are one and have again said that you are three{60}. They think of you in eight forms{61} and imagine you as the one who carries sacriﬁcial offerings. The supreme rishis say that you have created the entire universe. O ﬁre! The universe is based on you and without you, it will be destroyed instantly. It is after paying homage to you that the brahmanas go to the eternal worlds they have earned through their actions, together with their wives and sons. O Agni! It is said that you are the ﬁre in the clouds in the sky, in their lightning. The ﬂames that emerge from you burn down all beings. O immensely radiant one! O Jataveda{62}! You have created everything in this universe. Everything, mobile and immobile, every action and everything that exists is based on you. You have determined the ancient waters, everything in the universe is based on you. The offerings to the gods and the offerings to the ancestors, as prescribed, are based on you. O Agni! You are the one who burns down, you are Dhata{63}, you are Brihaspati{64}. You are the two Ashvins, the two Yamas{65}, Mitra, Soma and Anila{66}.” O king! Having been thus prayed to by Mandapala, Agni was satisﬁed with the immeasurably energetic sage. With happiness in his heart, he asked him, “What good can I do for you?” With hands joined in salutation, Mandapala told the ﬁre, “When you burn Khandava forest, please spare my sons.” The illustrious bearer of sacriﬁcial offerings gave him his word and at that time, he blazed into Khandava, wishing to consume it.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After some time, the rishi Mandapala was wandering in the forest with Lapita and he saw Agni advance towards Khandava to consume it. Knowing his resolution and knowing his sons were still young, the brahmana sage prayed to the greatly energetic ﬁre, lord of the world, scared about the protection of his sons. Mandapala said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@mandapala",
+          "introduces_label": "Mandapala",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Agni! You are the mouth of all the gods, you are the one who carries sacriﬁcial offerings. You are the puriﬁer who dwells invisibly in all living beings. The learned have said that you are one and have again said that you are three{60}. They think of you in eight forms{61} and imagine you as the one who carries sacriﬁcial offerings. The supreme rishis say that you have created the entire universe. O ﬁre! The universe is based on you and without you, it will be destroyed instantly. It is after paying homage to you that the brahmanas go to the eternal worlds they have earned through their actions, together with their wives and sons. O Agni! It is said that you are the ﬁre in the clouds in the sky, in their lightning. The ﬂames that emerge from you burn down all beings. O immensely radiant one! O Jataveda{62}! You have created everything in this universe. Everything, mobile and immobile, every action and everything that exists is based on you. You have determined the ancient waters, everything in the universe is based on you. The offerings to the gods and the offerings to the ancestors, as prescribed, are based on you. O Agni! You are the one who burns down, you are Dhata{63}, you are Brihaspati{64}. You are the two Ashvins, the two Yamas{65}, Mitra, Soma and Anila{66}.”",
+          "speaker": "@mandapala",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! Having been thus prayed to by Mandapala, Agni was satisﬁed with the immeasurably energetic sage. With happiness in his heart, he asked him, ",
+          "speaker": "@vaishampayana",
+          "introduces": "unknown",
+          "introduces_label": "he",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“What good can I do for you?”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " With hands joined in salutation, Mandapala told the ﬁre, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@mandapala",
+          "introduces_label": "Mandapala",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When you burn Khandava forest, please spare my sons.”",
+          "speaker": "@mandapala",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The illustrious bearer of sacriﬁcial offerings gave him his word and at that time, he blazed into Khandava, wishing to consume it.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

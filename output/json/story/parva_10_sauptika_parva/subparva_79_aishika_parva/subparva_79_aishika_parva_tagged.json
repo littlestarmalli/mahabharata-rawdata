@@ -1,0 +1,86 @@
+{
+  "name": "Aishika Parva",
+  "subparva_number": 79,
+  "source_volume": 8,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 257
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1293": {
+      "chapter_number": 1293,
+      "global_number": 1293,
+      "local_number": 10,
+      "num_shlokas": 30,
+      "file": "subparva_79_aishika_parva/chapter_1293_tagged.json"
+    },
+    "1294": {
+      "chapter_number": 1294,
+      "global_number": 1294,
+      "local_number": 11,
+      "num_shlokas": 30,
+      "file": "subparva_79_aishika_parva/chapter_1294_tagged.json"
+    },
+    "1295": {
+      "chapter_number": 1295,
+      "global_number": 1295,
+      "local_number": 12,
+      "num_shlokas": 40,
+      "file": "subparva_79_aishika_parva/chapter_1295_tagged.json"
+    },
+    "1296": {
+      "chapter_number": 1296,
+      "global_number": 1296,
+      "local_number": 13,
+      "num_shlokas": 20,
+      "file": "subparva_79_aishika_parva/chapter_1296_tagged.json"
+    },
+    "1297": {
+      "chapter_number": 1297,
+      "global_number": 1297,
+      "local_number": 14,
+      "num_shlokas": 16,
+      "file": "subparva_79_aishika_parva/chapter_1297_tagged.json"
+    },
+    "1298": {
+      "chapter_number": 1298,
+      "global_number": 1298,
+      "local_number": 15,
+      "num_shlokas": 33,
+      "file": "subparva_79_aishika_parva/chapter_1298_tagged.json"
+    },
+    "1299": {
+      "chapter_number": 1299,
+      "global_number": 1299,
+      "local_number": 16,
+      "num_shlokas": 36,
+      "file": "subparva_79_aishika_parva/chapter_1299_tagged.json"
+    },
+    "1300": {
+      "chapter_number": 1300,
+      "global_number": 1300,
+      "local_number": 17,
+      "num_shlokas": 26,
+      "file": "subparva_79_aishika_parva/chapter_1300_tagged.json"
+    },
+    "1301": {
+      "chapter_number": 1301,
+      "global_number": 1301,
+      "local_number": 18,
+      "num_shlokas": 26,
+      "file": "subparva_79_aishika_parva/chapter_1301_tagged.json"
+    }
+  }
+}

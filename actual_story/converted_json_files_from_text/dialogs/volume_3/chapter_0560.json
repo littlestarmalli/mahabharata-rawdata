@@ -1,0 +1,279 @@
+{
+  "chapter": 560,
+  "local": 263,
+  "shlokas": 43,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Markandeya said, “The immensely valorous king of the vultures, Jatayu, was the son of Aruna and the brother of Sampati and was a friend of Dasharatha's. When the bird saw his{85} daughter-in-law in Ravana's arms, he angrily rushed at the lord of the rakshasas. The vulture told him, ‘O traveller in the night! Let her go. Let Maithili go. How can you carry her off as long as I am alive? If you do not give up the daughter-in-law, you will not escape with your life.’ Saying this, he powerfully attacked the Indra among rakshasas with his talons. He struck him with his wings and beak and lacerated him in many ways and large quantities of blood began to gush out{86}, like a mountain spring. Thus struck by the vulture, who wished to do that which would bring Rama pleasure, he grasped his sword and sliced off the wings of the bird. Having killed the king of the vultures, and looking like a mountain through scattered clouds, the rakshasa grasped Sita in his arms and rose up into the sky. Whenever Vaidehi saw a circle of hermitages, a pond, a river or a well, she loosened and ﬂung down her ornaments. On the slopes of a mountain, she saw ﬁve bulls among monkeys. The intelligent one ﬂung down an expensive and celestial garment there. Driven by the wind, the beautiful yellow garment fell down in the midst of those Indras among monkeys, like lightning in a cloud.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The immensely valorous king of the vultures, Jatayu, was the son of Aruna and the brother of Sampati and was a friend of Dasharatha's. When the bird saw his{85} daughter-in-law in Ravana's arms, he angrily rushed at the lord of the rakshasas. The vulture told him, ",
+          "speaker": "@markandeya",
+          "introduces": "the_vulture",
+          "introduces_label": "The vulture",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O traveller in the night! Let her go. Let Maithili go. How can you carry her off as long as I am alive? If you do not give up the daughter-in-law, you will not escape with your life.’",
+          "speaker": "the_vulture",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Saying this, he powerfully attacked the Indra among rakshasas with his talons. He struck him with his wings and beak and lacerated him in many ways and large quantities of blood began to gush out{86}, like a mountain spring. Thus struck by the vulture, who wished to do that which would bring Rama pleasure, he grasped his sword and sliced off the wings of the bird. Having killed the king of the vultures, and looking like a mountain through scattered clouds, the rakshasa grasped Sita in his arms and rose up into the sky. Whenever Vaidehi saw a circle of hermitages, a pond, a river or a well, she loosened and ﬂung down her ornaments. On the slopes of a mountain, she saw ﬁve bulls among monkeys. The intelligent one ﬂung down an expensive and celestial garment there. Driven by the wind, the beautiful yellow garment fell down in the midst of those Indras among monkeys, like lightning in a cloud.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“While Vaidehi was thus being carried away, the wise Rama had killed the great deer. While he was returning, he saw his brother Lakshmana. On seeing his brother, he rebuked him. ‘How could you leave Vaidehi in a forest infested with rakshasas?’ He thought about his being drawn away by a rakshasa in the form of a deer and of his brother's arrival and was tormented by thoughts. Having rebuked him, Rama swiftly approached and said, ‘O Lakshmana! Is Vaidehi still alive? I might not see her again.’ Lakshmana then reported everything that Sita had told him, including the words that Vaidehi had spoken later. With a burning heart, Rama went towards the hermitage and saw the fallen vulture, like a mountain. Fearing him to be a rakshasa, Kakutstha drew his powerful bow and rushed towards him, together with Lakshmana. The energetic one then spoke to Rama and Lakshmana. ‘I am the king of the vultures. O fortunate ones! I am a friend of Dasharatha's.’ On hearing these words, they put aside their bright bows and asked, ‘Who is this who is mentioning our father by name?’ Then they saw that the wings of the bird had been sliced off. The vulture told them how Ravana had killed him, for Sita's sake. Raghava then asked the vulture for the direction in which Ravana had gone. Indicating this with a nod of his head, the vulture passed away. Kakutstha understood the sign of the gesture to mean the south. He performed the last rites in honour of his father's friend. They saw the hermitage, with its cushions and vessels scattered and its pots broken. The place was deserted and infested with an army of jackals. Overcome with unhappiness and grief at Vaidehi's abduction, the scorchers of enemies headed south, towards Dandakaranya. In that great forest, Rama, together with Soumitri{87}, saw many herds of deer running in different directions. They heard the terrible cries of many creatures, increasingly roaring like a forest ﬁre.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“While Vaidehi was thus being carried away, the wise Rama had killed the great deer. While he was returning, he saw his brother Lakshmana. On seeing his brother, he rebuked him. ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘How could you leave Vaidehi in a forest infested with rakshasas?’",
+          "speaker": "the_vulture",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He thought about his being drawn away by a rakshasa in the form of a deer and of his brother's arrival and was tormented by thoughts. Having rebuked him, Rama swiftly approached and said, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O Lakshmana! Is Vaidehi still alive? I might not see her again.’",
+          "speaker": "the_vulture",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Lakshmana then reported everything that Sita had told him, including the words that Vaidehi had spoken later. With a burning heart, Rama went towards the hermitage and saw the fallen vulture, like a mountain. Fearing him to be a rakshasa, Kakutstha drew his powerful bow and rushed towards him, together with Lakshmana. The energetic one then spoke to Rama and Lakshmana. ",
+          "speaker": "@markandeya",
+          "introduces": "lakshmana_then_reported_everything_that_sita_had",
+          "introduces_label": "Lakshmana then reported everything that Sita had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I am the king of the vultures. O fortunate ones! I am a friend of Dasharatha's.’",
+          "speaker": "lakshmana_then_reported_everything_that_sita_had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " On hearing these words, they put aside their bright bows and asked, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who is this who is mentioning our father by name?’",
+          "speaker": "lakshmana_then_reported_everything_that_sita_had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Then they saw that the wings of the bird had been sliced off. The vulture told them how Ravana had killed him, for Sita's sake. Raghava then asked the vulture for the direction in which Ravana had gone. Indicating this with a nod of his head, the vulture passed away. Kakutstha understood the sign of the gesture to mean the south. He performed the last rites in honour of his father's friend. They saw the hermitage, with its cushions and vessels scattered and its pots broken. The place was deserted and infested with an army of jackals. Overcome with unhappiness and grief at Vaidehi's abduction, the scorchers of enemies headed south, towards Dandakaranya. In that great forest, Rama, together with Soumitri{87}, saw many herds of deer running in different directions. They heard the terrible cries of many creatures, increasingly roaring like a forest ﬁre.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“In a short while, they saw Kabandha{88}, terrible in form. He was like a cloud or a mountain. His shoulders were as extensive as a shala tree. He had large arms. His large eye was located on his chest. He had a giant mouth on a giant belly. With great ease, the rakshasa grasped Lakshmana in his arms. O descendant of the Bharata lineage! Soumitri was instantly overcome by despair. Then, glancing towards Rama, he dragged him{89} towards his mouth, and afﬂicted with despair, he{90} told Rama, ‘Look at my state. Vaidehi has been abducted. I am in this dire state. You have been dislodged from your kingdom. Our father is dead. Together with Vaidehi, I will not witness your return to Kosala and your instatement in the earthly kingdom of our fathers and grandfathers. Fortunate are those who will see you consecrated with kusha grass, parched rice and shami{91} wood, with a face like the moon amidst scattered clouds.’ In this way, the wise Lakshmana lamented in various ways. Undaunted in the midst of this calamity, Kakutstha told him, ‘O tiger among men! Do not be immersed in sorrow in this fashion. While I am here, there is nothing he can do. Slice off his right arm, and I will sever the left.’ While he was speaking, Rama cut off his left arm with his extremely sharp sword, as if it was branch of sesamum. On seeing his brother Raghava standing there, the powerful Soumitri hacked the right arm with his sword. Lakshmana repeatedly smote the rakshasa on his side and losing his life, the gigantic Kabandha fell down on the ground. Then a divine-looking being was seen to emerge from his body. He was stationed in the sky, like the resplendent sun in the sky. The eloquent Rama asked him, ‘Who are you? I am asking you. Tell me. How did this happen? It seems to me to be extraordinary.’ He replied, ‘O king! I am the gandharva Vishvavasu. Because of Brahma's curse, I had to be born in the womb of a rakshasa. Sita has been abducted by King Ravana, who resides in Lanka. Go to Sugriva and he will help you. Lake Pampa is near Mount Rishyamukha. It has pure water and teems with swans and ducks. Sugriva lives there with four advisers. He is the brother of Vali, the king of the monkeys who wears a golden garland. I can tell you this much. You will see Janaki again. It is certain that the king of the monkeys knows about Ravana's abode.’ Having said this, to the amazement of the brave Rama and Lakshmana, the extremely radiant celestial being disappeared.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“In a short while, they saw Kabandha{88}, terrible in form. He was like a cloud or a mountain. His shoulders were as extensive as a shala tree. He had large arms. His large eye was located on his chest. He had a giant mouth on a giant belly. With great ease, the rakshasa grasped Lakshmana in his arms. O descendant of the Bharata lineage! Soumitri was instantly overcome by despair. Then, glancing towards Rama, he dragged him{89} towards his mouth, and afﬂicted with despair, he{90} told Rama, ",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Look at my state. Vaidehi has been abducted. I am in this dire state. You have been dislodged from your kingdom. Our father is dead. Together with Vaidehi, I will not witness your return to Kosala and your instatement in the earthly kingdom of our fathers and grandfathers. Fortunate are those who will see you consecrated with kusha grass, parched rice and shami{91} wood, with a face like the moon amidst scattered clouds.’",
+          "speaker": "lakshmana_then_reported_everything_that_sita_had",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " In this way, the wise Lakshmana lamented in various ways. Undaunted in the midst of this calamity, Kakutstha told him, ",
+          "speaker": "@markandeya",
+          "introduces": "@kakutstha",
+          "introduces_label": "Kakutstha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O tiger among men! Do not be immersed in sorrow in this fashion. While I am here, there is nothing he can do. Slice off his right arm, and I will sever the left.’",
+          "speaker": "@kakutstha",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " While he was speaking, Rama cut off his left arm with his extremely sharp sword, as if it was branch of sesamum. On seeing his brother Raghava standing there, the powerful Soumitri hacked the right arm with his sword. Lakshmana repeatedly smote the rakshasa on his side and losing his life, the gigantic Kabandha fell down on the ground. Then a divine-looking being was seen to emerge from his body. He was stationed in the sky, like the resplendent sun in the sky. The eloquent Rama asked him, ",
+          "speaker": "@markandeya",
+          "introduces": "the_eloquent_rama",
+          "introduces_label": "The eloquent Rama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Who are you? I am asking you. Tell me. How did this happen? It seems to me to be extraordinary.’",
+          "speaker": "the_eloquent_rama",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " He replied, ",
+          "speaker": "@markandeya",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O king! I am the gandharva Vishvavasu. Because of Brahma's curse, I had to be born in the womb of a rakshasa. Sita has been abducted by King Ravana, who resides in Lanka. Go to Sugriva and he will help you. Lake Pampa is near Mount Rishyamukha. It has pure water and teems with swans and ducks. Sugriva lives there with four advisers. He is the brother of Vali, the king of the monkeys who wears a golden garland. I can tell you this much. You will see Janaki again. It is certain that the king of the monkeys knows about Ravana's abode.’",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " Having said this, to the amazement of the brave Rama and Lakshmana, the extremely radiant celestial being disappeared.”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "chapter": 226,
+  "local": 1,
+  "shlokas": 19,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘In Vasudeva's presence, Maya joined his hands as a sign of respect and repeatedly worshipping him, spoke to Partha in ﬂattering words, “O Kounteya! You have saved me from the angry Krishna and the ﬁre that desired to consume me. Please tell me what I can do for you.” Arjuna replied, “O great asura! You have done everything and can leave in peace. May you always be friendly towards us and may we always be friendly towards you.” Maya said, “O illustrious one! O bull among men! What you have said is deserving of you. O descendant of the Bharata lineage! But as a token of my affection, I wish to do something for you. I am extremely wise, the Vishvakarma of the danavas. O Pandava! Therefore, I wish to do something for you.” Arjuna replied, “You think that I have saved your life from instant death. But if that is the case, I cannot ask you to do anything. O Danava! But I do not wish to stand in the way of your resolution either. Therefore, do something for Krishna and that will be tantamount to doing something for me.” O bull among the Bharata lineage! Thus urged by Maya, Vasudeva thought for an instant about what might be done for him. Having thought, Krishna said, “O Daitya! Build a wonderful assembly hall for Dharmaraja that you think to be worthy of him, so that no one from the world of men can construct an assembly hall that is its equal, even as they gaze at it amazed. O Maya! Build an assembly hall in which we will see the designs{1} of the gods, asuras and humans.” Having heard these words, Maya was delighted. He drew up a design for an assembly hall for the Pandavas that was like a vimana.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘In Vasudeva's presence, Maya joined his hands as a sign of respect and repeatedly worshipping him, spoke to Partha in ﬂattering words, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kounteya! You have saved me from the angry Krishna and the ﬁre that desired to consume me. Please tell me what I can do for you.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O great asura! You have done everything and can leave in peace. May you always be friendly towards us and may we always be friendly towards you.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Maya said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "maya",
+          "introduces_label": "Maya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O illustrious one! O bull among men! What you have said is deserving of you. O descendant of the Bharata lineage! But as a token of my affection, I wish to do something for you. I am extremely wise, the Vishvakarma of the danavas. O Pandava! Therefore, I wish to do something for you.”",
+          "speaker": "maya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Arjuna replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@arjuna",
+          "introduces_label": "Arjuna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“You think that I have saved your life from instant death. But if that is the case, I cannot ask you to do anything. O Danava! But I do not wish to stand in the way of your resolution either. Therefore, do something for Krishna and that will be tantamount to doing something for me.”",
+          "speaker": "@arjuna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O bull among the Bharata lineage! Thus urged by Maya, Vasudeva thought for an instant about what might be done for him. Having thought, Krishna said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Daitya! Build a wonderful assembly hall for Dharmaraja that you think to be worthy of him, so that no one from the world of men can construct an assembly hall that is its equal, even as they gaze at it amazed. O Maya! Build an assembly hall in which we will see the designs{1} of the gods, asuras and humans.”",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Having heard these words, Maya was delighted. He drew up a design for an assembly hall for the Pandavas that was like a vimana.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Then Krishna and Partha told Dharmaraja Yudhishthira everything that had happened and introduced Maya to him. Yudhishthira offered him the homage that he deserved. Maya accepted and paid his respects in return. O lord of the universe! O descendant of the Bharata lineage! Then the daitya told Pandu's sons about the deeds of the gods in ancient times, in diverse places. After resting for a while, Vishvakarma{2} reﬂected and began to build an assembly hall for the great-souled Pandavas. According to the wishes of the great-souled Krishna and Pritha's sons, the immensely energetic one performed the initial rites on an auspicious occasion. The valorous one honoured thousands of the best brahmanas, fed them payasa{3} and donated a lot of riches to them. He then measured out a divine and beautiful plot that was ten thousand kishku{4} in every direction and was marked by all the good characteristics.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Then Krishna and Partha told Dharmaraja Yudhishthira everything that had happened and introduced Maya to him. Yudhishthira offered him the homage that he deserved. Maya accepted and paid his respects in return. O lord of the universe! O descendant of the Bharata lineage! Then the daitya told Pandu's sons about the deeds of the gods in ancient times, in diverse places. After resting for a while, Vishvakarma{2} reﬂected and began to build an assembly hall for the great-souled Pandavas. According to the wishes of the great-souled Krishna and Pritha's sons, the immensely energetic one performed the initial rites on an auspicious occasion. The valorous one honoured thousands of the best brahmanas, fed them payasa{3} and donated a lot of riches to them. He then measured out a divine and beautiful plot that was ten thousand kishku{4} in every direction and was marked by all the good characteristics.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

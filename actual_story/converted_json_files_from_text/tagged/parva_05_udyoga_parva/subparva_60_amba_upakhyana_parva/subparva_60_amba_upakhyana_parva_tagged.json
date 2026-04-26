@@ -1,0 +1,219 @@
+{
+  "name": "Amba-Upakhyana Parva",
+  "subparva_number": 60,
+  "source_volume": 5,
+  "details": {
+    "num_chapters": 28,
+    "num_shlokas": 755
+  },
+  "note": "",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "833": {
+      "chapter_number": 833,
+      "global_number": 833,
+      "local_number": 170,
+      "num_shlokas": 22,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_833_tagged.json"
+    },
+    "834": {
+      "chapter_number": 834,
+      "global_number": 834,
+      "local_number": 171,
+      "num_shlokas": 9,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_834_tagged.json"
+    },
+    "835": {
+      "chapter_number": 835,
+      "global_number": 835,
+      "local_number": 172,
+      "num_shlokas": 23,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_835_tagged.json"
+    },
+    "836": {
+      "chapter_number": 836,
+      "global_number": 836,
+      "local_number": 173,
+      "num_shlokas": 18,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_836_tagged.json"
+    },
+    "837": {
+      "chapter_number": 837,
+      "global_number": 837,
+      "local_number": 174,
+      "num_shlokas": 26,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_837_tagged.json"
+    },
+    "838": {
+      "chapter_number": 838,
+      "global_number": 838,
+      "local_number": 175,
+      "num_shlokas": 30,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_838_tagged.json"
+    },
+    "839": {
+      "chapter_number": 839,
+      "global_number": 839,
+      "local_number": 176,
+      "num_shlokas": 42,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_839_tagged.json"
+    },
+    "840": {
+      "chapter_number": 840,
+      "global_number": 840,
+      "local_number": 177,
+      "num_shlokas": 24,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_840_tagged.json"
+    },
+    "841": {
+      "chapter_number": 841,
+      "global_number": 841,
+      "local_number": 178,
+      "num_shlokas": 38,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_841_tagged.json"
+    },
+    "842": {
+      "chapter_number": 842,
+      "global_number": 842,
+      "local_number": 179,
+      "num_shlokas": 31,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_842_tagged.json"
+    },
+    "843": {
+      "chapter_number": 843,
+      "global_number": 843,
+      "local_number": 180,
+      "num_shlokas": 39,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_843_tagged.json"
+    },
+    "844": {
+      "chapter_number": 844,
+      "global_number": 844,
+      "local_number": 181,
+      "num_shlokas": 36,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_844_tagged.json"
+    },
+    "845": {
+      "chapter_number": 845,
+      "global_number": 845,
+      "local_number": 182,
+      "num_shlokas": 16,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_845_tagged.json"
+    },
+    "846": {
+      "chapter_number": 846,
+      "global_number": 846,
+      "local_number": 183,
+      "num_shlokas": 27,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_846_tagged.json"
+    },
+    "847": {
+      "chapter_number": 847,
+      "global_number": 847,
+      "local_number": 184,
+      "num_shlokas": 18,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_847_tagged.json"
+    },
+    "848": {
+      "chapter_number": 848,
+      "global_number": 848,
+      "local_number": 185,
+      "num_shlokas": 23,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_848_tagged.json"
+    },
+    "849": {
+      "chapter_number": 849,
+      "global_number": 849,
+      "local_number": 186,
+      "num_shlokas": 36,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_849_tagged.json"
+    },
+    "850": {
+      "chapter_number": 850,
+      "global_number": 850,
+      "local_number": 187,
+      "num_shlokas": 40,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_850_tagged.json"
+    },
+    "851": {
+      "chapter_number": 851,
+      "global_number": 851,
+      "local_number": 188,
+      "num_shlokas": 18,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_851_tagged.json"
+    },
+    "852": {
+      "chapter_number": 852,
+      "global_number": 852,
+      "local_number": 189,
+      "num_shlokas": 18,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_852_tagged.json"
+    },
+    "853": {
+      "chapter_number": 853,
+      "global_number": 853,
+      "local_number": 190,
+      "num_shlokas": 23,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_853_tagged.json"
+    },
+    "854": {
+      "chapter_number": 854,
+      "global_number": 854,
+      "local_number": 191,
+      "num_shlokas": 20,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_854_tagged.json"
+    },
+    "855": {
+      "chapter_number": 855,
+      "global_number": 855,
+      "local_number": 192,
+      "num_shlokas": 30,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_855_tagged.json"
+    },
+    "856": {
+      "chapter_number": 856,
+      "global_number": 856,
+      "local_number": 193,
+      "num_shlokas": 66,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_856_tagged.json"
+    },
+    "857": {
+      "chapter_number": 857,
+      "global_number": 857,
+      "local_number": 194,
+      "num_shlokas": 22,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_857_tagged.json"
+    },
+    "858": {
+      "chapter_number": 858,
+      "global_number": 858,
+      "local_number": 195,
+      "num_shlokas": 20,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_858_tagged.json"
+    },
+    "859": {
+      "chapter_number": 859,
+      "global_number": 859,
+      "local_number": 196,
+      "num_shlokas": 19,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_859_tagged.json"
+    },
+    "860": {
+      "chapter_number": 860,
+      "global_number": 860,
+      "local_number": 197,
+      "num_shlokas": 21,
+      "file": "subparva_60_amba_upakhyana_parva/chapter_860_tagged.json"
+    }
+  }
+}

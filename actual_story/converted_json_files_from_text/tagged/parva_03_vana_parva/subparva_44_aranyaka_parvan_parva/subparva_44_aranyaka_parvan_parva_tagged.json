@@ -1,0 +1,58 @@
+{
+  "name": "Aranyaka-parvan Parva",
+  "subparva_number": 44,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 5,
+    "num_shlokas": 191
+  },
+  "note": "The first section within Aranyaka Parva is also called Aranyaka Parva, the word aranyaka having already been explained.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "592": {
+      "chapter_number": 592,
+      "global_number": 592,
+      "local_number": 295,
+      "num_shlokas": 17,
+      "file": "subparva_44_aranyaka_parvan_parva/chapter_592_tagged.json"
+    },
+    "593": {
+      "chapter_number": 593,
+      "global_number": 593,
+      "local_number": 296,
+      "num_shlokas": 43,
+      "file": "subparva_44_aranyaka_parvan_parva/chapter_593_tagged.json"
+    },
+    "594": {
+      "chapter_number": 594,
+      "global_number": 594,
+      "local_number": 297,
+      "num_shlokas": 74,
+      "file": "subparva_44_aranyaka_parvan_parva/chapter_594_tagged.json"
+    },
+    "595": {
+      "chapter_number": 595,
+      "global_number": 595,
+      "local_number": 298,
+      "num_shlokas": 28,
+      "file": "subparva_44_aranyaka_parvan_parva/chapter_595_tagged.json"
+    },
+    "596": {
+      "chapter_number": 596,
+      "global_number": 596,
+      "local_number": 299,
+      "num_shlokas": 29,
+      "file": "subparva_44_aranyaka_parvan_parva/chapter_596_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "chapter": 312,
+  "local": 15,
+  "shlokas": 22,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O Krishna! O descendant of Vrishni{60}! Why were you absent? Where did you go and what did you do on your travels?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Krishna! O descendant of Vrishni{60}! Why were you absent? Where did you go and what did you do on your travels?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Krishna replied, “O bull among the Bharata lineage! O best of men! I went to Shalva's city Soubha to destroy it. Listen to the reasons. O best of the Bharata lineage! The valiant King Shishupala, Damaghosha's son, immensely energetic, mighty-armed and greatly famous, was killed by me at your rajasuya sacriﬁce over the issue of who should be given the homage. Because of his anger, that evil-souled one did not wish to see me receive it. O descendant of the Bharata lineage! On hearing that he had been killed, Shalva was ﬁlled with terrible rage. He went to the empty Dvaraka, because I was with you then. O king! He went there ascended on Soubha{61}, which could go wherever it wished. In cruel fashion, he fought with the young bulls among the Vrishnis. He slew many brave Vrishni youth and the evil-minded one destroyed all the parks in the city. The mighty-armed one then shouted, ‘Where is that wretch of the Vrishni lineage? Where has the evil-souled Vasudeva, son of Vasudeva, gone{62}? He is desirous of doing battle and I will destroy his pride in battle. O Anartas{63}! Tell me truthfully where he is, and I will go there. I will return after killing the slayer of Kamsa and Keshi. I truthfully swear on my weapons that I will not return without killing him. Where is he? Where is he? The lord of Soubha wished to ﬁght me in battle and rushed around, from one place to another. That mean one has performed an evil deed. He is treacherous. I am angry at the killing of Shishupala. I will send him to Yama's abode today. Through his evil nature, he has killed my brother Shishupala, lord of the earth{64}. I will kill him on the ground. Though a king, my brother was only a child. He wasn't killed in proper battle. The brave one was killed when he wasn't ready. I will kill Janardana.’ O great king! Thus did he lament.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Krishna replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@krishna",
+          "introduces_label": "Krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O bull among the Bharata lineage! O best of men! I went to Shalva's city Soubha to destroy it. Listen to the reasons. O best of the Bharata lineage! The valiant King Shishupala, Damaghosha's son, immensely energetic, mighty-armed and greatly famous, was killed by me at your rajasuya sacriﬁce over the issue of who should be given the homage. Because of his anger, that evil-souled one did not wish to see me receive it. O descendant of the Bharata lineage! On hearing that he had been killed, Shalva was ﬁlled with terrible rage. He went to the empty Dvaraka, because I was with you then. O king! He went there ascended on Soubha{61}, which could go wherever it wished. In cruel fashion, he fought with the young bulls among the Vrishnis. He slew many brave Vrishni youth and the evil-minded one destroyed all the parks in the city. The mighty-armed one then shouted, ",
+          "speaker": "@krishna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘Where is that wretch of the Vrishni lineage? Where has the evil-souled Vasudeva, son of Vasudeva, gone{62}? He is desirous of doing battle and I will destroy his pride in battle. O Anartas{63}! Tell me truthfully where he is, and I will go there. I will return after killing the slayer of Kamsa and Keshi. I truthfully swear on my weapons that I will not return without killing him. Where is he? Where is he? The lord of Soubha wished to ﬁght me in battle and rushed around, from one place to another. That mean one has performed an evil deed. He is treacherous. I am angry at the killing of Shishupala. I will send him to Yama's abode today. Through his evil nature, he has killed my brother Shishupala, lord of the earth{64}. I will kill him on the ground. Though a king, my brother was only a child. He wasn't killed in proper battle. The brave one was killed when he wasn't ready. I will kill Janardana.’",
+          "speaker": "@krishna",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O great king! Thus did he lament.",
+          "speaker": "@krishna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“O descendant of the Kuru lineage{65}! Thus abusing me, he took to the sky on Soubha, which is capable of going wherever it wishes. O Kouravya! On returning there, I learnt everything that the evilminded and evil-souled king of Marttikavata had said about me. O Kouravya! O king! With eyes red with rage, I made up my mind. I resolved in my mind to kill him. O Kourava! I heard about his oppression of Anarta, his abuse of me, his great insolence and his evil deeds. O lord of the earth! I therefore left to destroy Soubha. When I was looking for him, I found him whirling in the ocean. O king! I blew on Panchajanya{66}, which had been obtained from the water, and challenging Shalva to battle, got ready. At that time, a terrible battle took place between me and the danavas there. They were all vanquished and laid low on the ground by me. O mighty-armed one! It was this task that kept me from coming to you in Hastinapura then, though I had heard about the terrible gambling match.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“O descendant of the Kuru lineage{65}! Thus abusing me, he took to the sky on Soubha, which is capable of going wherever it wishes. O Kouravya! On returning there, I learnt everything that the evilminded and evil-souled king of Marttikavata had said about me. O Kouravya! O king! With eyes red with rage, I made up my mind. I resolved in my mind to kill him. O Kourava! I heard about his oppression of Anarta, his abuse of me, his great insolence and his evil deeds. O lord of the earth! I therefore left to destroy Soubha. When I was looking for him, I found him whirling in the ocean. O king! I blew on Panchajanya{66}, which had been obtained from the water, and challenging Shalva to battle, got ready. At that time, a terrible battle took place between me and the danavas there. They were all vanquished and laid low on the ground by me. O mighty-armed one! It was this task that kept me from coming to you in Hastinapura then, though I had heard about the terrible gambling match.”",
+          "speaker": "@krishna",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

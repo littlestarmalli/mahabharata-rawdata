@@ -1,0 +1,98 @@
+{
+  "chapter": 257,
+  "local": 32,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having shown homage to his grandfather{25} and preceptor{26} and having welcomed them, Yudhishthira spoke these words to Bhishma, Drona, Kripa, Drona's son{27} and Vivimshati{28}. “All of you must show me every favour at this sacriﬁce. All my great riches here are yours. Be kind towards me, without any constraints, and as you desire.” The eldest of the Pandavas had already been instated in the sacriﬁce. Having thus spoken, he immediately appointed each with a suitable ofﬁce in the sacriﬁce. Duhshasana was put in charge of food and other objects of pleasure. Ashvatthama was appointed to the task of tending to the brahmanas. Sanjaya was appointed to the task of welcoming the kings. The immensely wise Bhishma and Drona were in charge of what should be done and what should not be done. The king gave Kripa the task of looking after the gold, gold coins and jewels and also the distribution of dakshina. Similarly, he appointed other tigers among men to other tasks.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having shown homage to his grandfather{25} and preceptor{26} and having welcomed them, Yudhishthira spoke these words to Bhishma, Drona, Kripa, Drona's son{27} and Vivimshati{28}. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“All of you must show me every favour at this sacriﬁce. All my great riches here are yours. Be kind towards me, without any constraints, and as you desire.”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " The eldest of the Pandavas had already been instated in the sacriﬁce. Having thus spoken, he immediately appointed each with a suitable ofﬁce in the sacriﬁce. Duhshasana was put in charge of food and other objects of pleasure. Ashvatthama was appointed to the task of tending to the brahmanas. Sanjaya was appointed to the task of welcoming the kings. The immensely wise Bhishma and Drona were in charge of what should be done and what should not be done. The king gave Kripa the task of looking after the gold, gold coins and jewels and also the distribution of dakshina. Similarly, he appointed other tigers among men to other tasks.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having been brought there by Nakula, the guests Bahlika, Dhritarashtra, Somadatta and Jayadratha enjoyed themselves, as if they were the masters. Kshatta{29} Vidura, knowledgeable in every aspect of dharma, was in charge of the treasury. Duryodhana received all the tribute that was brought. All the worlds assembled there, wishing to see Dharmaraja Pandava's sabha and participate in the supreme fruits. No one came there with a tribute that was less than one thousand{30}. Everyone made Dharmaraja prosper with many jewels. The kings rivalled each other and, donating riches, proudly said, “Let the Kouravya attain the sacriﬁce with my riches alone.” O king! The sacriﬁcial grounds of the great-souled Kounteya were resplendent with dwelling houses which had chariots in front, guards, soldiers, chariots of the lords of the earth{31}, brahmana dwelling houses, mansions constructed like divine chariots and decorated with many colourful jewels, the assembled kings, wealth and prosperity. Yudhishthira seemed to rival the god Varuna in riches. The sacriﬁce had six ﬁres and large amounts of dakshina. Everyone was satisﬁed with every object of desire—abundance of grain and plenty of food. It was crowded by well-fed people. A large amount of gifts of jewels were brought to the assembly. Those skilled in the knowledge of mantras offered libations, clariﬁed butter and oblations at the sacriﬁce and gratiﬁed the gods and the maharshis. Like the gods, the brahmanas were also gratiﬁed with gifts, food and great wealth. All the varnas were delighted at the sacriﬁce.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having been brought there by Nakula, the guests Bahlika, Dhritarashtra, Somadatta and Jayadratha enjoyed themselves, as if they were the masters. Kshatta{29} Vidura, knowledgeable in every aspect of dharma, was in charge of the treasury. Duryodhana received all the tribute that was brought. All the worlds assembled there, wishing to see Dharmaraja Pandava's sabha and participate in the supreme fruits. No one came there with a tribute that was less than one thousand{30}. Everyone made Dharmaraja prosper with many jewels. The kings rivalled each other and, donating riches, proudly said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "proudly",
+          "introduces_label": "proudly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Let the Kouravya attain the sacriﬁce with my riches alone.”",
+          "speaker": "proudly",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " O king! The sacriﬁcial grounds of the great-souled Kounteya were resplendent with dwelling houses which had chariots in front, guards, soldiers, chariots of the lords of the earth{31}, brahmana dwelling houses, mansions constructed like divine chariots and decorated with many colourful jewels, the assembled kings, wealth and prosperity. Yudhishthira seemed to rival the god Varuna in riches. The sacriﬁce had six ﬁres and large amounts of dakshina. Everyone was satisﬁed with every object of desire—abundance of grain and plenty of food. It was crowded by well-fed people. A large amount of gifts of jewels were brought to the assembly. Those skilled in the knowledge of mantras offered libations, clariﬁed butter and oblations at the sacriﬁce and gratiﬁed the gods and the maharshis. Like the gods, the brahmanas were also gratiﬁed with gifts, food and great wealth. All the varnas were delighted at the sacriﬁce.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

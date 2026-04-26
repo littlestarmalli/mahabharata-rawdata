@@ -1,0 +1,55 @@
+{
+  "name": "Stri Parva",
+  "parva_number": 11,
+  "details": {
+    "num_subparvas": 4,
+    "num_chapters": 27,
+    "num_shlokas": 730
+  },
+  "subparvas": {
+    "80": {
+      "subparva_number": 80,
+      "name": "Stri Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 8,
+        "num_shlokas": 194
+      },
+      "note": "Stri Parva is a parva concerning women. This parva is so named because it is about the grief of the women and the funeral ceremonies performed by the women and the survivors. In the 18-parva classification, Stri Parva is the eleventh. In the 100-parva classification, Stri Parva constitutes Sections 80 to 83. Stri Parva has twenty-seven chapters. In the numbering of the chap-ters in Stri Parva, the first number is a consecutive one, starting with the be-ginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within the parva. Vishoka means the end of sorrow, or to be freed from sorrow. This parva is named after Vidura�s attempt to dispel Dhritarashtra�s sorrow.",
+      "file": "parva_11_stri_parva/subparva_80_stri_parva/subparva_80_stri_parva.json"
+    },
+    "81": {
+      "subparva_number": 81,
+      "name": "Stri-vilapa Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 17,
+        "num_shlokas": 468
+      },
+      "note": "Stri Parva is a parva concerning women. This parva is so named because it is about the grief of the women and the funeral ceremonies performed by the women and the survivors. In the 18-parva classification, Stri Parva is the eleventh. In the 100-parva classification, Stri Parva constitutes Sections 80 to 83. Stri Parva has twenty-seven chapters. In the numbering of the chap-ters in Stri Parva, the first number is a consecutive one, starting with the be-ginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within the parva. Vishoka means the end of sorrow, or to be freed from sorrow. This parva is named after Vidura�s attempt to dispel Dhritarashtra�s sorrow.",
+      "file": "parva_11_stri_parva/subparva_81_stri_vilapa_parva/subparva_81_stri_vilapa_parva.json"
+    },
+    "82": {
+      "subparva_number": 82,
+      "name": "Shraddha Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 44
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_11_stri_parva/subparva_82_shraddha_parva/subparva_82_shraddha_parva.json"
+    },
+    "83": {
+      "subparva_number": 83,
+      "name": "Jala-pradanika Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 24
+      },
+      "note": "",
+      "file": "parva_11_stri_parva/subparva_83_jala_pradanika_parva/subparva_83_jala_pradanika_parva.json"
+    }
+  }
+}

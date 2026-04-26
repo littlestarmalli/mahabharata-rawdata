@@ -1,0 +1,275 @@
+{
+  "name": "Droupadi-harana Parva",
+  "subparva_number": 42,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 36,
+    "num_shlokas": 1247
+  },
+  "note": "Harana means abduction and this parva is about Droupadi�s abduction by Jayadratha. Jayadratha abducts Droupadi. The Pandavas defeat Jayadratha and free Droupadi, shaving Jayadratha�s head in the process. Jayadratha obtains a boon from Shiva. This section then tells the story of the Ramayana and Savitri and Satyavan, where Savitri brings her husband, Satyavan, back from the land of the dead.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "545": {
+      "chapter_number": 545,
+      "global_number": 545,
+      "local_number": 248,
+      "num_shlokas": 17,
+      "file": "subparva_42_droupadi_harana_parva/chapter_545_tagged.json"
+    },
+    "546": {
+      "chapter_number": 546,
+      "global_number": 546,
+      "local_number": 249,
+      "num_shlokas": 13,
+      "file": "subparva_42_droupadi_harana_parva/chapter_546_tagged.json"
+    },
+    "547": {
+      "chapter_number": 547,
+      "global_number": 547,
+      "local_number": 250,
+      "num_shlokas": 9,
+      "file": "subparva_42_droupadi_harana_parva/chapter_547_tagged.json"
+    },
+    "548": {
+      "chapter_number": 548,
+      "global_number": 548,
+      "local_number": 251,
+      "num_shlokas": 21,
+      "file": "subparva_42_droupadi_harana_parva/chapter_548_tagged.json"
+    },
+    "549": {
+      "chapter_number": 549,
+      "global_number": 549,
+      "local_number": 252,
+      "num_shlokas": 27,
+      "file": "subparva_42_droupadi_harana_parva/chapter_549_tagged.json"
+    },
+    "550": {
+      "chapter_number": 550,
+      "global_number": 550,
+      "local_number": 253,
+      "num_shlokas": 26,
+      "file": "subparva_42_droupadi_harana_parva/chapter_550_tagged.json"
+    },
+    "551": {
+      "chapter_number": 551,
+      "global_number": 551,
+      "local_number": 254,
+      "num_shlokas": 21,
+      "file": "subparva_42_droupadi_harana_parva/chapter_551_tagged.json"
+    },
+    "552": {
+      "chapter_number": 552,
+      "global_number": 552,
+      "local_number": 255,
+      "num_shlokas": 59,
+      "file": "subparva_42_droupadi_harana_parva/chapter_552_tagged.json"
+    },
+    "553": {
+      "chapter_number": 553,
+      "global_number": 553,
+      "local_number": 256,
+      "num_shlokas": 30,
+      "file": "subparva_42_droupadi_harana_parva/chapter_553_tagged.json"
+    },
+    "554": {
+      "chapter_number": 554,
+      "global_number": 554,
+      "local_number": 257,
+      "num_shlokas": 10,
+      "file": "subparva_42_droupadi_harana_parva/chapter_554_tagged.json"
+    },
+    "555": {
+      "chapter_number": 555,
+      "global_number": 555,
+      "local_number": 258,
+      "num_shlokas": 16,
+      "file": "subparva_42_droupadi_harana_parva/chapter_555_tagged.json"
+    },
+    "556": {
+      "chapter_number": 556,
+      "global_number": 556,
+      "local_number": 259,
+      "num_shlokas": 40,
+      "file": "subparva_42_droupadi_harana_parva/chapter_556_tagged.json"
+    },
+    "557": {
+      "chapter_number": 557,
+      "global_number": 557,
+      "local_number": 260,
+      "num_shlokas": 15,
+      "file": "subparva_42_droupadi_harana_parva/chapter_557_tagged.json"
+    },
+    "558": {
+      "chapter_number": 558,
+      "global_number": 558,
+      "local_number": 261,
+      "num_shlokas": 55,
+      "file": "subparva_42_droupadi_harana_parva/chapter_558_tagged.json"
+    },
+    "559": {
+      "chapter_number": 559,
+      "global_number": 559,
+      "local_number": 262,
+      "num_shlokas": 41,
+      "file": "subparva_42_droupadi_harana_parva/chapter_559_tagged.json"
+    },
+    "560": {
+      "chapter_number": 560,
+      "global_number": 560,
+      "local_number": 263,
+      "num_shlokas": 43,
+      "file": "subparva_42_droupadi_harana_parva/chapter_560_tagged.json"
+    },
+    "561": {
+      "chapter_number": 561,
+      "global_number": 561,
+      "local_number": 264,
+      "num_shlokas": 73,
+      "file": "subparva_42_droupadi_harana_parva/chapter_561_tagged.json"
+    },
+    "562": {
+      "chapter_number": 562,
+      "global_number": 562,
+      "local_number": 265,
+      "num_shlokas": 30,
+      "file": "subparva_42_droupadi_harana_parva/chapter_562_tagged.json"
+    },
+    "563": {
+      "chapter_number": 563,
+      "global_number": 563,
+      "local_number": 266,
+      "num_shlokas": 68,
+      "file": "subparva_42_droupadi_harana_parva/chapter_563_tagged.json"
+    },
+    "564": {
+      "chapter_number": 564,
+      "global_number": 564,
+      "local_number": 267,
+      "num_shlokas": 54,
+      "file": "subparva_42_droupadi_harana_parva/chapter_564_tagged.json"
+    },
+    "565": {
+      "chapter_number": 565,
+      "global_number": 565,
+      "local_number": 268,
+      "num_shlokas": 40,
+      "file": "subparva_42_droupadi_harana_parva/chapter_565_tagged.json"
+    },
+    "566": {
+      "chapter_number": 566,
+      "global_number": 566,
+      "local_number": 269,
+      "num_shlokas": 14,
+      "file": "subparva_42_droupadi_harana_parva/chapter_566_tagged.json"
+    },
+    "567": {
+      "chapter_number": 567,
+      "global_number": 567,
+      "local_number": 270,
+      "num_shlokas": 29,
+      "file": "subparva_42_droupadi_harana_parva/chapter_567_tagged.json"
+    },
+    "568": {
+      "chapter_number": 568,
+      "global_number": 568,
+      "local_number": 271,
+      "num_shlokas": 27,
+      "file": "subparva_42_droupadi_harana_parva/chapter_568_tagged.json"
+    },
+    "569": {
+      "chapter_number": 569,
+      "global_number": 569,
+      "local_number": 272,
+      "num_shlokas": 26,
+      "file": "subparva_42_droupadi_harana_parva/chapter_569_tagged.json"
+    },
+    "570": {
+      "chapter_number": 570,
+      "global_number": 570,
+      "local_number": 273,
+      "num_shlokas": 33,
+      "file": "subparva_42_droupadi_harana_parva/chapter_570_tagged.json"
+    },
+    "571": {
+      "chapter_number": 571,
+      "global_number": 571,
+      "local_number": 274,
+      "num_shlokas": 31,
+      "file": "subparva_42_droupadi_harana_parva/chapter_571_tagged.json"
+    },
+    "572": {
+      "chapter_number": 572,
+      "global_number": 572,
+      "local_number": 275,
+      "num_shlokas": 69,
+      "file": "subparva_42_droupadi_harana_parva/chapter_572_tagged.json"
+    },
+    "573": {
+      "chapter_number": 573,
+      "global_number": 573,
+      "local_number": 276,
+      "num_shlokas": 13,
+      "file": "subparva_42_droupadi_harana_parva/chapter_573_tagged.json"
+    },
+    "574": {
+      "chapter_number": 574,
+      "global_number": 574,
+      "local_number": 277,
+      "num_shlokas": 41,
+      "file": "subparva_42_droupadi_harana_parva/chapter_574_tagged.json"
+    },
+    "575": {
+      "chapter_number": 575,
+      "global_number": 575,
+      "local_number": 278,
+      "num_shlokas": 32,
+      "file": "subparva_42_droupadi_harana_parva/chapter_575_tagged.json"
+    },
+    "576": {
+      "chapter_number": 576,
+      "global_number": 576,
+      "local_number": 279,
+      "num_shlokas": 23,
+      "file": "subparva_42_droupadi_harana_parva/chapter_576_tagged.json"
+    },
+    "577": {
+      "chapter_number": 577,
+      "global_number": 577,
+      "local_number": 280,
+      "num_shlokas": 33,
+      "file": "subparva_42_droupadi_harana_parva/chapter_577_tagged.json"
+    },
+    "578": {
+      "chapter_number": 578,
+      "global_number": 578,
+      "local_number": 281,
+      "num_shlokas": 108,
+      "file": "subparva_42_droupadi_harana_parva/chapter_578_tagged.json"
+    },
+    "579": {
+      "chapter_number": 579,
+      "global_number": 579,
+      "local_number": 282,
+      "num_shlokas": 44,
+      "file": "subparva_42_droupadi_harana_parva/chapter_579_tagged.json"
+    },
+    "580": {
+      "chapter_number": 580,
+      "global_number": 580,
+      "local_number": 283,
+      "num_shlokas": 16,
+      "file": "subparva_42_droupadi_harana_parva/chapter_580_tagged.json"
+    }
+  }
+}

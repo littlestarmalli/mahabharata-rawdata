@@ -1,0 +1,156 @@
+{
+  "name": "Ghoshayatra Parva",
+  "subparva_number": 39,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 19,
+    "num_shlokas": 519
+  },
+  "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "522": {
+      "chapter_number": 522,
+      "global_number": 522,
+      "local_number": 225,
+      "num_shlokas": 31,
+      "file": "subparva_39_ghoshayatra_parva/chapter_522_tagged.json"
+    },
+    "523": {
+      "chapter_number": 523,
+      "global_number": 523,
+      "local_number": 226,
+      "num_shlokas": 22,
+      "file": "subparva_39_ghoshayatra_parva/chapter_523_tagged.json"
+    },
+    "524": {
+      "chapter_number": 524,
+      "global_number": 524,
+      "local_number": 227,
+      "num_shlokas": 24,
+      "file": "subparva_39_ghoshayatra_parva/chapter_524_tagged.json"
+    },
+    "525": {
+      "chapter_number": 525,
+      "global_number": 525,
+      "local_number": 228,
+      "num_shlokas": 29,
+      "file": "subparva_39_ghoshayatra_parva/chapter_525_tagged.json"
+    },
+    "526": {
+      "chapter_number": 526,
+      "global_number": 526,
+      "local_number": 229,
+      "num_shlokas": 29,
+      "file": "subparva_39_ghoshayatra_parva/chapter_526_tagged.json"
+    },
+    "527": {
+      "chapter_number": 527,
+      "global_number": 527,
+      "local_number": 230,
+      "num_shlokas": 31,
+      "file": "subparva_39_ghoshayatra_parva/chapter_527_tagged.json"
+    },
+    "528": {
+      "chapter_number": 528,
+      "global_number": 528,
+      "local_number": 231,
+      "num_shlokas": 21,
+      "file": "subparva_39_ghoshayatra_parva/chapter_528_tagged.json"
+    },
+    "529": {
+      "chapter_number": 529,
+      "global_number": 529,
+      "local_number": 232,
+      "num_shlokas": 21,
+      "file": "subparva_39_ghoshayatra_parva/chapter_529_tagged.json"
+    },
+    "530": {
+      "chapter_number": 530,
+      "global_number": 530,
+      "local_number": 233,
+      "num_shlokas": 21,
+      "file": "subparva_39_ghoshayatra_parva/chapter_530_tagged.json"
+    },
+    "531": {
+      "chapter_number": 531,
+      "global_number": 531,
+      "local_number": 234,
+      "num_shlokas": 28,
+      "file": "subparva_39_ghoshayatra_parva/chapter_531_tagged.json"
+    },
+    "532": {
+      "chapter_number": 532,
+      "global_number": 532,
+      "local_number": 235,
+      "num_shlokas": 25,
+      "file": "subparva_39_ghoshayatra_parva/chapter_532_tagged.json"
+    },
+    "533": {
+      "chapter_number": 533,
+      "global_number": 533,
+      "local_number": 236,
+      "num_shlokas": 15,
+      "file": "subparva_39_ghoshayatra_parva/chapter_533_tagged.json"
+    },
+    "534": {
+      "chapter_number": 534,
+      "global_number": 534,
+      "local_number": 237,
+      "num_shlokas": 15,
+      "file": "subparva_39_ghoshayatra_parva/chapter_534_tagged.json"
+    },
+    "535": {
+      "chapter_number": 535,
+      "global_number": 535,
+      "local_number": 238,
+      "num_shlokas": 49,
+      "file": "subparva_39_ghoshayatra_parva/chapter_535_tagged.json"
+    },
+    "536": {
+      "chapter_number": 536,
+      "global_number": 536,
+      "local_number": 239,
+      "num_shlokas": 26,
+      "file": "subparva_39_ghoshayatra_parva/chapter_536_tagged.json"
+    },
+    "537": {
+      "chapter_number": 537,
+      "global_number": 537,
+      "local_number": 240,
+      "num_shlokas": 47,
+      "file": "subparva_39_ghoshayatra_parva/chapter_537_tagged.json"
+    },
+    "538": {
+      "chapter_number": 538,
+      "global_number": 538,
+      "local_number": 241,
+      "num_shlokas": 37,
+      "file": "subparva_39_ghoshayatra_parva/chapter_538_tagged.json"
+    },
+    "539": {
+      "chapter_number": 539,
+      "global_number": 539,
+      "local_number": 242,
+      "num_shlokas": 24,
+      "file": "subparva_39_ghoshayatra_parva/chapter_539_tagged.json"
+    },
+    "540": {
+      "chapter_number": 540,
+      "global_number": 540,
+      "local_number": 243,
+      "num_shlokas": 24,
+      "file": "subparva_39_ghoshayatra_parva/chapter_540_tagged.json"
+    }
+  }
+}

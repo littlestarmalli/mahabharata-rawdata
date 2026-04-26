@@ -1,0 +1,753 @@
+{
+  "chapter": 1452,
+  "local": 124,
+  "shlokas": 69,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “O best of men! These people on earth always praise the good conduct that ﬂows from dharma. However, I have a great doubt about this. O supreme among those who uphold dharma! If I am capable of understanding this, I wish to hear everything about this, exactly as it is comprehended. O descendant of the Bharata lineage! How can good conduct be ensured? I wish to hear this. What are its signs? O supreme among eloquent ones! Tell me this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O best of men! These people on earth always praise the good conduct that ﬂows from dharma. However, I have a great doubt about this. O supreme among those who uphold dharma! If I am capable of understanding this, I wish to hear everything about this, exactly as it is comprehended. O descendant of the Bharata lineage! How can good conduct be ensured? I wish to hear this. What are its signs? O supreme among eloquent ones! Tell me this.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O one who grants honours! O great king! In earlier times, Duryodhana was tormented at the sight of your prosperity, when he went to Indraprastha with his brothers. He was laughed at in the assembly hall{1070}. He told Dhritarashtra about this. O descendant of the Bharata lineage! Listen to the account. Having witnessed your supreme prosperity in the assembly hall, Duryodhana seated himself and told his father everything. On hearing Duryodhana's words, Dhritarashtra spoke these words to Duryodhana, who was with Karna. ‘O son! Why are you tormented? I wish to hear the truth about this. O destroyer of enemy cities! On hearing this, if it is proper, I will instruct you, so that you can also obtain great prosperity, with your servants, your brothers, all your friends and your kin. You cover yourself in excellent garments. You eat food mixed with meat. You are borne on good horses. O son! Why are you grieving?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O one who grants honours! O great king! In earlier times, Duryodhana was tormented at the sight of your prosperity, when he went to Indraprastha with his brothers. He was laughed at in the assembly hall{1070}. He told Dhritarashtra about this. O descendant of the Bharata lineage! Listen to the account. Having witnessed your supreme prosperity in the assembly hall, Duryodhana seated himself and told his father everything. On hearing Duryodhana's words, Dhritarashtra spoke these words to Duryodhana, who was with Karna. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! Why are you tormented? I wish to hear the truth about this. O destroyer of enemy cities! On hearing this, if it is proper, I will instruct you, so that you can also obtain great prosperity, with your servants, your brothers, all your friends and your kin. You cover yourself in excellent garments. You eat food mixed with meat. You are borne on good horses. O son! Why are you grieving?’",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Duryodhana said, ‘In Yudhishthira's abode, ten thousand great-souled snatakas ate from golden vessels. His divine assembly hall is full of celestial ﬂowers and fruit. There are speckled horses of the tittira breed. There are many kinds of gems. I saw all that. I saw the dazzling prosperity of the Pandaveyas, my enemies, and it was like that of Indra. O one who grants honours! On seeing this, I am grieving greatly.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Duryodhana said, ",
+          "speaker": "@bhishma",
+          "introduces": "@duryodhana",
+          "introduces_label": "Duryodhana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘In Yudhishthira's abode, ten thousand great-souled snatakas ate from golden vessels. His divine assembly hall is full of celestial ﬂowers and fruit. There are speckled horses of the tittira breed. There are many kinds of gems. I saw all that. I saw the dazzling prosperity of the Pandaveyas, my enemies, and it was like that of Indra. O one who grants honours! On seeing this, I am grieving greatly.’",
+          "speaker": "@duryodhana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dhritarashtra replied, ‘O son! O tiger among men! If you desire prosperity that is like Yudhishthira's, or superior to it, you must follow good conduct. O son! There is no doubt that the three worlds can be conquered through good conduct. For people who possess good conduct, there is nothing that cannot be accomplished. Mandhata obtained the earth in a single night, Janamejaya in three days and Nabhaga in seven nights. All these kings possessed good conduct and self-control. Bought by their good qualities, the earth presented herself of her own accord. On this, an ancient history is recounted. O descendant of the Bharata lineage! In ancient times, Narada spoke about good conduct. Prahrada robbed the great-souled Indra's kingdom. By resorting to good conduct, the daitya subjugated the three worlds. Shakra joined his hands in salutation and presented himself before Brihaspati. He said, “O immensely wise one! I wish to know about what is beneﬁcial.” At this, Brihaspati gave him the knowledge that is best and supreme. O extender of the Kuru lineage! The illustrious one spoke about this to Indra of the gods. Brihaspati told him about what was best. However, Indra again asked him about what was superior to that.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dhritarashtra replied, ",
+          "speaker": "@bhishma",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O son! O tiger among men! If you desire prosperity that is like Yudhishthira's, or superior to it, you must follow good conduct. O son! There is no doubt that the three worlds can be conquered through good conduct. For people who possess good conduct, there is nothing that cannot be accomplished. Mandhata obtained the earth in a single night, Janamejaya in three days and Nabhaga in seven nights. All these kings possessed good conduct and self-control. Bought by their good qualities, the earth presented herself of her own accord. On this, an ancient history is recounted. O descendant of the Bharata lineage! In ancient times, Narada spoke about good conduct. Prahrada robbed the great-souled Indra's kingdom. By resorting to good conduct, the daitya subjugated the three worlds. Shakra joined his hands in salutation and presented himself before Brihaspati. He said, ",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O immensely wise one! I wish to know about what is beneﬁcial.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " At this, Brihaspati gave him the knowledge that is best and supreme. O extender of the Kuru lineage! The illustrious one spoke about this to Indra of the gods. Brihaspati told him about what was best. However, Indra again asked him about what was superior to that.",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘“‘Brihaspati said, “O son{1071}! There is something that is greater than this. O fortunate one! O Purandara! Go to the great-souled Bhargava{1072} and he will tell you.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘Brihaspati said, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "@brihaspati",
+          "introduces_label": "Brihaspati",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O son{1071}! There is something that is greater than this. O fortunate one! O Purandara! Go to the great-souled Bhargava{1072} and he will tell you.”",
+          "speaker": "@brihaspati",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "@dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dhritarashtra said, ‘The immensely famous one found out from Bhargava what was best for him. He was delighted at having obtained this knowledge and regained his supreme radiance. Having taken the permission of the great-souled Bhargava, Shatakratu again repeatedly asked Shukra about whether there was anything better. Bhargava, knowledgeable about dharma, told him that the great-souled Prahrada possessed that superior knowledge. Delighted at this, the chastiser of Paka{1073} assumed the form of a brahmana and went to Prahrada. The intelligent one said, “I wish to hear what is best for me.” Prahrada told the brahmana, “O bull among brahmanas! I do not have the time. I am engaged in ruling the three worlds and cannot instruct you.” The brahmana spoke these words. “When will there be time? When there is a break in your work, I wish to be instructed.” At this, King Prahrada, knowledgeable about the brahman, was delighted and agreed. At an auspicious time, he gave him that true knowledge. As is proper, the brahmana observed the supreme conduct towards the preceptor. In every kind of way, he did all that he{1074} desired in his mind. He often asked him, “O scorcher of enemies! How did you obtain all these things? O one who knows about dharma! How did you obtain the kingdom of the three worlds? Tell me the reason.” Prahrada replied, “O best among brahmanas! I never show any malice. I never say that I am the king. O son{1075}! I control myself and implement what Kavya{1076} says. Anything said by the tranquil ones is always implemented by me. Without any malice, I am devoted to serving at Kavya's feet. I possess dharma in my soul. I have conquered anger. I have controlled myself and have restrained my senses. I have collected the teachings of those who know about the sacred texts, like bees collecting kshoudra honey{1077}. I have licked the juices that have oozed out from the tongues of those eloquent ones. I have established myself amidst my species, like the moon amidst nakshatras. What has been stated by Kavya, when it ﬂows from the mouths of brahmanas, is supreme sight and is like amrita on this earth. I have implemented what I have heard.” Prahrada told the one who was knowledgeable about the brahman that this was the best. Having been pleased with the servitude, the Indra among daityas spoke these words. “O supreme among brahmanas! I am pleased with your conduct towards your preceptor. O fortunate one! Ask for a boon. There is no doubt that I will give it to you.” The brahmana told the Indra among the daityas that he had already obtained one{1078}. Prahrada was delighted at this and asked him to take another boon. The brahmana replied, “O king! If you are pleased with me and wish to ensure my welfare, I wish to have the good conduct that you possess. Let me obtain this boon.” Though the Indra among the daityas was pleased at this, he also suffered from great fear. Since this was the boon the brahmana had asked for, he couldn't be one with insigniﬁcant energy. Though Prahrada was astounded at this, he agreed to grant what had been asked for.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dhritarashtra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The immensely famous one found out from Bhargava what was best for him. He was delighted at having obtained this knowledge and regained his supreme radiance. Having taken the permission of the great-souled Bhargava, Shatakratu again repeatedly asked Shukra about whether there was anything better. Bhargava, knowledgeable about dharma, told him that the great-souled Prahrada possessed that superior knowledge. Delighted at this, the chastiser of Paka{1073} assumed the form of a brahmana and went to Prahrada. The intelligent one said, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "the_intelligent_one",
+          "introduces_label": "The intelligent one",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I wish to hear what is best for me.”",
+          "speaker": "the_intelligent_one",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Prahrada told the brahmana, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "prahrada",
+          "introduces_label": "Prahrada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O bull among brahmanas! I do not have the time. I am engaged in ruling the three worlds and cannot instruct you.”",
+          "speaker": "prahrada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " The brahmana spoke these words. ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“When will there be time? When there is a break in your work, I wish to be instructed.”",
+          "speaker": "prahrada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " At this, King Prahrada, knowledgeable about the brahman, was delighted and agreed. At an auspicious time, he gave him that true knowledge. As is proper, the brahmana observed the supreme conduct towards the preceptor. In every kind of way, he did all that he{1074} desired in his mind. He often asked him, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "he_often",
+          "introduces_label": "He often",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O scorcher of enemies! How did you obtain all these things? O one who knows about dharma! How did you obtain the kingdom of the three worlds? Tell me the reason.”",
+          "speaker": "he_often",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Prahrada replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "prahrada",
+          "introduces_label": "Prahrada",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O best among brahmanas! I never show any malice. I never say that I am the king. O son{1075}! I control myself and implement what Kavya{1076} says. Anything said by the tranquil ones is always implemented by me. Without any malice, I am devoted to serving at Kavya's feet. I possess dharma in my soul. I have conquered anger. I have controlled myself and have restrained my senses. I have collected the teachings of those who know about the sacred texts, like bees collecting kshoudra honey{1077}. I have licked the juices that have oozed out from the tongues of those eloquent ones. I have established myself amidst my species, like the moon amidst nakshatras. What has been stated by Kavya, when it ﬂows from the mouths of brahmanas, is supreme sight and is like amrita on this earth. I have implemented what I have heard.”",
+          "speaker": "prahrada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Prahrada told the one who was knowledgeable about the brahman that this was the best. Having been pleased with the servitude, the Indra among daityas spoke these words. ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O supreme among brahmanas! I am pleased with your conduct towards your preceptor. O fortunate one! Ask for a boon. There is no doubt that I will give it to you.”",
+          "speaker": "prahrada",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " The brahmana told the Indra among the daityas that he had already obtained one{1078}. Prahrada was delighted at this and asked him to take another boon. The brahmana replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "the_brahmana",
+          "introduces_label": "The brahmana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O king! If you are pleased with me and wish to ensure my welfare, I wish to have the good conduct that you possess. Let me obtain this boon.”",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Though the Indra among the daityas was pleased at this, he also suffered from great fear. Since this was the boon the brahmana had asked for, he couldn't be one with insigniﬁcant energy. Though Prahrada was astounded at this, he agreed to grant what had been asked for.",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 3,
+      "stack": [
+        "'",
+        "\"",
+        "'"
+      ],
+      "text": "‘“‘When the boon had been granted and the brahmana had left, he was miserable. With the boon having been granted and with the brahmana having departed, he began to think a lot. O great king! However, he could not arrive at any conclusion. O son! While he was thinking in this way, an immensely radiant light emerged from his body. This shadow assumed a form made out of energy and left the body. Prahrada asked the immensely gigantic form, “Who are you?” It replied, “I am your good conduct. Since you have abandoned me, I will leave you. O king! I will go to that supreme among brahmanas, the unblemished one who was here as your disciple and was always devoted.” O lord! Having said this, it disappeared and penetrated Shakra. After that energy had gone, another image emerged from his body. “Who are you?” he asked. It replied, “O Prahrada! Know me to be dharma. I will go to that supreme among brahmanas. O Indra among daityas! Since good conduct has already gone there, so will I.” O great king! After this, more blazing energy emerged from the great-souled Prahrada's body. “Who are you?” he asked. The immensely radiant one replied, “O Indra of the asuras! I am truth and I will follow dharma.” After this being had followed dharma, another being emerged. When this was questioned by the great-souled one, it replied, “O Prahrada! Know me to be behaviour. I will be where truth exists.” When it had gone, a giant and white form emerged from his body. Asked, it said, “Know me to be strength. I will be where behaviour exists.” O lord of men! Having said this, it went where behaviour had gone. A radiant goddess then emerged from the body. Asked by the Indra among the daityas, she replied, “I am Shri. O brave one! Because of your truth and valour, I dwelt happily with you. But I have been abandoned by you now and will go where strength is.” At this, the great-souled Prahrada was terriﬁed. He asked her again, “O one who resides in a lotus! Where are you going? You are a goddess who is always devoted to the truth. You are the supreme goddess of the worlds. Who was that best among brahmanas? I wish to know the truth.” Shri replied, “That was Shakra, in the form of a brahmachari. He is the one who has been instructed by you. O lord! He has now robbed you of the prosperity of the three worlds. O one who knows about dharma! You conquered all the worlds through your good conduct. O lord! Knowing this, the great Indra has robbed you of your good conduct. O immensely wise one! Dharma, truth, behaviour, strength and I myself—there is no doubt that all of us ﬁnd our foundations in good conduct.”’ O Yudhishthira! Having said this, Shri and all the others departed. Duryodhana again spoke to his father and uttered these words. “O descendant of the Kourava lineage! I wish to know the true nature of good conduct. Tell me the means whereby I can acquire good conduct.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘“‘When the boon had been granted and the brahmana had left, he was miserable. With the boon having been granted and with the brahmana having departed, he began to think a lot. O great king! However, he could not arrive at any conclusion. O son! While he was thinking in this way, an immensely radiant light emerged from his body. This shadow assumed a form made out of energy and left the body. Prahrada asked the immensely gigantic form, ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Who are you?”",
+          "speaker": "the_brahmana",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " It replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "It",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I am your good conduct. Since you have abandoned me, I will leave you. O king! I will go to that supreme among brahmanas, the unblemished one who was here as your disciple and was always devoted.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O lord! Having said this, it disappeared and penetrated Shakra. After that energy had gone, another image emerged from his body. ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Who are you?”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " he asked. It replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "It",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O Prahrada! Know me to be dharma. I will go to that supreme among brahmanas. O Indra among daityas! Since good conduct has already gone there, so will I.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O great king! After this, more blazing energy emerged from the great-souled Prahrada's body. ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Who are you?”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " he asked. The immensely radiant one replied, ",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O Indra of the asuras! I am truth and I will follow dharma.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " After this being had followed dharma, another being emerged. When this was questioned by the great-souled one, it replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "it",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O Prahrada! Know me to be behaviour. I will be where truth exists.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " When it had gone, a giant and white form emerged from his body. Asked, it said, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "it",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“Know me to be strength. I will be where behaviour exists.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " O lord of men! Having said this, it went where behaviour had gone. A radiant goddess then emerged from the body. Asked by the Indra among the daityas, she replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "she",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“I am Shri. O brave one! Because of your truth and valour, I dwelt happily with you. But I have been abandoned by you now and will go where strength is.”",
+          "speaker": "unknown",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " At this, the great-souled Prahrada was terriﬁed. He asked her again, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "unknown",
+          "introduces_label": "He",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“O one who resides in a lotus! Where are you going? You are a goddess who is always devoted to the truth. You are the supreme goddess of the worlds. Who was that best among brahmanas? I wish to know the truth.”",
+          "speaker": "unknown",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": " Shri replied, ",
+          "speaker": "@dhritarashtra",
+          "introduces": "@lakshmi",
+          "introduces_label": "Shri",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 4,
+          "text": "“That was Shakra, in the form of a brahmachari. He is the one who has been instructed by you. O lord! He has now robbed you of the prosperity of the three worlds. O one who knows about dharma! You conquered all the worlds through your good conduct. O lord! Knowing this, the great Indra has robbed you of your good conduct. O immensely wise one! Dharma, truth, behaviour, strength and I myself—there is no doubt that all of us ﬁnd our foundations in good conduct.”",
+          "speaker": "@lakshmi",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "’",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " O Yudhishthira! Having said this, Shri and all the others departed. Duryodhana again spoke to his father and uttered these words. ",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 3,
+          "text": "“O descendant of the Kourava lineage! I wish to know the true nature of good conduct. Tell me the means whereby I can acquire good conduct.”",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Dhritarashtra said, ‘The means have earlier been instructed by the great-souled Prahrada. O lord of men! Listen brieﬂy to how good conduct can be obtained. There must be non-violence towards all beings, in deeds, thoughts and words. Compassion and generosity are praised as elements of good conduct. For one's own sake, one must not commit a harsh act that causes injury to another. Nor should one ever do something that one is ashamed of. One should undertake those tasks that warrant praise in assemblies. O supreme among the Kuru lineage! This is said to be the accumulation of good conduct. Even if a king who does not have good conduct possesses Shri, he will not enjoy her for a long time. The roots will fall down. O son! Know this to be the true nature of good conduct. O son! If you desire prosperity that is superior to that of Yudhishthira, this is what you should do.’”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Dhritarashtra said, ",
+          "speaker": "@bhishma",
+          "introduces": "@dhritarashtra",
+          "introduces_label": "Dhritarashtra",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The means have earlier been instructed by the great-souled Prahrada. O lord of men! Listen brieﬂy to how good conduct can be obtained. There must be non-violence towards all beings, in deeds, thoughts and words. Compassion and generosity are praised as elements of good conduct. For one's own sake, one must not commit a harsh act that causes injury to another. Nor should one ever do something that one is ashamed of. One should undertake those tasks that warrant praise in assemblies. O supreme among the Kuru lineage! This is said to be the accumulation of good conduct. Even if a king who does not have good conduct possesses Shri, he will not enjoy her for a long time. The roots will fall down. O son! Know this to be the true nature of good conduct. O son! If you desire prosperity that is superior to that of Yudhishthira, this is what you should do.’",
+          "speaker": "@dhritarashtra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma said, “O lord of men! This is what Dhritarashtra told his son. O Kounteya! If you act in this way, you will obtain the fruits.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of men! This is what Dhritarashtra told his son. O Kounteya! If you act in this way, you will obtain the fruits.”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

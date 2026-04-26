@@ -1,0 +1,2753 @@
+{
+  "name": "Aranyaka-parvan Parva",
+  "subparva_number": 44,
+  "source_volume": 3,
+  "details": {
+    "num_chapters": 5,
+    "num_shlokas": 191
+  },
+  "note": "The first section within Aranyaka Parva is also called Aranyaka Parva, the word aranyaka having already been explained.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "592": {
+      "global_number": 592,
+      "local_number": 295,
+      "num_shlokas": 17,
+      "paragraphs": {
+        "1": {
+          "raw": "Janamejaya asked, ‘They experienced great sorrow when their wife was abducted. What did the Pandavas do when they obtained Krishna back?’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "Janamejaya asked,",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘They experienced great sorrow when their wife was abducted. What did the Pandavas do when they obtained Krishna back?’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘They suffered supreme distress when Krishna was abducted. Together with his brothers, the undecaying king{1} left Kamyaka. Yudhishthira again went to beautiful Dvaitavana. They went towards Markandeya’s beautiful hermitage, where there were succulent roots and fruit. O descendant of the Bharata lineage! All the Pandavas began to reside there with Krishna, controlled in their vows and living frugally on a diet of fruit. While Kunti’s sons, King Yudhishthira, Bhimasena, Arjuna and the two Pandavas who were Madri’s sons lived in Dvaitavana, those scorchers of enemies, with dharma in their souls, devoted to brahmanas and rigid in their vows, experienced a great calamity that eventually ended in happiness. While Ajatashatru{2} was seated with his brothers in the forest, a brahmana swiftly approached and sorrowfully spoke these words to him. “I left my kindling and the churning rod{3} against a tree. But they stuck to the antlers of a deer that rubbed itself against it. O king! The great deer rushed away at great speed from the hermitage, using giant leaps. O king! Swiftly follow the footprints of that great deer. O Pandavas! Bring those back to me, so that my agnihotra is not spoilt.” On hearing the words of the brahmana, Yudhishthira felt sorry. Kounteya grasped his bow and left with his brothers. For the sake of the brahmana, all those archers and bulls among men prepared themselves and swiftly dashed after the deer. The Pandavas saw the deer at a short distance and hurled barbed arrows, hollow arrows and iron arrows at it. But the maharathas could not pierce it. While they were trying in this way, the great deer disappeared. On seeing the deer disappear, those intelligent ones were exhausted and sorry. In that dense forest, they sought shelter under the cool shade of a banyan tree. Their limbs were sore with hunger and thirst and they seated themselves. O descendant of the Kuru lineage! When they were seated, Nakula spoke to his eldest brother, with a heavy heart and lack of patience. “Dharma has never been given up in our lineage. Nor have objectives been lost through laziness. We are superior to all beings. O king! Why has this disaster befallen us again?”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘They suffered supreme distress when Krishna was abducted. Together with his brothers, the undecaying king{1} left Kamyaka. Yudhishthira again went to beautiful Dvaitavana. They went towards Markandeya’s beautiful hermitage, where there were succulent roots and fruit. O descendant of the Bharata lineage! All the Pandavas began to reside there with Krishna, controlled in their vows and living frugally on a diet of fruit. While Kunti’s sons, King Yudhishthira, Bhimasena, Arjuna and the two Pandavas who were Madri’s sons lived in Dvaitavana, those scorchers of enemies, with dharma in their souls, devoted to brahmanas and rigid in their vows, experienced a great calamity that eventually ended in happiness. While Ajatashatru{2} was seated with his brothers in the forest,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "a brahmana swiftly approached and sorrowfully spoke these words to him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@a_brahmana_swiftly_approached",
+              "text": "“I left my kindling and the churning rod{3} against a tree. But they stuck to the antlers of a deer that rubbed itself against it. O king! The great deer rushed away at great speed from the hermitage, using giant leaps. O king! Swiftly follow the footprints of that great deer. O Pandavas! Bring those back to me, so that my agnihotra is not spoilt.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing the words of the brahmana, Yudhishthira felt sorry. Kounteya grasped his bow and left with his brothers. For the sake of the brahmana, all those archers and bulls among men prepared themselves and swiftly dashed after the deer. The Pandavas saw the deer at a short distance and hurled barbed arrows, hollow arrows and iron arrows at it. But the maharathas could not pierce it. While they were trying in this way, the great deer disappeared. On seeing the deer disappear, those intelligent ones were exhausted and sorry. In that dense forest, they sought shelter under the cool shade of a banyan tree. Their limbs were sore with hunger and thirst and they seated themselves. O descendant of the Kuru lineage! When they were seated, Nakula spoke to his eldest brother, with a heavy heart and lack of patience.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Dharma has never been given up in our lineage. Nor have objectives been lost through laziness. We are superior to all beings. O king! Why has this disaster befallen us again?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "593": {
+      "global_number": 593,
+      "local_number": 296,
+      "num_shlokas": 43,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Yudhishthira said, “There are no limits to misfortune. Nor effects or causes. Dharma distributes it, depending on merits and demerits.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“There are no limits to misfortune. Nor effects or causes. Dharma distributes it, depending on merits and demerits.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Bhima said, “The attendant dragged Krishna into the assembly hall like a servant. There is no doubt that we are confronted with this calamity because I did not kill him then.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Bhima said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@bhima",
+              "text": "“The attendant dragged Krishna into the assembly hall like a servant. There is no doubt that we are confronted with this calamity because I did not kill him then.”",
+              "color": "#E07A5F",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Arjuna said, “I tolerated the extremely harsh words spoken by the suta’s son, which penetrated the bones. There is no doubt that we are confronted with this calamity because of that.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Arjuna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“I tolerated the extremely harsh words spoken by the suta’s son, which penetrated the bones. There is no doubt that we are confronted with this calamity because of that.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Sahadeva said, “O descendant of the Bharata lineage! There is no doubt that we are confronted with this calamity because I did not kill Shakuni when he defeated you at the game of dice.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Sahadeva said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@sahadeva",
+              "text": "“O descendant of the Bharata lineage! There is no doubt that we are confronted with this calamity because I did not kill Shakuni when he defeated you at the game of dice.”",
+              "color": "#6BAB8A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "Vaishampayana said, ‘Then King Yudhishthira spoke these words to Nakula. “O Madri’s son! Climb a tree and look in the ten directions. Look for water that is nearby, or trees that grow near water. O son{4}! Your brothers are exhausted and thirsty.” Following these words, Nakula swiftly climbed a tree. After looking in all the directions, he told his eldest brother, “O king! I can see many trees that grow near water. I can hear the cries of cranes. There is no doubt that there is water somewhere here.” Kunti’s son Yudhishthira, steadfast in his truth, then told him, “O peaceful one! Swiftly go and fetch some water.” On his eldest brother’s instructions, Nakula agreed and quickly rushed towards the place where the water was. He saw the crystal clear water, surrounded by cranes. Just as he was about to drink it, a voice was heard from heaven. “O son{5}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Madri’s son! Answer my question. You can then drink it and take it.” But Nakula was very thirsty and ignored these words. He drank the cool water. Having drunk it, he collapsed and fell down. When Nakula did not return for a long time, Kunti’s son Yudhishthira told his brave brother Sahadeva, the scorcher of enemies. “O Sahadeva! Your brother has been gone for a long time. He is your immediate elder. Go and fetch your brother. Bring water too.” On hearing these words, Sahadeva proceeded in that direction. He saw his brother Nakula, lying down dead on the ground. He was sorely tormented at the sight of his brother. But he was oppressed by thirst. He rushed towards the water and the voice spoke these words. “O son{6}! Do not be foolish enough to do this. I have obtained possession of this earlier. Answer my question. You can then drink it and take it, as you wish.” But Sahadeva was very thirsty and ignored these words. He drank the cool water. Having drunk it, he collapsed and fell down.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Then King Yudhishthira spoke these words to Nakula",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O Madri’s son! Climb a tree and look in the ten directions. Look for water that is nearby, or trees that grow near water. O son{4}! Your brothers are exhausted and thirsty.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Following these words, Nakula swiftly climbed a tree.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "After looking in all the directions, he told his eldest brother",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@in_all",
+              "text": "“O king! I can see many trees that grow near water. I can hear the cries of cranes. There is no doubt that there is water somewhere here.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti’s son Yudhishthira, steadfast in his truth, then told him",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O peaceful one! Swiftly go and fetch some water.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On his eldest brother’s instructions, Nakula agreed and quickly rushed towards the place where the water was. He saw the crystal clear water, surrounded by cranes. Just as he was about to drink it, a voice was heard from heaven.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O son{5}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Madri’s son! Answer my question. You can then drink it and take it.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "But Nakula was very thirsty and ignored these words. He drank the cool water. Having drunk it, he collapsed and fell down. When Nakula did not return for a long time, Kunti’s son Yudhishthira told his brave brother Sahadeva, the scorcher of enemies.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O Sahadeva! Your brother has been gone for a long time. He is your immediate elder. Go and fetch your brother. Bring water too.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing these words, Sahadeva proceeded in that direction. He saw his brother Nakula, lying down dead on the ground. He was sorely tormented at",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the sight of his brother. But he was oppressed by thirst. He rushed towards the water and the voice spoke these words",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_sight_of_his_brother",
+              "text": "“O son{6}! Do not be foolish enough to do this. I have obtained possession of this earlier. Answer my question. You can then drink it and take it, as you wish.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "But Sahadeva was very thirsty and ignored these words. He drank the cool water. Having drunk it, he collapsed and fell down.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘Then Kunti’s son Yudhishthira spoke to Vijaya{7}. “O Bibhatsu! O destroyer of enemies! Your brothers have been gone for a long time. O fortunate one! Go and bring them and the water.” At these words, Gudakesha grasped his bow and arrows. The intelligent one grasped his unsheathed sword and proceeded towards the lake. Shvetavahana saw his brothers, the tigers among men who had gone to fetch water, lying down dead on the ground. On seeing them, as if asleep, Kounteya, lion among men, was extremely distressed. He raised his bow and looked around in the forest. Savyasachi could not see any beings in that great forest. He was exhausted and rushed towards the water. As he rushed towards it, the voice was heard from the sky. “Why are you approaching? You will not be able to drink the water by force. O Kounteya! O descendant of the Bharata lineage! If you are able to answer my questions, you will be able to drink the water and take it.” Having been thus restrained, Partha said, “Show yourself and then restrain me. You will not be able to speak again in this fashion when my arrows pierce you.” Saying this, Partha invoked his arrows with mantras. He displayed his skill at shooting arrows targeted at sound, enveloping the directions. O bull among the Bharata lineage! He unleashed many showers of barbed arrows, hollow arrows and iron arrows towards the sky.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Then Kunti’s son Yudhishthira spoke to Vijaya{7}",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O Bibhatsu! O destroyer of enemies! Your brothers have been gone for a long time. O fortunate one! Go and bring them and the water.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At these words, Gudakesha grasped his bow and arrows. The intelligent one grasped his unsheathed sword and proceeded towards the lake. Shvetavahana saw his brothers, the tigers among men who had gone to fetch water, lying down dead on the ground. On seeing them, as if asleep, Kounteya, lion among men, was extremely distressed. He raised his bow and looked around in the forest. Savyasachi could not see any beings in that great forest. He was exhausted and rushed towards the water. As he rushed towards it, the voice was heard from the sky.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Why are you approaching? You will not be able to drink the water by force. O Kounteya! O descendant of the Bharata lineage! If you are able to answer my questions, you will be able to drink the water and take it.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus restrained,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Partha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@arjuna",
+              "text": "“Show yourself and then restrain me. You will not be able to speak again in this fashion when my arrows pierce you.”",
+              "color": "#5BA4CF",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Saying this, Partha invoked his arrows with mantras. He displayed his skill at shooting arrows targeted at sound, enveloping the directions. O bull among the Bharata lineage! He unleashed many showers of barbed arrows, hollow arrows and iron arrows towards the sky.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘The yaksha said, “O Partha! What purpose do these exertions serve? Answer my questions and then drink. If you do not answer the questions, you will cease to exist as soon as you drink.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O Partha! What purpose do these exertions serve? Answer my questions and then drink. If you do not answer the questions, you will cease to exist as soon as you drink.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "8": {
+          "raw": "Vaishampayana said, ‘But having unleashed his invincible arrows, he was overcome by thirst. Ignoring the words, he drank and collapsed and fell down. Kunti’s son Yudhishthira then spoke to Bhimasena. “O descendant of the Bharata lineage! Nakula, Sahadeva and the unvanquished Bibhatsu have been gone for a long time, having gone to fetch water. O fortunate one! Go and fetch them and bring the water.” Having been thus addressed, Bhimasena left in the same direction, where his brothers, tigers among men, had fallen down. On seeing them, Bhima was distressed and was oppressed by thirst. The mighty-armed one thought that this must have been the work of yakshas or rakshasas. He thought, “I will certainly have to ﬁght today. But let me drink the water ﬁrst.” Partha Vrikodara, bull among men, was thirsty and rushed towards the water.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘But having unleashed his invincible arrows, he was overcome by thirst. Ignoring the words, he drank and collapsed and fell down.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti’s son Yudhishthira then spoke to Bhimasena",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“O descendant of the Bharata lineage! Nakula, Sahadeva and the unvanquished Bibhatsu have been gone for a long time, having gone to fetch water. O fortunate one! Go and fetch them and bring the water.”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having been thus addressed, Bhimasena left in the same direction, where his brothers, tigers among men, had fallen down. On seeing them, Bhima was distressed and was oppressed by thirst. The mighty-armed one thought that this must have been the work of yakshas or rakshasas. He thought,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“I will certainly have to ﬁght today. But let me drink the water ﬁrst.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Partha Vrikodara, bull among men, was thirsty and rushed towards the water.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘The yaksha said, “O son{8}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Kounteya! Answer my question. You can then drink it and take it.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O son{8}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Kounteya! Answer my question. You can then drink it and take it.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "10": {
+          "raw": "Vaishampayana said, ‘Bhima ignored the words of the inﬁnitely energetic yaksha. He drank, collapsed and fell down. O bull among men! At this, the king who was Kunti’s son began to think. Tormented in his mind, the mighty-armed one arose. He entered the great forest, bereft of the sounds of people. It was infested with ruru deer, boar and birds. There were dark, colourful and beautiful trees, abuzz with the sounds of bees and birds. The immensely fortunate one entered the forest and saw the beautiful pond, as it was covered with a net of gold. It seemed to have been created by Vishvakarma{9}. It was covered with a bed of lotuses, sindhuvaras{10}, cane, ketakas{11}, karaviras{12} and pippalas{13}. He was exhausted and approaching the lake, gazed at it with wonder.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Bhima ignored the words of the inﬁnitely energetic yaksha. He drank, collapsed and fell down. O bull among men! At this, the king who was Kunti’s son began to think. Tormented in his mind, the mighty-armed one arose. He entered the great forest, bereft of the sounds of people. It was infested with ruru deer, boar and birds. There were dark, colourful and beautiful trees, abuzz with the sounds of bees and birds. The immensely fortunate one entered the forest and saw the beautiful pond, as it was covered with a net of gold. It seemed to have been created by Vishvakarma{9}. It was covered with a bed of lotuses, sindhuvaras{10}, cane, ketakas{11}, karaviras{12} and pippalas{13}. He was exhausted and approaching the lake, gazed at it with wonder.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "594": {
+      "global_number": 594,
+      "local_number": 297,
+      "num_shlokas": 74,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘He saw his dead brothers, as glorious as Shakra, like dislodged guardians of the world{14} when the end of the yuga had arrived. He saw Arjuna dead, with his bow and arrows scattered and Bhimasena and the twins, motionless and bereft of life. He shed tears of sorrow and breathed hot and deep sighs. Using his intelligence, he began to think. “Who has killed these brave ones? There are no marks of weapons on them. Nor are there any signs of footprints. I think it must be a great being that has killed my brothers in this way. I must reﬂect on this with concentration. Perhaps I will ﬁnd out after drinking the water. Perhaps this is a deed that has been undertaken by Duryodhana, who cannot differentiate between what should be done and what should not be done, in secret, always aided by the wicked-minded king of Gandhara{15}. No brave person can trust that evil one, whose soul has not been perfected. Or perhaps that evil-souled one has employed secret servants.” Thus the mightyarmed one thought in many ways. But he did not think that the water was tainted through poison. He thought, “The faces of my brothers are healthy in complexion. These men are excellent and each one of them is capable of withstanding the shock of a ﬂood of water. Who but Yama, the arbiter of destiny, can subjugate them?” Reﬂecting in this way, he entered the water. As he entered, he heard these words from the sky.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘He saw his dead brothers, as glorious as Shakra, like dislodged guardians of the world{14} when the end of the yuga had arrived. He saw Arjuna dead, with his bow and arrows scattered and Bhimasena and the twins, motionless and bereft of life. He shed tears of sorrow and breathed hot and deep sighs. Using his intelligence, he began to think.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“Who has killed these brave ones? There are no marks of weapons on them. Nor are there any signs of footprints. I think it must be a great being that has killed my brothers in this way. I must reﬂect on this with concentration. Perhaps I will ﬁnd out after drinking the water. Perhaps this is a deed that has been undertaken by Duryodhana, who cannot differentiate between what should be done and what should not be done, in secret, always aided by the wicked-minded king of Gandhara{15}. No brave person can trust that evil one, whose soul has not been perfected. Or perhaps that evil-souled one has employed secret servants.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Thus the mightyarmed one thought in many ways. But he did not think that the water was tainted through poison. He thought,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“The faces of my brothers are healthy in complexion. These men are excellent and each one of them is capable of withstanding the shock of a ﬂood of water. Who but Yama, the arbiter of destiny, can subjugate them?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Reﬂecting in this way, he entered the water. As he entered, he heard these words from the sky.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘The yaksha said, “I am a crane that lives on aquatic plants and ﬁsh. I have taken your younger brothers to the land of the dead. O prince! If you do not answer my questions, you will be the ﬁfth. O son{16}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Kounteya! Answer my questions. Then drink and take the water.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“I am a crane that lives on aquatic plants and ﬁsh. I have taken your younger brothers to the land of the dead. O prince! If you do not answer my questions, you will be the ﬁfth. O son{16}! Do not be foolish enough to do this. I have obtained possession of this earlier. O Kounteya! Answer my questions. Then drink and take the water.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Yudhishthira said, “Are you the foremost among the Rudras, the Vasus or the Maruts? I am asking you. Which god are you? This is not the task of a bird{17}. Who is the greatly energetic one who has felled these four mountains{18}—Himalaya, Pariyatra, Vindhya and Malaya? O supreme among those who are strong! You have performed an extremely great deed. The gods, the gandharvas, the asuras and the rakshasas are incapable of withstanding them in a great battle. You have accomplished something that is extraordinary. I do not know what you are doing. Nor do I know your intentions. I am greatly curious, but I am also overwhelmed by fright. You are consuming my heart and have brought fever to my head. O illustrious one! I am asking you. Who are you, established here?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Are you the foremost among the Rudras, the Vasus or the Maruts? I am asking you. Which god are you? This is not the task of a bird{17}. Who is the greatly energetic one who has felled these four mountains{18}—Himalaya, Pariyatra, Vindhya and Malaya? O supreme among those who are strong! You have performed an extremely great deed. The gods, the gandharvas, the asuras and the rakshasas are incapable of withstanding them in a great battle. You have accomplished something that is extraordinary. I do not know what you are doing. Nor do I know your intentions. I am greatly curious, but I am also overwhelmed by fright. You are consuming my heart and have brought fever to my head. O illustrious one! I am asking you. Who are you, established here?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘The yaksha replied, “I am a yaksha. I am not an aquatic bird. It is I who killed all your greatly energetic brothers.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“I am a yaksha. I am not an aquatic bird. It is I who killed all your greatly energetic brothers.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "Vaishampayana said, ‘O king! On hearing these inauspicious words spoken by the yaksha in a harsh voice, he approached nearby and stood there. The bull among the Bharata lineage saw the yaksha, with malformed eyes and gigantic in form, as tall as a tala tree. He was as ﬁery as the ﬁre and the sun and was invincible like a mountain. The immensely strong one stood on a mound and censured him in a voice that was as deep as the roar of thunder. The yaksha said, “O king! These brothers of yours were repeatedly restrained by me. But they tried to drink the water by force and I killed them. O king! This water should not be drunk by someone who desires his life. O Partha! Do not be foolish. I have obtained possession of this earlier. O Kounteya! Answer my questions. Then drink and take.” Yudhishthira replied, “O yaksha! I do not desire what you have possessed earlier. Learned men never praise such desires, nor should men praise themselves on their own. O lord! Ask me. I will answer according to my wisdom.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! On hearing these inauspicious words spoken by the yaksha in a harsh voice, he approached nearby and stood there. The bull among the Bharata lineage saw the yaksha, with malformed eyes and gigantic in form, as tall as a tala tree. He was as ﬁery as the ﬁre and the sun and was invincible like a mountain. The immensely strong one stood",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "on a mound and censured him in a voice that was as deep as the roar of thunder. The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@a_mound_and",
+              "text": "“O king! These brothers of yours were repeatedly restrained by me. But they tried to drink the water by force and I killed them. O king! This water should not be drunk by someone who desires his life. O Partha! Do not be foolish. I have obtained possession of this earlier. O Kounteya! Answer my questions. Then drink and take.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O yaksha! I do not desire what you have possessed earlier. Learned men never praise such desires, nor should men praise themselves on their own. O lord! Ask me. I will answer according to my wisdom.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "6": {
+          "raw": "‘The yaksha asked, “What makes the sun rise and who are those near him? What makes him set and on what is he established?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What makes the sun rise and who are those near him? What makes him set and on what is he established?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Yudhishthira replied, “Brahma makes the sun rise and the gods remain near him. Dharma makes him set and he is established in truth.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Brahma makes the sun rise and the gods remain near him. Dharma makes him set and he is established in truth.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "8": {
+          "raw": "‘The yaksha asked, “How does one become learned? How does one attain greatness? O king! How does one obtain a second? How does one become intelligent?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“How does one become learned? How does one attain greatness? O king! How does one obtain a second? How does one become intelligent?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "9": {
+          "raw": "‘Yudhishthira replied, “One becomes learned through the sacred texts{19}. One attains greatness through austerities. One obtains a second through perseverance{20}. One becomes intelligent by serving the elders.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“One becomes learned through the sacred texts{19}. One attains greatness through austerities. One obtains a second through perseverance{20}. One becomes intelligent by serving the elders.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "10": {
+          "raw": "‘The yaksha asked, “What is the divine trait of brahmanas? What dharma of theirs is like that of the virtuous? What are their human traits? Which of their traits are like that of those without virtue?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is the divine trait of brahmanas? What dharma of theirs is like that of the virtuous? What are their human traits? Which of their traits are like that of those without virtue?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "11": {
+          "raw": "‘Yudhishthira replied, “The study of the Vedas is their divine trait. Austerities are like that of the virtuous. Mortality is their human trait. Slander is like the conduct of those without virtue.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The study of the Vedas is their divine trait. Austerities are like that of the virtuous. Mortality is their human trait. Slander is like the conduct of those without virtue.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "12": {
+          "raw": "‘The yaksha asked, “What is the divine trait of kshatriyas? What dharma of theirs is like that of the virtuous? What are their human traits? Which of their traits are like that of those without virtue?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is the divine trait of kshatriyas? What dharma of theirs is like that of the virtuous? What are their human traits? Which of their traits are like that of those without virtue?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "13": {
+          "raw": "‘Yudhishthira replied, “Arrows and weapons are their divine traits. Sacriﬁces are like that of the virtuous. Fear is their human trait. Desertion is like the conduct of those without virtue.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Arrows and weapons are their divine traits. Sacriﬁces are like that of the virtuous. Fear is their human trait. Desertion is like the conduct of those without virtue.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "14": {
+          "raw": "‘The yaksha asked, “Which is the single sacriﬁcial chant? What is the sacriﬁcial formula? What do sacriﬁces need? And what can sacriﬁces not transgress?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“Which is the single sacriﬁcial chant? What is the sacriﬁcial formula? What do sacriﬁces need? And what can sacriﬁces not transgress?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "15": {
+          "raw": "‘Yudhishthira replied, “The breath of life{21} is the single sacriﬁcial chant. The mind is the sacriﬁcial formula. Sacriﬁces need speech. Sacriﬁces cannot transgress speech.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The breath of life{21} is the single sacriﬁcial chant. The mind is the sacriﬁcial formula. Sacriﬁces need speech. Sacriﬁces cannot transgress speech.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "16": {
+          "raw": "‘The yaksha asked, “What is the best among those that descend? What is supreme among those that are sown? What is the best among those that stand? What is supreme among those that speak?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is the best among those that descend? What is supreme among those that are sown? What is the best among those that stand? What is supreme among those that speak?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "17": {
+          "raw": "‘Yudhishthira replied, “Rain is best among those that descend. Seeds are supreme among those that are sown. Cows are best among those that stand. Sons are supreme among those that speak{22}.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Rain is best among those that descend. Seeds are supreme among those that are sown. Cows are best among those that stand. Sons are supreme among those that speak{22}.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "18": {
+          "raw": "‘The yaksha asked, “Who experiences the objects of the senses, is intelligent, is worshipped by all the beings in the world and breathes, but is not alive?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“Who experiences the objects of the senses, is intelligent, is worshipped by all the beings in the world and breathes, but is not alive?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "19": {
+          "raw": "‘Yudhishthira replied, “A person who does not render offerings to the ﬁve—gods, guests, servants, ancestors and himself—breathes, but is not alive.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“A person who does not render offerings to the ﬁve—gods, guests, servants, ancestors and himself—breathes, but is not alive.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "20": {
+          "raw": "‘The yaksha asked, “What is heavier than the earth? What is higher than the sky? What is swifter than the wind? What is more numerous than men?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is heavier than the earth? What is higher than the sky? What is swifter than the wind? What is more numerous than men?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "21": {
+          "raw": "‘Yudhishthira replied, “The mother is heavier than the earth. The father is higher than the sky. The mind is swifter than the wind. Worries are more numerous than men{23}.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The mother is heavier than the earth. The father is higher than the sky. The mind is swifter than the wind. Worries are more numerous than men{23}.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "22": {
+          "raw": "‘The yaksha asked, “What does not close its eyes while asleep? What does not move when it is born? What has no heart? What grows through speeding?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What does not close its eyes while asleep? What does not move when it is born? What has no heart? What grows through speeding?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "23": {
+          "raw": "‘Yudhishthira replied, “A ﬁsh does not close its eyes while asleep. An egg does not move when it is born. A stone has no heart. A river grows through speeding.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“A ﬁsh does not close its eyes while asleep. An egg does not move when it is born. A stone has no heart. A river grows through speeding.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "24": {
+          "raw": "‘The yaksha asked, “Who is a friend to one who is travelling? Who is a friend at home? Who is a friend to one who is sick? Who is a friend to one who is about to die?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“Who is a friend to one who is travelling? Who is a friend at home? Who is a friend to one who is sick? Who is a friend to one who is about to die?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "25": {
+          "raw": "‘Yudhishthira replied, “A caravan is a friend to a traveller. A wife is a friend at home. A physician is a friend to one who is sick. Charity is a friend to one who is about to die.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“A caravan is a friend to a traveller. A wife is a friend at home. A physician is a friend to one who is sick. Charity is a friend to one who is about to die.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "26": {
+          "raw": "‘The yaksha asked, “What travels alone? What is born again after birth? What is a cure for cold? What is the greatest ﬁeld?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What travels alone? What is born again after birth? What is a cure for cold? What is the greatest ﬁeld?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "27": {
+          "raw": "‘Yudhishthira replied, “The sun travels alone. The moon is born again after birth. Fire is the cure for cold. The earth is the greatest ﬁeld.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The sun travels alone. The moon is born again after birth. Fire is the cure for cold. The earth is the greatest ﬁeld.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "28": {
+          "raw": "‘The yaksha asked, “In a single word, what is dharma? In a single word, what is fame? In a single word, what is heaven? In a single word, what is happiness?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“In a single word, what is dharma? In a single word, what is fame? In a single word, what is heaven? In a single word, what is happiness?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "29": {
+          "raw": "‘Yudhishthira replied, “In a single word, dexterity is dharma. In a single word, generosity is fame. In a single word, truth is heaven. In a single word, conduct is happiness.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“In a single word, dexterity is dharma. In a single word, generosity is fame. In a single word, truth is heaven. In a single word, conduct is happiness.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "30": {
+          "raw": "‘The yaksha asked, ‘What is a man’s self? What is the friend given by destiny? What is the support of his life? What is the best refuge?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘What is a man’s self? What is the friend given by destiny? What is the support of his life? What is the best refuge?”",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "31": {
+          "raw": "‘Yudhishthira replied, “A son is a man’s self. The wife is the friend given by destiny. Rains are the support of his life. Generosity is the best refuge.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“A son is a man’s self. The wife is the friend given by destiny. Rains are the support of his life. Generosity is the best refuge.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "32": {
+          "raw": "‘The yaksha asked, “What is supreme among objects that are lauded? What is supreme among riches? What is the supreme gain? What is supreme happiness?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is supreme among objects that are lauded? What is supreme among riches? What is the supreme gain? What is supreme happiness?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "33": {
+          "raw": "‘Yudhishthira replied, “Dexterity is supreme among objects that are lauded. Knowledge of the sacred texts is supreme among riches. Health is the supreme gain. Satisfaction is supreme happiness.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Dexterity is supreme among objects that are lauded. Knowledge of the sacred texts is supreme among riches. Health is the supreme gain. Satisfaction is supreme happiness.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "34": {
+          "raw": "‘The yaksha asked, “What is supreme dharma in this world? What dharma always leads to fruits? What does not grieve when it is controlled? What alliance never breaks?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is supreme dharma in this world? What dharma always leads to fruits? What does not grieve when it is controlled? What alliance never breaks?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "35": {
+          "raw": "‘Yudhishthira replied, “Non-violence is supreme dharma. The dharma of the three{24} always leads to fruits. The mind does not grieve when it is controlled. An alliance with the righteous never breaks.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Non-violence is supreme dharma. The dharma of the three{24} always leads to fruits. The mind does not grieve when it is controlled. An alliance with the righteous never breaks.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "36": {
+          "raw": "‘The yaksha asked, “If abandoned, what makes one pleasant? If abandoned, what does not lead to sorrow? If abandoned, what ensures prosperity? If abandoned, what makes one happy?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“If abandoned, what makes one pleasant? If abandoned, what does not lead to sorrow? If abandoned, what ensures prosperity? If abandoned, what makes one happy?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "37": {
+          "raw": "‘Yudhishthira replied, “The abandoning of pride makes one pleasant. The abandoning of anger does not lead to sorrow. The abandoning of desire ensures prosperity. The abandoning of desire makes one happy.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The abandoning of pride makes one pleasant. The abandoning of anger does not lead to sorrow. The abandoning of desire ensures prosperity. The abandoning of desire makes one happy.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "38": {
+          "raw": "‘The yaksha asked, “When is a man dead? When is a kingdom dead? When is a funeral ceremony dead? When is a sacriﬁce dead?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“When is a man dead? When is a kingdom dead? When is a funeral ceremony dead? When is a sacriﬁce dead?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "39": {
+          "raw": "‘Yudhishthira replied, “A poor man is dead. A kingdom without a king is dead. A funeral ceremony performed without a learned brahmana is dead. A sacriﬁce without dakshina is dead.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“A poor man is dead. A kingdom without a king is dead. A funeral ceremony performed without a learned brahmana is dead. A sacriﬁce without dakshina is dead.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "40": {
+          "raw": "‘The yaksha asked, “What is the right direction? What is spoken of as water? O Partha! What is food and what is poison? What is the right time for a funeral ceremony? Then you can drink and take{25}.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“What is the right direction? What is spoken of as water? O Partha! What is food and what is poison? What is the right time for a funeral ceremony? Then you can drink and take{25}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "41": {
+          "raw": "‘Yudhishthira replied, “The virtuous are the right direction. The sky is water. The cow is food. A request is poison. A brahmana is the best time for a funeral sacriﬁce{26}. O yaksha! What do you think?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The virtuous are the right direction. The sky is water. The cow is food. A request is poison. A brahmana is the best time for a funeral sacriﬁce{26}. O yaksha! What do you think?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "42": {
+          "raw": "‘The yaksha said, “O scorcher of enemies! You have answered all my questions correctly. Tell me. Who is a man? Which man possesses all riches?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O scorcher of enemies! You have answered all my questions correctly. Tell me. Who is a man? Which man possesses all riches?”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "43": {
+          "raw": "‘Yudhishthira replied, “The reputation of good deeds touches heaven and earth. As long as that reputation remains, one is said to be a man. One to whom the pleasant and the unpleasant, happiness and unhappiness and the past and the future are equal, is a man who possesses all riches.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The reputation of good deeds touches heaven and earth. As long as that reputation remains, one is said to be a man. One to whom the pleasant and the unpleasant, happiness and unhappiness and the past and the future are equal, is a man who possesses all riches.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "44": {
+          "raw": "‘The yaksha said, “O king! You have explained who is a man and which man possesses all riches. Therefore one of your brothers, whichever one you wish, will live.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O king! You have explained who is a man and which man possesses all riches. Therefore one of your brothers, whichever one you wish, will live.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "45": {
+          "raw": "Yudhishthira replied, “O yaksha! Nakula is dark, with red eyes, mighty arms and a broad chest. He is as tall as a shala tree. He will live.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O yaksha! Nakula is dark, with red eyes, mighty arms and a broad chest. He is as tall as a shala tree. He will live.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "46": {
+          "raw": "‘The yaksha said, “You love Bhimasena and you depend on Arjuna. O king! Why do you then wish Nakula, who is your stepbrother, to be alive? Bhima has strength equal to ten thousand elephants. Why do you discard him and wish Nakula to live? People say that Bhimasena is your beloved. Out of what sentiments do you wish your stepbrother to live? All the Pandavas depend on the strength of Arjuna’s arms. But you discard him and wish Nakula to live.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“You love Bhimasena and you depend on Arjuna. O king! Why do you then wish Nakula, who is your stepbrother, to be alive? Bhima has strength equal to ten thousand elephants. Why do you discard him and wish Nakula to live? People say that Bhimasena is your beloved. Out of what sentiments do you wish your stepbrother to live? All the Pandavas depend on the strength of Arjuna’s arms. But you discard him and wish Nakula to live.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "47": {
+          "raw": "‘Yudhishthira replied, “Non-violence is supreme dharma. It is my view that this is the supreme objective. I am attracted to non-violence. O yaksha! Nakula shall live. Men know of me as a king who always follows dharma. I will not deviate from my own dharma. O yaksha! Let Nakula live. Madri is like Kunti and I see no difference between the two. I wish the same for both my mothers. O yaksha! Let Nakula live.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Non-violence is supreme dharma. It is my view that this is the supreme objective. I am attracted to non-violence. O yaksha! Nakula shall live. Men know of me as a king who always follows dharma. I will not deviate from my own dharma. O yaksha! Let Nakula live. Madri is like Kunti and I see no difference between the two. I wish the same for both my mothers. O yaksha! Let Nakula live.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "48": {
+          "raw": "‘The yaksha replied, “O bull among the Bharata lineage! Since you think that non-violence is superior to artha and kama, all of your brothers will be restored to life.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O bull among the Bharata lineage! Since you think that non-violence is superior to artha and kama, all of your brothers will be restored to life.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "595": {
+      "global_number": 595,
+      "local_number": 298,
+      "num_shlokas": 28,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘At the yaksha’s words, the Pandavas stood up. All their hunger and thirst disappeared in an instant.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘At the yaksha’s words, the Pandavas stood up. All their hunger and thirst disappeared in an instant.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Yudhishthira said, “Unvanquished, you are standing on one leg in the lake. I am asking you. Which god are you. I do not think that you are a yaksha. Are you one of the Vasus or one of the Rudras? Are you the foremost among the Maruts? Are you the wielder of the vajra, the lord of the thirty gods? Each of my brothers is capable of ﬁghting hundreds and thousands. I do not see a means whereby all of them can be killed. I see that their senses have been restored and they have awakened pleasantly. Are you our well-wisher or are you our father?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“Unvanquished, you are standing on one leg in the lake. I am asking you. Which god are you. I do not think that you are a yaksha. Are you one of the Vasus or one of the Rudras? Are you the foremost among the Maruts? Are you the wielder of the vajra, the lord of the thirty gods? Each of my brothers is capable of ﬁghting hundreds and thousands. I do not see a means whereby all of them can be killed. I see that their senses have been restored and they have awakened pleasantly. Are you our well-wisher or are you our father?”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The yaksha replied, “O son! O one whose valour is mild! I am your father Dharma. O bull among the Bharata lineage! Know that I arrived with a desire to see you. Fame, truth, self-control, purity, uprightness, humility, steadfastness, charity, austerities and brahmacharya are my body. Know that non-violence, impartiality, peacefulness, austerities, purity and lack of envy are gates towards me. You have always been dear to me. It is fortunate that you are devoted to the ﬁve{27}. It is fortunate that you have conquered the six states{28}. Two occur early, two in the middle and two at the end, leading to the hereafter. I am Dharma. O fortunate one! I came here to test you and am satisﬁed with your non-violence. O unblemished one! I will grant you a boon. O Indra among kings! Ask for a boon. O unblemished one! I will grant it to you. Men who are devoted to me never suffer from misfortune.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The yaksha replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_yaksha",
+              "text": "“O son! O one whose valour is mild! I am your father Dharma. O bull among the Bharata lineage! Know that I arrived with a desire to see you. Fame, truth, self-control, purity, uprightness, humility, steadfastness, charity, austerities and brahmacharya are my body. Know that non-violence, impartiality, peacefulness, austerities, purity and lack of envy are gates towards me. You have always been dear to me. It is fortunate that you are devoted to the ﬁve{27}. It is fortunate that you have conquered the six states{28}. Two occur early, two in the middle and two at the end, leading to the hereafter. I am Dharma. O fortunate one! I came here to test you and am satisﬁed with your non-violence. O unblemished one! I will grant you a boon. O Indra among kings! Ask for a boon. O unblemished one! I will grant it to you. Men who are devoted to me never suffer from misfortune.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Yudhishthira said, “The deer ran away with his{29} kindling. May his ﬁres not be destroyed. That is the ﬁrst boon I ask for.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The deer ran away with his{29} kindling. May his ﬁres not be destroyed. That is the ﬁrst boon I ask for.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘Dharma replied, “O lord! O Kounteya! In order to test you, I robbed the brahmana of his kindling in the form of a deer.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dharma replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yama",
+              "text": "“O lord! O Kounteya! In order to test you, I robbed the brahmana of his kindling in the form of a deer.”",
+              "color": "#6B4226",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "6": {
+          "raw": "Vaishampayana said, ‘The illustrious one granted him that boon. Then he asked the fortunate one, who was like an immortal, to ask for another boon.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The illustrious one granted him that boon. Then he asked the fortunate one, who was like an immortal, to ask for another boon.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Yudhishthira said, “The twelve years of dwelling in the forest have passed and the thirteenth has arrived. Wherever we may live, may people not be able to recognize us.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“The twelve years of dwelling in the forest have passed and the thirteenth has arrived. Wherever we may live, may people not be able to recognize us.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "8": {
+          "raw": "Vaishampayana said, ‘The illustrious one granted him that boon. He again comforted Kounteya, for whom truth was his valour. “O descendant of the Bharata lineage! Even if you travel the earth in your own forms, no one in the three worlds will be able to recognize you. O extender of the Kuru lineage! Through my favours, you will spend the thirteenth year, hidden and undetected, in the city of Virata. Whatever form each of you desires to assume in your mind, that will be the disguise you will adopt according to your wishes. Return the kindling to the brahmana, because I stole it in the form of a deer to test you. O son! Ask for a third boon that is great and unmatched. O king! You have been born from me and Vidura has also been born from a part of me.” Yudhishthira replied, “O eternal god of the gods! It is sufﬁcient that I have set my eyes on your person. O father! I will happily accept whatever boon you are satisﬁed to grant me. O lord! May I always be able to conquer avarice, delusion and anger. May my mind always be inclined towards generosity, austerity and truth.” Dharma said, “O Pandava! You are naturally endowed with all the qualities. You are dharma yourself. But you will obtain what you ask for.” Having said this, the illustrious Dharma, who sustains the worlds, disappeared. The intelligent Pandavas were reunited and slept happily. Freed from exhaustion, all the brave ones returned to the hermitage and gave the kindling to the ascetic brahmana. A self-controlled man who restrains his senses and reads this great account of the restoration and meeting of the father and the son{30}, an account that extends fame, lives for a hundred years with sons and grandsons. Men who know of this good account are never inclined towards adharma and are not separated from their well-wishers. They do not steal the possessions of others or violate other people’s wives. They never ﬁnd pleasure in vile sentiments.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘The illustrious one granted him that boon. He again comforted Kounteya, for whom truth was his valour.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O descendant of the Bharata lineage! Even if you travel the earth in your own forms, no one in the three worlds will be able to recognize you. O extender of the Kuru lineage! Through my favours, you will spend the thirteenth year, hidden and undetected, in the city of Virata. Whatever form each of you desires to assume in your mind, that will be the disguise you will adopt according to your wishes. Return the kindling to the brahmana, because I stole it in the form of a deer to test you. O son! Ask for a third boon that is great and unmatched. O king! You have been born from me and Vidura has also been born from a part of me.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O eternal god of the gods! It is sufﬁcient that I have set my eyes on your person. O father! I will happily accept whatever boon you are satisﬁed to grant me. O lord! May I always be able to conquer avarice, delusion and anger. May my mind always be inclined towards generosity, austerity and truth.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dharma said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yama",
+              "text": "“O Pandava! You are naturally endowed with all the qualities. You are dharma yourself. But you will obtain what you ask for.”",
+              "color": "#6B4226",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having said this, the illustrious Dharma, who sustains the worlds, disappeared. The intelligent Pandavas were reunited and slept happily. Freed from exhaustion, all the brave ones returned to the hermitage and gave the kindling to the ascetic brahmana. A self-controlled man who restrains his senses and reads this great account of the restoration and meeting of the father and the son{30}, an account that extends fame, lives for a hundred years with sons and grandsons. Men who know of this good account are never inclined towards adharma and are not separated from their well-wishers. They do not steal the possessions of others or violate other people’s wives. They never ﬁnd pleasure in vile sentiments.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "596": {
+      "global_number": 596,
+      "local_number": 299,
+      "num_shlokas": 29,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘When the Pandavas, for whom truth was their valour, had been granted leave by Dharma, they were ready to spend the thirteenth year in hiding and in disguise. Rigid in their vows, the intelligent ones seated themselves. Hands joined in salutation, those great-souled and righteous ones spoke to the ascetics, who had lived in the forest out of affection for them. The ones who had lived there, steady in their vows, sought their permission{31}. “All of you know everything about how the sons of Dhritarashtra have robbed us of our kingdom through deceit and have injured us in many other ways. Amidst great hardship, we have lived in the forest for twelve years. The thirteenth year, which must be spent undetected, still remains. We must spend that time in concealment and we seek your permission. The enemies who always resent us, the evil-souled Suyodhana and Karna with Soubala{32}, will try to create difﬁculties for us, our citizens and our relatives, should they manage to detect us. Will we again be established in our own kingdom and country, together with all the brahmanas?” Having spoken these words, King Yudhishthira, the pure son of Dharma, was oppressed by grief and with his voice choking with tears, lost his senses. Then all the brahmanas and his brothers comforted him.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When the Pandavas, for whom truth was their valour, had been granted leave by Dharma, they were ready to spend the thirteenth year in hiding and in disguise. Rigid in their vows, the intelligent ones seated themselves. Hands joined in salutation, those great-souled and righteous ones spoke to the ascetics, who had lived in the forest out of affection for them. The ones who had lived there, steady in their vows, sought their permission{31}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“All of you know everything about how the sons of Dhritarashtra have robbed us of our kingdom through deceit and have injured us in many other ways. Amidst great hardship, we have lived in the forest for twelve years. The thirteenth year, which must be spent undetected, still remains. We must spend that time in concealment and we seek your permission. The enemies who always resent us, the evil-souled Suyodhana and Karna with Soubala{32}, will try to create difﬁculties for us, our citizens and our relatives, should they manage to detect us. Will we again be established in our own kingdom and country, together with all the brahmanas?”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Having spoken these words, King Yudhishthira, the pure son of Dharma, was oppressed by grief and with his voice choking with tears, lost his senses. Then all the brahmanas and his brothers comforted him.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Dhoumya spoke these words, full of grave import, to the king. “O king! You are learned, self-controlled, true to your promises and in control of your senses. Such men are not confounded when they confront a calamity. In times of difﬁculty, even the great-souled gods have gone into hiding in many places, with the objective of subjugating their enemies. To accomplish the task of subjugating the strength of his enemies, Indra went to a hermitage in the land of the nishadhas, located on the slopes of a mountain, and hid there{33}. To kill the daityas, Vishnu spent a long time in hiding in Aditi’s womb and was then born as Hayashira{34}. Disguising himself in the form of a dwarf, the one whose form is that of the brahman, used his valour to rob Bali of his kingdom{35}. You have heard about this. O son! You have heard everything about how brahmarshi Ourva accomplished the objective of the worlds while hidden in a thigh{36}. O one learned in dharma! You have heard how Hari hid himself in Shakra’s vajra so that Vritra might be killed. You have heard everything about how Agni entered and concealed himself in the water to accomplish the task of the gods. O son! The supremely energetic Vivasvat lived in hiding in earth and later burnt up all his enemies. Vishnu, terrible in his deeds, lived in Dasharatha’s house and in disguise, killed Dashagriva in battle{37}. Thus did the great-souled ones live in disguise. Then they conquered their enemies in battle and you will also triumph in that way.” Yudhishthira was thus comforted by the words of Dhoumya, who knew about dharma, and using his own intelligence and knowledge of the sacred texts, no longer wavered.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Dhoumya spoke these words, full of grave import, to the king.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“O king! You are learned, self-controlled, true to your promises and in control of your senses. Such men are not confounded when they confront a calamity. In times of difﬁculty, even the great-souled gods have gone into hiding in many places, with the objective of subjugating their enemies. To accomplish the task of subjugating the strength of his enemies, Indra went to a hermitage in the land of the nishadhas, located on the slopes of a mountain, and hid there{33}. To kill the daityas, Vishnu spent a long time in hiding in Aditi’s womb and was then born as Hayashira{34}. Disguising himself in the form of a dwarf, the one whose form is that of the brahman, used his valour to rob Bali of his kingdom{35}. You have heard about this. O son! You have heard everything about how brahmarshi Ourva accomplished the objective of the worlds while hidden in a thigh{36}. O one learned in dharma! You have heard how Hari hid himself in Shakra’s vajra so that Vritra might be killed. You have heard everything about how Agni entered and concealed himself in the water to accomplish the task of the gods. O son! The supremely energetic Vivasvat lived in hiding in earth and later burnt up all his enemies. Vishnu, terrible in his deeds, lived in Dasharatha’s house and in disguise, killed Dashagriva in battle{37}. Thus did the great-souled ones live in disguise. Then they conquered their enemies in battle and you will also triumph in that way.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira was thus comforted by the words of Dhoumya, who knew about dharma, and using his own intelligence and knowledge of the sacred texts, no longer wavered.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘The mighty-armed and immensely strong Bhimasena, foremost among strong ones, spoke to the king and raised his spirits. “O great king! Look at Gandivadhanva{38}. Because of his devotion to dharma and because of his own intelligence, he has not acted foolishly yet. Nakula and Sahadeva, terrible in their valour, are capable of slaying the enemies, but have always been restrained by me. We will not deviate from whatever task you assign to us. You must tell us what we should do and we will swiftly carry it out and vanquish our enemies.” When Bhimasena spoke these words, the brahmanas pronounced supreme benedictions on them. Having bid farewell to the descendants of the Bharata lineage, all of them returned to their own houses. All those who were foremost in knowledge of the Vedas, ascetics and sages, pronounced their blessings in the prescribed way and desired to see them again. The ﬁve learned Pandavas arose with Dhoumya. O descendant of the Bharata lineage! The brave ones set out with Krishna. After traversing the distance of a krosha, they seated themselves at a spot. Those tigers among men were ready to begin their sojourn of concealment. Each of them was separately learned in the sacred texts. But all of them were also skilled in consultations. They were knowledgeable about when it was a time for peace and when it was a time for war.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "The mighty-armed and immensely strong Bhimasena, foremost among strong ones, spoke to the king and raised his spirits",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_mighty_armed_and_immensely",
+              "text": "“O great king! Look at Gandivadhanva{38}. Because of his devotion to dharma and because of his own intelligence, he has not acted foolishly yet. Nakula and Sahadeva, terrible in their valour, are capable of slaying the enemies, but have always been restrained by me. We will not deviate from whatever task you assign to us. You must tell us what we should do and we will swiftly carry it out and vanquish our enemies.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "When Bhimasena spoke these words, the brahmanas pronounced supreme benedictions on them. Having bid farewell to the descendants of the Bharata lineage, all of them returned to their own houses. All those who were foremost in knowledge of the Vedas, ascetics and sages, pronounced their blessings in the prescribed way and desired to see them again. The ﬁve learned Pandavas arose with Dhoumya. O descendant of the Bharata lineage! The brave ones set out with Krishna. After traversing the distance of a krosha, they seated themselves at a spot. Those tigers among men were ready to begin their sojourn of concealment. Each of them was separately learned in the sacred texts. But all of them were also skilled in consultations. They were knowledgeable about when it was a time for peace and when it was a time for war.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "name": "Vaivahika Parva",
+  "subparva_number": 13,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 6,
+    "num_shlokas": 155
+  },
+  "note": "Vivaha means wedding and this parva is about Droupadi�s marriage.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "186": {
+      "global_number": 186,
+      "local_number": 186,
+      "num_shlokas": 15,
+      "paragraphs": {
+        "1": {
+          "raw": "‘The messenger said, “Because of the wedding, King Drupada has prepared a good feast for the bridegroom’s party. Come there with Krishna after ﬁnishing the daily rituals. Do not delay. These chariots, adorned with golden lotuses and drawn by excellent horses, are worthy of being ridden by those who rule the earth. Ascending on them, all of you come swiftly to the palace of the king of Panchala.”’",
+          "frame": -1,
+          "speaker": "@author",
+          "speaker_name": "Author",
+          "color": "#C8B8A2",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "‘",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@author",
+              "text": "The messenger said",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_messenger",
+              "text": "“Because of the wedding, King Drupada has prepared a good feast for the bridegroom’s party. Come there with Krishna after ﬁnishing the daily rituals. Do not delay. These chariots, adorned with golden lotuses and drawn by excellent horses, are worthy of being ridden by those who rule the earth. Ascending on them, all of you come swiftly to the palace of the king of Panchala.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@author",
+              "text": "’",
+              "color": "#C8B8A2",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘When he{1} left, all the bulls among the Kurus{2} sent the priest on ahead of them. Placing Kunti and Krishna on one chariot, they ascended those great chariots and left. O king! O descendant of the Bharata lineage! Having heard from the priest the words of Dharmaraja, he{3} kept ready a large collection of things like fruits, sanctiﬁed garlands, shields, armour, seats, cattle, ropes, and other objects used in agriculture, to determine the nature of the Kurus{4}. The king also completely provided for all objects concerning other crafts and all articles used in sports—chariots, horses, armour that were shining, great swords, adorned horses and chariots, the best of bows and the choicest of arrows and spears and lances laced with gold, javelins, catapults and battleaxes, all instruments connected with war. There were beds and seats and many other objects of craftsmanship.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When he{1} left, all the bulls among the Kurus{2} sent the priest on ahead of them. Placing Kunti and Krishna on one chariot, they ascended those great chariots and left. O king! O descendant of the Bharata lineage! Having heard from the priest the words of Dharmaraja, he{3} kept ready a large collection of things like fruits, sanctiﬁed garlands, shields, armour, seats, cattle, ropes, and other objects used in agriculture, to determine the nature of the Kurus{4}. The king also completely provided for all objects concerning other crafts and all articles used in sports—chariots, horses, armour that were shining, great swords, adorned horses and chariots, the best of bows and the choicest of arrows and spears and lances laced with gold, javelins, catapults and battleaxes, all instruments connected with war. There were beds and seats and many other objects of craftsmanship.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Taking the righteous Krishna with her, Kunti entered the inner quarters of Drupada. The ladies worshipped the wife of the king of the Kouravas eagerly. O king! On seeing those chief among men, with eyes like those of powerful bulls, dressed in deerskin for upper garments, with broad shoulders and long arms that were like coiled snakes, with the gait of lions, the king, the king’s advisers, the king’s sons and the king’s relatives and attendants were then extremely delighted. Without hesitation or surprise, those warriors then seated themselves on the best of seats, with separate footstools. One after another, they sat, according to age. Well-dressed male and female servants and skilled cooks brought all types of food worthy of kings, in plates made of gold and silver.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Taking the righteous Krishna with her, Kunti entered the inner quarters of Drupada. The ladies worshipped the wife of the king of the Kouravas eagerly. O king! On seeing those chief among men, with eyes like those of powerful bulls, dressed in deerskin for upper garments, with broad shoulders and long arms that were like coiled snakes, with the gait of lions, the king, the king’s advisers, the king’s sons and the king’s relatives and attendants were then extremely delighted. Without hesitation or surprise, those warriors then seated themselves on the best of seats, with separate footstools. One after another, they sat, according to age. Well-dressed male and female servants and skilled cooks brought all types of food worthy of kings, in plates made of gold and silver.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Having eaten, those foremost among men were pleased, and relaxed. They examined all the objects that were laid out and the warriors showed the most interest in the various implements of war. On seeing this, Drupada’s sons, the king himself{5} and all his chief advisers were delighted at having realized that the sons of Kunti were the sons and grandsons of kings. They paid their respects.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Having eaten, those foremost among men were pleased, and relaxed. They examined all the objects that were laid out and the warriors showed the most interest in the various implements of war. On seeing this, Drupada’s sons, the king himself{5} and all his chief advisers were delighted at having realized that the sons of Kunti were the sons and grandsons of kings. They paid their respects.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "187": {
+      "global_number": 187,
+      "local_number": 187,
+      "num_shlokas": 32,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘Then the greatly radiant king of Panchala spoke to Prince Yudhishthira in the form that is reserved for Brahmanas and cheerfully asked Kunti’s son, “Should we know you as Kshatriyas or Brahmanas? Are you accomplished Vaishyas or are you born from the wombs of Shudras? Are you siddhas{6} who use their powers of maya to roam in all directions and have come here from heaven in search of Krishna{7}? O lord! Tell us the truth, because we are in great doubt. Will our hearts not be content when our doubts have been removed? O scorcher of enemies! Will our share of fate prove to be fortunate? From your heart, tell us the truth. Among kings, truthfulness is a better adornment than sacriﬁces and alms. Therefore, do not say that which is untrue. O destroyer of enemies! O you who are the equal of the gods! After hearing your reply, I will then make arrangements for the marriage according to what is proper{8}.” Yudhishthira replied, “O king of Panchala! Do not be disheartened. Be happy. There is no doubt that your wishes have come true. O king! We are Kshatriyas and sons of the great-souled Pandu. Know me to be the eldest of Kunti’s sons. These are Bhimasena and Arjuna. O king! Your daughter was won by these in an assemblage of kings. O king of kings! The twins are waiting there, where Krishna is. O bull among kings! Let all sorrow be dispelled from your heart. We are Kshatriyas. Like a lotus, your daughter has been transplanted from one pond to another. O great king! This is the truth that I have told you. You are like our preceptor and our main refuge.” On hearing this, King Drupada’s eyes brimmed over with joy.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then the greatly radiant king",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "of Panchala spoke to Prince Yudhishthira in the form that is reserved for Brahmanas and cheerfully asked Kunti’s son",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@of_panchala_spoke_to",
+              "text": "“Should we know you as Kshatriyas or Brahmanas? Are you accomplished Vaishyas or are you born from the wombs of Shudras? Are you siddhas{6} who use their powers of maya to roam in all directions and have come here from heaven in search of Krishna{7}? O lord! Tell us the truth, because we are in great doubt. Will our hearts not be content when our doubts have been removed? O scorcher of enemies! Will our share of fate prove to be fortunate? From your heart, tell us the truth. Among kings, truthfulness is a better adornment than sacriﬁces and alms. Therefore, do not say that which is untrue. O destroyer of enemies! O you who are the equal of the gods! After hearing your reply, I will then make arrangements for the marriage according to what is proper{8}.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O king of Panchala! Do not be disheartened. Be happy. There is no doubt that your wishes have come true. O king! We are Kshatriyas and sons of the great-souled Pandu. Know me to be the eldest of Kunti’s sons. These are Bhimasena and Arjuna. O king! Your daughter was won by these in an assemblage of kings. O king of kings! The twins are waiting there, where Krishna is. O bull among kings! Let all sorrow be dispelled from your heart. We are Kshatriyas. Like a lotus, your daughter has been transplanted from one pond to another. O great king! This is the truth that I have told you. You are like our preceptor and our main refuge.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On hearing this, King Drupada’s eyes brimmed over with joy.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘For some time, he could not answer Yudhishthira properly. Controlling his delight with great effort, the king, the conqueror of enemies, 9 spoke to Yudhishthira in the appropriate form. The one with virtue in his heart{10} asked how they{11} had escaped from that city{12}. The Pandava{13} narrated it in detail, from the beginning. On hearing the narration from Kunti’s son, King Drupada censured Dhritarashtra, that ruler of men. Drupada, chief among all men who are eloquent, gave every assurance to Kunti’s son Yudhishthira and vowed that he would restore him to his kingdom. On the king’s invitation, Kunti, Krishna, Bhimasena, Arjuna and the twins took up residence in that great palace.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "For some time, he could not answer Yudhishthira properly. Controlling his delight with great effort, the king, the conqueror of enemies, 9 spoke to Yudhishthira in the appropriate form. The one with virtue in his heart{10} asked how they{11} had escaped from that city{12}. The Pandava{13} narrated it in detail, from the beginning. On hearing the narration from Kunti’s son, King Drupada censured Dhritarashtra, that ruler of men. Drupada, chief among all men who are eloquent, gave every assurance to Kunti’s son Yudhishthira and vowed that he would restore him to his kingdom. On the king’s invitation, Kunti, Krishna, Bhimasena, Arjuna and the twins took up residence in that great palace.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘O king! They continued to live there, treated with every respect by Yajnasena{14}. Later, the king and his sons spoke to those{15} who had been reassured. Drupada said, “Let the mighty-armed son{16} of Kuru today accept my daughter’s hand in accordance with the prescribed rites. Today, the moment is an auspicious one.” On this, the righteous-souled Yudhishthira replied, “O lord of people! Then I too, must take a wife.” Drupada said, “O lord! O warrior! Then you accept my daughter’s hand in accordance with the rites. Or give Krishna in marriage to whomsoever you wish.” Yudhishthira replied, “O king! Droupadi will be the queen to all of us. O lord of the people! This is what has already been ordered by my mother. I am yet unmarried, and so is the Pandava Bhimasena. Your jewel of a daughter has been won by Partha{17}. O king! It is our rule that every jewel we obtain must be equally shared. O best of kings! We are not willing to break that rule now. According to the prescribed norms, Krishna will be the wedded queen of all of us. According to age, let her accept our hands, one after another, before the ﬁre.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘O king! They continued to live there, treated with every respect by Yajnasena{14}. Later,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the king and his sons spoke to those{15} who had been reassured. Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_king_and_his_sons",
+              "text": "“Let the mighty-armed son{16} of Kuru today accept my daughter’s hand in accordance with the prescribed rites. Today, the moment is an auspicious one.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "On this,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "the righteous-souled Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_righteous_souled_yudhishthira",
+              "text": "“O lord of people! Then I too, must take a wife.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“O lord! O warrior! Then you accept my daughter’s hand in accordance with the rites. Or give Krishna in marriage to whomsoever you wish.”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O king! Droupadi will be the queen to all of us. O lord of the people! This is what has already been ordered by my mother. I am yet unmarried, and so is the Pandava Bhimasena. Your jewel of a daughter has been won by Partha{17}. O king! It is our rule that every jewel we obtain must be equally shared. O best of kings! We are not willing to break that rule now. According to the prescribed norms, Krishna will be the wedded queen of all of us. According to age, let her accept our hands, one after another, before the ﬁre.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Drupada said, “O descendant of the Kuru lineage! It has been decreed that one man may have many queens. But we have never heard that one woman can have many men. O son of Kunti! Pure as you are, and well acquainted with the path of dharma, you should not commit an act that is counter to dharma, the Vedas and usual practice. Why has your intelligence become thus?” Yudhishthira replied, “O great king! Subtle is the path of dharma; we do not know its direction. Let us therefore follow the path that was trodden by illustrious men in ancient times. My tongue never utters that which is untrue. Nor has my mind ever turned to that which is adharma. This has been commanded by our mother and my mind also approves of it. O king! This is certainly dharma. Therefore, act accordingly, without hesitation. O ruler of the earth! Do not have any doubt on this score.” Drupada said, “O son of Kunti! You yourself, my son Dhrishtadyumna and Kunti must settle among yourselves what should be done now. Tomorrow, I will do that which is proper.” O descendant of the Bharata lineage! O king! At that, those three got together and discussed the matter. At that very moment, Dvaipayana arrived there, in accordance with his wishes.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“O descendant of the Kuru lineage! It has been decreed that one man may have many queens. But we have never heard that one woman can have many men. O son of Kunti! Pure as you are, and well acquainted with the path of dharma, you should not commit an act that is counter to dharma, the Vedas and usual practice. Why has your intelligence become thus?”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“O great king! Subtle is the path of dharma; we do not know its direction. Let us therefore follow the path that was trodden by illustrious men in ancient times. My tongue never utters that which is untrue. Nor has my mind ever turned to that which is adharma. This has been commanded by our mother and my mind also approves of it. O king! This is certainly dharma. Therefore, act accordingly, without hesitation. O ruler of the earth! Do not have any doubt on this score.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“O son of Kunti! You yourself, my son Dhrishtadyumna and Kunti must settle among yourselves what should be done now. Tomorrow, I will do that which is proper.”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "O descendant of the Bharata lineage! O king! At that, those three got together and discussed the matter. At that very moment, Dvaipayana arrived there, in accordance with his wishes.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "188": {
+      "global_number": 188,
+      "local_number": 188,
+      "num_shlokas": 22,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘As soon as they saw him, all the Pandavas and the greatly illustrious son of Panchala{18} stood up. All of them welcomed and paid their respects to the great-souled Krishna{19}. The great-minded one returned their greetings and asked about their welfare. He then sat down on a radiant and golden seat. Instructed by Krishna, the one with inﬁnite energy, those greatest among men{20} also sat down on expensive seats. O lord of the people! After some time, in sweet words, Parshata{21} asked the great-souled one about Droupadi.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘As soon as they saw him, all the Pandavas and the greatly illustrious son of Panchala{18} stood up. All of them welcomed and paid their respects to the great-souled Krishna{19}. The great-minded one returned their greetings and asked about their welfare. He then sat down on a radiant and golden seat. Instructed by Krishna, the one with inﬁnite energy, those greatest among men{20} also sat down on expensive seats. O lord of the people! After some time, in sweet words, Parshata{21} asked the great-souled one about Droupadi.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Drupada asked, “O fortunate lord! How can one woman become the wife of many, without leading to sin? Please explain this to us in detail.” Vyasa replied, “This dharma has fallen into disuse because it runs counter to the Vedas and common practice. But on this, I wish to hear the opinions of each one of you.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada asked",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“O fortunate lord! How can one woman become the wife of many, without leading to sin? Please explain this to us in detail.”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“This dharma has fallen into disuse because it runs counter to the Vedas and common practice. But on this, I wish to hear the opinions of each one of you.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Drupada said, “In my view, this practice leads to a sin, because it is against the Vedas and common practice. O best of the Brahmanas! Nowhere can a wife of many be found. Nor did the illustrious ones, of ancient times, follow such a dharma. Those who have wisdom should never follow such a dharma. I can therefore never convince myself of acting in this way. To me, this dharma appears to be of doubtful morality.” Dhrishtadyumna said, “O bull among the twice-born! O Brahmana! O one rich with austerities! If he follows the path that is righteous, how can an elder brother unite with the wife of his younger brother? The ways of dharma are always subtle and, therefore, we do not know the ways in entirety. Thus, we cannot say what is in accordance with dharma and what is not. O Brahmana! We cannot therefore perform such an act with a clear mind. I cannot say that Krishna should be the wife of ﬁve.” Yudhishthira said, “My tongue never utters an untruth and my mind never turns to sin. When my mind approves, it cannot be sinful. I have heard in ancient tales that there was a lady named Jatila in the Goutama lineage. She was chief among all virtuous women and consorted with seven sages. O supreme among those who know the path of dharma! It is said that listening to the preceptor is virtue and among all preceptors, the mother is the foremost. She has commanded us that we must always share what we obtain. O best among the twice-born! Thus, do I consider this act virtuous.” Kunti said, “It is as the virtuous Yudhishthira has said. I am frightened that my words might become untrue. How can I be saved from a lie?”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“In my view, this practice leads to a sin, because it is against the Vedas and common practice. O best of the Brahmanas! Nowhere can a wife of many be found. Nor did the illustrious ones, of ancient times, follow such a dharma. Those who have wisdom should never follow such a dharma. I can therefore never convince myself of acting in this way. To me, this dharma appears to be of doubtful morality.”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Dhrishtadyumna said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@dhrishtadyumna",
+              "text": "“O bull among the twice-born! O Brahmana! O one rich with austerities! If he follows the path that is righteous, how can an elder brother unite with the wife of his younger brother? The ways of dharma are always subtle and, therefore, we do not know the ways in entirety. Thus, we cannot say what is in accordance with dharma and what is not. O Brahmana! We cannot therefore perform such an act with a clear mind. I cannot say that Krishna should be the wife of ﬁve.”",
+              "color": "#4361EE",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Yudhishthira said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@yudhishthira",
+              "text": "“My tongue never utters an untruth and my mind never turns to sin. When my mind approves, it cannot be sinful. I have heard in ancient tales that there was a lady named Jatila in the Goutama lineage. She was chief among all virtuous women and consorted with seven sages. O supreme among those who know the path of dharma! It is said that listening to the preceptor is virtue and among all preceptors, the mother is the foremost. She has commanded us that we must always share what we obtain. O best among the twice-born! Thus, do I consider this act virtuous.”",
+              "color": "#F4D35E",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Kunti said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@kunti",
+              "text": "“It is as the virtuous Yudhishthira has said. I am frightened that my words might become untrue. How can I be saved from a lie?”",
+              "color": "#E9C46A",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘Vyasa replied, “O fortunate one! You will be saved from a lie. This is eternal dharma. O king of Panchala! I will not reveal this matter before everyone. You will alone hear how this practice was established and why this should be regarded as old and eternal. There is no doubt that what Kounteya{22} has said is in accordance with dharma.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“O fortunate one! You will be saved from a lie. This is eternal dharma. O king of Panchala! I will not reveal this matter before everyone. You will alone hear how this practice was established and why this should be regarded as old and eternal. There is no doubt that what Kounteya{22} has said is in accordance with dharma.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "5": {
+          "raw": "Vaishampayana said, ‘Then, the illustrious lord Dvaipyana Vyasa arose and, taking hold of the king’s{23} hand, went into the king’s palace. The Pandavas, Kunti and Parshata Dhrishtadyumna waited despondently for those two to return. Thereupon, Dvaipayana explained to the great-souled king how it came to be that these men’s marriage with a single wife was in conformity with dharma.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then, the illustrious lord Dvaipyana Vyasa arose and, taking hold of the king’s{23} hand, went into the king’s palace. The Pandavas, Kunti and Parshata Dhrishtadyumna waited despondently for those two to return. Thereupon, Dvaipayana explained to the great-souled king how it came to be that these men’s marriage with a single wife was in conformity with dharma.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "189": {
+      "global_number": 189,
+      "local_number": 189,
+      "num_shlokas": 49,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Vyasa said, “O king! In ancient times, the gods performed a great sacriﬁce in Naimisha forest. There, Vivasvata’s son{24} was the priest who killed the animals. O king! Since he was consecrated in that role, Yama did not kill any creatures{25}. Since death and time were suspended among creatures, the number of beings increased greatly. Then Shakra{26}, Varuna, Kubera, the sadhyas, Rudra, the vasus, the Ashvins—these and other gods gathered together and went to Prajapati, the creator of the world. Alarmed at the increase in the number of humans, they assembled and addressed the preceptor of the worlds. ‘We are trembling with fear. We wish to be happy again. We have come to seek protection with you.’ Brahma replied, ‘Why are you frightened of humans, when all of you are immortal? There should not be any fear in you from mortals.’ The gods said, ‘Since the mortals have become immortals, there is no difference any more. Upset at this equality, we have come to you to seek a distinction.’ Brahma replied, ‘Vivasvata’s son is now engaged in the great sacriﬁce. It is for this reason that humans are not dying. When he has single-mindedly ﬁnished his sacriﬁcial acts, death will again return among them. When that time comes, Vivasvata’s son will be strengthened through your energies. When the time of death comes at the end, humans will have no energy left in them.’ Hearing these words of the ﬁrst-born god{27}, they{28} went where the gods were sacriﬁcing. When those immensely strong ones assembled there, they saw a lotus{29} in the Bhagirathi{30}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "“O king! In ancient times, the gods performed a great sacriﬁce in Naimisha forest. There, Vivasvata’s son{24} was the priest who killed the animals. O king! Since he was consecrated in that role, Yama did not kill any creatures{25}. Since death and time were suspended among creatures, the number of beings increased greatly. Then Shakra{26}, Varuna, Kubera, the sadhyas, Rudra, the vasus, the Ashvins—these and other gods gathered together and went to Prajapati, the creator of the world. Alarmed at the increase in the number of humans, they assembled and addressed the preceptor of the worlds. ‘We are trembling with fear. We wish to be happy again. We have come to seek protection with you.’ Brahma replied, ‘Why are you frightened of humans, when all of you are immortal? There should not be any fear in you from mortals.’ The gods said, ‘Since the mortals have become immortals, there is no difference any more. Upset at this equality, we have come to you to seek a distinction.’ Brahma replied, ‘Vivasvata’s son is now engaged in the great sacriﬁce. It is for this reason that humans are not dying. When he has single-mindedly ﬁnished his sacriﬁcial acts, death will again return among them. When that time comes, Vivasvata’s son will be strengthened through your energies. When the time of death comes at the end, humans will have no energy left in them.’ Hearing these words of the ﬁrst-born god{27}, they{28} went where the gods were sacriﬁcing. When those immensely strong ones assembled there, they saw a lotus{29} in the Bhagirathi{30}.",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 2
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘“On seeing that lotus, they were surprised. Indra, chief among the warriors among them, went where the Ganga always issues and saw a lady as radiant as the ﬁre. The lady had come there to fetch water and was immersed in the goddess Ganga. But she was weeping and teardrops fell from her eyes into the water and became golden lotuses. On seeing this wonderful sight, the wielder of the vajra{31} went up to the lady and asked, ‘Who are you and why are you crying? I want to know the truth. If you wish, please tell me.’ The woman replied, ‘O Shakra{32}! I am unfortunate and you may know who I am and why I am weeping. O king! I will lead the way. Come with me and you will yourself see why I am crying.’ He{33} followed her and soon saw a handsome young man. He was surrounded by young women, was seated on a throne and was playing dice on the peak of the king of mountains{34}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "‘",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "“On seeing that lotus, they were surprised. Indra, chief among the warriors among them, went where the Ganga always issues and saw a lady as radiant as the ﬁre. The lady had come there to fetch water and was immersed in the goddess Ganga. But she was weeping and teardrops fell from her eyes into the water and became golden lotuses. On seeing this wonderful sight, the wielder of the vajra{31} went up to the lady and asked, ‘Who are you and why are you crying? I want to know the truth. If you wish, please tell me.’ The woman replied, ‘O Shakra{32}! I am unfortunate and you may know who I am and why I am weeping. O king! I will lead the way. Come with me and you will yourself see why I am crying.’ He{33} followed her and soon saw a handsome young man. He was surrounded by young women, was seated on a throne and was playing dice on the peak of the king of mountains{34}.",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 3
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘“The king{35} of the gods spoke to him, ‘Know that this universe and this world are under my sway. Know me to be the lord of everything.’ But the person took no notice of what he had said and continued to be immersed in the dice. Indra became angry and repeated what he had said. On seeing that Shakra was angry, that god cast a glance at him and smiled. At that glance, the king of the gods was paralysed and stood motionless at the spot, like a pillar. When the game of dice was over, he{36} spoke to the weeping goddess, ‘Bring him here. I will make sure that pride never enters his heart again.’ As soon as the woman had touched him, Shakra’s limbs were paralysed and he fell down on the ground. Then the god with the ﬁerce energy told him, ‘O Shakra! Never act like this again. Remove this great king of the mountains, because your strength and energy are beyond measurement. Enter the centre of the hole and wait with the others, who are like you and the sun in splendour.’ He{37} rolled away the peak of the great mountain and saw four others who were like him in radiance. On seeing them, he was extremely saddened and said, ‘Shall I also become like them?’ Then, the god Girisha{38} looked at the wielder of the vajra with eyes dilated with anger and said, ‘O Shatakratu{39}! Enter this cavern, because in your folly, you have insulted me in front of my eyes.’ Thus addressed by the lord, the king of the gods shuddered and shook, because of the curse. His limbs went limp, like the leaf of a ﬁg tree stirred by the wind on the peak of the king of the mountains.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "‘",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 3
+            },
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "“The king{35} of the gods spoke to him, ‘Know that this universe and this world are under my sway. Know me to be the lord of everything.’ But the person took no notice of what he had said and continued to be immersed in the dice. Indra became angry and repeated what he had said. On seeing that Shakra was angry, that god cast a glance at him and smiled. At that glance, the king of the gods was paralysed and stood motionless at the spot, like a pillar. When the game of dice was over, he{36} spoke to the weeping goddess, ‘Bring him here. I will make sure that pride never enters his heart again.’ As soon as the woman had touched him, Shakra’s limbs were paralysed and he fell down on the ground. Then the god with the ﬁerce energy told him, ‘O Shakra! Never act like this again. Remove this great king of the mountains, because your strength and energy are beyond measurement. Enter the centre of the hole and wait with the others, who are like you and the sun in splendour.’ He{37} rolled away the peak of the great mountain and saw four others who were like him in radiance. On seeing them, he was extremely saddened and said, ‘Shall I also become like them?’ Then, the god Girisha{38} looked at the wielder of the vajra with eyes dilated with anger and said, ‘O Shatakratu{39}! Enter this cavern, because in your folly, you have insulted me in front of my eyes.’ Thus addressed by the lord, the king of the gods shuddered and shook, because of the curse. His limbs went limp, like the leaf of a ﬁg tree stirred by the wind on the peak of the king of the mountains.",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 4
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘“Shuddering at the god’s sudden words, he{40} joined his palms and told the terrible god who has many manifestations, ‘O Bhava{41}! Show me a way out today.’ Smilingly, the god with the terrible bow replied, ‘Those who act like this, do not ﬁnd an escape. These others were like you and will become again. Therefore, enter the cavern and lie down there. There is no doubt that all your fates will be the same. All of you will have to be born in human wombs. Having achieved great feats of violence there and having sent a large number towards their deaths, you will again attain the world of Indra through the merit of your actions. You will achieve all that I have said and much more, with varied signiﬁcance.’ The earlier Indras said, ‘We will go from the world of gods to that of men. Salvation is difﬁcult to obtain there. Let the gods Dharma, Vayu, Maghavan{42} and the Ashvins beget us on our mother.’ Having heard this, the wielder of the vajra once again spoke to the greatest of the gods{43}, ‘With my semen, I will create a man who can accomplish this task. He will be my son and will be the ﬁfth among these.’ In his good nature, the illustrious lord with the terrible bow granted them the wishes they desired. He ordained that the woman, the most beautiful in the worlds, who was none other than Shri{44} herself, would be their wife in the world of men. Thereafter, accompanied by them{45}, he{46} went to the god Narayana, who is beyond measure. He{47} approved of everything and thus it was that they were born on earth.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "‘",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 4
+            },
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "“Shuddering at the god’s sudden words, he{40} joined his palms and told the terrible god who has many manifestations, ‘O Bhava{41}! Show me a way out today.’ Smilingly, the god with the terrible bow replied, ‘Those who act like this, do not ﬁnd an escape. These others were like you and will become again. Therefore, enter the cavern and lie down there. There is no doubt that all your fates will be the same. All of you will have to be born in human wombs. Having achieved great feats of violence there and having sent a large number towards their deaths, you will again attain the world of Indra through the merit of your actions. You will achieve all that I have said and much more, with varied signiﬁcance.’ The earlier Indras said, ‘We will go from the world of gods to that of men. Salvation is difﬁcult to obtain there. Let the gods Dharma, Vayu, Maghavan{42} and the Ashvins beget us on our mother.’ Having heard this, the wielder of the vajra once again spoke to the greatest of the gods{43}, ‘With my semen, I will create a man who can accomplish this task. He will be my son and will be the ﬁfth among these.’ In his good nature, the illustrious lord with the terrible bow granted them the wishes they desired. He ordained that the woman, the most beautiful in the worlds, who was none other than Shri{44} herself, would be their wife in the world of men. Thereafter, accompanied by them{45}, he{46} went to the god Narayana, who is beyond measure. He{47} approved of everything and thus it was that they were born on earth.",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "5": {
+          "raw": "‘“Hari{48} plucked two hairs from his body. One was white and the other was black. These two hairs entered the wombs of two women from the Yadu lineage, Rohini and Devaki. One of them{49} became Baladeva and the second one that was black became Keshava. Those ones who were like Shakra and were earlier conﬁned in the mountain cavern are none other than the valorous Pandavas, while the Pandava Savyasachi{50} is a part of Shakra. O king! Thus it was that the former Indras were born as the Pandavas, and the celestial Lakshmi, earlier ordained to be their wife, was born as the divinely beautiful Droupadi. She whose radiance is like the sun and the moon and whose fragrance can be smelt from the distance of one krosha, cannot have arisen from the earth. At the end of the sacriﬁce, she arose through divine intervention. O ruler of men! I will happily grant you a most wonderful boon. With this divine eyesight, behold Kunti’s sons, in their earlier divine forms.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "‘",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 5
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“Hari{48} plucked two hairs from his body. One was white and the other was black. These two hairs entered the wombs of two women from the Yadu lineage, Rohini and Devaki. One of them{49} became Baladeva and the second one that was black became Keshava. Those ones who were like Shakra and were earlier conﬁned in the mountain cavern are none other than the valorous Pandavas, while the Pandava Savyasachi{50} is a part of Shakra. O king! Thus it was that the former Indras were born as the Pandavas, and the celestial Lakshmi, earlier ordained to be their wife, was born as the divinely beautiful Droupadi. She whose radiance is like the sun and the moon and whose fragrance can be smelt from the distance of one krosha, cannot have arisen from the earth. At the end of the sacriﬁce, she arose through divine intervention. O ruler of men! I will happily grant you a most wonderful boon. With this divine eyesight, behold Kunti’s sons, in their earlier divine forms.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 6
+            },
+            {
+              "type": "narration",
+              "speaker": "@vyasa",
+              "text": "’",
+              "color": "#FFBF69",
+              "opacity": 0.4,
+              "depth": 5
+            }
+          ]
+        },
+        "6": {
+          "raw": "Vaishampayana said, ‘Then the pure Brahmana Vyasa, performer of extremely generous deeds, gave divine sight to the king through his ascetic powers. The king saw them in their earlier forms. He saw them divine and young, broad-chested and 5 cubits tall, adorned with golden garlands, crowns and jewels, with complexions as radiant as that of the ﬁre or the sun, each resembling Shakra, dressed in divine garments that were beautiful and golden, resplendent with fragrant garlands that were the best, the equals of the three-eyed god{51}, the vasus and the celestial adityas, with every quality. On seeing the earlier Indras, King Drupada was surprised and pleased. With the power of divine maya that is beyond measure, he saw that supreme of women, Shri personiﬁed. In beauty, splendour and fame, he saw her to be the right wife for those Indras on earth. On seeing this wonderful sight, he touched the feet of Satyavati’s son and said, with a tranquil mind, “O supreme rishi! For you, this is no wonder.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘Then the pure Brahmana Vyasa, performer of extremely generous deeds, gave divine sight to the king through his ascetic powers. The king saw them in their earlier forms. He saw them divine and young, broad-chested and 5 cubits tall, adorned with golden garlands, crowns and jewels, with complexions as radiant as that of the ﬁre or the sun, each resembling Shakra, dressed in divine garments that were beautiful and golden, resplendent with fragrant garlands that were the best, the equals of the three-eyed god{51}, the vasus and the celestial adityas, with every quality. On seeing the earlier Indras, King Drupada was surprised and pleased. With the power of divine maya that is beyond measure, he saw that supreme of women, Shri personiﬁed. In beauty, splendour and fame, he saw her to be the right wife for those Indras on earth.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "On seeing this wonderful sight, he touched the feet of Satyavati’s son and said, with a tranquil mind",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@wonderful",
+              "text": "“O supreme rishi! For you, this is no wonder.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            }
+          ]
+        },
+        "7": {
+          "raw": "‘Vyasa replied, “In a hermitage in a forest, there was once the daughter of a great-souled rishi, who was beautiful and pure, but could not get a husband. It is said that through her austerities, she pleased the god Shankara{52}. Pleased with her, the god himself spoke to her, ‘Tell me what you want.’ Thus addressed, she repeatedly told the boon-granting supreme god, ‘I wish to have a husband who is accomplished in every way.’ Then the god Shankara happily granted her the boon and said, ‘O fortunate one! You will have ﬁve excellent husbands.’ The one who had pleased the god said, ‘O Shankara! I wish to have only one husband who possesses all the qualities.’ The god of gods, extremely pleased with her, again uttered these holy words. ‘You have addressed me ﬁve times, asking for a husband. O fortunate one! It shall be as you have asked. You will have good fortune and all this will happen in one of your future births.’ O Drupada! So this daughter, with the form of a goddess, was born to you. Krishna Parshati{53} was preordained to be the wife of ﬁve and remain unblemished. The divine Shri was born out of the great sacriﬁce to be the wife of the Pandavas. After performing severe austerities, she was born as your daughter. O King Drupada! That resplendent goddess, sought after by the gods themselves, was ordained to be the wife of ﬁve through her own actions. She was created by the self-creating one{54} to be the wife of these gods. On hearing this, act as you wish.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Vyasa replied",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vyasa",
+              "text": "“In a hermitage in a forest, there was once the daughter of a great-souled rishi, who was beautiful and pure, but could not get a husband. It is said that through her austerities, she pleased the god Shankara{52}. Pleased with her, the god himself spoke to her, ‘Tell me what you want.’ Thus addressed, she repeatedly told the boon-granting supreme god, ‘I wish to have a husband who is accomplished in every way.’ Then the god Shankara happily granted her the boon and said, ‘O fortunate one! You will have ﬁve excellent husbands.’ The one who had pleased the god said, ‘O Shankara! I wish to have only one husband who possesses all the qualities.’ The god of gods, extremely pleased with her, again uttered these holy words. ‘You have addressed me ﬁve times, asking for a husband. O fortunate one! It shall be as you have asked. You will have good fortune and all this will happen in one of your future births.’ O Drupada! So this daughter, with the form of a goddess, was born to you. Krishna Parshati{53} was preordained to be the wife of ﬁve and remain unblemished. The divine Shri was born out of the great sacriﬁce to be the wife of the Pandavas. After performing severe austerities, she was born as your daughter. O King Drupada! That resplendent goddess, sought after by the gods themselves, was ordained to be the wife of ﬁve through her own actions. She was created by the self-creating one{54} to be the wife of these gods. On hearing this, act as you wish.”",
+              "color": "#FFBF69",
+              "opacity": 1.0,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "190": {
+      "global_number": 190,
+      "local_number": 190,
+      "num_shlokas": 18,
+      "paragraphs": {
+        "1": {
+          "raw": "‘Drupada said, “O maharshi! I sought to act in the way that I had said only when I had not heard these words from you. I cannot act against what has been ordained. I wish to act as you have said. The knot tied by destiny cannot be untied. There is nothing that results from our own actions. The rites set out for one husband must now become the rites for this rule{55}. Since Krishna herself repeatedly asked for many husbands in ancient times, the great god accordingly granted her the boon. The god himself knows what is best. Since Shankara has ordained it to be thus, dharma or adharma, I will commit no sin. Therefore, since Krishna is ordained to them, let them take her hand as they wish, according to the prescribed rites.”’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Drupada said",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@drupada",
+              "text": "“O maharshi! I sought to act in the way that I had said only when I had not heard these words from you. I cannot act against what has been ordained. I wish to act as you have said. The knot tied by destiny cannot be untied. There is nothing that results from our own actions. The rites set out for one husband must now become the rites for this rule{55}. Since Krishna herself repeatedly asked for many husbands in ancient times, the great god accordingly granted her the boon. The god himself knows what is best. Since Shankara has ordained it to be thus, dharma or adharma, I will commit no sin. Therefore, since Krishna is ordained to them, let them take her hand as they wish, according to the prescribed rites.”",
+              "color": "#4CC9F0",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "Vaishampayana said, ‘Then the great lord{56} spoke to Dharmaraja, “O son of Pandu! Today is an auspicious day. The moon has entered the constellation Pushya. Today, you accept Krishna’s hand ﬁrst.” At that, King Yajnasena{57} and his son made arrangements for the wedding. He made ready a lot of wealth for the marriage. After she had bathed and had been adorned with many jewels, he brought out his daughter Krishna. To witness the marriage ceremony, the king’s friends and relatives happily came there, with advisers and many Brahmanas and chief citizens. Crowded with those who had come for alms, the extensive festive grounds thick with lotuses and lilies, lined with heaps of precious stones, his palace looked like the sky, studded with brilliant stars. Then the young Kuru princes bathed. Adorned with earrings and ornaments, dressed in expensive garments and perfumed with sandalwood paste, they performed the preparatory ceremony and other auspicious rites. O lord! Accompanied by their priest Dhoumya, as radiant as the ﬁre, they then joyfully entered, in due order and one after another, like mighty bulls entering a pen.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "attribution",
+              "speaker": "@vaishampayana",
+              "text": "Then the great lord{56} spoke to Dharmaraja",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "speech",
+              "speaker": "@the_great_lord",
+              "text": "“O son of Pandu! Today is an auspicious day. The moon has entered the constellation Pushya. Today, you accept Krishna’s hand ﬁrst.”",
+              "color": "#888888",
+              "opacity": 1.0,
+              "depth": 2
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "At that, King Yajnasena{57} and his son made arrangements for the wedding. He made ready a lot of wealth for the marriage. After she had bathed and had been adorned with many jewels, he brought out his daughter Krishna. To witness the marriage ceremony, the king’s friends and relatives happily came there, with advisers and many Brahmanas and chief citizens. Crowded with those who had come for alms, the extensive festive grounds thick with lotuses and lilies, lined with heaps of precious stones, his palace looked like the sky, studded with brilliant stars. Then the young Kuru princes bathed. Adorned with earrings and ornaments, dressed in expensive garments and perfumed with sandalwood paste, they performed the preparatory ceremony and other auspicious rites. O lord! Accompanied by their priest Dhoumya, as radiant as the ﬁre, they then joyfully entered, in due order and one after another, like mighty bulls entering a pen.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘Then the priest{58} who knew the Vedas built and lit the sacriﬁcial ﬁre and poured offerings, with mantras. He then called Yudhishthira and united him with Krishna. Then the Veda-knowing one married them, making them walk around the ﬁre, hand in hand. Then the priest took leave of that ornament of battle{59} and went out of the palace. Then those maharathas, bringers of fame to the Kuru lineage, sons of a king among men, took the hand of that supreme among women, in succession, one day after another{60}. The devarshi{61} told me something extremely wonderful, beyond human powers. That slender-waisted and great lady regained her virginity from one day to another{62}.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Then the priest{58} who knew the Vedas built and lit the sacriﬁcial ﬁre and poured offerings, with mantras. He then called Yudhishthira and united him with Krishna. Then the Veda-knowing one married them, making them walk around the ﬁre, hand in hand. Then the priest took leave of that ornament of battle{59} and went out of the palace. Then those maharathas, bringers of fame to the Kuru lineage, sons of a king among men, took the hand of that supreme among women, in succession, one day after another{60}. The devarshi{61} told me something extremely wonderful, beyond human powers. That slender-waisted and great lady regained her virginity from one day to another{62}.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            }
+          ]
+        },
+        "4": {
+          "raw": "‘When the marriage was over, Drupada gave those maharathas a lot of gifts—100 supreme chariots adorned with gold, each yoked to four horses with golden bridles; 100 elephants with lotus marks on them, like a hundred mountains with golden peaks; and 100 young maidservants dressed in expensive garments and adorned with ornaments and garlands. Making the ﬁre his witness, the king of the lunar dynasty{63}, beﬁtting his might, separately gave each of those{64} a lot of wealth, garments and ornaments and other riches. When the marriage was over and the mighty Pandavas, the equals of Indra, had obtained their Shri, along with her great wealth, they lived in the city of the king of Panchala.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘When the marriage was over, Drupada gave those maharathas a lot of gifts—100 supreme chariots adorned with gold, each yoked to four horses with golden bridles; 100 elephants with lotus marks on them, like a hundred mountains with golden peaks; and 100 young maidservants dressed in expensive garments and adorned with ornaments and garlands. Making the ﬁre his witness, the king of the lunar dynasty{63}, beﬁtting his might, separately gave each of those{64} a lot of wealth, garments and ornaments and other riches. When the marriage was over and the mighty Pandavas, the equals of Indra, had obtained their Shri, along with her great wealth, they lived in the city of the king of Panchala.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    },
+    "191": {
+      "global_number": 191,
+      "local_number": 191,
+      "num_shlokas": 19,
+      "paragraphs": {
+        "1": {
+          "raw": "Vaishampayana said, ‘After his alliance with the Pandavas, Drupada’s fears were dispelled. He did not even fear the gods. All the ladies in the great-souled Drupada’s household came to Kunti. They mentioned their names and saluted her, with their foreheads touching her feet. Dressed in a silken garment and with the marriage thread still encircling her{65}, Krishna also paid her respects to her mother-in-law and stood before her, her palms joined.",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Vaishampayana said,",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After his alliance with the Pandavas, Drupada’s fears were dispelled. He did not even fear the gods. All the ladies in the great-souled Drupada’s household came to Kunti. They mentioned their names and saluted her, with their foreheads touching her feet. Dressed in a silken garment and with the marriage thread still encircling her{65}, Krishna also paid her respects to her mother-in-law and stood before her, her palms joined.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        },
+        "2": {
+          "raw": "‘Lovingly, Pritha bestowed her blessings on Droupadi, endowed with beauty and auspicious marks and with a pure disposition and good character. “As Indrani{66} is to Harihaya{67}, as Svaha{68} is to Vibhavasu{69}, as Rohini{70} is to Soma{71}, as Damayanti is to Nala, as Bhadra{72} is to Vaishravana{73}, as Arundhati is to Vashishtha and as Lakshmi is to Narayana, so may you be to your husbands. O fortunate one! May you be the mother of long-lived and valorous sons. May you be happy. May you be fortunate and prosperous. May you be strict in your vows and a wife to your husbands at the time of sacriﬁces. May you always pass your time serving your guests in the proper way— holy men, the aged, the young and your seniors. May you be anointed queen, with the righteous king{74}, in the kingdom and the capital of Kurujangala. Let the entire earth be conquered by your immensely powerful husbands and presented to Brahmanas in a great horse-sacriﬁce. O accomplished one! O treasure of all virtues! May all the riches of the world belong to you. May you be happy for 100 autumns. O daughter-in-law! I bless you today on seeing you in silken garments. I shall bless you again when you have given birth to a son with all the qualities.”",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            },
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "Lovingly, Pritha bestowed her blessings on Droupadi, endowed with beauty and auspicious marks and with a pure disposition and good character.",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 0
+            },
+            {
+              "type": "speech",
+              "speaker": "@vaishampayana",
+              "text": "“As Indrani{66} is to Harihaya{67}, as Svaha{68} is to Vibhavasu{69}, as Rohini{70} is to Soma{71}, as Damayanti is to Nala, as Bhadra{72} is to Vaishravana{73}, as Arundhati is to Vashishtha and as Lakshmi is to Narayana, so may you be to your husbands. O fortunate one! May you be the mother of long-lived and valorous sons. May you be happy. May you be fortunate and prosperous. May you be strict in your vows and a wife to your husbands at the time of sacriﬁces. May you always pass your time serving your guests in the proper way— holy men, the aged, the young and your seniors. May you be anointed queen, with the righteous king{74}, in the kingdom and the capital of Kurujangala. Let the entire earth be conquered by your immensely powerful husbands and presented to Brahmanas in a great horse-sacriﬁce. O accomplished one! O treasure of all virtues! May all the riches of the world belong to you. May you be happy for 100 autumns. O daughter-in-law! I bless you today on seeing you in silken garments. I shall bless you again when you have given birth to a son with all the qualities.”",
+              "color": "#7EB8F7",
+              "opacity": 1.0,
+              "depth": 1
+            }
+          ]
+        },
+        "3": {
+          "raw": "‘After the Pandavas had taken a wife, Hari{75} sent them many golden ornaments, adorned with pearls and lapis lazuli. Madhava{76} also sent them expensive garments from many regions, blankets, deer skins, jewels that were beautiful and soft, and expensive beds, seats, vehicles and vessels, adorned with diamonds and lapis lazuli. Krishna also gave them thousands of young maidservants, adorned with ornaments, beautiful, accomplished and brought from many regions, well trained, and tame elephants, many excellent and caparisoned horses and many chariots, drawn by horses with large teeth and excellent colours, bedecked with golden cloth. And Madhusudana{77}, whose soul cannot be measured, also sent them in a separate heap crores of pure gold coins. In a desire to please Govinda{78}, Dharmaraja Yudhishthira, who was ﬁlled with pure joy, accepted all this.’",
+          "frame": 1,
+          "speaker": "@vaishampayana",
+          "speaker_name": "Vaishampayana",
+          "color": "#7EB8F7",
+          "segments": [
+            {
+              "type": "narration",
+              "speaker": "@vaishampayana",
+              "text": "‘After the Pandavas had taken a wife, Hari{75} sent them many golden ornaments, adorned with pearls and lapis lazuli. Madhava{76} also sent them expensive garments from many regions, blankets, deer skins, jewels that were beautiful and soft, and expensive beds, seats, vehicles and vessels, adorned with diamonds and lapis lazuli. Krishna also gave them thousands of young maidservants, adorned with ornaments, beautiful, accomplished and brought from many regions, well trained, and tame elephants, many excellent and caparisoned horses and many chariots, drawn by horses with large teeth and excellent colours, bedecked with golden cloth. And Madhusudana{77}, whose soul cannot be measured, also sent them in a separate heap crores of pure gold coins. In a desire to please Govinda{78}, Dharmaraja Yudhishthira, who was ﬁlled with pure joy, accepted all this.’",
+              "color": "#7EB8F7",
+              "opacity": 0.4,
+              "depth": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

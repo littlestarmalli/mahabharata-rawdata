@@ -1,0 +1,190 @@
+{
+  "chapter_number": 1365,
+  "global_number": 1365,
+  "local_number": 37,
+  "num_shlokas": 43,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Having been thus addressed by the illustrious one, Dharmaraja Yudhishthira thought for some time. He then asked that store of austerities, “What should be eaten and what should not be eaten? What is said to be a praiseworthy gift? Who is a deserving person and who is an undeserving one? O grandfather! Tell me that.”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Having been thus addressed by the illustrious one,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Dharmaraja Yudhishthira thought for some time. He then asked that store of austerities",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@dharmaraja_yudhishthira_thought_for",
+          "text": "“What should be eaten and what should not be eaten? What is said to be a praiseworthy gift? Who is a deserving person and who is an undeserving one? O grandfather! Tell me that.”",
+          "color": "#888888",
+          "opacity": 1.0,
+          "depth": 2
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Vyasa replied, “In this connection, an ancient history is recounted. This is a conversation that took place between the Siddhas and Prajapati Manu. The Siddhas were engaged in supreme austerities and vows. In ancient times, they approached the brave lord and Prajapati while he was seated, and asked him about dharma. ‘What food should be eaten? What gifts should be given? How should we study? What austerities will we observe? What should be done and what should not be done? O Prajapati! Tell us everything about this.’ Having been thus addressed, the illustrious Svayambhuva Manu spoke.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Vyasa replied",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "“In this connection, an ancient history is recounted. This is a conversation that took place between the Siddhas and Prajapati Manu. The Siddhas were engaged in supreme austerities and vows. In ancient times, they approached the brave lord and Prajapati while he was seated, and asked him about dharma. ‘What food should be eaten? What gifts should be given? How should we study? What austerities will we observe? What should be done and what should not be done? O Prajapati! Tell us everything about this.’ Having been thus addressed, the illustrious Svayambhuva Manu spoke.",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘“‘Listen to me as I expound the true nature of dharma, brieﬂy and in detail{295}. The signs of dharma are: not taking what has not been given, donations, studying, austerities, non-violence, truthfulness, lack of anger and forgiveness. However, if practised in the wrong place and at the wrong time, dharma may become adharma. It has been said that in some situations, not giving, lying and violence are dharma. Those who are learned know that there are two aspects to both dharma and adharma. People who are learned know that there can be both action and withdrawal from action. Inaction leads to immortality and the fruits of action are mortality{296}. One knows that evil acts lead to evil and good acts to the good. This determines whether acts are good or bad, whether they lead to heaven, whether they lead to one’s union with heaven, whether they lead to life, or whether they lead to death. However, even if one did not think about it before committing the act, there may be good consequences from an evil act. On considering the consequences, they may have led to uplifting life on earth. But if an act is undertaken without thinking about it, atonement is recommended. If acts are undertaken in anger or out of delusion, without considering the consequences or the reasons, if they lead to torment of the body, or cause pleasant and unpleasant sensations in the mind, then they must be paciﬁed through atonement, like using herbs and mantras. One must also entirely ignore dharma that concerns jati, 297 shreni, 298 adhivasa 299 and family. These are not dharma, because there is no real dharma in them{300}.  There may be doubts about what constitutes dharma. In such cases, whatever ten people who know about the sacred Vedas, or three people who read about dharma, describe as acts that should be done, constitute dharma.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "‘",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "“‘Listen to me as I expound the true nature of dharma, brieﬂy and in detail{295}. The signs of dharma are: not taking what has not been given, donations, studying, austerities, non-violence, truthfulness, lack of anger and forgiveness. However, if practised in the wrong place and at the wrong time, dharma may become adharma. It has been said that in some situations, not giving, lying and violence are dharma. Those who are learned know that there are two aspects to both dharma and adharma. People who are learned know that there can be both action and withdrawal from action. Inaction leads to immortality and the fruits of action are mortality{296}. One knows that evil acts lead to evil and good acts to the good. This determines whether acts are good or bad, whether they lead to heaven, whether they lead to one’s union with heaven, whether they lead to life, or whether they lead to death. However, even if one did not think about it before committing the act, there may be good consequences from an evil act. On considering the consequences, they may have led to uplifting life on earth. But if an act is undertaken without thinking about it, atonement is recommended. If acts are undertaken in anger or out of delusion, without considering the consequences or the reasons, if they lead to torment of the body, or cause pleasant and unpleasant sensations in the mind, then they must be paciﬁed through atonement, like using herbs and mantras. One must also entirely ignore dharma that concerns jati, 297 shreni, 298 adhivasa 299 and family. These are not dharma, because there is no real dharma in them{300}.  There may be doubts about what constitutes dharma. In such cases, whatever ten people who know about the sacred Vedas, or three people who read about dharma, describe as acts that should be done, constitute dharma.",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 2
+        }
+      ]
+    },
+    "4": {
+      "raw": "‘“‘Red earth, red ants, the shleshmataka{301} and poison must not be consumed by brahmanas. Brahmanas must also not eat ﬁsh that are without scales, frogs and four-footed aquatic animals, with the exception of turtles. Vultures, swans, eagles, chakravakas{302}, herons, ducks, curlews, diver-birds, vultures{303}, crows, owls, all predatory birds, all quadrupeds with horns and all quadrupeds that have two teeth or four teeth must not be eaten by brahmanas. Nor must they drink the milk of sheep, mares, she-donkeys, she-camels, cows that have just calved, women and deer. Food offered to a dead man, food cooked by a woman who has just given birth within the last ten days and food cooked by someone unknown must not be eaten. Until ten days have passed, the milk of a cow that has just given birth must not be drunk. One must not eat food given by a carpenter, a person who strips off animal skins, a whore, a washerman, a physician and a guard. Nor should one eat food given by a person who has been thrown out of the village assembly, one who earns a living through dancing girls, a man whose younger brother has married before him, a eunuch, a professional bard and a skilled gambler. One must avoid food given to a prisoner, putrid and stale food, that which has been laced with alcohol, that which has been partly eaten by others and leftover food. Cakes stuffed with meat, sugar cane and vegetables, rice cooked with milk and sugar{304} when it has gone bad, coarsely ground meal, grain and food that has been kept for a long time should not be eaten. Rice cooked with milk and sugar, dishes made of sesamum and grain{305} and meat and cakes that have been prepared unnecessarily{306} should not be eaten. They should not be eaten by brahmanas who are in the householder stage. A householder must eat after worshipping the gods, the ancestors, men, sages and other household gods. A brahmana who dwells in his own household is like a mendicant who is wandering around. If he conducts himself in this way, with his beloved wife, he will obtain the beneﬁts of dharma.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "‘",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "“‘Red earth, red ants, the shleshmataka{301} and poison must not be consumed by brahmanas. Brahmanas must also not eat ﬁsh that are without scales, frogs and four-footed aquatic animals, with the exception of turtles. Vultures, swans, eagles, chakravakas{302}, herons, ducks, curlews, diver-birds, vultures{303}, crows, owls, all predatory birds, all quadrupeds with horns and all quadrupeds that have two teeth or four teeth must not be eaten by brahmanas. Nor must they drink the milk of sheep, mares, she-donkeys, she-camels, cows that have just calved, women and deer. Food offered to a dead man, food cooked by a woman who has just given birth within the last ten days and food cooked by someone unknown must not be eaten. Until ten days have passed, the milk of a cow that has just given birth must not be drunk. One must not eat food given by a carpenter, a person who strips off animal skins, a whore, a washerman, a physician and a guard. Nor should one eat food given by a person who has been thrown out of the village assembly, one who earns a living through dancing girls, a man whose younger brother has married before him, a eunuch, a professional bard and a skilled gambler. One must avoid food given to a prisoner, putrid and stale food, that which has been laced with alcohol, that which has been partly eaten by others and leftover food. Cakes stuffed with meat, sugar cane and vegetables, rice cooked with milk and sugar{304} when it has gone bad, coarsely ground meal, grain and food that has been kept for a long time should not be eaten. Rice cooked with milk and sugar, dishes made of sesamum and grain{305} and meat and cakes that have been prepared unnecessarily{306} should not be eaten. They should not be eaten by brahmanas who are in the householder stage. A householder must eat after worshipping the gods, the ancestors, men, sages and other household gods. A brahmana who dwells in his own household is like a mendicant who is wandering around. If he conducts himself in this way, with his beloved wife, he will obtain the beneﬁts of dharma.",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 3
+        }
+      ]
+    },
+    "5": {
+      "raw": "‘“‘One must not donate for the sake of praise. Or give out of fear, or as a mark of favour to the recipient. One who follows dharma does not give to a person who earns a living through singing and dancing, a jester, a person who is intoxicated or mad, a thief, a physician, one who cannot speak, one who has a pale complexion, one who doesn’t have a limb, a dwarf, a wicked person, one born in an inferior lineage and one who has not followed the sacraments. Giving to a brahmana who does not know about the Vedas, or does not know about the brahman, is a dead gift. An inappropriate gift and an inappropriate recipient bring bad consequences to both the giver and the recipient. A man who tries to cross the ocean with the support of a branch of a khadira tree{307} or a stone sinks. The giver and the recipient sink in that way. When wood is wet, it does not blaze. An inferior recipient, without austerities, studies and character, is like that. Water in a skull and milk in the bladder of a dog become unclean because of the receptacle. To a man without good conduct, learning is like that. One without mantras, one without vows and one without knowledge of the sacred texts, may be without malice and distressed. One may give to him out of compassion. But even out of compassion, one should give to a distressed person who causes injury. There are brahmanas who have deviated from dharma. One should not give to them, thinking that this is dharma, or that their behaviour is good. This is fruitless. The receptacle is tainted and there is no need to reﬂect on this. A brahmana who has not studied, an elephant made out wood and a deer made out of skin are similar. All three have nothing but their names. A eunuch has no fruit with a woman. A cow has no fruit with another cow. A brahmana without mantras is like that and is like a bird without wings. Giving to him is futile, since he is like a village that has no granary, like a well that has no water and like oblations made where there is no ﬁre. He destroys offerings and oblations made to the gods and the ancestors. He is like a stupid enemy who robs one of one’s riches. He does not deserve to obtain any worlds.’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "‘",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 3
+        },
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "“‘One must not donate for the sake of praise. Or give out of fear, or as a mark of favour to the recipient. One who follows dharma does not give to a person who earns a living through singing and dancing, a jester, a person who is intoxicated or mad, a thief, a physician, one who cannot speak, one who has a pale complexion, one who doesn’t have a limb, a dwarf, a wicked person, one born in an inferior lineage and one who has not followed the sacraments. Giving to a brahmana who does not know about the Vedas, or does not know about the brahman, is a dead gift. An inappropriate gift and an inappropriate recipient bring bad consequences to both the giver and the recipient. A man who tries to cross the ocean with the support of a branch of a khadira tree{307} or a stone sinks. The giver and the recipient sink in that way. When wood is wet, it does not blaze. An inferior recipient, without austerities, studies and character, is like that. Water in a skull and milk in the bladder of a dog become unclean because of the receptacle. To a man without good conduct, learning is like that. One without mantras, one without vows and one without knowledge of the sacred texts, may be without malice and distressed. One may give to him out of compassion. But even out of compassion, one should give to a distressed person who causes injury. There are brahmanas who have deviated from dharma. One should not give to them, thinking that this is dharma, or that their behaviour is good. This is fruitless. The receptacle is tainted and there is no need to reﬂect on this. A brahmana who has not studied, an elephant made out wood and a deer made out of skin are similar. All three have nothing but their names. A eunuch has no fruit with a woman. A cow has no fruit with another cow. A brahmana without mantras is like that and is like a bird without wings. Giving to him is futile, since he is like a village that has no granary, like a well that has no water and like oblations made where there is no ﬁre. He destroys offerings and oblations made to the gods and the ancestors. He is like a stupid enemy who robs one of one’s riches. He does not deserve to obtain any worlds.’",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    },
+    "6": {
+      "raw": "‘“O Yudhishthira{308}! This is the exact truth and it has been recounted to you, as it was said. O bull among the Bharata lineage! This is a great and extensive discourse and deserves to be heard.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "‘",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 4
+        },
+        {
+          "type": "speech",
+          "speaker": "@vyasa",
+          "text": "“O Yudhishthira{308}! This is the exact truth and it has been recounted to you, as it was said. O bull among the Bharata lineage! This is a great and extensive discourse and deserves to be heard.”",
+          "color": "#FFBF69",
+          "opacity": 1.0,
+          "depth": 5
+        },
+        {
+          "type": "narration",
+          "speaker": "@vyasa",
+          "text": "’",
+          "color": "#FFBF69",
+          "opacity": 0.4,
+          "depth": 4
+        }
+      ]
+    }
+  }
+}

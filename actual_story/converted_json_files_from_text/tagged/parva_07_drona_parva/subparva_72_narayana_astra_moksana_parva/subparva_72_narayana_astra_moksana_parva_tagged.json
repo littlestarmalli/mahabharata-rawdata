@@ -1,0 +1,79 @@
+{
+  "name": "Narayana-astra-moksana Parva",
+  "subparva_number": 72,
+  "source_volume": 6,
+  "details": {
+    "num_chapters": 8,
+    "num_shlokas": 444
+  },
+  "note": "This section is named after the release (moksha) from the divine narayana weapon. Angry at Drona�s death, Ashvatthama invokes the naryana astra, which was obtained from Narayana. This weapon cannot be countered by fighting and Krishna advises the Pandavas to lay down their weapons. Ashvatthama then kills Pourava Vriddhakshatra, Sudarshana from Malava and the prince of Chedi. Asvatthama�s divine weapons are countered by Krishna and Arjuna. The section ends with the praise of Shiva. This section also ends Drona Parva and the fif-teenth day of the war. CHAPTER 1143(166)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1143": {
+      "chapter_number": 1143,
+      "global_number": 1143,
+      "local_number": 166,
+      "num_shlokas": 60,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1143_tagged.json"
+    },
+    "1144": {
+      "chapter_number": 1144,
+      "global_number": 1144,
+      "local_number": 167,
+      "num_shlokas": 50,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1144_tagged.json"
+    },
+    "1145": {
+      "chapter_number": 1145,
+      "global_number": 1145,
+      "local_number": 168,
+      "num_shlokas": 39,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1145_tagged.json"
+    },
+    "1146": {
+      "chapter_number": 1146,
+      "global_number": 1146,
+      "local_number": 169,
+      "num_shlokas": 62,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1146_tagged.json"
+    },
+    "1147": {
+      "chapter_number": 1147,
+      "global_number": 1147,
+      "local_number": 170,
+      "num_shlokas": 61,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1147_tagged.json"
+    },
+    "1148": {
+      "chapter_number": 1148,
+      "global_number": 1148,
+      "local_number": 171,
+      "num_shlokas": 69,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1148_tagged.json"
+    },
+    "1149": {
+      "chapter_number": 1149,
+      "global_number": 1149,
+      "local_number": 172,
+      "num_shlokas": null,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1149_tagged.json"
+    },
+    "1150": {
+      "chapter_number": 1150,
+      "global_number": 1150,
+      "local_number": 173,
+      "num_shlokas": 103,
+      "file": "subparva_72_narayana_astra_moksana_parva/chapter_1150_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Adi-vamshavatarana Parva",
+  "subparva_number": 6,
+  "source_volume": 1,
+  "details": {
+    "num_chapters": 5,
+    "num_shlokas": 257
+  },
+  "note": "Chapter 54: 24 shlokas Ansha means partial or secondary incarnation, while avatarana means descent. The parva is thus the descent of partial incarnations. It re-lates the story of Uparichara Vasu and Vyasadeva�s birth from Parashara and Satyavati. It ends with the partial or secondary incarnations of the gods and the demons.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "54": {
+      "chapter_number": 54,
+      "global_number": 54,
+      "local_number": 54,
+      "num_shlokas": 24,
+      "file": "subparva_06_adi_vamshavatarana_parva/chapter_054_tagged.json"
+    },
+    "55": {
+      "chapter_number": 55,
+      "global_number": 55,
+      "local_number": 55,
+      "num_shlokas": 43,
+      "file": "subparva_06_adi_vamshavatarana_parva/chapter_055_tagged.json"
+    },
+    "56": {
+      "chapter_number": 56,
+      "global_number": 56,
+      "local_number": 56,
+      "num_shlokas": 33,
+      "file": "subparva_06_adi_vamshavatarana_parva/chapter_056_tagged.json"
+    },
+    "57": {
+      "chapter_number": 57,
+      "global_number": 57,
+      "local_number": 57,
+      "num_shlokas": 106,
+      "file": "subparva_06_adi_vamshavatarana_parva/chapter_057_tagged.json"
+    },
+    "58": {
+      "chapter_number": 58,
+      "global_number": 58,
+      "local_number": 58,
+      "num_shlokas": 51,
+      "file": "subparva_06_adi_vamshavatarana_parva/chapter_058_tagged.json"
+    }
+  }
+}

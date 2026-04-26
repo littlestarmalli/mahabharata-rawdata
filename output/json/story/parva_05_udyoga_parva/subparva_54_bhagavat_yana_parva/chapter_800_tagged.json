@@ -1,0 +1,107 @@
+{
+  "chapter_number": 800,
+  "global_number": 800,
+  "local_number": 137,
+  "num_shlokas": 22,
+  "paragraphs": {
+    "1": {
+      "raw": "Vaishampayana said, ‘Having been thus addressed, he{326} was distracted. He glanced sideways and lowered his face. He furrowed the middle of his brows and did not say anything. On seeing him thus distracted, those bulls among men{327} glanced at each other and spoke these words to the one who had not replied.",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "Vaishampayana said,",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘Having been thus addressed, he{326} was distracted. He glanced sideways and lowered his face. He furrowed the middle of his brows and did not say anything. On seeing him thus distracted, those bulls among men{327} glanced at each other and spoke these words to the one who had not replied.",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    },
+    "2": {
+      "raw": "‘Bhishma said, “Partha{328} is devoted. He is devoid of jealousy. He possesses the qualities of a brahmana. He is devoted to the truth. What can be greater misery than having to ﬁght with him?”",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Bhishma said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 0
+        },
+        {
+          "type": "speech",
+          "speaker": "@bhishma",
+          "text": "“Partha{328} is devoted. He is devoid of jealousy. He possesses the qualities of a brahmana. He is devoted to the truth. What can be greater misery than having to ﬁght with him?”",
+          "color": "#457B9D",
+          "opacity": 1.0,
+          "depth": 1
+        }
+      ]
+    },
+    "3": {
+      "raw": "‘Drona said, “O king! Dhananjaya is dearer to me than my own son Ashvatthama. The one with the ape on his standard{329} shows more reverence towards others than anyone else. If I have to ﬁght with Dhananjaya, whom I love more than my own son, as a result of following the dharma of kshatriyas, shame on the life of kshatriyas. Because of my favours, there is no other archer in the world who is equal or superior to Bibhatsu as an archer. One who betrays his friends, one who is wicked in his sentiments, one who is an atheist, one who is dishonest and one who is deceitful, does not obtain worship from the virtuous, like an idiot who has arrived at a sacriﬁce. Though restrained from evil, an evil-souled one desires evil. Though tempted by evil, a person who is pure in soul desires purity. Though they have been treated with falsehood, they still remain affectionately inclined. O supreme among Bharatas! But your taints will lead to a bad end. You have been addressed by the eldest among the Kurus, by me, by Vidura and also by Vasudeva. But you do not see what is beneﬁcial. ‘I have the forces.’ Thinking this, you wish to cross over. That is like crossing the Ganga, with its crocodiles, alligators ands sharks{330}, during the rainy season. You think that you are now dressed in Yudhishthira’s garments. But because of your avarice, you have only obtained the prosperity that he has cast away, like a garland. Even in the forest, together with Droupadi, Partha Pandava{331} enjoys a kingdom{332}, surrounded by his brothers, who wield weapons. Who can outlive him? When he met Ilavila’s son{333}, whom all the kings serve as servants, Dharmaraja surpassed him in radiance. He obtained gems in Kubera’s abode. Desiring the kingdom, the Pandavas are ready to invade your prosperous kingdom. We{334} have offered gifts. We have offered oblations. We have studied. We have satisﬁed the brahmanas with riches. We have lived our lives. Both of us know that we have accomplished our tasks. But you are discarding happiness, the kingdom, friends and riches. You wish to wage war on the Pandavas. But you will confront a great calamity. Droupadi, the one who is truthful in her conduct, desires their victory. That goddess is terrible in her austerities and vows. How can you defeat the Pandava? Janardana is his adviser and Dhananjaya, foremost among those who wield all weapons, is his brother. Brahmanas who have fortitude and have controlled their senses, are his companions. He is brave and terrible in his austerities. How can you defeat the Pandava? I am telling you again, as a well-wisher who desires to save the life of a well-wisher who is immersing himself in an ocean of disaster. Refrain from this war with those brave ones. Have peace with them, so that the Kurus can prosper. With your sons, advisers and forces, do not advance towards defeat.”’",
+      "frame": 1,
+      "speaker": "@vaishampayana",
+      "speaker_name": "Vaishampayana",
+      "color": "#7EB8F7",
+      "segments": [
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "‘",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "attribution",
+          "speaker": "@vaishampayana",
+          "text": "Drona said",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        },
+        {
+          "type": "speech",
+          "speaker": "@drona",
+          "text": "“O king! Dhananjaya is dearer to me than my own son Ashvatthama. The one with the ape on his standard{329} shows more reverence towards others than anyone else. If I have to ﬁght with Dhananjaya, whom I love more than my own son, as a result of following the dharma of kshatriyas, shame on the life of kshatriyas. Because of my favours, there is no other archer in the world who is equal or superior to Bibhatsu as an archer. One who betrays his friends, one who is wicked in his sentiments, one who is an atheist, one who is dishonest and one who is deceitful, does not obtain worship from the virtuous, like an idiot who has arrived at a sacriﬁce. Though restrained from evil, an evil-souled one desires evil. Though tempted by evil, a person who is pure in soul desires purity. Though they have been treated with falsehood, they still remain affectionately inclined. O supreme among Bharatas! But your taints will lead to a bad end. You have been addressed by the eldest among the Kurus, by me, by Vidura and also by Vasudeva. But you do not see what is beneﬁcial. ‘I have the forces.’ Thinking this, you wish to cross over. That is like crossing the Ganga, with its crocodiles, alligators ands sharks{330}, during the rainy season. You think that you are now dressed in Yudhishthira’s garments. But because of your avarice, you have only obtained the prosperity that he has cast away, like a garland. Even in the forest, together with Droupadi, Partha Pandava{331} enjoys a kingdom{332}, surrounded by his brothers, who wield weapons. Who can outlive him? When he met Ilavila’s son{333}, whom all the kings serve as servants, Dharmaraja surpassed him in radiance. He obtained gems in Kubera’s abode. Desiring the kingdom, the Pandavas are ready to invade your prosperous kingdom. We{334} have offered gifts. We have offered oblations. We have studied. We have satisﬁed the brahmanas with riches. We have lived our lives. Both of us know that we have accomplished our tasks. But you are discarding happiness, the kingdom, friends and riches. You wish to wage war on the Pandavas. But you will confront a great calamity. Droupadi, the one who is truthful in her conduct, desires their victory. That goddess is terrible in her austerities and vows. How can you defeat the Pandava? Janardana is his adviser and Dhananjaya, foremost among those who wield all weapons, is his brother. Brahmanas who have fortitude and have controlled their senses, are his companions. He is brave and terrible in his austerities. How can you defeat the Pandava? I am telling you again, as a well-wisher who desires to save the life of a well-wisher who is immersing himself in an ocean of disaster. Refrain from this war with those brave ones. Have peace with them, so that the Kurus can prosper. With your sons, advisers and forces, do not advance towards defeat.”",
+          "color": "#2D6A4F",
+          "opacity": 1.0,
+          "depth": 2
+        },
+        {
+          "type": "narration",
+          "speaker": "@vaishampayana",
+          "text": "’",
+          "color": "#7EB8F7",
+          "opacity": 0.4,
+          "depth": 1
+        }
+      ]
+    }
+  }
+}

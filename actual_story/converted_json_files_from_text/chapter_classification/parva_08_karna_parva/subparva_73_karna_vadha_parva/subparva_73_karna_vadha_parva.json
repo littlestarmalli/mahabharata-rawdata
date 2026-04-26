@@ -1,0 +1,496 @@
+{
+  "name": "Karna-vadha Parva",
+  "subparva_number": 73,
+  "source_volume": 7,
+  "file_path": "output/volumes/volume_7_chapters.txt",
+  "details": {
+    "num_chapters": 69,
+    "num_shlokas": 3870
+  },
+  "note": "Vadha means to slay or kill and this parva is about the killing of the rakshasa Hidimba.",
+  "chapters": {
+    "1151": {
+      "chapter_number": 1151,
+      "global_number": 1151,
+      "local_number": 1,
+      "num_shlokas": 49,
+      "file": "subparva_73_karna_vadha_parva/chapter_1151.json"
+    },
+    "1152": {
+      "chapter_number": 1152,
+      "global_number": 1152,
+      "local_number": 2,
+      "num_shlokas": 20,
+      "file": "subparva_73_karna_vadha_parva/chapter_1152.json"
+    },
+    "1153": {
+      "chapter_number": 1153,
+      "global_number": 1153,
+      "local_number": 3,
+      "num_shlokas": 14,
+      "file": "subparva_73_karna_vadha_parva/chapter_1153.json"
+    },
+    "1154": {
+      "chapter_number": 1154,
+      "global_number": 1154,
+      "local_number": 4,
+      "num_shlokas": 108,
+      "file": "subparva_73_karna_vadha_parva/chapter_1154.json"
+    },
+    "1155": {
+      "chapter_number": 1155,
+      "global_number": 1155,
+      "local_number": 5,
+      "num_shlokas": 110,
+      "file": "subparva_73_karna_vadha_parva/chapter_1155.json"
+    },
+    "1156": {
+      "chapter_number": 1156,
+      "global_number": 1156,
+      "local_number": 6,
+      "num_shlokas": 46,
+      "file": "subparva_73_karna_vadha_parva/chapter_1156.json"
+    },
+    "1157": {
+      "chapter_number": 1157,
+      "global_number": 1157,
+      "local_number": 7,
+      "num_shlokas": 42,
+      "file": "subparva_73_karna_vadha_parva/chapter_1157.json"
+    },
+    "1158": {
+      "chapter_number": 1158,
+      "global_number": 1158,
+      "local_number": 8,
+      "num_shlokas": 45,
+      "file": "subparva_73_karna_vadha_parva/chapter_1158.json"
+    },
+    "1159": {
+      "chapter_number": 1159,
+      "global_number": 1159,
+      "local_number": 9,
+      "num_shlokas": 35,
+      "file": "subparva_73_karna_vadha_parva/chapter_1159.json"
+    },
+    "1160": {
+      "chapter_number": 1160,
+      "global_number": 1160,
+      "local_number": 10,
+      "num_shlokas": 36,
+      "file": "subparva_73_karna_vadha_parva/chapter_1160.json"
+    },
+    "1161": {
+      "chapter_number": 1161,
+      "global_number": 1161,
+      "local_number": 11,
+      "num_shlokas": 41,
+      "file": "subparva_73_karna_vadha_parva/chapter_1161.json"
+    },
+    "1162": {
+      "chapter_number": 1162,
+      "global_number": 1162,
+      "local_number": 12,
+      "num_shlokas": 71,
+      "file": "subparva_73_karna_vadha_parva/chapter_1162.json"
+    },
+    "1163": {
+      "chapter_number": 1163,
+      "global_number": 1163,
+      "local_number": 13,
+      "num_shlokas": 25,
+      "file": "subparva_73_karna_vadha_parva/chapter_1163.json"
+    },
+    "1164": {
+      "chapter_number": 1164,
+      "global_number": 1164,
+      "local_number": 14,
+      "num_shlokas": 64,
+      "file": "subparva_73_karna_vadha_parva/chapter_1164.json"
+    },
+    "1165": {
+      "chapter_number": 1165,
+      "global_number": 1165,
+      "local_number": 15,
+      "num_shlokas": 43,
+      "file": "subparva_73_karna_vadha_parva/chapter_1165.json"
+    },
+    "1166": {
+      "chapter_number": 1166,
+      "global_number": 1166,
+      "local_number": 16,
+      "num_shlokas": 38,
+      "file": "subparva_73_karna_vadha_parva/chapter_1166.json"
+    },
+    "1167": {
+      "chapter_number": 1167,
+      "global_number": 1167,
+      "local_number": 17,
+      "num_shlokas": 120,
+      "file": "subparva_73_karna_vadha_parva/chapter_1167.json"
+    },
+    "1168": {
+      "chapter_number": 1168,
+      "global_number": 1168,
+      "local_number": 18,
+      "num_shlokas": 76,
+      "file": "subparva_73_karna_vadha_parva/chapter_1168.json"
+    },
+    "1169": {
+      "chapter_number": 1169,
+      "global_number": 1169,
+      "local_number": 19,
+      "num_shlokas": 75,
+      "file": "subparva_73_karna_vadha_parva/chapter_1169.json"
+    },
+    "1170": {
+      "chapter_number": 1170,
+      "global_number": 1170,
+      "local_number": 20,
+      "num_shlokas": 32,
+      "file": "subparva_73_karna_vadha_parva/chapter_1170.json"
+    },
+    "1171": {
+      "chapter_number": 1171,
+      "global_number": 1171,
+      "local_number": 21,
+      "num_shlokas": 42,
+      "file": "subparva_73_karna_vadha_parva/chapter_1171.json"
+    },
+    "1172": {
+      "chapter_number": 1172,
+      "global_number": 1172,
+      "local_number": 22,
+      "num_shlokas": 61,
+      "file": "subparva_73_karna_vadha_parva/chapter_1172.json"
+    },
+    "1173": {
+      "chapter_number": 1173,
+      "global_number": 1173,
+      "local_number": 23,
+      "num_shlokas": 54,
+      "file": "subparva_73_karna_vadha_parva/chapter_1173.json"
+    },
+    "1174": {
+      "chapter_number": 1174,
+      "global_number": 1174,
+      "local_number": 24,
+      "num_shlokas": 161,
+      "file": "subparva_73_karna_vadha_parva/chapter_1174.json"
+    },
+    "1175": {
+      "chapter_number": 1175,
+      "global_number": 1175,
+      "local_number": 25,
+      "num_shlokas": 11,
+      "file": "subparva_73_karna_vadha_parva/chapter_1175.json"
+    },
+    "1176": {
+      "chapter_number": 1176,
+      "global_number": 1176,
+      "local_number": 26,
+      "num_shlokas": 74,
+      "file": "subparva_73_karna_vadha_parva/chapter_1176.json"
+    },
+    "1177": {
+      "chapter_number": 1177,
+      "global_number": 1177,
+      "local_number": 27,
+      "num_shlokas": 105,
+      "file": "subparva_73_karna_vadha_parva/chapter_1177.json"
+    },
+    "1178": {
+      "chapter_number": 1178,
+      "global_number": 1178,
+      "local_number": 28,
+      "num_shlokas": 66,
+      "file": "subparva_73_karna_vadha_parva/chapter_1178.json"
+    },
+    "1179": {
+      "chapter_number": 1179,
+      "global_number": 1179,
+      "local_number": 29,
+      "num_shlokas": 40,
+      "file": "subparva_73_karna_vadha_parva/chapter_1179.json"
+    },
+    "1180": {
+      "chapter_number": 1180,
+      "global_number": 1180,
+      "local_number": 30,
+      "num_shlokas": 88,
+      "file": "subparva_73_karna_vadha_parva/chapter_1180.json"
+    },
+    "1181": {
+      "chapter_number": 1181,
+      "global_number": 1181,
+      "local_number": 31,
+      "num_shlokas": 68,
+      "file": "subparva_73_karna_vadha_parva/chapter_1181.json"
+    },
+    "1182": {
+      "chapter_number": 1182,
+      "global_number": 1182,
+      "local_number": 32,
+      "num_shlokas": 84,
+      "file": "subparva_73_karna_vadha_parva/chapter_1182.json"
+    },
+    "1183": {
+      "chapter_number": 1183,
+      "global_number": 1183,
+      "local_number": 33,
+      "num_shlokas": 70,
+      "file": "subparva_73_karna_vadha_parva/chapter_1183.json"
+    },
+    "1184": {
+      "chapter_number": 1184,
+      "global_number": 1184,
+      "local_number": 34,
+      "num_shlokas": 42,
+      "file": "subparva_73_karna_vadha_parva/chapter_1184.json"
+    },
+    "1185": {
+      "chapter_number": 1185,
+      "global_number": 1185,
+      "local_number": 35,
+      "num_shlokas": 60,
+      "file": "subparva_73_karna_vadha_parva/chapter_1185.json"
+    },
+    "1186": {
+      "chapter_number": 1186,
+      "global_number": 1186,
+      "local_number": 36,
+      "num_shlokas": 40,
+      "file": "subparva_73_karna_vadha_parva/chapter_1186.json"
+    },
+    "1187": {
+      "chapter_number": 1187,
+      "global_number": 1187,
+      "local_number": 37,
+      "num_shlokas": 38,
+      "file": "subparva_73_karna_vadha_parva/chapter_1187.json"
+    },
+    "1188": {
+      "chapter_number": 1188,
+      "global_number": 1188,
+      "local_number": 38,
+      "num_shlokas": 42,
+      "file": "subparva_73_karna_vadha_parva/chapter_1188.json"
+    },
+    "1189": {
+      "chapter_number": 1189,
+      "global_number": 1189,
+      "local_number": 39,
+      "num_shlokas": 38,
+      "file": "subparva_73_karna_vadha_parva/chapter_1189.json"
+    },
+    "1190": {
+      "chapter_number": 1190,
+      "global_number": 1190,
+      "local_number": 40,
+      "num_shlokas": 130,
+      "file": "subparva_73_karna_vadha_parva/chapter_1190.json"
+    },
+    "1191": {
+      "chapter_number": 1191,
+      "global_number": 1191,
+      "local_number": 41,
+      "num_shlokas": 7,
+      "file": "subparva_73_karna_vadha_parva/chapter_1191.json"
+    },
+    "1192": {
+      "chapter_number": 1192,
+      "global_number": 1192,
+      "local_number": 42,
+      "num_shlokas": 57,
+      "file": "subparva_73_karna_vadha_parva/chapter_1192.json"
+    },
+    "1193": {
+      "chapter_number": 1193,
+      "global_number": 1193,
+      "local_number": 43,
+      "num_shlokas": 78,
+      "file": "subparva_73_karna_vadha_parva/chapter_1193.json"
+    },
+    "1194": {
+      "chapter_number": 1194,
+      "global_number": 1194,
+      "local_number": 44,
+      "num_shlokas": 55,
+      "file": "subparva_73_karna_vadha_parva/chapter_1194.json"
+    },
+    "1195": {
+      "chapter_number": 1195,
+      "global_number": 1195,
+      "local_number": 45,
+      "num_shlokas": 73,
+      "file": "subparva_73_karna_vadha_parva/chapter_1195.json"
+    },
+    "1196": {
+      "chapter_number": 1196,
+      "global_number": 1196,
+      "local_number": 46,
+      "num_shlokas": 48,
+      "file": "subparva_73_karna_vadha_parva/chapter_1196.json"
+    },
+    "1197": {
+      "chapter_number": 1197,
+      "global_number": 1197,
+      "local_number": 47,
+      "num_shlokas": 14,
+      "file": "subparva_73_karna_vadha_parva/chapter_1197.json"
+    },
+    "1198": {
+      "chapter_number": 1198,
+      "global_number": 1198,
+      "local_number": 48,
+      "num_shlokas": 15,
+      "file": "subparva_73_karna_vadha_parva/chapter_1198.json"
+    },
+    "1199": {
+      "chapter_number": 1199,
+      "global_number": 1199,
+      "local_number": 49,
+      "num_shlokas": 115,
+      "file": "subparva_73_karna_vadha_parva/chapter_1199.json"
+    },
+    "1200": {
+      "chapter_number": 1200,
+      "global_number": 1200,
+      "local_number": 50,
+      "num_shlokas": 65,
+      "file": "subparva_73_karna_vadha_parva/chapter_1200.json"
+    },
+    "1201": {
+      "chapter_number": 1201,
+      "global_number": 1201,
+      "local_number": 51,
+      "num_shlokas": 110,
+      "file": "subparva_73_karna_vadha_parva/chapter_1201.json"
+    },
+    "1202": {
+      "chapter_number": 1202,
+      "global_number": 1202,
+      "local_number": 52,
+      "num_shlokas": 33,
+      "file": "subparva_73_karna_vadha_parva/chapter_1202.json"
+    },
+    "1203": {
+      "chapter_number": 1203,
+      "global_number": 1203,
+      "local_number": 53,
+      "num_shlokas": 14,
+      "file": "subparva_73_karna_vadha_parva/chapter_1203.json"
+    },
+    "1204": {
+      "chapter_number": 1204,
+      "global_number": 1204,
+      "local_number": 54,
+      "num_shlokas": 29,
+      "file": "subparva_73_karna_vadha_parva/chapter_1204.json"
+    },
+    "1205": {
+      "chapter_number": 1205,
+      "global_number": 1205,
+      "local_number": 55,
+      "num_shlokas": 73,
+      "file": "subparva_73_karna_vadha_parva/chapter_1205.json"
+    },
+    "1206": {
+      "chapter_number": 1206,
+      "global_number": 1206,
+      "local_number": 56,
+      "num_shlokas": 58,
+      "file": "subparva_73_karna_vadha_parva/chapter_1206.json"
+    },
+    "1207": {
+      "chapter_number": 1207,
+      "global_number": 1207,
+      "local_number": 57,
+      "num_shlokas": 69,
+      "file": "subparva_73_karna_vadha_parva/chapter_1207.json"
+    },
+    "1208": {
+      "chapter_number": 1208,
+      "global_number": 1208,
+      "local_number": 58,
+      "num_shlokas": 28,
+      "file": "subparva_73_karna_vadha_parva/chapter_1208.json"
+    },
+    "1209": {
+      "chapter_number": 1209,
+      "global_number": 1209,
+      "local_number": 59,
+      "num_shlokas": 45,
+      "file": "subparva_73_karna_vadha_parva/chapter_1209.json"
+    },
+    "1210": {
+      "chapter_number": 1210,
+      "global_number": 1210,
+      "local_number": 60,
+      "num_shlokas": 33,
+      "file": "subparva_73_karna_vadha_parva/chapter_1210.json"
+    },
+    "1211": {
+      "chapter_number": 1211,
+      "global_number": 1211,
+      "local_number": 61,
+      "num_shlokas": 17,
+      "file": "subparva_73_karna_vadha_parva/chapter_1211.json"
+    },
+    "1212": {
+      "chapter_number": 1212,
+      "global_number": 1212,
+      "local_number": 62,
+      "num_shlokas": 62,
+      "file": "subparva_73_karna_vadha_parva/chapter_1212.json"
+    },
+    "1213": {
+      "chapter_number": 1213,
+      "global_number": 1213,
+      "local_number": 63,
+      "num_shlokas": 83,
+      "file": "subparva_73_karna_vadha_parva/chapter_1213.json"
+    },
+    "1214": {
+      "chapter_number": 1214,
+      "global_number": 1214,
+      "local_number": 64,
+      "num_shlokas": 32,
+      "file": "subparva_73_karna_vadha_parva/chapter_1214.json"
+    },
+    "1215": {
+      "chapter_number": 1215,
+      "global_number": 1215,
+      "local_number": 65,
+      "num_shlokas": 45,
+      "file": "subparva_73_karna_vadha_parva/chapter_1215.json"
+    },
+    "1216": {
+      "chapter_number": 1216,
+      "global_number": 1216,
+      "local_number": 66,
+      "num_shlokas": 65,
+      "file": "subparva_73_karna_vadha_parva/chapter_1216.json"
+    },
+    "1217": {
+      "chapter_number": 1217,
+      "global_number": 1217,
+      "local_number": 67,
+      "num_shlokas": 37,
+      "file": "subparva_73_karna_vadha_parva/chapter_1217.json"
+    },
+    "1218": {
+      "chapter_number": 1218,
+      "global_number": 1218,
+      "local_number": 68,
+      "num_shlokas": 63,
+      "file": "subparva_73_karna_vadha_parva/chapter_1218.json"
+    },
+    "1219": {
+      "chapter_number": 1219,
+      "global_number": 1219,
+      "local_number": 69,
+      "num_shlokas": 43,
+      "file": "subparva_73_karna_vadha_parva/chapter_1219.json"
+    }
+  }
+}

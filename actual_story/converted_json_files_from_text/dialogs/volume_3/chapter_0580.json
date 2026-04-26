@@ -1,0 +1,97 @@
+{
+  "chapter": 580,
+  "local": 283,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Markandeya said, “The night ended. The sun's disc arose. Having performed their morning rites, all the ones rich in austerities reassembled. The maharshis did not tire of recounting repeatedly to Dyumatsena everything about Savitri's great glory. O king! Then all the subjects arrived from the land of Shalva and told the king about how his enemy had been slain by his own adviser. On learning that he had been killed by his minister, with his aides and well-wishers, they came and recounted everything that had happened. The soldiers of the enemy had run away. In unison, all the subjects had decided that he{194} should be their king. Irrespective of whether he possessed sight or did not have eyesight, he should be the king. They said that they had been dispatched to the king because of this decision. The vehicles had come and so had the four kinds of forces{195}. Therefore, now that his victory had been proclaimed in the city, they asked the fortunate king to leave, so that he might occupy the seat of his father and grandfathers for many nights. On seeing that the king now had sight and was healthy, all of them bowed their heads in subjugation, their eyes dilated with wonder.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The night ended. The sun's disc arose. Having performed their morning rites, all the ones rich in austerities reassembled. The maharshis did not tire of recounting repeatedly to Dyumatsena everything about Savitri's great glory. O king! Then all the subjects arrived from the land of Shalva and told the king about how his enemy had been slain by his own adviser. On learning that he had been killed by his minister, with his aides and well-wishers, they came and recounted everything that had happened. The soldiers of the enemy had run away. In unison, all the subjects had decided that he{194} should be their king. Irrespective of whether he possessed sight or did not have eyesight, he should be the king. They said that they had been dispatched to the king because of this decision. The vehicles had come and so had the four kinds of forces{195}. Therefore, now that his victory had been proclaimed in the city, they asked the fortunate king to leave, so that he might occupy the seat of his father and grandfathers for many nights. On seeing that the king now had sight and was healthy, all of them bowed their heads in subjugation, their eyes dilated with wonder.",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The king then greeted all the aged brahmanas who lived in the hermitage. All of them honoured him and he left for the city. Shaibya left, in Savitri's company. They were in a decorated and radiant palanquin that was pulled by men and was surrounded by soldiers. The priests happily instated Dyumatsena and instated his great-souled son as the heir apparent{196}. Over a long period of time, Savitri gave birth to a hundred sons. They were brave, never retreated from battle and extended her fame. She also had one hundred extremely powerful brothers. They were begotten by Ashvapati, king of the Madras, on Malavi. Thus Savitri saved all of them from the misfortune that had arisen—herself, her father, her mother, her mother-in-law, her father-in-law, her husband and the entire lineage. In that fashion, the fortunate Droupadi, honoured because of her good conduct, will deliver all of you, like Savitri, born from a noble lineage.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The king then greeted all the aged brahmanas who lived in the hermitage. All of them honoured him and he left for the city. Shaibya left, in Savitri's company. They were in a decorated and radiant palanquin that was pulled by men and was surrounded by soldiers. The priests happily instated Dyumatsena and instated his great-souled son as the heir apparent{196}. Over a long period of time, Savitri gave birth to a hundred sons. They were brave, never retreated from battle and extended her fame. She also had one hundred extremely powerful brothers. They were begotten by Ashvapati, king of the Madras, on Malavi. Thus Savitri saved all of them from the misfortune that had arisen—herself, her father, her mother, her mother-in-law, her father-in-law, her husband and the entire lineage. In that fashion, the fortunate Droupadi, honoured because of her good conduct, will deliver all of you, like Savitri, born from a noble lineage.”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘O king! Thus instructed by that great-souled one{197}, the Pandavas lost their sorrow and their fever and continued to live in Kamyaka.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘O king! Thus instructed by that great-souled one{197}, the Pandavas lost their sorrow and their fever and continued to live in Kamyaka.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Sabha Parva",
+  "subparva_number": 20,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 429
+  },
+  "note": "The name of the first section within this parva is also the same as the name of the parva. The word sabha having already been explained. 226 (1) Vaishampayana said, 'In Vasudeva�s presence, Maya joined his hands as a sign of respect and repeatedly worship-ping him, spoke to Partha in ?attering words, �O Kounteya! You have saved me from the angry Krishna and the fire that desired to consume me. Please tell me what I can do for you.� Arjuna replied, �O great asura! You have done everything and can leave in peace. May you always be friendly towards us and may we always be friendly towards you.� Maya said, �O illustrious one! O bull among men! What you have said is deserving of you. O de-scendant of the Bharata lineage! But as a token of my affection, I wish to do something for you. I am extremely wise, the Vishvakarma of the danavas. O Pandava! Therefore, I wish to do something for you.� Arjuna replied, �You think that I have saved your life from instant death. But if that is the case, I cannot ask you to do anything. O Danava! But I do not wish to stand in the way of your resolution either. Therefore, do something for Krishna and that will be tantamount to doing something for me.� O bull among the Bharata lineage! Thus urged by Maya, Va-sudeva thought for an instant about what might be done for him. Having thought, Krishna said, �O Daitya! Build a wonderful assembly hall for Dharmaraja that you think to be worthy of him, so that no one from the world of men can construct an assembly hall that is its equal, even as they gaze at it amazed. O Maya! Build an assembly hall in which we will see the designs1 of the gods, asuras and humans.� Having heard these words, Maya was delighted. He drew up a design for an assembly hall for the Pandavas that was like a vimana.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "226": {
+      "chapter_number": 226,
+      "global_number": 226,
+      "local_number": 1,
+      "num_shlokas": 19,
+      "file": "subparva_20_sabha_parva/chapter_226_tagged.json"
+    },
+    "227": {
+      "chapter_number": 227,
+      "global_number": 227,
+      "local_number": 2,
+      "num_shlokas": 23,
+      "file": "subparva_20_sabha_parva/chapter_227_tagged.json"
+    },
+    "228": {
+      "chapter_number": 228,
+      "global_number": 228,
+      "local_number": 3,
+      "num_shlokas": 34,
+      "file": "subparva_20_sabha_parva/chapter_228_tagged.json"
+    },
+    "229": {
+      "chapter_number": 229,
+      "global_number": 229,
+      "local_number": 4,
+      "num_shlokas": 34,
+      "file": "subparva_20_sabha_parva/chapter_229_tagged.json"
+    },
+    "230": {
+      "chapter_number": 230,
+      "global_number": 230,
+      "local_number": 5,
+      "num_shlokas": 116,
+      "file": "subparva_20_sabha_parva/chapter_230_tagged.json"
+    },
+    "231": {
+      "chapter_number": 231,
+      "global_number": 231,
+      "local_number": 6,
+      "num_shlokas": 18,
+      "file": "subparva_20_sabha_parva/chapter_231_tagged.json"
+    },
+    "232": {
+      "chapter_number": 232,
+      "global_number": 232,
+      "local_number": 7,
+      "num_shlokas": 26,
+      "file": "subparva_20_sabha_parva/chapter_232_tagged.json"
+    },
+    "233": {
+      "chapter_number": 233,
+      "global_number": 233,
+      "local_number": 8,
+      "num_shlokas": 38,
+      "file": "subparva_20_sabha_parva/chapter_233_tagged.json"
+    },
+    "234": {
+      "chapter_number": 234,
+      "global_number": 234,
+      "local_number": 9,
+      "num_shlokas": 25,
+      "file": "subparva_20_sabha_parva/chapter_234_tagged.json"
+    },
+    "235": {
+      "chapter_number": 235,
+      "global_number": 235,
+      "local_number": 10,
+      "num_shlokas": 23,
+      "file": "subparva_20_sabha_parva/chapter_235_tagged.json"
+    },
+    "236": {
+      "chapter_number": 236,
+      "global_number": 236,
+      "local_number": 11,
+      "num_shlokas": 73,
+      "file": "subparva_20_sabha_parva/chapter_236_tagged.json"
+    }
+  }
+}

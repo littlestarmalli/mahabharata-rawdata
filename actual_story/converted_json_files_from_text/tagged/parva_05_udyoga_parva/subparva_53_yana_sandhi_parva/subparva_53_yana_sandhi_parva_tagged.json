@@ -1,0 +1,191 @@
+{
+  "name": "Yana-Sandhi Parva",
+  "subparva_number": 53,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 24,
+    "num_shlokas": 726
+  },
+  "note": "This section had 726 shlokas and twenty-four chapters. Yana means moving or journey as a verb and conveyance as a noun. Sandhi means both connection and peace or alliance. So the name of this parva can be interpreted in two different ways, and both are correct. First, there is the straightforward meaning of a journey (Sanjaya�s) for peace. Second, this section is the connecting section between two separate journeys, Sanjaya�s and Krishna�s. Sanjaya conveys Arjuna�s message and there is a discussion in the assembly of the Kurus. Karna refuses to fight until Bhishma has fallen. The section ends inconclusively, with a refer-ence to Krishna�s impending mission.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "709": {
+      "chapter_number": 709,
+      "global_number": 709,
+      "local_number": 46,
+      "num_shlokas": 17,
+      "file": "subparva_53_yana_sandhi_parva/chapter_709_tagged.json"
+    },
+    "710": {
+      "chapter_number": 710,
+      "global_number": 710,
+      "local_number": 47,
+      "num_shlokas": 103,
+      "file": "subparva_53_yana_sandhi_parva/chapter_710_tagged.json"
+    },
+    "711": {
+      "chapter_number": 711,
+      "global_number": 711,
+      "local_number": 48,
+      "num_shlokas": 47,
+      "file": "subparva_53_yana_sandhi_parva/chapter_711_tagged.json"
+    },
+    "712": {
+      "chapter_number": 712,
+      "global_number": 712,
+      "local_number": 49,
+      "num_shlokas": 45,
+      "file": "subparva_53_yana_sandhi_parva/chapter_712_tagged.json"
+    },
+    "713": {
+      "chapter_number": 713,
+      "global_number": 713,
+      "local_number": 50,
+      "num_shlokas": 61,
+      "file": "subparva_53_yana_sandhi_parva/chapter_713_tagged.json"
+    },
+    "714": {
+      "chapter_number": 714,
+      "global_number": 714,
+      "local_number": 51,
+      "num_shlokas": 19,
+      "file": "subparva_53_yana_sandhi_parva/chapter_714_tagged.json"
+    },
+    "715": {
+      "chapter_number": 715,
+      "global_number": 715,
+      "local_number": 52,
+      "num_shlokas": 16,
+      "file": "subparva_53_yana_sandhi_parva/chapter_715_tagged.json"
+    },
+    "716": {
+      "chapter_number": 716,
+      "global_number": 716,
+      "local_number": 53,
+      "num_shlokas": 19,
+      "file": "subparva_53_yana_sandhi_parva/chapter_716_tagged.json"
+    },
+    "717": {
+      "chapter_number": 717,
+      "global_number": 717,
+      "local_number": 54,
+      "num_shlokas": 66,
+      "file": "subparva_53_yana_sandhi_parva/chapter_717_tagged.json"
+    },
+    "718": {
+      "chapter_number": 718,
+      "global_number": 718,
+      "local_number": 55,
+      "num_shlokas": 16,
+      "file": "subparva_53_yana_sandhi_parva/chapter_718_tagged.json"
+    },
+    "719": {
+      "chapter_number": 719,
+      "global_number": 719,
+      "local_number": 56,
+      "num_shlokas": 60,
+      "file": "subparva_53_yana_sandhi_parva/chapter_719_tagged.json"
+    },
+    "720": {
+      "chapter_number": 720,
+      "global_number": 720,
+      "local_number": 57,
+      "num_shlokas": 29,
+      "file": "subparva_53_yana_sandhi_parva/chapter_720_tagged.json"
+    },
+    "721": {
+      "chapter_number": 721,
+      "global_number": 721,
+      "local_number": 58,
+      "num_shlokas": 30,
+      "file": "subparva_53_yana_sandhi_parva/chapter_721_tagged.json"
+    },
+    "722": {
+      "chapter_number": 722,
+      "global_number": 722,
+      "local_number": 59,
+      "num_shlokas": 23,
+      "file": "subparva_53_yana_sandhi_parva/chapter_722_tagged.json"
+    },
+    "723": {
+      "chapter_number": 723,
+      "global_number": 723,
+      "local_number": 60,
+      "num_shlokas": 29,
+      "file": "subparva_53_yana_sandhi_parva/chapter_723_tagged.json"
+    },
+    "724": {
+      "chapter_number": 724,
+      "global_number": 724,
+      "local_number": 61,
+      "num_shlokas": 18,
+      "file": "subparva_53_yana_sandhi_parva/chapter_724_tagged.json"
+    },
+    "725": {
+      "chapter_number": 725,
+      "global_number": 725,
+      "local_number": 62,
+      "num_shlokas": 31,
+      "file": "subparva_53_yana_sandhi_parva/chapter_725_tagged.json"
+    },
+    "726": {
+      "chapter_number": 726,
+      "global_number": 726,
+      "local_number": 63,
+      "num_shlokas": 16,
+      "file": "subparva_53_yana_sandhi_parva/chapter_726_tagged.json"
+    },
+    "727": {
+      "chapter_number": 727,
+      "global_number": 727,
+      "local_number": 64,
+      "num_shlokas": 15,
+      "file": "subparva_53_yana_sandhi_parva/chapter_727_tagged.json"
+    },
+    "728": {
+      "chapter_number": 728,
+      "global_number": 728,
+      "local_number": 65,
+      "num_shlokas": 9,
+      "file": "subparva_53_yana_sandhi_parva/chapter_728_tagged.json"
+    },
+    "729": {
+      "chapter_number": 729,
+      "global_number": 729,
+      "local_number": 66,
+      "num_shlokas": 15,
+      "file": "subparva_53_yana_sandhi_parva/chapter_729_tagged.json"
+    },
+    "730": {
+      "chapter_number": 730,
+      "global_number": 730,
+      "local_number": 67,
+      "num_shlokas": 21,
+      "file": "subparva_53_yana_sandhi_parva/chapter_730_tagged.json"
+    },
+    "731": {
+      "chapter_number": 731,
+      "global_number": 731,
+      "local_number": 68,
+      "num_shlokas": 14,
+      "file": "subparva_53_yana_sandhi_parva/chapter_731_tagged.json"
+    },
+    "732": {
+      "chapter_number": 732,
+      "global_number": 732,
+      "local_number": 69,
+      "num_shlokas": 7,
+      "file": "subparva_53_yana_sandhi_parva/chapter_732_tagged.json"
+    }
+  }
+}

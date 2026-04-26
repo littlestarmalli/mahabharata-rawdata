@@ -1,0 +1,108 @@
+{
+  "chapter": 12,
+  "local": 12,
+  "shlokas": 5,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Ruru said, “O supreme among the Brahmanas! Why did King Janamejaya cause violence to the snakes and how did he destroy them? O best of the Brahmanas! Why were the snakes saved by the wise Astika? I wish to hear all this.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Ruru said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ruru",
+          "introduces_label": "Ruru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O supreme among the Brahmanas! Why did King Janamejaya cause violence to the snakes and how did he destroy them? O best of the Brahmanas! Why were the snakes saved by the wise Astika? I wish to hear all this.”",
+          "speaker": "@ruru",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘The sage said, “O Ruru! You will hear the great history of Astika from a Brahmana who will recount it.” Saying this, he vanished.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘The sage said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_sage",
+          "introduces_label": "The sage",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Ruru! You will hear the great history of Astika from a Brahmana who will recount it.”",
+          "speaker": "the_sage",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Saying this, he vanished.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘Ruru rushed to look for the rishi, but could not ﬁnd him anywhere in the forest. Not ﬁnding him, he was tired and fell down on the ground. Regaining his senses, he returned home and asked his father. On his asking, his father told him the entire story.’",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Ruru rushed to look for the rishi, but could not ﬁnd him anywhere in the forest. Not ﬁnding him, he was tired and fell down on the ground. Regaining his senses, he returned home and asked his father. On his asking, his father told him the entire story.’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

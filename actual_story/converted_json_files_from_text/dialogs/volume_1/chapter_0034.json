@@ -1,0 +1,232 @@
+{
+  "chapter": 34,
+  "local": 34,
+  "shlokas": 18,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Souti said, ‘Having heard what all the snakes and Vasuki had to say, Elapatra said, “This sacriﬁce is certain. The Pandava, King Janamejaya, from whom great terror for us results, is also certain. O king{114}! One who is afﬂicted by destiny can ﬁnd a remedy in destiny alone. There can be no other recourse. O best of the snakes! The source of our danger is destiny. Therefore, it is only destiny that can be our refuge. Listen to my words. O best of the snakes! When that curse was imposed, I was frightened and climbed up into my mother's lap. O best of the snakes! O immensely radiant lord! From there, I heard the sorrowful gods speak to the grandfather.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Souti said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@ugrasrava",
+          "introduces_label": "Souti",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard what all the snakes and Vasuki had to say, Elapatra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@elapatra",
+          "introduces_label": "Elapatra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“This sacriﬁce is certain. The Pandava, King Janamejaya, from whom great terror for us results, is also certain. O king{114}! One who is afﬂicted by destiny can ﬁnd a remedy in destiny alone. There can be no other recourse. O best of the snakes! The source of our danger is destiny. Therefore, it is only destiny that can be our refuge. Listen to my words. O best of the snakes! When that curse was imposed, I was frightened and climbed up into my mother's lap. O best of the snakes! O immensely radiant lord! From there, I heard the sorrowful gods speak to the grandfather.",
+          "speaker": "@elapatra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gods said, ‘O grandfather! O god of the gods! Who but the harsh Kadru, having borne such beloved children, can curse them in this way and in front of you too? O grandfather! And you also approved of her curse. We wish to know why she was not stopped.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gods said, ",
+          "speaker": "@elapatra",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O grandfather! O god of the gods! Who but the harsh Kadru, having borne such beloved children, can curse them in this way and in front of you too? O grandfather! And you also approved of her curse. We wish to know why she was not stopped.’",
+          "speaker": "the_gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brahma said, ‘The snakes have become numerous. They are cruel, terrible in valour and full of poison. Because of the welfare of all other creatures, I did not prevent Kadru. The snakes which are destined to be destroyed are poisonous ones that have a propensity to bite, those that bite for little reason, the mean and evil ones, not snakes that follow dharma. Hear how those snakes can escape from that terrible danger when the time comes. In the line of the Yayavaras, there will be born a great rishi, intelligent, austere and self-controlled, who will be known by the name of Jaratkaru. That Jaratkaru will have a son named Astika, who will also be blessed by the power of austerities. He will bring an end to the sacriﬁce and snakes who are virtuous will escape.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brahma said, ",
+          "speaker": "@elapatra",
+          "introduces": "@brahma",
+          "introduces_label": "Brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The snakes have become numerous. They are cruel, terrible in valour and full of poison. Because of the welfare of all other creatures, I did not prevent Kadru. The snakes which are destined to be destroyed are poisonous ones that have a propensity to bite, those that bite for little reason, the mean and evil ones, not snakes that follow dharma. Hear how those snakes can escape from that terrible danger when the time comes. In the line of the Yayavaras, there will be born a great rishi, intelligent, austere and self-controlled, who will be known by the name of Jaratkaru. That Jaratkaru will have a son named Astika, who will also be blessed by the power of austerities. He will bring an end to the sacriﬁce and snakes who are virtuous will escape.’",
+          "speaker": "@brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The gods asked, ‘O god! On whom will Jaratkaru, foremost among sages and gifted with great powers of asceticism, beget that great-souled and powerful son?’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The gods asked, ",
+          "speaker": "@elapatra",
+          "introduces": "the_gods",
+          "introduces_label": "The gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O god! On whom will Jaratkaru, foremost among sages and gifted with great powers of asceticism, beget that great-souled and powerful son?’",
+          "speaker": "the_gods",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“Brahma said, ‘O gods! The powerful one, the best of the Brahmanas, will beget a powerful son on a woman who will have the same name as his own.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Brahma said, ",
+          "speaker": "@elapatra",
+          "introduces": "@brahma",
+          "introduces_label": "Brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O gods! The powerful one, the best of the Brahmanas, will beget a powerful son on a woman who will have the same name as his own.”",
+          "speaker": "@brahma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "’",
+          "speaker": "@elapatra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Elapatra said, “The gods agreed with the grandfather that it would happen that way. The gods went away and so did the grandfather God. O Vasuki! I see before me your sister, who bears the name of Jaratkaru. Give her as alms to the rishi of rigid vows when he comes looking for alms, so that this great danger to the snakes may be paciﬁed. I have heard that this is the means of escape.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Elapatra said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@elapatra",
+          "introduces_label": "Elapatra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The gods agreed with the grandfather that it would happen that way. The gods went away and so did the grandfather God. O Vasuki! I see before me your sister, who bears the name of Jaratkaru. Give her as alms to the rishi of rigid vows when he comes looking for alms, so that this great danger to the snakes may be paciﬁed. I have heard that this is the means of escape.”",
+          "speaker": "@elapatra",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

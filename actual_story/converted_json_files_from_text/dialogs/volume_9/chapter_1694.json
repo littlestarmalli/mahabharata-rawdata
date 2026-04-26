@@ -1,0 +1,79 @@
+{
+  "chapter": 1694,
+  "local": 13,
+  "shlokas": 6,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “If a man desires beneﬁt in this progress through the world, what should he do? In this journey through the world, what kind of conduct should he follow?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“If a man desires beneﬁt in this progress through the world, what should he do? In this journey through the world, what kind of conduct should he follow?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “Three kinds of deeds done with the body, four kinds done with speech and three types done with the mind—these ten kinds of deeds should be avoided. Destruction of life, theft and intercourse with someone else's wife—these three kinds of wicked deeds done with the body should be avoided. O Indra among kings! Evil conversation, harsh words, calumny and falsehood—one should not think of committing these four kinds of sin with speech. Not desiring the possessions of others, affection towards all creatures and belief that deeds lead to fruits—these are the three that must be followed with the mind. With words, body or the mind, a man must not perform any sinful deeds. Depending on whether one performs good or bad deeds, one obtains the fruits.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Three kinds of deeds done with the body, four kinds done with speech and three types done with the mind—these ten kinds of deeds should be avoided. Destruction of life, theft and intercourse with someone else's wife—these three kinds of wicked deeds done with the body should be avoided. O Indra among kings! Evil conversation, harsh words, calumny and falsehood—one should not think of committing these four kinds of sin with speech. Not desiring the possessions of others, affection towards all creatures and belief that deeds lead to fruits—these are the three that must be followed with the mind. With words, body or the mind, a man must not perform any sinful deeds. Depending on whether one performs good or bad deeds, one obtains the fruits.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

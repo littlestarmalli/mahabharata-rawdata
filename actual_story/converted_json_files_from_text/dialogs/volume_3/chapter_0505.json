@@ -1,0 +1,47 @@
+{
+  "chapter": 505,
+  "local": 208,
+  "shlokas": 8,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Markandeya said, “O extender of the Kuru lineage! Brahma's third son had Apava's daughter as a wife{189}. O king! Listen to the account of his offspring—Brihajjyoti, Brihatkirti, Brihadbrahma, Brihanmana, Brihanmantra, Brihadbhasa and Brihaspati. The ﬁrst daughter of Angiras was the goddess Bhanumati. Among all his offspring, she was unmatched in beauty. Angira'ss second daughter was named Raga. She was loved by all beings and that was the reason she was known as Raga{190}. Angira'ss third daughter was Sinivali. Her form was thin and her body was sometimes seen and sometimes not seen. So it was said that she was like Kapardin's daughter{191}. Then Archismati was seen with her radiance and Havismati with her oblations. Angira'ss sixth sacred daughter was named Mahishmati. The seventh of Angira'ss daughters was Mahamati. She was radiant and was honoured at great sacriﬁces. This seventh daughter, Mahamati, was renowned. On seeing another immensely fortunate daughter, people wonderingly exclaimed that she was one and could not be divided. She was given the name of Kuhu{192}.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Markandeya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@markandeya",
+          "introduces_label": "Markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O extender of the Kuru lineage! Brahma's third son had Apava's daughter as a wife{189}. O king! Listen to the account of his offspring—Brihajjyoti, Brihatkirti, Brihadbrahma, Brihanmana, Brihanmantra, Brihadbhasa and Brihaspati. The ﬁrst daughter of Angiras was the goddess Bhanumati. Among all his offspring, she was unmatched in beauty. Angira'ss second daughter was named Raga. She was loved by all beings and that was the reason she was known as Raga{190}. Angira'ss third daughter was Sinivali. Her form was thin and her body was sometimes seen and sometimes not seen. So it was said that she was like Kapardin's daughter{191}. Then Archismati was seen with her radiance and Havismati with her oblations. Angira'ss sixth sacred daughter was named Mahishmati. The seventh of Angira'ss daughters was Mahamati. She was radiant and was honoured at great sacriﬁces. This seventh daughter, Mahamati, was renowned. On seeing another immensely fortunate daughter, people wonderingly exclaimed that she was one and could not be divided. She was given the name of Kuhu{192}.”",
+          "speaker": "@markandeya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

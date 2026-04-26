@@ -1,0 +1,79 @@
+{
+  "chapter": 1390,
+  "local": 62,
+  "shlokas": 11,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Yudhishthira asked, “Tell me about what is auspicious, brings great happiness, is without violence and is revered by the worlds. What can bring dharma and happiness and also lead to happiness for those like me?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Tell me about what is auspicious, brings great happiness, is without violence and is revered by the worlds. What can bring dharma and happiness and also lead to happiness for those like me?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Bhishma replied, “O lord! Those four ashramas have been laid down for brahmanas. O supreme among the Bharata lineage! The other three varnas also follow them. O king! There are many tasks that have been indicated for kings who wish to attain heaven. But what has been indicated in the sacred texts is not a mere list of examples. It is recommended that all kshatriyas should follow this. A brahmana who follows the conduct of kshatriyas, vaishyas or shudras is regarded as evil in intelligence and censured in this world. He goes to hell in the next world. O Pandava! People give a brahmana who is engaged in wrong tasks names identiﬁed with slaves, dogs, wolves and animals. A brahmana who is engaged in the six tasks, follows all the dharmas in the four ashramas, is controlled and has cleansed his soul, is pure and engaged in austerities and is without desire—is spoken of as having obtained the eternal worlds. Whatever tasks a person performs, in whatever form and in whichever place, the qualities that he obtains are exactly proportionate to that. O Indra among kings! You should know that the prosperity associated with studying is reckoned to be greater than that obtained through agriculture, trade and animal husbandry. Destiny is driven by time. Everything is determined by the progress of destiny. Under its subjugation, superior, middling and inferior tasks are performed. Some earlier beneﬁcial deeds come to an end{632}. In every direction in the world, it is the brahman who is always engaged in its work.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma replied, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord! Those four ashramas have been laid down for brahmanas. O supreme among the Bharata lineage! The other three varnas also follow them. O king! There are many tasks that have been indicated for kings who wish to attain heaven. But what has been indicated in the sacred texts is not a mere list of examples. It is recommended that all kshatriyas should follow this. A brahmana who follows the conduct of kshatriyas, vaishyas or shudras is regarded as evil in intelligence and censured in this world. He goes to hell in the next world. O Pandava! People give a brahmana who is engaged in wrong tasks names identiﬁed with slaves, dogs, wolves and animals. A brahmana who is engaged in the six tasks, follows all the dharmas in the four ashramas, is controlled and has cleansed his soul, is pure and engaged in austerities and is without desire—is spoken of as having obtained the eternal worlds. Whatever tasks a person performs, in whatever form and in whichever place, the qualities that he obtains are exactly proportionate to that. O Indra among kings! You should know that the prosperity associated with studying is reckoned to be greater than that obtained through agriculture, trade and animal husbandry. Destiny is driven by time. Everything is determined by the progress of destiny. Under its subjugation, superior, middling and inferior tasks are performed. Some earlier beneﬁcial deeds come to an end{632}. In every direction in the world, it is the brahman who is always engaged in its work.”",
+          "speaker": "@bhishma",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

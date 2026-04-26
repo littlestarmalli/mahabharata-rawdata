@@ -1,0 +1,86 @@
+{
+  "name": "Prajagara Parva",
+  "subparva_number": 51,
+  "source_volume": 4,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 541
+  },
+  "note": "Prajagara means sleeplessness, lying awake at night. This parva is so named because Dhritarashtra cannot sleep at night. He still does not know Yudhishthira�s message and summons Vidura. Vidura advises Dhritarashtra.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "696": {
+      "chapter_number": 696,
+      "global_number": 696,
+      "local_number": 33,
+      "num_shlokas": 104,
+      "file": "subparva_51_prajagara_parva/chapter_696_tagged.json"
+    },
+    "697": {
+      "chapter_number": 697,
+      "global_number": 697,
+      "local_number": 34,
+      "num_shlokas": 83,
+      "file": "subparva_51_prajagara_parva/chapter_697_tagged.json"
+    },
+    "698": {
+      "chapter_number": 698,
+      "global_number": 698,
+      "local_number": 35,
+      "num_shlokas": 67,
+      "file": "subparva_51_prajagara_parva/chapter_698_tagged.json"
+    },
+    "699": {
+      "chapter_number": 699,
+      "global_number": 699,
+      "local_number": 36,
+      "num_shlokas": 72,
+      "file": "subparva_51_prajagara_parva/chapter_699_tagged.json"
+    },
+    "700": {
+      "chapter_number": 700,
+      "global_number": 700,
+      "local_number": 37,
+      "num_shlokas": 60,
+      "file": "subparva_51_prajagara_parva/chapter_700_tagged.json"
+    },
+    "701": {
+      "chapter_number": 701,
+      "global_number": 701,
+      "local_number": 38,
+      "num_shlokas": 44,
+      "file": "subparva_51_prajagara_parva/chapter_701_tagged.json"
+    },
+    "702": {
+      "chapter_number": 702,
+      "global_number": 702,
+      "local_number": 39,
+      "num_shlokas": 70,
+      "file": "subparva_51_prajagara_parva/chapter_702_tagged.json"
+    },
+    "703": {
+      "chapter_number": 703,
+      "global_number": 703,
+      "local_number": 40,
+      "num_shlokas": 30,
+      "file": "subparva_51_prajagara_parva/chapter_703_tagged.json"
+    },
+    "704": {
+      "chapter_number": 704,
+      "global_number": 704,
+      "local_number": 41,
+      "num_shlokas": 11,
+      "file": "subparva_51_prajagara_parva/chapter_704_tagged.json"
+    }
+  }
+}

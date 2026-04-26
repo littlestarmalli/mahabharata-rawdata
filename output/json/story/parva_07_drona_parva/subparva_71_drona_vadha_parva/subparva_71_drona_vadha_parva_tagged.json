@@ -1,0 +1,100 @@
+{
+  "name": "Drona-vadha Parva",
+  "subparva_number": 71,
+  "source_volume": 6,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 692
+  },
+  "note": "This section is named after the death or killing of Drona. The fight continues in the night and day dawns on the fifteenth day of the war. Drona kills three of Drupada�s grandsons and Drupada and Virata. He causes great destruction. Bhima kills an elephant named Ashvatthama and Bhima and Yudhishthira tell Drona that Ashvatthama has been killed. When Drona casts aside his weapons, he is killed by Dhrishtadyumna and Ashvatthama is told the news. CHAPTER 1132(155)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1132": {
+      "chapter_number": 1132,
+      "global_number": 1132,
+      "local_number": 155,
+      "num_shlokas": 30,
+      "file": "subparva_71_drona_vadha_parva/chapter_1132_tagged.json"
+    },
+    "1133": {
+      "chapter_number": 1133,
+      "global_number": 1133,
+      "local_number": 156,
+      "num_shlokas": 33,
+      "file": "subparva_71_drona_vadha_parva/chapter_1133_tagged.json"
+    },
+    "1134": {
+      "chapter_number": 1134,
+      "global_number": 1134,
+      "local_number": 157,
+      "num_shlokas": 44,
+      "file": "subparva_71_drona_vadha_parva/chapter_1134_tagged.json"
+    },
+    "1135": {
+      "chapter_number": 1135,
+      "global_number": 1135,
+      "local_number": 158,
+      "num_shlokas": 62,
+      "file": "subparva_71_drona_vadha_parva/chapter_1135_tagged.json"
+    },
+    "1136": {
+      "chapter_number": 1136,
+      "global_number": 1136,
+      "local_number": 159,
+      "num_shlokas": 50,
+      "file": "subparva_71_drona_vadha_parva/chapter_1136_tagged.json"
+    },
+    "1137": {
+      "chapter_number": 1137,
+      "global_number": 1137,
+      "local_number": 160,
+      "num_shlokas": 37,
+      "file": "subparva_71_drona_vadha_parva/chapter_1137_tagged.json"
+    },
+    "1138": {
+      "chapter_number": 1138,
+      "global_number": 1138,
+      "local_number": 161,
+      "num_shlokas": 51,
+      "file": "subparva_71_drona_vadha_parva/chapter_1138_tagged.json"
+    },
+    "1139": {
+      "chapter_number": 1139,
+      "global_number": 1139,
+      "local_number": 162,
+      "num_shlokas": 52,
+      "file": "subparva_71_drona_vadha_parva/chapter_1139_tagged.json"
+    },
+    "1140": {
+      "chapter_number": 1140,
+      "global_number": 1140,
+      "local_number": 163,
+      "num_shlokas": 49,
+      "file": "subparva_71_drona_vadha_parva/chapter_1140_tagged.json"
+    },
+    "1141": {
+      "chapter_number": 1141,
+      "global_number": 1141,
+      "local_number": 164,
+      "num_shlokas": 159,
+      "file": "subparva_71_drona_vadha_parva/chapter_1141_tagged.json"
+    },
+    "1142": {
+      "chapter_number": 1142,
+      "global_number": 1142,
+      "local_number": 165,
+      "num_shlokas": 125,
+      "file": "subparva_71_drona_vadha_parva/chapter_1142_tagged.json"
+    }
+  }
+}

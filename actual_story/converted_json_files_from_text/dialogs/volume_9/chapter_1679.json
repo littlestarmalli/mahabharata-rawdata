@@ -1,0 +1,90 @@
+{
+  "chapter": 1679,
+  "local": 351,
+  "shlokas": 6,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘“Surya said, ‘O friend! This is not the wind god, an asura or a serpent. This is a sage who has gone to heaven because he has become successful through the vow and conduct of unchha. This brahmana controlled himself and subsisted on roots and fruits. He ate dry leaves. He did not eat, or subsisted only on air. The brahmana obtained favours by reciting hymns from the Rig Veda Samhita. His acts opened the doors to heaven and he went to heaven. O serpent! He was restless in his desire, but he possessed fortitude. He always subsisted only on unchha. This brahmana was always engaged in the welfare of all beings. He was not a god, a gandharva, an asura, or a serpent. But because he was powerful among beings, he obtained the supreme objective.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“Surya said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@surya",
+          "introduces_label": "Surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O friend! This is not the wind god, an asura or a serpent. This is a sage who has gone to heaven because he has become successful through the vow and conduct of unchha. This brahmana controlled himself and subsisted on roots and fruits. He ate dry leaves. He did not eat, or subsisted only on air. The brahmana obtained favours by reciting hymns from the Rig Veda Samhita. His acts opened the doors to heaven and he went to heaven. O serpent! He was restless in his desire, but he possessed fortitude. He always subsisted only on unchha. This brahmana was always engaged in the welfare of all beings. He was not a god, a gandharva, an asura, or a serpent. But because he was powerful among beings, he obtained the supreme objective.’",
+          "speaker": "@surya",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The serpent said, ‘O brahmana! Such was the wonder that I witnessed. He obtained success in his human form and obtained the destination meant for those who are successful. O brahmana! With Surya, he circles around the earth.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The serpent said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "the_serpent",
+          "introduces_label": "The serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O brahmana! Such was the wonder that I witnessed. He obtained success in his human form and obtained the destination meant for those who are successful. O brahmana! With Surya, he circles around the earth.’",
+          "speaker": "the_serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

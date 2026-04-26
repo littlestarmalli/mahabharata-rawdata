@@ -1,0 +1,33 @@
+{
+  "name": "Sauptika Parva",
+  "parva_number": 10,
+  "details": {
+    "num_subparvas": 2,
+    "num_chapters": 18,
+    "num_shlokas": 772
+  },
+  "subparvas": {
+    "78": {
+      "subparva_number": 78,
+      "name": "Souptika Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 9,
+        "num_shlokas": 515
+      },
+      "note": "Souptika Parva refers to incidents that take place during the night. The word supta is used both as a noun and an adjective and, in this context, means events that take place when people are asleep. The parva is named accord-ingly. In the 18-parva classification, Souptika Parva is the tenth. In the 100-parva classification, Souptika Parva constitutes Sections 78 to 79. Souptika Parva is a short parva and only has eighteen chapters. In the numbering of the chapters in Souptika Parva, the first number is a consecutive one, start-ing with the beginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within Souptika Parva. In the night, Ashvatthama sees an owl kill sleeping crows and decides that the Pandavas and Panchalas should be killed in the night, while they are asleep. Kripa and Kritavarma try to dissuade Ashvatthama, but fail. Ashvatthama worships Shiva and Shiva enters his body. Ashvatthama kills Dhrishtadyumna, Shikhandi, Uttamouja, Yudhamanyu, other Panchalas and Droupadi�s sons. This information is conveyed to Duryodhana and Duryo-dhana dies.",
+      "file": "parva_10_sauptika_parva/subparva_78_souptika_parva/subparva_78_souptika_parva.json"
+    },
+    "79": {
+      "subparva_number": 79,
+      "name": "Aishika Parva",
+      "source_volume": 8,
+      "details": {
+        "num_chapters": 9,
+        "num_shlokas": 257
+      },
+      "note": "It was clearly a later addition and sets out the background for the recital of the story and summarizes the main incidents, not once, but twice.",
+      "file": "parva_10_sauptika_parva/subparva_79_aishika_parva/subparva_79_aishika_parva.json"
+    }
+  }
+}

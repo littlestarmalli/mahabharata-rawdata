@@ -1,0 +1,76 @@
+{
+  "chapter": 251,
+  "local": 26,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘At the same time, the valorous Bhimasena took his leave from Dharmaraja and left for the eastern direction. That tiger among the Bharata lineage had with him a great circle of forces, capable of oppressing the enemy's kingdom. He marched out to increase the enemy's sorrow. Pandava, tiger among kings, ﬁrst went to the city of Panchala and used various means of conciliation to win the Panchalas over. Then that valorous one, bull among men, defeated the Gandakis and the Videhas{27} and after some time, went on to Dasharna{28}. There, King Sudharma of Dasharna performed a feat that makes one's hair stand up—he had a great duel with Bhima without any weapons{29}. On witnessing this deed, Bhimasena, the scorcher of enemies, made the immensely strong Sudharma the supreme general. O king! Bhima, terrible in valour, then marched towards the east and that large army seemed to make the earth tremble. O king! That warrior, strongest among the strong, defeated in battle Rochamana, the lord of Ashvamedha, and his younger brother. Without exerting terrible force in vanquishing him, the immensely valorous Kounteya{30}, descendant of the Kuru lineage, then conquered the eastern regions. He then went south to the great city of the Pulindas and conquered Sukumara and Sumitra, the lord of men. O Janamejaya! Then, on Dharmaraja's command, that bull among the Bharata lineage advanced on the immensely brave Shishupala.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘At the same time, the valorous Bhimasena took his leave from Dharmaraja and left for the eastern direction. That tiger among the Bharata lineage had with him a great circle of forces, capable of oppressing the enemy's kingdom. He marched out to increase the enemy's sorrow. Pandava, tiger among kings, ﬁrst went to the city of Panchala and used various means of conciliation to win the Panchalas over. Then that valorous one, bull among men, defeated the Gandakis and the Videhas{27} and after some time, went on to Dasharna{28}. There, King Sudharma of Dasharna performed a feat that makes one's hair stand up—he had a great duel with Bhima without any weapons{29}. On witnessing this deed, Bhimasena, the scorcher of enemies, made the immensely strong Sudharma the supreme general. O king! Bhima, terrible in valour, then marched towards the east and that large army seemed to make the earth tremble. O king! That warrior, strongest among the strong, defeated in battle Rochamana, the lord of Ashvamedha, and his younger brother. Without exerting terrible force in vanquishing him, the immensely valorous Kounteya{30}, descendant of the Kuru lineage, then conquered the eastern regions. He then went south to the great city of the Pulindas and conquered Sukumara and Sumitra, the lord of men. O Janamejaya! Then, on Dharmaraja's command, that bull among the Bharata lineage advanced on the immensely brave Shishupala.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Having heard of Pandava's{31} intention, the king of Chedi{32}, the scorcher of enemies, came out of his city and welcomed him. O great king! When the bulls among the Kuru and Chedi lineages met, they asked about the welfare of each other's lineages. O lord of the people! The king of Chedi then smilingly offered his kingdom and told Bhima, “O unblemished one! What do you wish to do?” Bhima then told him about Dharmaraja's wish and that lord of men acted accordingly{33}. O king! Bhima spent thirty nights there as Shishupala's guest. After that, he left with his army and his mounts.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having heard of Pandava's{31} intention, the king of Chedi{32}, the scorcher of enemies, came out of his city and welcomed him. O great king! When the bulls among the Kuru and Chedi lineages met, they asked about the welfare of each other's lineages. O lord of the people! The king of Chedi then smilingly offered his kingdom and told Bhima, ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O unblemished one! What do you wish to do?”",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Bhima then told him about Dharmaraja's wish and that lord of men acted accordingly{33}. O king! Bhima spent thirty nights there as Shishupala's guest. After that, he left with his army and his mounts.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}

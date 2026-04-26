@@ -1,0 +1,102 @@
+{
+  "chapter": 1675,
+  "local": 347,
+  "shlokas": 16,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "‘Bhishma said, “When those many lunar days were over{1381}, the serpent completed his task. He took Vivasvat's{1382} permission and returned to his own house. On seeing that he had arrived, his wife gave him water to clean his feet and performed other similar tasks. The virtuous one approached him and the serpent asked, ‘O fortunate one! I hope you have been attentive in tending to the gods and the guests, as used to be the case when I was here. I hope you followed the ordinances I told you about. The intelligence of women is not straightforward and is often false towards accomplishing an objective. O one with the excellent hips! I hope you have not violated the norms of dharma in my absence.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Bhishma said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@bhishma",
+          "introduces_label": "Bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“When those many lunar days were over{1381}, the serpent completed his task. He took Vivasvat's{1382} permission and returned to his own house. On seeing that he had arrived, his wife gave him water to clean his feet and performed other similar tasks. The virtuous one approached him and the serpent asked, ",
+          "speaker": "@bhishma",
+          "introduces": "the_serpent",
+          "introduces_label": "the serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘O fortunate one! I hope you have been attentive in tending to the gods and the guests, as used to be the case when I was here. I hope you followed the ordinances I told you about. The intelligence of women is not straightforward and is often false towards accomplishing an objective. O one with the excellent hips! I hope you have not violated the norms of dharma in my absence.’",
+          "speaker": "the_serpent",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 2,
+      "stack": [
+        "'",
+        "\""
+      ],
+      "text": "‘“The serpent's wife replied, ‘The duty of disciples is to serve the preceptor, that of brahmanas to be devoted to the Vedas, that of servants to follow the words of their master and that of kings to protect people. It is said that the dharma of kshatriyas is to protect all creatures and that of vaishyas is to support sacriﬁces and attend to guests. The task of shudras is to serve brahmanas, kshatriyas and vaishyas. O Indra among serpents! The dharma of householders is to be engaged in the welfare of all beings. Restrained diet and the constant observance of vows, in the proper order, are dharma. In particular, there is an association between dharma and the senses{1383}. Whom do I belong to? Where have I come from? Who am I? Who belongs to me? If a person is devoted to the state of pursuing moksha, it is necessary that he should always ask these questions. It is said that being devoted to the husband is the supreme dharma for a wife. O Indra among the serpents! I have learnt the truth about this through your instructions. You are always devoted to dharma and I also know about dharma. Why will I abandon the path of virtue and advance along an uneven road? O immensely fortunate one! There has been no decrease in the dharma with which I have worshipped the gods. I have always been attentively engaged in tending to the guests. Fifteen days ago, a brahmana arrived here. He desired to meet you and has not divulged his objective to me. He is waiting on the banks of the Gomati, anxious to meet you. The brahmana is rigid in his vows and is seated there, concentrated on the brahman. O Indra among serpents! O supreme among serpents! I paciﬁed him and told him that when you arrived before me, I would sent you to him. O immensely wise one! Having heard this, you should go there. O one who hears with the eyes{1384}! You should show yourself to him.’”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "‘“The serpent's wife replied, ",
+          "speaker": "@bhishma",
+          "introduces": "the_serpent's_wife",
+          "introduces_label": "The serpent's wife",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘The duty of disciples is to serve the preceptor, that of brahmanas to be devoted to the Vedas, that of servants to follow the words of their master and that of kings to protect people. It is said that the dharma of kshatriyas is to protect all creatures and that of vaishyas is to support sacriﬁces and attend to guests. The task of shudras is to serve brahmanas, kshatriyas and vaishyas. O Indra among serpents! The dharma of householders is to be engaged in the welfare of all beings. Restrained diet and the constant observance of vows, in the proper order, are dharma. In particular, there is an association between dharma and the senses{1383}. Whom do I belong to? Where have I come from? Who am I? Who belongs to me? If a person is devoted to the state of pursuing moksha, it is necessary that he should always ask these questions. It is said that being devoted to the husband is the supreme dharma for a wife. O Indra among the serpents! I have learnt the truth about this through your instructions. You are always devoted to dharma and I also know about dharma. Why will I abandon the path of virtue and advance along an uneven road? O immensely fortunate one! There has been no decrease in the dharma with which I have worshipped the gods. I have always been attentively engaged in tending to the guests. Fifteen days ago, a brahmana arrived here. He desired to meet you and has not divulged his objective to me. He is waiting on the banks of the Gomati, anxious to meet you. The brahmana is rigid in his vows and is seated there, concentrated on the brahman. O Indra among serpents! O supreme among serpents! I paciﬁed him and told him that when you arrived before me, I would sent you to him. O immensely wise one! Having heard this, you should go there. O one who hears with the eyes{1384}! You should show yourself to him.’",
+          "speaker": "the_serpent's_wife",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "”",
+          "speaker": "@bhishma",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@ugrasrava",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        }
+      ]
+    }
+  ]
+}

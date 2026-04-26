@@ -1,0 +1,86 @@
+{
+  "name": "Pratijna Parva",
+  "subparva_number": 68,
+  "source_volume": 6,
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 365
+  },
+  "note": "The word pratijna means vow or promise and this section is named after Arjuna�s vow to kill Jayadratha. There is no fighting in this section, the events transpiring between the night of the thirteenth day and the morning of the fourteenth. Arjuna obtains the pashupata weapon from Shiva. CHAPTER 1029(52)",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "1029": {
+      "chapter_number": 1029,
+      "global_number": 1029,
+      "local_number": 52,
+      "num_shlokas": 33,
+      "file": "subparva_68_pratijna_parva/chapter_1029_tagged.json"
+    },
+    "1030": {
+      "chapter_number": 1030,
+      "global_number": 1030,
+      "local_number": 53,
+      "num_shlokas": 56,
+      "file": "subparva_68_pratijna_parva/chapter_1030_tagged.json"
+    },
+    "1031": {
+      "chapter_number": 1031,
+      "global_number": 1031,
+      "local_number": 54,
+      "num_shlokas": 26,
+      "file": "subparva_68_pratijna_parva/chapter_1031_tagged.json"
+    },
+    "1032": {
+      "chapter_number": 1032,
+      "global_number": 1032,
+      "local_number": 55,
+      "num_shlokas": 40,
+      "file": "subparva_68_pratijna_parva/chapter_1032_tagged.json"
+    },
+    "1033": {
+      "chapter_number": 1033,
+      "global_number": 1033,
+      "local_number": 56,
+      "num_shlokas": 41,
+      "file": "subparva_68_pratijna_parva/chapter_1033_tagged.json"
+    },
+    "1034": {
+      "chapter_number": 1034,
+      "global_number": 1034,
+      "local_number": 57,
+      "num_shlokas": 81,
+      "file": "subparva_68_pratijna_parva/chapter_1034_tagged.json"
+    },
+    "1035": {
+      "chapter_number": 1035,
+      "global_number": 1035,
+      "local_number": 58,
+      "num_shlokas": 33,
+      "file": "subparva_68_pratijna_parva/chapter_1035_tagged.json"
+    },
+    "1036": {
+      "chapter_number": 1036,
+      "global_number": 1036,
+      "local_number": 59,
+      "num_shlokas": 21,
+      "file": "subparva_68_pratijna_parva/chapter_1036_tagged.json"
+    },
+    "1037": {
+      "chapter_number": 1037,
+      "global_number": 1037,
+      "local_number": 60,
+      "num_shlokas": 34,
+      "file": "subparva_68_pratijna_parva/chapter_1037_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Souptika Parva",
+  "subparva_number": 78,
+  "source_volume": 8,
+  "file_path": "output/volumes/volume_8_chapters.txt",
+  "details": {
+    "num_chapters": 9,
+    "num_shlokas": 515
+  },
+  "note": "Souptika Parva refers to incidents that take place during the night. The word supta is used both as a noun and an adjective and, in this context, means events that take place when people are asleep. The parva is named accord-ingly. In the 18-parva classification, Souptika Parva is the tenth. In the 100-parva classification, Souptika Parva constitutes Sections 78 to 79. Souptika Parva is a short parva and only has eighteen chapters. In the numbering of the chapters in Souptika Parva, the first number is a consecutive one, start-ing with the beginning of the Mahabharata. And the second number, within brackets, is the numbering of the chapter within Souptika Parva. In the night, Ashvatthama sees an owl kill sleeping crows and decides that the Pandavas and Panchalas should be killed in the night, while they are asleep. Kripa and Kritavarma try to dissuade Ashvatthama, but fail. Ashvatthama worships Shiva and Shiva enters his body. Ashvatthama kills Dhrishtadyumna, Shikhandi, Uttamouja, Yudhamanyu, other Panchalas and Droupadi�s sons. This information is conveyed to Duryodhana and Duryo-dhana dies.",
+  "chapters": {
+    "1284": {
+      "chapter_number": 1284,
+      "global_number": 1284,
+      "local_number": 1,
+      "num_shlokas": 66,
+      "file": "subparva_78_souptika_parva/chapter_1284.json"
+    },
+    "1285": {
+      "chapter_number": 1285,
+      "global_number": 1285,
+      "local_number": 2,
+      "num_shlokas": 33,
+      "file": "subparva_78_souptika_parva/chapter_1285.json"
+    },
+    "1286": {
+      "chapter_number": 1286,
+      "global_number": 1286,
+      "local_number": 3,
+      "num_shlokas": 35,
+      "file": "subparva_78_souptika_parva/chapter_1286.json"
+    },
+    "1287": {
+      "chapter_number": 1287,
+      "global_number": 1287,
+      "local_number": 4,
+      "num_shlokas": 33,
+      "file": "subparva_78_souptika_parva/chapter_1287.json"
+    },
+    "1288": {
+      "chapter_number": 1288,
+      "global_number": 1288,
+      "local_number": 5,
+      "num_shlokas": 38,
+      "file": "subparva_78_souptika_parva/chapter_1288.json"
+    },
+    "1289": {
+      "chapter_number": 1289,
+      "global_number": 1289,
+      "local_number": 6,
+      "num_shlokas": 34,
+      "file": "subparva_78_souptika_parva/chapter_1289.json"
+    },
+    "1290": {
+      "chapter_number": 1290,
+      "global_number": 1290,
+      "local_number": 7,
+      "num_shlokas": 66,
+      "file": "subparva_78_souptika_parva/chapter_1290.json"
+    },
+    "1291": {
+      "chapter_number": 1291,
+      "global_number": 1291,
+      "local_number": 8,
+      "num_shlokas": 151,
+      "file": "subparva_78_souptika_parva/chapter_1291.json"
+    },
+    "1292": {
+      "chapter_number": 1292,
+      "global_number": 1292,
+      "local_number": 9,
+      "num_shlokas": 59,
+      "file": "subparva_78_souptika_parva/chapter_1292.json"
+    }
+  }
+}

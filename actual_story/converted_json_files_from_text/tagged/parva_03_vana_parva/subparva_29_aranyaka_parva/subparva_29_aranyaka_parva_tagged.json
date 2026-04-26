@@ -1,0 +1,100 @@
+{
+  "name": "Aranyaka Parva",
+  "subparva_number": 29,
+  "source_volume": 2,
+  "details": {
+    "num_chapters": 11,
+    "num_shlokas": 327
+  },
+  "note": "The first section within Aranyaka Parva is also called Aranyaka Parva, the word aranyaka having already been explained.",
+  "work_author": "@author",
+  "translator": "Bibek Debroy",
+  "frame_model": {
+    "min_frame": -1,
+    "frame_map": {
+      "-1": "@author",
+      "0": "@ugrasrava",
+      "1": "@vaishampayana",
+      "2": "@sanjaya"
+    }
+  },
+  "chapters": {
+    "298": {
+      "chapter_number": 298,
+      "global_number": 298,
+      "local_number": 1,
+      "num_shlokas": 42,
+      "file": "subparva_29_aranyaka_parva/chapter_298_tagged.json"
+    },
+    "299": {
+      "chapter_number": 299,
+      "global_number": 299,
+      "local_number": 2,
+      "num_shlokas": 79,
+      "file": "subparva_29_aranyaka_parva/chapter_299_tagged.json"
+    },
+    "300": {
+      "chapter_number": 300,
+      "global_number": 300,
+      "local_number": 3,
+      "num_shlokas": 33,
+      "file": "subparva_29_aranyaka_parva/chapter_300_tagged.json"
+    },
+    "301": {
+      "chapter_number": 301,
+      "global_number": 301,
+      "local_number": 4,
+      "num_shlokas": 10,
+      "file": "subparva_29_aranyaka_parva/chapter_301_tagged.json"
+    },
+    "302": {
+      "chapter_number": 302,
+      "global_number": 302,
+      "local_number": 5,
+      "num_shlokas": 20,
+      "file": "subparva_29_aranyaka_parva/chapter_302_tagged.json"
+    },
+    "303": {
+      "chapter_number": 303,
+      "global_number": 303,
+      "local_number": 6,
+      "num_shlokas": 22,
+      "file": "subparva_29_aranyaka_parva/chapter_303_tagged.json"
+    },
+    "304": {
+      "chapter_number": 304,
+      "global_number": 304,
+      "local_number": 7,
+      "num_shlokas": 24,
+      "file": "subparva_29_aranyaka_parva/chapter_304_tagged.json"
+    },
+    "305": {
+      "chapter_number": 305,
+      "global_number": 305,
+      "local_number": 8,
+      "num_shlokas": 23,
+      "file": "subparva_29_aranyaka_parva/chapter_305_tagged.json"
+    },
+    "306": {
+      "chapter_number": 306,
+      "global_number": 306,
+      "local_number": 9,
+      "num_shlokas": 12,
+      "file": "subparva_29_aranyaka_parva/chapter_306_tagged.json"
+    },
+    "307": {
+      "chapter_number": 307,
+      "global_number": 307,
+      "local_number": 10,
+      "num_shlokas": 23,
+      "file": "subparva_29_aranyaka_parva/chapter_307_tagged.json"
+    },
+    "308": {
+      "chapter_number": 308,
+      "global_number": 308,
+      "local_number": 11,
+      "num_shlokas": 39,
+      "file": "subparva_29_aranyaka_parva/chapter_308_tagged.json"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "_source": "BORI Critical Edition Sanskrit text in ITRANS 5.3 transliteration. Transliterated by Prof. Muneo Tokunaga; proofread by BORI team. Via sanskritdocuments.org.",
+  "parva_number": 17,
+  "name": "Mahaprasthanika Parva",
+  "file": "mbh17.itx",
+  "details": {
+    "num_subparvas": 3,
+    "num_chapters": 3,
+    "num_shlokas": 106
+  },
+  "subparvas": {
+    "1": {
+      "number": 1,
+      "name": "pANDavapravrajanam.h",
+      "start_chapter": 1,
+      "end_chapter": 1,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 44
+      },
+      "chapters": {
+        "1": {
+          "chapter_number": 1,
+          "local_number": 1,
+          "num_shlokas": 44,
+          "shlokas": {
+            "1": "janamejaya uvAcha||\nevaM vRRiShNyandhakakule shrutvA mausalamAhavam |\npANDavAH kimakurvanta tathA kRRiShNe divaM gate",
+            "2": "vaishampAyana uvAcha||\nshrutvaiva kauravo rAjA vRRiShNInAM kadanaM mahat |\nprasthAne matimAdhAya vAkyamarjunamabravIt",
+            "3": "kAlaH pachati bhUtAni sarvANyeva mahAmate |\nkarmanyAsamahaM manye tvamapi draShTumarhasi",
+            "4": "ityuktaH sa tu kaunteyaH kAlaH kAla iti bruvan |\nanvapadyata tadvAkyaM bhrAturjyeShThasya vIryavAn",
+            "5": "arjunasya mataM j~nAtvA bhImaseno yamau tathA |\nanvapadyanta tadvAkyaM yaduktaM savyasAchinA",
+            "6": "tato yuyutsumAnAyya pravrajandharmakAmyayA |\nrAjyaM paridadau sarvaM vaishyAputre yudhiShThiraH",
+            "7": "abhiShichya svarAjye tu taM rAjAnaM parikShitam |\nduHkhArtashchAbravIdrAjA subhadrAM pANDavAgrajaH",
+            "8": "eSha putrasya te putraH kururAjo bhaviShyati |\nyadUnAM parisheShashcha vajro rAjA kRRitashcha ha",
+            "9": "parikShiddhAstinapure shakraprasthe tu yAdavaH |\nvajro rAjA tvayA rakShyo mA chAdharme manaH kRRithAH",
+            "10": "ityuktvA dharmarAjaH sa vAsudevasya dhImataH |\nmAtulasya cha vRRiddhasya rAmAdInAM tathaiva cha",
+            "11": "mAtRRibhiH saha dharmAtmA kRRitvodakamatandritaH |\nshrAddhAnyuddishya sarveShAM chakAra vidhivattadA",
+            "12": "dadau ratnAni vAsA.nsi grAmAnashvAnrathAnapi |\nstriyashcha dvijamukhyebhyo gavAM shatasahasrashaH",
+            "13": "kRRipamabhyarchya cha gurumarthamAnapuraskRRitam |\nshiShyaM parikShitaM tasmai dadau bharatasattamaH",
+            "14": "tatastu prakRRitIH sarvAH samAnAyya yudhiShThiraH |\nsarvamAchaShTa rAjarShishchikIrShitamathAtmanaH",
+            "15": "te shrutvaiva vachastasya paurajAnapadA janAH |\nbhRRishamudvignamanaso nAbhyanandanta tadvachaH",
+            "16": "naivaM kartavyamiti te tadochuste narAdhipam |\nna cha rAjA tathAkArShItkAlaparyAyadharmavit",
+            "17": "tato.anumAnya dharmAtmA paurajAnapadaM janam |\ngamanAya matiM chakre bhrAtarashchAsya te tadA",
+            "18": "tataH sa rAjA kauravyo dharmaputro yudhiShThiraH |\nutsRRijyAbharaNAnya~NgAjjagRRihe valkalAnyuta",
+            "19": "bhImArjunau yamau chaiva draupadI cha yashasvinI |\ntathaiva sarve jagRRihurvalkalAni janAdhipa",
+            "20": "vidhivatkArayitveShTiM naiShThikIM bharatarShabha |\nsamutsRRijyApsu sarve.agnInpratasthurnarapu~NgavAH",
+            "21": "tataH praruruduH sarvAH striyo dRRiShTvA nararShabhAn |\nprasthitAndraupadIShaShThAnpurA dyUtajitAnyathA",
+            "22": "harSho.abhavachcha sarveShAM bhrAtR^INAM gamanaM prati |\nyudhiShThiramataM j~nAtvA vRRiShNikShayamavekShya cha",
+            "23": "bhrAtaraH pa~ncha kRRiShNA cha ShaShThI shvA chaiva saptamaH |\nAtmanA saptamo rAjA niryayau gajasAhvayAt\npaurairanugato dUraM sarvairantaHpuraistathA",
+            "24": "na chainamashakatkashchinnivartasveti bhAShitum |\nnyavartanta tataH sarve narA nagaravAsinaH",
+            "25": "kRRipaprabhRRitayashchaiva yuyutsuM paryavArayan |\nvivesha ga~NgAM kauravya ulUpI bhujagAtmajA",
+            "26": "chitrA~NgadA yayau chApi maNipUrapuraM prati |\nshiShTAH parikShitaM tvanyA mAtaraH paryavArayan",
+            "27": "pANDavAshcha mahAtmAno draupadI cha yashasvinI |\nkRRitopavAsAH kauravya prayayuH prA~NmukhAstataH",
+            "28": "yogayuktA mahAtmAnastyAgadharmamupeyuShaH |\nabhijagmurbahUndeshAnsaritaH parvatA.nstathA",
+            "29": "yudhiShThiro yayAvagre bhImastu tadanantaram |\narjunastasya chAnveva yamau chaiva yathAkramam",
+            "30": "pRRiShThatastu varArohA shyAmA padmadalekShaNA |\ndraupadI yoShitAM shreShThA yayau bharatasattama",
+            "31": "shvA chaivAnuyayAvekaH pANDavAnprasthitAnvane |\nkrameNa te yayurvIrA lauhityaM salilArNavam",
+            "32": "gANDIvaM cha dhanurdivyaM na mumocha dhana~njayaH |\nratnalobhAnmahArAja tau chAkShayyau maheShudhI",
+            "33": "agniM te dadRRishustatra sthitaM shailamivAgrataH |\nmArgamAvRRitya tiShThantaM sAkShAtpuruShavigraham",
+            "34": "tato devaH sa saptArchiH pANDavAnidamabravIt |\nbho bho pANDusutA vIrAH pAvakaM mAM vibodhata",
+            "35": "yudhiShThira mahAbAho bhImasena parantapa |\narjunAshvisutau vIrau nibodhata vacho mama",
+            "36": "ahamagniH kurushreShThA mayA dagdhaM cha khANDavam |\narjunasya prabhAveNa tathA nArAyaNasya cha",
+            "37": "ayaM vaH phalguno bhrAtA gANDIvaM paramAyudham |\nparityajya vanaM yAtu nAnenArtho.asti kashchana",
+            "38": "chakraratnaM tu yatkRRiShNe sthitamAsInmahAtmani |\ngataM tachcha punarhaste kAlenaiShyati tasya ha",
+            "39": "varuNAdAhRRitaM pUrvaM mayaitatpArthakAraNAt |\ngANDIvaM kArmukashreShThaM varuNAyaiva dIyatAm",
+            "40": "tataste bhrAtaraH sarve dhana~njayamachodayan |\nsa jale prAkShipattattu tathAkShayyau maheShudhI",
+            "41": "tato.agnirbharatashreShTha tatraivAntaradhIyata |\nyayushcha pANDavA vIrAstataste dakShiNAmukhAH",
+            "42": "tataste tUttareNaiva tIreNa lavaNAmbhasaH |\njagmurbharatashArdUla dishaM dakShiNapashchimam",
+            "43": "tataH punaH samAvRRittAH pashchimAM dishameva te |\ndadRRishurdvArakAM chApi sAgareNa pariplutAm",
+            "44": "udIchIM punarAvRRittya yayurbharatasattamAH |\nprAdakShiNyaM chikIrShantaH pRRithivyA yogadharmiNaH"
+          }
+        }
+      }
+    },
+    "2": {
+      "number": 2,
+      "name": "bhImAdipatanam.h",
+      "start_chapter": 2,
+      "end_chapter": 2,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 26
+      },
+      "chapters": {
+        "2": {
+          "chapter_number": 2,
+          "local_number": 1,
+          "num_shlokas": 26,
+          "shlokas": {
+            "1": "vaishampAyana uvAcha||\ntataste niyatAtmAna udIchIM dishamAsthitAH |\ndadRRishuryogayuktAshcha himavantaM mahAgirim",
+            "2": "taM chApyatikramantaste dadRRishurvAlukArNavam |\navaikShanta mahAshailaM meruM shikhariNAM varam",
+            "3": "teShAM tu gachChatAM shIghraM sarveShAM yogadharmiNAm |\nyAj~nasenI bhraShTayogA nipapAta mahItale",
+            "4": "tAM tu prapatitAM dRRiShTvA bhImaseno mahAbalaH |\nuvAcha dharmarAjAnaM yAj~nasenImavekShya ha",
+            "5": "nAdharmashcharitaH kashchidrAjaputryA parantapa |\nkAraNaM kiM nu tadrAjanyatkRRiShNA patitA bhuvi",
+            "6": "yudhiShThira uvAcha||\npakShapAto mahAnasyA visheSheNa dhana~njaye |\ntasyaitatphalamadyaiShA bhu~Nkte puruShasattama",
+            "7": "vaishampAyana uvAcha||\nevamuktvAnavekShyainAM yayau dharmasuto nRRipaH |\nsamAdhAya mano dhImAndharmAtmA puruSharShabhaH",
+            "8": "sahadevastato dhImAnnipapAta mahItale |\ntaM chApi patitaM dRRiShTvA bhImo rAjAnamabravIt",
+            "9": "yo.ayamasmAsu sarveShu shushrUShuranaha~NkRRitaH |\nso.ayaM mAdravatIputraH kasmAnnipatito bhuvi",
+            "10": "yudhiShThira uvAcha||\nAtmanaH sadRRishaM prAj~naM naiSho.amanyata ka~nchana |\ntena doSheNa patitastasmAdeSha nRRipAtmajaH",
+            "11": "vaishampAyana uvAcha||\nityuktvA tu samutsRRijya sahadevaM yayau tadA |\nbhrAtRRibhiH saha kaunteyaH shunA chaiva yudhiShThiraH",
+            "12": "kRRiShNAM nipatitAM dRRiShTvA sahadevaM cha pANDavam |\nArto bandhupriyaH shUro nakulo nipapAta ha",
+            "13": "tasminnipatite vIre nakule chArudarshane |\npunareva tadA bhImo rAjAnamidamabravIt",
+            "14": "yo.ayamakShatadharmAtmA bhrAtA vachanakArakaH |\nrUpeNApratimo loke nakulaH patito bhuvi",
+            "15": "ityukto bhImasenena pratyuvAcha yudhiShThiraH |\nnakulaM prati dharmAtmA sarvabuddhimatAM varaH",
+            "16": "rUpeNa matsamo nAsti kashchidityasya darshanam |\nadhikashchAhamevaika ityasya manasi sthitam",
+            "17": "nakulaH patitastasmAdAgachCha tvaM vRRikodara |\nyasya yadvihitaM vIra so.avashyaM tadupAshnute",
+            "18": "tA.nstu prapatitAndRRiShTvA pANDavaH shvetavAhanaH |\npapAta shokasantaptastato.anu paravIrahA",
+            "19": "tasmi.nstu puruShavyAghre patite shakratejasi |\nmriyamANe durAdharShe bhImo rAjAnamabravIt",
+            "20": "anRRitaM na smarAmyasya svaireShvapi mahAtmanaH |\natha kasya vikAro.ayaM yenAyaM patito bhuvi",
+            "21": "yudhiShThira uvAcha||\nekAhnA nirdaheyaM vai shatrUnityarjuno.abravIt |\nna cha tatkRRitavAneSha shUramAnI tato.apatat",
+            "22": "avamene dhanurgrAhAneSha sarvA.nshcha phalgunaH |\nyathA choktaM tathA chaiva kartavyaM bhUtimichChatA",
+            "23": "vaishampAyana uvAcha||\nityuktvA prasthito rAjA bhImo.atha nipapAta ha |\npatitashchAbravIdbhImo dharmarAjaM yudhiShThiram",
+            "24": "bho bho rAjannavekShasva patito.ahaM priyastava |\nkiMnimittaM cha patanaM brUhi me yadi vettha ha",
+            "25": "yudhiShThira uvAcha||\natibhuktaM cha bhavatA prANena cha vikatthase |\nanavekShya paraM pArtha tenAsi patitaH kShitau",
+            "26": "vaishampAyana uvAcha||\nityuktvA taM mahAbAhurjagAmAnavalokayan |\nshvA tveko.anuyayau yaste bahushaH kIrtito mayA"
+          }
+        }
+      }
+    },
+    "3": {
+      "number": 3,
+      "name": "indrayudhiShThirasa.nvAdaH",
+      "start_chapter": 3,
+      "end_chapter": 3,
+      "details": {
+        "num_chapters": 1,
+        "num_shlokas": 36
+      },
+      "chapters": {
+        "3": {
+          "chapter_number": 3,
+          "local_number": 1,
+          "num_shlokas": 36,
+          "shlokas": {
+            "1": "vaishampAyana uvAcha||\ntataH saMnAdaya~nshakro divaM bhUmiM cha sarvashaH |\nrathenopayayau pArthamArohetyabravIchcha tam",
+            "2": "sa bhrAtR^InpatitAndRRiShTvA dharmarAjo yudhiShThiraH |\nabravIchChokasantaptaH sahasrAkShamidaM vachaH",
+            "3": "bhrAtaraH patitA me.atra AgachCheyurmayA saha |\nna vinA bhrAtRRibhiH svargamichChe gantuM sureshvara",
+            "4": "sukumArI sukhArhA cha rAjaputrI pura.ndara |\nsAsmAbhiH saha gachCheta tadbhavAnanumanyatAm",
+            "5": "indra uvAcha||\nbhrAtR^IndrakShyasi putrA.nstvamagratastridivaM gatAn |\nkRRiShNayA sahitAnsarvAnmA shucho bharatarShabha",
+            "6": "nikShipya mAnuShaM dehaM gatAste bharatarShabha |\nanena tvaM sharIreNa svargaM gantA na sa.nshayaH",
+            "7": "yudhiShThira uvAcha||\nayaM shvA bhUtabhavyesha bhakto mAM nityameva ha |\nsa gachCheta mayA sArdhamAnRRisha.nsyA hi me matiH",
+            "8": "indra uvAcha||\namartyatvaM matsamatvaM cha rAja;~nshriyaM kRRitsnAM mahatIM chaiva kIrtim |\nsamprApto.adya svargasukhAni cha tvaM; tyaja shvAnaM nAtra nRRisha.nsamasti",
+            "9": "yudhiShThira uvAcha||\nanAryamAryeNa sahasranetra; shakyaM kartuM duShkarametadArya |\nmA me shriyA sa~NgamanaM tayAstu; yasyAH kRRite bhaktajanaM tyajeyam",
+            "10": "indra uvAcha||\nsvarge loke shvavatAM nAsti dhiShNya;miShTApUrtaM krodhavashA haranti |\ntato vichArya kriyatAM dharmarAja; tyaja shvAnaM nAtra nRRisha.nsamasti",
+            "11": "yudhiShThira uvAcha||\nbhaktatyAgaM prAhuratyantapApaM; tulyaM loke brahmavadhyAkRRitena |\ntasmAnnAhaM jAtu katha~nchanAdya; tyakShyAmyenaM svasukhArthI mahendra",
+            "12": "indra uvAcha||\nshunA dRRiShTaM krodhavashA haranti; yaddattamiShTaM vivRRitamatho hutaM cha |\ntasmAchChunastyAgamimaM kuruShva; shunastyAgAtprApsyase devalokam",
+            "13": "tyaktvA bhrAtR^IndayitAM chApi kRRiShNAM; prApto lokaH karmaNA svena vIra |\nshvAnaM chainaM na tyajase kathaM nu; tyAgaM kRRitsnaM chAsthito muhyase.adya",
+            "14": "yudhiShThira uvAcha||\nna vidyate sandhirathApi vigraho; mRRitairmartyairiti lokeShu niShThA |\nna te mayA jIvayituM hi shakyA; tasmAttyAgasteShu kRRito na jIvatAm",
+            "15": "pratipradAnaM sharaNAgatasya; striyA vadho brAhmaNasvApahAraH |\nmitradrohastAni chatvAri shakra; bhaktatyAgashchaiva samo mato me",
+            "16": "vaishampAyana uvAcha||\ntaddharmarAjasya vacho nishamya; dharmasvarUpI bhagavAnuvAcha |\nyudhiShThiraM prItiyukto narendraM; shlakShNairvAkyaiH sa.nstavasamprayuktaiH",
+            "17": "abhijAto.asi rAjendra piturvRRittena medhayA |\nanukroshena chAnena sarvabhUteShu bhArata",
+            "18": "purA dvaitavane chAsi mayA putra parIkShitaH |\npAnIyArthe parAkrAntA yatra te bhrAtaro hatAH",
+            "19": "bhImArjunau parityajya yatra tvaM bhrAtarAvubhau |\nmAtroH sAmyamabhIpsanvai nakulaM jIvamichChasi",
+            "20": "ayaM shvA bhakta ityeva tyakto devarathastvayA |\ntasmAtsvarge na te tulyaH kashchidasti narAdhipa",
+            "21": "atastavAkShayA lokAH svasharIreNa bhArata |\nprApto.asi bharatashreShTha divyAM gatimanuttamAm",
+            "22": "tato dharmashcha shakrashcha marutashchAshvinAvapi |\ndevA devarShayashchaiva rathamAropya pANDavam",
+            "23": "prayayuH svairvimAnaiste siddhAH kAmavihAriNaH |\nsarve virajasaH puNyAH puNyavAgbuddhikarmiNaH",
+            "24": "sa taM rathaM samAsthAya rAjA kurukulodvahaH |\nUrdhvamAchakrame shIghraM tejasAvRRitya rodasI",
+            "25": "tato devanikAyastho nAradaH sarvalokavit |\nuvAchochchaistadA vAkyaM bRRihadvAdI bRRihattapAH",
+            "26": "ye.api rAjarShayaH sarve te chApi samupasthitAH |\nkIrtiM prachChAdya teShAM vai kururAjo.adhitiShThati",
+            "27": "lokAnAvRRitya yashasA tejasA vRRittasampadA |\nsvasharIreNa samprAptaM nAnyaM shushruma pANDavAt",
+            "28": "nAradasya vachaH shrutvA rAjA vachanamabravIt |\ndevAnAmantrya dharmAtmA svapakShA.nshchaiva pArthivAn",
+            "29": "shubhaM vA yadi vA pApaM bhrAtR^INAM sthAnamadya me |\ntadeva prAptumichChAmi lokAnanyAnna kAmaye",
+            "30": "rAj~nastu vachanaM shrutvA devarAjaH pura.ndaraH |\nAnRRisha.nsyasamAyuktaM pratyuvAcha yudhiShThiram",
+            "31": "sthAne.asminvasa rAjendra karmabhirnirjite shubhaiH |\nkiM tvaM mAnuShyakaM snehamadyApi parikarShasi",
+            "32": "siddhiM prApto.asi paramAM yathA nAnyaH pumAnkvachit |\nnaiva te bhrAtaraH sthAnaM samprAptAH kurunandana",
+            "33": "adyApi mAnuSho bhAvaH spRRishate tvAM narAdhipa |\nsvargo.ayaM pashya devarShInsiddhA.nshcha tridivAlayAn",
+            "34": "yudhiShThirastu devendrameva.nvAdinamIshvaram |\npunarevAbravIddhImAnidaM vachanamarthavat",
+            "35": "tairvinA notsahe vastumiha daityanibarhaNa |\ngantumichChAmi tatrAhaM yatra me bhrAtaro gatAH",
+            "36": "yatra sA bRRihatI shyAmA buddhisattvaguNAnvitA |\ndraupadI yoShitAM shreShThA yatra chaiva priyA mama"
+          }
+        }
+      }
+    }
+  }
+}

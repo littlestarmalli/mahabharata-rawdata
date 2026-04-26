@@ -1,0 +1,379 @@
+{
+  "chapter": 277,
+  "local": 52,
+  "shlokas": 37,
+  "paragraphs": [
+    {
+      "p": 1,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘On King Dhritarashtra's forceful command, Vidura started off towards the wise Pandavas, on horses that were noble and strong, trained well and possessing great speed. He proceeded swiftly and came to the king's{116} city and after being worshipped by the brahmanas, the immensely intelligent one entered. The palace was like Kubera's abode and the one with dharma in his heart{117} went to Dharmaputra Yudhishthira. Ajatashatru, the great-souled king who was always devoted to the truth, welcomed Vidura with due homage and worship and then asked about the welfare of Dhritarashtra and his sons.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘On King Dhritarashtra's forceful command, Vidura started off towards the wise Pandavas, on horses that were noble and strong, trained well and possessing great speed. He proceeded swiftly and came to the king's{116} city and after being worshipped by the brahmanas, the immensely intelligent one entered. The palace was like Kubera's abode and the one with dharma in his heart{117} went to Dharmaputra Yudhishthira. Ajatashatru, the great-souled king who was always devoted to the truth, welcomed Vidura with due homage and worship and then asked about the welfare of Dhritarashtra and his sons.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “O Kshatta! I do not see your mind to be happy. I hope everything is well. Are the sons{118} obedient to their elders? Are the commoners obedient to his rule?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kshatta! I do not see your mind to be happy. I hope everything is well. Are the sons{118} obedient to their elders? Are the commoners obedient to his rule?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vidura replied, “The great-souled king is well with his sons. Surrounded by his kin, he rules like Indra. O king! Surrounded by his sons who are obedient, he is content. He is without worries and is ﬁrm in the desires of his own heart. The king of the Kurus has ﬁrst asked me to enquire about your health and welfare and then say, ‘I have built a sabha that matches yours. O son! Please come with your brothers and see it. O Partha! Assemble there with your brother and have a game of dice with your well-wishers. We will be delighted at your arrival and so will all the Kurus who are assembled there.’ The great-souled King Dhritarashtra has assembled gamblers there{119}. You will see the rogues{120} assembled there. I have come here for this. O king! Agree.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vidura replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vidura",
+          "introduces_label": "Vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“The great-souled king is well with his sons. Surrounded by his kin, he rules like Indra. O king! Surrounded by his sons who are obedient, he is content. He is without worries and is ﬁrm in the desires of his own heart. The king of the Kurus has ﬁrst asked me to enquire about your health and welfare and then say, ",
+          "speaker": "@vidura",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 3,
+          "text": "‘I have built a sabha that matches yours. O son! Please come with your brothers and see it. O Partha! Assemble there with your brother and have a game of dice with your well-wishers. We will be delighted at your arrival and so will all the Kurus who are assembled there.’",
+          "speaker": "@vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": " The great-souled King Dhritarashtra has assembled gamblers there{119}. You will see the rogues{120} assembled there. I have come here for this. O king! Agree.”",
+          "speaker": "@vidura",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “O Kshatta! Gambling can produce quarrels. Knowing this, which intelligent one will consent to gambling? What do you think is the right course of action for us? We are always obedient to your words.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O Kshatta! Gambling can produce quarrels. Knowing this, which intelligent one will consent to gambling? What do you think is the right course of action for us? We are always obedient to your words.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 5,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vidura replied, “I know that gambling is the root of all misery. I made every effort to restrain him. However, the king has sent me to you. O wise one! Knowing this, do what is best.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vidura replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vidura",
+          "introduces_label": "Vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“I know that gambling is the root of all misery. I made every effort to restrain him. However, the king has sent me to you. O wise one! Knowing this, do what is best.”",
+          "speaker": "@vidura",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 6,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira asked, “Other than the sons of King Dhritarashtra, who are the other rogues{121} who are there to play? O Vidura! I am asking you. Tell me. Who are the hundreds with whom one will have to play?”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira asked, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Other than the sons of King Dhritarashtra, who are the other rogues{121} who are there to play? O Vidura! I am asking you. Tell me. Who are the hundreds with whom one will have to play?”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 7,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Vidura replied, “O lord of the earth! There is Shakuni, king of Gandhara. That king is eager to play, has a skilled hand and knows the nature of the dice. There are Vivimshati, King Chitrasena, Satyavrata, Purumitra and Jaya.”",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Vidura replied, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@vidura",
+          "introduces_label": "Vidura",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“O lord of the earth! There is Shakuni, king of Gandhara. That king is eager to play, has a skilled hand and knows the nature of the dice. There are Vivimshati, King Chitrasena, Satyavrata, Purumitra and Jaya.”",
+          "speaker": "@vidura",
+          "alignment": "right",
+          "conversation": "replied",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Yudhishthira said, “It seems that some of the most feared rogues{122} have assembled there. They are sure to play with the powers of maya. However, everything is under the control of the creator. I will not refuse to play with those rogues. O Vidura! I do not wish to go and gamble on King Dhritarashtra's command. A father always has a son's welfare in mind. Therefore, tell me what I should do{123}. I have no desire to gamble with Shakuni. But if the conﬁdent{124} one challenges me in the sabha, I will never refuse, because that has been my eternal vow.”’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Yudhishthira said, ",
+          "speaker": "@vaishampayana",
+          "introduces": "@yudhishthira",
+          "introduces_label": "Yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“It seems that some of the most feared rogues{122} have assembled there. They are sure to play with the powers of maya. However, everything is under the control of the creator. I will not refuse to play with those rogues. O Vidura! I do not wish to go and gamble on King Dhritarashtra's command. A father always has a son's welfare in mind. Therefore, tell me what I should do{123}. I have no desire to gamble with Shakuni. But if the conﬁdent{124} one challenges me in the sabha, I will never refuse, because that has been my eternal vow.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 9,
+      "depth": 0,
+      "stack": [],
+      "text": "Vaishampayana said, ‘Having thus spoken to Vidura, Dharmaraja instructed that all the arrangements for the journey should quickly be made. Next day, he set out with his army and his attendants, and with the honoured Droupadi and other women of the household. “Destiny robs us of reason, like a glare falling before the eye{125}. As if tied in a noose, man follows the will of the creator.” Uttering these words, King Yudhishthira set out with Kshatta. Partha, the destroyer of enemies, could not ignore the summons. He ascended the chariot given by Bahlika. Partha Pandava, the destroyer of enemies, dressed in royal garments, left with his brothers. Brahmanas walked ahead of him and his regal prosperity blazed. He was summoned by Dhritarashtra in accordance with what has been decreed by destiny.",
+      "segments": [
+        {
+          "type": "narration",
+          "depth": 0,
+          "text": "Vaishampayana said, ",
+          "speaker": "@ugrasrava",
+          "introduces": "@vaishampayana",
+          "introduces_label": "Vaishampayana",
+          "alignment": "center",
+          "conversation": "narration",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Having thus spoken to Vidura, Dharmaraja instructed that all the arrangements for the journey should quickly be made. Next day, he set out with his army and his attendants, and with the honoured Droupadi and other women of the household. ",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        },
+        {
+          "type": "speech",
+          "q": "\"",
+          "depth": 2,
+          "text": "“Destiny robs us of reason, like a glare falling before the eye{125}. As if tied in a noose, man follows the will of the creator.”",
+          "speaker": "@yudhishthira",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": false
+        },
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": " Uttering these words, King Yudhishthira set out with Kshatta. Partha, the destroyer of enemies, could not ignore the summons. He ascended the chariot given by Bahlika. Partha Pandava, the destroyer of enemies, dressed in royal garments, left with his brothers. Brahmanas walked ahead of him and his regal prosperity blazed. He was summoned by Dhritarashtra in accordance with what has been decreed by destiny.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 10,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘Arriving in Hastinapura, he went to Dhritarashtra's palace. Pandava, the one with dharma in his heart, met Dhritarashtra and Drona, Bhishma, Karna and Kripa. As is proper, the lord also met Drona's son{126}. The mightyarmed one then met Somadatta, Duryodhana, Shalya, the valorous Soubala and all the other kings who had assembled there before him, and Jayadratha and all the other Kurus. Surrounded by his brothers, the mighty-armed one then entered the abode of the immensely wise King Dhritarashtra and met there Queen Gandhari, who was always devoted to her husband. She was surrounded by her daughters-in-law, like Rohini{127} by the stars. After showing homage to Gandhari and being welcomed by her in return, he saw his aged father{128}, the wise lord whose eyesight was his knowledge{129}. O king! The king inhaled the fragrances of the heads{130} of the descendants{131} of the Kuru lineage and of the four Pandavas{132}, led by Bhimasena. O lord of the earth! On seeing the handsome Pandavas, tigers among men, all the Kouravas were extremely delighted. Taking their leave, the Pandavas entered their houses, full of jewels. The women came to see them, Droupadi at their forefront. On witnessing Yajnasena's{133} blazing prosperity, Dhritarashtra's daughters-in-law were not enthused.",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘Arriving in Hastinapura, he went to Dhritarashtra's palace. Pandava, the one with dharma in his heart, met Dhritarashtra and Drona, Bhishma, Karna and Kripa. As is proper, the lord also met Drona's son{126}. The mightyarmed one then met Somadatta, Duryodhana, Shalya, the valorous Soubala and all the other kings who had assembled there before him, and Jayadratha and all the other Kurus. Surrounded by his brothers, the mighty-armed one then entered the abode of the immensely wise King Dhritarashtra and met there Queen Gandhari, who was always devoted to her husband. She was surrounded by her daughters-in-law, like Rohini{127} by the stars. After showing homage to Gandhari and being welcomed by her in return, he saw his aged father{128}, the wise lord whose eyesight was his knowledge{129}. O king! The king inhaled the fragrances of the heads{130} of the descendants{131} of the Kuru lineage and of the four Pandavas{132}, led by Bhimasena. O lord of the earth! On seeing the handsome Pandavas, tigers among men, all the Kouravas were extremely delighted. Taking their leave, the Pandavas entered their houses, full of jewels. The women came to see them, Droupadi at their forefront. On witnessing Yajnasena's{133} blazing prosperity, Dhritarashtra's daughters-in-law were not enthused.",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    },
+    {
+      "p": 11,
+      "depth": 1,
+      "stack": [
+        "'"
+      ],
+      "text": "‘After having conversed with the women, the tigers among men went out. They performed physical exercises and the due rituals. After the daily rituals were over, they covered themselves all over with divine sandalwood. When their minds were pure, the brahmanas pronounced benedictions on them. Having eaten the best of food, they retired to their sleeping quarters. Women sung to them and the descendants of the Kurus went to sleep. They spent the pleasant night in sexual pursuits. After resting for some time, they discarded their sleep{134} to the sound of praises of bards. Having happily slept during the night, they performed all the daily rites in the morning and entered the beautiful sabha, crowded by rogues{135}.’",
+      "segments": [
+        {
+          "type": "speech",
+          "q": "'",
+          "depth": 1,
+          "text": "‘After having conversed with the women, the tigers among men went out. They performed physical exercises and the due rituals. After the daily rituals were over, they covered themselves all over with divine sandalwood. When their minds were pure, the brahmanas pronounced benedictions on them. Having eaten the best of food, they retired to their sleeping quarters. Women sung to them and the descendants of the Kurus went to sleep. They spent the pleasant night in sexual pursuits. After resting for some time, they discarded their sleep{134} to the sound of praises of bards. Having happily slept during the night, they performed all the daily rites in the morning and entered the beautiful sabha, crowded by rogues{135}.’",
+          "speaker": "@vaishampayana",
+          "alignment": "left",
+          "conversation": "said",
+          "speaker_confirmed": true
+        }
+      ]
+    }
+  ]
+}
